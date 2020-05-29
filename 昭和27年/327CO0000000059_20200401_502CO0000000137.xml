@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="59" Year="27">
+<Law DataInfo="200508e01k01m02" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="59" Year="27">
   <LawNum>昭和二十七年政令第五十九号</LawNum>
   <LawBody>
     <LawTitle>国土調査法施行令</LawTitle>
@@ -483,7 +483,7 @@
                   <Sentence>主として宅地が占める地域及びその周辺の地域</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>五百分の一（国土交通大臣が特に必要があると認める場合には、二百五十分の一）</Sentence>
+                  <Sentence>二百五十分の一又は五百分の一</Sentence>
                 </Column>
               </ListSentence>
             </List>
@@ -493,7 +493,7 @@
                   <Sentence>主として田、畑又は塩田が占める地域及びその周辺の地域</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>千分の一（国土交通大臣が特に必要があると認める場合には、五百分の一又は二千五百分の一）</Sentence>
+                  <Sentence>五百分の一、千分の一又は二千五百分の一</Sentence>
                 </Column>
               </ListSentence>
             </List>
@@ -503,7 +503,7 @@
                   <Sentence>主として山林、牧場又は原野が占める地域及びその周辺の地域</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>二千五百分の一又は五千分の一</Sentence>
+                  <Sentence>千分の一、二千五百分の一又は五千分の一</Sentence>
                 </Column>
               </ListSentence>
             </List>
@@ -829,6 +829,12 @@
               <Sentence>調査期間</Sentence>
             </ItemSentence>
           </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>第一号の調査地域の特性に応じた効率的な調査方法（次条第六号において「効率的調査方法」という。）の導入に関する方針</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
@@ -878,6 +884,12 @@
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
+              <Sentence>導入する効率的調査方法の内容（効率的調査方法の導入が困難であるときは、その旨及びその理由）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
               <Sentence>第十四条各号に掲げる作業に要する費用の総額</Sentence>
             </ItemSentence>
           </Item>
@@ -889,7 +901,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>都道府県は、法第六条の三第三項の規定により国土交通大臣に協議を申し出ようとするときは、作業別の実施計画、前条第六号の費用の総額の算出の基礎その他国土交通省令で定める事項を記載した書類を添付してするものとする。</Sentence>
+            <Sentence>都道府県は、法第六条の三第三項の規定により国土交通大臣に協議を申し出ようとするときは、作業別の実施計画、前条第七号の費用の総額の算出の基礎その他国土交通省令で定める事項を記載した書類を添付してするものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1214,6 +1226,12 @@
               <Sentence>第二号の地図及び簿冊に存する測量又は調査上の誤差の程度</Sentence>
             </ItemSentence>
           </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第十九条第六項の規定により国土調査を行う者が申請する場合にあつては、当該国土調査を行う者の名称</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
@@ -1224,7 +1242,13 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第十七条の規定は、法第十九条第六項の規定により事業所管大臣が国土交通大臣の承認を得る場合について準用する。</Sentence>
+            <Sentence>法第十九条第六項の規定により国土調査を行う者が同条第五項の規定による認証の申請を行うときは、前項に規定するもののほか、同条第六項後段の同意を得たことを証する書類を添えなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第十七条の規定は、法第十九条第七項の規定により事業所管大臣が国土交通大臣の承認を得る場合について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1234,7 +1258,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国土交通大臣又は事業所管大臣は、法第十九条第五項の規定により国土調査以外の測量及び調査の結果作成された地図及び簿冊を同条第二項の規定によつて認証された国土調査の成果と同一の効果があるものとして指定した場合においては、遅滞なく、官報により、その旨を公告しなければならない。</Sentence>
+            <Sentence>法第十九条第八項の規定による公告は、官報によりしなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1612,6 +1636,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一　座標系の区分等</AppdxTableTitle>
@@ -2354,7 +2387,7 @@
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27SE059_2002141602_001.pdf"/>
+          <Fig src="./pict/S27SE059_2005191105_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
