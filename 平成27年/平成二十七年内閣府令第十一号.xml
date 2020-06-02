@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="011" Year="27">
+<Law DataInfo="200601e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="011" Year="27">
   <LawNum>平成二十七年内閣府令第十一号</LawNum>
   <LawBody>
     <LawTitle>食品表示法第六条第八項に規定するアレルゲン、消費期限、食品を安全に摂取するために加熱を要するかどうかの別その他の食品を摂取する際の安全性に重要な影響を及ぼす事項等を定める内閣府令</LawTitle>
@@ -46,17 +46,23 @@
           <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定保健用食品（健康増進法に規定する特別用途表示の許可等に関する内閣府令（平成二十一年内閣府令第五十七号）第二条第一項第五号に規定する食品（容器包装に入れられたものに限る。）をいう。第五条第一項第九号及び第二項第二号において同じ。）を摂取をする上での注意事項</Sentence>
+              <Sentence WritingMode="vertical">指定成分等含有食品（食品衛生法（昭和二十二年法律第二百三十三号）第八条第一項に規定する指定成分等含有食品をいう。以下同じ。）に関する事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">機能性表示食品（食品表示基準（平成二十七年内閣府令第十号）第二条第一項第十号に規定する機能性表示食品をいう。第五条第一項第十号及び第二項第三号において同じ。）を摂取をする上での注意事項</Sentence>
+              <Sentence WritingMode="vertical">特定保健用食品（健康増進法に規定する特別用途表示の許可等に関する内閣府令（平成二十一年内閣府令第五十七号）第二条第一項第五号に規定する食品（容器包装（食品衛生法第四条第五項に規定する容器包装をいう。以下同じ。）に入れられたものに限る。）をいう。以下同じ。）を摂取をする上での注意事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="8">
             <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">機能性表示食品（食品表示基準（平成二十七年内閣府令第十号）第二条第一項第十号に規定する機能性表示食品をいう。以下同じ。）を摂取をする上での注意事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="9">
+            <ItemTitle>九</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">次に掲げる食品にあっては、食品表示基準別表第十九の当該食品の項の中欄に掲げる表示事項のうちそれぞれ次に定めるもの</Sentence>
             </ItemSentence>
@@ -75,7 +81,7 @@
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">食肉製品（食品衛生法施行令（昭和二十八年政令第二百二十九号）第一条第一項第四号に掲げるものに限る。）</Sentence>
+                  <Sentence WritingMode="vertical">食肉製品（食品衛生法施行令（昭和二十八年政令第二百二十九号）第十三条に規定するものに限る。）</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
                   <Sentence WritingMode="vertical">非加熱食肉製品である旨（非加熱食肉製品（食肉を塩漬けした後、くん煙し、又は乾燥させ、かつ、その中心部の温度を摂氏六十三度で三十分間加熱する方法又はこれと同等以上の効力を有する方法による加熱殺菌を行っていない食肉製品であって、非加熱食肉製品として販売するものをいう。ただし、乾燥食肉製品を除く。）に限る。）</Sentence>
@@ -150,8 +156,8 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
-          <Item Delete="false" Hide="false" Num="9">
-            <ItemTitle>九</ItemTitle>
+          <Item Delete="false" Hide="false" Num="10">
+            <ItemTitle>十</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">次に掲げる食品にあっては、食品表示基準別表第十九の当該食品の項の中欄に掲げる表示事項</Sentence>
             </ItemSentence>
@@ -164,18 +170,18 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">容器包装（食品衛生法（昭和二十二年法律第二百三十三号）第四条第五項に規定する容器包装をいう。以下同じ。）に密封された常温で流通する食品（清涼飲料水、食肉製品、鯨肉製品及び魚肉練り製品を除く。）のうち、水素イオン指数が四・六を超え、かつ、水分活性が〇・九四を超え、かつ、その中心部の温度を摂氏百二十度で四分間に満たない条件で加熱殺菌されたものであって、ボツリヌス菌を原因とする食中毒の発生を防止するために摂氏十度以下での保存を要するもの</Sentence>
+                <Sentence WritingMode="vertical">容器包装に密封された常温で流通する食品（清涼飲料水、食肉製品、鯨肉製品及び魚肉練り製品を除く。）のうち、水素イオン指数が四・六を超え、かつ、水分活性が〇・九四を超え、かつ、その中心部の温度を摂氏百二十度で四分間に満たない条件で加熱殺菌されたものであって、ボツリヌス菌を原因とする食中毒の発生を防止するために摂氏十度以下での保存を要するもの</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
-          <Item Delete="false" Hide="false" Num="10">
-            <ItemTitle>十</ItemTitle>
+          <Item Delete="false" Hide="false" Num="11">
+            <ItemTitle>十一</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">栄養機能食品（食品表示基準第二条第一項第十一号に規定する栄養機能食品をいう。）を摂取をする上での注意事項</Sentence>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="11">
-            <ItemTitle>十一</ItemTitle>
+          <Item Delete="false" Hide="false" Num="12">
+            <ItemTitle>十二</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">次に掲げる食品にあっては、食品表示基準別表第二十四の当該食品の項の中欄に掲げる表示事項のうちそれぞれ次に定めるもの</Sentence>
             </ItemSentence>
@@ -268,20 +274,20 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
-          <Item Delete="false" Hide="false" Num="12">
-            <ItemTitle>十二</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">生乳、生山羊乳及び生めん羊乳にあっては、食品表示基準別表第二十四の生乳、生山羊乳及び生めん羊乳の項の中欄に掲げる表示事項</Sentence>
-            </ItemSentence>
-          </Item>
           <Item Delete="false" Hide="false" Num="13">
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">容器包装に入れられた添加物にあっては、使用の方法及びL―フェニルアラニン化合物である旨又はこれを含む旨</Sentence>
+              <Sentence WritingMode="vertical">生乳、生山羊乳、生めん羊乳及び生水牛乳にあっては、食品表示基準別表第二十四の生乳、生山羊乳、生めん羊乳及び生水牛乳の項の中欄に掲げる表示事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="14">
             <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">容器包装に入れられた添加物にあっては、使用の方法及びL―フェニルアラニン化合物である旨又はこれを含む旨</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="15">
+            <ItemTitle>十五</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">食品表示基準第四十条に規定する生食用牛肉の注意喚起表示に関する事項</Sentence>
             </ItemSentence>
@@ -641,29 +647,35 @@
           <Item Delete="false" Hide="false" Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定保健用食品に関する事項（食品を製造し、若しくは加工した場所で販売する場合又は不特定若しくは多数の者に対する販売以外の譲渡をする場合における原材料名、内容量又は固形量及び内容総量並びに食品関連事業者の氏名又は名称及び住所を含む。次項第二号において同じ。）</Sentence>
+              <Sentence WritingMode="vertical">指定成分等含有食品に関する事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="10">
             <ItemTitle>十</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">機能性表示食品に関する事項（食品を製造し、若しくは加工した場所で販売する場合又は不特定若しくは多数の者に対する販売以外の譲渡をする場合における原材料名、内容量又は固形量及び内容総量並びに食品関連事業者の氏名又は名称及び住所を含む。次項第三号において同じ。）</Sentence>
+              <Sentence WritingMode="vertical">特定保健用食品に関する事項（食品を製造し、若しくは加工した場所で販売する場合又は不特定若しくは多数の者に対する販売以外の譲渡をする場合における原材料名、内容量又は固形量及び内容総量並びに食品関連事業者の氏名又は名称及び住所を含む。次項第二号において同じ。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="11">
             <ItemTitle>十一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">遺伝子組換え食品に関する事項</Sentence>
+              <Sentence WritingMode="vertical">機能性表示食品に関する事項（食品を製造し、若しくは加工した場所で販売する場合又は不特定若しくは多数の者に対する販売以外の譲渡をする場合における原材料名、内容量又は固形量及び内容総量並びに食品関連事業者の氏名又は名称及び住所を含む。次項第三号において同じ。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="12">
             <ItemTitle>十二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">乳児用規格適用食品（食品表示基準第三条第二項の表に規定する乳児用規格適用食品をいう。）である旨</Sentence>
+              <Sentence WritingMode="vertical">遺伝子組換え食品に関する事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="13">
             <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">乳児用規格適用食品（食品表示基準第三条第二項の表に規定する乳児用規格適用食品をいう。）である旨</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="14">
+            <ItemTitle>十四</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">次に掲げる食品にあっては、食品表示基準別表第十九及び別表第二十四の当該食品の項の中欄に掲げる表示事項</Sentence>
             </ItemSentence>
@@ -680,8 +692,8 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
-          <Item Delete="false" Hide="false" Num="14">
-            <ItemTitle>十四</ItemTitle>
+          <Item Delete="false" Hide="false" Num="15">
+            <ItemTitle>十五</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">次に掲げる食品にあっては、食品表示基準別表第十九の当該食品の項の中欄に掲げる表示事項</Sentence>
             </ItemSentence>
@@ -700,7 +712,7 @@
             <Subitem1 Delete="false" Hide="false" Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">食肉製品（食品衛生法施行令第一条第一項第四号に掲げるものに限る。）</Sentence>
+                <Sentence WritingMode="vertical">食肉製品（食品衛生法施行令第十三条に規定するものに限る。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="4">
@@ -797,14 +809,14 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
-          <Item Delete="false" Hide="false" Num="15">
-            <ItemTitle>十五</ItemTitle>
+          <Item Delete="false" Hide="false" Num="16">
+            <ItemTitle>十六</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">放射線照射に関する事項</Sentence>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="16">
-            <ItemTitle>十六</ItemTitle>
+          <Item Delete="false" Hide="false" Num="17">
+            <ItemTitle>十七</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">次に掲げる食品にあっては、食品表示基準別表第二十四の当該食品の項の中欄に掲げる表示事項</Sentence>
             </ItemSentence>
@@ -823,7 +835,7 @@
             <Subitem1 Delete="false" Hide="false" Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">生乳、生山羊乳及び生めん羊乳</Sentence>
+                <Sentence WritingMode="vertical">生乳、生山羊乳、生めん羊乳及び生水牛乳</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="4">
@@ -857,14 +869,14 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
-          <Item Delete="false" Hide="false" Num="17">
-            <ItemTitle>十七</ItemTitle>
+          <Item Delete="false" Hide="false" Num="18">
+            <ItemTitle>十八</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">食品表示基準第四章に規定する添加物に関する事項</Sentence>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="18">
-            <ItemTitle>十八</ItemTitle>
+          <Item Delete="false" Hide="false" Num="19">
+            <ItemTitle>十九</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">食品表示基準第四十条に規定する生食用牛肉の注意喚起表示に関する事項</Sentence>
             </ItemSentence>
@@ -1014,12 +1026,25 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二七日内閣府令第二〇号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この府令は、食品衛生法等の一部を改正する法律及び食品衛生法施行令及び厚生労働省組織令の一部を改正する政令の施行の日（令和二年六月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H27F10001000011_1907092107_001.pdf"/>
+          <Fig src="./pict/H27F10001000011_2005201705_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1028,7 +1053,7 @@
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H27F10001000011_1907092107_002.pdf"/>
+          <Fig src="./pict/H27F10001000011_2005201705_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

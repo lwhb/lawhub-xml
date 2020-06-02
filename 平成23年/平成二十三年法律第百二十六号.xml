@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="126" Year="23">
+<Law DataInfo="190307e04k03m01" Era="Heisei" Lang="ja" LawType="Act" Num="126" Year="23">
   <LawNum>平成二十三年法律第百二十六号</LawNum>
   <LawBody>
     <LawTitle>特定Ｂ型肝炎ウイルス感染者給付金等の支給に関する特別措置法</LawTitle>
@@ -213,7 +213,7 @@
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence>Ｂ型肝炎ウイルスに起因して、肝硬変（重度のものを除く。）にり患した者のうち、当該肝硬変を発症した時から二十年を経過した後にされた訴えの提起等に係る者であって、現に当該肝硬変にり患しているもの又は現に当該肝硬変にり患していないが、当該肝硬変の治療を受けたことのあるもの（これらの者のうち、第一号及び第二号に掲げる者を除く。）</Sentence>
+                  <Sentence WritingMode="vertical">Ｂ型肝炎ウイルスに起因して、肝硬変（重度のものを除く。）にり患した者のうち、当該肝硬変を発症した時から二十年を経過した後にされた訴えの提起等に係る者であって、現に当該肝硬変にり患しているもの又は現に当該肝硬変にり患していないが、当該肝硬変の治療を受けたことのあるもの（これらの者のうち、第一号及び第二号に掲げる者を除く。）</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
                   <Sentence WritingMode="vertical">六百万円</Sentence>
@@ -348,7 +348,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">追加給付金の支給の請求は、その請求をする者が、特定Ｂ型肝炎ウイルス感染者給付金の支給を受けた特定Ｂ型肝炎ウイルス感染者がＢ型肝炎ウイルスに起因して新たに第六条第一項第一号、第三号又は第六号のいずれかに該当するに至ったことを知った日から起算して三年以内に行わなければならない。</Sentence>
+              <Sentence WritingMode="vertical">追加給付金の支給の請求は、その請求をする者が、特定Ｂ型肝炎ウイルス感染者給付金の支給を受けた特定Ｂ型肝炎ウイルス感染者がＢ型肝炎ウイルスに起因して新たに第六条第一項第一号、第三号又は第六号のいずれかに該当するに至ったことを知った日から起算して五年以内に行わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1124,6 +1124,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、民法改正法の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第百三条の二、第百三条の三、第二百六十七条の二、第二百六十七条の三及び第三百六十二条の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

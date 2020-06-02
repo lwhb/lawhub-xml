@@ -28,7 +28,7 @@
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">前号の場合を除き、当該数個の登記所が同一の法務局の管轄区域（法務省組織令（平成十二年政令第二百四十八号）第六十三条第二項の事務に関する管轄区域をいう。）内の登記所である場合</Sentence>
+                <Sentence WritingMode="vertical">前号の場合を除き、当該数個の登記所が同一の法務局の管轄区域（法務省組織令（平成十二年政令第二百四十八号）第六十四条第二項の事務に関する管轄区域をいう。）内の登記所である場合</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">当該法務局の長</Sentence>
@@ -53,7 +53,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">対象土地（不動産登記法（平成十六年法律第百二十三号）第百二十三条第三号の対象土地をいう。）が数個の法務局又は地方法務局の管轄区域（法務局にあっては法務省組織令第六十三条第二項の規定による事務以外の事務に関する管轄区域をいい、地方法務局にあっては同令第六十五条の管轄区域をいう。）にまたがる場合における筆界特定（不動産登記法第百二十三条第二号の筆界特定をいう。）についての管轄法務局又は管轄地方法務局は、当該数個の法務局又は地方法務局が同一の法務局の管轄区域（法務省組織令第六十三条第二項の事務に関する管轄区域をいう。）内の法務局又は地方法務局である場合には当該法務局の長が、その他の場合には法務大臣が指定する。</Sentence>
+            <Sentence WritingMode="vertical">対象土地（不動産登記法（平成十六年法律第百二十三号）第百二十三条第三号の対象土地をいう。）が数個の法務局又は地方法務局の管轄区域（法務局にあっては法務省組織令第六十四条第二項の規定による事務以外の事務に関する管轄区域をいい、地方法務局にあっては同令第六十六条の管轄区域をいう。）にまたがる場合における筆界特定（不動産登記法第百二十三条第二号の筆界特定をいう。）についての管轄法務局又は管轄地方法務局は、当該数個の法務局又は地方法務局が同一の法務局の管轄区域（法務省組織令第六十四条第二項の事務に関する管轄区域をいう。）内の法務局又は地方法務局である場合には当該法務局の長が、その他の場合には法務大臣が指定する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -139,6 +139,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、法務省組織令の一部を改正する政令の施行の日（平成三十一年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日法務省令第二二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、法務省組織令の一部を改正する政令の施行の日（令和二年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

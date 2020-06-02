@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="191210e81k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="44" Year="28">
+<Law DataInfo="200601e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="44" Year="28">
   <LawNum>昭和二十八年厚生省令第四十四号</LawNum>
   <LawBody>
     <LawTitle>と畜場法施行規則</LawTitle>
@@ -71,7 +71,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第六条の厚生労働省令で定める基準は、次のとおりとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第六条第一項第一号に掲げる事項に関する同項の厚生労働省令で定める基準は、次のとおりとする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -117,7 +117,7 @@
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">水道法（昭和三十二年法律第百七十七号）に規定する水道事業及び専用水道により供給される水以外の水を使用する場合は、一年に一回以上（災害等により水源等が汚染され、水質が変化したおそれがある場合は、その都度）水質検査を行い、その結果を証する書類を検査の日から一年間保存すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">水道法（昭和三十二年法律第百七十七号）第三条第二項に規定する水道事業、同条第六項に規定する専用水道及び同条第七項に規定する簡易専用水道により供給される水以外の水を使用する場合は、一年に一回以上（災害等により水源等が汚染され、水質が変化したおそれがある場合は、その都度）水質検査を行い、その結果を証する書類を検査の日から一年間保存すること。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">また、その結果、飲用不適となつたときは、直ちに都道府県知事（保健所を設置する市にあつては、市長。以下同じ。）の指示を受け、適切な措置を講じること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
@@ -138,7 +138,7 @@
           <Item Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">冷蔵設備を設置している場合は、枝肉（獣畜をとさつした後、頭部、前後肢及び尾を切断し、第七条第六号、第七号及び第八号の処理を行つた物をいう。以下同じ。）又は食用に供する内臓が摂氏十度以下となるよう当該設備の維持管理を適切に行うこと。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">冷蔵設備を設置している場合は、枝肉（獣畜をとさつした後、頭部、前後肢及び尾を切断し、剥皮し、乳房を切除し、内臓を摘出したものをいう。以下同じ。）又は食用に供する内臓が摂氏十度以下となるよう当該設備の維持管理を適切に行うこと。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、冷蔵設備内の温度の測定は、作業開始前に一回、及び作業時間内に一回以上行い、測定した日時、温度、測定者その他必要な記録を測定の日から一年間保存すること。</Sentence>
             </ItemSentence>
           </Item>
@@ -151,7 +151,7 @@
           <Item Num="10">
             <ItemTitle>十</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">牛海綿状脳症対策特別措置法（平成十四年法律第七十号）第七条第一項に規定する厚生労働省令で定める月齢以上の牛（そのとたい（獣畜をとさつした物であつて、枝肉以外のものをいう。以下同じ。）、頭部、枝肉及び内臓を含む。以下この号において同じ。）及びこれに該当しないことが確認できない牛については、法第十四条第三項の規定による伝達性海綿状脳症に係る検査が終了するまでの間、その他の牛と工程、表示等により区分して衛生的に管理すること。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">牛海綿状脳症対策特別措置法（平成十四年法律第七十号）第七条第一項に規定する厚生労働省令で定める月齢以上の牛（そのとたい（獣畜をとさつした物であつて、枝肉に処理する前のものをいう。以下同じ。）、頭部、枝肉及び内臓を含む。以下この号において同じ。）及びこれに該当しないことが確認できない牛については、法第十四条第三項の規定による伝達性海綿状脳症に係る検査が終了するまでの間、その他の牛と工程、表示等により区分して衛生的に管理すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="11">
@@ -371,35 +371,131 @@
           <Item Num="24">
             <ItemTitle>二十四</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">前各号の措置が適切に実施されるよう次に掲げるところにより管理すること。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">食品衛生上の危害の発生の防止のため、施設の衛生管理に関する計画及びと畜場の衛生的な管理その他公衆衛生上必要な措置を適切に行うための手順書に基づいた衛生管理が行われるよう、と畜場の衛生管理に従事する者に対して衛生管理に必要な教育を実施すること。</Sentence>
             </ItemSentence>
-            <Subitem1 Num="1">
-              <Subitem1Title>イ</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">適正かつ計画的に実施するため必要な事項を記載した文書を作成すること。</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
-            <Subitem1 Num="2">
-              <Subitem1Title>ロ</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">法第七条第一項の衛生管理責任者（以下「衛生管理責任者」という。）に、イの文書に基づき適切に実施されていることを確認させること。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同項の規定によりと畜場の管理者又は設置者が衛生管理責任者となつていると畜場にあつては、自ら確認の業務を行うこと。</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
+          </Item>
+          <Item Num="25">
+            <ItemTitle>二十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">化学物質を取り扱う者に対して、使用する化学物質を安全に取り扱うことができるよう教育訓練を実施すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="26">
+            <ItemTitle>二十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前二号の教育訓練の効果について定期的に検証を行い、必要に応じて教育内容の見直しを行うこと。</Sentence>
+            </ItemSentence>
           </Item>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">衛生管理責任者は、前項第二十四号ロの確認の結果をと畜場の設置者又は管理者に対して報告すること。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、法第七条第一項の規定によりと畜場の管理者又は設置者が衛生管理責任者となつている場合は、この限りでない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第六条第一項第二号に掲げる事項に関する同項の厚生労働省令で定める基準は、次のとおりとする。</Sentence>
           </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">獣畜のとさつ又は解体の工程ごとに、食品衛生上の危害を発生させ得る要因（以下「危害要因」という。）の一覧表を作成し、これら危害要因を管理するための措置（以下「管理措置」という。）を定めること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前号で特定された危害要因につき、その発生を防止し、排除し、又は許容できる水準にまで低減するために管理措置を講ずることが不可欠な工程（以下「重要管理点」という。）を決定すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">個々の重要管理点における危害要因につき、その発生を防止し、排除し、又は許容できる水準にまで低減するための基準（以下「管理基準」という。）を設定すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">重要管理点の管理について、連続的な又は相当の頻度による実施状況の把握（次号並びに第七条第二項第四号及び第五号において「モニタリング」という。）をするための方法を設定すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">個々の重要管理点において、モニタリングの結果、管理基準を逸脱したことが判明した場合の改善措置を設定すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前各号に規定する措置の内容の効果を、定期的に検証するための手順を定めること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">事業の規模や業態に応じて、前各号に規定する措置の内容に関する書面とその実施の記録を作成すること。</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">別表第一に掲げる部分についての第一項第十八号イの適用については、同号イ中「焼却炉で焼却すること等」とあるのは、「牛海綿状脳症対策特別措置法第七条第二項ただし書に該当する場合を除き、焼却炉で焼却すること」とする。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">と畜場の設置者又は管理者は、法第七条第一項の衛生管理責任者（以下「衛生管理責任者」という。）に、第一項第二十四号の計画及び手順書に基づきと畜場の衛生管理が適切に実施されていることを確認させ、その結果を報告させなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、法第七条第一項の規定によりと畜場の管理者又は設置者が衛生管理責任者となつている場合は、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">と畜場の設置者又は管理者は、法第六条第二項の規定に基づき、次に定めるところにより公衆衛生上必要な措置を定め、これを遵守しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第二十四号の計画を作成し、と畜場の衛生管理に従事する者その他の関係者に周知徹底を図ること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設設備、機械器具の構造及び材質並びに獣畜の肉、骨、臓器、血液等を取り扱う工程を考慮し、これらの工程において第一項第二十四号の手順書を作成すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">衛生管理の実施状況を記録し、その記録を保存すること。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">なお、記録の保存期間は、出荷した獣畜の肉、骨、臓器、血液等が使用され、又は消費されるまでの期間を踏まえ、合理的に設定すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第二十四号の計画及び手順書の効果を検証し、必要に応じてそれらの内容を見直すこと。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">と畜場の設置者又は管理者は、前項に規定する措置に関し、次に定める事項についてと畜検査員による検査又は試験を受け、その結果に基づき必要に応じて見直しを行うこと。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第二十四号の計画又は手順書を作成又は修正した場合にあつては、それらが食品衛生上の危害の発生を防止する目的において、科学的に妥当なものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">衛生管理が第一項第二十四号の計画及び手順書に基づき適切に行われていること。</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Num="4">
@@ -552,483 +648,470 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第九条の厚生労働省令で定める基準は、次の各号に掲げるもののいずれかとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第九条第一項第一号に掲げる事項に関する同項の厚生労働省令で定める基準は、次のとおりとする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">危害分析・重要管理点方式（食品の安全性を確保する上で重要な危害の原因となる物質及び当該危害が発生するおそれのある工程の特定、評価及び管理を行う衛生管理の方式をいう。以下同じ。）を用いて衛生管理を行うと畜業者等は、次のとおりとすること。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">処理室においては、獣畜の血液及び消化管の内容物等を適切に処理し、当該処理室を洗浄すること。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、洗浄水の飛散によるとたい並びに枝肉及び食用に供する内臓の汚染を防ぐこと。</Sentence>
             </ItemSentence>
-            <Subitem1 Num="1">
-              <Subitem1Title>イ</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">衛生管理責任者、法第十条の作業衛生責任者（以下「作業衛生責任者」という。）その他の獣畜のとさつ又は解体に係る衛生管理について専門的な知識を有する者により構成される班を編成し、次の（１）から（７）までに掲げる措置を実施すること。</Sentence>
-              </Subitem1Sentence>
-              <Subitem2 Num="1">
-                <Subitem2Title>（１）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">製品の名称、種類、原材料その他必要な事項を記載した製品説明書を作成すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="2">
-                <Subitem2Title>（２）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">獣畜の搬入、とさつ、解体、処理、保管、出荷その他の工程の流れを記載した図を、と畜場における実際の工程及び施設設備の配置に則して作成すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="3">
-                <Subitem2Title>（３）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">次に掲げる事項を記載した文書を作成すること。</Sentence>
-                </Subitem2Sentence>
-                <Subitem3 Num="1">
-                  <Subitem3Title>（ｉ）</Subitem3Title>
-                  <Subitem3Sentence>
-                    <Sentence Num="1" WritingMode="vertical">放血、頭部の処理、とたいの剥皮、乳房の切除、内臓の摘出、背割り（枝肉を脊柱に沿つて左右に切断する処理をいう。以下同じ。）、枝肉の洗浄、内臓の処理又は冷却を含む工程ごとに、当該工程につき発生するおそれのある食品衛生上の危害の原因となる物質及び当該危害の発生を防止するための措置（以下「管理措置」という。）（当該危害の原因となる物質が認められない場合にあつては、その理由）</Sentence>
-                  </Subitem3Sentence>
-                </Subitem3>
-                <Subitem3 Num="2">
-                  <Subitem3Title>（ｉｉ）</Subitem3Title>
-                  <Subitem3Sentence>
-                    <Sentence Num="1" WritingMode="vertical">（ｉ）の工程のうち、製品に係る食品衛生上の危害の発生を防止するため、当該工程に係る管理措置の実施状況の連続的な又は相当の頻度の確認を必要とするもの（以下「重要管理点」という。）（重要管理点を定めない場合にあつては、その理由）</Sentence>
-                  </Subitem3Sentence>
-                </Subitem3>
-                <Subitem3 Num="3">
-                  <Subitem3Title>（ｉｉｉ）</Subitem3Title>
-                  <Subitem3Sentence>
-                    <Sentence Num="1" WritingMode="vertical">全ての重要管理点ごとに、当該重要管理点につき発生するおそれのある食品衛生上の危害の原因となる物質を許容できる範囲まで低減又は排除するための管理措置の基準</Sentence>
-                  </Subitem3Sentence>
-                </Subitem3>
-                <Subitem3 Num="4">
-                  <Subitem3Title>（ｉｖ）</Subitem3Title>
-                  <Subitem3Sentence>
-                    <Sentence Num="1" WritingMode="vertical">（ｉｉ）の確認の方法</Sentence>
-                  </Subitem3Sentence>
-                </Subitem3>
-              </Subitem2>
-              <Subitem2 Num="4">
-                <Subitem2Title>（４）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">（３）（ｉｉ）の確認により重要管理点に係る管理措置が適切に講じられていないと認められたときに講ずべき改善措置の方法を記載した文書を作成すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="5">
-                <Subitem2Title>（５）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">製品の試験の方法その他の食品衛生上の危害の発生が適切に防止されていることを検証するための方法を記載した文書を作成すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="6">
-                <Subitem2Title>（６）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">次に掲げる事項について、その記録の方法並びに当該記録の保存の方法及び期間を記載した文書を作成すること。</Sentence>
-                </Subitem2Sentence>
-                <Subitem3 Num="1">
-                  <Subitem3Title>（ｉ）</Subitem3Title>
-                  <Subitem3Sentence>
-                    <Sentence Num="1" WritingMode="vertical">（３）（ｉｉ）の確認に関する事項</Sentence>
-                  </Subitem3Sentence>
-                </Subitem3>
-                <Subitem3 Num="2">
-                  <Subitem3Title>（ｉｉ）</Subitem3Title>
-                  <Subitem3Sentence>
-                    <Sentence Num="1" WritingMode="vertical">（４）の改善措置に関する事項</Sentence>
-                  </Subitem3Sentence>
-                </Subitem3>
-                <Subitem3 Num="3">
-                  <Subitem3Title>（ｉｉｉ）</Subitem3Title>
-                  <Subitem3Sentence>
-                    <Sentence Num="1" WritingMode="vertical">（５）の検証に関する事項</Sentence>
-                  </Subitem3Sentence>
-                </Subitem3>
-              </Subitem2>
-              <Subitem2 Num="7">
-                <Subitem2Title>（７）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">（３）から（６）までの規定に基づき作成した文書に従い、獣畜、とたい、枝肉及び食用に供する内臓等に係る食品衛生上の危害の発生の防止のために公衆衛生上必要な措置を講ずること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-            </Subitem1>
-            <Subitem1 Num="2">
-              <Subitem1Title>ロ</Subitem1Title>
-              <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">イに掲げるもののほか、次に掲げる措置を行うこと。</Sentence>
-              </Subitem1Sentence>
-              <Subitem2 Num="1">
-                <Subitem2Title>（１）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">牛、めん羊及び山羊について、ピッシング（ワイヤーその他これに類する器具を用いて脳及び脊髄を破壊することをいう。以下同じ。）を行わずにとさつすること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="2">
-                <Subitem2Title>（２）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">月齢が三十月以下の牛の頭部（舌、頬肉及び皮を除く。以下この条において同じ。）を食用に供するものとして処理を行う場合には、その他の牛の頭部による汚染を防ぐよう区分して処理すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="3">
-                <Subitem2Title>（３）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">月齢が三十月以下の牛の頭部等を食用に供する場合には、当該牛の頭部等については、とさつ、解体及び保管の各段階で、その他の牛の頭部等と工程、表示等により区分して保管すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="4">
-                <Subitem2Title>（４）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">別表第一に掲げる部分は、当該部分による枝肉及び食用に供する内臓の汚染を防ぐよう処理すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-            </Subitem1>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">危害分析・重要管理点方式を用いずに衛生管理を行うと畜業者等は、次に掲げる措置を実施すること。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">獣畜のとさつ又は解体に当たり手袋を使用する場合は、獣畜に直接接触する部分が耐水性のある素材のものを使用すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">牛、めん羊及び山羊について、ピッシング（ワイヤーその他これに類する器具を用いて脳及び脊髄を破壊することをいう。）を行わずにとさつすること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">放血等は、次に掲げるところにより行うこと。</Sentence>
             </ItemSentence>
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">処理室においては、獣畜の血液及び消化管の内容物等を適切に処理し、当該処理室を洗浄すること。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、洗浄水の飛散によるとたい並びに枝肉及び食用に供する内臓の汚染を防ぐこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">放血された血液による生体及び他のとたいの汚染を防ぐこと。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">獣畜のとさつ又は解体に当たり手袋を使用する場合は、獣畜に直接接触する部分が繊維製品その他洗浄消毒することが困難な製品でないものを使用すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">牛、めん羊及び山羊にあつては、放血後において消化管の内容物が漏出しないよう食道を第一胃の近くで結さつし、又は閉塞させること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">牛、めん羊及び山羊について、ピッシングを行わずにとさつすること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">手指（手袋を使用する場合にあつては、当該手袋。以下この項において同じ。）が放血された血液等により汚染された場合は、その都度洗浄剤を用いて洗浄すること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="4">
               <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">放血等は、次に掲げるところにより行うこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">とたいに直接接触するナイフ、結さつ器その他の機械器具については、一頭を処理するごとに（外皮に接触すること等により汚染された場合は、その都度。次号及び第六号において同じ。）摂氏八十三度以上の温湯を用いて洗浄消毒すること。</Sentence>
               </Subitem1Sentence>
-              <Subitem2 Num="1">
-                <Subitem2Title>（１）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">放血された血液による生体及び他のとたいの汚染を防ぐこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="2">
-                <Subitem2Title>（２）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">牛、めん羊及び山羊にあつては、放血後において消化管の内容物が漏出しないよう食道を第一胃の近くで結さつし、又は閉塞させること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="3">
-                <Subitem2Title>（３）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">手指（手袋を使用する場合にあつては、当該手袋。以下この項において同じ。）が放血された血液等により汚染された場合は、その都度洗浄剤を用いて洗浄すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="4">
-                <Subitem2Title>（４）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">とたいに直接接触するナイフ、結さつ器その他の機械器具については、一頭を処理するごとに（外皮に接触すること等により汚染された場合は、その都度。ホ及びヘにおいて同じ。）摂氏八十三度以上の温湯を用いて洗浄消毒すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
+            </Subitem1>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">頭部（舌、頬肉及び皮を除く。以下この条において同じ。）の処理を行う場合においては、次に掲げるところにより行うこと。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">角は、切断部の付近に外皮が残ることによる汚染を防ぐため、外皮と共に除去すること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">剥皮された頭部は、外皮並びに床及び内壁等に接触することによる汚染を防ぐこと。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">剥皮された頭部の洗浄に当たつては、洗浄水の飛散による他のとたいの汚染を防ぐこと。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">手指が外皮等により汚染された場合は、その都度洗浄剤を用いて洗浄すること。</Sentence>
+              </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="5">
               <Subitem1Title>ホ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">頭部の処理を行う場合においては、次に掲げるところにより行うこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">とたいに直接接触するナイフ、のこぎりその他の機械器具については、一頭を処理するごとに摂氏八十三度以上の温湯を用いて洗浄消毒すること。</Sentence>
               </Subitem1Sentence>
-              <Subitem2 Num="1">
-                <Subitem2Title>（１）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">角は、切断部の付近に外皮が残ることによる汚染を防ぐため、外皮と共に除去すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="2">
-                <Subitem2Title>（２）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">剥皮された頭部は、外皮並びに床及び内壁等に接触することによる汚染を防ぐこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="3">
-                <Subitem2Title>（３）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">剥皮された頭部の洗浄に当たつては、洗浄水の飛散による他のとたいの汚染を防ぐこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="4">
-                <Subitem2Title>（４）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">手指が外皮等により汚染された場合は、その都度洗浄剤を用いて洗浄すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="5">
-                <Subitem2Title>（５）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">とたいに直接接触するナイフ、のこぎりその他の機械器具については、一頭を処理するごとに摂氏八十三度以上の温湯を用いて洗浄消毒すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="6">
-                <Subitem2Title>（６）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">月齢が三十月以下の牛の頭部を食用に供するものとして処理を行う場合には、その他の牛の頭部による汚染を防ぐよう区分して処理すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
             </Subitem1>
             <Subitem1 Num="6">
               <Subitem1Title>ヘ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">とたいの剥皮は、次に掲げるところにより行うこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">月齢が三十月以下の牛の頭部を食用に供するものとして処理を行う場合には、その他の牛の頭部による汚染を防ぐよう区分して処理すること。</Sentence>
               </Subitem1Sentence>
-              <Subitem2 Num="1">
-                <Subitem2Title>（１）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">獣毛等による汚染を防ぐため、必要な最少限度の切開をした後、ナイフを消毒し、ナイフの刃を手前に向け、皮を内側から外側に切開すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="2">
-                <Subitem2Title>（２）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">剥皮された部分は、外皮による汚染を防ぐこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="3">
-                <Subitem2Title>（３）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">剥皮された部分が外皮により汚染された場合においては、汚染された部位を完全に切り取ること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="4">
-                <Subitem2Title>（４）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">牛、めん羊及び山羊の肛門周囲の処理に当たつては、消化管の内容物が漏出しないよう直腸を肛門の近くで結さつするとともに、肛門部によるとたいの汚染を防ぐこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="5">
-                <Subitem2Title>（５）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">剥皮された部分が消化管の内容物により汚染された場合においては、迅速に他の部位への汚染を防ぐとともに、汚染された部位を完全に切り取ること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="6">
-                <Subitem2Title>（６）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">手指が外皮等により汚染された場合は、その都度洗浄剤を用いて洗浄すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="7">
-                <Subitem2Title>（７）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">とたいに直接接触するナイフ、動力付剥皮ナイフ、結さつ器その他の機械器具については、一頭を処理するごとに摂氏八十三度以上の温湯を用いて洗浄消毒すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
+            </Subitem1>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">とたいの剥皮は、次に掲げるところにより行うこと。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">獣毛等による汚染を防ぐため、必要な最小限度の切開をした後、ナイフを消毒し、ナイフの刃を手前に向け、皮を内側から外側に切開すること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">剥皮された部分は、外皮による汚染を防ぐこと。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">剥皮された部分が外皮により汚染された場合においては、汚染された部位を完全に切り取ること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">牛、めん羊及び山羊の肛門周囲の処理に当たつては、消化管の内容物が漏出しないよう直腸を肛門の近くで結さつするとともに、肛門部によるとたいの汚染を防ぐこと。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">剥皮された部分が消化管の内容物により汚染された場合においては、迅速に他の部位への汚染を防ぐとともに、汚染された部位を完全に切り取ること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">手指が外皮等により汚染された場合は、その都度洗浄剤を用いて洗浄すること。</Sentence>
+              </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="7">
               <Subitem1Title>ト</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">乳房を切除する場合においては、次に掲げるところにより行うこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">とたいに直接接触するナイフ、動力付剥皮ナイフ、結さつ器その他の機械器具については、一頭を処理するごとに摂氏八十三度以上の温湯を用いて洗浄消毒すること。</Sentence>
               </Subitem1Sentence>
-              <Subitem2 Num="1">
-                <Subitem2Title>（１）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">乳房の内容物が漏出しないように行うこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="2">
-                <Subitem2Title>（２）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">剥皮された部分が乳房の内容物により汚染された場合においては、迅速に他の部位への汚染を防ぐとともに、汚染された部位を完全に切り取ること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="3">
-                <Subitem2Title>（３）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">手指が乳房の内容物等により汚染された場合は、その都度洗浄剤を用いて洗浄すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="4">
-                <Subitem2Title>（４）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">とたいに直接接触するナイフその他の機械器具については、一頭を処理するごとに（乳房の内容物等に汚染された場合は、その都度）摂氏八十三度以上の温湯を用いて洗浄消毒すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
             </Subitem1>
-            <Subitem1 Num="8">
-              <Subitem1Title>チ</Subitem1Title>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">乳房を切除する場合においては、次に掲げるところにより行うこと。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">内臓の摘出は、次に掲げるところにより行うこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">乳房の内容物が漏出しないように行うこと。</Sentence>
               </Subitem1Sentence>
-              <Subitem2 Num="1">
-                <Subitem2Title>（１）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">とたいが消化管の内容物により汚染されないよう適切に行うこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="2">
-                <Subitem2Title>（２）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">内臓が床及び内壁並びに長靴等に接触することによる汚染を防ぐこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="3">
-                <Subitem2Title>（３）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">剥皮された部分が消化管の内容物により汚染された場合においては、迅速に他の部位への汚染を防ぐとともに、汚染された部位を完全に切り取ること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="4">
-                <Subitem2Title>（４）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">手指が消化管の内容物等により汚染された場合は、その都度洗浄剤を用いて洗浄すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="5">
-                <Subitem2Title>（５）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">とたいに直接接触するナイフ、のこぎりその他の機械器具については、一頭を処理するごとに（消化管の内容物等に汚染された場合は、その都度）摂氏八十三度以上の温湯を用いて洗浄消毒すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
             </Subitem1>
-            <Subitem1 Num="9">
-              <Subitem1Title>リ</Subitem1Title>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">背割りは、次に掲げるところにより行うこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">剥皮された部分が乳房の内容物により汚染された場合においては、迅速に他の部位への汚染を防ぐとともに、汚染された部位を完全に切り取ること。</Sentence>
               </Subitem1Sentence>
-              <Subitem2 Num="1">
-                <Subitem2Title>（１）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">枝肉が床若しくは内壁、長靴又は昇降台等に接触することによる汚染を防ぐこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="2">
-                <Subitem2Title>（２）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">使用するのこぎりについては、一頭を処理するごとに摂氏八十三度以上の温湯を用いて洗浄消毒すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
             </Subitem1>
-            <Subitem1 Num="10">
-              <Subitem1Title>ヌ</Subitem1Title>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">枝肉の洗浄は、次に掲げるところにより行うこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">手指が乳房の内容物等により汚染された場合は、その都度洗浄剤を用いて洗浄すること。</Sentence>
               </Subitem1Sentence>
-              <Subitem2 Num="1">
-                <Subitem2Title>（１）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">洗浄の前に獣毛又は消化管の内容物等による汚染の有無を確認し、これらによる汚染があつた場合は、汚染された部位を完全に切り取ること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="2">
-                <Subitem2Title>（２）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">十分な水量を用いて行うこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="3">
-                <Subitem2Title>（３）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">洗浄水の飛散による枝肉の汚染を防ぐこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="4">
-                <Subitem2Title>（４）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">洗浄水の水切りを十分に行うこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
             </Subitem1>
-            <Subitem1 Num="11">
-              <Subitem1Title>ル</Subitem1Title>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">枝肉及び食用に供する内臓は、床及び内壁等に接触しないよう取り扱うこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">とたいに直接接触するナイフその他の機械器具については、一頭を処理するごとに（乳房の内容物等に汚染された場合は、その都度）摂氏八十三度以上の温湯を用いて洗浄消毒すること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
-            <Subitem1 Num="12">
-              <Subitem1Title>ヲ</Subitem1Title>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">内臓の摘出は、次に掲げるところにより行うこと。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">内臓の処理は、次に掲げるところにより行うこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">とたいが消化管の内容物により汚染されないよう適切に行うこと。</Sentence>
               </Subitem1Sentence>
-              <Subitem2 Num="1">
-                <Subitem2Title>（１）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">消化管は、消化管の内容物によるその他の臓器の汚染を防ぐよう区分して処理すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="2">
-                <Subitem2Title>（２）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">食用に供する内臓が床及び内壁等に接触することによる汚染を防ぐこと。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="3">
-                <Subitem2Title>（３）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">消化管の処理に当たつては、消化管の内容物による汚染を防ぐよう消化管の内容物を除去するとともに、当該消化管を十分に洗浄すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
-              <Subitem2 Num="4">
-                <Subitem2Title>（４）</Subitem2Title>
-                <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">内臓処理台等が消化管の内容物により汚染された場合は、その都度洗浄消毒すること。</Sentence>
-                </Subitem2Sentence>
-              </Subitem2>
             </Subitem1>
-            <Subitem1 Num="13">
-              <Subitem1Title>ワ</Subitem1Title>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">枝肉又は食用に供する内臓は、摂氏十度以下となるよう冷却すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">内臓が床及び内壁並びに長靴等に接触することによる汚染を防ぐこと。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
-            <Subitem1 Num="14">
-              <Subitem1Title>カ</Subitem1Title>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">法第十四条第三項の検査で保留された枝肉は、他の枝肉と区別して保管すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">剥皮された部分が消化管の内容物により汚染された場合においては、迅速に他の部位への汚染を防ぐとともに、汚染された部位を完全に切り取ること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
-            <Subitem1 Num="15">
-              <Subitem1Title>ヨ</Subitem1Title>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">月齢が三十月以下の牛の頭部等を食用に供する場合には、当該牛の頭部等については、とさつ、解体及び保管の各段階で、その他の牛の頭部等と工程、表示等により区分して保管すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">手指が消化管の内容物等により汚染された場合は、その都度洗浄剤を用いて洗浄すること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
-            <Subitem1 Num="16">
-              <Subitem1Title>タ</Subitem1Title>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">外皮は、枝肉又は食用に供する内臓に接触しないよう保管すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">とたいに直接接触するナイフ、のこぎりその他の機械器具については、一頭を処理するごとに（消化管の内容物等に汚染された場合は、その都度）摂氏八十三度以上の温湯を用いて洗浄消毒すること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
-            <Subitem1 Num="17">
-              <Subitem1Title>レ</Subitem1Title>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">背割りは、次に掲げるところにより行うこと。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">別表第一に掲げる部分は、当該部分による枝肉及び食用に供する内臓の汚染を防ぐよう処理すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">枝肉が床若しくは内壁、長靴又は昇降台等に接触することによる汚染を防ぐこと。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">使用するのこぎりについては、一頭を処理するごとに摂氏八十三度以上の温湯を用いて洗浄消毒すること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">枝肉の洗浄は、次に掲げるところにより行うこと。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">洗浄の前に獣毛又は消化管の内容物等による汚染の有無を確認し、これらによる汚染があつた場合は、汚染された部位を完全に切り取ること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">十分な水量を用いて行うこと。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">洗浄水の飛散による枝肉の汚染を防ぐこと。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">洗浄水の水切りを十分に行うこと。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">枝肉及び食用に供する内臓は、床及び内壁等に接触しないよう取り扱うこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">内臓の処理は、次に掲げるところにより行うこと。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">消化管は、消化管の内容物によるその他の臓器の汚染を防ぐよう区分して処理すること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">食用に供する内臓が床及び内壁等に接触することによる汚染を防ぐこと。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">消化管の処理に当たつては、消化管の内容物による汚染を防ぐよう消化管の内容物を除去するとともに、当該消化管を十分に洗浄すること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">内臓処理台等が消化管の内容物により汚染された場合は、その都度洗浄消毒すること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">枝肉又は食用に供する内臓は、摂氏十度以下となるよう冷却すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="14">
+            <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">法第十四条第三項の検査で保留された枝肉は、他の枝肉と区別して保管すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="15">
+            <ItemTitle>十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">月齢が三十月以下の牛の頭部等を食用に供する場合には、当該牛の頭部等については、とさつ、解体及び保管の各段階で、その他の牛の頭部等と工程、表示等により区分して保管すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="16">
+            <ItemTitle>十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">外皮は、枝肉又は食用に供する内臓に接触しないよう保管すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="17">
+            <ItemTitle>十七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">別表第一に掲げる部分は、当該部分による枝肉及び食用に供する内臓の汚染を防ぐよう処理すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="18">
+            <ItemTitle>十八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">食品衛生上の危害の発生の防止のため、獣畜のとさつ又は解体の工程に関する計画及びとさつ又は解体の衛生的な管理その他公衆衛生上必要な措置を適切に行うための手順書に基づいた衛生管理が行われるために、獣畜をとさつし、又は解体する者に対して衛生管理に必要な教育を実施すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="19">
+            <ItemTitle>十九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">化学物質を取り扱う者に対して、使用する化学物質を安全に取扱うことができるよう教育訓練を実施すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="20">
+            <ItemTitle>二十</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前二号の教育訓練の効果について定期的に検証を行い、必要に応じて教育内容の見直しを行うこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="21">
+            <ItemTitle>二十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">食品衛生上の危害の発生の防止に必要な限度において、取り扱う獣畜の産地、健康状態、枝肉又は食用に供する内臓の出荷又は販売先その他の必要な事項に関する記録を作成し、保存するよう努めること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="22">
+            <ItemTitle>二十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">枝肉又は食用に供する内臓について自主検査を行つた場合には、その記録を保存するよう努めること。</Sentence>
+            </ItemSentence>
           </Item>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">と畜業者等は、前項第一号イ及びロ又は第二号に掲げる措置が適切に実施されるよう、次の各号に掲げるところにより管理すること。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第九条第一項第二号に掲げる事項に関する同項の厚生労働省令で定める基準は、次の各号に掲げるものとする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">適正かつ計画的に実施するため必要な事項を記載した文書を作成すること。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">獣畜のとさつ又は解体の工程ごとに、危害要因の一覧表を作成し、管理措置を定めること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">作業衛生責任者に、前号の文書に基づき適切に実施されていることを確認させること。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、法第十条第一項の規定によりと畜業者等が自ら作業衛生責任者となつていると畜場にあつては、自ら確認の業務を行うこと。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前号で特定された危害要因につき、その発生を防止し、排除し、又は許容できる水準にまで低減するために重要管理点を決定すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">個々の重要管理点における危害要因につき、管理基準を設定すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">重要管理点の管理について、モニタリングをするための方法を設定すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">個々の重要管理点において、モニタリングの結果、管理基準を逸脱したことが判明した場合の改善措置を設定すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前各号に規定する措置の内容の効果を、定期的に検証するための手順を定めること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">事業の規模や業態に応じて、前各号に規定する措置の内容に関する書面とその実施の記録を作成すること。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">作業衛生責任者（法第十条第一項の規定によりと畜業者が自ら作業衛生責任者となつていると畜場にあつては、と畜業者等）は、獣畜のとさつ又は解体を行う者に対して、獣畜の衛生的なとさつ又は解体の方法についての教育に努めなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">と畜業者等は、作業衛生責任者に第一項第十八号の計画及び手順書に基づき獣畜のとさつ又は解体の衛生的な管理が適切に実施されていることを確認させ、その結果を報告させなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、法第十条第一項の規定によりと畜業者等が自ら作業衛生責任者となつていると畜場にあつては、自ら確認の業務を行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">と畜業者等は、法第九条第二項の規定に基づき、次に定めるところにより公衆衛生上必要な措置を定め、これを遵守しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第十八号の計画を作成し、獣畜をとさつし、又は解体する者その他の関係者に周知徹底を図ること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設設備、機械器具の構造及び材質並びに獣畜の肉、骨、臓器、血液等を取り扱う工程を考慮し、これらの工程において第一項第十八号の手順書を作成すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">衛生管理の実施状況を記録し、その記録を保存すること。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">なお、記録の保存期間は、取り扱う獣畜の肉、骨、臓器、血液等が使用され、又は消費されるまでの期間を踏まえ、合理的に設定すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第十八号の計画及び手順書の効果を検証し、必要に応じてその内容を見直すこと。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">と畜業者等は、前項に規定する措置に関し、次に定める事項についてと畜検査員による検査又は試験を受け、その結果に基づき必要に応じて見直しを行うこと。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第十八号の計画又は手順書を作成又は修正した場合にあつては、それらが食品衛生上の危害の発生を防止する目的において、科学的に妥当なものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">衛生管理が第一項第十八号の計画及び手順書に基づき適切に行われていること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7_2">
+        <ArticleCaption>（衛生管理の計画及び手順書の作成）</ArticleCaption>
+        <ArticleTitle>第七条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条第一項第二十四号及び前条第一項第十八号の計画及び手順書は、と畜場の設置者若しくは管理者又はと畜業者等のいずれかが一括して作成することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1783,6 +1866,30 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一一月七日厚生労働省令第六八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、食品衛生法等の一部を改正する法律（平成三十年法律第四十六号）の施行の日（令和二年六月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年二月五日厚生労働省令第一四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、家畜伝染病予防法の一部を改正する法律の施行の日（令和二年二月五日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行前にされたこの省令による改正前のと畜場法施行規則別表第四に規定する豚コレラ又はアフリカ豚コレラに係る処分、手続その他の行為は、それぞれこの省令による改正後のと畜場法施行規則別表第四に規定する豚熱又はアフリカ豚熱に係る処分、手続その他の行為とみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第三条、第七条関係）</RelatedArticleNum>
@@ -1882,7 +1989,7 @@
           <Sentence Num="1" WritingMode="vertical">牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt>
             </Ruby>疫、流行性脳炎、狂犬病、水胞性口炎、リフトバレー熱、炭<Ruby>疽<Rt>そ</Rt>
             </Ruby>、出血性敗血症、ブルセラ病、結核病、ヨーネ病、ピロプラズマ病、アナプラズマ病、伝達性海綿状脳症、鼻<Ruby>疽<Rt>そ</Rt>
-            </Ruby>、馬伝染性貧血、アフリカ馬疫、豚コレラ、アフリカ豚コレラ、豚水胞病、ブルータング、アカバネ病、悪性カタル熱、チュウザン病、ランピースキン病、牛ウイルス性下痢・粘膜病、牛伝染性鼻気管炎、牛白血病、アイノウイルス感染症、イバラキ病、牛丘<Ruby>疹<Rt>しん</Rt>
+            </Ruby>、馬伝染性貧血、アフリカ馬疫、豚熱、アフリカ豚熱、豚水胞病、ブルータング、アカバネ病、悪性カタル熱、チュウザン病、ランピースキン病、牛ウイルス性下痢・粘膜病、牛伝染性鼻気管炎、牛白血病、アイノウイルス感染症、イバラキ病、牛丘<Ruby>疹<Rt>しん</Rt>
             </Ruby>性口炎、牛流行熱、類鼻<Ruby>疽<Rt>そ</Rt>
             </Ruby>、破傷風、気<Ruby>腫疽<Rt>しゆそ</Rt>
             </Ruby>、レプトスピラ症、サルモネラ症、牛カンピロバクター症、トリパノソーマ病、トリコモナス病、ネオスポラ症、牛バエ幼虫症、ニパウイルス感染症、馬インフルエンザ、馬ウイルス性動脈炎、馬鼻肺炎、馬モルビリウイルス肺炎、馬痘、野<Ruby>兎<Rt>と</Rt>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="191210e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="40" Year="2">
+<Law DataInfo="200601e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="40" Year="2">
   <LawNum>平成二年厚生省令第四十号</LawNum>
   <LawBody>
     <LawTitle>食鳥処理の事業の規制及び食鳥検査に関する法律施行規則</LawTitle>
@@ -72,7 +72,7 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">水道法（昭和三十二年法律第百七十七号）に規定する水道事業及び専用水道により供給される水（以下「水道事業等により供給される水」という。）以外の水を使用する食鳥処理場にあっては、同法第二十条第三項に規定する地方公共団体の機関又は厚生労働大臣の指定する者の行う当該使用しようとする水に係る水質検査の結果を証する書類の写し</Sentence>
+                <Sentence Num="1" WritingMode="vertical">水道法（昭和三十二年法律第百七十七号）第三条第二項に規定する水道事業、同条第六項に規定する専用水道及び同条第七項に規定する簡易専用水道により供給される水（以下「水道事業等により供給される水」という。）以外の水を使用する食鳥処理場にあっては、同法第二十条第三項に規定する地方公共団体の機関又は厚生労働大臣の指定する者の行う当該使用しようとする水に係る水質検査の結果を証する書類の写し</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
@@ -146,8 +146,64 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第十一条の厚生労働省令で定める基準は、別表第三又は別表第四のいずれかとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第十一条第一項第一号に掲げる事項に関する同項の厚生労働省令で定める基準は、別表第三とする。</Sentence>
             </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第十一条第一項第二号に掲げる事項に関する同項の厚生労働省令で定める基準は、別表第四とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">食鳥処理業者は、前二項の基準に基づき、次に定めるところにより公衆衛生上必要な措置を定め、これを遵守しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">食品衛生上の危害の発生の防止のため、施設の衛生管理及び食鳥処理に関する計画（以下「衛生管理計画」という。）を作成し、食鳥処理に従事する者その他の関係者に周知徹底を図ること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">施設設備、機械器具の構造及び材質並びに食鳥処理の工程を考慮し、これらの工程において公衆衛生上必要な措置を適切に行うための手順書（以下「手順書」という。）を作成すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">衛生管理の実施状況を記録し、その記録を保存すること。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">なお、記録の保存期間は、取り扱う食鳥肉等が使用され、又は消費されるまでの期間を踏まえ、合理的に設定すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">衛生管理計画及び手順書の効果を検証し、必要に応じて衛生管理計画の内容を見直すこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">食鳥処理業者は、前項に規定する措置に関し、次に定める事項について食鳥検査員による検査又は試験を受け、その結果に基づき必要に応じて見直しを行うこと。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、法第十六条第一項の認定を受けた食鳥処理業者にあっては、この限りではない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">衛生管理計画又は手順書を作成又は修正した場合にあっては、それらが食品衛生上の危害の発生を防止する目的において、科学的に妥当なものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">衛生管理が衛生管理計画及び手順書に基づき適切に行われていること。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="5">
@@ -2096,6 +2152,15 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一一月七日厚生労働省令第六八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、食品衛生法等の一部を改正する法律（平成三十年法律第四十六号）の施行の日（令和二年六月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
@@ -2858,7 +2923,7 @@
     </AppdxTable>
     <AppdxTable Num="3">
       <AppdxTableTitle WritingMode="vertical">別表第三</AppdxTableTitle>
-      <RelatedArticleNum>（第四条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第四条第一項関係）</RelatedArticleNum>
       <Item Num="1">
         <ItemTitle>一</ItemTitle>
         <ItemSentence>
@@ -3268,257 +3333,197 @@
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">従事者の衛生管理</Sentence>
         </ItemSentence>
+      </Item>
+      <Item Num="4">
+        <ItemTitle/>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">食鳥処理業者又は食鳥処理衛生管理者は、次に従い従事者の衛生管理を行うこと。</Sentence>
+        </ItemSentence>
+        <Subitem1 Num="1">
+          <Subitem1Title>（１）</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">従事者の健康状態の把握に努め、必要に応じ健康診断を受けさせること。</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>（２）</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">化<Ruby>膿<Rt>のう</Rt>
+              </Ruby>性疾患等食中毒の原因となる疾患又は食鳥肉等を介して伝染するおそれのある疾患に感染した従事者を、食鳥処理に従事させないこと。</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="3">
+          <Subitem1Title>（３）</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">食鳥処理場においては、従事者に明淡色で清潔な専用の作業衣及び帽子を着用させ、並びに専用の履物を履かせ、かつ、不要の物を身につけさせないこと。</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="4">
+          <Subitem1Title>（４）</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">作業中に、前掛等を着用した状態で従事者を便所へ立ち入らせないこと。</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="5">
+          <Subitem1Title>（５）</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">従事者の手指は常に清潔に保ち、作業前、用便後及び食鳥、食鳥とたい、食鳥中抜とたい又は食鳥肉等を汚染するおそれのあるものに接触した後には、よく洗浄消毒をさせること。</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="6">
+          <Subitem1Title>（６）</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">食鳥処理場においては、従事者に所定の場所以外での着替え、喫煙、放たん及び食事等をさせないこと。</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
+      </Item>
+      <Item Num="5">
+        <ItemTitle>四</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">教育訓練</Sentence>
+        </ItemSentence>
         <Subitem1 Num="1">
           <Subitem1Title>イ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">食鳥処理業者又は食鳥処理衛生管理者は、食鳥処理が衛生的に行われるよう、従事者の衛生教育を継続的に行うこと。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">衛生管理計画及び手順書に基づいた食鳥処理が行われるよう、食鳥処理に従事する者その他の関係者に対して、衛生管理に必要な教育を実施すること。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="2">
           <Subitem1Title>ロ</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">食鳥処理業者又は食鳥処理衛生管理者は、次に従い従事者の衛生管理を行うこと。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">化学物質を取り扱う者に対して、使用する化学物質を安全に取扱うことができるよう教育訓練を実施すること。</Sentence>
           </Subitem1Sentence>
-          <Subitem2 Num="1">
-            <Subitem2Title>（１）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">従事者の健康状態の把握に努め、必要に応じ健康診断を受けさせること。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="2">
-            <Subitem2Title>（２）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">化<Ruby>膿<Rt>のう</Rt>
-                </Ruby>性疾患等食中毒の原因となる疾患又は食鳥肉等を介して伝染するおそれのある疾患に感染した従事者を、食鳥処理に従事させないこと。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="3">
-            <Subitem2Title>（３）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">食鳥処理場においては、従事者に明淡色で清潔な専用の作業衣及び帽子を着用させ、並びに専用の履物を履かせ、かつ、不要の物を身につけさせないこと。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="4">
-            <Subitem2Title>（４）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">作業中に、前掛等を着用した状態で従事者を便所へ立ち入らせないこと。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="5">
-            <Subitem2Title>（５）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">従事者の手指は常に清潔に保ち、作業前、用便後及び食鳥、食鳥とたい、食鳥中抜とたい又は食鳥肉等を汚染するおそれのあるものに接触した後には、よく洗浄消毒をさせること。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="6">
-            <Subitem2Title>（６）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">食鳥処理場においては、従事者に所定の場所以外での着替え、喫煙、放たん及び食事等をさせないこと。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
+        </Subitem1>
+        <Subitem1 Num="3">
+          <Subitem1Title>ハ</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">イ及びロの教育訓練の効果について定期的に検証を行い、必要に応じて教育内容の見直しを行うこと。</Sentence>
+          </Subitem1Sentence>
         </Subitem1>
       </Item>
-      <Item Num="4">
-        <ItemTitle>四</ItemTitle>
+      <Item Num="6">
+        <ItemTitle>五</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">その他</Sentence>
         </ItemSentence>
-      </Item>
-      <Item Num="5">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食鳥処理業者又は食鳥処理衛生管理者は、食鳥処理場内に従事者以外の者をみだりに立ち入らせないこと。</Sentence>
-        </ItemSentence>
+        <Subitem1 Num="1">
+          <Subitem1Title>イ</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">食品衛生上の危害の発生の防止に必要な限度において、取り扱う食鳥の産地、食鳥とたい、食鳥中抜とたい又は食鳥肉等に係る食鳥処理の状態及び食鳥肉等の出荷又は販売先その他必要な事項に関する記録を作成し、保存するよう努めること。</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>ロ</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">食鳥とたい、食鳥中抜とたい及び食鳥肉等について自主検査を行った場合には、その記録を保存するよう努めること。</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="3">
+          <Subitem1Title>ハ</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence Num="1" WritingMode="vertical">食鳥処理場内に食鳥処理に従事する者その他の関係者以外の者をみだりに立ち入らせないこと。</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
       </Item>
     </AppdxTable>
     <AppdxTable Num="4">
       <AppdxTableTitle WritingMode="vertical">別表第四</AppdxTableTitle>
-      <RelatedArticleNum>（第四条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第四条第二項関係）</RelatedArticleNum>
       <Item Num="1">
         <ItemTitle>一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食鳥処理場の衛生的管理</Sentence>
+          <Sentence Num="1" WritingMode="vertical">危害要因の分析</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="2">
         <ItemTitle/>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">別表第三第一号に同じ。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食鳥処理に必要な工程ごとに、食品衛生上の危害を発生させ得る要因（以下この表において「危害要因」という。）の一覧表を作成し、これらの危害要因を管理するための措置（以下「管理措置」という。）を定めること。</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="3">
         <ItemTitle>二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食鳥、食鳥とたい、食鳥中抜とたい及び食鳥肉等の衛生的取扱い</Sentence>
+          <Sentence Num="1" WritingMode="vertical">重要管理点の決定</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title>イ</Subitem1Title>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">危害分析・重要管理点方式（食品の安全性を確保する上で重要な危害の原因となる物質及び当該危害が発生するおそれのある工程の特定、評価及び管理を行う衛生管理の方式をいう。）を用いて衛生管理を行う食鳥処理業者は、食鳥処理衛生管理者その他の食鳥、食鳥とたい、食鳥中抜とたい及び食鳥肉等の衛生的取扱いについて専門的な知識を有する者により構成される班を編成し、次の（１）から（７）までに掲げる措置を実施すること。</Sentence>
-          </Subitem1Sentence>
-          <Subitem2 Num="1">
-            <Subitem2Title>（１）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">製品の名称及び種類、原材料その他必要な事項を記載した製品説明書を作成すること。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="2">
-            <Subitem2Title>（２）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">食鳥の搬入、とさつ、解体、処理、保管、出荷その他の工程の流れを記載した図を、食鳥処理場における実際の工程及び施設設備の配置に則して作成すること。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="3">
-            <Subitem2Title>（３）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">次に掲げる事項を記載した文書を作成すること。</Sentence>
-            </Subitem2Sentence>
-            <Subitem3 Num="1">
-              <Subitem3Title>（ｉ）</Subitem3Title>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">生体の受入れ、放血、湯漬、脱羽、内臓摘出又は冷却を含む工程ごとに、当該工程につき発生するおそれのある食品衛生上の危害の原因となる物質及び当該危害の発生を防止するための措置（以下「管理措置」という。）（当該危害の原因となる物質が認められない場合にあつては、その理由）</Sentence>
-              </Subitem3Sentence>
-            </Subitem3>
-            <Subitem3 Num="2">
-              <Subitem3Title>（ｉｉ）</Subitem3Title>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">（ｉ）の工程のうち、製品に係る食品衛生上の危害の発生を防止するため、当該工程に係る管理措置の実施状況の連続的な又は相当の頻度の確認を必要とするもの（以下「重要管理点」という。）（重要管理点を定めない場合にあつては、その理由）</Sentence>
-              </Subitem3Sentence>
-            </Subitem3>
-            <Subitem3 Num="3">
-              <Subitem3Title>（ｉｉｉ）</Subitem3Title>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">全ての重要管理点ごとに、当該重要管理点につき発生するおそれのある食品衛生上の危害の原因となる物質を許容できる範囲まで低減又は排除するための管理措置の基準</Sentence>
-              </Subitem3Sentence>
-            </Subitem3>
-            <Subitem3 Num="4">
-              <Subitem3Title>（ｉｖ）</Subitem3Title>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">（ｉｉ）の確認の方法</Sentence>
-              </Subitem3Sentence>
-            </Subitem3>
-          </Subitem2>
-          <Subitem2 Num="4">
-            <Subitem2Title>（４）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">（３）（ｉｉ）の確認により重要管理点に係る管理措置が適切に講じられていないと認められたときに講ずべき改善措置の方法を記載した文書を作成すること。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="5">
-            <Subitem2Title>（５）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">製品の試験の方法その他の食品衛生上の危害の発生が適切に防止されていることを検証するための方法を記載した文書を作成すること。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="6">
-            <Subitem2Title>（６）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">次に掲げる事項について、その記録の方法並びに当該記録の保存の方法及び期間を記載した文書を作成すること。</Sentence>
-            </Subitem2Sentence>
-            <Subitem3 Num="1">
-              <Subitem3Title>（ｉ）</Subitem3Title>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">（３）（ｉｉ）の確認に関する事項</Sentence>
-              </Subitem3Sentence>
-            </Subitem3>
-            <Subitem3 Num="2">
-              <Subitem3Title>（ｉｉ）</Subitem3Title>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">（４）の改善措置に関する事項</Sentence>
-              </Subitem3Sentence>
-            </Subitem3>
-            <Subitem3 Num="3">
-              <Subitem3Title>（ｉｉｉ）</Subitem3Title>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">（５）の検証に関する事項</Sentence>
-              </Subitem3Sentence>
-            </Subitem3>
-          </Subitem2>
-          <Subitem2 Num="7">
-            <Subitem2Title>（７）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">（３）から（６）までの規定に基づき作成した文書に従い、食鳥、食鳥とたい、食鳥中抜とたい及び食鳥肉等に係る食品衛生上の危害の発生の防止のために公衆衛生上必要な措置を講ずること。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-        </Subitem1>
-        <Subitem1 Num="2">
-          <Subitem1Title>ロ</Subitem1Title>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">イに掲げるもののほか、次に掲げる措置を行うこと。</Sentence>
-          </Subitem1Sentence>
-          <Subitem2 Num="1">
-            <Subitem2Title>（１）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">脱羽後検査又は食鳥とたいの体表の状況についての基準適合の確認の前に食鳥とたいの脱羽を終了すること。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="2">
-            <Subitem2Title>（２）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">内臓摘出後検査又は食鳥中抜とたいに係る内臓及びその体壁の内側面の状況についての基準適合の確認に際しては、次の事項に留意して処理すること。</Sentence>
-            </Subitem2Sentence>
-            <Subitem3 Num="1">
-              <Subitem3Title>（ｉ）</Subitem3Title>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">食鳥中抜とたい及び当該食鳥中抜とたいに係る内臓が同一の食鳥に由来するものであることが確認可能な状態で検査又は確認に供すること。</Sentence>
-              </Subitem3Sentence>
-            </Subitem3>
-            <Subitem3 Num="2">
-              <Subitem3Title>（ｉｉ）</Subitem3Title>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">検査又は確認のための腹部の切開は、検査又は確認が実施可能な程度にとどめること。</Sentence>
-              </Subitem3Sentence>
-            </Subitem3>
-            <Subitem3 Num="3">
-              <Subitem3Title>（ｉｉｉ）</Subitem3Title>
-              <Subitem3Sentence>
-                <Sentence Num="1" WritingMode="vertical">心臓、肝臓、脾臓、筋胃等は検査又は確認のために十分引き出すこと。</Sentence>
-              </Subitem3Sentence>
-            </Subitem3>
-          </Subitem2>
-        </Subitem1>
       </Item>
       <Item Num="4">
-        <ItemTitle>三</ItemTitle>
+        <ItemTitle/>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">従事者の衛生管理</Sentence>
+          <Sentence Num="1" WritingMode="vertical">前号で特定された危害要因につき、その発生を防止し、排除し、又は許容できる水準にまで低減するために管理措置を講ずることが不可欠な工程（以下この表において「重要管理点」という。）を決定すること。</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="5">
-        <ItemTitle/>
+        <ItemTitle>三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">別表第三第三号に同じ。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">管理基準の設定</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="6">
+        <ItemTitle/>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">個々の重要管理点における危害要因につき、その発生を防止し、排除し、又は許容できる水準にまで低減するための基準（以下この表において「管理基準」という。）を設定すること。</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="7">
         <ItemTitle>四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">その他</Sentence>
+          <Sentence Num="1" WritingMode="vertical">モニタリング方法の設定</Sentence>
         </ItemSentence>
-        <Subitem1 Num="1">
-          <Subitem1Title>イ</Subitem1Title>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">食鳥処理業者又は食鳥処理衛生管理者は、食鳥処理場内に従事者以外の者をみだりに立ち入らせないこと。</Sentence>
-          </Subitem1Sentence>
-        </Subitem1>
-        <Subitem1 Num="2">
-          <Subitem1Title>ロ</Subitem1Title>
-          <Subitem1Sentence>
-            <Sentence Num="1" WritingMode="vertical">食鳥処理業者は、第一号並びに第二号イ及びロに掲げる措置が適切に実施されるよう、次に掲げるところにより管理すること。</Sentence>
-          </Subitem1Sentence>
-          <Subitem2 Num="1">
-            <Subitem2Title>（１）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">適正かつ計画的に実施するため必要な事項を記載した文書を作成すること。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="2">
-            <Subitem2Title>（２）</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">食鳥処理衛生管理者に、当該措置が（１）の文書に基づき適切に実施されていることを確認させること。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-        </Subitem1>
+      </Item>
+      <Item Num="8">
+        <ItemTitle/>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">重要管理点の管理について、連続的な又は相当の頻度による実施状況の把握（以下この表において「モニタリング」という。）をするための方法を設定すること。</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="9">
+        <ItemTitle>五</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">改善措置の設定</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="10">
+        <ItemTitle/>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">個々の重要管理点において、モニタリングの結果、管理基準を逸脱したことが判明した場合の改善措置を設定すること。</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="11">
+        <ItemTitle>六</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">検証方法の設定</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="12">
+        <ItemTitle/>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">前各号に規定する措置の内容の効果を、定期的に検証するための手順を定めること。</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="13">
+        <ItemTitle>七</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">記録の作成</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="14">
+        <ItemTitle/>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">食鳥処理の事業の規模や業態に応じて、前各号に規定する措置の内容に関する書面とその実施の記録を作成すること。</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="15">
+        <ItemTitle>八</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">法第十六条第一項の認定を受けた食鳥処理業者の取組</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="16">
+        <ItemTitle/>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">法第十六条第一項の認定を受けた食鳥処理業者にあっては、前各号に規定する事項を簡略化して公衆衛生上必要な措置を行うことができる。</Sentence>
+        </ItemSentence>
       </Item>
     </AppdxTable>
     <AppdxTable Num="5">

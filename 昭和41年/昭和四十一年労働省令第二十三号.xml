@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200407e81k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="23" Year="41">
+<Law DataInfo="200601e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="23" Year="41">
   <LawNum>昭和四十一年労働省令第二十三号</LawNum>
   <LawBody>
     <LawTitle>労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律施行規則</LawTitle>
@@ -1387,6 +1387,17 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="12_2">
+        <ArticleCaption>（準用）</ArticleCaption>
+        <ArticleTitle>第十二条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">雇用の分野における男女の均等な機会及び待遇の確保等に関する法律施行規則（昭和六十一年労働省令第二号）第三条から第十二条までの規定は、法第三十条の六第一項の調停の手続について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同令第三条第一項中「法第十八条第一項」とあるのは「労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律（昭和四十一年法律第百三十二号。以下「労働施策総合推進法」という。）第三十条の六第一項」と、同項並びに同令第四条（見出しを含む。）及び第五条（見出しを含む。）中「機会均等調停会議」とあるのは「優越的言動問題調停会議」と、同令第六条中「法第十八条第一項」とあるのは「労働施策総合推進法第三十条の六第一項」と、「事業場」とあるのは「事業所」と、同令第八条第一項及び第三項中「法第二十条」とあるのは「労働施策総合推進法第三十条の七において準用する法第二十条」と、同令第九条中「事業場」とあるのは「事業所」と、同令第十条第一項中「第四条第一項及び第二項」とあるのは「労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律施行規則（昭和四十一年労働省令第二十三号）第十二条の二において準用する第四条第一項及び第二項」と、「第八条」とあるのは「同令第十二条の二において準用する第八条」と、同令第十一条第一項中「法第二十一条」とあるのは「労働施策総合推進法第三十条の七において準用する法第二十一条」と、同令別記様式中「事業場」とあるのは「事業所」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="13">
         <ArticleCaption>（要請等）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
@@ -1495,7 +1506,7 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">法第三十三条に規定する厚生労働大臣の権限</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十三条第一項に規定する厚生労働大臣の権限</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="4">
@@ -1510,11 +1521,17 @@
               <Sentence Num="1" WritingMode="vertical">法第三十五条に規定する厚生労働大臣の権限</Sentence>
             </ItemSentence>
           </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">法第三十六条第一項に規定する厚生労働大臣の権限</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">前項（第二号に係る部分を除く。）の規定により都道府県労働局長に委任された権限は、法第二十七条第一項及び第二項、第二十八条第一項及び第三項、第三十三条、第三十四条第一項並びに第三十五条に規定する事業主又は国若しくは地方公共団体の事業所の所在地を管轄する公共職業安定所の長に委任する。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">前項（第二号に係る部分を除く。）の規定により都道府県労働局長に委任された権限は、法第二十七条第一項及び第二項、第二十八条第一項及び第三項、第三十三条第一項、第三十四条第一項並びに第三十五条に規定する事業主又は国若しくは地方公共団体の事業所の所在地を管轄する公共職業安定所の長に委任する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、都道府県労働局長が自らその権限を行うことを妨げない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -5015,6 +5032,19 @@
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月二七日厚生労働省令第八六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、女性の職業生活における活躍の推進に関する法律等の一部を改正する法律の施行の日（令和二年六月一日）から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

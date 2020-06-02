@@ -1471,7 +1471,7 @@
             <Subitem1 Delete="false" Hide="false" Num="11">
               <Subitem1Title>ル</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">仮想通貨交換業を行う者</Sentence>
+                <Sentence WritingMode="vertical">暗号資産交換業を行う者</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="12">
@@ -1685,7 +1685,7 @@
             <Subitem1 Delete="false" Hide="false" Num="22">
               <Subitem1Title>ラ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">仮想通貨交換業を行う者</Sentence>
+                <Sentence WritingMode="vertical">暗号資産交換業を行う者</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="23">
@@ -4214,11 +4214,17 @@
           <Item Delete="false" Hide="false" Num="15">
             <ItemTitle>十五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">大規模災害からの復興に関する法律（平成二十五年法律第五十五号）第二十条第一項に規定する国土交通省が行う地籍調査に関すること。</Sentence>
+              <Sentence WritingMode="vertical">国土調査法第二十三条の四の規定による必要な情報及び資料の提供、国土調査の実施に関する助言を行う者の派遣又はあっせんその他必要な援助に関すること（地籍調査に係るものに限る。）。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="16">
             <ItemTitle>十六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">大規模災害からの復興に関する法律（平成二十五年法律第五十五号）第二十条第一項に規定する国土交通省が行う地籍調査に関すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="17">
+            <ItemTitle>十七</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">開発建設部の所掌事務に係る補助金等の交付に関すること（地籍整備に関するものに限る。）</Sentence>
             </ItemSentence>
@@ -8004,6 +8010,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月一日内閣府令第四〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

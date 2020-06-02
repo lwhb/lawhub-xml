@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="70" Year="02">
+<Law DataInfo="200601e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="70" Year="02">
   <LawNum>平成二年法律第七十号</LawNum>
   <LawBody>
     <LawTitle>食鳥処理の事業の規制及び食鳥検査に関する法律</LawTitle>
@@ -330,13 +330,31 @@
       </Chapter>
       <Chapter Delete="false" Hide="false" Num="3">
         <ChapterTitle>第三章　食鳥処理業者の遵守事項</ChapterTitle>
-        <Article Delete="false" Hide="false" Num="11">
+        <Article Num="11">
           <ArticleCaption>（衛生管理等の基準）</ArticleCaption>
           <ArticleTitle>第十一条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">食鳥処理業者は、厚生労働省令で定める基準に従い、食鳥処理場を衛生的に管理し、食鳥、食鳥とたい、食鳥中抜とたい及び食鳥肉等を衛生的に取り扱い、その他公衆衛生上必要な措置を講じなければならない。</Sentence>
+              <Sentence>厚生労働大臣は、食鳥処理場の衛生的な管理、食鳥、食鳥とたい、食鳥中抜とたい及び食鳥肉等の衛生的な取扱いその他公衆衛生上必要な措置（次項において「公衆衛生上必要な措置」という。）について、厚生労働省令で、次に掲げる事項に関する基準を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>食鳥処理場の内外の清潔保持、ねずみ及び昆虫の駆除その他一般的な衛生管理に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>食品衛生上の危害の発生を防止するために特に重要な工程を管理するための取組（第十六条第一項の認定を受けた食鳥処理業者にあっては、その食鳥処理をする食鳥の羽数に応じた取組）に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>食鳥処理業者は、前項の規定による基準に従い、厚生労働省令で定めるところにより公衆衛生上必要な措置を定め、これを遵守しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1120,7 +1138,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">厚生労働大臣は、第十一条、第十五条第四項第二号若しくは第三号、同条第六項又は第十九条の厚生労働省令を制定し、又は改廃しようとするときは、その趣旨、内容その他の必要な事項を公表し、広く国民の意見を求めるものとする。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">厚生労働大臣は、第十一条第一項、第十五条第四項第二号若しくは第三号、同条第六項又は第十九条の厚生労働省令を制定し、又は改廃しようとするときは、その趣旨、内容その他の必要な事項を公表し、広く国民の意見を求めるものとする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、食鳥肉等に起因する衛生上の危害の発生を防止するため緊急を要する場合で、あらかじめ広く国民の意見を求めるいとまがないときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -1707,7 +1725,7 @@
             <Sentence WritingMode="vertical">民法の一部を改正する法律（平成十一年法律第百四十九号）附則第三条第三項の規定により従前の例によることとされる準禁治産者及びその保佐人に関するこの法律による改正規定の適用については、次に掲げる改正規定を除き、なお従前の例による。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1:25">
-            <ItemTitle>一から二十五まで</ItemTitle>
+            <ItemTitle>一～二十五</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">略</Sentence>
             </ItemSentence>
@@ -1851,7 +1869,7 @@
             <Sentence WritingMode="vertical">厚生労働大臣は、附則第一条第三号に掲げる規定の施行の日前においても、次に掲げる場合には、その趣旨、内容その他の必要な事項を公表し、広く国民の意見を求め、又は食品安全委員会の意見を聴くことができる。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1:2">
-            <ItemTitle>一及び二</ItemTitle>
+            <ItemTitle>一・二</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">略</Sentence>
             </ItemSentence>
@@ -2182,6 +2200,120 @@
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成三十一年四月一日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次条及び附則第四十八条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年六月一三日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第十一条及び第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二条の規定、第三条中と畜場法第二十条の改正規定並びに第四条中食鳥処理の事業の規制及び食鳥検査に関する法律第十七条第一項第四号、第三十九条第二項及び第四十条の改正規定並びに附則第八条、第十五条から第二十一条まで及び第二十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（公衆衛生上必要な措置に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第四条の規定（附則第一条第三号に掲げる改正規定を除く。以下この条において同じ。）による改正後の食鳥処理の事業の規制及び食鳥検査に関する法律（附則第十一条第一項第三号において「新食鳥処理法」という。）第十一条第二項に規定する公衆衛生上必要な措置については、施行日から起算して一年間は、第四条の規定による改正前の食鳥処理の事業の規制及び食鳥検査に関する法律第十一条の規定により定められた基準によることとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（処分、手続等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条第三号に掲げる規定にあっては、当該規定。附則第十二条において同じ。）の施行前に改正前のそれぞれの法律（これらに基づく命令を含む。以下この条において同じ。）の規定によってした処分、手続その他の行為であって、改正後のそれぞれの法律の規定に相当の規定があるものは、この附則に別段の定めがあるものを除き、改正後のそれぞれの法律の相当の規定によってした処分、手続その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（国民の意見の聴取等）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>厚生労働大臣は、施行日前においても、次に掲げる場合には、その趣旨、内容その他の必要な事項を公表し、広く国民の意見を求め、又は食品安全委員会の意見を聴くことができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一・二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>新食鳥処理法第十一条第一項の厚生労働省令を定めようとするとき。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為及び附則第五条から第七条までに規定する場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から前条までに規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の規定について、その施行の状況等を勘案しつつ検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

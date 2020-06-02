@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="194" Year="27">
+<Law DataInfo="190528e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="194" Year="27">
   <LawNum>平成二十七年政令第百九十四号</LawNum>
   <LawBody>
     <LawTitle>厚生労働省国立研究開発法人審議会令</LawTitle>
@@ -191,7 +191,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">審議会の庶務は、厚生労働省大臣官房厚生科学課において総括し、及び処理する。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、通則法第三十五条の四第四項、第三十五条の六第六項及び第三十五条の七第二項の規定により厚生労働大臣が諮問する事項（国立研究開発法人国立がん研究センター、国立研究開発法人国立循環器病研究センター、国立研究開発法人国立精神・神経医療研究センター、国立研究開発法人国立国際医療研究センター、国立研究開発法人国立成育医療研究センター及び国立研究開発法人国立長寿医療研究センターに関するものに限る。）に係るものについては、厚生労働省医政局医療経営支援課において処理する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、通則法第三十五条の四第四項、第三十五条の六第六項及び第三十五条の七第二項の規定により厚生労働大臣が諮問する事項（国立研究開発法人国立がん研究センター、国立研究開発法人国立循環器病研究センター、国立研究開発法人国立精神・神経医療研究センター、国立研究開発法人国立国際医療研究センター、国立研究開発法人国立成育医療研究センター及び国立研究開発法人国立長寿医療研究センターに関するものに限る。）に係るものについては、厚生労働省医政局研究開発振興課において処理する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -214,6 +214,19 @@
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二九日政令第八三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、平成三十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

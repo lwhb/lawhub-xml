@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="27">
+<Law DataInfo="200601e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="27">
   <LawNum>平成二十七年内閣府・財務省令第一号</LawNum>
   <LawBody>
     <LawTitle>食品表示法第六条第三項の内閣府令・財務省令で定める表示事項及び遵守事項等を定める命令</LawTitle>
@@ -58,11 +58,17 @@
           <Item Delete="false" Hide="false" Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定保健用食品（健康増進法に規定する特別用途表示の許可等に関する内閣府令（平成二十一年内閣府令第五十七号）第二条第一項第五号に規定する食品（容器包装に入れられたものに限る。）をいう。）に関する事項（食品を製造し、若しくは加工した場所で販売する場合又は不特定若しくは多数の者に対する販売以外の譲渡をする場合における内容量又は固形量及び内容総量並びに食品関連事業者の氏名又は名称及び住所を含む。）</Sentence>
+              <Sentence WritingMode="vertical">指定成分等含有食品（食品衛生法第八条第一項に規定する指定成分等含有食品をいう。）に関する事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="9">
             <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">特定保健用食品（健康増進法に規定する特別用途表示の許可等に関する内閣府令（平成二十一年内閣府令第五十七号）第二条第一項第五号に規定する食品（容器包装に入れられたものに限る。）をいう。）に関する事項（食品を製造し、若しくは加工した場所で販売する場合又は不特定若しくは多数の者に対する販売以外の譲渡をする場合における内容量又は固形量及び内容総量並びに食品関連事業者の氏名又は名称及び住所を含む。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="10">
+            <ItemTitle>十</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">遺伝子組換え食品に関する事項（一般用加工食品にあってはこれを製造し、又は加工した場所で販売する場合及び不特定又は多数の者に対する販売以外の譲渡をする場合に限る。）</Sentence>
             </ItemSentence>
@@ -144,12 +150,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二七日内閣府・財務省令第二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この命令は、食品衛生法等の一部を改正する法律の施行の日（令和二年六月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H27F10002004001_1907092107_001.pdf"/>
+          <Fig src="./pict/H27F10002004001_2005211005_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

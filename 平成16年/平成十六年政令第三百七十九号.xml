@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="379" Year="16">
+<Law DataInfo="200410e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="379" Year="16">
   <LawNum>平成十六年政令第三百七十九号</LawNum>
   <LawBody>
     <LawTitle>不動産登記令</LawTitle>
@@ -1302,9 +1302,22 @@
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence>この政令は、民法の一部を改正する法律の施行の日（平成三十二年四月一日）から施行する。</Sentence>
+          <Sentence>この政令は、民法の一部を改正する法律の施行の日（令和二年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二八日政令第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和元年一二月一三日政令第一八三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -1318,6 +1331,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二五日政令第五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、民法及び家事事件手続法の一部を改正する法律附則第一条第四号に掲げる規定の施行の日（令和二年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表（第三条、第七条関係）</AppdxTableTitle>
@@ -2048,7 +2070,8 @@
               <Sentence>ニ　借地借家法第三十九条第一項の規定による定めのある賃借権の設定にあっては、同条第二項の書面及びその他の登記原因を証する情報（登記原因を証する情報として執行力のある確定判決の判決書の正本が提供されたときを除く。）</Sentence>
               <Sentence>ホ　高齢者の居住の安定確保に関する法律（平成十三年法律第二十六号）第五十二条の定めがある賃借権の設定にあっては、同条の書面（登記原因を証する情報として執行力のある確定判決の判決書の正本が提供されたときを除く。）</Sentence>
               <Sentence>ヘ　大規模な災害の被災地における借地借家に関する特別措置法第七条第一項の定めがある賃借権の設定にあっては、同条第三項の書面（登記原因を証する情報として執行力のある確定判決の判決書の正本が提供されたときを除く。）</Sentence>
-              <Sentence>ト　イからヘまでに規定する賃借権の設定以外の場合にあっては、登記原因を証する情報</Sentence>
+              <Sentence>ト　建物が配偶者居住権の登記のある建物であるときは、当該建物の所有者が賃借権の設定の登記の登記名義人となる者に当該建物の使用又は収益をさせることを承諾したことを証する当該所有者が作成した情報（当該登記名義人となる者に当該建物の使用又は収益をさせることを許す旨の定めの登記がある場合を除く。）</Sentence>
+              <Sentence>チ　イからトまでに規定する賃借権の設定以外の場合にあっては、登記原因を証する情報</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2079,6 +2102,20 @@
             <TableColumn Valign="top">
               <Sentence>イ　登記原因を証する情報</Sentence>
               <Sentence>ロ　賃貸人が賃借権の譲渡を承諾したことを証する当該賃貸人が作成した情報又は借地借家法第十九条第一項前段若しくは第二十条第一項前段若しくは大規模な災害の被災地における借地借家に関する特別措置法第五条第一項前段に規定する承諾に代わる許可があったことを証する情報（賃借権の譲渡を許す旨の定めの登記があるときを除く。）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>四十の二</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>配偶者居住権の設定の登記</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>法第八十一条の二各号に掲げる登記事項</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>登記原因を証する情報</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2116,7 +2153,6 @@
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>登記原因を証する情報</Sentence>
-              <Sentence>​</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2189,7 +2225,6 @@
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>登記原因を証する情報</Sentence>
-              <Sentence>​</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="191" Year="26">
+<Law DataInfo="200529e03k03m02" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="191" Year="26">
   <LawNum>平成二十六年政令第百九十一号</LawNum>
   <LawBody>
     <LawTitle>幹部職員の任用等に関する政令</LawTitle>
@@ -558,10 +558,11 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年一〇月二四日政令第一三六号">
+    <SupplProvision AmendLawNum="令和元年一〇月二四日政令第一三六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
-        <ParagraphNum/>
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence>この政令は、特定複合観光施設区域整備法附則第一条第三号に掲げる規定の施行の日（令和二年一月七日）から施行する。</Sentence>
         </ParagraphSentence>

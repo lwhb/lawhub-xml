@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="285" Year="26">
+<Law DataInfo="190725e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="285" Year="26">
   <LawNum>昭和二十六年法律第二百八十五号</LawNum>
   <LawBody>
     <LawTitle>博物館法</LawTitle>
@@ -450,7 +450,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">公立博物館は、当該博物館を設置する地方公共団体の教育委員会の所管に属する。</Sentence>
+              <Sentence WritingMode="vertical">公立博物館は、当該博物館を設置する地方公共団体の教育委員会（地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）第二十三条第一項の条例の定めるところにより地方公共団体の長がその設置、管理及び廃止に関する事務を管理し、及び執行することとされた博物館にあつては、当該地方公共団体の長。第二十一条において同じ。）の所管に属する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1141,6 +1141,29 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二六号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前二条に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

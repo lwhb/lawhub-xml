@@ -190,6 +190,28 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Delete="false" Hide="false" Num="7_2">
+        <ArticleCaption>（会議の開催が困難である場合の特例）</ArticleCaption>
+        <ArticleTitle>第七条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">会長は、災害の発生、感染症のまん延その他のやむを得ない事由により第五条の会議の開催が困難であると認められる場合には、全ての委員に対し、書面又はこれに代わる電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。次項において同じ。）により、選考会の議事について意見を求めることをもって同条の会議の開催に代えることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の場合において、委員の過半数から書面又はこれに代わる電磁的記録により意見の提出があったときは、第六条の規定にかかわらず、選考会の議事は、意見を提出した委員の過半数で決し、可否同数のときは、会長の決するところによる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の議事についての前条の規定の適用については、同条中「出席した会長及び委員二人以上」とあるのは「会長」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（庶務）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
@@ -322,6 +344,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月二八日法務省令第三五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

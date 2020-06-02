@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="055" Year="23">
+<Law DataInfo="191001e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="055" Year="23">
   <LawNum>平成二十三年内閣府令第五十五号</LawNum>
   <LawBody>
     <LawTitle>特定非営利活動促進法施行規則</LawTitle>
@@ -208,6 +208,12 @@
                   <Sentence WritingMode="vertical">寄附者の氏名（法人にあっては、その名称）及びその住所が明らかな寄附金以外の寄附金</Sentence>
                 </ItemSentence>
               </Item>
+              <Item Delete="false" Hide="false" Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">休眠預金等交付金関係助成金（特定非営利活動促進法施行令（第二十五条において「令」という。）第二条第一項ただし書に規定する休眠預金等交付金関係助成金をいう。第六条及び第七条第四号において同じ。）</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="6">
@@ -216,7 +222,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第四十五条第一項第一号イ（２）に規定する内閣府令で定める金額は、同号イ（２）に規定する受入寄附金総額の百分の十（寄附者が法人税法施行令（昭和四十年政令第九十七号）第七十七条各号に掲げる法人又は認定特定非営利活動法人である場合にあっては、受入寄附金総額の百分の五十）に相当する金額とする。</Sentence>
+                <Sentence WritingMode="vertical">法第四十五条第一項第一号イ（２）に規定する内閣府令で定める金額は、同号イ（２）に規定する受入寄附金総額から休眠預金等交付金関係助成金の額の総額を控除した金額の百分の十（寄附者が法人税法施行令（昭和四十年政令第九十七号）第七十七条各号に掲げる法人又は認定特定非営利活動法人である場合にあっては、受入寄附金総額から休眠預金等交付金関係助成金の額の総額を控除した金額の百分の五十）に相当する金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -244,6 +250,12 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Sentence WritingMode="vertical">寄附者の氏名（法人にあっては、その名称）及びその住所が明らかな寄附金以外の寄附金の額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">休眠預金等交付金関係助成金の額の総額</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -497,13 +509,19 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">特定非営利活動促進法施行令（次項において「令」という。）第五条第二項に規定する内閣府令で定める要件は、第四条各号に掲げるものとする。</Sentence>
+                <Sentence WritingMode="vertical">令第五条第二項に規定する内閣府令で定める要件は、第四条各号に掲げるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">令第五条第二項第一号に規定する内閣府令で定めるものは、第五条第一号から第五号までに掲げるものとする。</Sentence>
+                <Sentence WritingMode="vertical">令第五条第二項第一号に規定する内閣府令で定めるものは、第五条第一号から第五号まで及び第八号に掲げるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">令第五条第二項第二号に規定する内閣府令で定める寄附金の額は、第七条第一号及び第四号に掲げる金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -879,11 +897,28 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二七日内閣府令第一六号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、特定非営利活動促進法施行令の一部を改正する政令（令和二年政令第六十五号）の施行の日（令和二年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令の施行前に特定非営利活動促進法第四十四条第一項若しくは第六十三条第一項若しくは第二項の認定の申請又は同法第五十一条第三項の有効期間の更新の申請をした者のこれらの申請に係る認定又は有効期間の更新の基準については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１号（第27条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H23F10001000055_2001061401_001.pdf"/>
+          <Fig src="./pict/H23F10001000055_2005291705_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -891,7 +926,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第２号（第28条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H23F10001000055_2001061401_002.pdf"/>
+          <Fig src="./pict/H23F10001000055_2005291705_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -899,7 +934,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第３号（第31条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H23F10001000055_2001061401_003.pdf"/>
+          <Fig src="./pict/H23F10001000055_2005291705_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -907,7 +942,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第４号（第33条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H23F10001000055_2001061401_004.pdf"/>
+          <Fig src="./pict/H23F10001000055_2005291705_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -915,7 +950,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第５号（第33条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H23F10001000055_2001061401_005.pdf"/>
+          <Fig src="./pict/H23F10001000055_2005291705_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -923,7 +958,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第６号（第35条第３項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H23F10001000055_2001061401_006.pdf"/>
+          <Fig src="./pict/H23F10001000055_2005291705_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -931,7 +966,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第７号（第35条第４項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H23F10001000055_2001061401_007.pdf"/>
+          <Fig src="./pict/H23F10001000055_2005291705_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

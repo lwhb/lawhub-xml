@@ -776,7 +776,7 @@
           <Item Delete="false" Hide="false" Num="58">
             <ItemTitle>五十八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">資金決済に関する法律（平成二十一年法律第五十九号）第百七条第二号（第三十七条及び第六十三条の二に係る部分に限る。）、第五号、第七号若しくは第八号、第百九条第八号、第百十二条第二号（第三十八条第一項及び第二項並びに第六十三条の三第一項及び第二項に係る部分に限る。）又は第百十四条第一号（第四十一条第一項及び第六十三条の六第一項に係る部分に限る。）若しくは第七号（第七十七条に係る部分に限る。）に規定する罪</Sentence>
+              <Sentence WritingMode="vertical">資金決済に関する法律（平成二十一年法律第五十九号）第百七条第二号（第三十七条及び第六十三条の二に係る部分に限る。）、第五号、第七号若しくは第八号、第百九条第九号、第百十二条第二号（第三十八条第一項及び第二項並びに第六十三条の三第一項及び第二項に係る部分に限る。）又は第百十四条第一号（第四十一条第一項並びに第六十三条の六第一項及び第二項に係る部分に限る。）若しくは第七号（第七十七条に係る部分に限る。）に規定する罪</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -1604,6 +1604,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月二七日国家公安委員会規則第六号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律の施行の日（令和二年五月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

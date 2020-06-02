@@ -435,13 +435,31 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="7">
-        <ArticleCaption>（特別の許可の申請手続）</ArticleCaption>
+        <ArticleCaption>（特別の許可の申請手続等）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">経済産業大臣は、必要があるときは、居住者又は非居住者が法第二十五条第一項、第四項若しくは第五項又は令第六条第二項、第六条の二第四項、第十五条第二項、第十六条第二項、第十七条第二項、第十八条第四項若しくは第十八条の三第二項の規定による経済産業大臣の許可を受ける手続について、この省令の規定にかかわらず、特別な手続を定めることができる。</Sentence>
+            <Sentence WritingMode="vertical">経済産業大臣は、必要があるときは、次の各号に掲げる手続について、この省令の規定にかかわらず、特別な手続を定めることができる。</Sentence>
           </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第二十五条第一項、第四項若しくは第五項又は令第六条第二項、第六条の二第四項、第十五条第二項、第十六条第二項、第十七条第二項、第十八条第四項若しくは第十八条の三第二項の規定による経済産業大臣の許可を受ける手続</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第一条の三の規定による経済産業大臣への届出の手続</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第二条の規定による経済産業大臣の許可を受ける手続</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="8">
@@ -1329,12 +1347,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三〇日経済産業省令第四三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_001.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1343,7 +1370,7 @@
       <RelatedArticleNum>（第１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_002.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1352,7 +1379,7 @@
       <RelatedArticleNum>（第１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_003.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1361,7 +1388,7 @@
       <RelatedArticleNum>（第１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_004.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1370,7 +1397,7 @@
       <RelatedArticleNum>（第１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_005.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1379,7 +1406,7 @@
       <RelatedArticleNum>（第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_006.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1388,7 +1415,7 @@
       <RelatedArticleNum>（第１条、第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_007.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1397,7 +1424,7 @@
       <RelatedArticleNum>（第１条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_008.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1405,7 +1432,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第六の三</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_009.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1414,7 +1441,7 @@
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_010.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1423,7 +1450,7 @@
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_011.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1432,7 +1459,7 @@
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_012.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1441,7 +1468,7 @@
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_013.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1450,7 +1477,7 @@
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_014.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1459,7 +1486,7 @@
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03801000008_2001311101_015.pdf"/>
+          <Fig src="./pict/H10F03801000008_2005251105_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

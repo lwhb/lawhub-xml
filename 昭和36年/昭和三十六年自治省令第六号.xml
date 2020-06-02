@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200525e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="6" Year="36">
+<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="6" Year="36">
   <LawNum>昭和三十六年自治省令第六号</LawNum>
   <LawBody>
     <LawTitle>消防法施行規則</LawTitle>
@@ -17015,10 +17015,10 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Num="7">
+              <Paragraph Hide="false" Num="7">
                 <ParagraphNum>７</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>消防設備点検資格者は、次の各号のいずれかに該当するときは、その資格を失うものとする。</Sentence>
+                  <Sentence WritingMode="vertical">消防設備点検資格者は、次の各号のいずれかに該当するときは、その資格を失うものとする。</Sentence>
                 </ParagraphSentence>
                 <Item Delete="false" Hide="false" Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -20839,7 +20839,7 @@
         </ParagraphSentence>
         <StyleStruct>
           <Style>
-            <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_001.jpg"/>
+            <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_001.jpg"/>
           </Style>
         </StyleStruct>
       </Paragraph>
@@ -20848,7 +20848,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_002.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -20999,7 +20999,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_003.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21130,7 +21130,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_004.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21189,7 +21189,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_005.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21261,7 +21261,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_006.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23239,6 +23239,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月一日総務省令第三五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">消防法施行規則第三条第一項、第四条第一項（同規則第五十一条の十一の二において準用する場合を含む。）及び第五十一条の八第一項に規定する届出書並びに同規則第三十一条の三第四項に規定する検査済証の様式については、この省令による改正後の同規則別記様式第一号の二、別記様式第一号の二の二の二及び別記様式第一号の二の三の二にかかわらず、この省令の施行の日から起算して六月を経過するまでの間は、なお従前の例によることができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <TableStruct>
@@ -23246,7 +23261,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_007.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_007.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23260,7 +23275,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_008.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_008.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23274,7 +23289,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_009.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_009.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23288,7 +23303,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_010.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_010.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23303,7 +23318,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_011.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_011.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23318,7 +23333,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_012.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_012.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23332,7 +23347,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_013.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_013.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23346,7 +23361,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_014.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_014.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23360,7 +23375,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_015.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_015.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23374,7 +23389,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_016.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_016.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23388,7 +23403,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_017.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_017.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23402,7 +23417,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_018.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_018.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23416,7 +23431,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_019.pdf"/>
+                <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_019.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -23427,7 +23442,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_020.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23435,7 +23450,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の２</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_021.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23443,7 +23458,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の２の２</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_022.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23451,7 +23466,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の２の２の２</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_023.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23459,7 +23474,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の２の２の２の２</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_024.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23467,7 +23482,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の２の２の２の３</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_025.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23475,7 +23490,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の２の２の３</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_026.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23483,7 +23498,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の２の２の３の２</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_027.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23491,7 +23506,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の２の２の３の３</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_028.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23499,7 +23514,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の２の２の４</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_029.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23507,7 +23522,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の２の３</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_030.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23515,7 +23530,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の２の３の２</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_031.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23523,7 +23538,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の２の４</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_032.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23531,7 +23546,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の３</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_033.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23539,7 +23554,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の４</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_034.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23550,7 +23565,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の６</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_035.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23558,7 +23573,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の７</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_036.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23566,7 +23581,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の８</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_037.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23574,7 +23589,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の９</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_038.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_038.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23582,7 +23597,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の１０</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_039.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_039.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23590,7 +23605,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の11</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_040.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_040.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23598,7 +23613,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号の12</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_041.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_041.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23606,7 +23621,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第２号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_042.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_042.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23614,7 +23629,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第３号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_043.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_043.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23622,7 +23637,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第４号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_044.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_044.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23630,7 +23645,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第５号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_045.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_045.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23638,7 +23653,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第６号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_046.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_046.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23646,7 +23661,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第７号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_047.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_047.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23654,7 +23669,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第８号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_048.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_048.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23662,7 +23677,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第９号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_049.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_049.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23670,7 +23685,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第10号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_050.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_050.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23678,7 +23693,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第11号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_051.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_051.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23686,7 +23701,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第12号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_052.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_052.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23694,7 +23709,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第13号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_053.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_053.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23703,7 +23718,7 @@
       <StyleStruct>
         <StyleStructTitle>防災管理点検報告特例認定申請書</StyleStructTitle>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_054.jpg"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_054.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23711,7 +23726,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第15号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_055.pdf"/>
+          <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_055.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -23719,63 +23734,63 @@
       <AppdxFigTitle WritingMode="vertical">別図第１　燃焼試験箱</AppdxFigTitle>
       <RelatedArticleNum>（第４条の３関係）</RelatedArticleNum>
       <FigStruct>
-        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_056.jpg"/>
+        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_056.jpg"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第２　試験体支持枠</AppdxFigTitle>
       <RelatedArticleNum>（第４条の３関係）</RelatedArticleNum>
       <FigStruct>
-        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_057.jpg"/>
+        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_057.jpg"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第２の２　試験体支持枠</AppdxFigTitle>
       <RelatedArticleNum>（第４条の３関係）</RelatedArticleNum>
       <FigStruct>
-        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_058.jpg"/>
+        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_058.jpg"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第２の３　試験体押さえ枠及びけい酸カルシウム板</AppdxFigTitle>
       <RelatedArticleNum>（第４条の３関係）</RelatedArticleNum>
       <FigStruct>
-        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_059.jpg"/>
+        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_059.jpg"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第３　電気火花発生装置</AppdxFigTitle>
       <RelatedArticleNum>（第４条の３関係）</RelatedArticleNum>
       <FigStruct>
-        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_060.jpg"/>
+        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_060.jpg"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第４　ミクロバーナー</AppdxFigTitle>
       <RelatedArticleNum>（第４条の３関係）</RelatedArticleNum>
       <FigStruct>
-        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_061.jpg"/>
+        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_061.jpg"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第５　メッケルバーナー</AppdxFigTitle>
       <RelatedArticleNum>（第４条の３関係）</RelatedArticleNum>
       <FigStruct>
-        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_062.jpg"/>
+        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_062.jpg"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第６　エアーミックスバーナー</AppdxFigTitle>
       <RelatedArticleNum>（第４条の３関係）</RelatedArticleNum>
       <FigStruct>
-        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_063.jpg"/>
+        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_063.jpg"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle WritingMode="vertical">別図第７　試験体支持コイル</AppdxFigTitle>
       <RelatedArticleNum>（第４条の３関係）</RelatedArticleNum>
       <FigStruct>
-        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_064.jpg"/>
+        <Fig src="./pict/3JH00000218201_1905101005_1905161905_1912171712_2005260905_064.jpg"/>
       </FigStruct>
     </AppdxFig>
   </LawBody>

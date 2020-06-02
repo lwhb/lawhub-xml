@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="48" Year="14">
+<Law DataInfo="200527e03k03m02" Era="Heisei" Lang="ja" LawType="Act" Num="48" Year="14">
   <LawNum>平成十四年法律第四十八号</LawNum>
   <LawBody>
     <LawTitle>地方公共団体の一般職の任期付職員の採用に関する法律</LawTitle>
@@ -216,23 +216,17 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="9">
-        <ArticleCaption>（地方公務員法の規定の読替え適用等）</ArticleCaption>
+        <ArticleCaption>（地方公務員法の適用除外）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">任命権者が第五条の規定により短時間勤務職員を採用する場合における地方公務員法第二十二条第一項の規定の適用については、同項中「非常勤職員」とあるのは、「非常勤職員（地方公共団体の一般職の任期付職員の採用に関する法律（平成十四年法律第四十八号）第五条の規定により採用された短時間勤務職員を除く。）」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2">
-          <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">任命権者が第五条又は前条第二項の規定により短時間勤務職員を任用する場合には、地方公務員法第二十八条の五第三項の規定は、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
     </MainProvision>
-    <SupplProvision Extract="true" Type="New">
+    <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -293,6 +287,32 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成二十五年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年五月一七日法律第二九号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

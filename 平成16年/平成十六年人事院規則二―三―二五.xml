@@ -1056,7 +1056,7 @@
                 <Item Delete="false" Hide="false" Num="8">
                   <ItemTitle>八</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">セクシュアル・ハラスメント及び妊娠、出産、育児又は介護に関するハラスメントの防止等に関する施策の企画及び立案並びに指導に関すること。</Sentence>
+                    <Sentence WritingMode="vertical">セクシュアル・ハラスメント、妊娠、出産、育児又は介護に関するハラスメント及びパワー・ハラスメントの防止等に関する施策の企画及び立案並びに指導に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Delete="false" Hide="false" Num="9">
@@ -3422,6 +3422,16 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月一日人事院規則一〇―一六" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、令和二年六月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

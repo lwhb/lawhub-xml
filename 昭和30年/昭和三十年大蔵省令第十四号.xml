@@ -21,7 +21,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">各省各庁の長又はその委任を受けた職員は、次に掲げる場合において国庫内の移換のため国庫金の払出しをしようとするときは、国庫金振替書（国庫金振替書その他国庫金の払出しに関する書類の様式を定める省令（昭和四十三年大蔵省令第五十一号）第一号書式又は財政融資資金出納及び計算整理規則の規定に基づき財務大臣が定める書式（令和元年財務省告示第四十六号）別紙第二号書式の国庫金振替書をいう。以下同じ。）を発し、これを日本銀行（本店、支店又は代理店をいう。以下同じ。）に交付し、又は送信（同令第二条第四号に規定する送信をいう。以下同じ。）しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">各省各庁の長又はその委任を受けた職員は、次に掲げる場合において国庫内の移換のため国庫金の払出しをしようとするときは、国庫金振替書（国庫金振替書その他国庫金の払出しに関する書類の様式を定める省令（昭和四十三年大蔵省令第五十一号）第一号書式又は財政融資資金出納及び計算整理規則の規定に基づき財務大臣が定める書式（令和元年財務省告示第四十六号）別紙第二号書式の国庫金振替書をいう。以下同じ。）を発し、これを日本銀行（本店、支店又は代理店をいう。以下同じ。）に交付し、又は送信（財政融資資金出納及び計算整理規則（昭和四十九年大蔵省令第二十二号）第二条第四号に規定する送信をいう。以下同じ。）しなければならない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -110,19 +110,19 @@
           <Item Delete="false" Hide="false" Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">削除</Sentence>
+              <Sentence WritingMode="vertical">法第百三条の二第五項の規定により、育児休業給付資金を使用するため、同資金に属する現金を雇用勘定の歳入に繰り入れるとき</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="10">
             <ItemTitle>十</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">削除</Sentence>
+              <Sentence WritingMode="vertical">法第百三条の二第四項の規定により、雇用勘定の歳入不足を補足するため、育児休業給付資金に属する現金を同勘定の歳入外に組み入れるとき</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="11">
             <ItemTitle>十一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">削除</Sentence>
+              <Sentence WritingMode="vertical">法第百七条第四項の規定により、雇用勘定において育児休業給付資金に属する現金を繰替使用し、又は法第十五条第六項の規定により、これを返還するとき</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="12">
@@ -329,7 +329,7 @@
           <Item Delete="false" Hide="false" Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前条第五号に掲げる場合には、払出科目として「何年度、何会計、歳出外、繰替」、受入科目として「何年度、何会計、歳入外、損失補てん」又は「何年度、何省所管何会計、歳入」</Sentence>
+              <Sentence WritingMode="vertical">前条第五号に掲げる場合には、払出科目として「何年度、何会計、歳出外、繰替」、受入科目として「何年度、何会計、歳入外、損失補塡」又は「何年度、何省所管何会計、歳入」</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5_2">
@@ -383,37 +383,37 @@
           <Item Delete="false" Hide="false" Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">削除</Sentence>
+              <Sentence WritingMode="vertical">前条第九号に掲げる場合には、払出科目として「育児休業給付資金」、受入科目として「何年度、厚生労働省所管労働保険特別会計雇用勘定、歳入」</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">削除</Sentence>
+              <Sentence WritingMode="vertical">前条第十号に掲げる場合には、払出科目として「育児休業給付資金」（育児休業給付資金に属する現金を雇用勘定の支払元受高に繰替使用している場合にあつては、「何年度、労働保険特別会計雇用勘定、歳出外、繰替」とする。）、受入科目として「何年度、労働保険特別会計雇用勘定、歳入外、損失補塡」</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="10">
             <ItemTitle>十</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前条第十二号に掲げる場合には、払出科目として「雇用安定資金」、受入科目として「何年度、厚生労働省所管労働保険特別会計雇用勘定、歳入」</Sentence>
+              <Sentence WritingMode="vertical">前条第十一号に掲げる場合において、育児休業給付資金に属する現金を繰替使用するときには、払出科目として「育児休業給付資金」、受入科目として「何年度、労働保険特別会計雇用勘定、歳入外、繰替」、これを返還するときには、払出科目として「何年度、労働保険特別会計雇用勘定、歳出外、繰替」、受入科目として「育児休業給付資金」</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="11">
             <ItemTitle>十一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前条第十三号に掲げる場合には、払出科目として「雇用安定資金」（雇用安定資金に属する現金を雇用勘定の支払元受高に繰替使用している場合にあつては、「何年度、労働保険特別会計雇用勘定、歳出外、繰替」とする。）、受入科目として「何年度、労働保険特別会計雇用勘定、歳入外、損失補てん」</Sentence>
+              <Sentence WritingMode="vertical">前条第十二号に掲げる場合には、払出科目として「雇用安定資金」、受入科目として「何年度、厚生労働省所管労働保険特別会計雇用勘定、歳入」</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="12">
             <ItemTitle>十二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前条第十四号に掲げる場合において、雇用安定資金に属する現金を繰替使用するときには、払出科目として「雇用安定資金」、受入科目として「何年度、労働保険特別会計雇用勘定、歳入外、繰替」、これを返還するときには、払出科目として「何年度、労働保険特別会計雇用勘定、歳出外、繰替」、受入科目として「雇用安定資金」</Sentence>
+              <Sentence WritingMode="vertical">前条第十三号に掲げる場合には、払出科目として「雇用安定資金」（雇用安定資金に属する現金を雇用勘定の支払元受高に繰替使用している場合にあつては、「何年度、労働保険特別会計雇用勘定、歳出外、繰替」とする。）、受入科目として「何年度、労働保険特別会計雇用勘定、歳入外、損失補塡」</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="13">
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">削除</Sentence>
+              <Sentence WritingMode="vertical">前条第十四号に掲げる場合において、雇用安定資金に属する現金を繰替使用するときには、払出科目として「雇用安定資金」、受入科目として「何年度、労働保険特別会計雇用勘定、歳入外、繰替」、これを返還するときには、払出科目として「何年度、労働保険特別会計雇用勘定、歳出外、繰替」、受入科目として「雇用安定資金」</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="14">
@@ -437,7 +437,7 @@
           <Item Delete="false" Hide="false" Num="17">
             <ItemTitle>十七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前条第十九号に掲げる場合には、払出科目として「特別保健福祉事業資金」、受入科目として「何年度、年金特別会計業務勘定、歳入外、損失補てん」</Sentence>
+              <Sentence WritingMode="vertical">前条第十九号に掲げる場合には、払出科目として「特別保健福祉事業資金」、受入科目として「何年度、年金特別会計業務勘定、歳入外、損失補塡」</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="18">
@@ -497,7 +497,7 @@
           <Item Delete="false" Hide="false" Num="27">
             <ItemTitle>二十七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前条第三十号に掲げる場合において、厚生年金勘定の積立金に属する現金を同勘定の歳入外に組み入れるときには、払出科目として「何年度、年金特別会計厚生年金勘定、歳出外、積立金」（厚生年金勘定の積立金に属する現金を同勘定の支払元受高に繰替使用しているときには、「何年度、年金特別会計厚生年金勘定、歳出外、繰替」）、受入科目として「何年度、年金特別会計厚生年金勘定、歳入外、損失補てん」、厚生年金勘定の積立金に属する現金を同勘定の歳入に組み入れるときには、払出科目として「何年度、年金特別会計厚生年金勘定、歳出外、積立金」、受入科目として「何年度、内閣府及び厚生労働省所管年金特別会計厚生年金勘定、歳入」</Sentence>
+              <Sentence WritingMode="vertical">前条第三十号に掲げる場合において、厚生年金勘定の積立金に属する現金を同勘定の歳入外に組み入れるときには、払出科目として「何年度、年金特別会計厚生年金勘定、歳出外、積立金」（厚生年金勘定の積立金に属する現金を同勘定の支払元受高に繰替使用しているときには、「何年度、年金特別会計厚生年金勘定、歳出外、繰替」）、受入科目として「何年度、年金特別会計厚生年金勘定、歳入外、損失補塡」、厚生年金勘定の積立金に属する現金を同勘定の歳入に組み入れるときには、払出科目として「何年度、年金特別会計厚生年金勘定、歳出外、積立金」、受入科目として「何年度、内閣府及び厚生労働省所管年金特別会計厚生年金勘定、歳入」</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="28">
@@ -515,7 +515,7 @@
           <Item Delete="false" Hide="false" Num="30">
             <ItemTitle>三十</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前条第三十四号に掲げる場合において、国民年金勘定の積立金に属する現金を同勘定の歳入外に組み入れるときには、払出科目として「何年度、年金特別会計国民年金勘定、歳出外、積立金」（国民年金勘定の積立金に属する現金を同勘定の支払元受高に繰替使用しているときには、「何年度、年金特別会計国民年金勘定、歳出外、繰替」）、受入科目として「何年度、年金特別会計国民年金勘定、歳入外、損失補てん」、国民年金勘定の積立金に属する現金を同勘定の歳入に組み入れるときには、払出科目として「何年度、年金特別会計国民年金勘定、歳出外、積立金」、受入科目として「何年度、内閣府及び厚生労働省所管年金特別会計国民年金勘定、歳入」</Sentence>
+              <Sentence WritingMode="vertical">前条第三十四号に掲げる場合において、国民年金勘定の積立金に属する現金を同勘定の歳入外に組み入れるときには、払出科目として「何年度、年金特別会計国民年金勘定、歳出外、積立金」（国民年金勘定の積立金に属する現金を同勘定の支払元受高に繰替使用しているときには、「何年度、年金特別会計国民年金勘定、歳出外、繰替」）、受入科目として「何年度、年金特別会計国民年金勘定、歳入外、損失補塡」、国民年金勘定の積立金に属する現金を同勘定の歳入に組み入れるときには、払出科目として「何年度、年金特別会計国民年金勘定、歳出外、積立金」、受入科目として「何年度、内閣府及び厚生労働省所管年金特別会計国民年金勘定、歳入」</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="31">
@@ -683,7 +683,7 @@
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前条第五号に掲げる場合において、同号に規定する資金繰入れをするときには、払出科目として「特別会計補足繰入」、受入科目として「何年度、何会計、歳入外、元受補てん」又は「何資金（財政融資資金にあつては財政融資資金・融通証券発行高若しくは一時借入金）」、その償還をさせるときには、払出科目として「何年度、何会計、歳出外、元受補てん」又は「何資金（財政融資資金にあつては財政融資資金・融通証券発行高若しくは一時借入金）」、受入科目として「特別会計補足繰入」</Sentence>
+              <Sentence WritingMode="vertical">前条第五号に掲げる場合において、同号に規定する資金繰入れをするときには、払出科目として「特別会計補足繰入」、受入科目として「何年度、何会計、歳入外、元受補塡」又は「何資金（財政融資資金にあつては財政融資資金・融通証券発行高又は一時借入金）」、その償還をさせるときには、払出科目として「何年度、何会計、歳出外、元受補塡」又は「何資金（財政融資資金にあつては財政融資資金・融通証券発行高又は一時借入金）」、受入科目として「特別会計補足繰入」</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
@@ -964,7 +964,12 @@
           <Item Delete="false" Hide="false" Num="13">
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">削除</Sentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">育児休業給付資金月計突合表</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">厚生労働大臣</Sentence>
+              </Column>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="14">
@@ -2223,6 +2228,15 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日財務省令第三一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、雇用保険法等の一部を改正する法律の施行の日（令和二年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第一号書式　削除</AppdxFormatTitle>
     </AppdxFormat>
@@ -2230,7 +2244,7 @@
       <AppdxFormatTitle WritingMode="vertical">第二号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S30F03401000014_2005081305_001.pdf"/>
+          <Fig src="./pict/S30F03401000014_2005271305_001.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -2238,7 +2252,7 @@
       <AppdxFormatTitle WritingMode="vertical">第三号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S30F03401000014_2005081305_002.pdf"/>
+          <Fig src="./pict/S30F03401000014_2005271305_002.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -2246,7 +2260,7 @@
       <AppdxFormatTitle WritingMode="vertical">第四号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S30F03401000014_2005081305_003.pdf"/>
+          <Fig src="./pict/S30F03401000014_2005271305_003.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>

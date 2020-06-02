@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="524" Year="15">
+<Law DataInfo="200410e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="524" Year="15">
   <LawNum>平成十五年政令第五百二十四号</LawNum>
   <LawBody>
     <LawTitle>密集市街地における防災街区の整備の促進に関する法律による不動産登記に関する政令</LawTitle>
@@ -163,7 +163,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二百四十五条第一項の規定によってする建物の表題登記、共用部分である旨の登記、所有権の保存の登記、法第二百五十一条第一項及び法第二百六十二条において準用する都市再開発法（昭和四十四年法律第三十八号）第百十八条第一項の先取特権の保存の登記、法第二百二十二条第三項の規定による停止条件付権利移転の仮登記並びに担保権等登記の申請は、一棟の建物及び一棟の建物に属する建物の全部について、一の申請情報によってしなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第二百四十五条第一項の規定によってする建物の表題登記、共用部分である旨の登記、所有権の保存の登記、法第二百五十一条第一項及び法第二百六十二条において準用する都市再開発法（昭和四十四年法律第三十八号）第百十八条第一項の先取特権の保存の登記、法第二百二十二条第三項の規定による停止条件付権利移転の仮登記、同条第五項の規定による借家権の設定その他の登記並びに担保権等登記の申請は、一棟の建物及び一棟の建物に属する建物の全部について、一の申請情報によってしなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -186,18 +186,24 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="8">
-        <ArticleCaption>（担保権等登記の登記原因）</ArticleCaption>
+        <ArticleCaption>（借家権の設定その他の登記等の登記原因）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">担保権等登記においては、登記原因及びその日付として、権利変換前の法第二百二十四条に規定する担保権等の登記の登記原因及びその日付並びに法による権利変換があった旨及びその日付を登記事項とする。</Sentence>
+            <Sentence>前条第一項の借家権の設定その他の登記においては、登記原因及びその日付として、権利変換前の当該借家権に係る登記の登記原因及びその日付（当該登記の申請の受付の年月日及び受付番号を含む。以下この条において同じ。）並びに法による権利変換があった旨及びその日付を登記事項とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の登記の申請をする場合に登記所に提供しなければならない申請情報の内容とする登記原因及びその日付は、同項に規定する事項とする。</Sentence>
+            <Sentence WritingMode="vertical">担保権等登記においては、登記原因及びその日付として、権利変換前の法第二百二十四条に規定する担保権等の登記の登記原因及びその日付並びに法による権利変換があった旨及びその日付を登記事項とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前二項の登記の申請をする場合に登記所に提供しなければならない申請情報の内容とする登記原因及びその日付は、これらの規定に規定する事項とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -282,6 +288,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二五日政令第五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、民法及び家事事件手続法の一部を改正する法律附則第一条第四号に掲げる規定の施行の日（令和二年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

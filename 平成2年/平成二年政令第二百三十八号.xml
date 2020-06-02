@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="190409e04k03m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="238" Year="02">
+<Law DataInfo="200127e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="238" Year="02">
   <LawNum>平成二年政令第二百三十八号</LawNum>
   <LawBody>
     <LawTitle>麻薬、麻薬原料植物、向精神薬及び麻薬向精神薬原料を指定する政令</LawTitle>
@@ -28,8 +28,7 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">Ｎ―（一―アミノ―三・三―ジメチル―一―オキソブタン―二―イル）―一―（シクロヘキシルメチル）―一Ｈ―インダゾール―三―カルボキサミド及びその塩類
-</Sentence>
+              <Sentence WritingMode="vertical">Ｎ―（一―アミノ―三・三―ジメチル―一―オキソブタン―二―イル）―一―（シクロヘキシルメチル）―一Ｈ―インダゾール―三―カルボキサミド及びその塩類</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
@@ -629,7 +628,7 @@
           <Item Delete="false" Hide="false" Num="103">
             <ItemTitle>百三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">Ｎ―メチル―α―エチル―□三・四―（メチレンジオキシ）フェネチルアミン（別名ＭＢＤＢ）及びその塩類</Sentence>
+              <Sentence WritingMode="vertical">Ｎ―メチル―α―エチル―三・四―（メチレンジオキシ）フェネチルアミン（別名ＭＢＤＢ）及びその塩類</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="104">
@@ -1270,8 +1269,14 @@
               <Sentence WritingMode="vertical">二―メチル―二―プロピル―一・三―プロパンジオールジカルバミン酸エステル（別名メプロバメート）及びその塩類</Sentence>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="73">
+          <Item Num="73">
             <ItemTitle>七十三</ItemTitle>
+            <ItemSentence>
+              <Sentence>メチル＝三―｛（四Ｓ）―八―ブロモ―一―メチル―六―ピリジン―二―イル―四Ｈ―イミダゾ［一・二―ａ］［一・四］ベンゾジアゼピン―四―イル｝プロパノエイト（別名レミマゾラム）及びその塩類</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="74">
+            <ItemTitle>七十四</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">α―（α―メトキシベンジル）―四―（β―メトキシフェネチル）―一―ピペラジンエタノール（別名ジペプロール）及びその塩類</Sentence>
             </ItemSentence>
@@ -1670,6 +1675,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から起算して三十日を経過した日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一八日政令第一九一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、公布の日から起算して三十日を経過した日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

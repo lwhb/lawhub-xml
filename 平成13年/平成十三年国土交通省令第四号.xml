@@ -51,7 +51,7 @@
           </TOCSubsection>
           <TOCSubsection Delete="false" Num="4">
             <SubsectionTitle>第四款　海洋情報部</SubsectionTitle>
-            <ArticleRange>（第四十九条―第五十二条の二）</ArticleRange>
+            <ArticleRange>（第四十九条―第五十二条）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Delete="false" Num="5">
             <SubsectionTitle>第五款　交通部</SubsectionTitle>
@@ -781,7 +781,7 @@
                   <Subitem1 Delete="false" Hide="false" Num="4">
                     <Subitem1Title>ニ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">覚せい剤取締法（昭和二十六年法律第二百五十二号）</Sentence>
+                      <Sentence WritingMode="vertical">覚醒剤取締法（昭和二十六年法律第二百五十二号）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Delete="false" Hide="false" Num="5">
@@ -1030,22 +1030,22 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">海洋調査課</Sentence>
+                    <Sentence WritingMode="vertical">沿岸調査課</Sentence>
                   </ListSentence>
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">環境調査課</Sentence>
+                    <Sentence WritingMode="vertical">大洋調査課</Sentence>
                   </ListSentence>
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">海洋情報課</Sentence>
+                    <Sentence WritingMode="vertical">情報管理課</Sentence>
                   </ListSentence>
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">航海情報課</Sentence>
+                    <Sentence WritingMode="vertical">情報利用推進課</Sentence>
                   </ListSentence>
                 </List>
               </Paragraph>
@@ -1131,37 +1131,61 @@
                 <Item Delete="false" Hide="false" Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">海洋情報業務に関する国際機関及び外国の政府機関その他の外国の関係者との連絡調整に関すること（海洋情報課の所掌に属するものを除く。）。</Sentence>
+                    <Sentence WritingMode="vertical">海洋情報業務に関する国際機関及び外国の政府機関その他の外国の関係者との連絡調整に関すること（情報利用推進課の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="27">
-              <ArticleCaption>（海洋調査課の所掌事務）</ArticleCaption>
+              <ArticleCaption>（沿岸調査課の所掌事務）</ArticleCaption>
               <ArticleTitle>第二十七条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">海洋調査課は、水路の測量に関する事務（技術・国際課の所掌に属するものを除く。）をつかさどる。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-            <Article Delete="false" Hide="false" Num="28">
-              <ArticleCaption>（環境調査課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第二十八条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">環境調査課は、次に掲げる事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">沿岸調査課は、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Delete="false" Hide="false" Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">海象の観測に関すること。</Sentence>
+                    <Sentence WritingMode="vertical">沿岸における水路の測量に関すること（技術・国際課の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Delete="false" Hide="false" Num="2">
                   <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">沿岸における海象の観測に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="28">
+              <ArticleCaption>（大洋調査課の所掌事務）</ArticleCaption>
+              <ArticleTitle>第二十八条</ArticleTitle>
+              <Paragraph Hide="false" Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">大洋調査課は、次に掲げる事務をつかさどる。</Sentence>
+                </ParagraphSentence>
+                <Item Delete="false" Hide="false" Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">大陸棚の範囲の確定、開発、保全、利用及び管理に資するための地形、地質構造その他の形質に関する測量に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">前号に掲げるもののほか、水路の測量に関すること（技術・国際課及び沿岸調査課の所掌に属するものを除く。）。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">海象の観測に関すること（沿岸調査課の所掌に属するものを除く。）。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="4">
+                  <ItemTitle>四</ItemTitle>
                   <ItemSentence>
                     <Sentence WritingMode="vertical">水路の測量及び海象の観測に関連して行う海洋の汚染の防止のための科学的調査に関すること。</Sentence>
                   </ItemSentence>
@@ -1169,40 +1193,22 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="29">
-              <ArticleCaption>（海洋情報課の所掌事務）</ArticleCaption>
+              <ArticleCaption>（情報管理課の所掌事務）</ArticleCaption>
               <ArticleTitle>第二十九条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">海洋情報課は、次に掲げる事務をつかさどる。</Sentence>
-                </ParagraphSentence>
-                <Item Delete="false" Hide="false" Num="1">
-                  <ItemTitle>一</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">海洋情報業務及びこれに関連する海洋に関する情報の収集、整理、保管及び提供に関すること（航海情報課の所掌に属するものを除く。）。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Delete="false" Hide="false" Num="2">
-                  <ItemTitle>二</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">海洋情報業務に関する国際間の情報の交換に関すること。</Sentence>
-                  </ItemSentence>
-                </Item>
-              </Paragraph>
-              <Paragraph Hide="false" Num="2">
-                <ParagraphNum>２</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">国際機関における決議、勧告その他の決定により海洋情報業務に関する国際間の情報の交換に関する事務を行う場合には、海洋情報課は日本海洋データセンターという名称を、海洋情報課長は日本海洋データセンター所長という名称を用いることができる。</Sentence>
+                  <Sentence WritingMode="vertical">情報管理課は、海洋情報業務に関する情報及びこれに関連する海洋に関する情報の収集、整理及び保管に関する事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="30">
-              <ArticleCaption>（航海情報課の所掌事務）</ArticleCaption>
+              <ArticleCaption>（情報利用推進課の所掌事務）</ArticleCaption>
               <ArticleTitle>第三十条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">航海情報課は、次に掲げる事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">情報利用推進課は、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Delete="false" Hide="false" Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -1216,6 +1222,24 @@
                     <Sentence WritingMode="vertical">水路通報、航行警報及び海象に関する情報の通報に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
+                <Item Delete="false" Hide="false" Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">前二号に掲げるもののほか、海洋情報業務に関する情報及びこれに関連する海洋に関する情報の提供に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">海洋情報業務に関する国際間の情報の交換に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">国際機関における決議、勧告その他の決定により海洋情報業務に関する国際間の情報の交換に関する事務を行う場合には、情報利用推進課は日本海洋データセンターという名称を、情報利用推進課長は日本海洋データセンター所長という名称を用いることができる。</Sentence>
+                </ParagraphSentence>
               </Paragraph>
             </Article>
           </Subsection>
@@ -1920,31 +1944,49 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="44">
-              <ArticleCaption>（違法操業対策官）</ArticleCaption>
+              <ArticleCaption>（外国人漁業対策室）</ArticleCaption>
               <ArticleTitle>第四十四条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">刑事課に、違法操業対策官一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">刑事課に、外国人漁業対策室を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">違法操業対策官は、命を受けて、次に掲げる事務に関する重要事項についての企画及び立案並びに関係行政機関、外国の行政機関その他の関係者との連絡調整に関する事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">外国人漁業対策室は、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Delete="false" Hide="false" Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">海上における漁業に関する法令の違反の防止に関すること。</Sentence>
+                    <Sentence WritingMode="vertical">海上における次に掲げる法令の違反の防止に関すること。</Sentence>
                   </ItemSentence>
+                  <Subitem1 Delete="false" Hide="false" Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence WritingMode="vertical">外国人漁業の規制に関する法律（昭和四十二年法律第六十号）</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Delete="false" Hide="false" Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence WritingMode="vertical">排他的経済水域における漁業等に関する主権的権利の行使等に関する法律（平成八年法律第七十六号）</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
                 </Item>
                 <Item Delete="false" Hide="false" Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">海上における漁業に関する法令に規定する犯罪の捜査及びこれに係る犯人又は被疑者の逮捕に関すること（警備情報課の所掌に属するものを除く。）。</Sentence>
+                    <Sentence WritingMode="vertical">海上における前号に掲げる法令に規定する犯罪の捜査及びこれに係る犯人又は被疑者の逮捕に関すること（警備情報課の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
+              </Paragraph>
+              <Paragraph Hide="false" Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">外国人漁業対策室に、室長を置く。</Sentence>
+                </ParagraphSentence>
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="45">
@@ -2131,12 +2173,12 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="49_2">
-              <ArticleCaption>（海洋研究室並びに海洋情報渉外官、地震調査官及び火山調査官）</ArticleCaption>
+              <ArticleCaption>（海洋研究室及び国際業務室並びに海洋情報渉外官、地震調査官及び火山調査官）</ArticleCaption>
               <ArticleTitle>第四十九条の二</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">技術・国際課に、海洋研究室並びに海洋情報渉外官、地震調査官及び火山調査官それぞれ一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">技術・国際課に、海洋研究室及び国際業務室並びに海洋情報渉外官、地震調査官及び火山調査官それぞれ一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -2154,35 +2196,59 @@
               <Paragraph Hide="false" Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">海洋情報渉外官は、命を受けて、海洋情報業務に関する国際機関及び外国の政府機関その他の外国の関係者との連絡調整に関する事務（海洋情報課の所掌に属するものを除く。）をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">国際業務室は、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
+                <Item Delete="false" Hide="false" Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">海洋情報業務に関する国際協力の実施に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">海洋情報業務に関する国際機関及び外国の政府機関その他の外国の関係者との連絡調整に関すること（海洋情報渉外官及び情報利用推進課の所掌に属するものを除く。）。</Sentence>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
               <Paragraph Hide="false" Num="5">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">地震調査官は、命を受けて、海洋情報業務に関する重要事項のうち地震に関するものについての企画及び立案並びに関係行政機関その他の関係者との連絡調整に関する事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">国際業務室に、室長を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="6">
                 <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">海洋情報渉外官は、命を受けて、海洋情報業務に関する重要事項についての国際機関及び外国の政府機関その他の外国の関係者との連絡調整に関する事務（情報利用推進課の所掌に属するものを除く。）をつかさどる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="7">
+                <ParagraphNum>７</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">地震調査官は、命を受けて、海洋情報業務に関する重要事項のうち地震に関するものについての企画及び立案並びに関係行政機関その他の関係者との連絡調整に関する事務をつかさどる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="8">
+                <ParagraphNum>８</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">火山調査官は、命を受けて、海洋情報業務に関する重要事項のうち火山現象に関するものについての企画及び立案並びに関係行政機関その他の関係者との連絡調整に関する事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="50">
-              <ArticleCaption>（海洋防災調査室及び大陸棚調査室）</ArticleCaption>
+              <ArticleCaption>（海洋防災調査室）</ArticleCaption>
               <ArticleTitle>第五十条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">海洋調査課に、海洋防災調査室及び大陸棚調査室を置く。</Sentence>
+                  <Sentence WritingMode="vertical">沿岸調査課に、海洋防災調査室を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">海洋防災調査室は、地震、火山現象及び津波による船舶に対する被害の防止に資するための水路の測量に関する事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">海洋防災調査室は、地震、火山現象及び津波による船舶に対する被害の防止に資するための沿岸における水路の測量に関する事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="3">
@@ -2191,94 +2257,66 @@
                   <Sentence WritingMode="vertical">海洋防災調査室に、室長を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="4">
-                <ParagraphNum>４</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">大陸棚調査室は、大陸棚の範囲の確定、開発、保全、利用及び管理に資するための地形、地質構造その他の形質に関する測量に関する事務をつかさどる。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Hide="false" Num="5">
-                <ParagraphNum>５</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">大陸棚調査室に、室長を置く。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="51">
-              <ArticleCaption>（漂流予測管理官）</ArticleCaption>
+              <ArticleCaption>（海洋情報管理官、海洋情報分析調整官及び大陸棚情報管理官）</ArticleCaption>
               <ArticleTitle>第五十一条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">環境調査課に、漂流予測管理官一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">情報管理課に、海洋情報管理官、海洋情報分析調整官及び大陸棚情報管理官それぞれ一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">漂流予測管理官は、海上を漂流する人又は物の軌跡の予測に関する企画及び立案並びに関係行政機関その他の関係者との連絡調整に関する事務（技術・国際課の所掌に属するものを除く。）をつかさどる。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-            <Article Delete="false" Hide="false" Num="52">
-              <ArticleCaption>（海洋空間情報室及び大陸棚情報管理官）</ArticleCaption>
-              <ArticleTitle>第五十二条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">海洋情報課に、海洋空間情報室及び大陸棚情報管理官一人を置く。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Hide="false" Num="2">
-                <ParagraphNum>２</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">海洋空間情報室は、海洋情報業務及びこれに関連する海洋に関する情報の一体的かつ効果的な提供に関する事務（航海情報課及び大陸棚情報管理官の所掌に属するものを除く。）をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">海洋情報管理官は、命を受けて、海洋情報業務に関する情報及びこれに関する海洋に関する情報の収集、整理及び保管に関する特定事項についての企画及び立案に関する事務（海洋情報分析調整官及び大陸棚情報管理官の所掌に属するものを除く。）をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">海洋空間情報室に、室長を置く。</Sentence>
+                  <Sentence WritingMode="vertical">海洋情報分析調整官は、命を受けて、海洋情報業務に関する情報及びこれに関する海洋に関する情報の収集及び分析に関する特定事項についての企画及び立案並びに調整に関する事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">大陸棚情報管理官は、大陸棚の範囲の確定、開発、保全、利用及び管理に資するための地形、地質構造その他の形質に関する情報の収集、整理、保管及び提供に関する事務（航海情報課の所掌に属するものを除く。）をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">大陸棚情報管理官は、大陸棚の範囲の確定、開発、保全、利用及び管理に資するための地形、地質構造その他の形質に関する情報の収集、整理及び保管に関する事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Delete="false" Hide="false" Num="52_2">
-              <ArticleCaption>（水路通報室）</ArticleCaption>
-              <ArticleTitle>第五十二条の二</ArticleTitle>
+            <Article Delete="false" Hide="false" Num="52">
+              <ArticleCaption>（水路通報室及び海洋空間情報室）</ArticleCaption>
+              <ArticleTitle>第五十二条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">航海情報課に、水路通報室を置く。</Sentence>
+                  <Sentence WritingMode="vertical">情報利用推進課に、水路通報室及び海洋空間情報室を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">水路通報室は、次に掲げる事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">水路通報室は、水路通報、航行警報及び海象に関する情報の通報に関する事務をつかさどる。</Sentence>
                 </ParagraphSentence>
-                <Item Delete="false" Hide="false" Num="1">
-                  <ItemTitle>一</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">水路図誌及び航空図誌（海図、航空図その他の水路及び航空に関する図並びに航法に必要な測地及び海象に関連する書誌を除く。）の編集に関すること。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Delete="false" Hide="false" Num="2">
-                  <ItemTitle>二</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">水路通報、航行警報及び海象に関する情報の通報に関すること。</Sentence>
-                  </ItemSentence>
-                </Item>
               </Paragraph>
               <Paragraph Hide="false" Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">水路通報室に、室長を置く。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">海洋空間情報室は、海洋情報業務に関する情報及びこれに関連する海洋に関する情報の一体的かつ効果的な提供に関する事務（水路通報室の所掌に属するものを除く。）をつかさどる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">海洋空間情報室に、室長を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2584,7 +2622,7 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">経理補給部（第四本部、第八本部、第九本部及び第十本部を除く。）</Sentence>
+                    <Sentence WritingMode="vertical">経理補給部（第二本部、第四本部、第八本部及び第九本部を除く。）</Sentence>
                   </ListSentence>
                 </List>
                 <List>
@@ -2699,7 +2737,7 @@
               <Paragraph Hide="false" Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">第四本部、第八本部、第九本部及び第十本部総務部は、前項に規定する事務のほか、次に掲げる事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">第二本部、第四本部、第八本部及び第九本部総務部は、前項に規定する事務のほか、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Delete="false" Hide="false" Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -3009,7 +3047,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">総務部（第四本部、第八本部、第九本部及び第十本部に限る。）に、それぞれ会計管理官一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">総務部（第二本部、第四本部、第八本部及び第九本部に限る。）に、それぞれ会計管理官一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -3097,12 +3135,12 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">経理課（第四本部、第八本部、第九本部及び第十本部に限る。）</Sentence>
+                    <Sentence WritingMode="vertical">経理課（第二本部、第四本部、第八本部及び第九本部に限る。）</Sentence>
                   </ListSentence>
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">補給課（第四本部、第八本部、第九本部及び第十本部に限る。）</Sentence>
+                    <Sentence WritingMode="vertical">補給課（第二本部、第四本部、第八本部及び第九本部に限る。）</Sentence>
                   </ListSentence>
                 </List>
               </Paragraph>
@@ -3216,7 +3254,7 @@
                 <Item Delete="false" Hide="false" Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">職員に貸与する宿舎に関すること（経理補給部（第四本部、第八本部、第九本部及び第十本部にあっては、経理課）の所掌に属するものを除く。）。</Sentence>
+                    <Sentence WritingMode="vertical">職員に貸与する宿舎に関すること（経理補給部（第二本部、第四本部、第八本部及び第九本部にあっては、経理課）の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Delete="false" Hide="false" Num="3">
@@ -3637,7 +3675,7 @@
                   <Subitem1 Delete="false" Hide="false" Num="4">
                     <Subitem1Title>ニ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">覚せい剤取締法</Sentence>
+                      <Sentence WritingMode="vertical">覚醒剤取締法</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Delete="false" Hide="false" Num="5">
@@ -5081,6 +5119,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、採用試験の対象官職及び種類並びに採用試験により確保すべき人材に関する政令の一部を改正する政令の施行の日（令和二年一月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日国土交通省令第三六号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -6691,10 +6738,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">第七管区海上保安本部福岡航空基地</Sentence>
+              <Sentence WritingMode="vertical">第七管区海上保安本部北九州航空基地</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">福岡市</Sentence>
+              <Sentence WritingMode="vertical">福岡県京都郡苅田町</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>

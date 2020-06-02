@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="495" Year="12">
+<Law DataInfo="190725e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="495" Year="12">
   <LawNum>平成十二年政令第四百九十五号</LawNum>
   <LawBody>
     <LawTitle>建設工事に係る資材の再資源化等に関する法律施行令</LawTitle>
@@ -259,7 +259,7 @@
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法に規定する都道府県知事の権限に属する事務であって、地方自治法第二百五十二条の十九第一項に規定する指定都市若しくは同法第二百五十二条の二十二第一項に規定する中核市又は大牟田市（以下「指定都市等」という。）の区域内において施工される対象建設工事に係るもののうち、次に掲げるものは、当該指定都市等の長が行うこととする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法に規定する都道府県知事の権限に属する事務であって、地方自治法第二百五十二条の十九第一項に規定する指定都市又は同法第二百五十二条の二十二第一項に規定する中核市（以下「指定都市等」という。）の区域内において施工される対象建設工事に係るもののうち、次に掲げるものは、当該指定都市等の長が行うこととする。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合においては、法の規定中当該事務に係る都道府県知事に関する規定は、当該指定都市等の長に関する規定として当該指定都市等の長に適用があるものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
@@ -375,6 +375,41 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、平成二十八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二六日政令第三九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この政令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令の施行前に廃棄物の処理及び清掃に関する法律（第四項において「廃棄物処理法」という。）、建設工事に係る資材の再資源化等に関する法律又はポリ塩化ビフェニル廃棄物の適正な処理の推進に関する特別措置法（同項において「措置法」という。）（次項及び第三項において「廃棄物処理法等」と総称する。）の規定により大牟田市の長がした許可、認可、指定その他の処分又は通知その他の行為（第一条の規定による改正前の廃棄物の処理及び清掃に関する法律施行令（以下「旧廃棄物処理法施行令」という。）第二十七条第一項、第二条の規定による改正前の建設工事に係る資材の再資源化等に関する法律施行令（次項及び第三項において「旧建設資材再資源化法施行令」という。）第八条第四項又は第三条の規定による改正前のポリ塩化ビフェニル廃棄物の適正な処理の推進に関する特別措置法施行令（以下「旧措置法施行令」という。）第八条の規定により大牟田市の長が行うこととされていた事務に係るものに限る。）は、福岡県知事がした許可、認可、指定その他の処分又は通知その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この政令の施行の際現に廃棄物処理法等又は旧廃棄物処理法施行令の規定により大牟田市の長に対してされている申請、届出その他の行為（旧廃棄物処理法施行令第二十七条第一項若しくは第二項、旧建設資材再資源化法施行令第八条第四項又は旧措置法施行令第八条の規定により大牟田市の長が行うこととされていた事務に係るものに限る。）は、福岡県知事に対してされた申請、届出その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この政令の施行前に廃棄物処理法等又は旧廃棄物処理法施行令の規定により大牟田市の長に対し報告、届出、提出その他の手続をしなければならない事項（旧廃棄物処理法施行令第二十七条第一項若しくは第二項、旧建設資材再資源化法施行令第八条第四項又は旧措置法施行令第八条の規定により大牟田市の長が行うこととされていた事務に係るものに限る。）で、この政令の施行前にその手続がされていないものについては、これを、福岡県知事に対して報告、届出、提出その他の手続をしなければならない事項についてその手続がされていないものとみなして、廃棄物処理法等又は第一条の規定による改正後の廃棄物の処理及び清掃に関する法律施行令の規定を適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

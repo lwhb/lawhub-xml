@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200127e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="255" Year="26">
+<Law DataInfo="200219e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="255" Year="26">
   <LawNum>昭和二十六年政令第二百五十五号</LawNum>
   <LawBody>
     <LawTitle>道路運送車両法関係手数料令</LawTitle>
@@ -29,7 +29,7 @@
                 </TableColumn>
                 <TableColumn>
                   <Sentence Num="1">一両につき次に掲げる金額</Sentence>
-                  <Sentence Num="2">一　完成検査終了証の提出（法第七条第四項の規定による申請書への記載をもつて提出に代える場合を含む。）がある自動車　九百円（電子申請（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第六条第一項の規定により同項に規定する電子情報処理組織を使用して行う申請をいう。以下同じ。）による場合にあつては、五百円）</Sentence>
+                  <Sentence Num="2">一　完成検査終了証の提出（法第七条第四項の規定による申請書への記載をもって提出に代える場合を含む。）がある自動車　九百円（電子申請（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第六条第一項の規定により同項に規定する電子情報処理組織を使用して行う申請をいう。以下同じ。）による場合にあっては、五百円）</Sentence>
                   <Sentence Num="3">二　その他の自動車　七百円</Sentence>
                 </TableColumn>
               </TableRow>
@@ -78,7 +78,7 @@
                   <Sentence>七　回送運行許可証の交付を申請する者</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>一枚につき許可の期間一月までごとに二千五十円（その額が五千円以上である場合であつて、その額に百円未満の端数があるときは、その端数を切り捨てた額）</Sentence>
+                  <Sentence>一枚につき許可の期間一月までごとに二千五十円（その額が五千円以上である場合であって、その額に百円未満の端数があるときは、その端数を切り捨てた額）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -98,8 +98,8 @@
                 </TableColumn>
                 <TableColumn>
                   <Sentence Num="1">一件につき次に掲げる金額</Sentence>
-                  <Sentence Num="2">一　自動車一両ごとに作成する登録事項等証明書一枚に記載される登録情報であつて、現在記録ファイルに記録されている事項に係るもの　二百円</Sentence>
-                  <Sentence Num="3">二　三十両（自動車登録番号又は車台番号並びに自動車の所有者及び使用者の氏名又は名称及び住所を含まないものについては、六十両）以下の自動車について一括して作成する登録事項等証明書一枚に記載される登録情報であつて、現在記録ファイルに記録されている事項に係るもの　二百円</Sentence>
+                  <Sentence Num="2">一　自動車一両ごとに作成する登録事項等証明書一枚に記載される登録情報であって、現在記録ファイルに記録されている事項に係るもの　二百円</Sentence>
+                  <Sentence Num="3">二　三十両（自動車登録番号又は車台番号並びに自動車の所有者及び使用者の氏名又は名称及び住所を含まないものについては、六十両）以下の自動車について一括して作成する登録事項等証明書一枚に記載される登録情報であって、現在記録ファイルに記録されている事項に係るもの　二百円</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -112,72 +112,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>十一　新規検査を申請する者</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence Num="1">一両につき次に掲げる金額</Sentence>
-                  <Sentence Num="2">一　完成検査終了証の提出（法第五十九条第四項において準用する法第七条第四項の規定による申請書への記載をもつて提出に代える場合を含む。）がある自動車</Sentence>
-                  <Sentence Num="3">イ　検査対象軽自動車及び二輪の小型自動車　千百円</Sentence>
-                  <Sentence Num="4">ロ　検査対象軽自動車及び二輪の小型自動車以外の自動車　千二百円（電子申請による場合にあつては、千円）</Sentence>
-                  <Sentence Num="5">二　登録識別情報（法第十六条第一項の申請（法第十五条の二第五項の規定により申請があつたものとみなされる場合を含む。）に基づく一時抹消登録に係るものに限る。以下「一時抹消登録識別情報」という。）の提供又は自動車検査証返納証明書の提出とともに保安基準適合証の提出（法第九十四条の五第九項の規定による申請書への記載をもつて提出に代える場合を含む。）がある自動車並びに限定自動車検査証の提出及び限定保安基準適合証の提出（法第九十四条の五の二第五項において準用する法第九十四条の五第九項の規定による申請書への記載をもつて提出に代える場合を含む。）がある自動車　千百円</Sentence>
-                  <Sentence Num="6">三　限定自動車検査証の提出がある自動車（限定保安基準適合証の提出（法第九十四条の五の二第五項において準用する法第九十四条の五第九項の規定による申請書への記載をもつて提出に代える場合を含む。）がない自動車に限る。）</Sentence>
-                  <Sentence Num="7">イ　検査対象軽自動車　千二百円</Sentence>
-                  <Sentence Num="8">ロ　検査対象軽自動車以外の自動車　千三百円</Sentence>
-                  <Sentence Num="9">四　その他の自動車</Sentence>
-                  <Sentence Num="10">イ　小型自動車　二千円</Sentence>
-                  <Sentence Num="11">ロ　検査対象軽自動車　千四百円</Sentence>
-                  <Sentence Num="12">ハ　小型自動車及び検査対象軽自動車以外の自動車　二千百円</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>十二　継続検査を申請する者</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence Num="1">一両につき次に掲げる金額</Sentence>
-                  <Sentence Num="2">一　保安基準適合証の提出（法第九十四条の五第九項の規定による申請書への記載をもつて提出に代える場合を含む。）がある自動車</Sentence>
-                  <Sentence Num="4">イ　検査対象軽自動車及び二輪の小型自動車　千百円</Sentence>
-                  <Sentence Num="5">ロ　検査対象軽自動車及び二輪の小型自動車以外の自動車　千二百円（電子申請による場合にあつては、千円）</Sentence>
-                  <Sentence Num="3">二　限定自動車検査証の提出及び限定保安基準適合証の提出（法第九十四条の五の二第五項において準用する法第九十四条の五第九項の規定による申請書への記載をもつて提出に代える場合を含む。）がある自動車　千百円</Sentence>
-                  <Sentence Num="3">三　限定自動車検査証の提出がある自動車（限定保安基準適合証の提出（法第九十四条の五の二第五項において準用する法第九十四条の五第九項の規定による申請書への記載をもつて提出に代える場合を含む。）がない自動車に限る。）</Sentence>
-                  <Sentence Num="4">イ　検査対象軽自動車　千二百円</Sentence>
-                  <Sentence Num="5">ロ　検査対象軽自動車以外の自動車　千三百円</Sentence>
-                  <Sentence Num="6">四　その他の自動車</Sentence>
-                  <Sentence Num="7">イ　小型自動車　千七百円</Sentence>
-                  <Sentence Num="8">ロ　検査対象軽自動車　千四百円</Sentence>
-                  <Sentence Num="9">ハ　小型自動車及び検査対象軽自動車以外の自動車　千八百円</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>十三　構造等変更検査を申請する者</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence Num="1">一両につき次に掲げる金額</Sentence>
-                  <Sentence Num="2">一　小型自動車　二千円</Sentence>
-                  <Sentence Num="3">二　検査対象軽自動車　千四百円</Sentence>
-                  <Sentence Num="4">三　小型自動車及び検査対象軽自動車以外の自動車　二千百円</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>十四　予備検査を申請する者</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence Num="1">一両につき次に掲げる金額</Sentence>
-                  <Sentence Num="2">一　一時抹消登録識別情報の提供又は自動車検査証返納証明書の提出とともに保安基準適合証の提出がある自動車並びに限定自動車検査証及び限定保安基準適合証の提出がある自動車　千百円</Sentence>
-                  <Sentence Num="3">二　限定自動車検査証の提出がある自動車（限定保安基準適合証の提出がない自動車に限る。）</Sentence>
-                  <Sentence Num="4">イ　検査対象軽自動車　千二百円</Sentence>
-                  <Sentence Num="5">ロ　検査対象軽自動車以外の自動車　千三百円</Sentence>
-                  <Sentence Num="6">三　その他の自動車</Sentence>
-                  <Sentence Num="7">イ　小型自動車　二千円</Sentence>
-                  <Sentence Num="8">ロ　検査対象軽自動車　千四百円</Sentence>
-                  <Sentence Num="9">ハ　小型自動車及び検査対象軽自動車以外の自動車　二千百円</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>十五　自動車検査証返納証明書の交付を申請する者</Sentence>
+                  <Sentence>十一　自動車検査証返納証明書の交付を申請する者</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>一件につき三百五十円</Sentence>
@@ -185,7 +120,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>十六　法第七十二条の三の規定による証明書の交付を請求する者</Sentence>
+                  <Sentence>十二　法第七十二条の三の規定による証明書の交付を請求する者</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence Num="1">一　自動車一両ごとに作成する証明書</Sentence>
@@ -196,7 +131,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>十七　自動車検査証、臨時検査合格標章、検査標章、自動車予備検査証又は限定自動車検査証の再交付を申請する者</Sentence>
+                  <Sentence>十三　自動車検査証、臨時検査合格標章、検査標章、自動車予備検査証又は限定自動車検査証の再交付を申請する者</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>一件につき三百円</Sentence>
@@ -204,10 +139,419 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>十八　指定自動車整備事業の指定を申請する者</Sentence>
+                  <Sentence>十四　指定自動車整備事業の指定を申請する者</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>一件につき二万九千円</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第百二条第二項の規定により国又は協会に納めなければならない手数料の額は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn Align="center" Valign="top">
+                  <Sentence>手数料を納付すべき者</Sentence>
+                </TableColumn>
+                <TableColumn Align="center" Valign="top">
+                  <Sentence>金額</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top" rowspan="2">
+                  <Paragraph Num="1">
+                    <ParagraphNum>一</ParagraphNum>
+                    <ParagraphSentence>
+                      <Sentence>新規検査を申請する者</Sentence>
+                    </ParagraphSentence>
+                  </Paragraph>
+                </TableColumn>
+                <TableColumn BorderBottom="none" Valign="top">
+                  <Sentence>一両につき次に掲げる金額</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderTop="none" Valign="top">
+                  <Item Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>完成検査終了証の提出（法第五十九条第四項において準用する法第七条第四項の規定による申請書への記載をもって提出に代える場合を含む。）がある自動車</Sentence>
+                    </ItemSentence>
+                    <Subitem1 Num="1">
+                      <Subitem1Title>イ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車及び二輪の小型自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                    <Subitem1 Num="2">
+                      <Subitem1Title>ロ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車及び二輪の小型自動車以外の自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千二百円（電子申請による場合にあっては、千円）</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                  </Item>
+                  <Item Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Column Num="1">
+                        <Sentence>登録識別情報（法第十六条第一項の申請（法第十五条の二第五項の規定により申請があったものとみなされる場合を含む。）に基づく一時抹消登録に係るものに限る。以下「一時抹消登録識別情報」という。）の提供又は自動車検査証返納証明書の提出とともに保安基準適合証の提出（法第九十四条の五第九項の規定による申請書への記載をもって提出に代える場合を含む。）がある自動車並びに限定自動車検査証の提出及び限定保安基準適合証の提出（法第九十四条の五の二第五項において準用する法第九十四条の五第九項の規定による申請書への記載をもって提出に代える場合を含む。）がある自動車</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>千百円</Sentence>
+                      </Column>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="3">
+                    <ItemTitle>三</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>限定自動車検査証の提出がある自動車（限定保安基準適合証の提出（法第九十四条の五の二第五項において準用する法第九十四条の五第九項の規定による申請書への記載をもって提出に代える場合を含む。）がない自動車に限る。）</Sentence>
+                    </ItemSentence>
+                    <Subitem1 Num="1">
+                      <Subitem1Title>イ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千二百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                    <Subitem1 Num="2">
+                      <Subitem1Title>ロ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車以外の自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千三百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                  </Item>
+                  <Item Num="4">
+                    <ItemTitle>四</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>その他の自動車</Sentence>
+                    </ItemSentence>
+                    <Subitem1 Num="1">
+                      <Subitem1Title>イ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>小型自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>二千円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                    <Subitem1 Num="2">
+                      <Subitem1Title>ロ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千四百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                    <Subitem1 Num="3">
+                      <Subitem1Title>ハ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>小型自動車及び検査対象軽自動車以外の自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>二千百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                  </Item>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top" rowspan="2">
+                  <Paragraph Num="2">
+                    <ParagraphNum>二</ParagraphNum>
+                    <ParagraphSentence>
+                      <Sentence>継続検査を申請する者</Sentence>
+                    </ParagraphSentence>
+                  </Paragraph>
+                </TableColumn>
+                <TableColumn BorderBottom="none" Valign="top">
+                  <Sentence>一両につき次に掲げる金額</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderTop="none" Valign="top">
+                  <Item Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>保安基準適合証の提出（法第九十四条の五第九項の規定による申請書への記載をもって提出に代える場合を含む。）がある自動車</Sentence>
+                    </ItemSentence>
+                    <Subitem1 Num="1">
+                      <Subitem1Title>イ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車及び二輪の小型自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                    <Subitem1 Num="2">
+                      <Subitem1Title>ロ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車及び二輪の小型自動車以外の自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千二百円（電子申請による場合にあっては、千円）</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                  </Item>
+                  <Item Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Column Num="1">
+                        <Sentence>限定自動車検査証の提出及び限定保安基準適合証の提出（法第九十四条の五の二第五項において準用する法第九十四条の五第九項の規定による申請書への記載をもって提出に代える場合を含む。）がある自動車</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>千百円</Sentence>
+                      </Column>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="3">
+                    <ItemTitle>三</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>限定自動車検査証の提出がある自動車（限定保安基準適合証の提出（法第九十四条の五の二第五項において準用する法第九十四条の五第九項の規定による申請書への記載をもって提出に代える場合を含む。）がない自動車に限る。）</Sentence>
+                    </ItemSentence>
+                    <Subitem1 Num="1">
+                      <Subitem1Title>イ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千二百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                    <Subitem1 Num="2">
+                      <Subitem1Title>ロ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車以外の自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千三百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                  </Item>
+                  <Item Num="4">
+                    <ItemTitle>四</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>その他の自動車</Sentence>
+                    </ItemSentence>
+                    <Subitem1 Num="1">
+                      <Subitem1Title>イ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>小型自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千七百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                    <Subitem1 Num="2">
+                      <Subitem1Title>ロ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千四百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                    <Subitem1 Num="3">
+                      <Subitem1Title>ハ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>小型自動車及び検査対象軽自動車以外の自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千八百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                  </Item>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top" rowspan="2">
+                  <Paragraph Num="3">
+                    <ParagraphNum>三</ParagraphNum>
+                    <ParagraphSentence>
+                      <Sentence>構造等変更検査を申請する者</Sentence>
+                    </ParagraphSentence>
+                  </Paragraph>
+                </TableColumn>
+                <TableColumn BorderBottom="none" Valign="top">
+                  <Sentence>一両につき次に掲げる金額</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderTop="none" Valign="top">
+                  <Item Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Column Num="1">
+                        <Sentence>小型自動車</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>二千円</Sentence>
+                      </Column>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Column Num="1">
+                        <Sentence>検査対象軽自動車</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>千四百円</Sentence>
+                      </Column>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="3">
+                    <ItemTitle>三</ItemTitle>
+                    <ItemSentence>
+                      <Column Num="1">
+                        <Sentence>小型自動車及び検査対象軽自動車以外の自動車</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>二千百円</Sentence>
+                      </Column>
+                    </ItemSentence>
+                  </Item>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top" rowspan="2">
+                  <Paragraph Num="4">
+                    <ParagraphNum>四</ParagraphNum>
+                    <ParagraphSentence>
+                      <Sentence>予備検査を申請する者</Sentence>
+                    </ParagraphSentence>
+                  </Paragraph>
+                </TableColumn>
+                <TableColumn BorderBottom="none" Valign="top">
+                  <Sentence>一両につき次に掲げる金額</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderTop="none" Valign="top">
+                  <Item Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Column Num="1">
+                        <Sentence>一時抹消登録識別情報の提供又は自動車検査証返納証明書の提出とともに保安基準適合証の提出がある自動車並びに限定自動車検査証及び限定保安基準適合証の提出がある自動車</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>千百円</Sentence>
+                      </Column>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>限定自動車検査証の提出がある自動車（限定保安基準適合証の提出がない自動車に限る。）</Sentence>
+                    </ItemSentence>
+                    <Subitem1 Num="1">
+                      <Subitem1Title>イ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千二百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                    <Subitem1 Num="2">
+                      <Subitem1Title>ロ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車以外の自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千三百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                  </Item>
+                  <Item Num="3">
+                    <ItemTitle>三</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>その他の自動車</Sentence>
+                    </ItemSentence>
+                    <Subitem1 Num="1">
+                      <Subitem1Title>イ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>小型自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>二千円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                    <Subitem1 Num="2">
+                      <Subitem1Title>ロ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>検査対象軽自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>千四百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                    <Subitem1 Num="3">
+                      <Subitem1Title>ハ</Subitem1Title>
+                      <Subitem1Sentence>
+                        <Column Num="1">
+                          <Sentence>小型自動車及び検査対象軽自動車以外の自動車</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>二千百円</Sentence>
+                        </Column>
+                      </Subitem1Sentence>
+                    </Subitem1>
+                  </Item>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -220,7 +564,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第百二条第一項第十号に掲げる者のうち機構が行う基準適合性審査を受けようとする者が、同条第二項の規定により、国に納めなければならない手数料の額は、一両につき四百円とし、機構に納めなければならない手数料の額は、次のとおりとする。</Sentence>
+            <Sentence>法第百二条第二項に規定する者のうち機構が行う基準適合性審査を受けようとする者が、同条第三項の規定により、国に納めなければならない手数料の額は、一両につき四百円とし、機構に納めなければならない手数料の額は、次のとおりとする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
             <Table>
@@ -238,7 +582,7 @@
                 </TableColumn>
                 <TableColumn>
                   <Sentence Num="1">一両につき次に掲げる金額</Sentence>
-                  <Sentence Num="2">一　限定自動車検査証の提出がある自動車（限定保安基準適合証の提出（法第九十四条の五の二第五項において準用する法第九十四条の五第九項の規定による申請書への記載をもつて提出に代える場合を含む。）がない自動車に限る。）　九百円</Sentence>
+                  <Sentence Num="2">一　限定自動車検査証の提出がある自動車（限定保安基準適合証の提出（法第九十四条の五の二第五項において準用する法第九十四条の五第九項の規定による申請書への記載をもって提出に代える場合を含む。）がない自動車に限る。）　九百円</Sentence>
                   <Sentence Num="3">二　その他の自動車</Sentence>
                   <Sentence Num="4">イ　小型自動車　千六百円</Sentence>
                   <Sentence Num="5">ロ　小型自動車及び検査対象軽自動車以外の自動車　千七百円</Sentence>
@@ -250,7 +594,7 @@
                 </TableColumn>
                 <TableColumn>
                   <Sentence Num="1">一両につき次に掲げる金額</Sentence>
-                  <Sentence Num="2">一　限定自動車検査証の提出がある自動車（限定保安基準適合証の提出（法第九十四条の五の二第五項において準用する法第九十四条の五第九項の規定による申請書への記載をもつて提出に代える場合を含む。）がない自動車に限る。）　九百円</Sentence>
+                  <Sentence Num="2">一　限定自動車検査証の提出がある自動車（限定保安基準適合証の提出（法第九十四条の五の二第五項において準用する法第九十四条の五第九項の規定による申請書への記載をもって提出に代える場合を含む。）がない自動車に限る。）　九百円</Sentence>
                   <Sentence Num="3">二　その他の自動車</Sentence>
                   <Sentence Num="4">イ　小型自動車　千三百円</Sentence>
                   <Sentence Num="5">ロ　小型自動車及び検査対象軽自動車以外の自動車　千四百円</Sentence>
@@ -284,7 +628,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>法第百二条第三項の規定により、国に納めなければならない手数料の額及び機構に納めなければならない手数料の額は、次のとおりとする。</Sentence>
+            <Sentence>法第百二条第四項の規定により、国に納めなければならない手数料の額及び機構に納めなければならない手数料の額は、次のとおりとする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
             <Table>
@@ -725,6 +1069,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一月三一日政令第二一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、道路運送車両法の一部を改正する法律の施行の日（令和二年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

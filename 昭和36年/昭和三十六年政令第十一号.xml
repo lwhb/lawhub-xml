@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="11" Year="36">
+<Law DataInfo="200424e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="11" Year="36">
   <LawNum>昭和三十六年政令第十一号</LawNum>
   <LawBody>
     <LawTitle>医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令</LawTitle>
@@ -116,7 +116,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">覚せい剤取締法（昭和二十六年法律第二百五十二号）</Sentence>
+                <Sentence WritingMode="vertical">覚醒剤取締法（昭和二十六年法律第二百五十二号）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -2263,8 +2263,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第二十三条の七第二項第四号の政令で定める国際約束は、環太平洋パートナーシップに関する包括的及び先進的な協定とする。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">　</Sentence>
+                <Sentence WritingMode="vertical">法第二十三条の七第二項第四号の政令で定める国際約束は、環太平洋パートナーシップに関する包括的及び先進的な協定とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2274,8 +2273,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第二十三条の十六第五項の政令で定める検査又は質問は、同条第二項第七号の規定による検査又は質問（専ら動物のために使用されることが目的とされている医療機器又は体外診断用医薬品に係る検査又は質問を除く。）とする。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">　</Sentence>
+                <Sentence WritingMode="vertical">法第二十三条の十六第五項の政令で定める検査又は質問は、同条第二項第七号の規定による検査又は質問（専ら動物のために使用されることが目的とされている医療機器又は体外診断用医薬品に係る検査又は質問を除く。）とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2285,8 +2283,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法第二十三条の十六第六項の政令で定める費用は、次に掲げる費用とする。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">　</Sentence>
+                <Sentence WritingMode="vertical">法第二十三条の十六第六項の政令で定める費用は、次に掲げる費用とする。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -3791,7 +3788,8 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第六十七条第一項に規定する特殊疾病は、がん、肉腫（しゆ）及び白血病とする。</Sentence>
+              <Sentence WritingMode="vertical">法第六十七条第一項に規定する特殊疾病は、がん、肉<Ruby>腫<Rt>しゆ</Rt>
+</Ruby>及び白血病とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4840,7 +4838,7 @@
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この政令は、法の施行の日（昭和三十六年二月一日）から施行する。</Sentence>
-          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、別表第一の規定中、薬事法施行規則（昭和二十三年厚生省令第三十七号）別表第四号表又は動物用医薬品等取締規則（昭和二十三年農林省令第九十二号）別表に規定されていない物に係る部分は、この政令の施行の日から起算して六箇月を経過した日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、別表第一の規定中、薬事法施行規則（昭和二十三年厚生省令第三十七号）別記第四号表又は動物用医薬品等取締規則（昭和二十三年農林省令第九十二号）別表に規定されていない物に係る部分は、この政令の施行の日から起算して六箇月を経過した日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Hide="false" Num="2">
@@ -6665,9 +6663,21 @@
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
-         <ParagraphSentence>
-           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
-         </ParagraphSentence>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月一一日政令第四〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律第四条（覚<Ruby>せ<Rt>ヽ</Rt>
+</Ruby>
+<Ruby>い<Rt>ヽ</Rt>
+</Ruby>剤取締法（昭和二十六年法律第二百五十二号）第九条第一項第二号の改正規定を除く。）の規定の施行の日（令和二年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
     <AppdxTable>
@@ -6705,7 +6715,8 @@
               <Item Delete="false" Hide="false" Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">麻酔器並びに麻酔器用呼吸嚢（のう）及びガス吸収かん</Sentence>
+                  <Sentence WritingMode="vertical">麻酔器並びに麻酔器用呼吸<Ruby>嚢<Rt>のう</Rt>
+</Ruby>及びガス吸収かん</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="6">
@@ -6789,7 +6800,8 @@
               <Item Delete="false" Hide="false" Num="19">
                 <ItemTitle>十九</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">尿検査又は糞（ふん）便検査用器具</Sentence>
+                  <Sentence WritingMode="vertical">尿検査又は<Ruby>糞<Rt>ふん</Rt>
+</Ruby>便検査用器具</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="20">
@@ -6855,13 +6867,15 @@
               <Item Delete="false" Hide="false" Num="30">
                 <ItemTitle>三十</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">結紮（さつ）器及び縫合器</Sentence>
+                  <Sentence WritingMode="vertical">結<Ruby>紮<Rt>さつ</Rt>
+</Ruby>器及び縫合器</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="31">
                 <ItemTitle>三十一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">医療用焼灼（しやく）器</Sentence>
+                  <Sentence WritingMode="vertical">医療用焼<Ruby>灼<Rt>しやく</Rt>
+</Ruby>器</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="32">
@@ -6897,19 +6911,24 @@
               <Item Delete="false" Hide="false" Num="37">
                 <ItemTitle>三十七</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">医療用匙（ひ）</Sentence>
+                  <Sentence WritingMode="vertical">医療用<Ruby>匙<Rt>ひ</Rt>
+</Ruby>
+</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="38">
                 <ItemTitle>三十八</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">医療用鈎（こう）</Sentence>
+                  <Sentence WritingMode="vertical">医療用<Ruby>鈎<Rt>こう</Rt>
+</Ruby>
+</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="39">
                 <ItemTitle>三十九</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">医療用鉗（かん）子</Sentence>
+                  <Sentence WritingMode="vertical">医療用<Ruby>鉗<Rt>かん</Rt>
+</Ruby>子</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="40">
@@ -6927,7 +6946,8 @@
               <Item Delete="false" Hide="false" Num="42">
                 <ItemTitle>四十二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">医療用剥（はく）離子</Sentence>
+                  <Sentence WritingMode="vertical">医療用<Ruby>剥<Rt>はく</Rt>
+</Ruby>離子</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="43">
@@ -6951,13 +6971,15 @@
               <Item Delete="false" Hide="false" Num="46">
                 <ItemTitle>四十六</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">医療用絞（こう）断器</Sentence>
+                  <Sentence WritingMode="vertical">医療用<Ruby>絞<Rt>こう</Rt>
+</Ruby>断器</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="47">
                 <ItemTitle>四十七</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">注射針及び穿（せん）刺針</Sentence>
+                  <Sentence WritingMode="vertical">注射針及び<Ruby>穿<Rt>せん</Rt>
+</Ruby>刺針</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="48">
@@ -6969,7 +6991,10 @@
               <Item Delete="false" Hide="false" Num="49">
                 <ItemTitle>四十九</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">医療用穿（せん）刺器、穿（せん）削器及び穿（せん）孔器</Sentence>
+                  <Sentence WritingMode="vertical">医療用<Ruby>穿<Rt>せん</Rt>
+</Ruby>刺器、<Ruby>穿<Rt>せん</Rt>
+</Ruby>削器及び<Ruby>穿<Rt>せん</Rt>
+</Ruby>孔器</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="50">
@@ -6981,7 +7006,8 @@
               <Item Delete="false" Hide="false" Num="51">
                 <ItemTitle>五十一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">医療用嘴（し）管及び体液誘導管</Sentence>
+                  <Sentence WritingMode="vertical">医療用<Ruby>嘴<Rt>し</Rt>
+</Ruby>管及び体液誘導管</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="52">
@@ -6999,7 +7025,8 @@
               <Item Delete="false" Hide="false" Num="54">
                 <ItemTitle>五十四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">医療用捲（けん）綿子</Sentence>
+                  <Sentence WritingMode="vertical">医療用<Ruby>捲<Rt>けん</Rt>
+</Ruby>綿子</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="55">
@@ -7065,7 +7092,8 @@
               <Item Delete="false" Hide="false" Num="65">
                 <ItemTitle>六十五</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">歯科用充填（てん）器</Sentence>
+                  <Sentence WritingMode="vertical">歯科用充<Ruby>填<Rt>てん</Rt>
+</Ruby>器</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="66">
@@ -7083,7 +7111,8 @@
               <Item Delete="false" Hide="false" Num="68">
                 <ItemTitle>六十八</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">印象採得又は咬（こう）合採得用器具</Sentence>
+                  <Sentence WritingMode="vertical">印象採得又は<Ruby>咬<Rt>こう</Rt>
+</Ruby>合採得用器具</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="69">
@@ -7263,13 +7292,15 @@
               <Item Delete="false" Hide="false" Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">歯科用根管充填（てん）材料</Sentence>
+                  <Sentence WritingMode="vertical">歯科用根管充<Ruby>填<Rt>てん</Rt>
+</Ruby>材料</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">歯科用接着充填（てん）材料</Sentence>
+                  <Sentence WritingMode="vertical">歯科用接着充<Ruby>填<Rt>てん</Rt>
+</Ruby>材料</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="6">
@@ -7287,7 +7318,9 @@
               <Item Delete="false" Hide="false" Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">歯科用石膏（こう）及び石膏（こう）製品</Sentence>
+                  <Sentence WritingMode="vertical">歯科用石<Ruby>膏<Rt>こう</Rt>
+</Ruby>及び石<Ruby>膏<Rt>こう</Rt>
+</Ruby>製品</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="9">
@@ -7473,7 +7506,10 @@
               <Item Delete="false" Hide="false" Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">製品蹄（てい）鉄及び蹄釘（ていちよう）</Sentence>
+                  <Sentence WritingMode="vertical">製品<Ruby>蹄<Rt>てい</Rt>
+</Ruby>鉄及び<Ruby>蹄釘<Rt>ていちよう</Rt>
+</Ruby>
+</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="9">

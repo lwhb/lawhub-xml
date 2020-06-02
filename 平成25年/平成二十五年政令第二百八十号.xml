@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="280" Year="25">
+<Law DataInfo="200417e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="280" Year="25">
   <LawNum>平成二十五年政令第二百八十号</LawNum>
   <LawBody>
     <LawTitle>死刑再審無罪者に対し国民年金の給付等を行うための国民年金の保険料の納付の特例等に関する法律施行令</LawTitle>
@@ -799,7 +799,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二七年九月三〇日政令第三四二号">
+    <SupplProvision AmendLawNum="平成二七年九月三〇日政令第三四二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -812,7 +812,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年三月三一日政令第一二八号" Type="Amend">
+    <SupplProvision AmendLawNum="平成二八年三月三一日政令第一二八号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -835,7 +835,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年三月三一日政令第一〇〇号" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年三月三一日政令第一〇〇号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -917,6 +917,29 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第一〇一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（死刑再審無罪者特例法施行令の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>死刑に処せられた罪について再審において無罪の言渡しを受けて施行日前にその判決が確定した場合における死刑再審無罪者に対し国民年金の給付等を行うための国民年金の保険料の納付の特例等に関する法律（平成二十五年法律第六十六号）第三条第一項の規定により支給する特別給付金の額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
@@ -927,7 +950,7 @@
               <Sentence>昭和三十六年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>八・八〇五</Sentence>
+              <Sentence>八・八一五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -935,7 +958,7 @@
               <Sentence>昭和三十七年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>八・二九四</Sentence>
+              <Sentence>八・三〇四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -943,7 +966,7 @@
               <Sentence>昭和三十八年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>七・八一〇</Sentence>
+              <Sentence>七・八一九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -951,7 +974,7 @@
               <Sentence>昭和三十九年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>七・三五〇</Sentence>
+              <Sentence>七・三五九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -959,7 +982,7 @@
               <Sentence>昭和四十年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>六・九一五</Sentence>
+              <Sentence>六・九二三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -967,7 +990,7 @@
               <Sentence>昭和四十一年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>六・五〇二</Sentence>
+              <Sentence>六・五一〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -975,7 +998,7 @@
               <Sentence>昭和四十二年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>六・一一一</Sentence>
+              <Sentence>六・一一八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -983,7 +1006,7 @@
               <Sentence>昭和四十三年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>五・七四一</Sentence>
+              <Sentence>五・七四七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -991,7 +1014,7 @@
               <Sentence>昭和四十四年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>五・三八九</Sentence>
+              <Sentence>五・三九六</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -999,7 +1022,7 @@
               <Sentence>昭和四十五年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>五・〇五六</Sentence>
+              <Sentence>五・〇六二</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1007,7 +1030,7 @@
               <Sentence>昭和四十六年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>四・七四〇</Sentence>
+              <Sentence>四・七四六</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1015,7 +1038,7 @@
               <Sentence>昭和四十七年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>四・四四一</Sentence>
+              <Sentence>四・四四七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1023,7 +1046,7 @@
               <Sentence>昭和四十八年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>四・一五七</Sentence>
+              <Sentence>四・一六三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1031,7 +1054,7 @@
               <Sentence>昭和四十九年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>三・八八九</Sentence>
+              <Sentence>三・八九三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1039,7 +1062,7 @@
               <Sentence>昭和五十年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>三・六三四</Sentence>
+              <Sentence>三・六三八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1047,7 +1070,7 @@
               <Sentence>昭和五十一年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>三・三九二</Sentence>
+              <Sentence>三・三九七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1055,7 +1078,7 @@
               <Sentence>昭和五十二年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>三・一六三</Sentence>
+              <Sentence>三・一六七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1063,7 +1086,7 @@
               <Sentence>昭和五十三年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>二・九四六</Sentence>
+              <Sentence>二・九五〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1071,7 +1094,7 @@
               <Sentence>昭和五十四年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>二・七四〇</Sentence>
+              <Sentence>二・七四四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1079,7 +1102,7 @@
               <Sentence>昭和五十五年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>二・五四五</Sentence>
+              <Sentence>二・五四九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1087,7 +1110,7 @@
               <Sentence>昭和五十六年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>二・三六一</Sentence>
+              <Sentence>二・三六四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1095,7 +1118,7 @@
               <Sentence>昭和五十七年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>二・一八五</Sentence>
+              <Sentence>二・一八九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1103,7 +1126,7 @@
               <Sentence>昭和五十八年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>二・〇一九</Sentence>
+              <Sentence>二・〇二二</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1111,7 +1134,7 @@
               <Sentence>昭和五十九年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>一・八六二</Sentence>
+              <Sentence>一・八六五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1119,7 +1142,7 @@
               <Sentence>昭和六十年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>一・七一三</Sentence>
+              <Sentence>一・七一五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1127,7 +1150,7 @@
               <Sentence>昭和六十一年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>一・五七一</Sentence>
+              <Sentence>一・五七四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1135,7 +1158,7 @@
               <Sentence>昭和六十二年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>一・四三七</Sentence>
+              <Sentence>一・四四〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1143,7 +1166,7 @@
               <Sentence>昭和六十三年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>一・三一〇</Sentence>
+              <Sentence>一・三一三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1151,7 +1174,7 @@
               <Sentence>平成元年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>一・一九〇</Sentence>
+              <Sentence>一・一九二</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1159,7 +1182,7 @@
               <Sentence>平成二年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>一・〇七六</Sentence>
+              <Sentence>一・〇七八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1167,7 +1190,7 @@
               <Sentence>平成三年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・九六七</Sentence>
+              <Sentence>〇・九六九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1175,7 +1198,7 @@
               <Sentence>平成四年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・八六五</Sentence>
+              <Sentence>〇・八六七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1183,7 +1206,7 @@
               <Sentence>平成五年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・七六八</Sentence>
+              <Sentence>〇・七六九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1191,7 +1214,7 @@
               <Sentence>平成六年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・六七五</Sentence>
+              <Sentence>〇・六七七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1199,7 +1222,7 @@
               <Sentence>平成七年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・五八八</Sentence>
+              <Sentence>〇・五九〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1207,7 +1230,7 @@
               <Sentence>平成八年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・五〇五</Sentence>
+              <Sentence>〇・五〇七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1215,7 +1238,7 @@
               <Sentence>平成九年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・四二七</Sentence>
+              <Sentence>〇・四二八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1223,7 +1246,7 @@
               <Sentence>平成十年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・三五二</Sentence>
+              <Sentence>〇・三五四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1231,7 +1254,7 @@
               <Sentence>平成十一年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・三〇〇</Sentence>
+              <Sentence>〇・三〇二</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1239,7 +1262,7 @@
               <Sentence>平成十二年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・二五〇</Sentence>
+              <Sentence>〇・二五二</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1247,7 +1270,7 @@
               <Sentence>平成十三年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・二〇二</Sentence>
+              <Sentence>〇・二〇四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1255,7 +1278,7 @@
               <Sentence>平成十四年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・一五六</Sentence>
+              <Sentence>〇・一五七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1263,7 +1286,7 @@
               <Sentence>平成十五年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・一三九</Sentence>
+              <Sentence>〇・一四〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1271,7 +1294,7 @@
               <Sentence>平成十六年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・一二三</Sentence>
+              <Sentence>〇・一二四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1279,7 +1302,7 @@
               <Sentence>平成十七年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・一〇三</Sentence>
+              <Sentence>〇・一〇五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1287,7 +1310,7 @@
               <Sentence>平成十八年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇八五</Sentence>
+              <Sentence>〇・〇八六</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1295,7 +1318,7 @@
               <Sentence>平成十九年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇六九</Sentence>
+              <Sentence>〇・〇七〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1303,7 +1326,7 @@
               <Sentence>平成二十年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇五四</Sentence>
+              <Sentence>〇・〇五五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1311,7 +1334,7 @@
               <Sentence>平成二十一年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇四二</Sentence>
+              <Sentence>〇・〇四三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1319,7 +1342,7 @@
               <Sentence>平成二十二年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇二九</Sentence>
+              <Sentence>〇・〇三〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1327,7 +1350,7 @@
               <Sentence>平成二十三年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇二〇</Sentence>
+              <Sentence>〇・〇二一</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1335,7 +1358,7 @@
               <Sentence>平成二十四年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇一三</Sentence>
+              <Sentence>〇・〇一四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1343,7 +1366,7 @@
               <Sentence>平成二十五年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇〇七</Sentence>
+              <Sentence>〇・〇〇八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1351,7 +1374,7 @@
               <Sentence>平成二十六年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇〇三</Sentence>
+              <Sentence>〇・〇〇四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1359,12 +1382,20 @@
               <Sentence>平成二十七年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇〇二</Sentence>
+              <Sentence>〇・〇〇三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
               <Sentence>平成二十八年度</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>〇・〇〇二</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn>
+              <Sentence>平成二十九年度</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>〇・〇〇一</Sentence>
@@ -1383,7 +1414,7 @@
               <Sentence>昭和三十六年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>四・九五四</Sentence>
+              <Sentence>四・九八四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1391,7 +1422,7 @@
               <Sentence>昭和三十七年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>四・六五五</Sentence>
+              <Sentence>四・六八三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1399,7 +1430,7 @@
               <Sentence>昭和三十八年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>四・二九五</Sentence>
+              <Sentence>四・三二一</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1407,7 +1438,7 @@
               <Sentence>昭和三十九年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>三・九二一</Sentence>
+              <Sentence>三・九四五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1415,7 +1446,7 @@
               <Sentence>昭和四十年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>三・七三六</Sentence>
+              <Sentence>三・七六〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1423,7 +1454,7 @@
               <Sentence>昭和四十一年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>三・四四三</Sentence>
+              <Sentence>三・四六五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1431,7 +1462,7 @@
               <Sentence>昭和四十二年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>三・二二七</Sentence>
+              <Sentence>三・二四八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1439,7 +1470,7 @@
               <Sentence>昭和四十三年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>三・〇六五</Sentence>
+              <Sentence>三・〇八五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1447,7 +1478,7 @@
               <Sentence>昭和四十四年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>二・八六〇</Sentence>
+              <Sentence>二・八七九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1455,7 +1486,7 @@
               <Sentence>昭和四十五年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>二・六六九</Sentence>
+              <Sentence>二・六八七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1463,7 +1494,7 @@
               <Sentence>昭和四十六年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>二・四〇七</Sentence>
+              <Sentence>二・四二四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1471,7 +1502,7 @@
               <Sentence>昭和四十七年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>二・二〇五</Sentence>
+              <Sentence>二・二二一</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1479,7 +1510,7 @@
               <Sentence>昭和四十八年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>二・〇五五</Sentence>
+              <Sentence>二・〇七〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1487,7 +1518,7 @@
               <Sentence>昭和四十九年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>一・七三五</Sentence>
+              <Sentence>一・七四九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1495,7 +1526,7 @@
               <Sentence>昭和五十年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>一・二二〇</Sentence>
+              <Sentence>一・二三一</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1503,7 +1534,7 @@
               <Sentence>昭和五十一年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・九八八</Sentence>
+              <Sentence>〇・九九八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1511,7 +1542,7 @@
               <Sentence>昭和五十二年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・八一七</Sentence>
+              <Sentence>〇・八二六</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1519,7 +1550,7 @@
               <Sentence>昭和五十三年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・六八一</Sentence>
+              <Sentence>〇・六八九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1527,7 +1558,7 @@
               <Sentence>昭和五十四年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・六一三</Sentence>
+              <Sentence>〇・六二一</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1535,7 +1566,7 @@
               <Sentence>昭和五十五年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・五五五</Sentence>
+              <Sentence>〇・五六三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1543,7 +1574,7 @@
               <Sentence>昭和五十六年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・四四四</Sentence>
+              <Sentence>〇・四五一</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1551,7 +1582,7 @@
               <Sentence>昭和五十七年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・三七七</Sentence>
+              <Sentence>〇・三八四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1559,7 +1590,7 @@
               <Sentence>昭和五十八年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・三三九</Sentence>
+              <Sentence>〇・三四六</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1567,7 +1598,7 @@
               <Sentence>昭和五十九年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・三一四</Sentence>
+              <Sentence>〇・三二一</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1575,7 +1606,7 @@
               <Sentence>昭和六十年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・二八五</Sentence>
+              <Sentence>〇・二九一</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1583,7 +1614,7 @@
               <Sentence>昭和六十一年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・二六〇</Sentence>
+              <Sentence>〇・二六六</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1591,7 +1622,7 @@
               <Sentence>昭和六十二年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・二五二</Sentence>
+              <Sentence>〇・二五八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1599,7 +1630,7 @@
               <Sentence>昭和六十三年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・二五一</Sentence>
+              <Sentence>〇・二五七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1607,7 +1638,7 @@
               <Sentence>平成元年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・二四二</Sentence>
+              <Sentence>〇・二四八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1615,7 +1646,7 @@
               <Sentence>平成二年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・二一四</Sentence>
+              <Sentence>〇・二二〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1623,7 +1654,7 @@
               <Sentence>平成三年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・一七八</Sentence>
+              <Sentence>〇・一八四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1631,7 +1662,7 @@
               <Sentence>平成四年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・一四〇</Sentence>
+              <Sentence>〇・一四六</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1639,7 +1670,7 @@
               <Sentence>平成五年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・一二二</Sentence>
+              <Sentence>〇・一二八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1647,7 +1678,7 @@
               <Sentence>平成六年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・一〇八</Sentence>
+              <Sentence>〇・一一三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1655,7 +1686,7 @@
               <Sentence>平成七年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・一〇〇</Sentence>
+              <Sentence>〇・一〇五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1663,7 +1694,7 @@
               <Sentence>平成八年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・一〇〇</Sentence>
+              <Sentence>〇・一〇五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1671,7 +1702,7 @@
               <Sentence>平成九年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇九九</Sentence>
+              <Sentence>〇・一〇四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1679,7 +1710,7 @@
               <Sentence>平成十年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇七九</Sentence>
+              <Sentence>〇・〇八五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1687,7 +1718,7 @@
               <Sentence>平成十一年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇七三</Sentence>
+              <Sentence>〇・〇七八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1695,7 +1726,7 @@
               <Sentence>平成十二年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇七三</Sentence>
+              <Sentence>〇・〇七八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1703,7 +1734,7 @@
               <Sentence>平成十三年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇七三</Sentence>
+              <Sentence>〇・〇七八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1711,7 +1742,7 @@
               <Sentence>平成十四年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇七三</Sentence>
+              <Sentence>〇・〇七八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1719,7 +1750,7 @@
               <Sentence>平成十五年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇七三</Sentence>
+              <Sentence>〇・〇七八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1727,7 +1758,7 @@
               <Sentence>平成十六年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇七三</Sentence>
+              <Sentence>〇・〇七八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1735,7 +1766,7 @@
               <Sentence>平成十七年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇七三</Sentence>
+              <Sentence>〇・〇七八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1743,7 +1774,7 @@
               <Sentence>平成十八年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇七三</Sentence>
+              <Sentence>〇・〇七八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1751,7 +1782,7 @@
               <Sentence>平成十九年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇七〇</Sentence>
+              <Sentence>〇・〇七五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1759,7 +1790,7 @@
               <Sentence>平成二十年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇七〇</Sentence>
+              <Sentence>〇・〇七五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1767,7 +1798,7 @@
               <Sentence>平成二十一年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇五五</Sentence>
+              <Sentence>〇・〇六〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1775,7 +1806,7 @@
               <Sentence>平成二十二年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇五五</Sentence>
+              <Sentence>〇・〇六〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1783,7 +1814,7 @@
               <Sentence>平成二十三年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇五五</Sentence>
+              <Sentence>〇・〇六〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1791,7 +1822,7 @@
               <Sentence>平成二十四年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇五五</Sentence>
+              <Sentence>〇・〇六〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1799,7 +1830,7 @@
               <Sentence>平成二十五年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇五五</Sentence>
+              <Sentence>〇・〇六〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1807,7 +1838,15 @@
               <Sentence>平成二十六年度</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>〇・〇五一</Sentence>
+              <Sentence>〇・〇五六</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn>
+              <Sentence>平成二十七年度</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>〇・〇二八</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
