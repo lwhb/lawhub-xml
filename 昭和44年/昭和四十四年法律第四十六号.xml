@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="46" Year="44">
+<Law DataInfo="200508e01k01m02" Era="Showa" Lang="ja" LawType="Act" Num="46" Year="44">
   <LawNum>昭和四十四年法律第四十六号</LawNum>
   <LawBody>
     <LawTitle>租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律</LawTitle>
@@ -25,10 +25,10 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>租税条約</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>我が国が締結した所得に対する租税に関する二重課税の回避又は脱税の防止のための条約をいう。</Sentence>
               </Column>
             </ItemSentence>
@@ -36,10 +36,10 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>租税条約等</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>租税条約及び租税相互行政支援協定（租税条約以外の我が国が締結した国際約束で、租税の賦課若しくは徴収に関する情報を相互に提供すること、租税の徴収の共助若しくは徴収のための財産の保全の共助をすること又は租税に関する文書の送達の共助をすることを定める規定を有するものをいう。）をいう。</Sentence>
               </Column>
             </ItemSentence>
@@ -47,10 +47,10 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>相手国等</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>租税条約等の我が国以外の締約国又は締約者をいう。</Sentence>
               </Column>
             </ItemSentence>
@@ -58,10 +58,10 @@
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>相手国居住者等</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>所得税法第二条第一項第五号に規定する非居住者（以下「非居住者」という。）又は同項第七号に規定する外国法人（同項第八号に規定する人格のない社団等（以下「人格のない社団等」という。）を含む。以下「外国法人」という。）で、租税条約の規定により当該租税条約の相手国等の居住者又は法人とされるものをいう。</Sentence>
               </Column>
             </ItemSentence>
@@ -69,10 +69,10 @@
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>限度税率</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>租税条約において相手国居住者等に対する課税につき一定の税率又は一定の割合で計算した金額を超えないものとしている場合におけるその一定の税率又は一定の割合をいう。</Sentence>
               </Column>
             </ItemSentence>
@@ -1578,7 +1578,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国税庁、国税局又は税務署の当該職員は、租税条約等の規定に基づき当該租税条約等の相手国等から当該相手国等の租税に関する調査（当該相手国等の刑事事件の捜査その他当該相手国等の租税に関する法令を執行する当局が行う犯則事件の調査を除く。）に必要な情報の提供の要請があつた場合には、前条第一項の規定により当該情報の提供を行うために、当該要請において特定された者に質問し、その者の事業に関する帳簿書類（その作成又は保存に代えて電磁的記録（電子的方式、磁気的方式その他の人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。第十条の三において同じ。）の作成又は保存がされている場合における当該電磁的記録を含む。第十条の八第一項及び第十三条第四項において同じ。）その他の物件を検査し、又は当該物件（その写しを含む。）の提示若しくは提出を求めることができる。</Sentence>
+            <Sentence>国税庁、国税局又は税務署の当該職員は、租税条約等の規定に基づき当該租税条約等の相手国等から当該相手国等の租税に関する調査（当該相手国等の刑事事件の捜査その他当該相手国等の租税に関する法令を執行する当局が行う犯則事件の調査を除く。）に必要な情報の提供の要請があつた場合には、前条第一項の規定により当該情報の提供を行うために、当該要請において特定された者に質問し、その者の事業に関する帳簿書類（その作成又は保存に代えて電磁的記録（電子的方式、磁気的方式その他の人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。第十条の三において同じ。）の作成又は保存がされている場合における当該電磁的記録を含む。第十条の九第一項及び第十三条第四項において同じ。）その他の物件を検査し、又は当該物件（その写しを含む。）の提示若しくは提出を求めることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -1698,14 +1698,14 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1">平成二十九年一月一日以後に報告金融機関等との間でその営業所等を通じて特定取引を行う者は、その者（特定取引を行う者が特定法人である場合において、当該特定法人に係る実質的支配者があるときにあつては、当該特定法人及びその実質的支配者とし、特定取引を行う者が特定組合員である場合にあつては、当該特定取引をその業務として行う当該特定組合員が締結している組合契約によつて成立する組合とする。以下第十条の七までにおいて「特定対象者」という。）の氏名又は名称、住所又は本店若しくは主たる事務所の所在地、居住地国その他の総務省令、財務省令で定める事項を記載した届出書を、その特定取引を行う際、当該報告金融機関等の営業所等の長に提出しなければならない。</Sentence>
+            <Sentence Num="1">平成二十九年一月一日以後に報告金融機関等との間でその営業所等を通じて特定取引を行う者は、その者（特定取引を行う者が特定法人である場合において、当該特定法人に係る実質的支配者があるときにあつては、当該特定法人及びその実質的支配者とし、特定取引を行う者が特定組合員等（信託の受託者にあつては、当該信託が第八項第七号イに掲げる法人等に該当する場合における当該受託者に限る。以下この項において同じ。）である場合にあつては、当該特定取引をその業務として行う当該特定組合員等に係る第八項第六号イからハまでに掲げるものとする。以下この条、次条及び第十条の八において「特定対象者」という。）の氏名又は名称、住所又は本店若しくは主たる事務所の所在地、居住地国その他の総務省令、財務省令で定める事項を記載した届出書を、その特定取引を行う際、当該報告金融機関等の営業所等の長に提出しなければならない。</Sentence>
             <Sentence Num="2">この場合において、当該報告金融機関等の営業所等の長は、総務省令、財務省令で定めるところにより、当該届出書に記載されている事項を確認しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">報告金融機関等は、平成二十八年十二月三十一日以前に当該報告金融機関等との間でその営業所等を通じて特定取引を行つた者で同日において当該特定取引に係る契約を締結しているものにつき、政令で定めるところにより、平成三十年十二月三十一日（特定取引に係る契約で政令で定めるものにあつては、政令で定める日）までに、当該報告金融機関等の保有する特定対象者の住所その他の情報に基づき当該特定対象者の住所又は本店若しくは主たる事務所の所在する国又は地域（第六項、次条第一項及び第十条の七第一項において「住所等所在地国」という。）と認められる国又は地域を特定しなければならない。</Sentence>
+            <Sentence Function="main" Num="1">報告金融機関等は、平成二十八年十二月三十一日以前に当該報告金融機関等との間でその営業所等を通じて特定取引を行つた者で同日において当該特定取引に係る契約を締結しているものにつき、政令で定めるところにより、平成三十年十二月三十一日（特定取引に係る契約で政令で定めるものにあつては、政令で定める日）までに、当該報告金融機関等の保有する特定対象者の住所その他の情報に基づき当該特定対象者の住所又は本店若しくは主たる事務所の所在する国又は地域（第六項及び第七項、次条第一項並びに第十条の八第一項において「住所等所在地国」という。）と認められる国又は地域を特定しなければならない。</Sentence>
             <Sentence Function="proviso" Num="2">ただし、次項の規定による届出書の提出を受けた場合は、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -1725,10 +1725,10 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>特定対象者の居住地国が第一項若しくは前項の届出書又は異動届出書に当該特定対象者の居住地国として記載した国又は地域と異なることとなつた場合</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>その異なることとなつた居住地国</Sentence>
               </Column>
             </ItemSentence>
@@ -1736,10 +1736,10 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第七項第八号イ及びロに掲げる者のいずれにも該当しない特定対象者が同号イ又はロに掲げる者のいずれかに該当することとなつた場合</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>それぞれ同号イ又はロに定める国又は地域</Sentence>
               </Column>
             </ItemSentence>
@@ -1747,10 +1747,10 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第七項第八号イ又はロに掲げる者のいずれかに該当する特定対象者が同号イ及びロに掲げる者のいずれにも該当しないこととなつた場合</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>その該当しないこととなつた旨</Sentence>
               </Column>
             </ItemSentence>
@@ -1769,18 +1769,18 @@
             <Sentence Num="2">当該特定をした後、再び当該政令で定める場合に該当することとなつた場合についても、同様とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="7">
-          <ParagraphNum>７</ParagraphNum>
+        <Paragraph Num="8">
+          <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>この条から第十条の七までにおいて、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            <Sentence>この条から第十条の八までにおいて、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>報告金融機関等</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>銀行その他の政令で定める者をいう。</Sentence>
               </Column>
             </ItemSentence>
@@ -1788,10 +1788,10 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>営業所等</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>国内（この法律の施行地をいう。次条第一項において同じ。）にある営業所又は事務所（報告金融機関等のうち政令で定める者にあつては、政令で定める場所）をいう。</Sentence>
               </Column>
             </ItemSentence>
@@ -1799,10 +1799,10 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>特定取引</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>預金又は貯金の預入れを内容とする契約の締結その他の政令で定める取引をいう。</Sentence>
               </Column>
             </ItemSentence>
@@ -1810,10 +1810,10 @@
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>特定法人</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>その発行する株式が外国金融商品取引所（金融商品取引法（昭和二十三年法律第二十五号）第二条第十六項に規定する金融商品取引所に類するもので外国の法令に基づき設立されたものをいう。次条第一項において同じ。）において上場されている法人その他の政令で定める法人以外の法人をいう。</Sentence>
               </Column>
             </ItemSentence>
@@ -1821,10 +1821,10 @@
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>実質的支配者</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>法人の事業経営を実質的に支配することが可能となる関係にあるものとして総務省令、財務省令で定める者をいう。</Sentence>
               </Column>
             </ItemSentence>
@@ -1832,42 +1832,64 @@
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
-                <Sentence>特定組合員</Sentence>
+              <Column Num="1">
+                <Sentence>特定組合員等</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
-                <Sentence>組合契約を締結している組合員（匿名組合契約（これに準ずる契約として政令で定めるものを含む。）及び外国におけるこれに類する契約（以下この号及び次号において「匿名組合契約等」という。）にあつては、匿名組合契約等に基づいて出資を受ける者）であつて、特定取引を当該組合契約によつて成立する組合の業務として行うものをいう。</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-          <Item Num="7">
-            <ItemTitle>七</ItemTitle>
-            <ItemSentence>
-              <Column LineBreak="false" Num="1">
-                <Sentence>組合契約</Sentence>
-              </Column>
-              <Column LineBreak="false" Num="2">
-                <Sentence>民法（明治二十九年法律第八十九号）第六百六十七条第一項に規定する組合契約（これに類するものとして政令で定める契約を含む。）又は匿名組合契約等をいう。</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-          <Item Num="8">
-            <ItemTitle>八</ItemTitle>
-            <ItemSentence>
-              <Column LineBreak="false" Num="1">
-                <Sentence>居住地国</Sentence>
-              </Column>
-              <Column LineBreak="false" Num="2">
-                <Sentence>次に掲げる者の区分に応じそれぞれ次に定める国又は地域をいう。</Sentence>
+              <Column Num="2">
+                <Sentence>次に掲げるものの区分に応じそれぞれ次に定める者をいう。</Sentence>
               </Column>
             </ItemSentence>
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence>外国の法令において、当該外国に住所を有し、若しくは一定の期間を超えて居所を有し、若しくは本店若しくは主たる事務所若しくはその事業が管理され、かつ、支配されている場所を有することその他当該外国にこれらに類する場所を有することにより、又は当該外国の国籍を有することその他これに類する基準により、所得税又は法人税に相当する税を課されるものとされている個人（租税条約の規定により当該租税条約の相手国等の居住者でないものとみなされる居住者（所得税法第二条第一項第三号に規定する居住者をいう。ロにおいて同じ。）を除く。）又は法人（組合契約によつて成立する組合を含む。）</Sentence>
+                <Column Num="1">
+                  <Sentence>組合契約（民法（明治二十九年法律第八十九号）第六百六十七条第一項に規定する組合契約（これに類するものとして政令で定める契約を含む。）又は匿名組合契約等（匿名組合契約及び外国におけるこれに類する契約をいう。イにおいて同じ。）をいう。イにおいて同じ。）によつて成立する組合</Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
+                <Column Num="2">
+                  <Sentence>組合契約を締結している組合員（匿名組合契約等にあつては、匿名組合契約等に基づいて出資を受ける者）であつて、特定取引を当該組合契約によつて成立する組合の業務として行うもの</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column Num="1">
+                  <Sentence>イに掲げる組合に準ずる事業体</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>特定取引を当該事業体の業務として行う者</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column Num="1">
+                  <Sentence>信託</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>信託の受託者であつて、特定取引を当該信託の業務として行うもの</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>居住地国</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>次に掲げるものの区分に応じそれぞれ次に定める国又は地域をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column Num="1">
+                  <Sentence>外国の法令において、当該外国に住所を有し、若しくは一定の期間を超えて居所を有し、若しくは本店若しくは主たる事務所若しくはその事業が管理され、かつ、支配されている場所を有することその他当該外国にこれらに類する場所を有することにより、又は当該外国の国籍を有することその他これに類する基準により、所得税又は法人税に相当する税を課されるものとされている個人（租税条約の規定により当該租税条約の相手国等の居住者でないものとみなされる居住者（所得税法第二条第一項第三号に規定する居住者をいう。ハにおいて同じ。）を除く。）又は法人等（法人又は前号イからハまでに掲げるものをいう。以下この号において同じ。）</Sentence>
+                </Column>
+                <Column Num="2">
                   <Sentence>当該外国</Sentence>
                 </Column>
               </Subitem1Sentence>
@@ -1875,33 +1897,50 @@
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence>居住者又は内国法人</Sentence>
+                <Column Num="1">
+                  <Sentence>外国にその財務及び営業又は事業の方針につき実質的な決定が行われている場所が所在する法人等（イに掲げるもの、内国法人及び信託を除く。）</Sentence>
                 </Column>
-                <Column LineBreak="false" Num="2">
+                <Column Num="2">
+                  <Sentence>当該外国</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column Num="1">
+                  <Sentence>居住者又は法人等（イ及びロに掲げるもの並びに信託を除く。）</Sentence>
+                </Column>
+                <Column Num="2">
                   <Sentence>我が国</Sentence>
                 </Column>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
         </Paragraph>
-        <Paragraph Num="8">
-          <ParagraphNum>８</ParagraphNum>
+        <Paragraph Num="9">
+          <ParagraphNum>９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1">第一項の特定取引を行う者若しくは第三項の特定取引に係る契約を締結している者又はこれらの規定により届出書を提出した者は、これらの規定による届出書又は第四項の規定による異動届出書の提出に代えて、これらの届出書に記載すべき事項を電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であつて総務省令、財務省令で定める方法をいう。第十三条第四項第三号において同じ。）により提供することができる。</Sentence>
             <Sentence Num="2">この場合において、これらの者は、これらの届出書を提出したものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="9">
-          <ParagraphNum>９</ParagraphNum>
+        <Paragraph Num="10">
+          <ParagraphNum>１０</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>特定取引を行つたとみられる者（報告金融機関等その他の政令で定める者を除く。）が単なる名義人（外国におけるこれに相当するものを含む。）であつて、当該特定取引に係る契約の利益を享受せず、その者以外の者が当該特定取引に係る契約の利益を享受する場合には、当該特定取引は、当該利益を享受する者が行つたものとして、この条から第十条の八までの規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="11">
+          <ParagraphNum>１１</ParagraphNum>
           <ParagraphSentence>
             <Sentence>平成二十九年一月一日以後に報告金融機関等に該当することとなつた者についての第二項の規定の適用については、同項中「平成二十八年十二月三十一日」とあるのは「報告金融機関等に該当することとなつた日として政令で定める日（以下この項において「該当日」という。）」と、「同日」とあるのは「該当日」と、「平成三十年十二月三十一日」とあるのは「該当日から二年を経過する日」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="10">
-          <ParagraphNum>１０</ParagraphNum>
+        <Paragraph Num="12">
+          <ParagraphNum>１２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第八項に定めるもののほか、第一項から第六項まで及び前項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            <Sentence>第九項及び第十項に定めるもののほか、第一項から第七項まで及び前項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1911,7 +1950,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>報告金融機関等は、その年の十二月三十一日において、当該報告金融機関等との間でその営業所等を通じて特定取引を行つた者（その発行する株式が外国金融商品取引所において上場されている法人その他の政令で定める者を除く。）が報告対象契約を締結している場合には、その報告対象契約ごとに、特定対象者の氏名又は名称、住所又は本店若しくは主たる事務所の所在地、特定居住地国（前条第一項若しくは第三項の規定により提出された届出書若しくは同条第四項の規定により提出された異動届出書に特定対象者の居住地国として記載された国若しくは地域又は同条第二項若しくは第六項の規定により特定対象者の住所等所在地国と認められる国若しくは地域として特定された国若しくは地域をいう。次項及び次条第一項において同じ。）及び当該報告対象契約に係る資産の価額、当該資産の運用、保有又は譲渡による収入金額その他の総務省令、財務省令で定める事項（以下この条及び第十条の八において「報告事項」という。）を、その年の翌年四月三十日までに、次に掲げる方法のいずれかにより、当該報告金融機関等の本店又は主たる事務所の所在地（当該報告金融機関等が国内に本店又は主たる事務所を有しない場合その他の政令で定める場合には、政令で定める場所）の所轄税務署長に提供しなければならない。</Sentence>
+            <Sentence>報告金融機関等は、その年の十二月三十一日において、当該報告金融機関等との間でその営業所等を通じて特定取引を行つた者（その発行する株式が外国金融商品取引所において上場されている法人その他の政令で定める者を除く。）が報告対象契約を締結している場合には、その報告対象契約ごとに、特定対象者の氏名又は名称、住所又は本店若しくは主たる事務所の所在地及び特定居住地国（前条第一項若しくは第三項の規定により提出された届出書若しくは同条第四項の規定により提出された異動届出書に特定対象者の居住地国として記載された国若しくは地域又は同条第二項若しくは第六項（同条第七項において準用する場合を含む。）の規定により特定対象者の住所等所在地国と認められる国若しくは地域として特定された国若しくは地域をいう。次項及び第十条の八第一項において同じ。）、当該報告対象契約に係る資産の価額、当該資産の運用、保有又は譲渡による収入金額その他の総務省令、財務省令で定める事項（以下この条、次条及び第十条の九において「報告事項」という。）を、その年の翌年四月三十日までに、次に掲げる方法のいずれかにより、当該報告金融機関等の本店又は主たる事務所の所在地（当該報告金融機関等が国内に本店又は主たる事務所を有しない場合その他の政令で定める場合には、政令で定める場所）の所轄税務署長に提供しなければならない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1934,7 +1973,7 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence>特定居住地国が租税条約等の相手国等のうち総務省令、財務省令で定める国又は地域（以下この項において「報告対象国」という。）である者（特定居住地国が報告対象国である組合契約によつて成立する組合の特定組合員を含む。）が締結しているもの</Sentence>
+              <Sentence>特定居住地国が相手国等のうち総務省令、財務省令で定める国又は地域（以下この項において「報告対象国」という。）である者（特定居住地国が報告対象国である前条第八項第六号イからハまでに掲げるものに係る特定組合員等を含む。）が締結しているもの</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
@@ -1958,8 +1997,24 @@
         </Paragraph>
       </Article>
       <Article Num="10_7">
-        <ArticleCaption>（記録の作成及び保存）</ArticleCaption>
+        <ArticleCaption>（報告事項の提供の回避を主たる目的とする行為等があつた場合の特例）</ArticleCaption>
         <ArticleTitle>第十条の七</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>報告金融機関等との間でその営業所等を通じて特定取引を行つた者若しくはその関係者又は当該報告金融機関等が、当該特定取引に係る契約に関する報告事項について、前条第一項の規定による提供を回避することを主たる目的の一つとして当該報告事項に係る行為を行つた場合又はその行為がなかつたならば同項の規定により提供されたであろう報告事項と異なる内容の報告事項を提供させることを主たる目的の一つとして当該行為（当該特定取引に係る契約に関する報告事項に係る行為に限る。）を行つた場合には、これらの行為がなかつたものとして、前二条の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>報告金融機関等との間でその営業所等を通じて特定取引を行つた者若しくはその関係者又は当該報告金融機関等が、当該特定取引に係る契約に関する報告事項について、前条第一項の規定による提供を回避することを主たる目的の一つとして当該報告事項に関し通常行われると認められる行為を行わなかつた場合又はその行為があつたならば同項の規定により提供されたであろう報告事項と異なる内容の報告事項を提供させることを主たる目的の一つとして当該行為（当該特定取引に係る契約に関する報告事項に関し通常行われると認められる行為に限る。）を行わなかつた場合には、これらの行為があつたものとして、前二条の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10_8">
+        <ArticleCaption>（記録の作成及び保存）</ArticleCaption>
+        <ArticleTitle>第十条の八</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1973,9 +2028,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="10_8">
+      <Article Num="10_9">
         <ArticleCaption>（報告金融機関等の報告事項の提供に係る当該職員の質問検査権）</ArticleCaption>
-        <ArticleTitle>第十条の八</ArticleTitle>
+        <ArticleTitle>第十条の九</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1995,9 +2050,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="10_9">
+      <Article Num="10_10">
         <ArticleCaption>（身分証明書の携帯等）</ArticleCaption>
-        <ArticleTitle>第十条の九</ArticleTitle>
+        <ArticleTitle>第十条の十</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -3223,25 +3278,25 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence>第九条第一項若しくは第十条の八第一項の規定による当該職員の質問に対して答弁せず、若しくは偽りの答弁をし、又はこれらの規定による検査を拒み、妨げ、若しくは忌避した者</Sentence>
+              <Sentence>第九条第一項若しくは第十条の九第一項の規定による当該職員の質問に対して答弁せず、若しくは偽りの答弁をし、又はこれらの規定による検査を拒み、妨げ、若しくは忌避した者</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence>第九条第一項又は第十条の八第一項の規定による物件の提示又は提出の要求に対し、正当な理由がなくこれに応じず、又は偽りの記載若しくは記録をした帳簿書類その他の物件（その写しを含む。）を提示し、若しくは提出した者</Sentence>
+              <Sentence>第九条第一項又は第十条の九第一項の規定による物件の提示又は提出の要求に対し、正当な理由がなくこれに応じず、又は偽りの記載若しくは記録をした帳簿書類その他の物件（その写しを含む。）を提示し、若しくは提出した者</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence>第十条の五第一項に規定する届出書を同項に規定する特定取引の際に報告金融機関等（同条第七項第一号に規定する報告金融機関等をいう。以下この号において同じ。）の営業所等（同条第七項第二号に規定する営業所等をいう。以下この号において同じ。）の長に提出せず、若しくは同条第一項若しくは第三項に規定する届出書若しくは同条第四項に規定する異動届出書に偽りの記載をして報告金融機関等の営業所等の長に提出した者又は同条第八項の規定による電磁的方法により偽りの事項を提供した者（これらの者のうち同条第七項第八号イに掲げる者（これらの者が同項第六号に規定する特定組合員である場合にあつては、その締結している同項第七号に規定する組合契約によつて成立する組合の同項第八号に規定する居住地国が同号イに定める外国である場合における当該特定組合員）に限る。）</Sentence>
+              <Sentence>第十条の五第一項に規定する届出書を同項に規定する特定取引の際に報告金融機関等（同条第八項第一号に規定する報告金融機関等をいう。以下この号において同じ。）の営業所等（同条第八項第二号に規定する営業所等をいう。以下この号において同じ。）の長に提出せず、若しくは同条第一項若しくは第三項に規定する届出書若しくは同条第四項に規定する異動届出書に偽りの記載をし、若しくは特定行為（第十条の七第一項の規定によりなかつたものとされた行為又は同条第二項の規定によりあつたものとされた行為を行わなかつたことをいう。以下この号及び次号において同じ。）に係る記載をして報告金融機関等の営業所等の長に提出した者又は第十条の五第九項の規定による電磁的方法により偽りの事項若しくは特定行為に係る事項を提供した者（これらの者のうち同条第八項第七号イ又はロに掲げる者（これらの者が同項第六号に規定する特定組合員等である場合にあつては、当該特定組合員等が同項第七号イに掲げる法人等に該当する信託以外の信託の受託者であるときを除き、当該特定組合員等に係る同項第六号イからハまでに掲げるものの同項第七号に規定する居住地国が同号イ又はロに定める外国である場合における当該特定組合員等）に限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence>第十条の六第一項に規定する報告事項をその提供の期限までに同項の規定による方法により税務署長に提供せず、又は同項の規定による方法により偽りの事項を税務署長に提供した者</Sentence>
+              <Sentence>第十条の六第一項に規定する報告事項をその提供の期限までに同項の規定による方法により税務署長に提供せず、又は同項の規定による方法により偽りの事項若しくは特定行為に係る事項を税務署長に提供した者</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="5">
@@ -3453,10 +3508,10 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>昭和六十三年四月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -3607,10 +3662,10 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>公布の日</Sentence>
               </Column>
             </ItemSentence>
@@ -3736,10 +3791,10 @@
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>信託業法（平成十六年法律第百五十四号）の施行の日</Sentence>
               </Column>
             </ItemSentence>
@@ -3858,12 +3913,12 @@
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence Num="1">第一条中地方税法第三十二条第九項、第三十四条第一項第六号、第十号及び第十一号、第四項、第五項並びに第十項、第三十五条第一項並びに第三十六条から第三十七条の二までの改正規定、同法第三十七条の三の改正規定（「百分の三十二」を「五分の二」に改める部分を除く。）、同法第四十五条の二第一項の改正規定（同項第六号を削り、同項第七号を同項第六号とする部分に限る。）、同法第四十七条、第五十三条第四十一項、第七十一条の四十七第一項、第七十一条の六十七第一項並びに第七十二条の二十四の七第一項第一号ハ、第二号及び第三号並びに第二項の改正規定、同条第三項の改正規定（「、生命保険業及び損害保険業」を「及び保険業」に改める部分を除く。）、同条第四項第一号ハ及びニ、第二号並びに第三号の改正規定、同法第七十三条の十四第六項、第三百十三条第九項、第三百十四条の二第一項第六号、第十号及び第十一号、第四項、第五項並びに第十項、第三百十四条の三第一項、第三百十四条の四、第三百十四条の六並びに第三百十四条の七の改正規定、同法第三百十四条の八の改正規定（「場合には、当該配当割額又は当該株式等譲渡所得割額に百分の六十八」を「場合には、当該配当割額又は当該株式等譲渡所得割額に五分の三」に改める部分を除く。）、同法第三百十七条の二第一項の改正規定（同項第六号を削り、同項第七号を同項第六号とする部分に限る。）、同法第三百四十九条の三第三十一項の改正規定並びに同法第七百三十四条第三項の表の改正規定並びに同法附則第三条の三第二項の改正規定（「三十五万円を」を「三十二万円を」に改める部分を除く。）、同条第三項の改正規定、同条第五項の改正規定（「三十五万円を」を「三十二万円を」に改める部分を除く。）、同条第六項の改正規定、同法附則第四条から第四条の三までの改正規定、同法附則第五条第一項の改正規定（「第三十六条」を「第三十七条」に改める部分、同項第一号の改正規定（「利益の配当」を「剰余金の配当、利益の配当」に改める部分を除く。）並びに同項第二号及び第三号の改正規定に限る。）、同条第二項の改正規定、同条第三項の改正規定（「第三百十四条の四」を「第三百十四条の六」に改める部分、同項第一号の改正規定（「利益の配当」を「剰余金の配当、利益の配当」に改める部分を除く。）並びに同項第二号及び第三号の改正規定に限る。）、同条第四項の改正規定、同法附則第五条の三第二項を削る改正規定、同条の次に一条を加える改正規定、同法附則第六条、第九条の二、第三十三条の三から第三十五条までの改正規定、同法附則第三十五条の二の改正規定（同条第二項の改正規定（「除く。）」の下に「その他政令で定める事由により交付を受ける政令で定める金額」を加える部分に限る。）を除く。</Sentence>
                 <Sentence Num="2">）、同法附則第三十五条の二の二から第三十五条の二の四まで、第三十五条の二の六から第三十五条の四の二まで及び第三十五条の六から第三十七条の二までの改正規定並びに同法附則第四十条を削る改正規定並びに附則第二条、第三条、第五条第二項及び第九項から第十一項まで、第六条、第七条第四項、第八条第八項、第十一条第二項、第十二条並びに第十三条第九項の規定、附則第二十六条の規定（租税条約の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号）第三条の二の二第六項及び第十二項の改正規定を除く。</Sentence>
                 <Sentence Num="3">）並びに附則第三十条、第三十二条及び第三十三条の規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成十九年四月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -3877,10 +3932,10 @@
           <Item Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第一条中地方税法第三十七条の三の改正規定（「百分の三十二」を「五分の二」に改める部分に限る。）及び同法第三百十四条の八の改正規定（「場合には、当該配当割額又は当該株式等譲渡所得割額に百分の六十八」を「場合には、当該配当割額又は当該株式等譲渡所得割額に五分の三」に改める部分に限る。）並びに同法附則第五条の二の改正規定並びに附則第五条第八項及び第十一条第八項の規定、附則第二十六条の規定（租税条約の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律第三条の二の二第六項及び第十二項の改正規定に限る。）並びに附則第二十七条の規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十年四月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -3997,10 +4052,10 @@
           <Item Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>信託法（平成十八年法律第百八号）の施行の日</Sentence>
               </Column>
             </ItemSentence>
@@ -4132,10 +4187,10 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第一条中地方税法第二十三条第一項第十五号及び第十六号、第二十四条第一項第七号並びに第七十一条の五十一第三項の改正規定並びに同法附則第五条の二及び第五条の三の改正規定並びに同法附則第三十五条の三の二を削る改正規定並びに附則第三条第四項から第六項までの規定、附則第二十九条の規定（租税条約の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号）第三条の二第九項並びに第三条の二の二第一項、第六項及び第十二項の改正規定に限る。）及び附則第三十条第一項から第四項までの規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十一年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4143,10 +4198,10 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第一条中地方税法第十四条の九第二項第五号、第三十四条及び第三十七条の三の改正規定、同条を同法第三十七条の四とする改正規定、同法第三十七条の二の改正規定、同条を同法第三十七条の三とする改正規定、同法第三十七条の次に一条を加える改正規定、同法第四十三条、第四十五条の二、第四十七条第一項第五号、第七十一条の八、第三百十四条の二及び第三百十四条の八の改正規定、同条を同法第三百十四条の九とする改正規定、同法第三百十四条の七の改正規定、同条を同法第三百十四条の八とする改正規定、同法第三百十四条の六の次に一条を加える改正規定、同法第三百十七条の二第一項及び第三項、第三百十九条、第三百十九条の二並びに第三百二十一条の三から第三百二十一条の七までの改正規定、同条の次に九条を加える改正規定並びに同法第三百二十四条、第三百二十六条第一項及び第五百八十六条第二項第五号の三の改正規定並びに同法附則第三条の二の三の次に一条を加える改正規定、同法附則第三条の三、第五条並びに第五条の四第二項及び第七項の改正規定、同条の次に一条を加える改正規定、同法附則第六条第二項の改正規定（「同項に規定する」を削り、「ものが含まれている」を「もの又は免税対象飼育牛に該当する肉用牛の頭数の合計が二千頭を超える場合の当該超える部分の免税対象飼育牛が含まれている」に改める部分を除く。）、同条第三項の改正規定、同条第五項の改正規定（「同項に規定する」を削り、「ものが含まれている」を「もの又は免税対象飼育牛に該当する肉用牛の頭数の合計が二千頭を超える場合の当該超える部分の免税対象飼育牛が含まれている」に改める部分を除く。）、同条第六項の改正規定、同法附則第三十三条の三、第三十四条、第三十五条並びに第三十五条の二第五項第四号及び第十項第四号の改正規定、同法附則第三十五条の二の二第二項の改正規定（「、次条第一項及び第四項」を削る部分を除く。）、同条第六項の改正規定、同法附則第三十五条の二の四第一項の改正規定（「同条第一項に規定する」を削る部分に限る。）並びに同法附則第三十五条の四の改正規定並びに附則第三条第七項から第十項まで及び第八条第四項から第八項までの規定並びに附則第二十九条の規定（租税条約の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律第三条の二の二第五項第五号、第八項第五号、第九項、第十一項第五号、第十四項第五号及び第十五項の改正規定に限る。）</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十一年四月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4208,10 +4263,10 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十一年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4246,10 +4301,10 @@
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第八条中租税特別措置法第九条の三第一項の改正規定（同項第一号に係る部分を除く。）、同条の次に一条を加える改正規定、同法第三十七条の十の二第二項の改正規定（「第三十七条の十一の五」を「第三十七条の十一の六」に改める部分に限る。）、同法第三十七条の十一の三第一項の改正規定（「第三十七条の十一の五」を「第三十七条の十一の六」に改める部分に限る。）、同条第三項第一号の改正規定（「この条及び次条」を「この条、次条及び第三十七条の十一の六」に改め、「これらの契約」の下に「及び第三十七条の十一の六第四項第一号に規定する上場株式配当等受領委任契約」を加える部分に限る。）、同条第七項の改正規定、同条第十一項の改正規定、同法第三十七条の十一の四第一項の改正規定及び同法第三十七条の十一の五の次に一条を加える改正規定並びに附則第四十四条第二項及び第三項並びに第四十六条の規定並びに附則第九十三条中租税条約の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律第三条の二の改正規定（同条第十四項及び第二十項に係る部分を除く。）</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十二年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4257,10 +4312,10 @@
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）の施行の日（平成二十年十二月一日）</Sentence>
               </Column>
             </ItemSentence>
@@ -4352,10 +4407,10 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第一条中地方税法附則第三条の三の改正規定、同法附則第五条の四の見出しを削る改正規定、同条の前に見出しを付する改正規定、同条第一項の改正規定（「この条」の下に「及び次条」を加える部分に限る。）、同条の次に一条を加える改正規定、同法附則第六条第二項及び第五項並びに第三十三条の二の改正規定、同法附則第三十三条の三第三項第四号の改正規定（「第三十七条の二第一項前段」を「第三十七条の二第一項中「山林所得金額」とあるのは「山林所得金額並びに附則第三十三条の三第一項に規定する土地等に係る事業所得等の金額」と、同項前段」に改める部分を除く。）、同条第七項第四号の改正規定（「第三百十四条の七第一項前段」を「第三百十四条の七第一項中「山林所得金額」とあるのは「山林所得金額並びに附則第三十三条の三第五項に規定する土地等に係る事業所得等の金額」と、同項前段」に改める部分を除く。）、同法附則第三十四条第三項第四号の改正規定（「第三十七条の二第一項前段」を「第三十七条の二第一項中「山林所得金額」とあるのは「山林所得金額並びに附則第三十四条第一項に規定する長期譲渡所得の金額」と、同項前段」に改める部分を除く。）、同条第六項第四号の改正規定（「第三百十四条の七第一項前段」を「第三百十四条の七第一項中「山林所得金額」とあるのは「山林所得金額並びに附則第三十四条第四項に規定する長期譲渡所得の金額」と、同項前段」に改める部分を除く。）、同法附則第三十五条第四項第四号の改正規定（「第三十七条の二第一項前段」を「第三十七条の二第一項中「山林所得金額」とあるのは「山林所得金額並びに附則第三十五条第一項に規定する短期譲渡所得の金額」と、同項前段」に改める部分を除く。）、同条第八項第四号の改正規定（「第三百十四条の七第一項前段」を「第三百十四条の七第一項中「山林所得金額」とあるのは「山林所得金額並びに附則第三十五条第五項に規定する短期譲渡所得の金額」と、同項前段」に改める部分を除く。）、同法附則第三十五条の二第五項第四号の改正規定（「第三十七条の二第一項前段」を「第三十七条の二第一項中「山林所得金額」とあるのは「山林所得金額並びに附則第三十五条の二第一項に規定する株式等に係る譲渡所得等の金額」と、同項前段」に改める部分を除く。）、同条第十項第四号の改正規定（「第三百十四条の七第一項前段」を「第三百十四条の七第一項中「山林所得金額」とあるのは「山林所得金額並びに附則第三十五条の二第六項に規定する株式等に係る譲渡所得等の金額」と、同項前段」に改める部分を除く。）、同法附則第三十五条の二の二、第三十五条の二の六第二項及び第十二項並びに第三十五条の三第七項及び第十五項の改正規定、同法附則第三十五条の四第二項第四号の改正規定（「第三十七条の二第一項前段」を「第三十七条の二第一項中「山林所得金額」とあるのは「山林所得金額並びに附則第三十五条の四第一項に規定する先物取引に係る雑所得等の金額」と、同項前段」に改める部分を除く。）並びに同条第五項第四号の改正規定（「第三百十四条の七第一項前段」を「第三百十四条の七第一項中「山林所得金額」とあるのは「山林所得金額並びに附則第三十五条の四第四項に規定する先物取引に係る雑所得等の金額」と、同項前段」に改める部分を除く。）並びに第四条中国有資産等所在市町村交付金法附則に一項を加える改正規定並びに附則第二十七条の規定（租税条約の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号）第三条の二の二第五項第五号の改正規定（「、附則第五条の四第一項」の下に「、附則第五条の四の二第一項」を加える部分及び「及び附則第五条の四第一項」を「、附則第五条の四第一項及び附則第五条の四の二第一項」に改める部分に限る。）、同条第八項第五号の改正規定（「、附則第五条の四第一項」の下に「、附則第五条の四の二第一項」を加える部分及び「及び附則第五条の四第一項」を「、附則第五条の四第一項及び附則第五条の四の二第一項」に改める部分に限る。）、同条第十一項第五号の改正規定（「、附則第五条の四第六項」の下に「、附則第五条の四の二第五項」を加える部分及び「及び附則第五条の四第六項」を「、附則第五条の四第六項及び附則第五条の四の二第五項」に改める部分に限る。）及び同条第十四項第五号の改正規定（「、附則第五条の四第六項」の下に「、附則第五条の四の二第五項」を加える部分及び「及び附則第五条の四第六項」を「、附則第五条の四第六項及び附則第五条の四の二第五項」に改める部分に限る。）に限る。）</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十二年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4533,10 +4588,10 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十二年六月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4562,10 +4617,10 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十二年十月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4585,10 +4640,10 @@
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十三年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4705,10 +4760,10 @@
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第一条中地方税法第七百三条の四、第七百三条の五の二第一項及び第七百六条の二第一項の改正規定並びに同法附則第三十五条の六から第三十八条の三までの改正規定並びに附則第十条及び第十五条の規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十五年四月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4756,10 +4811,10 @@
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十五年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4861,10 +4916,10 @@
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十五年七月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4924,10 +4979,10 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第一条中地方税法附則第三条の三の改正規定、同法附則第五条の四第一項各号列記以外の部分及び同項第一号並びに同条第六項第一号の改正規定、同法附則第五条の四の二の改正規定（同条第一項第二号及び第五項第二号に係る部分を除く。）並びに同法附則第六条第五項、第三十三条の二第七項第四号、第三十三条の三第七項第四号、第三十四条第六項第四号、第三十五条第八項第四号、第三十五条の二第十項第四号、第三十五条の三の二、第三十五条の四第五項第四号及び第四十五条の改正規定並びに附則第四条第四項及び第五項、第九条第三項及び第五項、第十九条並びに第二十一条の規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十七年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4935,10 +4990,10 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第二条（次号及び第五号に掲げる改正規定を除く。）並びに附則第五条第一項から第四項まで、第十七条、第十八条、第二十条及び第二十二条の規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十八年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -4997,10 +5052,10 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第七条中租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律第十一条の改正規定及び同法第十一条の二の改正規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十五年七月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5014,10 +5069,10 @@
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十八年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5111,10 +5166,10 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十七年四月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5140,10 +5195,10 @@
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十八年四月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5169,10 +5224,10 @@
           <Item Num="12">
             <ItemTitle>十二</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>地方法人税法の施行の日</Sentence>
               </Column>
             </ItemSentence>
@@ -5204,117 +5259,117 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence>附則第一条第十二号に定める日から平成二十八年三月三十一日までの間における第九条の規定による改正後の租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律第七条の規定の適用については、同条第一項中「この項及び次項」とあるのは「この項」と、同条第三項中「、第八十二条及び第百四十五条」とあるのは「（同法第百四十五条第一項において準用する場合を含む。）及び第八十二条」と、同項の表中「<QuoteStruct>
-              <Table>
-                <TableRow>
-                  <TableColumn colspan="1" rowspan="6">
-                    <Sentence>法人税法第百四十五条</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>修正申告書を提出し、又は更正若しくは決定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>租税条約等実施特例法第七条第一項（租税条約に基づく合意があつた場合の更正の特例）の更正</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>修正申告書の提出又は更正若しくは決定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>更正</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>修正申告書を提出した日又はその更正若しくは決定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>更正</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>修正申告書又は更正若しくは決定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>更正</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>で決定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>の確定申告書に記載した、又は決定</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>第百四十四条の六第一項第十一号又は同条第二項第五号に掲げる金額（当該</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>第百四十四条の六第一項第一号若しくは第二号に掲げる欠損金額若しくは同項第五号に掲げる金額（同項第八号の規定に該当する場合には、同号に掲げる金額）若しくは同項第六号に掲げる金額（同項第九号の規定に該当する場合には、同号に掲げる金額）若しくは同項第十一号に掲げる金額又は同条第二項第一号に掲げる欠損金額若しくは同項第三号若しくは第五号に掲げる金額（これらの</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn colspan="1" rowspan="3">
-                    <Sentence>地方法人税法第二十四条</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>修正申告書を提出し、又は更正若しくは決定（国税通則法第二十五条の規定による決定をいう。以下この条において同じ。）</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号）第七条第一項又は第二項の更正</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>修正申告書の提出又は更正若しくは決定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>更正</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>で決定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>の地方法人税確定申告書に記載した、又は決定</Sentence>
-                  </TableColumn>
-                </TableRow>
-              </Table>
-            </QuoteStruct>」とあるのは「<QuoteStruct>
-              <Table>
-                <TableRow>
-                  <TableColumn rowspan="3">
-                    <Sentence>地方法人税法第二十四条</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>修正申告書を提出し、又は更正若しくは決定（国税通則法第二十五条の規定による決定をいう。以下この条において同じ。）</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号）第七条第一項の更正</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>修正申告書の提出又は更正若しくは決定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>更正</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>で決定</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>の地方法人税確定申告書に記載した、又は決定</Sentence>
-                  </TableColumn>
-                </TableRow>
-              </Table>
-            </QuoteStruct>」とする。</Sentence>
+<Table>
+<TableRow>
+<TableColumn colspan="1" rowspan="6">
+<Sentence>法人税法第百四十五条</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>修正申告書を提出し、又は更正若しくは決定</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>租税条約等実施特例法第七条第一項（租税条約に基づく合意があつた場合の更正の特例）の更正</Sentence>
+</TableColumn>
+</TableRow>
+<TableRow>
+<TableColumn>
+<Sentence>修正申告書の提出又は更正若しくは決定</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>更正</Sentence>
+</TableColumn>
+</TableRow>
+<TableRow>
+<TableColumn>
+<Sentence>修正申告書を提出した日又はその更正若しくは決定</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>更正</Sentence>
+</TableColumn>
+</TableRow>
+<TableRow>
+<TableColumn>
+<Sentence>修正申告書又は更正若しくは決定</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>更正</Sentence>
+</TableColumn>
+</TableRow>
+<TableRow>
+<TableColumn>
+<Sentence>で決定</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>の確定申告書に記載した、又は決定</Sentence>
+</TableColumn>
+</TableRow>
+<TableRow>
+<TableColumn>
+<Sentence>第百四十四条の六第一項第十一号又は同条第二項第五号に掲げる金額（当該</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>第百四十四条の六第一項第一号若しくは第二号に掲げる欠損金額若しくは同項第五号に掲げる金額（同項第八号の規定に該当する場合には、同号に掲げる金額）若しくは同項第六号に掲げる金額（同項第九号の規定に該当する場合には、同号に掲げる金額）若しくは同項第十一号に掲げる金額又は同条第二項第一号に掲げる欠損金額若しくは同項第三号若しくは第五号に掲げる金額（これらの</Sentence>
+</TableColumn>
+</TableRow>
+<TableRow>
+<TableColumn colspan="1" rowspan="3">
+<Sentence>地方法人税法第二十四条</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>修正申告書を提出し、又は更正若しくは決定（国税通則法第二十五条の規定による決定をいう。以下この条において同じ。）</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号）第七条第一項又は第二項の更正</Sentence>
+</TableColumn>
+</TableRow>
+<TableRow>
+<TableColumn>
+<Sentence>修正申告書の提出又は更正若しくは決定</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>更正</Sentence>
+</TableColumn>
+</TableRow>
+<TableRow>
+<TableColumn>
+<Sentence>で決定</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>の地方法人税確定申告書に記載した、又は決定</Sentence>
+</TableColumn>
+</TableRow>
+</Table>
+</QuoteStruct>」とあるのは「<QuoteStruct>
+<Table>
+<TableRow>
+<TableColumn rowspan="3">
+<Sentence>地方法人税法第二十四条</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>修正申告書を提出し、又は更正若しくは決定（国税通則法第二十五条の規定による決定をいう。以下この条において同じ。）</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号）第七条第一項の更正</Sentence>
+</TableColumn>
+</TableRow>
+<TableRow>
+<TableColumn>
+<Sentence>修正申告書の提出又は更正若しくは決定</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>更正</Sentence>
+</TableColumn>
+</TableRow>
+<TableRow>
+<TableColumn>
+<Sentence>で決定</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>の地方法人税確定申告書に記載した、又は決定</Sentence>
+</TableColumn>
+</TableRow>
+</Table>
+</QuoteStruct>」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -5359,10 +5414,10 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十七年七月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5388,10 +5443,10 @@
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十八年四月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5411,10 +5466,10 @@
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第七条中租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律第九条第一項の改正規定、同法第十条の四の次に五条を加える改正規定、同法第十一条の二第一項の改正規定及び同法第十三条第四項の改正規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成二十九年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5495,10 +5550,10 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第一条中地方税法第十一条の二、第三十五条第一項、第三十七条、第三十七条の二第一項及び第二項、第七十二条の五十七の二第一項、第七十二条の五十七の三第一項から第三項まで、第三百十四条の三第一項、第三百十四条の六、第三百十四条の七第一項及び第二項、第三百二十一条の七の十二第一項、第三百二十一条の七の十三並びに第七百三十七条第一項及び第二項の改正規定並びに同条の次に一条を加える改正規定並びに同法附則第五条第一項及び第三項、第五条の四第一項第二号ハ及び第六項第二号ハ、第五条の四の二、第五条の五、第六条第二項第一号及び第五項第一号、第二十九条の七第一項、第三十一条の四第一項、第三十三条の二第一項及び第五項、第三十三条の三第一項第一号及び第五項第一号、第三十四条第一項及び第四項、第三十四条の二第一項各号及び第四項各号、第三十四条の三第一項及び第三項、第三十五条、第三十五条の二第一項及び第五項、第三十五条の二の二第一項及び第五項、第三十五条の四第一項及び第四項並びに第四十五条第三項及び第六項の改正規定並びに次条並びに附則第五条第二項、第七条第八項及び第九項、第十五条第二項から第四項まで、第三十一条（外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律（昭和三十七年法律第百四十四号）第八条第二項、第四項、第七項及び第九項の改正規定に限る。）、第三十三条第一項及び第三項、第三十七条（租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号）第三条の二の二第四項、第六項、第十項及び第十二項の改正規定に限る。）並びに第三十九条第一項及び第三項の規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成三十年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5506,10 +5561,10 @@
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第二条（次号及び第六号に掲げる改正規定を除く。）並びに附則第三条、第四条、第十条、第十二条、第二十条、第二十四条から第三十条まで、第三十二条（外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律第八条第一項、第十二条第四項及び第十六条第一項の改正規定に限る。）、第三十五条、第三十六条、第三十八条（租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律第三条の二の二第三項の改正規定に限る。）、第四十一条から第四十五条まで及び第四十六条（地方法人特別税等に関する暫定措置法（平成二十年法律第二十五号）第十九条の改正規定に限る。）の規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成三十年四月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5517,10 +5572,10 @@
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>第二条中地方税法第二十三条第一項及び第二項、第三十四条、第三十七条第一号イの表、第七十五条の二、第二百九十二条第一項及び第二項、第三百十一条、第三百十四条の二、第三百十四条の六第一号イの表並びに第七百条の五十二第一項の改正規定並びに同法附則第三条の三、第四条第七項第一号及び第十三項第一号、第四条の二第七項第一号及び第十三項第一号、第三十三条の二第三項第一号及び第七項第一号、第三十三条の三第三項第一号及び第七項第一号、第三十四条第三項第一号及び第六項第一号、第三十五条第四項第一号及び第八項第一号、第三十五条の二第四項第一号及び第八項第一号、第三十五条の三の二、第三十五条の三の三、第三十五条の三の四第二項並びに第三十五条の四第二項第一号及び第五項第一号の改正規定並びに附則第六条、第十六条、第三十二条（前号に掲げる改正規定を除く。）、第三十四条、第三十八条（前号に掲げる改正規定を除く。）及び第四十条の規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成三十一年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5591,10 +5646,10 @@
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成三十年四月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5664,10 +5719,10 @@
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成三十一年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5693,10 +5748,10 @@
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
+              <Column Num="1">
                 <Sentence>次に掲げる規定</Sentence>
               </Column>
-              <Column LineBreak="false" Num="2">
+              <Column Num="2">
                 <Sentence>平成三十二年一月一日</Sentence>
               </Column>
             </ItemSentence>
@@ -5850,6 +5905,192 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中地方税法の目次の改正規定、同法第二十三条第一項第十一号及び第十二号、第二十四条の五第一項第二号、第二十七条第二項、第三十四条、第三十七条第一号イの表、第四十一条第二項、第四十五条の二第一項、第五十条、第七十一条から第七十一条の四まで、第七十一条の二十二から第七十一条の二十五まで、第七十一条の四十三から第七十一条の四十六まで、第七十一条の六十三から第七十一条の六十六まで、第七十二条の五十並びに第七十二条の七十一から第七十二条の七十五までの改正規定、同法第二章第四節第四款中第七十三条の三十八の次に一条を加える改正規定、同章第五節第三款中第七十四条の二十九の次に一条を加える改正規定、同法第九十七条から第百二条まで、第百四十四条の五十四から第百四十四条の五十九まで及び第百七十七条の二から第百七十七条の五までの改正規定、同章第八節第三款第三目中第百七十七条の二十三の次に一条を加える改正規定、同法第二百三条から第二百五十八条まで、第二百八十八条、第二百八十九条、第二百九十二条第一項第十一号及び第十二号、第二百九十五条第一項第二号、第三百十四条の二、第三百十四条の六第一号イの表、第三百十七条の二第一項、第三百三十四条から第三百四十条まで、第三百七十六条から第三百七十九条まで並びに第四百六十三条の十から第四百六十三条の十四までの改正規定、同法第三章第三節第三款第三目中第四百六十三条の二十九の次に一条を加える改正規定、同法第四百八十五条の六から第四百八十五条の十二まで、第五百四十四条から第五百五十条まで及び第六百十六条から第六百二十条までの改正規定、同法第六百九十七条の次に一条を加える改正規定、同法第七百条の六十八の次に一条を加える改正規定、同法第七百一条の二十一から第七百一条の二十九まで、第七百一条の六十八から第七百一条の七十二まで及び第七百二条の八第八項の改正規定、同法第四章第七節中第七百三十条の次に一条を加える改正規定、同法第七百三十三条の二十六の次に一条を加える改正規定並びに同法第七百四十五条第一項の改正規定並びに同法附則第三条の二、第四条第七項第一号及び第十三項第一号並びに第四条の二第七項第一号及び第十三項第一号の改正規定、同法附則第四条の四第一項及び第三項の改正規定（「同条第七項」を「同条第六項」に改める部分に限る。）並びに同法附則第三十三条の二第三項第一号及び第七項第一号、第三十三条の三第三項第一号及び第七項第一号、第三十四条第三項第一号及び第六項第一号、第三十五条第四項第一号及び第八項第一号、第三十五条の二第四項第一号及び第八項第一号並びに第三十五条の四第二項第一号及び第五項第一号の改正規定、第五条の規定並びに第七条中特別法人事業税及び特別法人事業譲与税に関する法律第二十七条の次に一条を加える改正規定並びに附則第三条、第四条第二項及び第三項、第十二条第二項及び第三項、第二十七条（外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律（昭和三十七年法律第百四十四号）第八条、第十二条第四項、第十六条第一項並びに第三十四条第三項及び第十一項の改正規定に限る。）、第二十八条第一項から第四項まで、第二十九条並びに第三十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和三年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和三年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1:4">
+              <Subitem1Title>イからニまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>第十八条中租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律第十三条第四項第六号を同項第七号とし、同項第五号を同項第六号とし、同項第四号の次に一号を加える改正規定及び同条第五項の改正規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和四年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1:3">
+              <Subitem1Title>イからハまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>第十八条中租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律第十条の五第四項の改正規定、同条第六項の改正規定、同項の次に一項を加える改正規定及び同法第十条の七第一項の改正規定並びに附則第百三十二条第二項から第四項までの規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和四年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>第三条の規定（同条中法人税法第五十二条第一項の改正規定（同項第一号に係る部分を除く。）及び同法第五十四条第一項の改正規定を除く。）並びに附則第十四条から第十八条まで、第二十条から第三十七条まで、第百三十九条（地価税法（平成三年法律第六十九号）第三十二条第五項の改正規定に限る。）、第百四十三条、第百五十条（地方自治法（昭和二十二年法律第六十七号）第二百六十条の二第十六項の改正規定に限る。）、第百五十一条から第百五十六条まで、第百五十九条から第百六十二条まで、第百六十三条（銀行等の株式等の保有の制限等に関する法律（平成十三年法律第百三十一号）第五十八条第一項の改正規定に限る。）、第百六十四条、第百六十五条及び第百六十七条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3:10">
+              <Subitem1Title>ハからヌまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="11">
+              <Subitem1Title>ル</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>第十八条中租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律第二条の二第三項の改正規定、同法第四条第二項、第四項及び第六項の改正規定並びに同法第七条の改正規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="132">
+        <ArticleCaption>（租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第十八条の規定による改正後の租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（以下この条において「新租税条約等実施特例法」という。）第十条の五第一項の規定は、施行日以後に提出する同項の届出書について適用し、施行日前に提出した第十八条の規定による改正前の租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（以下この条において「旧租税条約等実施特例法」という。）第十条の五第一項の届出書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>新租税条約等実施特例法第十条の六第一項の規定は、施行日の属する年以後の各年の十二月三十一日において新租税条約等実施特例法第十条の五第八項第一号に規定する報告金融機関等との間でその同項第二号に規定する営業所等を通じて新租税条約等実施特例法第十条の六第一項に規定する特定取引を行った者が締結している同項の報告対象契約に係る同項に規定する報告事項の提供について適用し、施行日の属する年の前年以前の各年の十二月三十一日において旧租税条約等実施特例法第十条の五第七項第一号に規定する報告金融機関等との間でその同項第二号に規定する営業所等を通じて旧租税条約等実施特例法第十条の六第一項に規定する特定取引を行った者が締結していた同項の報告対象契約に係る同項に規定する報告事項の提供については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>新租税条約等実施特例法第十条の七第一項の規定は、施行日以後に同項の特定取引に係る契約に関する報告事項に係る行為を行った場合について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>新租税条約等実施特例法第十条の七第二項の規定は、施行日以後に同項の特定取引に係る契約に関する報告事項に関し通常行われると認められる行為を行わなかった場合について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="171">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="172">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

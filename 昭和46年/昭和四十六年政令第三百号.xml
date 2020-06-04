@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="300" Year="46">
+<Law DataInfo="200422e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="300" Year="46">
   <LawNum>昭和四十六年政令第三百号</LawNum>
   <LawBody>
     <LawTitle>廃棄物の処理及び清掃に関する法律施行令</LawTitle>
@@ -1201,7 +1201,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>受託者が法第七条第五項第四号イからヌまでのいずれにも該当しない者であること。</Sentence>
+                <Sentence>受託者が法第七条第五項第四号イからルまでのいずれにも該当しない者であること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -1486,12 +1486,12 @@
           </Paragraph>
         </Article>
         <Article Num="4_6">
-          <ArticleCaption>（法第七条第五項第四号ハの生活環境の保全を目的とする法令）</ArticleCaption>
+          <ArticleCaption>（法第七条第五項第四号ニの生活環境の保全を目的とする法令）</ArticleCaption>
           <ArticleTitle>第四条の六</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第七条第五項第四号ハに規定する政令で定める法令は、次のとおりとする。</Sentence>
+              <Sentence>法第七条第五項第四号ニに規定する政令で定める法令は、次のとおりとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1550,12 +1550,12 @@
           </Paragraph>
         </Article>
         <Article Num="4_7">
-          <ArticleCaption>（法第七条第五項第四号ヘ、リ及びヌの政令で定める使用人）</ArticleCaption>
+          <ArticleCaption>（法第七条第五項第四号ト、ヌ及びルの政令で定める使用人）</ArticleCaption>
           <ArticleTitle>第四条の七</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第七条第五項第四号ヘ、リ及びヌに規定する政令で定める使用人は、申請者の使用人で、次に掲げるものの代表者であるものとする。</Sentence>
+              <Sentence>法第七条第五項第四号ト、ヌ及びルに規定する政令で定める使用人は、申請者の使用人で、次に掲げるものの代表者であるものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2489,7 +2489,7 @@
               <Subitem1 Num="8">
                 <Subitem1Title>チ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>第二条の四第五号へ、チ（１）又はル（１）に掲げる廃棄物であつて環境省令で定めるものの処分又は再生は、第六条第一項第二号ホ（１）及び（２）の規定の例によること。</Sentence>
+                  <Sentence>第二条の四第五号ヘ、チ（１）又はル（１）に掲げる廃棄物であつて環境省令で定めるものの処分又は再生は、第六条第一項第二号ホ（１）及び（２）の規定の例によること。</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="9">
@@ -4454,7 +4454,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">法に規定する都道府県知事の権限に属する事務のうち、次に掲げる事務以外の事務は、地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項に規定する指定都市の長及び同法第二百五十二条の二十二第一項に規定する中核市の長並びに大牟田市の長（以下この条において「指定都市の長等」という。）が行うこととする。</Sentence>
+              <Sentence Num="1">法に規定する都道府県知事の権限に属する事務のうち、次に掲げる事務以外の事務は、地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項に規定する指定都市の長及び同法第二百五十二条の二十二第一項に規定する中核市の長（以下この条において「指定都市の長等」という。）が行うこととする。</Sentence>
               <Sentence Num="2">この場合においては、法の規定中当該事務に係る都道府県知事に関する規定は、指定都市の長等に関する規定として指定都市の長等に適用があるものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -4686,7 +4686,7 @@
           <Sentence>次の各号に掲げる国の補助金又は負担金で離島振興計画に係るもののうち、昭和四十七年度の予算に係るもの（昭和四十八年度以降に繰り越されたものを含む。）についての国の補助割合又は負担割合については、なお従前の例による。</Sentence>
         </ParagraphSentence>
         <Item Num="1:2">
-          <ItemTitle>一および二</ItemTitle>
+          <ItemTitle>一及び二</ItemTitle>
           <ItemSentence>
             <Sentence>略</Sentence>
           </ItemSentence>
@@ -6359,6 +6359,56 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二六日政令第三九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令の施行前に廃棄物の処理及び清掃に関する法律（第四項において「廃棄物処理法」という。）、建設工事に係る資材の再資源化等に関する法律又はポリ塩化ビフェニル廃棄物の適正な処理の推進に関する特別措置法（同項において「措置法」という。）（次項及び第三項において「廃棄物処理法等」と総称する。）の規定により大牟田市の長がした許可、認可、指定その他の処分又は通知その他の行為（第一条の規定による改正前の廃棄物の処理及び清掃に関する法律施行令（以下「旧廃棄物処理法施行令」という。）第二十七条第一項、第二条の規定による改正前の建設工事に係る資材の再資源化等に関する法律施行令（次項及び第三項において「旧建設資材再資源化法施行令」という。）第八条第四項又は第三条の規定による改正前のポリ塩化ビフェニル廃棄物の適正な処理の推進に関する特別措置法施行令（以下「旧措置法施行令」という。）第八条の規定により大牟田市の長が行うこととされていた事務に係るものに限る。）は、福岡県知事がした許可、認可、指定その他の処分又は通知その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この政令の施行の際現に廃棄物処理法等又は旧廃棄物処理法施行令の規定により大牟田市の長に対してされている申請、届出その他の行為（旧廃棄物処理法施行令第二十七条第一項若しくは第二項、旧建設資材再資源化法施行令第八条第四項又は旧措置法施行令第八条の規定により大牟田市の長が行うこととされていた事務に係るものに限る。）は、福岡県知事に対してされた申請、届出その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この政令の施行前に廃棄物処理法等又は旧廃棄物処理法施行令の規定により大牟田市の長に対し報告、届出、提出その他の手続をしなければならない事項（旧廃棄物処理法施行令第二十七条第一項若しくは第二項、旧建設資材再資源化法施行令第八条第四項又は旧措置法施行令第八条の規定により大牟田市の長が行うこととされていた事務に係るものに限る。）で、この政令の施行前にその手続がされていないものについては、これを、福岡県知事に対して報告、届出、提出その他の手続をしなければならない事項についてその手続がされていないものとみなして、廃棄物処理法等又は第一条の規定による改正後の廃棄物の処理及び清掃に関する法律施行令の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この政令の施行前に廃棄物処理法又は措置法第十二条第一項（措置法第十五条において読み替えて準用する場合を含む。）の規定により大牟田市の長がした処分（旧廃棄物処理法施行令第二十七条第一項又は旧措置法施行令第八条の規定により大牟田市の長が行うこととされていた事務に係るものに限る。）についての廃棄物処理法第二十四条の二第二項又は措置法第二十六条第二項の規定による再審査請求については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年九月六日政令第八八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律附則第一条第二号に掲げる規定の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一（第一条、第二条の四関係）</AppdxTableTitle>

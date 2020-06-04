@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="141" Year="40">
+<Law DataInfo="190619e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="141" Year="40">
   <LawNum>昭和四十年法律第百四十一号</LawNum>
   <LawBody>
     <LawTitle>母子保健法</LawTitle>
@@ -341,6 +341,22 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence>第十一条第二項の規定は、前項の規定による訪問指導に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_2">
+          <ArticleCaption>（健康診査に関する情報の提供の求め）</ArticleCaption>
+          <ArticleTitle>第十九条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>市町村は、妊産婦若しくは乳児若しくは幼児であつて、かつて当該市町村以外の市町村（以下この項において「他の市町村」という。）に居住していた者又は当該妊産婦の配偶者若しくは当該乳児若しくは幼児の保護者に対し、第十条の保健指導、第十一条、第十七条第一項若しくは前条の訪問指導、第十二条第一項若しくは第十三条第一項の健康診査又は第二十二条第二項第二号から第五号までに掲げる事業を行うために必要があると認めるときは、当該他の市町村に対し、厚生労働省令で定めるところにより、当該妊産婦又は乳児若しくは幼児に対する第十二条第一項又は第十三条第一項の健康診査に関する情報の提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>市町村は、前項の規定による情報の提供の求めについては、電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であつて厚生労働省令で定めるものにより行うよう努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1498,6 +1514,57 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二条中住民基本台帳法別表第一の改正規定（同表の五十七の四の項を同表の五十七の五の項とし、同表の五十七の三の項の次に次のように加える部分に限る。）、同法別表第二の改正規定（第十号に掲げる部分を除く。）、同法別表第三の改正規定（同号に掲げる部分を除く。）、同法別表第四の改正規定（同号に掲げる部分を除く。）及び同法別表第五の改正規定（同号に掲げる部分を除く。）、第三条中電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律第十七条第三項の改正規定（同項第三号に係る部分及び同項第十一号に係る部分（「第五十七条」を「第五十七条第一項」に改める部分に限る。）を除く。）、同法第十八条の改正規定、同法第三十七条第三項の改正規定（同項第一号に係る部分及び同項第五号に係る部分（「第五十七条」を「第五十七条第一項」に改める部分に限る。）を除く。）、同法第五十六条（見出しを含む。）の改正規定、同法第五十七条の見出しの改正規定（「電子計算機処理等の受託者等」を「利用者証明検証者等」に改める部分に限る。）及び同条の改正規定（同条に二項を加える部分を除く。）、第四条中行政手続における特定の個人を識別するための番号の利用等に関する法律（以下この条から附則第六条までにおいて「番号利用法」という。）別表第一及び別表第二の改正規定並びに第七条の規定並びに附則第三条、第七条から第九条まで、第六十八条及び第八十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、前項に定めるもののほか、この法律の施行後三年を目途として、この法律による改正後のそれぞれの法律の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

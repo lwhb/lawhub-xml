@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="190218e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="212" Year="18">
+<Law DataInfo="190422e04k03m02" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="212" Year="18">
   <LawNum>平成十八年政令第二百十二号</LawNum>
   <LawBody>
     <LawTitle>中小企業のものづくり基盤技術の高度化に関する法律施行令</LawTitle>
@@ -187,7 +187,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年一月二二日政令第一八号" Type="Amend">
+    <SupplProvision AmendLawNum="平成二八年一月二二日政令第一八号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -197,129 +197,6 @@
           <ParagraphSentence>
             <Sentence>この政令は、特許法等の一部を改正する法律の施行の日（平成二十八年四月一日）から施行する。</Sentence>
           </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="2">
-        <ArticleCaption>（特許法等関係手数料令の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>この政令の施行の日（以下「施行日」という。）前に第二条の規定による改正前の特許法等関係手数料令第一条第二項の表第一号から第四号までの規定により納付すべきであった手数料については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="3">
-        <ArticleCaption>（特許登録令の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>第三条の規定による改正後の特許登録令第三十八条の規定は、施行日以後にする登録の申請について適用し、施行日前にした登録の申請については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="4">
-        <ArticleCaption>（実用新案法施行令等の一部改正）</ArticleCaption>
-        <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>次に掲げる政令の規定中「第一条」を「第一条（第二号及び第三号を除く。）」に改める。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence>実用新案法施行令（昭和三十五年政令第十七号）第三条第一項</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence>意匠法施行令（昭和三十五年政令第十八号）第一項</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence>商標法施行令（昭和三十五年政令第十九号）第四条第一項</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="4">
-            <ItemTitle>四</ItemTitle>
-            <ItemSentence>
-              <Sentence>工業所有権に関する手続等の特例に関する法律施行令（平成二年政令第二百五十八号）第五条</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-      <Article Num="5">
-        <ArticleCaption>（大学等における技術に関する研究成果の民間事業者への移転の促進に関する法律施行令の一部改正）</ArticleCaption>
-        <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>大学等における技術に関する研究成果の民間事業者への移転の促進に関する法律施行令（平成十年政令第二百六十五号）の一部を次のように改正する。</Sentence>
-          </ParagraphSentence>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>第六条及び第八条中「第一条第二項の表第六号」を「第一条第二項の表第九号」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>第十条中「第六号及び第七号」を「第九号及び第十号」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>第十一条中「第二条第二項の表第四号」を「第二条第二項の表第五号」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>第十三条中「第四号」を「第五号」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence>第十八条中「第一条第二項の表第六号」を「第一条第二項の表第九号」に改める。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-        </Paragraph>
-      </Article>
-      <Article Num="6">
-        <ArticleCaption>（産業技術力強化法施行令等の一部改正）</ArticleCaption>
-        <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>次に掲げる政令の規定中「第一条第二項の表第六号」を「第一条第二項の表第九号」に改める。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence>産業技術力強化法施行令（平成十二年政令第二百六号）第五条及び第十条</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence>中小企業のものづくり基盤技術の高度化に関する法律施行令（平成十八年政令第二百十二号）第四条第二項</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence>特定多国籍企業による研究開発事業等の促進に関する特別措置法施行令（平成二十四年政令第二百七十二号）第三条第二項</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="4">
-            <ItemTitle>四</ItemTitle>
-            <ItemSentence>
-              <Sentence>産業競争力強化法施行令（平成二十六年政令第十三号）第十八条第二項</Sentence>
-            </ItemSentence>
-          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>

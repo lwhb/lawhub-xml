@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="282" Year="05">
+<Law DataInfo="200127e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="282" Year="05">
   <LawNum>平成五年政令第二百八十二号</LawNum>
   <LawBody>
     <LawTitle>特定有害廃棄物等の輸出入等の規制に関する法律施行令</LawTitle>
@@ -223,7 +223,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第二十条の規定により別表第四の第二欄に掲げる者が納付しなければならない手数料の額は、同表の第三欄に定める金額（電子申請（行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して行う申請をいう。以下同じ。）による場合にあっては、同表の第四欄に定める金額）とする。</Sentence>
+            <Sentence>法第二十条の規定により別表第四の第二欄に掲げる者が納付しなければならない手数料の額は、同表の第三欄に定める金額（電子申請（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第六条第一項の規定により同項に規定する電子情報処理組織を使用して行う申請をいう。以下同じ。）による場合にあっては、同表の第四欄に定める金額）とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -356,6 +356,19 @@
           <Sentence WritingMode="vertical">この政令は、特定有害廃棄物等の輸出入等の規制に関する法律の一部を改正する法律の施行の日（平成三十年十月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一三日政令第一八三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律（次条において「改正法」という。）の施行の日（令和元年十二月十六日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一</AppdxTableTitle>

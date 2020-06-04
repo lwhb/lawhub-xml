@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="207" Year="24">
+<Law DataInfo="190626e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="207" Year="24">
   <LawNum>昭和二十四年法律第二百七号</LawNum>
   <LawBody>
     <LawTitle>社会教育法</LawTitle>
@@ -1049,7 +1049,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前項において「学校の管理機関」とは、国立学校にあつては設置者である国立大学法人の学長又は独立行政法人国立高等専門学校機構の理事長、公立学校のうち、大学及び幼保連携型認定こども園にあつては設置者である地方公共団体の長又は公立大学法人の理事長、大学及び幼保連携型認定こども園以外の公立学校にあつては設置者である地方公共団体に設置されている教育委員会又は公立大学法人の理事長をいう。</Sentence>
+              <Sentence>前項において「学校の管理機関」とは、国立学校にあつては設置者である国立大学法人の学長若しくは理事長又は独立行政法人国立高等専門学校機構の理事長、公立学校のうち、大学及び幼保連携型認定こども園にあつては設置者である地方公共団体の長又は公立大学法人の理事長、大学及び幼保連携型認定こども園以外の公立学校にあつては設置者である地方公共団体に設置されている教育委員会又は公立大学法人の理事長をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2063,6 +2063,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>前二条に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月二四日法律第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、平成三十二年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

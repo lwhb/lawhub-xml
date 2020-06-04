@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="205" Year="11">
+<Law DataInfo="190121e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="205" Year="11">
   <LawNum>平成十一年法律第二百五号</LawNum>
   <LawBody>
     <LawTitle>国立研究開発法人土木研究所法</LawTitle>
@@ -246,20 +246,27 @@
                 <Sentence WritingMode="vertical">国の委託に基づき、国土交通省の施行する建設工事で政令で定めるものに係る特殊な工作物の設計を行うこと。</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="6">
+            <Item Num="6">
               <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>科学技術・イノベーション創出の活性化に関する法律（平成二十年法律第六十三号）第三十四条の六第一項の規定による出資並びに人的及び技術的援助のうち政令で定めるものを行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
               <ItemSentence>
                 <Sentence WritingMode="vertical">前各号の業務に附帯する業務を行うこと。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="13">
+        <Article Num="13">
+          <ArticleCaption>（株式等の取得及び保有）</ArticleCaption>
           <ArticleTitle>第十三条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">削除</Sentence>
+              <Sentence>研究所は、科学技術・イノベーション創出の活性化に関する法律第三十四条の五第一項及び第二項の規定による株式又は新株予約権の取得及び保有を行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -939,6 +946,29 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律は、平成二十八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年一二月一四日法律第九四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="35">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

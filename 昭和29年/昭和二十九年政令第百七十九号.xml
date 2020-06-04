@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200525e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="179" Year="29">
+<Law DataInfo="200603e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="179" Year="29">
   <LawNum>昭和二十九年政令第百七十九号</LawNum>
   <LawBody>
     <LawTitle>自衛隊法施行令</LawTitle>
@@ -47,11 +47,11 @@
         </TOCSection>
         <TOCSection Num="3">
           <SectionTitle>第三節　航空自衛隊の部隊</SectionTitle>
-          <ArticleRange>（第二十八条―第三十条の十三）</ArticleRange>
+          <ArticleRange>（第二十八条―第三十条の十五）</ArticleRange>
         </TOCSection>
         <TOCSection Num="4">
           <SectionTitle>第四節　共同の部隊</SectionTitle>
-          <ArticleRange>（第三十条の十四―第三十条の十七）</ArticleRange>
+          <ArticleRange>（第三十条の十六―第三十条の十九）</ArticleRange>
         </TOCSection>
         <TOCSection Num="5">
           <SectionTitle>第五節　補職の特例及び委任規定</SectionTitle>
@@ -503,31 +503,31 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>即応機動連隊一、普通科連隊二、特科連隊一及び高射特科大隊一</Sentence>
+                    <Sentence>即応機動連隊一、普通科連隊二及び高射特科大隊一</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence>即応機動連隊一、普通科連隊二及び高射特科大隊一</Sentence>
+                    <Sentence>普通科連隊三、戦車連隊一、特科連隊一及び高射特科大隊一</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence>普通科連隊三、戦車連隊一、特科連隊一及び高射特科大隊一</Sentence>
+                    <Sentence>普通科連隊三、特科連隊一、戦車大隊一及び高射特科大隊一</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence>普通科連隊三、特科連隊一、戦車大隊一及び高射特科大隊一</Sentence>
+                    <Sentence>普通科連隊三、特科隊一、戦車大隊一及び高射特科大隊一</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence>普通科連隊三、特科隊一、戦車大隊一及び高射特科大隊一</Sentence>
+                    <Sentence>普通科連隊三、戦車大隊一及び高射特科大隊一</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="6">
@@ -1369,7 +1369,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">航空総隊は、航空総隊司令部及び航空方面隊四、航空救難団一、航空戦術教導団一その他防衛大臣の定める部隊をもつて編成する。</Sentence>
+                <Sentence Function="main" Num="1">航空総隊は、航空総隊司令部及び航空方面隊四、警戒航空団一、航空救難団一、航空戦術教導団一その他防衛大臣の定める部隊をもつて編成する。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、防衛大臣は、必要があると認めるときは、これらの部隊以外の部隊を編成に加え、又は航空総隊司令部以外の部隊の数を増加し、若しくは航空総隊司令部以外の部隊の一部を編成に加えないことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1703,8 +1703,35 @@
             </Paragraph>
           </Article>
           <Article Num="30_3">
-            <ArticleCaption>（航空救難団）</ArticleCaption>
+            <ArticleCaption>（警戒航空団）</ArticleCaption>
             <ArticleTitle>第三十条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1">警戒航空団は、警戒航空団司令部及び飛行警戒管制群一、飛行警戒監視群一、整備群二その他防衛大臣の定める部隊をもつて編成する。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、防衛大臣は、必要があると認めるときは、これらの部隊以外の部隊を編成に加え、又は警戒航空団司令部以外の部隊の数を増加し、若しくは警戒航空団司令部以外の部隊の一部を編成に加えないことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30_4">
+            <ArticleCaption>（警戒航空団司令）</ArticleCaption>
+            <ArticleTitle>第三十条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>警戒航空団の長は、警戒航空団司令とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>警戒航空団司令は、空将補をもつて充てる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30_5">
+            <ArticleCaption>（航空救難団）</ArticleCaption>
+            <ArticleTitle>第三十条の五</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1713,9 +1740,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_4">
+          <Article Num="30_6">
             <ArticleCaption>（航空救難団司令）</ArticleCaption>
-            <ArticleTitle>第三十条の四</ArticleTitle>
+            <ArticleTitle>第三十条の六</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1729,9 +1756,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_5">
+          <Article Num="30_7">
             <ArticleCaption>（航空戦術教導団）</ArticleCaption>
-            <ArticleTitle>第三十条の五</ArticleTitle>
+            <ArticleTitle>第三十条の七</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1740,9 +1767,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_6">
+          <Article Num="30_8">
             <ArticleCaption>（航空戦術教導団司令）</ArticleCaption>
-            <ArticleTitle>第三十条の六</ArticleTitle>
+            <ArticleTitle>第三十条の八</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1756,9 +1783,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_7">
+          <Article Num="30_9">
             <ArticleCaption>（飛行教育団）</ArticleCaption>
-            <ArticleTitle>第三十条の七</ArticleTitle>
+            <ArticleTitle>第三十条の九</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1767,9 +1794,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_8">
+          <Article Num="30_10">
             <ArticleCaption>（飛行教育団司令）</ArticleCaption>
-            <ArticleTitle>第三十条の八</ArticleTitle>
+            <ArticleTitle>第三十条の十</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1783,9 +1810,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_9">
+          <Article Num="30_11">
             <ArticleCaption>（飛行開発実験団）</ArticleCaption>
-            <ArticleTitle>第三十条の九</ArticleTitle>
+            <ArticleTitle>第三十条の十一</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1794,9 +1821,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_10">
+          <Article Num="30_12">
             <ArticleCaption>（飛行開発実験団司令）</ArticleCaption>
-            <ArticleTitle>第三十条の十</ArticleTitle>
+            <ArticleTitle>第三十条の十二</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1810,9 +1837,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_11">
+          <Article Num="30_13">
             <ArticleCaption>（航空警戒管制団）</ArticleCaption>
-            <ArticleTitle>第三十条の十一</ArticleTitle>
+            <ArticleTitle>第三十条の十三</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1821,9 +1848,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_12">
+          <Article Num="30_14">
             <ArticleCaption>（航空警戒管制団司令）</ArticleCaption>
-            <ArticleTitle>第三十条の十二</ArticleTitle>
+            <ArticleTitle>第三十条の十四</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1837,9 +1864,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_13">
+          <Article Num="30_15">
             <ArticleCaption>（委任規定）</ArticleCaption>
-            <ArticleTitle>第三十条の十三</ArticleTitle>
+            <ArticleTitle>第三十条の十五</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1850,9 +1877,9 @@
         </Section>
         <Section Num="4">
           <SectionTitle>第四節　共同の部隊</SectionTitle>
-          <Article Num="30_14">
+          <Article Num="30_16">
             <ArticleCaption>（自衛隊情報保全隊）</ArticleCaption>
-            <ArticleTitle>第三十条の十四</ArticleTitle>
+            <ArticleTitle>第三十条の十六</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1866,9 +1893,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_15">
+          <Article Num="30_17">
             <ArticleCaption>（自衛隊情報保全隊司令）</ArticleCaption>
-            <ArticleTitle>第三十条の十五</ArticleTitle>
+            <ArticleTitle>第三十条の十七</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1882,9 +1909,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_16">
+          <Article Num="30_18">
             <ArticleCaption>（自衛隊指揮通信システム隊）</ArticleCaption>
-            <ArticleTitle>第三十条の十六</ArticleTitle>
+            <ArticleTitle>第三十条の十八</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1898,9 +1925,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="30_17">
+          <Article Num="30_19">
             <ArticleCaption>（自衛隊指揮通信システム隊司令）</ArticleCaption>
-            <ArticleTitle>第三十条の十七</ArticleTitle>
+            <ArticleTitle>第三十条の十九</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -2306,18 +2333,7 @@
                       <Sentence>浜松市</Sentence>
                     </TableColumn>
                     <TableColumn>
-                      <Sentence>航空機等（航空機搭載レーダー器材、航空機搭載誘導武器及び航空機搭載火器等を含む。）の整備及び補給並びに航空機搭載レーダー及び航空機搭載誘導武器の運用等に必要な知識及び技能を修得させるための教育訓練を行うこと。</Sentence>
-                    </TableColumn>
-                  </TableRow>
-                  <TableRow>
-                    <TableColumn>
-                      <Sentence>航空自衛隊第二術科学校</Sentence>
-                    </TableColumn>
-                    <TableColumn>
-                      <Sentence>浜松市</Sentence>
-                    </TableColumn>
-                    <TableColumn>
-                      <Sentence>レーダー、誘導武器及び火器の運用等並びにレーダー器材、自動警戒管制器材等、誘導武器及び火器等の整備及び補給に必要な知識及び技能を修得させるための教育訓練（航空自衛隊第一術科学校の所掌に係るものを除く。）を行うこと。</Sentence>
+                      <Sentence>航空機等、レーダー器材、自動警戒管制器材等、誘導武器及び火器等の整備及び補給並びにレーダー、誘導武器及び火器の運用等に必要な知識及び技能を修得させるための教育訓練を行うこと。</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -15830,6 +15846,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月六日政令第三八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、防衛省設置法等の一部を改正する法律（平成三十一年法律第十九号）の施行の日（令和二年三月二十六日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第一条の二関係）</RelatedArticleNum>
@@ -15838,7 +15863,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S29SE179_2002212102_001.jpg"/>
+                <Fig src="./pict/S29SE179_2006021706_001.jpg"/>
               </FigStruct>
             </TableColumn>
           </TableRow>

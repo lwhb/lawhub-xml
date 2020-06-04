@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="132" Year="41">
+<Law DataInfo="190731e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="132" Year="41">
   <LawNum>昭和四十一年法律第百三十二号</LawNum>
   <LawBody>
     <LawTitle>労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律</LawTitle>
@@ -96,7 +96,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>国は、第一条第一項の目的を達成するため、前条に規定する基本的理念に従つて、次に掲げる事項について、必要な施策を総合的に講じなければならない。</Sentence>
+              <Sentence>国は、第一条第一項の目的を達成するため、前条に規定する基本的理念に従つて、次に掲げる事項について、総合的に取り組まなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -179,6 +179,12 @@
             <Item Num="14">
               <ItemTitle>十四</ItemTitle>
               <ItemSentence>
+                <Sentence>職場における労働者の就業環境を害する言動に起因する問題の解決を促進するために必要な施策を充実すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="15">
+              <ItemTitle>十五</ItemTitle>
+              <ItemSentence>
                 <Sentence>前各号に掲げるもののほか、職業の安定、産業の必要とする労働力の確保等に資する雇用管理の改善の促進その他労働者がその有する能力を有効に発揮することができるようにするために必要な施策を充実すること。</Sentence>
               </ItemSentence>
             </Item>
@@ -186,13 +192,13 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>国は、前項に規定する施策及びこれに関連する施策を講ずるに際しては、国民経済の健全な発展、それに即応する企業経営の基盤の改善、地域振興等の諸施策と相まつて、雇用機会の着実な増大及び地域間における就業機会等の不均衡の是正を図るとともに、労働者がその有する能力を有効に発揮することの妨げとなつている雇用慣行の是正を期するように配慮しなければならない。</Sentence>
+              <Sentence>国は、前項各号に掲げる施策及びこれに関連する施策の充実に取り組むに際しては、国民経済の健全な発展、それに即応する企業経営の基盤の改善、地域振興等の諸施策と相まつて、雇用機会の着実な増大及び地域間における就業機会等の不均衡の是正を図るとともに、労働者がその有する能力を有効に発揮することの妨げとなつている雇用慣行の是正を期するように配慮しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>国は、第一項第十二号に規定する施策を講ずるに際しては、外国人の入国及び在留の管理に関する施策と相まつて、外国人の不法就労活動（出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第二十四条第三号の四イに規定する不法就労活動をいう。）を防止し、労働力の不適正な供給が行われないようにすることにより、労働市場を通じた需給調整の機能が適切に発揮されるよう努めなければならない。</Sentence>
+              <Sentence>国は、第一項第十二号に規定する施策の充実に取り組むに際しては、外国人の入国及び在留の管理に関する施策と相まつて、外国人の不法就労活動（出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第二十四条第三号の四イに規定する不法就労活動をいう。）を防止し、労働力の不適正な供給が行われないようにすることにより、労働市場を通じた需給調整の機能が適切に発揮されるよう努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1639,6 +1645,51 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律は、平成三十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月五日法律第二四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条中労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律第四条の改正規定並びに次条及び附則第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（準備行為）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第三条の規定による改正後の労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律（以下「新労働施策総合推進法」という。）第三十条の二第三項（新労働施策総合推進法第三十八条第二項の規定により読み替えて適用する場合を含む。）に規定する指針の策定及びこれに関し必要な手続その他の行為は、この法律の施行前においても、新労働施策総合推進法第三十条の二第三項から第五項まで（これらの規定を新労働施策総合推進法第三十八条第二項の規定により読み替えて適用する場合を含む。）の規定の例により行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

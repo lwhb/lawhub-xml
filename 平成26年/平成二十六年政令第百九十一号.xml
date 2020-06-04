@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200529e03k03m02" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="191" Year="26">
+<Law DataInfo="200417e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="191" Year="26">
   <LawNum>平成二十六年政令第百九十一号</LawNum>
   <LawBody>
     <LawTitle>幹部職員の任用等に関する政令</LawTitle>
@@ -103,6 +103,12 @@
           </Item>
           <Item Num="13">
             <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence>厚生労働省死因究明等推進本部</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="14">
+            <ItemTitle>十四</ItemTitle>
             <ItemSentence>
               <Sentence>会計検査院（会計検査院法（昭和二十二年法律第七十三号）第十九条に規定する機関を除く。）</Sentence>
             </ItemSentence>
@@ -565,6 +571,16 @@
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence>この政令は、特定複合観光施設区域整備法附則第一条第三号に掲げる規定の施行の日（令和二年一月七日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二七日政令第七二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

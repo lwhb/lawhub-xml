@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="139" Year="14">
+<Law DataInfo="190726e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="139" Year="14">
   <LawNum>平成十四年法律第百三十九号</LawNum>
   <LawBody>
     <LawTitle>法科大学院の教育と司法試験等との連携等に関する法律</LawTitle>
@@ -49,7 +49,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国は、前条の基本理念（以下「法曹養成の基本理念」という。）にのっとり、法科大学院における教育の充実並びに法科大学院における教育と司法試験及び司法修習生の修習との有機的連携を図る責務を有する。</Sentence>
+            <Sentence WritingMode="vertical">国は、前条の基本理念（以下「法曹養成の基本理念」という。）にのっとり、法科大学院における教育の充実（第六条第二項第一号に規定する連携法曹基礎課程における教育の充実を含む。以下同じ。）並びに法科大学院における教育と司法試験及び司法修習生の修習との有機的連携を図る責務を有する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -83,47 +83,305 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">大学は、法曹養成の基本理念にのっとり、法科大学院における教育の充実に自主的かつ積極的に努めるものとする。</Sentence>
+            <Sentence WritingMode="vertical">大学は、法曹養成の基本理念にのっとり、法科大学院において、次に掲げる学識及び能力並びに素養を<Ruby>涵<Rt>かん</Rt>
+</Ruby>養するための教育を段階的かつ体系的に実施するとともに、法科大学院における教育の充実に自主的かつ積極的に努めるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法曹となろうとする者に共通して必要とされる専門的学識（専門的な法律知識その他の学識をいう。以下この条において同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法曹となろうとする者に共通して必要とされる前号に掲げる専門的学識の応用能力（法的な推論、分析、構成及び論述の能力をいう。以下この条において同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>前二号に掲げるもののほか、法曹となろうとする者に必要とされる専門的な法律の分野に関する専門的学識及びその応用能力</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>次に掲げるものその他前三号に掲げる専門的学識及びその応用能力の基盤の上に<Ruby>涵<Rt>かん</Rt>
+</Ruby>養すべき将来の法曹としての実務に必要な学識及び能力並びに素養</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>法的な推論、分析及び構成に基づいて弁論をする能力</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>法律に関する実務の基礎的素養</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（法科大学院の教育課程等の公表）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法科大学院を設置する大学は、当該法科大学院における教育の充実及び将来の法曹としての適性を有する多様な入学者の確保に資するため、次に掲げる事項を公表するものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該法科大学院の教育課程並びに当該教育課程を履修する上で求められる学識及び能力</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該法科大学院における成績評価の基準及び実施状況</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該法科大学院における修了の認定の基準及び実施状況</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該法科大学院の課程を修了した者の進路に関する状況</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>その他文部科学省令で定める事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（法曹養成連携協定の締結等）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法科大学院を設置する大学は、当該法科大学院における教育との円滑な接続を図るための課程を置こうとする大学と、当該課程における教育の実施及び当該法科大学院における教育との円滑な接続に関する協定（以下「法曹養成連携協定」という。）を締結し、当該法曹養成連携協定が適当である旨の文部科学大臣の認定を受けることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法曹養成連携協定においては、次に掲げる事項を定めるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法曹養成連携協定の目的となる法科大学院（以下「連携法科大学院」という。）及び当該連携法科大学院における教育との円滑な接続を図るための大学の課程（以下この条において「連携法曹基礎課程」という。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>連携法科大学院の入学者に求められる基礎的な学識及び能力を修得させるために必要な教育を行うための連携法曹基礎課程における教育課程の編成その他の連携法科大学院における教育と連携法曹基礎課程における教育との円滑な接続を図るために必要な措置に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>連携法曹基礎課程における成績評価の基準</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>連携法曹基礎課程における教育の実施のために必要な連携法科大学院を設置する大学の協力に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>連携法曹基礎課程を修了して連携法科大学院に入学しようとする者を対象とする入学者選抜の方法</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>法曹養成連携協定の有効期間</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>法曹養成連携協定に違反した場合の措置</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>その他必要な事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>文部科学大臣は、第一項の認定に係る申請が次の各号のいずれにも該当するときは、同項の認定をするものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>連携法科大学院を設置する大学が、当該連携法科大学院の教育課程、教員組織その他教育研究活動の状況（以下単に「教育研究活動の状況」という。）について、学校教育法第百九条第六項に規定する適合認定を受けていること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>連携法曹基礎課程を修了して連携法科大学院に入学しようとする者を対象とする入学者選抜に関し、文部科学省令で定めるところにより、連携法曹基礎課程における科目の単位の修得の状況を踏まえ、入学者の適性の適確な評価に配慮した公平な入学者選抜を行うこととされていること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>法曹養成連携協定に違反した場合の措置その他の法曹養成連携協定の内容が、連携法曹基礎課程の学生の不利益とならないよう配慮されたものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>前二号に掲げるもののほか、連携法科大学院における教育と連携法曹基礎課程における教育との円滑な接続に資するものとして文部科学省令で定める基準に適合するものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>文部科学大臣は、第一項の認定をしたときは、文部科学省令で定めるところにより、当該認定に係る法曹養成連携協定の内容を公表するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="5">
-        <ArticleCaption>（法科大学院の適格認定等）</ArticleCaption>
-        <ArticleTitle>第五条</ArticleTitle>
+      <Article Num="7">
+        <ArticleCaption>（法曹養成連携協定の変更）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>連携法科大学院を設置する大学は、前条第一項の認定を受けた法曹養成連携協定において定めた事項を変更しようとするときは、文部科学大臣の認定を受けなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前条第三項及び第四項の規定は、前項の変更の認定について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（認定の取消し）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>文部科学大臣は、次の各号のいずれかに該当するときは、第六条第一項の認定を取り消すことができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>第六条第一項の認定を受けた法曹養成連携協定（前条第一項の変更の認定があったときは、その変更後のもの。次号及び第十二条第二項において「認定法曹養成連携協定」という。）の内容が、第六条第三項各号のいずれかに適合しなくなったと認めるとき。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>正当な理由がないのに認定法曹養成連携協定において定められた事項が適切に実施されていないと認めるとき。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>文部科学大臣は、前項の規定による認定の取消しをしたときは、その旨を公表するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（法曹養成連携協定を締結しようとする大学に対する協力）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法科大学院を設置する大学は、当該法科大学院における教育との円滑な接続を図るための課程を置き法曹養成連携協定を締結しようとする大学に対し、当該課程の教育課程の編成に関し参考となる情報の提供その他の協力を行うよう努めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（職業経験を有する者等への配慮）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法科大学院を設置する大学は、当該法科大学院の入学者の適性の適確な評価及び多様性の確保に資するよう、入学者選抜の実施方法、実施時期その他の入学者選抜の実施に関する事項について、次に掲げる者に対する適切な配慮を行うものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>就業者その他の職業経験を有する者であって法科大学院に入学しようとする者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>法学を履修する課程以外の大学の課程を修了して法科大学院に入学しようとする者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>学校教育法第八十九条の規定により大学を卒業して法科大学院に入学しようとする者及び同法第百二条第二項の規定により法科大学院に入学しようとする者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（法科大学院に係る設置基準）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>文部科学大臣は、法科大学院に係る学校教育法第三条に規定する設置基準（次条第一項及び第十三条第二項第一号において単に「設置基準」という。）を定めるときは、法科大学院における教育が法曹養成の基本理念及び第四条に規定する大学の責務を踏まえたものとなるように意を用いなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="12">
+        <ArticleCaption>（法科大学院の認証評価等）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">文部科学大臣は、法科大学院の教育課程、教員組織その他教育研究活動の状況（以下単に「教育研究活動の状況」という。）についての評価を行う者の認証の基準に係る学校教育法第百十条第三項に規定する細目を定めるときは、その者の定める法科大学院に係る同法第百九条第四項に規定する大学評価基準（以下この条において「法科大学院評価基準」という。）の内容が法曹養成の基本理念（これを踏まえて定められる法科大学院に係る同法第三条に規定する設置基準を含む。）を踏まえたものとなるように意を用いなければならない。</Sentence>
+            <Sentence WritingMode="vertical">文部科学大臣は、法科大学院の教育研究活動の状況についての評価を行う者の認証の基準に係る学校教育法第百十条第三項に規定する細目を定めるときは、その者の定める法科大学院に係る同法第百九条第四項に規定する大学評価基準の内容が法曹養成の基本理念及び第四条に規定する大学の責務（これらを踏まえて定められる法科大学院に係る設置基準を含む。）を踏まえたものとなるように意を用いなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">学校教育法第百九条第二項に規定する認証評価機関（以下この条において単に「認証評価機関」という。）が行う法科大学院の教育研究活動の状況についての同条第三項の規定による認証評価（第四項において単に「認証評価」という。）においては、当該法科大学院の教育研究活動の状況が法科大学院評価基準に適合しているか否かの認定をしなければならない。</Sentence>
+            <Sentence>学校教育法第百九条第二項に規定する認証評価機関（次項において単に「認証評価機関」という。）が行う認定法曹養成連携協定の目的となっている連携法科大学院の教育研究活動の状況についての同条第三項の規定による認証評価（次項において単に「認証評価」という。）については、当該認定法曹養成連携協定において当該連携法科大学院が行うこととされている事項の実施状況を含めて行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">大学は、その設置する法科大学院の教育研究活動の状況について法科大学院評価基準に適合している旨の認証評価機関の認定（第五項において「適格認定」という。）を受けるよう、その教育研究水準の向上に努めなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="4">
-          <ParagraphNum>４</ParagraphNum>
-          <ParagraphSentence>
             <Sentence WritingMode="vertical">文部科学大臣は、法科大学院の教育研究活動の状況について認証評価を行った認証評価機関から学校教育法第百十条第四項の規定によりその結果の報告を受けたときは、遅滞なく、これを法務大臣に通知するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
-          <ParagraphNum>５</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">文部科学大臣は、大学がその設置する法科大学院の教育研究活動の状況について適格認定を受けられなかったときは、当該大学に対し、当該法科大学院の教育研究活動の状況について、報告又は資料の提出を求めるものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="6">
+      <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（法務大臣と文部科学大臣との関係）</ArticleCaption>
-        <ArticleTitle>第六条</ArticleTitle>
+        <ArticleTitle>第十三条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -139,7 +397,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">法科大学院に係る学校教育法第三条に規定する設置基準を定め、又はこれを改廃しようとするとき。</Sentence>
+              <Sentence WritingMode="vertical">法科大学院に係る設置基準を定め、又はこれを改廃しようとするとき。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -164,7 +422,7 @@
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">文部科学大臣は、法科大学院における教育と司法試験との有機的連携を確保するため、必要があると認めるときは、法務大臣に対し、協議を求めることができる。</Sentence>
+            <Sentence WritingMode="vertical">法務大臣及び文部科学大臣は、法科大学院における教育と司法試験との有機的連携を確保するため、必要があると認めるときは、法科大学院の学生の収容定員の総数その他の法曹の養成に関する事項について、相互に協議を求め、又は大学その他の法曹の養成に関係する機関の意見を聴くことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -236,6 +494,81 @@
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月二四日法律第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、平成三十二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二六日法律第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成三十二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中法科大学院の教育と司法試験等との連携等に関する法律第六条第四項の改正規定及び次条から附則第四条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二条、第四条（前号に掲げる改正規定を除く。）及び第五条並びに附則第五条から第八条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成三十四年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（法科大学院の教育と司法試験等との連携等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第一条の規定による改正後の法科大学院の教育と司法試験等との連携等に関する法律（以下この項において「新連携法」という。）第六条第一項の認定及びこれに関し必要な手続その他の行為は、この法律の施行の日前においても、同条及び新連携法第七条の規定の例により行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前二条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

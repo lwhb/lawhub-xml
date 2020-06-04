@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="245" Year="12">
+<Law DataInfo="200417e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="245" Year="12">
   <LawNum>平成十二年政令第二百四十五号</LawNum>
   <LawBody>
     <LawTitle>内閣府本府組織令</LawTitle>
@@ -995,7 +995,7 @@
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">総括審議官の定数は一人と、政策立案総括審議官の定数は一人と、公文書監理官の定数は一人と、サイバーセキュリティ・情報化審議官の定数は一人と、少子化・青少年対策審議官の定数は一人と、審議官の定数は併任の者を除き十八人とする。</Sentence>
+                <Sentence Function="main" Num="1">総括審議官の定数は一人と、政策立案総括審議官の定数は一人と、公文書監理官の定数は一人と、サイバーセキュリティ・情報化審議官の定数は一人と、少子化・青少年対策審議官の定数は一人と、審議官の定数は併任の者を除き十七人とする。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、審議官のうち二人は、内閣総理大臣が特に必要と認める場合に置かれるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1024,7 +1024,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">大臣官房に置く参事官の定数は、併任の者を除き、九人とする。</Sentence>
+                <Sentence Function="main" Num="1">大臣官房に置く参事官の定数は、併任の者を除き、十人とする。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、大臣官房に置く参事官のうち三人は、内閣総理大臣が特に必要と認める場合に置かれるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1561,7 +1561,7 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>参事官の定数は、併任の者を除き、四十二人とする。</Sentence>
+                  <Sentence>参事官の定数は、併任の者を除き、四十三人とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2772,18 +2772,8 @@
         </Paragraph>
       </Article>
       <Article Num="7">
-        <ArticleCaption>（大臣官房審議官の設置期間の特例）</ArticleCaption>
-        <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>第八条（第二項から第六項までを除く。）の審議官（同条第八項ただし書の規定により置かれるものを除く。）のうち一人は、令和二年三月三十一日まで置かれるものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="8">
         <ArticleCaption>（大臣官房参事官の設置期間の特例）</ArticleCaption>
-        <ArticleTitle>第八条</ArticleTitle>
+        <ArticleTitle>第七条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -2791,9 +2781,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="9">
+      <Article Num="8">
         <ArticleCaption>（大臣官房企画調整課の所掌事務の特例）</ArticleCaption>
-        <ArticleTitle>第九条</ArticleTitle>
+        <ArticleTitle>第八条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -2813,9 +2803,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="10">
+      <Article Num="9">
         <ArticleCaption>（大臣官房政策評価広報課の所掌事務の特例）</ArticleCaption>
-        <ArticleTitle>第十条</ArticleTitle>
+        <ArticleTitle>第九条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -2823,9 +2813,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="11">
+      <Article Num="10">
         <ArticleCaption>（男女共同参画局推進課の所掌事務の特例）</ArticleCaption>
-        <ArticleTitle>第十一条</ArticleTitle>
+        <ArticleTitle>第十条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -2833,9 +2823,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="12">
+      <Article Num="11">
         <ArticleCaption>（沖縄振興局に置かれる参事官の職務の特例）</ArticleCaption>
-        <ArticleTitle>第十二条</ArticleTitle>
+        <ArticleTitle>第十一条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -4197,6 +4187,15 @@
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence>この政令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第七六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

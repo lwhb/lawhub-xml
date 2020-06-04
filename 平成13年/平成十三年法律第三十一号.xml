@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="31" Year="13">
+<Law DataInfo="190725e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="31" Year="13">
   <LawNum>平成十三年法律第三十一号</LawNum>
   <LawBody>
     <LawTitle>配偶者からの暴力の防止及び被害者の保護等に関する法律</LawTitle>
@@ -242,7 +242,7 @@
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">被害者（被害者がその家族を同伴する場合にあっては、被害者及びその同伴する家族。次号、第六号、第五条及び第八条の三において同じ。）の緊急時における安全の確保及び一時保護を行うこと。</Sentence>
+                <Sentence WritingMode="vertical">被害者（被害者がその家族を同伴する場合にあっては、被害者及びその同伴する家族。次号、第六号、第五条、第八条の三及び第九条において同じ。）の緊急時における安全の確保及び一時保護を行うこと。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="4">
@@ -375,7 +375,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">配偶者暴力相談支援センター、都道府県警察、福祉事務所等都道府県又は市町村の関係機関その他の関係機関は、被害者の保護を行うに当たっては、その適切な保護が行われるよう、相互に連携を図りながら協力するよう努めるものとする。</Sentence>
+              <Sentence WritingMode="vertical">配偶者暴力相談支援センター、都道府県警察、福祉事務所、児童相談所その他の都道府県又は市町村の関係機関その他の関係機関は、被害者の保護を行うに当たっては、その適切な保護が行われるよう、相互に連携を図りながら協力するよう努めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1126,6 +1126,57 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二六日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第四条、第七条第一項及び第八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前二条に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（検討等）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、附則第一条第一号に掲げる規定の施行後三年を目途に、配偶者からの暴力の防止及び被害者の保護等に関する法律第六条第一項及び第二項の通報の対象となる同条第一項に規定する配偶者からの暴力の形態並びに同法第十条第一項から第四項までの規定による命令の申立てをすることができる同条第一項に規定する被害者の範囲の拡大について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、附則第一条第一号に掲げる規定の施行後三年を目途に、配偶者からの暴力の防止及び被害者の保護等に関する法律第一条第一項に規定する配偶者からの暴力に係る加害者の地域社会における更生のための指導及び支援の在り方について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>

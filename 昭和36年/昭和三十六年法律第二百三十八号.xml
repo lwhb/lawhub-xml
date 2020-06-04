@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200511e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="238" Year="36">
+<Law DataInfo="200508e01k01m02" Era="Showa" Lang="ja" LawType="Act" Num="238" Year="36">
   <LawNum>昭和三十六年法律第二百三十八号</LawNum>
   <LawBody>
     <LawTitle>児童扶養手当法</LawTitle>
@@ -759,12 +759,12 @@
           </Paragraph>
         </Article>
         <Article Num="19">
-          <ArticleCaption>（時効の中断）</ArticleCaption>
+          <ArticleCaption>（時効の完成猶予及び更新）</ArticleCaption>
           <ArticleTitle>第十九条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>手当の支給に関する処分についての不服申立ては、時効の中断に関しては、裁判上の請求とみなす。</Sentence>
+              <Sentence>手当の支給に関する処分についての不服申立ては、時効の完成猶予及び更新に関しては、裁判上の請求とみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -797,7 +797,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>手当の支給を受ける権利は、二年を経過したときは、時効によつて消滅する。</Sentence>
+              <Sentence>手当の支給を受ける権利は、これを行使することができる時から二年を経過したときは、時効によつて消滅する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2388,7 +2388,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>移行農林共済年金及び移行農林年金並びに特例年金給付は、児童扶養手当法の適用については、前条の規定による改正後の同法第三条第二項に規定する公的年金給付とみなす。</Sentence>
+            <Sentence>移行農林共済年金及び移行農林年金は、児童扶養手当法の適用については、同法第三条第二項に規定する公的年金給付とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3301,6 +3301,29 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1">この法律は、民法改正法の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第百三条の二、第百三条の三、第二百六十七条の二、第二百六十七条の三及び第三百六十二条の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年五月二五日法律第三一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="平成三〇年六月八日法律第四四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -3391,6 +3414,69 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和三年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1:2">
+              <Subitem1Title>イ及びロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>第十五条中租税特別措置法第四十一条の四の二の次に一条を加える改正規定、同法第四十一条の十九第一項の改正規定（「千万円」を「八百万円」に改める部分に限る。）、同法第九十三条の改正規定（同条第一項第四号を同項第五号とし、同項第三号の次に一号を加える部分を除く。）、同法第九十四条の改正規定、同法第九十五条の改正規定及び同法第九十六条の改正規定並びに附則第七十四条第一項及び第三項、第百十一条、第百四十四条並びに第百四十九条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="171">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="172">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="189" Year="33">
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="189" Year="33">
   <LawNum>昭和三十三年政令第百八十九号</LawNum>
   <LawBody>
     <LawTitle>義務教育諸学校等の施設費の国庫負担等に関する法律施行令</LawTitle>
@@ -73,7 +73,7 @@
                   <Sentence WritingMode="vertical">小学校</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">理科教室、生活教室、音楽教室、図画工作教室、家庭教室、視聴覚教室、コンピュータ教室、図書室、特別活動室、教育相談室</Sentence>
+                  <Sentence WritingMode="vertical">理科教室、生活教室、音楽教室、図画工作教室、家庭教室、外国語教室、視聴覚教室、コンピュータ教室、図書室、特別活動室、教育相談室</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -670,7 +670,7 @@
                   <Sentence WritingMode="vertical">一人から十一人まで</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">５．８６平方メートル－２平方メートル÷寄宿舎に収容する生徒の数　増</Sentence>
+                  <Sentence WritingMode="vertical">5.86平方メートル－2平方メートル÷寄宿舎に収容する生徒の数　増</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -678,7 +678,7 @@
                   <Sentence WritingMode="vertical">十二人から二十三人まで</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">６．８６平方メートル－１４平方メートル÷寄宿舎に収容する生徒の数　増</Sentence>
+                  <Sentence WritingMode="vertical">6.86平方メートル－14平方メートル÷寄宿舎に収容する生徒の数　増</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -686,7 +686,7 @@
                   <Sentence WritingMode="vertical">二十四人から四十七人まで</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">３０１平方メートル÷寄宿舎に収容する生徒の数－６．２７平方メートル　増</Sentence>
+                  <Sentence WritingMode="vertical">301平方メートル÷寄宿舎に収容する生徒の数－6.27平方メートル　増</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -702,7 +702,7 @@
                   <Sentence WritingMode="vertical">四十九人以上</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">９．３５平方メートル－４４９平方メートル÷寄宿舎に収容する生徒の数　減</Sentence>
+                  <Sentence WritingMode="vertical">9.35平方メートル－449平方メートル÷寄宿舎に収容する生徒の数　減</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -713,7 +713,7 @@
                   <Sentence WritingMode="vertical">一人から三十五人まで</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">３１平方メートル÷寄宿舎に収容する児童等の数＋４．１０平方メートル　増</Sentence>
+                  <Sentence WritingMode="vertical">31平方メートル÷寄宿舎に収容する児童等の数＋4.10平方メートル　増</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -721,7 +721,7 @@
                   <Sentence WritingMode="vertical">三十六人から七十一人まで</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">３５８平方メートル÷寄宿舎に収容する児童等の数－４．９８平方メートル　増</Sentence>
+                  <Sentence WritingMode="vertical">358平方メートル÷寄宿舎に収容する児童等の数－4.98平方メートル　増</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -737,7 +737,7 @@
                   <Sentence WritingMode="vertical">七十三人以上</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">４．９５平方メートル－３５６平方メートル÷寄宿舎に収容する児童等の数　減</Sentence>
+                  <Sentence WritingMode="vertical">4.95平方メートル－356平方メートル÷寄宿舎に収容する児童等の数　減</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -748,7 +748,7 @@
                   <Sentence WritingMode="vertical">一人から三十五人まで</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">８０平方メートル÷寄宿舎に収容する児童等の数＋４．０５平方メートル　増</Sentence>
+                  <Sentence WritingMode="vertical">80平方メートル÷寄宿舎に収容する児童等の数＋4.05平方メートル　増</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -756,7 +756,7 @@
                   <Sentence WritingMode="vertical">三十六人から七十一人まで</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">４５２平方メートル÷寄宿舎に収容する児童等の数－６．２８平方メートル　増</Sentence>
+                  <Sentence WritingMode="vertical">452平方メートル÷寄宿舎に収容する児童等の数－6.28平方メートル　増</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -772,7 +772,7 @@
                   <Sentence WritingMode="vertical">七十三人以上</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">６．２８平方メートル－４５２平方メートル÷寄宿舎に収容する児童等の数　減</Sentence>
+                  <Sentence WritingMode="vertical">6.28平方メートル－452平方メートル÷寄宿舎に収容する児童等の数　減</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -1089,13 +1089,10 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和五五年四月一八日政令第一〇一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">この政令は、公布の日から施行し、改正後の義務教育諸学校施設費国庫負担法施行令、<Ruby>へ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>き<Rt>ヽ</Rt>
-</Ruby>地教育振興法施行令、離島振興法施行令及び公立学校施設災害復旧費国庫負担法施行令の規定は、昭和五十五年四月一日から適用する。</Sentence>
+          <Sentence>この政令は、公布の日から施行し、改正後の義務教育諸学校施設費国庫負担法施行令、へき地教育振興法施行令、離島振興法施行令及び公立学校施設災害復旧費国庫負担法施行令の規定は、昭和五十五年四月一日から適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Hide="false" Num="2">
@@ -1138,13 +1135,10 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和六〇年五月二四日政令第一五〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">この政令は、公布の日から施行し、改正後の義務教育諸学校施設費国庫負担法施行令、<Ruby>へ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>き<Rt>ヽ</Rt>
-</Ruby>地教育振興法施行令、離島振興法施行令及び公立学校施設災害復旧費国庫負担法施行令の規定は、昭和六十年四月一日から適用する。</Sentence>
+          <Sentence>この政令は、公布の日から施行し、改正後の義務教育諸学校施設費国庫負担法施行令、へき地教育振興法施行令、離島振興法施行令及び公立学校施設災害復旧費国庫負担法施行令の規定は、昭和六十年四月一日から適用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Hide="false" Num="2">
@@ -1405,6 +1399,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成二十八年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年三月二二日政令第五二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、平成三十年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

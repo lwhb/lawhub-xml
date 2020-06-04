@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="145" Year="35">
+<Law DataInfo="190731e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="145" Year="35">
   <LawNum>昭和三十五年法律第百四十五号</LawNum>
   <LawBody>
     <LawTitle>医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律</LawTitle>
@@ -630,7 +630,7 @@
               <Subitem1 Num="5">
                 <Subitem1Title>ホ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>成年被後見人又は麻薬、大麻、あへん若しくは覚醒剤の中毒者</Sentence>
+                  <Sentence>麻薬、大麻、あへん又は覚醒剤の中毒者</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="6">
@@ -12397,6 +12397,72 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第四十条、第五十九条、第六十一条、第七十五条（児童福祉法第三十四条の二十の改正規定に限る。）、第八十五条、第百二条、第百七条（民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律第二十六条の改正規定に限る。）、第百十一条、第百四十三条、第百四十九条、第百五十二条、第百五十四条（不動産の鑑定評価に関する法律第二十五条第六号の改正規定に限る。）及び第百六十八条並びに次条並びに附則第三条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条、第四条、第五条（国家戦略特別区域法第十九条の二第一項の改正規定を除く。）、第二章第二節及び第四節、第四十一条（地方自治法第二百五十二条の二十八の改正規定を除く。）、第四十二条から第四十八条まで、第五十条、第五十四条、第五十七条、第六十条、第六十二条、第六十六条から第六十九条まで、第七十五条（児童福祉法第三十四条の二十の改正規定を除く。）、第七十六条、第七十七条、第七十九条、第八十条、第八十二条、第八十四条、第八十七条、第八十八条、第九十条（職業能力開発促進法第三十条の十九第二項第一号の改正規定を除く。）、第九十五条、第九十六条、第九十八条から第百条まで、第百四条、第百八条、第百九条、第百十二条、第百十三条、第百十五条、第百十六条、第百十九条、第百二十一条、第百二十三条、第百三十三条、第百三十五条、第百三十八条、第百三十九条、第百六十一条から第百六十三条まで、第百六十六条、第百六十九条、第百七十条、第百七十二条（フロン類の使用の合理化及び管理の適正化に関する法律第二十九条第一項第一号の改正規定に限る。）並びに第百七十三条並びに附則第十六条、第十七条、第二十条、第二十一条及び第二十三条から第二十九条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して六月を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（行政庁の行為等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（前条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行の日前に、この法律による改正前の法律又はこれに基づく命令の規定（欠格条項その他の権利の制限に係る措置を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、会社法（平成十七年法律第八十六号）及び一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）における法人の役員の資格を成年被後見人又は被保佐人であることを理由に制限する旨の規定について、この法律の公布後一年以内を目途として検討を加え、その結果に基づき、当該規定の削除その他の必要な法制上の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

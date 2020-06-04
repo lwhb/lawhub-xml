@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="148" Year="13">
+<Law DataInfo="190725e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="148" Year="13">
   <LawNum>平成十三年法律第百四十八号</LawNum>
   <LawBody>
     <LawTitle>文化芸術基本法</LawTitle>
@@ -244,7 +244,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">都道府県及び市（特別区を含む。第三十七条において同じ。）町村の教育委員会（地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）第二十三条第一項の条例の定めるところによりその長が文化に関する事務（文化財の保護に関する事務を除く。）を管理し、及び執行することとされた地方公共団体（次項において「特定地方公共団体」という。）にあっては、その長）は、文化芸術推進基本計画を参酌して、その地方の実情に即した文化芸術の推進に関する計画（次項及び第三十七条において「地方文化芸術推進基本計画」という。）を定めるよう努めるものとする。</Sentence>
+              <Sentence WritingMode="vertical">都道府県及び市（特別区を含む。第三十七条において同じ。）町村の教育委員会（地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）第二十三条第一項の条例の定めるところによりその長が同項第三号に掲げる事務を管理し、及び執行することとされた地方公共団体（次項において「特定地方公共団体」という。）にあっては、その長）は、文化芸術推進基本計画を参酌して、その地方の実情に即した文化芸術の推進に関する計画（次項及び第三十七条において「地方文化芸術推進基本計画」という。）を定めるよう努めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -619,6 +619,32 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、文化芸術に関する施策を総合的に推進するため、文化庁の機能の拡充等について、その行政組織の在り方を含め検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年六月八日法律第四二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、平成三十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

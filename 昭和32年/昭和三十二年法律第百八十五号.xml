@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="185" Year="32">
+<Law DataInfo="190625e04k03m02" Era="Showa" Lang="ja" LawType="Act" Num="185" Year="32">
   <LawNum>昭和三十二年法律第百八十五号</LawNum>
   <LawBody>
     <LawTitle>中小企業団体の組織に関する法律</LawTitle>
@@ -1643,7 +1643,7 @@
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の規定により出資組合が非出資組合に移行する場合における所得税法（昭和四十年法律第三十三号）、法人税法（昭和四十年法律第三十四号）及び地方税法（昭和二十五年法律第二百二十六号）の規定の適用については、その出資組合は、非出資組合に移行した時において解散したものとみなす。</Sentence>
+                <Sentence WritingMode="vertical">前項の規定により出資組合が非出資組合に移行する場合における所得税法（昭和四十年法律第三十三号）及び地方税法（昭和二十五年法律第二百二十六号）の規定の適用については、その出資組合は、非出資組合に移行した時において解散したものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="3">
@@ -4839,6 +4839,39 @@
           <Sentence WritingMode="vertical">この法律は、会社法の一部を改正する法律の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二九日法律第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成三十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="115">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="116">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

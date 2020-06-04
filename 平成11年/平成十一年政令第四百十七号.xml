@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="417" Year="11">
+<Law DataInfo="180824e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="417" Year="11">
   <LawNum>平成十一年政令第四百十七号</LawNum>
   <LawBody>
     <LawTitle>家畜保健衛生所法施行令</LawTitle>
@@ -22,14 +22,20 @@
             <Sentence WritingMode="vertical">光学顕微鏡（細菌の形態を識別することができるものに限る。）、遠心分離機その他家畜の伝染病の予防に関する事務を迅速かつ的確に行うために必要なものとして農林水産大臣が定める設備及び器具並びに家畜の死体その他の汚物の処理のための焼却施設を有するものであること。</Sentence>
           </ItemSentence>
         </Item>
-        <Item Delete="false" Hide="false" Num="3">
+        <Item Num="3">
           <ItemTitle>三</ItemTitle>
           <ItemSentence>
-            <Sentence WritingMode="vertical">所長は、獣医師であって、家畜保健衛生所の事務に関し相当の経験を有するものであること。</Sentence>
+            <Sentence>家畜の保健衛生上必要な試験及び検査の信頼性を確保するために必要なものとして農林水産省令で定める措置がとられるものであること。</Sentence>
           </ItemSentence>
         </Item>
         <Item Delete="false" Hide="false" Num="4">
           <ItemTitle>四</ItemTitle>
+          <ItemSentence>
+            <Sentence WritingMode="vertical">所長は、獣医師であって、家畜保健衛生所の事務に関し相当の経験を有するものであること。</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Delete="false" Hide="false" Num="5">
+          <ItemTitle>五</ItemTitle>
           <ItemSentence>
             <Sentence WritingMode="vertical">所長のほか、獣医師である常勤の職員を置くものであること。</Sentence>
           </ItemSentence>
@@ -42,6 +48,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成十二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年八月一日政令第二三五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、平成三十一年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

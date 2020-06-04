@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="224" Year="39">
+<Law DataInfo="200417e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="224" Year="39">
   <LawNum>昭和三十九年政令第二百二十四号</LawNum>
   <LawBody>
     <LawTitle>母子及び父子並びに寡婦福祉法施行令</LawTitle>
@@ -192,7 +192,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第十三条第三項の規定により児童又は配偶者のない女子の二十歳以上である子等（同条第二項の規定による貸付けに係る二十歳以上である者を含む。以下この項において同じ。）に前項に規定する資金を貸し付けることができるのは、当該資金の貸付けを受けていた配偶者のない女子の死亡の際当該児童又は配偶者のない女子の二十歳以上である子等が次の各号のいずれかに該当する場合（生存している父のうちに次の各号の事情のいずれにも該当しない者がある場合を除き、当該資金の貸付けに係る第八条第四項の保証人がある場合にあつては、その同意があつたときに限る。）とする。</Sentence>
+              <Sentence>法第十三条第三項の規定により児童又は配偶者のない女子の二十歳以上である子等（同条第二項の規定による貸付けに係る二十歳以上である者を含む。以下この項において同じ。）に前項に規定する資金を貸し付けることができるのは、当該資金の貸付けを受けていた配偶者のない女子の死亡の際当該児童又は配偶者のない女子の二十歳以上である子等が次の各号のいずれかに該当する場合（生存している父のうちに次の各号の事情のいずれにも該当しない者がある場合を除き、当該資金の貸付けに係る第八条第五項の保証人がある場合にあつては、その同意があつたときに限る。）とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -335,7 +335,7 @@
                   <Sentence>法第十三条第一項第一号に規定する資金であつて、事業を開始するのに必要なもの（以下「母子事業開始資金」という。）</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>二百八十五万円（母子・父子福祉団体に対して貸し付ける母子事業開始資金については、四百二十九万円）</Sentence>
+                  <Sentence>二百九十三万円（母子・父子福祉団体に対して貸し付ける母子事業開始資金については、四百四十一万円）</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -346,15 +346,20 @@
                   <Sentence>法第十三条第一項第一号に規定する資金であつて、事業を継続するのに必要なもの（以下「母子事業継続資金」という。）</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>一回につき百四十三万円</Sentence>
+                  <Sentence>一回につき百四十七万円</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Function="main" Num="1">法第十三条第一項第二号に規定する資金（以下「母子修学資金」という。）イからニまでに掲げる母子修学資金の区分に応じ、それぞれイからニまでに定める額。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、高等学校、高等専門学校又は専修学校に就学する児童について十八歳に達した日以後の最初の三月三十一日が終了したことにより児童扶養手当法（昭和三十六年法律第二百三十八号）に基づく児童扶養手当その他厚生労働大臣の定める給付（以下「児童扶養手当等」という。）を受けることができなくなつた配偶者のない女子が扶養している当該児童に係る母子修学資金については、当該就学期間中その額に同法第五条第一項に規定する額（同法第五条の二の規定により児童扶養手当の額が改定されているときは、その額。以下同じ。）を加算した額</Sentence>
+                <Column Num="1">
+                  <Sentence>法第十三条第一項第二号に規定する資金（以下「母子修学資金」という。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Function="main" Num="1">イからニまでに掲げる母子修学資金の区分に応じ、それぞれイからニまでに定める額。</Sentence>
+                  <Sentence Function="proviso" Num="2">ただし、高等学校、高等専門学校又は専修学校に就学する児童について十八歳に達した日以後の最初の三月三十一日が終了したことにより児童扶養手当法（昭和三十六年法律第二百三十八号）に基づく児童扶養手当その他厚生労働大臣の定める給付（以下「児童扶養手当等」という。）を受けることができなくなつた配偶者のない女子が扶養している当該児童に係る母子修学資金については、当該就学期間中その額に同法第五条第一項に規定する額（同法第五条の二の規定により児童扶養手当の額が改定されているときは、その額。以下同じ。）を加算した額</Sentence>
+                </Column>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
@@ -374,7 +379,8 @@
                     <Sentence>大学、高等専門学校又は専修学校に就学する児童（専修学校にあつては、専門課程を履修する児童に限る。）に係る母子修学資金</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>就学期間中月額八万千円（自宅外通学の児童にあつては、九万六千円）</Sentence>
+                    <Sentence Function="main" Num="1">就学期間中月額十万八千五百円（自宅外通学の児童にあつては、十四万六千円）。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、当該児童が大学等における修学の支援に関する法律（令和元年法律第八号。以下「大学等修学支援法」という。）第三条に規定する大学等における修学の支援（以下「大学等修学支援」という。）を受けることができるときは、その額から当該児童が受ける独立行政法人日本学生支援機構法（平成十五年法律第九十四号）第十七条の二第一項に規定する学資支給金の月額と大学等修学支援法第八条第一項の規定による授業料の減免の年額を十二で除した額（その額に一円未満の端数があるときは、これを切り捨てた額）との合計額（以下「大学等修学支援月額」という。）に相当する額を控除した額（当該額が零を下回る場合には、零とする。）</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -396,7 +402,7 @@
                     <Sentence>専修学校に就学する児童であつて、一般課程を履修するものに係る母子修学資金</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>就学期間中月額四万八千円</Sentence>
+                    <Sentence>就学期間中月額四万九千五百円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -475,7 +481,7 @@
                 </Column>
                 <Column Num="2">
                   <Sentence Function="main" Num="1">イからニまでに掲げる期間の区分に応じ、それぞれイからニまでに定める額。</Sentence>
-                  <Sentence Function="proviso" Num="2">ただし、ハに掲げる期間中の母子生活資金の貸付金額の合計額は、二百四十万円を超えることができない。</Sentence>
+                  <Sentence Function="proviso" Num="2">ただし、ハに掲げる期間中の母子生活資金の貸付金額の合計額は、二百五十二万円を超えることができない。</Sentence>
                 </Column>
               </ItemSentence>
               <Subitem1 Num="1">
@@ -496,7 +502,7 @@
                     <Sentence>医療又は介護を受けている期間</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>月額十万三千円</Sentence>
+                    <Sentence>月額十万五千円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -507,7 +513,7 @@
                     <Sentence>第三条第五号に規定する期間（次条第一項において「生活安定貸付期間」という。）</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>月額十万三千円</Sentence>
+                    <Sentence>月額十万五千円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -518,7 +524,7 @@
                     <Sentence>失業している期間中離職の日から一年を超えない範囲内の期間（以下「失業貸付期間」という。）</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>月額十万三千円</Sentence>
+                    <Sentence>月額十万五千円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -552,14 +558,14 @@
                   <Sentence>第三条第九号に規定する資金（以下「母子就学支度資金」という。）</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>イ又はロに掲げる母子就学支度資金の区分に応じ、それぞれイ又はロに定める額</Sentence>
+                  <Sentence>イからハまでに掲げる母子就学支度資金の区分に応じ、それぞれイからハまでに定める額</Sentence>
                 </Column>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
                   <Column Num="1">
-                    <Sentence>小学校若しくは中学校へ入学する児童、高等学校若しくは専修学校へ入学する児童（配偶者のない女子の二十歳以上である子等を含む。以下この号において同じ。）又は修業施設へ入所する児童に係る母子就学支度資金</Sentence>
+                    <Sentence>小学校若しくは中学校へ入学する児童又は高等学校若しくは専修学校（専門課程を除く。）へ入学する児童（配偶者のない女子の二十歳以上である子等を含む。以下この号において同じ。）に係る母子就学支度資金</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence>十六万円（私立の高等学校又は専修学校の高等課程へ入学する児童にあつては、四十二万円）</Sentence>
@@ -570,10 +576,22 @@
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
                   <Column Num="1">
-                    <Sentence>大学、大学院、高等専門学校又は専修学校へ入学する児童（専修学校にあつては、専門課程へ入学する児童に限る。）に係る母子就学支度資金</Sentence>
+                    <Sentence>大学、大学院、高等専門学校又は専修学校（専門課程に限る。以下ロにおいて同じ。）へ入学する児童に係る母子就学支度資金</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>三十八万円（私立の大学、大学院、高等専門学校又は専修学校へ入学する児童（専修学校にあつては、専門課程へ入学する児童に限る。）にあつては、五十九万円）</Sentence>
+                    <Sentence Function="main" Num="1">四十二万円（私立の大学、大学院、高等専門学校又は専修学校へ入学する児童にあつては、五十九万円）。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、当該児童が大学等修学支援法第八条第一項の規定による入学金の減免を受けることができるときは、その額から当該減免の額に相当する額を控除した額</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence>修業施設へ入所する児童に係る母子就学支度資金</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>二十八万二千円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -664,7 +682,7 @@
                     <Sentence>知識技能を習得する期間が満了して後一年を経過するまで</Sentence>
                   </TableColumn>
                   <TableColumn>
-                    <Sentence>据置期間経過後六年以内</Sentence>
+                    <Sentence>据置期間経過後二十年以内</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -797,11 +815,17 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>母子修学資金、母子修業資金、母子就職支度資金（配偶者のない女子が扶養している児童に係るものに限る。次条第一項において同じ。）及び母子就学支度資金の貸付金は、無利子とし、その他の母子福祉資金貸付金については、保証人を立てる場合は、無利子とし、保証人を立てない場合は、据置期間中は無利子とし、据置期間経過後はその利率を年一パーセントとする。</Sentence>
+              <Sentence>母子修学資金又は母子就学支度資金の貸付けを受けた者は、自己又は自己以外の者で当該資金の貸付けにより修学をし、若しくは入学するものが大学等修学支援を受けることとなつたときは、既に交付を受けた貸付金（母子修学資金にあつては当該大学等修学支援の対象となる月分のもの、母子就学支度資金にあつては当該大学等修学支援の対象となる入学に係るものに限る。以下この項において同じ。）のうち、その者が受けた大学等修学支援の額に相当する額（当該額が既に交付を受けた貸付金の額を上回る場合には、当該貸付金の額）について、第一項の規定にかかわらず、当該大学等修学支援を受けた日から六月以内に償還しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>母子修学資金、母子修業資金、母子就職支度資金（配偶者のない女子が扶養している児童に係るものに限る。次条第一項において同じ。）及び母子就学支度資金の貸付金は、無利子とし、その他の母子福祉資金貸付金については、保証人を立てる場合は、無利子とし、保証人を立てない場合は、据置期間中は無利子とし、据置期間経過後はその利率を年一パーセントとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence>母子事業開始資金、母子事業継続資金又は母子住宅資金の貸付金であつて、災害により全壊、流失、半壊、床上浸水又はこれらに準ずる被害を受けた住宅に当該災害の当時居住していた者に対し、当該災害による被害を受けた日から一年以内に貸し付けられるものについては、第一項の規定にかかわらず、その据置期間を、貸付けの日から二年を超えない範囲内において、その者が受けた被害の種類及び程度に応じて厚生労働大臣が定める期間延長することができる。</Sentence>
             </ParagraphSentence>
@@ -819,7 +843,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前条第四項及び前項の保証人は、母子福祉資金貸付金の貸付けを受けた者と連帯して債務を負担するものとし、その保証債務は、第十七条の規定による違約金を包含するものとする。</Sentence>
+              <Sentence>前条第五項及び前項の保証人は、母子福祉資金貸付金の貸付けを受けた者と連帯して債務を負担するものとし、その保証債務は、第十七条の規定による違約金を包含するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -1045,7 +1069,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>都道府県は、母子福祉資金貸付金の貸付けを受けた者が次の各号のいずれかに該当する場合には、第八条第一項の規定にかかわらず、当該母子福祉資金貸付金の貸付けを受けた者に対し、母子福祉資金貸付金の全部又は一部につき、一時償還を請求することができる。</Sentence>
+              <Sentence>都道府県は、母子福祉資金貸付金の貸付けを受けた者が次の各号のいずれかに該当する場合には、第八条第一項及び第四項の規定にかかわらず、当該母子福祉資金貸付金の貸付けを受けた者に対し、母子福祉資金貸付金の全部又は一部につき、一時償還を請求することができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1091,7 +1115,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">都道府県は、母子福祉資金貸付金の貸付けを受けた者が支払期日に償還金又は前条の規定により一時償還すべき金額を支払わなかつたときは、延滞元利金額につき年五パーセントの割合をもつて、支払期日の翌日から支払当日までの日数により計算した違約金を徴収する。</Sentence>
+              <Sentence Function="main" Num="1">都道府県は、母子福祉資金貸付金の貸付けを受けた者が支払期日に償還金又は前条の規定により一時償還すべき金額を支払わなかつたときは、延滞元利金額につき年三パーセントの割合をもつて、支払期日の翌日から支払当日までの日数により計算した違約金を徴収する。</Sentence>
               <Sentence Function="proviso" Num="2">ただし、当該支払期日に支払わないことにつき、災害その他やむを得ない理由があると認められるときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -1118,7 +1142,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">都道府県は、次に掲げる場合には、第八条第一項の規定にかかわらず、母子福祉資金貸付金の貸付けを受けた者に対し、償還金の支払を猶予することができる。</Sentence>
+              <Sentence Function="main" Num="1">都道府県は、次に掲げる場合には、第八条第一項及び第四項の規定にかかわらず、母子福祉資金貸付金の貸付けを受けた者に対し、償還金の支払を猶予することができる。</Sentence>
               <Sentence Function="proviso" Num="2">ただし、第一号に掲げる場合において、当該母子福祉資金貸付金の貸付けを受けた者と連帯して償還の債務を負担する借主がある場合におけるその借主が、支払期日に当該償還金を支払うことができると認められるときは、この限りでない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -1147,7 +1171,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十五条第一項ただし書に規定する政令で定める場合は、第八条第四項若しくは第九条第一項の保証人又は当該母子福祉資金貸付金の貸付けを受けた者と連帯して償還の債務を負担した、若しくは負担する借主がある場合であつて、当該保証人又は当該借主が当該母子福祉資金貸付金の未済額を償還することができると認められるときとする。</Sentence>
+              <Sentence>法第十五条第一項ただし書に規定する政令で定める場合は、第八条第五項若しくは第九条第一項の保証人又は当該母子福祉資金貸付金の貸付けを受けた者と連帯して償還の債務を負担した、若しくは負担する借主がある場合であつて、当該保証人又は当該借主が当該母子福祉資金貸付金の未済額を償還することができると認められるときとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1157,7 +1181,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十五条第二項に規定する政令で定める資金は、児童扶養手当法施行令及び母子及び寡婦福祉法施行令の一部を改正する政令（平成十四年政令第二百七号）附則第四条第一項に規定する特例児童扶養資金とする。</Sentence>
+              <Sentence>法第十五条第二項に規定する政令で定める資金は、児童扶養手当法施行令及び母子及び寡婦福祉法施行令の一部を改正する政令（平成十四年政令第二百七号）附則第四条第一項に規定する特例児童扶養資金及び附則第七条第一項に規定する母子臨時児童扶養等資金とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1246,7 +1270,7 @@
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>雇用保険法（昭和四十九年法律第百十六号）の規定による教育訓練給付金（次号において「教育訓練給付金」という。）の支給を受けることができない受給資格者</Sentence>
+                  <Sentence>雇用保険法（昭和四十九年法律第百十六号）の規定による教育訓練給付金（次号及び第三号において「教育訓練給付金」という。）の支給を受けることができない受給資格者（次号に掲げる者を除く。）</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence>当該受給資格者が第一項に規定する教育訓練の受講のために支払つた費用（入学料及び授業料に限る。）の額に百分の六十を乗じて得た額（その額が二十万円を超えるときは、二十万円）</Sentence>
@@ -1257,10 +1281,21 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
+                  <Sentence>教育訓練給付金の支給を受けることができない受給資格者（職業に必要な実践的かつ専門的なものとして法第八条第一項に規定する都道府県知事等が指定する教育訓練（以下この号及び次号において「指定教育訓練」という。）を受ける者に限る。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>当該受給資格者が当該指定教育訓練の受講のために支払つた費用（入学料及び授業料に限る。）の額に百分の六十を乗じて得た額（その額が八十万円を超えるときは、八十万円）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
                   <Sentence>教育訓練給付金の支給を受けることができる受給資格者</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>前号に定める額から雇用保険法第六十条の二第四項の規定により当該受給資格者が支給を受けることができる教育訓練給付金の額を差し引いた額</Sentence>
+                  <Sentence>第一号（指定教育訓練を受ける者であるときは、前号）に定める額から雇用保険法第六十条の二第四項の規定により当該受給資格者が支給を受けることができる教育訓練給付金の額を差し引いた額</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -1299,7 +1334,7 @@
                   <Sentence>受給資格者及び当該受給資格者と同一の世帯に属する者が母子家庭高等職業訓練促進給付金の支給の請求をする月の属する年度（四月から七月までに当該母子家庭高等職業訓練促進給付金の支給の請求をする場合にあつては、前年度）分の地方税法（昭和二十五年法律第二百二十六号）の規定による市町村民税（同法の規定による特別区民税を含むものとし、同法第三百二十八条の規定によつて課する所得割を除く。次条第四項第一号において同じ。）が課されない者（市町村（特別区を含む。）の条例で定めるところにより当該市町村民税を免除された者、法第三十一条に規定する母子家庭自立支援給付金に係る所得がないものとした場合に当該市町村民税が課されないこととなる者及び地方税法第二百九十二条第一項第十一号イ中「夫と死別し、若しくは夫と離婚した後婚姻をしていない者又は夫の生死の明らかでない者で政令で定めるもの」とあるのを「婚姻によらないで母となつた女子であつて、現に婚姻をしていないもの」と読み替えた場合に同法第二百九十五条第一項の規定により当該市町村民税が課されないこととなる者を含むものとし、当該市町村民税の賦課期日において同法の施行地に住所を有しない者を除く。次条第四項第一号において同じ。）</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>月額十万円</Sentence>
+                  <Sentence>月額十万円（第一項の養成機関における課程の修了までの期間の最後の十二月については、月額十四万円）</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -1310,7 +1345,7 @@
                   <Sentence>前号に掲げる者以外の者</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>月額七万五百円</Sentence>
+                  <Sentence>月額七万五百円（第一項の養成機関における課程の修了までの期間の最後の十二月については、月額十一万五百円）</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -1318,7 +1353,7 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>母子家庭高等職業訓練促進給付金の支給期間は、受給資格者が第一項の養成機関において修業する期間に相当する期間（その期間が三十六月を超えるときは、三十六月）を超えない期間とする。</Sentence>
+              <Sentence>母子家庭高等職業訓練促進給付金の支給期間は、受給資格者が第一項の養成機関において修業する期間に相当する期間（その期間が四十八月を超えるときは、四十八月）を超えない期間とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1507,7 +1542,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第三十一条の六第三項の規定により児童又は配偶者のない男子の二十歳以上である子等（同条第二項の規定による貸付けに係る二十歳以上である者を含む。以下この項において同じ。）に前項に規定する資金を貸し付けることができるのは、当該資金の貸付けを受けていた配偶者のない男子の死亡の際当該児童又は配偶者のない男子の二十歳以上である子等が次の各号のいずれかに該当する場合（生存している母のうちに次の各号の事情のいずれにも該当しない者がある場合を除き、当該資金の貸付けに係る第三十一条の六第四項の保証人がある場合にあつては、その同意があつたときに限る。）とする。</Sentence>
+              <Sentence>法第三十一条の六第三項の規定により児童又は配偶者のない男子の二十歳以上である子等（同条第二項の規定による貸付けに係る二十歳以上である者を含む。以下この項において同じ。）に前項に規定する資金を貸し付けることができるのは、当該資金の貸付けを受けていた配偶者のない男子の死亡の際当該児童又は配偶者のない男子の二十歳以上である子等が次の各号のいずれかに該当する場合（生存している母のうちに次の各号の事情のいずれにも該当しない者がある場合を除き、当該資金の貸付けに係る第三十一条の六第五項の保証人がある場合にあつては、その同意があつたときに限る。）とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1558,6 +1593,16 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="31_4_2">
+          <ArticleCaption>（償還を免除することができる父子福祉貸付金）</ArticleCaption>
+          <ArticleTitle>第三十一条の四の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第三十一条の六第五項に規定する政令で定める資金は、附則第八条第一項に規定する父子臨時児童扶養資金とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="31_5">
           <ArticleCaption>（貸付金額の限度）</ArticleCaption>
           <ArticleTitle>第三十一条の五</ArticleTitle>
@@ -1573,7 +1618,7 @@
                   <Sentence>法第三十一条の六第一項第一号に規定する資金であつて、事業を開始するのに必要なもの（以下「父子事業開始資金」という。）</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>二百八十五万円（母子・父子福祉団体に対して貸し付ける父子事業開始資金については、四百二十九万円）</Sentence>
+                  <Sentence>二百九十三万円（母子・父子福祉団体に対して貸し付ける父子事業開始資金については、四百四十一万円）</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -1584,7 +1629,7 @@
                   <Sentence>法第三十一条の六第一項第一号に規定する資金であつて、事業を継続するのに必要なもの（以下「父子事業継続資金」という。）</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>一回につき百四十三万円</Sentence>
+                  <Sentence>一回につき百四十七万円</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -1617,7 +1662,8 @@
                     <Sentence>大学、高等専門学校又は専修学校に就学する児童（専修学校にあつては、専門課程を履修する児童に限る。）に係る父子修学資金</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>就学期間中月額八万千円（自宅外通学の児童にあつては、九万六千円）</Sentence>
+                    <Sentence Function="main" Num="1">就学期間中月額十万八千五百円（自宅外通学の児童にあつては、十四万六千円）。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、当該児童が大学等修学支援を受けることができるときは、その額から当該児童が受ける大学等修学支援月額に相当する額を控除した額（当該額が零を下回る場合には、零とする。）</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -1639,7 +1685,7 @@
                     <Sentence>専修学校に就学する児童であつて、一般課程を履修するものに係る父子修学資金</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>就学期間中月額四万八千円</Sentence>
+                    <Sentence>就学期間中月額四万九千五百円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -1718,7 +1764,7 @@
                 </Column>
                 <Column Num="2">
                   <Sentence Function="main" Num="1">イからニまでに掲げる期間の区分に応じ、それぞれイからニまでに定める額。</Sentence>
-                  <Sentence Function="proviso" Num="2">ただし、ハに掲げる期間中の父子生活資金の貸付金額の合計額は、二百四十万円を超えることができない。</Sentence>
+                  <Sentence Function="proviso" Num="2">ただし、ハに掲げる期間中の父子生活資金の貸付金額の合計額は、二百五十二万円を超えることができない。</Sentence>
                 </Column>
               </ItemSentence>
               <Subitem1 Num="1">
@@ -1739,7 +1785,7 @@
                     <Sentence>医療又は介護を受けている期間</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>月額十万三千円</Sentence>
+                    <Sentence>月額十万五千円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -1750,7 +1796,7 @@
                     <Sentence>第三十一条第五号に規定する期間（次条第一項において「生活安定貸付期間」という。）</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>月額十万三千円</Sentence>
+                    <Sentence>月額十万五千円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -1761,7 +1807,7 @@
                     <Sentence>失業貸付期間</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>月額十万三千円</Sentence>
+                    <Sentence>月額十万五千円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -1795,14 +1841,14 @@
                   <Sentence>第三十一条第九号に規定する資金（以下「父子就学支度資金」という。）</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>イ又はロに掲げる父子就学支度資金の区分に応じ、それぞれイ又はロに定める額</Sentence>
+                  <Sentence>イからハまでに掲げる父子就学支度資金の区分に応じ、それぞれイからハまでに定める額</Sentence>
                 </Column>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
                   <Column Num="1">
-                    <Sentence>小学校若しくは中学校へ入学する児童、高等学校若しくは専修学校へ入学する児童（配偶者のない男子の二十歳以上である子等を含む。以下この号において同じ。）又は修業施設へ入所する児童に係る父子就学支度資金</Sentence>
+                    <Sentence>小学校若しくは中学校へ入学する児童又は高等学校若しくは専修学校（専門課程を除く。）へ入学する児童（配偶者のない男子の二十歳以上である子等を含む。以下この号において同じ。）に係る父子就学支度資金</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence>十六万円（私立の高等学校又は専修学校の高等課程へ入学する児童にあつては、四十二万円）</Sentence>
@@ -1813,10 +1859,22 @@
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
                   <Column Num="1">
-                    <Sentence>大学、大学院、高等専門学校又は専修学校へ入学する児童（専修学校にあつては、専門課程へ入学する児童に限る。）に係る父子就学支度資金</Sentence>
+                    <Sentence>大学、大学院、高等専門学校又は専修学校（専門課程に限る。以下ロにおいて同じ。）へ入学する児童に係る父子就学支度資金</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>三十八万円（私立の大学、大学院、高等専門学校又は専修学校へ入学する児童（専修学校にあつては、専門課程へ入学する児童に限る。）にあつては、五十九万円）</Sentence>
+                    <Sentence Function="main" Num="1">四十二万円（私立の大学、大学院、高等専門学校又は専修学校へ入学する児童にあつては、五十九万円）。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、当該児童が大学等修学支援法第八条第一項の規定による入学金の減免を受けることができるときは、その額から当該減免の額に相当する額を控除した額</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence>修業施設へ入所する児童に係る父子就学支度資金</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>二十八万二千円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -1907,7 +1965,7 @@
                     <Sentence>知識技能を習得する期間が満了して後一年を経過するまで</Sentence>
                   </TableColumn>
                   <TableColumn>
-                    <Sentence>据置期間経過後六年以内</Sentence>
+                    <Sentence>据置期間経過後二十年以内</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -2040,11 +2098,17 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>父子修学資金、父子修業資金、父子就職支度資金（配偶者のない男子が扶養している児童に係るものに限る。）及び父子就学支度資金の貸付金は、無利子とし、その他の父子福祉資金貸付金については、保証人を立てる場合は、無利子とし、保証人を立てない場合は、据置期間中は無利子とし、据置期間経過後はその利率を年一パーセントとする。</Sentence>
+              <Sentence>父子修学資金又は父子就学支度資金の貸付けを受けた者は、自己又は自己以外の者で当該資金の貸付けにより修学をし、若しくは入学するものが大学等修学支援を受けることとなつたときは、既に交付を受けた貸付金（父子修学資金にあつては当該大学等修学支援の対象となる月分のもの、父子就学支度資金にあつては当該大学等修学支援の対象となる入学に係るものに限る。以下この項において同じ。）のうち、その者が受けた大学等修学支援の額に相当する額（当該額が既に交付を受けた貸付金の額を上回る場合には、当該貸付金の額）について、第一項の規定にかかわらず、当該大学等修学支援を受けた日から六月以内に償還しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>父子修学資金、父子修業資金、父子就職支度資金（配偶者のない男子が扶養している児童に係るものに限る。）及び父子就学支度資金の貸付金は、無利子とし、その他の父子福祉資金貸付金については、保証人を立てる場合は、無利子とし、保証人を立てない場合は、据置期間中は無利子とし、据置期間経過後はその利率を年一パーセントとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence>父子事業開始資金、父子事業継続資金又は父子住宅資金の貸付金であつて、災害により全壊、流失、半壊、床上浸水又はこれらに準ずる被害を受けた住宅に当該災害の当時居住していた者に対し、当該災害による被害を受けた日から一年以内に貸し付けられるものについては、第一項の規定にかかわらず、その据置期間を、貸付けの日から二年を超えない範囲内において、その者が受けた被害の種類及び程度に応じて厚生労働大臣が定める期間延長することができる。</Sentence>
             </ParagraphSentence>
@@ -2085,10 +2149,10 @@
                     <Sentence>第九条第二項</Sentence>
                   </TableColumn>
                   <TableColumn>
-                    <Sentence>前条第四項</Sentence>
+                    <Sentence>前条第五項</Sentence>
                   </TableColumn>
                   <TableColumn>
-                    <Sentence>第三十一条の六第四項</Sentence>
+                    <Sentence>第三十一条の六第五項</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -2507,10 +2571,10 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>第八条第四項</Sentence>
+                    <Sentence>第八条第五項</Sentence>
                   </TableColumn>
                   <TableColumn>
-                    <Sentence>第三十一条の六第四項</Sentence>
+                    <Sentence>第三十一条の六第五項</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -2834,7 +2898,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法第三十二条第二項の規定により寡婦の被扶養者に前項に規定する資金を貸し付けることができるのは、当該資金の貸付けを受けていた寡婦の死亡の際当該寡婦の被扶養者が次の各号のいずれかに該当する場合（生存している父のうちに次の各号の事情のいずれにも該当しない者がある場合を除き、当該資金の貸付けに係る第三十七条第四項の保証人がある場合にあつては、その同意があつたときに限る。）とする。</Sentence>
+              <Sentence>法第三十二条第二項の規定により寡婦の被扶養者に前項に規定する資金を貸し付けることができるのは、当該資金の貸付けを受けていた寡婦の死亡の際当該寡婦の被扶養者が次の各号のいずれかに該当する場合（生存している父のうちに次の各号の事情のいずれにも該当しない者がある場合を除き、当該資金の貸付けに係る第三十七条第五項の保証人がある場合にあつては、その同意があつたときに限る。）とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2958,7 +3022,7 @@
                   <Sentence>法第三十二条第一項第一号に規定する資金であつて、事業を開始するのに必要なもの（以下「寡婦事業開始資金」という。）</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>二百八十五万円（母子・父子福祉団体に対して貸し付ける寡婦事業開始資金については、四百二十九万円）</Sentence>
+                  <Sentence>二百九十三万円（母子・父子福祉団体に対して貸し付ける寡婦事業開始資金については、四百四十一万円）</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -2969,7 +3033,7 @@
                   <Sentence>法第三十二条第一項第一号に規定する資金であつて、事業を継続するのに必要なもの（以下「寡婦事業継続資金」という。）</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>一回につき百四十三万円</Sentence>
+                  <Sentence>一回につき百四十七万円</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -3001,7 +3065,8 @@
                     <Sentence>大学、高等専門学校又は専修学校に就学する寡婦の被扶養者（専修学校にあつては、専門課程を履修する寡婦の被扶養者に限る。）に係る寡婦修学資金</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>就学期間中月額八万千円（自宅外通学の寡婦の被扶養者にあつては、九万六千円）</Sentence>
+                    <Sentence Function="main" Num="1">就学期間中月額十万八千五百円（自宅外通学の寡婦の被扶養者にあつては、十四万六千円）。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、当該寡婦の被扶養者が大学等修学支援を受けることができるときは、その額から当該寡婦の被扶養者が受ける大学等修学支援月額に相当する額を控除した額（当該額が零を下回る場合には、零とする。）</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -3023,7 +3088,7 @@
                     <Sentence>専修学校に就学する寡婦の被扶養者であつて、一般課程を履修するものに係る寡婦修学資金</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>就学期間中月額四万八千円</Sentence>
+                    <Sentence>就学期間中月額四万九千五百円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -3122,7 +3187,7 @@
                     <Sentence>医療又は介護を受けている期間</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>月額十万三千円</Sentence>
+                    <Sentence>月額十万五千円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -3133,7 +3198,7 @@
                     <Sentence>失業貸付期間</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>月額十万三千円</Sentence>
+                    <Sentence>月額十万五千円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -3167,14 +3232,14 @@
                   <Sentence>第三十二条第八号に規定する資金（以下「寡婦就学支度資金」という。）</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>イ又はロに掲げる寡婦就学支度資金の区分に応じ、それぞれイ又はロに定める額</Sentence>
+                  <Sentence>イからハまでに掲げる寡婦就学支度資金の区分に応じ、それぞれイからハまでに定める額</Sentence>
                 </Column>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
                   <Column Num="1">
-                    <Sentence>高等学校若しくは専修学校へ入学する寡婦の被扶養者又は修業施設へ入所する寡婦の被扶養者に係る寡婦就学支度資金</Sentence>
+                    <Sentence>高等学校又は専修学校（専門課程を除く。）へ入学する寡婦の被扶養者に係る寡婦就学支度資金</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence>十六万円（私立の高等学校又は専修学校の高等課程へ入学する寡婦の被扶養者にあつては、四十二万円）</Sentence>
@@ -3185,10 +3250,22 @@
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
                   <Column Num="1">
-                    <Sentence>大学、大学院、高等専門学校又は専修学校へ入学する寡婦の被扶養者（専修学校にあつては、専門課程へ入学する寡婦の被扶養者に限る。）に係る寡婦就学支度資金</Sentence>
+                    <Sentence>大学、大学院、高等専門学校又は専修学校（専門課程に限る。以下ロにおいて同じ。）へ入学する寡婦の被扶養者に係る寡婦就学支度資金</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>三十八万円（私立の大学、大学院、高等専門学校又は専修学校へ入学する寡婦の被扶養者（専修学校にあつては、専門課程へ入学する寡婦の被扶養者に限る。）にあつては、五十九万円）</Sentence>
+                    <Sentence Function="main" Num="1">四十二万円（私立の大学、大学院、高等専門学校又は専修学校へ入学する寡婦の被扶養者にあつては、五十九万円）。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、当該寡婦の被扶養者が大学等修学支援法第八条第一項の規定による入学金の減免を受けることができるときは、その額から当該減免の額に相当する額を控除した額</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence>修業施設へ入所する寡婦の被扶養者に係る寡婦就学支度資金</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>二十八万二千円</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -3279,7 +3356,7 @@
                     <Sentence>知識技能を習得する期間が満了して後一年を経過するまで</Sentence>
                   </TableColumn>
                   <TableColumn>
-                    <Sentence>据置期間経過後六年以内</Sentence>
+                    <Sentence>据置期間経過後二十年以内</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -3399,11 +3476,17 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>寡婦修学資金、寡婦修業資金及び寡婦就学支度資金の貸付金は、無利子とし、その他の寡婦福祉資金貸付金については、保証人を立てる場合は、無利子とし、保証人を立てない場合は、据置期間中は無利子とし、据置期間経過後はその利率を年一パーセントとする。</Sentence>
+              <Sentence>寡婦修学資金又は寡婦就学支度資金の貸付けを受けた者は、自己又は自己以外の者で当該資金の貸付けにより修学をし、若しくは入学するものが大学等修学支援を受けることとなつたときは、既に交付を受けた貸付金（寡婦修学資金にあつては当該大学等修学支援の対象となる月分のもの、寡婦就学支度資金にあつては当該大学等修学支援の対象となる入学に係るものに限る。以下この項において同じ。）のうち、その者が受けた大学等修学支援の額に相当する額（当該額が既に交付を受けた貸付金の額を上回る場合には、当該貸付金の額）について、第一項の規定にかかわらず、当該大学等修学支援を受けた日から六月以内に償還しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>寡婦修学資金、寡婦修業資金及び寡婦就学支度資金の貸付金は、無利子とし、その他の寡婦福祉資金貸付金については、保証人を立てる場合は、無利子とし、保証人を立てない場合は、据置期間中は無利子とし、据置期間経過後はその利率を年一パーセントとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence>寡婦事業開始資金、寡婦事業継続資金又は寡婦住宅資金の貸付金であつて、災害により全壊、流失、半壊、床上浸水又はこれらに準ずる被害を受けた住宅に当該災害の当時居住していた者に対し、当該災害による被害を受けた日から一年以内に貸し付けられるものについては、第一項の規定にかかわらず、その据置期間を、貸付けの日から二年を超えない範囲内において、その者が受けた被害の種類及び程度に応じて厚生労働大臣が定める期間延長することができる。</Sentence>
             </ParagraphSentence>
@@ -3444,10 +3527,10 @@
                     <Sentence>第九条第二項</Sentence>
                   </TableColumn>
                   <TableColumn>
-                    <Sentence>前条第四項</Sentence>
+                    <Sentence>前条第五項</Sentence>
                   </TableColumn>
                   <TableColumn>
-                    <Sentence>第三十七条第四項</Sentence>
+                    <Sentence>第三十七条第五項</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -3882,10 +3965,10 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>第八条第四項</Sentence>
+                    <Sentence>第八条第五項</Sentence>
                   </TableColumn>
                   <TableColumn>
-                    <Sentence>第三十七条第四項</Sentence>
+                    <Sentence>第三十七条第五項</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -4100,7 +4183,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法附則第三条第一項の規定により都道府県が貸し付けることができる資金は、第七条第三号に規定する母子修学資金、同条第五号に規定する母子修業資金、同条第六号に規定する母子就職支度資金及び同条第十一号に規定する母子就学支度資金とする。</Sentence>
+            <Sentence>法附則第三条第一項の規定により都道府県が貸し付けることができる資金は、第七条第三号に規定する母子修学資金、同条第五号に規定する母子修業資金、同条第六号に規定する母子就職支度資金及び同条第十一号に規定する母子就学支度資金並びに附則第七条第一項に規定する母子臨時児童扶養等資金とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4188,14 +4271,155 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="7">
+        <ArticleCaption>（母子臨時児童扶養等資金）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>都道府県は、平成三十一年十一月一日から平成三十二年一月三十一日までの間、法第六条第一項の配偶者のない女子で現に児童を扶養するものであつて、次の各号のいずれにも該当するもの又は次の各号のいずれにも該当する者に扶養される法附則第三条第一項に規定する父母のない児童に対し、児童の扶養又は生活の安定と向上に必要な資金（以下この条において「母子臨時児童扶養等資金」という。）を貸し付けることができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>平成三十一年七月三十一日までに児童扶養手当法第六条第一項の規定による認定の請求をした者であること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>母子臨時児童扶養等資金の貸付けの申請の際現に児童扶養手当の支給を受けている者であること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>平成三十一年八月分の児童扶養手当の額が、同年十一月分の児童扶養手当の額に相当する額未満であること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>母子臨時児童扶養等資金の額は、平成三十一年十一月分の児童扶養手当の額に相当する額に三を乗じて得た額から同年十月分の児童扶養手当の額に相当する額に三を乗じて得た額を控除した額を超えることはできない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>母子臨時児童扶養等資金の据置期間及び償還期限は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>据置期間</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>貸付けの日から六箇月間</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>償還期限</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>据置期間経過後三年以内</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>母子臨時児童扶養等資金の貸付金は、無利子とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法附則第三条第一項の父母のない児童が母子臨時児童扶養等資金の貸付けを受けようとする場合は、保証人を立てなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">都道府県は、母子臨時児童扶養等資金の貸付けを受けた者の前年の所得の額が児童扶養手当法施行令第二条の四第一項の定めるところにより算定される額未満である場合は、第三項の規定にかかわらず、その据置期間を、当該貸付けに係る児童が十八歳に達した日以後の最初の三月三十一日（同令別表第一に定める程度の障害の状態にある児童にあつては、二十歳に達した日）の翌日から起算して六箇月を経過するまでの範囲内において、二年以内の期間を定めて延長することができる。</Sentence>
+            <Sentence Num="2">当該延長に係る据置期間の経過後、これを更に延長しようとするときも、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>都道府県は、母子臨時児童扶養等資金に係る償還金の支払期日において、当該貸付けに係る児童（二十歳に達した者を含む。）が小学校、中学校、高等学校、大学、大学院、高等専門学校又は専修学校に就学しているときには、第三項の規定にかかわらず、当該母子臨時児童扶養等資金の貸付けを受けた者に対し、償還金の支払を猶予することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により償還金の支払が猶予されたときは、母子臨時児童扶養等資金の利子の計算については、その償還金の支払によつて償還されるべきであつた母子臨時児童扶養等資金は、猶予前の支払期日に償還されたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="9">
+          <ParagraphNum>９</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第八条第二項及び第三項、第九条第二項、第十六条（第一号及び第二号に係る部分に限る。）、第十七条、第十九条、第二十条並びに第二十二条から第二十四条までの規定は、母子臨時児童扶養等資金の貸付け又は償還について準用する。</Sentence>
+            <Sentence Num="2">この場合において、同項中「前条第五項及び前項」とあるのは「附則第七条第五項」と、第十六条及び第十九条第一項中「第八条第一項及び第四項」とあるのは「附則第七条第三項」と、第二十条中「第八条第五項若しくは第九条第一項の保証人又は当該母子福祉資金貸付金の貸付けを受けた者と連帯して償還の債務を負担した、若しくは負担する借主」とあるのは「附則第七条第五項の保証人」と、「当該保証人又は当該借主」とあるのは「当該保証人」と、第二十三条中「第三条から前条まで」とあるのは「第八条第二項及び第三項、第十六条（第一号及び第二号に係る部分に限る。）、第十七条、第十九条、第二十条並びに第二十二条並びに附則第七条第一項から第八項まで」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（父子臨時児童扶養資金）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>都道府県は、平成三十一年十一月一日から平成三十二年一月三十一日までの間、法第六条第二項の配偶者のない男子で現に児童を扶養するものであつて、次の各号のいずれにも該当するものに対し、児童の扶養に必要な資金（以下この条において「父子臨時児童扶養資金」という。）を貸し付けることができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>平成三十一年七月三十一日までに児童扶養手当法第六条第一項の規定による認定の請求をした者であること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>父子臨時児童扶養資金の貸付けの申請の際現に児童扶養手当の支給を受けている者であること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>平成三十一年八月分の児童扶養手当の額が、同年十一月分の児童扶養手当の額に相当する額未満であること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>父子臨時児童扶養資金については、前条第二項から第四項まで及び第六項から第八項までの規定を準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第十六条（第一号及び第二号に係る部分に限る。）、第十七条、第十九条、第二十二条から第二十四条まで並びに第三十一条の六第二項及び第三項の規定は、父子臨時児童扶養資金の貸付け又は償還について準用する。</Sentence>
+            <Sentence Num="2">この場合において、第十六条及び第十九条第一項中「第八条第一項及び第四項」とあるのは「附則第八条第二項において準用する附則第七条第三項」と、第二十三条中「第三条から前条まで」とあるのは「第十六条（第一号及び第二号に係る部分に限る。）、第十七条、第十九条、第二十二条並びに第三十一条の六第二項及び第三項並びに附則第八条第一項及び第二項」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和四〇年三月一五日政令第二三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence Num="1">この政令は、公布の日から施行する。</Sentence>
-          <Sentence Num="2">ただし、第一条の次に一条を加える改正規定及び第六条第七号の改正規定は、昭和四十年四月一日から施行する。</Sentence>
+          <Sentence Function="main" Num="1">この政令は、公布の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第一条の次に一条を加える改正規定及び第六条第七号の改正規定は、昭和四十年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -4204,8 +4428,8 @@
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence Num="1">この政令は、昭和四十一年四月一日から施行する。</Sentence>
-          <Sentence Num="2">ただし、第六条第十号の改正規定は、公布の日から施行する。</Sentence>
+          <Sentence Function="main" Num="1">この政令は、昭和四十一年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第六条第十号の改正規定は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -4327,8 +4551,8 @@
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence Num="1">この政令は、公布の日から施行する。</Sentence>
-          <Sentence Num="2">ただし、第六条第三号の改正規定は、昭和五十四年十月一日から施行する。</Sentence>
+          <Sentence Function="main" Num="1">この政令は、公布の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第六条第三号の改正規定は、昭和五十四年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -4426,8 +4650,8 @@
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1">この政令は、公布の日から施行する。</Sentence>
-          <Sentence Num="2">ただし、第一条の規定（児童福祉法施行令第十八条の二の改正規定を除く。）、第二条、第三条、第八条及び第九条の規定並びに第十条の規定（地方自治法施行令第百七十四条の二十六第一項及び第三項の改正規定、同項の次に一項を加える改正規定並びに第百七十四条の二十七第二項、第百七十四条の三十一第二項及び第百七十四条の四十二第二号の改正規定に限る。）は、地方公共団体の事務に係る国の関与等の整理、合理化等に関する法律附則第一条第五号に定める日（昭和六十一年一月十二日）から施行する。</Sentence>
+          <Sentence Function="main" Num="1">この政令は、公布の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第一条の規定（児童福祉法施行令第十八条の二の改正規定を除く。）、第二条、第三条、第八条及び第九条の規定並びに第十条の規定（地方自治法施行令第百七十四条の二十六第一項及び第三項の改正規定、同項の次に一項を加える改正規定並びに第百七十四条の二十七第二項、第百七十四条の三十一第二項及び第百七十四条の四十二第二号の改正規定に限る。）は、地方公共団体の事務に係る国の関与等の整理、合理化等に関する法律附則第一条第五号に定める日（昭和六十一年一月十二日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -4572,8 +4796,8 @@
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1">この政令は、平成六年四月一日から施行する。</Sentence>
-          <Sentence Num="2">ただし、第一条中第二十三条の二の改正規定（「第十五条の二」を「第十四条」に改める部分を除く。）及び第二十九条の二の改正規定（同条を第三十条とする部分を除く。）は、同年一月一日から施行する。</Sentence>
+          <Sentence Function="main" Num="1">この政令は、平成六年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第一条中第二十三条の二の改正規定（「第十五条の二」を「第十四条」に改める部分を除く。）及び第二十九条の二の改正規定（同条を第三十条とする部分を除く。）は、同年一月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="2">
@@ -5384,6 +5608,38 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二九日政令第一一七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、平成三十一年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第九七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令による改正後の母子及び父子並びに寡婦福祉法施行令（以下「新令」という。）第八条第四項、第三十一条の六第四項及び第三十七条第四項の規定は、この政令の施行の日（以下「施行日」という。）前に交付を受けた母子修学資金及び母子就学支度資金、父子修学資金及び父子就学支度資金並びに寡婦修学資金及び寡婦就学支度資金の貸付金のうち、当該資金の貸付けを受けた者又はその者以外の者で当該資金の貸付けにより修学をし、若しくは入学するものが施行日以後に受ける大学等における修学の支援に関する法律（令和元年法律第八号）第三条に規定する大学等における修学の支援の額に相当する額についても適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>新令第十七条（母子及び父子並びに寡婦福祉法施行令第十八条第二項（新令第三十一条の七及び第三十八条において準用する場合を含む。以下この項において同じ。）並びに新令第三十一条の七及び第三十八条において準用する場合を含む。）の規定は、新令第十七条（新令第三十一条の七及び第三十八条において準用する場合を含む。）に規定する違約金及び母子及び父子並びに寡婦福祉法施行令第十八条第二項において準用する新令第十七条の規定による徴収金のうち施行日以後の期間に対応するものの額の計算について適用し、当該違約金及び徴収金のうち施行日前の期間に対応するものの額の計算については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

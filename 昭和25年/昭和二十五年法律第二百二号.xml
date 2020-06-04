@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="202" Year="25">
+<Law DataInfo="200601e04k09m02" Era="Showa" Lang="ja" LawType="Act" Num="202" Year="25">
   <LawNum>昭和二十五年法律第二百二号</LawNum>
   <LawBody>
     <LawTitle>建築士法</LawTitle>
@@ -349,7 +349,7 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>一級建築士、二級建築士又は木造建築士は、第九条第一項又は第十条第一項の規定によりその免許を取り消されたときは、速やかに、一級建築士にあつては一級建築士免許証を国土交通大臣に、二級建築士又は木造建築士にあつては二級建築士免許証又は木造建築士免許証をその交付を受けた都道府県知事に返納しなければならない。</Sentence>
+              <Sentence>一級建築士、二級建築士又は木造建築士は、第九条第一項若しくは第二項又は第十条第一項の規定によりその免許を取り消されたときは、速やかに、一級建築士にあつては一級建築士免許証を国土交通大臣に、二級建築士又は木造建築士にあつては二級建築士免許証又は木造建築士免許証をその交付を受けた都道府県知事に返納しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -420,30 +420,23 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>成年被後見人又は被保佐人</Sentence>
+                <Sentence>禁錮以上の刑に処せられ、その刑の執行を終わり、又は執行を受けることがなくなつた日から五年を経過しない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>禁<Ruby>錮<Rt>こ</Rt>
-</Ruby>以上の刑に処せられ、その刑の執行を終わり、又は執行を受けることがなくなつた日から五年を経過しない者</Sentence>
+                <Sentence>この法律の規定に違反して、又は建築物の建築に関し罪を犯して罰金の刑に処せられ、その刑の執行を終わり、又は執行を受けることがなくなつた日から五年を経過しない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence>この法律の規定に違反して、又は建築物の建築に関し罪を犯して罰金の刑に処せられ、その刑の執行を終わり、又は執行を受けることがなくなつた日から五年を経過しない者</Sentence>
+                <Sentence>第九条第一項第四号又は第十条第一項の規定により免許を取り消され、その取消しの日から起算して五年を経過しない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence>第九条第一項第四号又は第十条第一項の規定により免許を取り消され、その取消しの日から起算して五年を経過しない者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="6">
-              <ItemTitle>六</ItemTitle>
               <ItemSentence>
                 <Sentence>第十条第一項の規定による業務の停止の処分を受け、その停止の期間中に第九条第一項第一号の規定によりその免許が取り消され、まだその期間が経過しない者</Sentence>
               </ItemSentence>
@@ -461,14 +454,19 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>禁<Ruby>錮<Rt>こ</Rt>
-</Ruby>以上の刑に処せられた者（前条第三号に該当する者を除く。）</Sentence>
+                <Sentence>禁錮以上の刑に処せられた者（前条第二号に該当する者を除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>この法律の規定に違反して、又は建築物の建築に関し罪を犯して罰金の刑に処せられた者（前条第四号に該当する者を除く。）</Sentence>
+                <Sentence>この法律の規定に違反して、又は建築物の建築に関し罪を犯して罰金の刑に処せられた者（前条第三号に該当する者を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>心身の故障により一級建築士、二級建築士又は木造建築士の業務を適正に行うことができない者として国土交通省令で定めるもの</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -496,10 +494,10 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>第七条第二号に該当するに至つたとき</Sentence>
+                  <Sentence>第七条第二号又は第三号に該当するに至つたとき</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>その後見人又は保佐人</Sentence>
+                  <Sentence>本人</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -507,10 +505,10 @@
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>第七条第三号又は第四号に該当するに至つたとき</Sentence>
+                  <Sentence>心身の故障により一級建築士、二級建築士又は木造建築士の業務を適正に行うことができない場合に該当するものとして国土交通省令で定める場合に該当するに至つたとき</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>本人</Sentence>
+                  <Sentence>本人又はその法定代理人若しくは同居の親族</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -533,13 +531,13 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>前条の規定による届出があつたとき。</Sentence>
+                <Sentence>前条（第三号に係る部分を除く。次号において同じ。）の規定による届出があつたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>前条の規定による届出がなくて同条各号に掲げる場合のいずれかに該当する事実が判明したとき。</Sentence>
+                <Sentence>前条の規定による届出がなくて同条第一号又は第二号に掲げる場合に該当する事実が判明したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
@@ -558,7 +556,25 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>国土交通大臣又は都道府県知事は、前項の規定により免許を取り消したときは、国土交通省令で定めるところにより、その旨を公告しなければならない。</Sentence>
+              <Sentence>国土交通大臣又は都道府県知事は、その免許を受けた一級建築士又は二級建築士若しくは木造建築士が次の各号のいずれかに該当する場合においては、当該一級建築士又は二級建築士若しくは木造建築士の免許を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>前条（第三号に係る部分に限る。次号において同じ。）の規定による届出があつたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>前条の規定による届出がなくて同条第三号に掲げる場合に該当する事実が判明したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国土交通大臣又は都道府県知事は、前二項の規定により免許を取り消したときは、国土交通省令で定めるところにより、その旨を公告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -696,7 +712,7 @@
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>構造設計一級建築士又は設備設計一級建築士は、第九条第一項又は第十条第一項の規定によりその免許を取り消されたときは、速やかに、構造設計一級建築士証又は設備設計一級建築士証を国土交通大臣に返納しなければならない。</Sentence>
+              <Sentence>構造設計一級建築士又は設備設計一級建築士は、第九条第一項若しくは第二項又は第十条第一項の規定によりその免許を取り消されたときは、速やかに、構造設計一級建築士証又は設備設計一級建築士証を国土交通大臣に返納しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
@@ -1174,26 +1190,25 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>成年被後見人又は被保佐人</Sentence>
+                <Sentence>破産手続開始の決定を受けて復権を得ない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>破産手続開始の決定を受けて復権を得ない者</Sentence>
+                <Sentence>禁錮以上の刑に処せられ、又はこの法律の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して二年を経過しない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence>禁<Ruby>錮<Rt>こ</Rt>
-</Ruby>以上の刑に処せられ、又はこの法律の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して二年を経過しない者</Sentence>
+                <Sentence>第十条の三十六第一項又は第二項の規定により登録を取り消され、その取消しの日から起算して二年を経過しない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>第十条の三十六第一項又は第二項の規定により登録を取り消され、その取消しの日から起算して二年を経過しない者</Sentence>
+                <Sentence>心身の故障により講習事務を適正に行うことができない者として国土交通省令で定めるもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
@@ -1484,7 +1499,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>国土交通大臣は、登録講習機関が第十条の二十三各号（第一号及び第五号を除く。）のいずれかに該当するに至つたときは、その登録を取り消さなければならない。</Sentence>
+              <Sentence>国土交通大臣は、登録講習機関が第十条の二十三各号（第一号及び第四号を除く。）のいずれかに該当するに至つたときは、その登録を取り消さなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -2156,7 +2171,7 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1">第十条の二十三、第十条の二十四、第十条の二十五第一項及び第十条の二十六の規定は前条の登録に、第十条の二十五第二項及び第三項並びに第十条の二十七から第十条の三十八までの規定は登録講習機関について準用する。</Sentence>
-              <Sentence Num="2">この場合において、第十条の二十四第一項第一号中「別表第一の各項の講習の欄」とあるのは「別表第二の各項の講習の欄」と、「講習事務」とあるのは「第二十二条の二の講習の実施に関する事務（以下「講習事務」という。）」と読み替えるものとする。</Sentence>
+              <Sentence Num="2">この場合において、第十条の二十三第五号中「講習事務」とあるのは「第二十二条の二の講習の実施に関する事務（以下「講習事務」という。）」と、第十条の二十四第一項第一号中「別表第一の各項の講習の欄」とあるのは「別表第二の各項の講習の欄」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -2406,7 +2421,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>第七条第二号から第五号までのいずれかに該当する者</Sentence>
+                <Sentence>第七条第二号から第四号までのいずれかに該当する者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -2424,29 +2439,35 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>暴力団員による不当な行為の防止等に関する法律（平成三年法律第七十七号）第二条第六号に規定する暴力団員又は同号に規定する暴力団員でなくなつた日から五年を経過しない者（第八号において「暴力団員等」という。）</Sentence>
+                <Sentence>暴力団員による不当な行為の防止等に関する法律（平成三年法律第七十七号）第二条第六号に規定する暴力団員又は同号に規定する暴力団員でなくなつた日から五年を経過しない者（第九号において「暴力団員等」という。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence>営業に関し成年者と同一の行為能力を有しない未成年者でその法定代理人（法定代理人が法人である場合においては、その役員を含む。）が前各号のいずれかに該当するもの</Sentence>
+                <Sentence>心身の故障により建築士事務所の業務を適正に行うことができない者として国土交通省令で定めるもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence>法人でその役員のうちに第一号から第五号までのいずれかに該当する者のあるもの</Sentence>
+                <Sentence>営業に関し成年者と同一の行為能力を有しない未成年者でその法定代理人（法定代理人が法人である場合においては、その役員を含む。）が前各号のいずれかに該当するもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence>暴力団員等がその事業活動を支配する者</Sentence>
+                <Sentence>法人でその役員のうちに第一号から第六号までのいずれかに該当する者のあるもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence>暴力団員等がその事業活動を支配する者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
               <ItemSentence>
                 <Sentence>建築士事務所について第二十四条第一項及び第二項に規定する要件を欠く者</Sentence>
               </ItemSentence>
@@ -2460,7 +2481,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>第八条各号のいずれかに該当する者</Sentence>
+                <Sentence>第八条第一号又は第二号のいずれかに該当する者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -2944,7 +2965,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>第二十三条の四第一項第一号、第二号、第五号、第六号（同号に規定する未成年者でその法定代理人（法定代理人が法人である場合においては、その役員を含む。）が同項第四号に該当するものに係る部分を除く。）、第七号（法人でその役員のうちに同項第四号に該当する者のあるものに係る部分を除く。）、第八号又は第九号のいずれかに該当するに至つたとき。</Sentence>
+                <Sentence>第二十三条の四第一項第一号、第二号、第五号、第六号、第七号（同号に規定する未成年者でその法定代理人（法定代理人が法人である場合においては、その役員を含む。）が同項第四号に該当するものに係る部分を除く。）、第八号（法人でその役員のうちに同項第四号に該当する者のあるものに係る部分を除く。）、第九号又は第十号のいずれかに該当するに至つたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -3101,7 +3122,7 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1">第十条の二十三、第十条の二十四、第十条の二十五第一項及び第十条の二十六の規定は登録に、第十条の二十五第二項及び第三項並びに第十条の二十七から第十条の三十八までの規定は登録講習機関について準用する。</Sentence>
-              <Sentence Num="2">この場合において、第十条の二十四第一項第一号中「別表第一の各項の講習の欄」とあるのは「別表第三講習の欄」と、「講習事務」とあるのは「第二十四条第二項の講習の実施に関する事務（以下「講習事務」という。）」と、同条第二項中「次に掲げる事項」とあるのは「次に掲げる事項（登録の区分に関する事項を除く。）」と読み替えるものとする。</Sentence>
+              <Sentence Num="2">この場合において、第十条の二十三第五号中「講習事務」とあるのは「第二十四条第二項の講習の実施に関する事務（以下「講習事務」という。）」と、第十条の二十四第一項第一号中「別表第一の各項の講習の欄」とあるのは「別表第三講習の欄」と、同条第二項中「次に掲げる事項」とあるのは「次に掲げる事項（登録の区分に関する事項を除く。）」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3436,7 +3457,7 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>第十条の三十六第二項（第二十二条の三第二項及び第二十六条の五第二項において準用する場合を含む。）の規定による講習事務（第十条の二十二に規定する講習事務、第二十二条の三第二項において読み替えて準用する第十条の二十四第一項第一号に規定する講習事務及び第二十六条の五第二項において読み替えて準用する第十条の二十四第一項第一号に規定する講習事務をいう。第四十一条第八号において同じ。）の停止の命令に違反した者</Sentence>
+                <Sentence>第十条の三十六第二項（第二十二条の三第二項及び第二十六条の五第二項において準用する場合を含む。）の規定による講習事務（第十条の二十二に規定する講習事務、第二十二条の三第二項において読み替えて準用する第十条の二十三第五号に規定する講習事務及び第二十六条の五第二項において読み替えて準用する第十条の二十三第五号に規定する講習事務をいう。第四十一条第八号において同じ。）の停止の命令に違反した者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
@@ -3694,7 +3715,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>第五条第四項（第十条の十九第一項及び第十条の二十一第一項の規定により読み替えて適用される場合を含む。）、第八条の二、第十条の二の二第五項（第十条の十九第一項の規定により読み替えて適用される場合を含む。）、第二十三条の七（第二十六条の四第一項の規定により読み替えて適用される場合を含む。）又は第二十四条の七第二項の規定に違反した者</Sentence>
+                <Sentence>第五条第四項（第十条の十九第一項及び第十条の二十一第一項の規定により読み替えて適用される場合を含む。）、第八条の二（第三号を除く。）、第十条の二の二第五項（第十条の十九第一項の規定により読み替えて適用される場合を含む。）、第二十三条の七（第二十六条の四第一項の規定により読み替えて適用される場合を含む。）又は第二十四条の七第二項の規定に違反した者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -5018,6 +5039,78 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>前二条に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第四十条、第五十九条、第六十一条、第七十五条（児童福祉法第三十四条の二十の改正規定に限る。）、第八十五条、第百二条、第百七条（民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律第二十六条の改正規定に限る。）、第百十一条、第百四十三条、第百四十九条、第百五十二条、第百五十四条（不動産の鑑定評価に関する法律第二十五条第六号の改正規定に限る。）及び第百六十八条並びに次条並びに附則第三条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第百四十五条（建築基準法第七十七条の十九第七号及び第七十七条の三十五の三第七号の改正規定並びに同法第七十七条の五十九の改正規定（同条第六号中「第七条第五号」を「第七条第四号」に改める部分に限る。）に限る。）及び第百四十六条（建築士法第十条の二十三、第十条の三十六第一項、第二十二条の三第二項、第二十六条の五第二項及び第三十八条第五号の改正規定を除く。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和元年十二月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（行政庁の行為等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（前条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行の日前に、この法律による改正前の法律又はこれに基づく命令の規定（欠格条項その他の権利の制限に係る措置を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、会社法（平成十七年法律第八十六号）及び一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）における法人の役員の資格を成年被後見人又は被保佐人であることを理由に制限する旨の規定について、この法律の公布後一年以内を目途として検討を加え、その結果に基づき、当該規定の削除その他の必要な法制上の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

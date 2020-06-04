@@ -113,7 +113,7 @@
           <Item Delete="false" Hide="false" Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">法第四十一条各号に掲げる装置の検査の業務組織及び実施要領を記載した書面</Sentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項各号に掲げる装置の検査の業務組織及び実施要領を記載した書面</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="6">
@@ -248,7 +248,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第三条第一項の規定により機構に提示された自動車又は前条第一項の申請に係る自動車の構造、装置及び性能が、法第四十条各号に掲げる事項ごと及び法第四十一条各号に掲げる装置ごとに保安基準に適合すること。</Sentence>
+              <Sentence WritingMode="vertical">第三条第一項の規定により機構に提示された自動車又は前条第一項の申請に係る自動車の構造、装置及び性能が、法第四十条各号に掲げる事項ごと及び法第四十一条第一項各号に掲げる装置ごとに保安基準に適合すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -1280,23 +1280,32 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="令和二年二月六日国土交通省令第六号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
+      <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この省令は、道路運送車両法の一部を改正する法律（以下「改正法」という。）の施行の日（以下「施行日」という。）から施行する。</Sentence>
+            <Sentence WritingMode="vertical">この省令は、道路運送車両法の一部を改正する法律（以下「改正法」という。）の施行の日（以下「施行日」という。）から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日国土交通省令第二〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、道路運送車両法の一部を改正する法律の施行の日（令和二年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第一号様式　（自動車型式指定申請書）</AppdxStyleTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000085_2003051003_001.pdf"/>
+          <Fig src="./pict/S26F03901000085_2005221605_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1305,7 +1314,7 @@
       <RelatedArticleNum>（第三条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000085_2003051003_002.pdf"/>
+          <Fig src="./pict/S26F03901000085_2005221605_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1314,7 +1323,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000085_2003051003_003.pdf"/>
+          <Fig src="./pict/S26F03901000085_2005221605_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1323,7 +1332,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000085_2003051003_004.pdf"/>
+          <Fig src="./pict/S26F03901000085_2005221605_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1332,7 +1341,7 @@
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000085_2003051003_005.pdf"/>
+          <Fig src="./pict/S26F03901000085_2005221605_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1341,7 +1350,7 @@
       <RelatedArticleNum>（第十二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S26F03901000085_2003051003_006.pdf"/>
+          <Fig src="./pict/S26F03901000085_2005221605_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

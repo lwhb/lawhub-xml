@@ -178,13 +178,25 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="2_2">
-        <ArticleCaption>（特別の許可及び承認の申請手続）</ArticleCaption>
+        <ArticleCaption>（特別の許可及び承認の申請手続等）</ArticleCaption>
         <ArticleTitle>第二条の二</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">経済産業大臣は、必要があるときは、法第四十八条第一項の規定による経済産業大臣の許可又は令第二条第一項の規定による経済産業大臣の承認を受ける手続について、第一条の規定にかかわらず、特別な手続を定めることができる。</Sentence>
+            <Sentence WritingMode="vertical">経済産業大臣は、必要があるときは、次の各号に掲げる手続について、この省令の規定にかかわらず、特別な手続を定めることができる。</Sentence>
           </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十八条第一項の規定による経済産業大臣の許可又は令第二条第一項の規定による経済産業大臣の承認を受ける手続</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第一条の三の規定による経済産業大臣への届出の手続</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="3">
@@ -974,6 +986,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三〇日経済産業省令第四三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <TableStruct>
@@ -981,7 +1002,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S24F03801000064_2001241101_001.pdf"/>
+                <Fig src="./pict/S24F03801000064_2005251105_001.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -995,7 +1016,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S24F03801000064_2001241101_002.pdf"/>
+                <Fig src="./pict/S24F03801000064_2005251105_002.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -1009,7 +1030,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S24F03801000064_2001241101_003.pdf"/>
+                <Fig src="./pict/S24F03801000064_2005251105_003.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -1023,7 +1044,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S24F03801000064_2001241101_004.pdf"/>
+                <Fig src="./pict/S24F03801000064_2005251105_004.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -1037,7 +1058,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S24F03801000064_2001241101_005.pdf"/>
+                <Fig src="./pict/S24F03801000064_2005251105_005.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -1051,7 +1072,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S24F03801000064_2001241101_006.pdf"/>
+                <Fig src="./pict/S24F03801000064_2005251105_006.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -1065,7 +1086,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S24F03801000064_2001241101_007.pdf"/>
+                <Fig src="./pict/S24F03801000064_2005251105_007.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -1082,7 +1103,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S24F03801000064_2001241101_008.pdf"/>
+                <Fig src="./pict/S24F03801000064_2005251105_008.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>

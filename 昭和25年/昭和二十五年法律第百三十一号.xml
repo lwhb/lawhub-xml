@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Law DataInfo="190624e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="131" Year="25">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law DataInfo="190729e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="131" Year="25">
   <LawNum>昭和二十五年法律第百三十一号</LawNum>
   <LawBody>
     <LawTitle>電波法</LawTitle>
@@ -846,7 +846,7 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>免許を受けようとする者が放送法第九十三条第一項第四号に掲げる要件に該当すること。</Sentence>
+                    <Sentence>免許を受けようとする者が放送法第九十三条第一項第五号に掲げる要件に該当すること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
@@ -859,7 +859,7 @@
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>地上基幹放送の業務を行うことについて放送法第九十三条第一項の規定により認定を受けようとする者の当該業務に用いられる無線局にあつては、当該認定を受けようとする者が同項各号に掲げる要件のいずれにも該当すること。</Sentence>
+                  <Sentence>地上基幹放送の業務を行うことについて放送法第九十三条第一項の規定により認定を受けようとする者の当該業務に用いられる無線局にあつては、当該認定を受けようとする者が同項各号（第四号を除く。）に掲げる要件のいずれにも該当すること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
@@ -14227,6 +14227,37 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月五日法律第二三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二十四条、第八十八条、第九十三条第一項、第九十六条第二項、第百三条、第百四条第二号及び第三号、第百十六条第一項から第四項まで、第百六十一条第二項、第百六十二条並びに第百七十七条第一項第五号の改正規定並びに附則第六条及び第十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二十四条の二関係）</RelatedArticleNum>
@@ -14432,21 +14463,16 @@
       <TableStruct>
         <Table>
           <TableRow>
-            <TableColumn Align="center" Valign="middle" colspan="5">
+            <TableColumn Align="center" colspan="5">
               <Sentence>無線局の区分</Sentence>
             </TableColumn>
-            <TableColumn Align="center" Valign="middle">
+            <TableColumn Align="center">
               <Sentence>金額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" rowspan="16">
-              <Paragraph Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence>移動する無線局（三の項から五の項まで及び八の項に掲げる無線局を除く。二の項において同じ。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+              <Sentence>一　移動する無線局（三の項から五の項まで及び八の項に掲げる無線局を除く。二の項において同じ。）</Sentence>
             </TableColumn>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>四百七十メガヘルツ以下の周波数の電波を使用するもの</Sentence>
@@ -14598,12 +14624,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" rowspan="11">
-              <Paragraph Num="2">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence>移動しない無線局であつて、移動する無線局又は携帯して使用するための受信設備と通信を行うために陸上に開設するもの（六の項及び八の項に掲げる無線局を除く。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+              <Sentence>二　移動しない無線局であつて、移動する無線局又は携帯して使用するための受信設備と通信を行うために陸上に開設するもの（六の項及び八の項に掲げる無線局を除く。）</Sentence>
             </TableColumn>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>四百七十メガヘルツ以下の周波数の電波を使用するもの</Sentence>
@@ -14709,12 +14730,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" rowspan="9">
-              <Paragraph Num="3">
-                <ParagraphNum>三</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence>人工衛星局（八の項に掲げる無線局を除く。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+              <Sentence>三　人工衛星局（八の項に掲げる無線局を除く。）</Sentence>
             </TableColumn>
             <TableColumn Valign="top" colspan="4">
               <Sentence>四百七十メガヘルツ以下の周波数の電波を使用するもの</Sentence>
@@ -14798,12 +14814,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" rowspan="17">
-              <Paragraph Num="4">
-                <ParagraphNum>四</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence>人工衛星局の中継により無線通信を行う無線局（五の項及び八の項に掲げる無線局を除く。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+              <Sentence>四　人工衛星局の中継により無線通信を行う無線局（五の項及び八の項に掲げる無線局を除く。）</Sentence>
             </TableColumn>
             <TableColumn Valign="top" rowspan="16">
               <Sentence>六千メガヘルツ以下の周波数の電波を使用するもの</Sentence>
@@ -14957,12 +14968,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="5">
-              <Paragraph Num="5">
-                <ParagraphNum>五</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence>自動車、船舶その他の移動するものに開設し、又は携帯して使用するために開設する無線局であつて、人工衛星局の中継により無線通信を行うもの（八の項に掲げる無線局を除く。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+              <Sentence>五　自動車、船舶その他の移動するものに開設し、又は携帯して使用するために開設する無線局であつて、人工衛星局の中継により無線通信を行うもの（八の項に掲げる無線局を除く。）</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>二千七百円</Sentence>
@@ -14970,12 +14976,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" rowspan="12">
-              <Paragraph Num="6">
-                <ParagraphNum>六</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence>基幹放送局（三の項、七の項及び八の項に掲げる無線局を除く。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+              <Sentence>六　基幹放送局（三の項、七の項及び八の項に掲げる無線局を除く。）</Sentence>
             </TableColumn>
             <TableColumn Valign="top" rowspan="11">
               <Sentence>六千メガヘルツ以下の周波数の電波を使用するもの</Sentence>
@@ -15092,12 +15093,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2" rowspan="2">
-              <Paragraph Num="7">
-                <ParagraphNum>七</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence>第五条第五項に規定する受信障害対策中継放送をする無線局、多重放送をする無線局及び基幹放送以外の放送をする無線局（三の項及び八の項に掲げる無線局を除く。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+              <Sentence>七　第五条第五項に規定する受信障害対策中継放送をする無線局、多重放送をする無線局及び基幹放送以外の放送をする無線局（三の項及び八の項に掲げる無線局を除く。）</Sentence>
             </TableColumn>
             <TableColumn Valign="top" colspan="3">
               <Sentence>第五条第五項に規定する受信障害対策中継放送をするもの及び多重放送をするもの</Sentence>
@@ -15116,12 +15112,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="5">
-              <Paragraph Num="8">
-                <ParagraphNum>八</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence>実験等無線局及びアマチュア無線局</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+              <Sentence>八　実験等無線局及びアマチュア無線局</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>三百円</Sentence>
@@ -15129,12 +15120,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" rowspan="27">
-              <Paragraph Num="9">
-                <ParagraphNum>九</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence>その他の無線局</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+              <Sentence>九　その他の無線局</Sentence>
             </TableColumn>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>四百七十メガヘルツ以下の周波数の電波を使用するもの</Sentence>
@@ -15386,135 +15372,24 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="6">
-              <Remarks>
-                <RemarksLabel LineBreak="true">備考</RemarksLabel>
-                <Item Num="1">
-                  <ItemTitle>一</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>この表において「設置場所」とは、無線局の無線設備の設置場所をいう。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="2">
-                  <ItemTitle>二</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>この表において「第一地域」とは、東京都の区域（第四地域を除く。）をいう。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="3">
-                  <ItemTitle>三</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>この表において「第二地域」とは、大阪府及び神奈川県の区域（第四地域を除く。）をいう。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="4">
-                  <ItemTitle>四</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>この表において「第三地域」とは、北海道及び京都府並びに神奈川県以外の県の区域（第四地域を除く。）をいう。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="5">
-                  <ItemTitle>五</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>この表において「第四地域」とは、離島振興法（昭和二十八年法律第七十二号）第二条第一項の規定に基づき指定された離島振興対策実施地域、過疎地域自立促進特別措置法（平成十二年法律第十五号）第二条第一項に規定する過疎地域並びに奄美群島振興開発特別措置法（昭和二十九年法律第百八十九号）第一条に規定する奄美群島、小笠原諸島振興開発特別措置法（昭和四十四年法律第七十九号）第四条第一項に規定する小笠原諸島及び沖縄振興特別措置法（平成十四年法律第十四号）第三条第三号に規定する離島の区域をいう。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="6">
-                  <ItemTitle>六</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>この表において「特定地域」とは、岐阜県、愛知県、三重県、滋賀県、京都府、大阪府、兵庫県、奈良県及び和歌山県の区域をいう。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="7">
-                  <ItemTitle>七</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>六千メガヘルツ以下の周波数及び六千メガヘルツを超える周波数のいずれの電波も使用する無線局については、当該無線局が使用する電波のうち六千メガヘルツ以下の周波数の電波のみを使用する無線局とみなして、この表を適用する。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="8">
-                  <ItemTitle>八</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1">四百七十メガヘルツ以下の周波数及び四百七十メガヘルツを超え三千六百メガヘルツ以下の周波数のいずれの電波も使用する無線局については、当該無線局が使用する電波のうち四百七十メガヘルツを超え三千六百メガヘルツ以下の周波数の電波のみを使用する無線局とみなして、この表を適用する。</Sentence>
-                    <Sentence Num="2">この場合において、次のイ及びロに掲げる無線局に係る同表の下欄に掲げる金額は、同欄に掲げる金額にかかわらず、当該金額と当該無線局が使用する電波のうち四百七十メガヘルツ以下の周波数の電波のみを使用する無線局とみなして同表を適用した場合における同表の下欄に掲げる金額とを合算した金額から、当該イ及びロに定める金額を控除した金額とする。</Sentence>
-                  </ItemSentence>
-                  <Subitem1 Num="1">
-                    <Subitem1Title>イ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Column Num="1">
-                        <Sentence>一の項に掲げる無線局</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence>四百円</Sentence>
-                      </Column>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="2">
-                    <Subitem1Title>ロ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Column Num="1">
-                        <Sentence>九の項に掲げる無線局</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence>六百円</Sentence>
-                      </Column>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                </Item>
-                <Item Num="9">
-                  <ItemTitle>九</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1">四百七十メガヘルツ以下の周波数及び三千六百メガヘルツを超え六千メガヘルツ以下の周波数のいずれの電波も使用する無線局については、当該無線局が使用する電波のうち三千六百メガヘルツを超え六千メガヘルツ以下の周波数の電波のみを使用する無線局とみなして、この表を適用する。</Sentence>
-                    <Sentence Num="2">この場合において、九の項に掲げる無線局に係る同表の下欄に掲げる金額は、同欄に掲げる金額にかかわらず、当該金額と当該無線局が使用する電波のうち四百七十メガヘルツ以下の周波数の電波のみを使用する無線局とみなして同表を適用した場合における同表の下欄に掲げる金額とを合算した金額から、六百円を控除した金額とする。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="10">
-                  <ItemTitle>十</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1">四百七十メガヘルツを超え三千六百メガヘルツ以下の周波数及び三千六百メガヘルツを超え六千メガヘルツ以下の周波数のいずれの電波も使用する無線局については、当該無線局が使用する電波のうち四百七十メガヘルツを超え三千六百メガヘルツ以下の周波数の電波のみを使用する無線局とみなして、この表を適用する。</Sentence>
-                    <Sentence Num="2">この場合において、次のイ及びロに掲げる無線局に係る同表の下欄に掲げる金額は、同欄に掲げる金額にかかわらず、当該金額と当該無線局が使用する電波のうち三千六百メガヘルツを超え六千メガヘルツ以下の周波数の電波のみを使用する無線局とみなして同表を適用した場合における同表の下欄に掲げる金額とを合算した金額から、当該イ及びロに定める金額を控除した金額とする。</Sentence>
-                  </ItemSentence>
-                  <Subitem1 Num="1">
-                    <Subitem1Title>イ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Column Num="1">
-                        <Sentence>三の項に掲げる無線局</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence>七千円</Sentence>
-                      </Column>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="2">
-                    <Subitem1Title>ロ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Column Num="1">
-                        <Sentence>九の項に掲げる無線局</Sentence>
-                      </Column>
-                      <Column Num="2">
-                        <Sentence>六百円</Sentence>
-                      </Column>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                </Item>
-                <Item Num="11">
-                  <ItemTitle>十一</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1">前三号の規定にかかわらず、四百七十メガヘルツ以下の周波数、四百七十メガヘルツを超え三千六百メガヘルツ以下の周波数及び三千六百メガヘルツを超え六千メガヘルツ以下の周波数のいずれの電波も使用する無線局については、四百七十メガヘルツを超え三千六百メガヘルツ以下の周波数の電波のみを使用する無線局とみなして、この表を適用する。</Sentence>
-                    <Sentence Num="2">この場合において、一の項に掲げる無線局に係る同表の下欄に掲げる金額は、同欄に掲げる金額にかかわらず、当該金額と、当該無線局が使用する電波のうち四百七十メガヘルツ以下の周波数の電波のみを使用する無線局とみなして同表を適用した場合における同表の下欄に掲げる金額及び当該無線局が使用する電波のうち三千六百メガヘルツを超え六千メガヘルツ以下の周波数の電波のみを使用する無線局とみなして同表を適用した場合における同表の下欄に掲げる金額とを合算した金額から、八百円を控除した金額とする。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="12">
-                  <ItemTitle>十二</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>一の項、二の項及び四の項から六の項までに掲げる無線局のうち広域使用電波を使用する広域開設無線局であるものに係るこの表の下欄に掲げる金額は、同欄に掲げる金額にかかわらず、一の項及び四の項から六の項までに掲げる無線局にあつては四百円、二の項に掲げる無線局にあつては二百円とする。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="13">
-                  <ItemTitle>十三</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>特定の無線局区分の無線局又は高周波利用設備からの混信その他の妨害について許容することが免許の条件又は周波数割当計画における周波数の使用に関する条件とされている無線局その他のこの表をそのまま適用することにより同等の機能を有する他の無線局との均衡を著しく失することとなると認められる無線局として総務省令で定めるものについては、その使用する電波の周波数の幅をこれの二分の一に相当する幅とみなして、同表を適用する。</Sentence>
-                  </ItemSentence>
-                </Item>
-              </Remarks>
+              <Sentence>備考</Sentence>
+              <Sentence>一　この表において「設置場所」とは、無線局の無線設備の設置場所をいう。</Sentence>
+              <Sentence>二　この表において「第一地域」とは、東京都の区域（第四地域を除く。）をいう。</Sentence>
+              <Sentence>三　この表において「第二地域」とは、大阪府及び神奈川県の区域（第四地域を除く。）をいう。</Sentence>
+              <Sentence>四　この表において「第三地域」とは、北海道及び京都府並びに神奈川県以外の県の区域（第四地域を除く。）をいう。</Sentence>
+              <Sentence>五　この表において「第四地域」とは、離島振興法（昭和二十八年法律第七十二号）第二条第一項の規定に基づき指定された離島振興対策実施地域、過疎地域自立促進特別措置法（平成十二年法律第十五号）第二条第一項に規定する過疎地域並びに奄美群島振興開発特別措置法（昭和二十九年法律第百八十九号）第一条に規定する奄美群島、小笠原諸島振興開発特別措置法（昭和四十四年法律第七十九号）第四条第一項に規定する小笠原諸島及び沖縄振興特別措置法（平成十四年法律第十四号）第三条第三号に規定する離島の区域をいう。</Sentence>
+              <Sentence>六　この表において「特定地域」とは、岐阜県、愛知県、三重県、滋賀県、京都府、大阪府、兵庫県、奈良県及び和歌山県の区域をいう。</Sentence>
+              <Sentence>七　六千メガヘルツ以下の周波数及び六千メガヘルツを超える周波数のいずれの電波も使用する無線局については、当該無線局が使用する電波のうち六千メガヘルツ以下の周波数の電波のみを使用する無線局とみなして、この表を適用する。</Sentence>
+              <Sentence>八　四百七十メガヘルツ以下の周波数及び四百七十メガヘルツを超え三千六百メガヘルツ以下の周波数のいずれの電波も使用する無線局については、当該無線局が使用する電波のうち四百七十メガヘルツを超え三千六百メガヘルツ以下の周波数の電波のみを使用する無線局とみなして、この表を適用する。　この場合において、次のイ及びロに掲げる無線局に係る同表の下欄に掲げる金額は、同欄に掲げる金額にかかわらず、当該金額と当該無線局が使用する電波のうち四百七十メガヘルツ以下の周波数の電波のみを使用する無線局とみなして同表を適用した場合における同表の下欄に掲げる金額とを合算した金額から、当該イ及びロに定める金額を控除した金額とする。</Sentence>
+              <Sentence>イ　一の項に掲げる無線局　四百円</Sentence>
+              <Sentence>ロ　九の項に掲げる無線局　六百円</Sentence>
+              <Sentence>九　四百七十メガヘルツ以下の周波数及び三千六百メガヘルツを超え六千メガヘルツ以下の周波数のいずれの電波も使用する無線局については、当該無線局が使用する電波のうち三千六百メガヘルツを超え六千メガヘルツ以下の周波数の電波のみを使用する無線局とみなして、この表を適用する。　この場合において、九の項に掲げる無線局に係る同表の下欄に掲げる金額は、同欄に掲げる金額にかかわらず、当該金額と当該無線局が使用する電波のうち四百七十メガヘルツ以下の周波数の電波のみを使用する無線局とみなして同表を適用した場合における同表の下欄に掲げる金額とを合算した金額から、六百円を控除した金額とする。</Sentence>
+              <Sentence>十　四百七十メガヘルツを超え三千六百メガヘルツ以下の周波数及び三千六百メガヘルツを超え六千メガヘルツ以下の周波数のいずれの電波も使用する無線局については、当該無線局が使用する電波のうち四百七十メガヘルツを超え三千六百メガヘルツ以下の周波数の電波のみを使用する無線局とみなして、この表を適用する。　この場合において、次のイ及びロに掲げる無線局に係る同表の下欄に掲げる金額は、同欄に掲げる金額にかかわらず、当該金額と当該無線局が使用する電波のうち三千六百メガヘルツを超え六千メガヘルツ以下の周波数の電波のみを使用する無線局とみなして同表を適用した場合における同表の下欄に掲げる金額とを合算した金額から、当該イ及びロに定める金額を控除した金額とする。</Sentence>
+              <Sentence>イ　三の項に掲げる無線局　七千円</Sentence>
+              <Sentence>ロ　九の項に掲げる無線局　六百円</Sentence>
+              <Sentence>十一　前三号の規定にかかわらず、四百七十メガヘルツ以下の周波数、四百七十メガヘルツを超え三千六百メガヘルツ以下の周波数及び三千六百メガヘルツを超え六千メガヘルツ以下の周波数のいずれの電波も使用する無線局については、四百七十メガヘルツを超え三千六百メガヘルツ以下の周波数の電波のみを使用する無線局とみなして、この表を適用する。　この場合において、一の項に掲げる無線局に係る同表の下欄に掲げる金額は、同欄に掲げる金額にかかわらず、当該金額と、当該無線局が使用する電波のうち四百七十メガヘルツ以下の周波数の電波のみを使用する無線局とみなして同表を適用した場合における同表の下欄に掲げる金額及び当該無線局が使用する電波のうち三千六百メガヘルツを超え六千メガヘルツ以下の周波数の電波のみを使用する無線局とみなして同表を適用した場合における同表の下欄に掲げる金額とを合算した金額から、八百円を控除した金額とする。</Sentence>
+              <Sentence>十二　一の項、二の項及び四の項から六の項までに掲げる無線局のうち広域使用電波を使用する広域開設無線局であるものに係るこの表の下欄に掲げる金額は、同欄に掲げる金額にかかわらず、一の項及び四の項から六の項までに掲げる無線局にあつては四百円、二の項に掲げる無線局にあつては二百円とする。</Sentence>
+              <Sentence>十三　特定の無線局区分の無線局又は高周波利用設備からの混信その他の妨害について許容することが免許の条件又は周波数割当計画における周波数の使用に関する条件とされている無線局その他のこの表をそのまま適用することにより同等の機能を有する他の無線局との均衡を著しく失することとなると認められる無線局として総務省令で定めるものについては、その使用する電波の周波数の幅をこれの二分の一に相当する幅とみなして、同表を適用する。</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -15749,10 +15624,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="5">
-              <Remarks>
-                <RemarksLabel LineBreak="false">備考</RemarksLabel>
-                <Sentence>広域使用電波のうち、広域開設無線局及び広域開設無線局以外の無線局のいずれにも使用させるものとして総務大臣が指定するものに係るこの表の下欄に掲げる金額は、同欄に掲げる金額にかかわらず、同欄に掲げる金額の二分の一に相当する金額とする。</Sentence>
-              </Remarks>
+              <Sentence>備考　広域使用電波のうち、広域開設無線局及び広域開設無線局以外の無線局のいずれにも使用させるものとして総務大臣が指定するものに係るこの表の下欄に掲げる金額は、同欄に掲げる金額にかかわらず、同欄に掲げる金額の二分の一に相当する金額とする。</Sentence>
             </TableColumn>
           </TableRow>
         </Table>

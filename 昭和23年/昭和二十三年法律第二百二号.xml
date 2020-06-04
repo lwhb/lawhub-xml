@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="202" Year="23">
+<Law DataInfo="190731e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="202" Year="23">
   <LawNum>昭和二十三年法律第二百二号</LawNum>
   <LawBody>
     <LawTitle>歯科医師法</LawTitle>
@@ -32,7 +32,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">未成年者、成年被後見人又は被保佐人には、免許を与えない。</Sentence>
+              <Sentence WritingMode="vertical">未成年者には、免許を与えない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -74,7 +74,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">厚生労働省に歯科医籍を備え、登録年月日、第七条第一項又は第二項の規定による処分に関する事項その他の歯科医師免許に関する事項を登録する。</Sentence>
+              <Sentence WritingMode="vertical">厚生労働省に歯科医籍を備え、登録年月日、第七条第一項の規定による処分に関する事項その他の歯科医師免許に関する事項を登録する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -113,12 +113,6 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">歯科医師が、第三条に該当するときは、厚生労働大臣は、その免許を取り消す。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Hide="false" Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
               <Sentence WritingMode="vertical">歯科医師が第四条各号のいずれかに該当し、又は歯科医師としての品位を損するような行為のあつたときは、厚生労働大臣は、次に掲げる処分をすることができる。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
@@ -140,73 +134,73 @@
               </ItemSentence>
             </Item>
           </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による取消処分を受けた者（第四条第三号若しくは第四号に該当し、又は歯科医師としての品位を損するような行為のあつた者として同項の規定による取消処分を受けた者にあつては、その処分の日から起算して五年を経過しない者を除く。）であつても、その者がその取消しの理由となつた事項に該当しなくなつたときその他その後の事情により再び免許を与えるのが適当であると認められるに至つたときは、再免許を与えることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、第六条第一項及び第二項の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
           <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二項の規定による取消処分を受けた者（第四条第三号若しくは第四号に該当し、又は歯科医師としての品位を損するような行為のあつた者として前項の規定による取消処分を受けた者にあつては、その処分の日から起算して五年を経過しない者を除く。）であつても、その者がその取消しの理由となつた事項に該当しなくなつたとき、その他その後の事情により再び免許を与えるのが適当であると認められるに至つたときは、再免許を与えることができる。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合においては、第六条第一項及び第二項の規定を準用する。</Sentence>
+              <Sentence WritingMode="vertical">厚生労働大臣は、前二項に規定する処分をするに当たつては、あらかじめ医道審議会の意見を聴かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">厚生労働大臣は、前三項に規定する処分をなすに当つては、あらかじめ医道審議会の意見を聴かなければならない。</Sentence>
+              <Sentence WritingMode="vertical">厚生労働大臣は、第一項の規定による免許の取消処分をしようとするときは、都道府県知事に対し、当該処分に係る者に対する意見の聴取を行うことを求め、当該意見の聴取をもつて、厚生労働大臣による聴聞に代えることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">厚生労働大臣は、第一項又は第二項の規定による免許の取消処分をしようとするときは、都道府県知事に対し、当該処分に係る者に対する意見の聴取を行うことを求め、当該意見の聴取をもつて、厚生労働大臣による聴聞に代えることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">行政手続法（平成五年法律第八十八号）第三章第二節（第二十五条、第二十六条及び第二十八条を除く。）の規定は、都道府県知事が前項の規定により意見の聴取を行う場合について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同節中「聴聞」とあるのは「意見の聴取」と、同法第十五条第一項中「行政庁」とあるのは「都道府県知事」と、同条第三項（同法第二十二条第三項において準用する場合を含む。）中「行政庁は」とあるのは「都道府県知事は」と、「当該行政庁が」とあるのは「当該都道府県知事が」と、「当該行政庁の」とあるのは「当該都道府県の」と、同法第十六条第四項並びに第十八条第一項及び第三項中「行政庁」とあるのは「都道府県知事」と、同法第十九条第一項中「行政庁が指名する職員その他政令で定める者」とあるのは「都道府県知事が指名する職員」と、同法第二十条第一項、第二項及び第四項中「行政庁」とあるのは「都道府県」と、同条第六項及び同法第二十四条第三項中「行政庁」とあるのは「都道府県知事」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">行政手続法（平成五年法律第八十八号）第三章第二節（第二十五条、第二十六条及び第二十八条を除く。）の規定は、都道府県知事が前項の規定により意見の聴取を行う場合について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同節中「聴聞」とあるのは「意見の聴取」と、同法第十五条第一項中「行政庁」とあるのは「都道府県知事」と、同条第三項（同法第二十二条第三項において準用する場合を含む。）中「行政庁は」とあるのは「都道府県知事は」と、「当該行政庁が」とあるのは「当該都道府県知事が」と、「当該行政庁の」とあるのは「当該都道府県の」と、同法第十六条第四項並びに第十八条第一項及び第三項中「行政庁」とあるのは「都道府県知事」と、同法第十九条第一項中「行政庁が指名する職員その他政令で定める者」とあるのは「都道府県知事が指名する職員」と、同法第二十条第一項、第二項及び第四項中「行政庁」とあるのは「都道府県」と、同条第六項及び同法第二十四条第三項中「行政庁」とあるのは「都道府県知事」と読み替えるものとする。</Sentence>
+              <Sentence WritingMode="vertical">厚生労働大臣は、都道府県知事から当該処分の原因となる事実を証する書類その他意見の聴取を行う上で必要となる書類を求められた場合には、速やかにそれらを当該都道府県知事あて送付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">厚生労働大臣は、都道府県知事から当該処分の原因となる事実を証する書類その他意見の聴取を行う上で必要となる書類を求められた場合には、速やかにそれらを当該都道府県知事あて送付しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第四項の規定により意見の聴取を行う場合において、第五項において読み替えて準用する行政手続法第二十四条第三項の規定により同条第一項の調書及び同条第三項の報告書の提出を受けたときは、これらを保存するとともに、当該調書及び報告書の写しを厚生労働大臣に提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該処分の決定についての意見があるときは、当該写しのほか当該意見を記載した意見書を提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第五項の規定により意見の聴取を行う場合において、第六項において読み替えて準用する行政手続法第二十四条第三項の規定により同条第一項の調書及び同条第三項の報告書の提出を受けたときは、これらを保存するとともに、当該調書及び報告書の写しを厚生労働大臣に提出しなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該処分の決定についての意見があるときは、当該写しのほか当該意見を記載した意見書を提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、意見の聴取の終結後に生じた事情に鑑み必要があると認めるときは、都道府県知事に対し、前項前段の規定により提出された調書及び報告書の写し並びに同項後段の規定により提出された意見書を返戻して主宰者に意見の聴取の再開を命ずるよう求めることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">行政手続法第二十二条第二項本文及び第三項の規定は、この場合について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、意見の聴取の終結後に生じた事情に鑑み必要があると認めるときは、都道府県知事に対し、前項前段の規定により提出された調書及び報告書の写し並びに同項後段の規定により提出された意見書を返戻して主宰者に意見の聴取の再開を命ずるよう求めることができる。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">行政手続法第二十二条第二項本文及び第三項の規定は、この場合について準用する。</Sentence>
+              <Sentence WritingMode="vertical">厚生労働大臣は、当該処分の決定をするときは、第七項の規定により提出された意見書並びに調書及び報告書の写しの内容を十分参酌してこれをしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="10">
-            <ParagraphNum>10</ParagraphNum>
+            <ParagraphNum>１０</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">厚生労働大臣は、当該処分の決定をするときは、第八項の規定により提出された意見書並びに調書及び報告書の写しの内容を十分参酌してこれをしなければならない。</Sentence>
+              <Sentence WritingMode="vertical">厚生労働大臣は、第一項の規定による歯科医業の停止の命令をしようとするときは、都道府県知事に対し、当該処分に係る者に対する弁明の聴取を行うことを求め、当該弁明の聴取をもつて、厚生労働大臣による弁明の機会の付与に代えることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="11">
-            <ParagraphNum>11</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">厚生労働大臣は、第二項の規定による歯科医業の停止の命令をしようとするときは、都道府県知事に対し、当該処分に係る者に対する弁明の聴取を行うことを求め、当該弁明の聴取をもつて、厚生労働大臣による弁明の機会の付与に代えることができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Hide="false" Num="12">
-            <ParagraphNum>12</ParagraphNum>
+            <ParagraphNum>１１</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定により弁明の聴取を行う場合において、都道府県知事は、弁明の聴取を行うべき日時までに相当な期間をおいて、当該処分に係る者に対し、次に掲げる事項を書面により通知しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二項の規定を根拠として当該処分をしようとする旨及びその内容</Sentence>
+                <Sentence WritingMode="vertical">第一項の規定を根拠として当該処分をしようとする旨及びその内容</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
@@ -222,30 +216,30 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="13">
-            <ParagraphNum>13</ParagraphNum>
+          <Paragraph Hide="false" Num="12">
+            <ParagraphNum>１２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第十一項に規定する場合のほか、厚生労働大臣による弁明の機会の付与に代えて、医道審議会の委員に、当該処分に係る者に対する弁明の聴取を行わせることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第十項に規定する場合のほか、厚生労働大臣による弁明の機会の付与に代えて、医道審議会の委員に、当該処分に係る者に対する弁明の聴取を行わせることができる。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合においては、前項中「前項」とあるのは「次項」と、「都道府県知事」とあるのは「厚生労働大臣」と読み替えて、同項の規定を適用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="14">
-            <ParagraphNum>14</ParagraphNum>
+          <Paragraph Hide="false" Num="13">
+            <ParagraphNum>１３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第十二項（前項後段の規定により読み替えて適用する場合を含む。）の通知を受けた者は、代理人を出頭させ、かつ、証拠書類又は証拠物を提出することができる。</Sentence>
+              <Sentence WritingMode="vertical">第十一項（前項後段の規定により読み替えて適用する場合を含む。）の通知を受けた者は、代理人を出頭させ、かつ、証拠書類又は証拠物を提出することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="15">
-            <ParagraphNum>15</ParagraphNum>
+          <Paragraph Hide="false" Num="14">
+            <ParagraphNum>１４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県知事又は医道審議会の委員は、第十一項又は第十三項前段の規定により弁明の聴取を行つたときは、聴取書を作り、これを保存するとともに、報告書を作成し、厚生労働大臣に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事又は医道審議会の委員は、第十項又は第十二項前段の規定により弁明の聴取を行つたときは、聴取書を作り、これを保存するとともに、報告書を作成し、厚生労働大臣に提出しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、当該処分の決定についての意見があるときは、当該意見を報告書に記載しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="16">
-            <ParagraphNum>16</ParagraphNum>
+          <Paragraph Hide="false" Num="15">
+            <ParagraphNum>１５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">厚生労働大臣は、第五項又は第十一項の規定により都道府県知事が意見の聴取又は弁明の聴取を行う場合においては、都道府県知事に対し、あらかじめ、次に掲げる事項を通知しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">厚生労働大臣は、第四項又は第十項の規定により都道府県知事が意見の聴取又は弁明の聴取を行う場合においては、都道府県知事に対し、あらかじめ、次に掲げる事項を通知しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -266,16 +260,16 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Hide="false" Num="17">
-            <ParagraphNum>17</ParagraphNum>
+          <Paragraph Hide="false" Num="16">
+            <ParagraphNum>１６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第五項の規定により意見の聴取を行う場合における第六項において読み替えて準用する行政手続法第十五条第一項の通知又は第十一項の規定により弁明の聴取を行う場合における第十二項の通知は、それぞれ、前項の規定により通知された内容に基づいたものでなければならない。</Sentence>
+              <Sentence WritingMode="vertical">第四項の規定により意見の聴取を行う場合における第五項において読み替えて準用する行政手続法第十五条第一項の通知又は第十項の規定により弁明の聴取を行う場合における第十一項の通知は、それぞれ、前項の規定により通知された内容に基づいたものでなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="18">
-            <ParagraphNum>18</ParagraphNum>
+          <Paragraph Hide="false" Num="17">
+            <ParagraphNum>１７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第五項若しくは第十一項の規定により都道府県知事が意見の聴取若しくは弁明の聴取を行う場合又は第十三項前段の規定により医道審議会の委員が弁明の聴取を行う場合における当該処分については、行政手続法第三章（第十二条及び第十四条を除く。）の規定は、適用しない。</Sentence>
+              <Sentence WritingMode="vertical">第四項若しくは第十項の規定により都道府県知事が意見の聴取若しくは弁明の聴取を行う場合又は第十二項前段の規定により医道審議会の委員が弁明の聴取を行う場合における当該処分については、行政手続法第三章（第十二条及び第十四条を除く。）の規定は、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -284,7 +278,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">厚生労働大臣は、前条第二項第一号若しくは第二号に掲げる処分を受けた歯科医師又は同条第三項の規定により再免許を受けようとする者に対し、歯科医師としての倫理の保持又は歯科医師として具有すべき知識及び技能に関する研修として厚生労働省令で定めるもの（以下「再教育研修」という。）を受けるよう命ずることができる。</Sentence>
+              <Sentence WritingMode="vertical">厚生労働大臣は、前条第一項第一号若しくは第二号に掲げる処分を受けた歯科医師又は同条第二項の規定により再免許を受けようとする者に対し、歯科医師としての倫理の保持又は歯科医師として具有すべき知識及び技能に関する研修として厚生労働省令で定めるもの（以下「再教育研修」という。）を受けるよう命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -308,7 +302,7 @@
           <Paragraph Hide="false" Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条第十一項から第十八項まで（第十三項を除く。）の規定は、第一項の規定による命令をしようとする場合について準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前条第十項から第十七項まで（第十二項を除く。）の規定は、第一項の規定による命令をしようとする場合について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、必要な技術的読替えは、政令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -318,7 +312,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">厚生労働大臣は、歯科医師について第七条第二項の規定による処分をすべきか否かを調査する必要があると認めるときは、当該事案に関係する者若しくは参考人から意見若しくは報告を徴し、診療録その他の物件の所有者に対し、当該物件の提出を命じ、又は当該職員をして当該事案に関係のある病院その他の場所に立ち入り、診療録その他の物件を検査させることができる。</Sentence>
+              <Sentence WritingMode="vertical">厚生労働大臣は、歯科医師について第七条第一項の規定による処分をすべきか否かを調査する必要があると認めるときは、当該事案に関係する者若しくは参考人から意見若しくは報告を徴し、診療録その他の物件の所有者に対し、当該物件の提出を命じ、又は当該職員をして当該事案に関係のある病院その他の場所に立ち入り、診療録その他の物件を検査させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -339,7 +333,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">この章に規定するもののほか、免許の申請、歯科医籍の登録、訂正及び抹消、免許証の交付、書換交付、再交付、返納及び提出並びに住所の届出に関して必要な事項は政令で、第七条の二第一項の再教育研修の実施、同条第二項の歯科医籍の登録並びに同条第三項の再教育研修修了登録証の交付、書換交付及び再交付に関して必要な事項は厚生労働省令で定める。</Sentence>
+              <Sentence WritingMode="vertical">この章に規定するもののほか、免許の申請、歯科医籍の登録、訂正及び抹消、免許証の交付、書換交付、再交付、返納及び提出並びに住所の届出に関して必要な事項は政令で、第七条第一項の処分、第七条の二第一項の再教育研修の実施、同条第二項の歯科医籍の登録並びに同条第三項の再教育研修修了登録証の交付、書換交付及び再交付に関して必要な事項は厚生労働省令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -729,7 +723,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第六条第三項、第七条第五項及び第九項前段、同条第十一項及び第十二項（これらの規定を第七条の二第五項において準用する場合を含む。）、第七条第六項において準用する行政手続法第十五条第一項及び第三項（同法第二十二条第三項において準用する場合を含む。）、第十六条第四項、第十八条第一項及び第三項、第十九条第一項、第二十条第六項並びに第二十四条第三項並びに第七条第九項後段において準用する同法第二十二条第三項において準用する同法第十五条第三項の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+              <Sentence WritingMode="vertical">第六条第三項、第七条第四項及び第八項前段、同条第十項及び第十一項（これらの規定を第七条の二第五項において準用する場合を含む。）、第七条第五項において準用する行政手続法第十五条第一項及び第三項（同法第二十二条第三項において準用する場合を含む。）、第十六条第四項、第十八条第一項及び第三項、第十九条第一項、第二十条第六項並びに第二十四条第三項並びに第七条第八項後段において準用する同法第二十二条第三項において準用する同法第十五条第三項の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -768,7 +762,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第七条第二項の規定により歯科医業の停止を命ぜられた者で、当該停止を命ぜられた期間中に、歯科医業を行つたものは、一年以下の懲役若しくは五十万円以下の罰金に処し、又はこれを併科する。</Sentence>
+              <Sentence WritingMode="vertical">第七条第一項の規定により歯科医業の停止を命ぜられた者で、当該停止を命ぜられた期間中に、歯科医業を行つたものは、一年以下の懲役若しくは五十万円以下の罰金に処し、又はこれを併科する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -877,7 +871,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項に規定する医師は、第六条第三項、第七条第二項（免許の取消に関する事項を除く。）、第十七条及び第十九条から第二十三条までの規定の適用については、これを歯科医師とみなす。</Sentence>
+            <Sentence WritingMode="vertical">前項に規定する医師は、第六条第三項、第七条第一項（免許の取消しに関する事項を除く。）、第十七条及び第十九条から第二十三条までの規定の適用については、これを歯科医師とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1713,6 +1707,72 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第五条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第四十条、第五十九条、第六十一条、第七十五条（児童福祉法第三十四条の二十の改正規定に限る。）、第八十五条、第百二条、第百七条（民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律第二十六条の改正規定に限る。）、第百十一条、第百四十三条、第百四十九条、第百五十二条、第百五十四条（不動産の鑑定評価に関する法律第二十五条第六号の改正規定に限る。）及び第百六十八条並びに次条並びに附則第三条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条、第四条、第五条（国家戦略特別区域法第十九条の二第一項の改正規定を除く。）、第二章第二節及び第四節、第四十一条（地方自治法第二百五十二条の二十八の改正規定を除く。）、第四十二条から第四十八条まで、第五十条、第五十四条、第五十七条、第六十条、第六十二条、第六十六条から第六十九条まで、第七十五条（児童福祉法第三十四条の二十の改正規定を除く。）、第七十六条、第七十七条、第七十九条、第八十条、第八十二条、第八十四条、第八十七条、第八十八条、第九十条（職業能力開発促進法第三十条の十九第二項第一号の改正規定を除く。）、第九十五条、第九十六条、第九十八条から第百条まで、第百四条、第百八条、第百九条、第百十二条、第百十三条、第百十五条、第百十六条、第百十九条、第百二十一条、第百二十三条、第百三十三条、第百三十五条、第百三十八条、第百三十九条、第百六十一条から第百六十三条まで、第百六十六条、第百六十九条、第百七十条、第百七十二条（フロン類の使用の合理化及び管理の適正化に関する法律第二十九条第一項第一号の改正規定に限る。）並びに第百七十三条並びに附則第十六条、第十七条、第二十条、第二十一条及び第二十三条から第二十九条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して六月を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（行政庁の行為等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（前条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行の日前に、この法律による改正前の法律又はこれに基づく命令の規定（欠格条項その他の権利の制限に係る措置を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、会社法（平成十七年法律第八十六号）及び一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）における法人の役員の資格を成年被後見人又は被保佐人であることを理由に制限する旨の規定について、この法律の公布後一年以内を目途として検討を加え、その結果に基づき、当該規定の削除その他の必要な法制上の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

@@ -1,8 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="129" Year="23">
+<Law DataInfo="190621e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="129" Year="23">
   <LawNum>昭和二十三年法律第百二十九号</LawNum>
   <LawBody>
     <LawTitle>社会保険診療報酬支払基金法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　役員及び職員</ChapterTitle>
+        <ArticleRange>（第八条―第十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　業務</ChapterTitle>
+        <ArticleRange>（第十五条―第二十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　財務及び会計</ChapterTitle>
+        <ArticleRange>（第二十三条―第二十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　監督</ChapterTitle>
+        <ArticleRange>（第二十八条・第二十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
+        <ArticleRange>（第三十条・第三十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　罰則</ChapterTitle>
+        <ArticleRange>（第三十二条―第三十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
     <MainProvision>
       <Chapter Delete="false" Hide="false" Num="1">
         <ChapterTitle>第一章　総則</ChapterTitle>
@@ -399,7 +433,7 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">審査委員会の委員は、診療担当者を代表する者、保険者を代表する者及び学識経験者のうちから、定款の定めるところにより、それぞれ同数を幹事長が委嘱する。</Sentence>
+              <Sentence WritingMode="vertical">審査委員会の委員は、診療担当者を代表する者、保険者を代表する者及び学識経験者のうちから、定款の定めるところにより、それぞれ幹事長が委嘱するものとし、その数は、診療担当者を代表する者及び保険者を代表する者については、それぞれ同数とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3">
@@ -2469,6 +2503,75 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月二二日法律第九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成三十二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条中高齢者の医療の確保に関する法律第百六十条の二の改正規定及び同条に一項を加える改正規定、第六条中社会保険診療報酬支払基金法の題名の次に目次を付する改正規定及び同法第十六条第二項の改正規定並びに第八条中国民健康保険法第八十八条第一項及び第二項並びに第百十条の二の改正規定、同条に一項を加える改正規定並びに同法第百十三条の二第一項の改正規定並びに附則第三条、第六条及び第十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条の規定（健康保険法第三条第七項の改正規定を除く。）、第四条の規定、第六条の規定（第一号に掲げる改正規定を除く。）、第九条中国民健康保険法第八十二条第二項の改正規定、同法第八十五条の次に二条を加える改正規定及び同法第百四条の改正規定、第十二条の規定（第五号に掲げる改正規定並びに介護保険法第百十五条の四十五中第五項を第九項とし、第四項の次に四項を加える改正規定及び同法第百十七条第三項第六号の改正規定を除く。）並びに第十四条中船員保険法第百十一条第二項の改正規定並びに附則第七条中私立学校教職員共済法（昭和二十八年法律第二百四十五号）第二十六条第三項の改正規定、附則第八条中国家公務員共済組合法（昭和三十三年法律第百二十八号）第九十八条第二項の改正規定、附則第九条中地方公務員等共済組合法（昭和三十七年法律第百五十二号）第百十二条第三項の改正規定及び附則第十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成三十二年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第五条中高齢者の医療の確保に関する法律第百四十五条第三項の改正規定、第七条の規定及び第十二条中介護保険法第百六十六条第三項の改正規定並びに附則第四条、第五条、第十二条及び第十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成三十三年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

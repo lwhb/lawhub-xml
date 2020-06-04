@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="118" Year="15">
+<Law DataInfo="200601e04k09m02" Era="Heisei" Lang="ja" LawType="Act" Num="118" Year="15">
   <LawNum>平成十五年法律第百十八号</LawNum>
   <LawBody>
     <LawTitle>地方独立行政法人法</LawTitle>
@@ -1104,7 +1104,8 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第一項の評価は、同項第一号、第二号又は第三号に定める事項について総合的な評定を付して、行わなければならない。この場合において、同項各号に規定する当該事業年度における業務の実績に関する評価は、当該事業年度における中期計画の実施状況の調査及び分析を行い、その結果を考慮して行わなければならない。</Sentence>
+                <Sentence Num="1">第一項の評価は、同項第一号、第二号又は第三号に定める事項について総合的な評定を付して、行わなければならない。</Sentence>
+                <Sentence Num="2">この場合において、同項各号に規定する当該事業年度における業務の実績に関する評価は、当該事業年度における中期計画の実施状況の調査及び分析を行い、その結果を考慮して行わなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -2149,8 +2150,6 @@
                   <TableRow>
                     <TableColumn colspan="1" rowspan="3">
                       <Sentence>第六条第一項</Sentence>
-                      <Sentence/>
-                      <Sentence/>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>地方公共団体の長、議会の議長、選挙管理委員会、代表監査委員、教育委員会、人事委員会及び公平委員会並びに警視総監、道府県警察本部長、市町村の消防長（特別区が連合して維持する消防の消防長を含む。）その他法令又は条例に基づく任命権者</Sentence>
@@ -2178,7 +2177,6 @@
                   <TableRow>
                     <TableColumn colspan="1" rowspan="2">
                       <Sentence>第六条第二項</Sentence>
-                      <Sentence/>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>前項の任命権者は、同項</Sentence>
@@ -2230,7 +2228,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn>
-                      <Sentence>第十六条第三号</Sentence>
+                      <Sentence>第十六条第二号</Sentence>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>地方公共団体</Sentence>
@@ -2264,8 +2262,6 @@
                   <TableRow>
                     <TableColumn colspan="1" rowspan="3">
                       <Sentence>第十八条</Sentence>
-                      <Sentence/>
-                      <Sentence/>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>人事委員会等</Sentence>
@@ -2427,8 +2423,6 @@
                   <TableRow>
                     <TableColumn colspan="1" rowspan="3">
                       <Sentence>第二十八条の二第三項</Sentence>
-                      <Sentence/>
-                      <Sentence/>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>地方公共団体における</Sentence>
@@ -2478,7 +2472,6 @@
                   <TableRow>
                     <TableColumn colspan="1" rowspan="2">
                       <Sentence>第二十八条の四第一項</Sentence>
-                      <Sentence/>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>地方公共団体</Sentence>
@@ -2531,8 +2524,6 @@
                   <TableRow>
                     <TableColumn colspan="1" rowspan="3">
                       <Sentence>第二十九条第二項</Sentence>
-                      <Sentence/>
-                      <Sentence/>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>当該地方公共団体</Sentence>
@@ -2593,7 +2584,6 @@
                   <TableRow>
                     <TableColumn colspan="1" rowspan="2">
                       <Sentence>第三十五条</Sentence>
-                      <Sentence/>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>条例</Sentence>
@@ -4312,6 +4302,16 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="79_5">
+          <ArticleCaption>（土地等の貸付け）</ArticleCaption>
+          <ArticleTitle>第七十九条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>公立大学法人は、第二十一条第二号に掲げる業務（これに附帯する業務を含む。）の遂行に支障のない範囲内で、その対価を当該公立大学法人の教育研究水準の一層の向上を図るために必要な費用に充てるため、設立団体の長の認可を受けて、当該公立大学法人の所有に属する土地、建物その他の土地の定着物及びその建物に附属する工作物であって、当該業務のために、現に使用されておらず、かつ、当面使用されることが予定されていないものを貸し付けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="80">
           <ArticleCaption>（設立の認可等の特例）</ArticleCaption>
           <ArticleTitle>第八十条</ArticleTitle>
@@ -5805,7 +5805,6 @@
                     </TableColumn>
                     <TableColumn>
                       <Sentence>限度額及び設立団体申請等関係事務処理業務に係る短期借入金の限度額</Sentence>
-                      <Sentence/>
                     </TableColumn>
                   </TableRow>
                 </Table>
@@ -5852,7 +5851,8 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前項の一定の期間は、一年を下ってはならない。ただし、あらかじめ関係市町村の長の同意を得たときは、この限りでない。</Sentence>
+              <Sentence Function="main" Num="1">前項の一定の期間は、一年を下ってはならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、あらかじめ関係市町村の長の同意を得たときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -7263,7 +7263,6 @@
                   </TableColumn>
                   <TableColumn>
                     <Sentence>担任関係市町村申請等関係事務処理業務</Sentence>
-                    <Sentence/>
                   </TableColumn>
                 </TableRow>
               </Table>
@@ -7276,7 +7275,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>設立団体が二以上である地方独立行政法人に係る第十四条第一項及び第二項、第十七条第一項から第三項まで（これらの規定を第七十六条において準用する場合を含む。）、第十九条の二第二項及び第四項、第二十二条第一項、第二十三条第一項、第二十五条第一項及び第二項第一号、第二十六条第一項及び第三項、第二十八条第一項及び第六項、第三十条第一項、第三十四条第一項、第三十六条、第三十九条、第四十条第三項及び第四項、第四十一条第一項ただし書及び第二項ただし書、第四十二条の二第一項、第二項、第三項ただし書及び第四項、第四十四条第一項、第五十条第三項、第五十五条、第七十一条第二項及び第八項、第七十二条第一項、第七十七条の三、第七十九条の二第一項、第七十九条の三第一項、第二項及び第五項、第七十九条の四、第八十七条の八第一項、第八十七条の九第一項及び第四項、第八十七条の十第一項及び第六項、第八十七条の十四第三項（同条第八項において準用する場合を含む。）、第八十七条の二十第三項、第百二十一条第一項並びに第百二十二条第一項に規定する権限の行使については、当該設立団体の長が協議して定めるところによる。</Sentence>
+              <Sentence>設立団体が二以上である地方独立行政法人に係る第十四条第一項及び第二項、第十七条第一項から第三項まで（これらの規定を第七十六条において準用する場合を含む。）、第十九条の二第二項及び第四項、第二十二条第一項、第二十三条第一項、第二十五条第一項及び第二項第一号、第二十六条第一項及び第三項、第二十八条第一項及び第六項、第三十条第一項、第三十四条第一項、第三十六条、第三十九条、第四十条第三項及び第四項、第四十一条第一項ただし書及び第二項ただし書、第四十二条の二第一項、第二項、第三項ただし書及び第四項、第四十四条第一項、第五十条第三項、第五十五条、第七十一条第二項及び第八項、第七十二条第一項、第七十七条の三、第七十九条の二第一項、第七十九条の三第一項、第二項及び第五項、第七十九条の四、第七十九条の五、第八十七条の八第一項、第八十七条の九第一項及び第四項、第八十七条の十第一項及び第六項、第八十七条の十四第三項（同条第八項において準用する場合を含む。）、第八十七条の二十第三項、第百二十一条第一項並びに第百二十二条第一項に規定する権限の行使については、当該設立団体の長が協議して定めるところによる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -8525,6 +8524,103 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二条中住民基本台帳法目次の改正規定（「第十五条」を「第十五条の四」に、「第二十条」を「第二十一条の三」に、「第二十一条」を「第二十一条の四」に改める部分に限る。）、同法第二条及び第三条の改正規定、同法第十条の次に一条を加える改正規定、同法第十二条第一項及び第五項、第十二条の二第四項並びに第十二条の四第四項の改正規定、同法第二章中第十五条の次に三条を加える改正規定、同法第十九条の次に一条を加える改正規定、同法第二十条第一項の改正規定、同法第二十一条の改正規定（「すべて」を「全て」に改める部分に限る。）、同条を同法第二十一条の四とする改正規定、同法第三章に三条を加える改正規定（第二十一条の三第五項の表第十二条第五項の項、第十二条の二第四項の項及び第十二条の三第七項の項に係る部分を除く。）並びに同法第二十四条、第三十条の五十一、第三十六条の二第一項、第三十七条第一項、第四十三条、第四十六条第二号及び第四十八条第一項の改正規定並びに第三条中電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律第六十六条第二項の改正規定及び同法第七十九条に一項を加える改正規定並びに附則第四条第一項、第二項、第五項から第七項まで、第十一項及び第十二項、第五十七条、第五十八条、第六十一条並びに第六十三条（日本国憲法の改正手続に関する法律（平成十九年法律第五十一号）第三十六条第二項の改正規定に限る。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して二十日を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条及び第三条の規定並びに附則第六条（別表第一健康増進法（平成十四年法律第百三号）の項の改正規定に限る。）及び第八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して三月を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前二条に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条、第四条、第五条（国家戦略特別区域法第十九条の二第一項の改正規定を除く。）、第二章第二節及び第四節、第四十一条（地方自治法第二百五十二条の二十八の改正規定を除く。）、第四十二条から第四十八条まで、第五十条、第五十四条、第五十七条、第六十条、第六十二条、第六十六条から第六十九条まで、第七十五条（児童福祉法第三十四条の二十の改正規定を除く。）、第七十六条、第七十七条、第七十九条、第八十条、第八十二条、第八十四条、第八十七条、第八十八条、第九十条（職業能力開発促進法第三十条の十九第二項第一号の改正規定を除く。）、第九十五条、第九十六条、第九十八条から第百条まで、第百四条、第百八条、第百九条、第百十二条、第百十三条、第百十五条、第百十六条、第百十九条、第百二十一条、第百二十三条、第百三十三条、第百三十五条、第百三十八条、第百三十九条、第百六十一条から第百六十三条まで、第百六十六条、第百六十九条、第百七十条、第百七十二条（フロン類の使用の合理化及び管理の適正化に関する法律第二十九条第一項第一号の改正規定に限る。）並びに第百七十三条並びに附則第十六条、第十七条、第二十条、第二十一条及び第二十三条から第二十九条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して六月を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表</AppdxTableTitle>
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
@@ -8597,7 +8693,7 @@
       <Item Num="12">
         <ItemTitle>十二</ItemTitle>
         <ItemSentence>
-          <Sentence>住民基本台帳法（昭和四十二年法律第八十一号）による住民基本台帳及び戸籍の附票に関する事務（住民基本台帳及び戸籍の附票の作成を除く。）であって総務省令で定めるもの</Sentence>
+          <Sentence>住民基本台帳法（昭和四十二年法律第八十一号）による住民基本台帳及び戸籍の附票に関する事務（住民基本台帳及び戸籍の附票の作成並びに除票及び戸籍の附票の除票の保存を除く。）であって総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="13">

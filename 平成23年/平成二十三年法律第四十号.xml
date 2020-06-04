@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="40" Year="23">
+<Law DataInfo="190307e04k04m01" Era="Heisei" Lang="ja" LawType="Act" Num="40" Year="23">
   <LawNum>平成二十三年法律第四十号</LawNum>
   <LawBody>
     <LawTitle>東日本大震災に対処するための特別の財政援助及び助成に関する法律</LawTitle>
@@ -2213,7 +2213,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">災害弔慰金の支給等に関する法律（昭和四十八年法律第八十二号）第十条第一項の災害援護資金であって、東日本大震災により著しい被害を受けた者で政令で定めるものが東日本大震災の後政令で定める日までに貸付けを受けるものについての同条第三項及び第四項並びに同法第十三条第一項の規定の適用については、同法第十条第三項中「十年」とあるのは「十三年」と、同条第四項中「年三パーセント」とあるのは「年一・五パーセント（政令で定めるところにより保証人を立てる場合にあつては、年零パーセント）」と、同法第十三条第一項中「受けたため」とあるのは「受けたことその他政令で定める事由により」とする。</Sentence>
+              <Sentence WritingMode="vertical">災害弔慰金の支給等に関する法律（昭和四十八年法律第八十二号）第十条第一項の災害援護資金であって、東日本大震災により著しい被害を受けた者で政令で定めるものが東日本大震災の後政令で定める日までに貸付けを受けるものについての同条第三項及び第四項並びに同法第十四条第一項の規定の適用については、同法第十条第三項中「十年」とあるのは「十三年」と、同条第四項中「年三パーセント」とあるのは「年一・五パーセント（政令で定めるところにより保証人を立てる場合にあつては、年零パーセント）」と、同法第十四条第一項中「受けたため」とあるのは「受けたことその他政令で定める事由により」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -3004,29 +3004,29 @@
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十四年四月一日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
-          <Item Num="1:2">
+          <Item Delete="false" Hide="false" Num="1:2">
             <ItemTitle>一・二</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">略</Sentence>
             </ItemSentence>
           </Item>
-          <Item Num="3">
+          <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Column Num="1">
+              <Column LineBreak="false" Num="1">
                 <Sentence Num="1" WritingMode="vertical">第二条の規定（障害者自立支援法目次の改正規定、同法第一条の改正規定、同法第二条第一項第一号の改正規定、同法第三条の改正規定、同法第四条第一項の改正規定、同法第二章第二節第三款中第三十一条の次に一条を加える改正規定、同法第四十二条第一項の改正規定、同法第七十七条第一項第一号の改正規定並びに同法第七十七条第三項及び第七十八条第二項の改正規定を除く。）、第四条の規定（児童福祉法第二十四条の十一第一項の改正規定を除く。）及び第六条の規定並びに附則第四条から第十条まで、第十九条から第二十一条まで、第三十五条（第一号に係る部分に限る。）、第四十条、第四十二条、第四十三条、第四十六条、第四十八条、第五十条、第五十三条、第五十七条、第六十条、第六十二条、第六十四条、第六十七条、第七十条及び第七十三条の規定</Sentence>
               </Column>
-              <Column Num="2">
+              <Column LineBreak="false" Num="2">
                 <Sentence Num="1" WritingMode="vertical">平成二十四年四月一日までの間において政令で定める日</Sentence>
               </Column>
             </ItemSentence>
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="75">
+      <Article Delete="false" Hide="false" Num="75">
         <ArticleCaption>（東日本大震災に対処するための特別の財政援助及び助成に関する法律の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第七十五条</ArticleTitle>
-        <Paragraph Num="1">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">障害者自立支援法第七十九条第一項及び第二項の規定により設置された障害福祉サービス（第三条の規定による改正前の同法第五条第八項に規定する児童デイサービスに限る。）の事業の用に供する施設であって、附則第二十二条第一項の規定により第五条の規定による改正後の児童福祉法（以下「新児童福祉法」という。）第六条の二第二項に規定する児童発達支援及び同条第四項に規定する放課後等デイサービスに係る新児童福祉法第二十一条の五の三第一項の指定を受けたものとみなされた者の設置するものについては、前条の規定による改正前の東日本大震災に対処するための特別の財政援助及び助成に関する法律第四十八条の規定は、なおその効力を有する。</Sentence>
@@ -3378,7 +3378,6 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-
     <SupplProvision AmendLawNum="平成二九年三月三一日法律第一四号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
@@ -3390,13 +3389,13 @@
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十九年四月一日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
-          <Item Num="1">
+          <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Column Num="1">
+              <Column LineBreak="false" Num="1">
                 <Sentence Num="1" WritingMode="vertical">第一条中雇用保険法第六十四条の次に一条を加える改正規定及び附則第三十五条の規定</Sentence>
               </Column>
-              <Column Num="2">
+              <Column LineBreak="false" Num="2">
                 <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
               </Column>
             </ItemSentence>
@@ -3471,7 +3470,7 @@
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成三十年四月一日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
-          <Item Num="1">
+          <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">略</Sentence>
@@ -3524,6 +3523,64 @@
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和元年八月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（準備行為）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">内閣総理大臣は、この法律による改正後の災害弔慰金の支給等に関する法律（以下「新法」という。）附則第二条第一項又は第三条第一項の内閣府令を定めようとするときは、この法律の施行の日前においても、財務大臣に協議することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行前に市町村（特別区を含む。次条において同じ。）が地方自治法（昭和二十二年法律第六十七号。これに基づく命令を含む。）の規定によりした新法附則第二条第一項に規定する災害に係る災害援護資金に係る債務の免除（同項に規定する場合にされたものに限る。）は、同項の規定による免除とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新法附則第三条の規定は、この法律の施行前に、市町村が、平成三十一年四月一日前に生じた災害に係る災害援護資金の貸付けを受けた者の保証人に対して有する権利について、当該災害援護資金の償還期間の終期から十年を経過した後に地方自治法の規定により議会の議決を経て当該権利を放棄したときにも適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（東日本大震災に対処するための特別の財政援助及び助成に関する法律の一部改正）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">東日本大震災に対処するための特別の財政援助及び助成に関する法律（平成二十三年法律第四十号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">第百三条第一項中「第十三条第一項」を「第十四条第一項」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
         </Paragraph>
       </Article>
     </SupplProvision>

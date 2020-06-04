@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="479" Year="27">
+<Law DataInfo="200417e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="479" Year="27">
   <LawNum>昭和二十七年政令第四百七十九号</LawNum>
   <LawBody>
     <LawTitle>道路法施行令</LawTitle>
@@ -3250,8 +3250,8 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">前項の規定にかかわらず、指定区間内の国道に係る道路の占用のうち占用の期間が一月未満のものについての占用料の額は、別表占用料の欄に定める金額に、当該占用の期間に相当する期間を同表占用料の単位の欄に定める期間で除して得た数を乗じて得た額に一・〇八を乗じて得た額（その額が百円に満たない場合にあつては、百円）とする。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、当該占用の期間が翌年度にわたる場合においては、同表占用料の欄に定める金額に、各年度における占用の期間に相当する期間を同表占用料の単位の欄に定める期間で除して得た数を乗じて得た額に一・〇八を乗じて得た額（その額が百円に満たない場合にあつては、百円）の合計額とする。</Sentence>
+              <Sentence Function="main" Num="1">前項の規定にかかわらず、指定区間内の国道に係る道路の占用のうち占用の期間が一月未満のものについての占用料の額は、別表占用料の欄に定める金額に、当該占用の期間に相当する期間を同表占用料の単位の欄に定める期間で除して得た数を乗じて得た額に、当該道路を占用させることにつき課されるべき消費税に相当する額及び当該課されるべき消費税の額を課税標準として課されるべき地方消費税に相当する額の合計額を加えた額（その額が百円に満たない場合にあつては、百円）とする。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、当該占用の期間が翌年度にわたる場合においては、同表占用料の欄に定める金額に、各年度における占用の期間に相当する期間を同表占用料の単位の欄に定める期間で除して得た数を乗じて得た額に、当該各年度において当該道路を占用させることにつき課されるべき消費税に相当する額及び当該課されるべき消費税の額を課税標準として課されるべき地方消費税に相当する額の合計額を加えた額（その額が百円に満たない場合にあつては、百円）の合計額とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -4471,7 +4471,25 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>第一号に規定する道道等以外の道道等を構成する橋、トンネルその他の施設又は工作物で、損傷、腐食その他の劣化により当該道道等の構造に支障を及ぼすおそれが大きいものとして国土交通省令で定めるものの改築（前号に該当するものを除く。）</Sentence>
+                <Sentence>第一号に規定する道道等以外の道道等の改築で次のいずれかに該当するもの（前号に該当するものを除く。）</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>通学路（交通安全施設等整備事業の推進に関する法律施行令（昭和四十一年政令第百三号）第四条に規定する通学路をいう。第三項において同じ。）その他の特に交通の安全を確保する必要がある区間に該当する道道等における交通事故の防止を図るために必要な歩道の拡幅、自動車を減速させて歩行者又は自転車の安全な通行を確保するために行う路面の凸部の設置、柵の設置その他の国土交通省令で定める改築</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>無電柱化（無電柱化の推進に関する法律（平成二十八年法律第百十二号）第一条に規定する無電柱化をいう。）の推進のために必要な電線共同溝の建設その他の国土交通省令で定める改築</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>第一号に規定する道道等以外の道道等を構成する橋、トンネルその他の施設又は工作物で、損傷、腐食その他の劣化により当該道道等の構造に支障を及ぼすおそれが大きいものとして国土交通省令で定めるものの改築（前二号に該当するものを除く。）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -4484,7 +4502,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>国は、道路管理者が道道等について実施する交通安全施設等整備事業のうち交通安全施設等整備事業の推進に関する法律第二条第三項第二号イに掲げる事業及び交通安全施設等整備事業の推進に関する法律施行令（昭和四十一年政令第百三号）第二条の三に規定する事業に要する費用については、法第五十六条及び第八十五条第三項の規定にかかわらず、予算の範囲内において、その二分の一（道路管理者が同令第四条に規定する通学路に該当する市町村道について実施する交通安全施設等整備事業の推進に関する法律第二条第三項第二号イに掲げる事業に要する費用については、その十分の五・五）をその費用を負担する地方公共団体に対して補助する。</Sentence>
+              <Sentence>国は、道路管理者が道道等について実施する交通安全施設等整備事業のうち交通安全施設等整備事業の推進に関する法律第二条第三項第二号イに掲げる事業及び交通安全施設等整備事業の推進に関する法律施行令第二条の三に規定する事業に要する費用については、法第五十六条及び第八十五条第三項の規定にかかわらず、予算の範囲内において、その二分の一（道路管理者が通学路に該当する市町村道について実施する同号イに掲げる事業に要する費用については、その十分の五・五）をその費用を負担する地方公共団体に対して補助する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -7024,1240 +7042,1267 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年九月二七日政令第一一二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1">この政令は、令和元年十月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、別表の改正規定は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第八六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令による改正後の規定は、令和二年度以降の年度の予算に係る国の負担又は補助（令和元年度以前の年度の国庫債務負担行為に基づき令和二年度以降の年度に支出すべきものとされた国の負担又は補助を除く。）について適用し、令和元年度以前の年度の予算に係る国の負担又は補助で令和二年度以降の年度に繰り越されたもの及び令和元年度以前の年度の国庫債務負担行為に基づき令和二年度以降の年度に支出すべきものとされた国の負担又は補助については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表</AppdxTableTitle>
       <RelatedArticleNum>（第十九条関係）</RelatedArticleNum>
       <TableStruct>
         <Table>
           <TableRow>
-            <TableColumn colspan="3" rowspan="3">
+            <TableColumn Align="center" Valign="middle" colspan="3" rowspan="3">
               <Sentence>占用物件</Sentence>
             </TableColumn>
-            <TableColumn colspan="6">
+            <TableColumn Align="center" Valign="middle" colspan="6">
               <Sentence>占用料</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="2">
+            <TableColumn Align="center" Valign="middle" rowspan="2">
               <Sentence>単位</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
+            <TableColumn Align="center" Valign="middle" colspan="5">
               <Sentence>所在地</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="middle">
               <Sentence>第一級地</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="middle">
               <Sentence>第二級地</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="middle">
               <Sentence>第三級地</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="middle">
               <Sentence>第四級地</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="middle">
               <Sentence>第五級地</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="15">
+            <TableColumn Valign="middle" rowspan="15">
               <Sentence>法第三十二条第一項第一号に掲げる工作物</Sentence>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn Valign="middle" colspan="2">
               <Sentence>第一種電柱</Sentence>
             </TableColumn>
-            <TableColumn rowspan="7">
+            <TableColumn Valign="middle" rowspan="7">
               <Sentence>一本につき一年</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>一、六〇〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、七〇〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>六六〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四四〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三五〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三〇〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>第二種電柱</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二、四〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、〇〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六八〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五四〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四七〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>第三種電柱</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三、三〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、四〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>九二〇</Sentence>
-            </TableColumn>
-            <TableColumn>
+            <TableColumn Align="right" Valign="middle">
               <Sentence>七三〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>六三〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>五一〇</Sentence>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>第一種電話柱</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四二〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>一、四〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五九〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三二〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二七〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>第二種電話柱</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二、三〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>九五〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六三〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四四〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>第三種電話柱</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三、一〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、三〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>八七〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六九〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六〇〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>その他の柱類</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一四〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五九</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三二</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二七</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>共架電線その他上空に設ける線類</Sentence>
-            </TableColumn>
-            <TableColumn rowspan="2">
-              <Sentence>長さ一メートルにつき一年</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一四</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>地下に設ける電線その他の線類</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>八</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>路上に設ける変圧器</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一個につき一年</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、四〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五八〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三九〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三一〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二七〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>地下に設ける変圧器</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>占用面積一平方メートルにつき一年</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>八五〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三五〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二四〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一九〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一六〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>変圧塔その他これに類するもの及び公衆電話所</Sentence>
-            </TableColumn>
-            <TableColumn rowspan="2">
-              <Sentence>一個につき一年</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二、八〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、二〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>七九〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六三〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五四〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>郵便差出箱及び信書便差出箱</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、二〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三三〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二七〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二三〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>広告塔</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>表示面積一平方メートルにつき一年</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一九、〇〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三、八〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、七〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>九六〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六七〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>その他のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>占用面積一平方メートルにつき一年</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二、八〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、二〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>七九〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六三〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五四〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn rowspan="9">
-              <Sentence>法第三十二条第一項第二号に掲げる物件</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>外径が〇・〇七メートル未満のもの</Sentence>
-            </TableColumn>
-            <TableColumn rowspan="9">
-              <Sentence>長さ一メートルにつき一年</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五九</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二五</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一七</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一三</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一一</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>外径が〇・〇七メートル以上〇・一メートル未満のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>八五</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三五</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二四</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一九</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一六</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>外径が〇・一メートル以上〇・一五メートル未満のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一三〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五三</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三六</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二八</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二四</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>外径が〇・一五メートル以上〇・二メートル未満のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一七〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>七一</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四七</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三八</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三三</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>外径が〇・二メートル以上〇・三メートル未満のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二五〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一一〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>七一</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五七</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四九</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>外径が〇・三メートル以上〇・四メートル未満のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三四〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一四〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>九五</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>七六</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六五</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>外径が〇・四メートル以上〇・七メートル未満のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五九〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二五〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一七〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一三〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一一〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>外径が〇・七メートル以上一メートル未満のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>八五〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三五〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二四〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一九〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一六〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>外径が一メートル以上のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、七〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>七一〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四七〇</Sentence>
-            </TableColumn>
-            <TableColumn>
+            <TableColumn Align="right" Valign="middle">
               <Sentence>三八〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>三三〇</Sentence>
-            </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>法第三十二条第一項第三号及び第四号に掲げる施設</Sentence>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>第二種電柱</Sentence>
             </TableColumn>
-            <TableColumn rowspan="7">
-              <Sentence>占用面積一平方メートルにつき一年</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二、六〇〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>二、八〇〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、一〇〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>一、二〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
+            <TableColumn Align="right" Valign="middle">
               <Sentence>七九〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>六三〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六五〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>五四〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn rowspan="6">
-              <Sentence>法第三十二条第一項第五号に掲げる施設</Sentence>
-            </TableColumn>
-            <TableColumn rowspan="3">
-              <Sentence>地下街及び地下室</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>階数が一のもの</Sentence>
-            </TableColumn>
-            <TableColumn colspan="5">
-              <Sentence>Ａに〇・〇〇五を乗じて得た額</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>五八〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>階数が二のもの</Sentence>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>第三種電柱</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
-              <Sentence>Ａに〇・〇〇八を乗じて得た額</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三、五〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、五〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、一〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>八八〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七八〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>階数が三以上のもの</Sentence>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>第一種電話柱</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
-              <Sentence>Ａに〇・〇一を乗じて得た額</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、五〇〇</Sentence>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>上空に設ける通路</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六五〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>九、七〇〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四六〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>一、九〇〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三八〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>八七〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四八〇</Sentence>
-            </TableColumn>
-            <TableColumn>
+            <TableColumn Align="right" Valign="middle">
               <Sentence>三四〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>地下に設ける通路</Sentence>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>第二種電話柱</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>五、八〇〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二、四〇〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>一、一〇〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、〇〇〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>五二〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七三〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>二九〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六一〇</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>五四〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>第三種電話柱</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三、四〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、四〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、〇〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>八三〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七四〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>その他の柱類</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一五〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六五</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四六</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三八</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三四</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>共架電線その他上空に設ける線類</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle" rowspan="2">
+              <Sentence>長さ一メートルにつき一年</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一五</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>五</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>地下に設ける電線その他の線類</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>路上に設ける変圧器</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>一個につき一年</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、五〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六四〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四五〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三七〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三三〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>地下に設ける変圧器</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>占用面積一平方メートルにつき一年</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九二〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三九〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二七〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二三〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
               <Sentence>二〇〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>その他のもの</Sentence>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>変圧塔その他これに類するもの及び公衆電話所</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>二、八〇〇</Sentence>
+            <TableColumn Valign="middle" rowspan="2">
+              <Sentence>一個につき一年</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>一、二〇〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三、一〇〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>七九〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、三〇〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>六三〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九一〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>五四〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七六〇</Sentence>
             </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn rowspan="2">
-              <Sentence>法第三十二条第一項第六号に掲げる施設</Sentence>
-            </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>祭礼、縁日その他の催しに際し、一時的に設けるもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>占用面積一平方メートルにつき一日</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一九〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三八</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一七</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>七</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六八〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>その他のもの</Sentence>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>郵便差出箱及び信書便差出箱</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>占用面積一平方メートルにつき一月</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、三〇〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>一、九〇〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>五五〇</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Align="right" Valign="middle">
               <Sentence>三八〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>一七〇</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三二〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>九六</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六七</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn rowspan="9">
-              <Sentence>第七条第一号に掲げる物件</Sentence>
-            </TableColumn>
-            <TableColumn rowspan="2">
-              <Sentence>看板（アーチであるものを除く。）</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一時的に設けるもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>表示面積一平方メートルにつき一月</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、九〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三八〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一七〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>九六</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六七</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn>
-              <Sentence>その他のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>表示面積一平方メートルにつき一年</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一九、〇〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三、八〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、七〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>九六〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六七〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>標識</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一本につき一年</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二、三〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>九五〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六三〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四四〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn rowspan="2">
-              <Sentence>旗ざお</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>祭礼、縁日その他の催しに際し、一時的に設けるもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一本につき一日</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一九〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三八</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一七</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>七</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn>
-              <Sentence>その他のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一本につき一月</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、九〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三八〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一七〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>九六</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六七</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn rowspan="2">
-              <Sentence>幕（第七条第四号に掲げる工事用施設であるものを除く。）</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>祭礼、縁日その他の催しに際し、一時的に設けるもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>その面積一平方メートルにつき一日</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一九〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三八</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一七</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>七</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn>
-              <Sentence>その他のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>その面積一平方メートルにつき一月</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、九〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三八〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一七〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>九六</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六七</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn rowspan="2">
-              <Sentence>アーチ</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>車道を横断するもの</Sentence>
-            </TableColumn>
-            <TableColumn rowspan="2">
-              <Sentence>一基につき一月</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一九、〇〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三、八〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、七〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>九六〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六七〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn>
-              <Sentence>その他のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>九、七〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、九〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>八七〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>四八〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三四〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>第七条第二号に掲げる工作物</Sentence>
-            </TableColumn>
-            <TableColumn rowspan="2">
-              <Sentence>占用面積一平方メートルにつき一年</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>二、八〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、二〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>七九〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六三〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>五四〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>第七条第三号に掲げる施設</Sentence>
-            </TableColumn>
-            <TableColumn colspan="5">
-              <Sentence>Ａに〇・〇三四を乗じて得た額</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>第七条第四号に掲げる工事用施設及び同条第五号に掲げる工事用材料</Sentence>
-            </TableColumn>
-            <TableColumn rowspan="2">
-              <Sentence>占用面積一平方メートルにつき一月</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一、九〇〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>三八〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>一七〇</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>九六</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>六七</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>第七条第六号に掲げる仮設建築物及び同条第七号に掲げる施設</Sentence>
-            </TableColumn>
-            <TableColumn>
+            <TableColumn Align="right" Valign="middle">
               <Sentence>二八〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>一二〇</Sentence>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>広告塔</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>七九</Sentence>
+            <TableColumn Valign="middle">
+              <Sentence>表示面積一平方メートルにつき一年</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>六三</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二五、〇〇〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>五四</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四、三〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、九〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九六〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六七〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="6">
-              <Sentence>第七条第八号に掲げる施設</Sentence>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>その他のもの</Sentence>
             </TableColumn>
-            <TableColumn colspan="2">
-              <Sentence>トンネルの上又は高架の道路の路面下（当該路面下の地下を除く。）に設けるもの</Sentence>
-            </TableColumn>
-            <TableColumn rowspan="17">
+            <TableColumn Valign="middle">
               <Sentence>占用面積一平方メートルにつき一年</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一三を乗じて得た額</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三、一〇〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一五を乗じて得た額</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、三〇〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一七を乗じて得た額</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九一〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一九を乗じて得た額</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七六〇</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇二四を乗じて得た額</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>上空に設けるもの</Sentence>
-            </TableColumn>
-            <TableColumn colspan="5">
-              <Sentence>Ａに〇・〇二四を乗じて得た額</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六八〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="3">
-              <Sentence>地下（トンネルの上の地下を除く。）に設けるもの</Sentence>
+            <TableColumn Valign="middle" rowspan="9">
+              <Sentence>法第三十二条第一項第二号に掲げる物件</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>外径が〇・〇七メートル未満のもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle" rowspan="9">
+              <Sentence>長さ一メートルにつき一年</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六四</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二七</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一九</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一六</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一四</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>外径が〇・〇七メートル以上〇・一メートル未満のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九二</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三九</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二七</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二三</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>外径が〇・一メートル以上〇・一五メートル未満のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一四〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>五九</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四一</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三四</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>外径が〇・一五メートル以上〇・二メートル未満のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一八〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七八</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>五五</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四五</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四一</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>外径が〇・二メートル以上〇・三メートル未満のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二八〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一二〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>八二</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六八</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六一</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>外径が〇・三メートル以上〇・四メートル未満のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三七〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一六〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一一〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九一</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>八一</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>外径が〇・四メートル以上〇・七メートル未満のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六四〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二七〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一九〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一六〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一四〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>外径が〇・七メートル以上一メートル未満のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九二〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三九〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二七〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二三〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二〇〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>外径が一メートル以上のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、八〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七八〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>五五〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四五〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四一〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="3">
+              <Sentence>法第三十二条第一項第三号及び第四号に掲げる施設</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle" rowspan="7">
+              <Sentence>占用面積一平方メートルにつき一年</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三、一〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、三〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九一〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七六〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六八〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" rowspan="6">
+              <Sentence>法第三十二条第一項第五号に掲げる施設</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle" rowspan="3">
+              <Sentence>地下街及び地下室</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
               <Sentence>階数が一のもの</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
+            <TableColumn Align="left" Valign="middle" colspan="5">
               <Sentence>Ａに〇・〇〇五を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="middle">
               <Sentence>階数が二のもの</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
+            <TableColumn Align="left" Valign="middle" colspan="5">
               <Sentence>Ａに〇・〇〇八を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="middle">
               <Sentence>階数が三以上のもの</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
+            <TableColumn Align="left" Valign="middle" colspan="5">
               <Sentence>Ａに〇・〇一を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>その他のもの</Sentence>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>上空に設ける通路</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
-              <Sentence>Ａに〇・〇三四を乗じて得た額</Sentence>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一三、〇〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二、一〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九三〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四八〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三三〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="2">
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>地下に設ける通路</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七、六〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、三〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>五六〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二九〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二〇〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>その他のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三、一〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、三〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九一〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七六〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六八〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" rowspan="2">
+              <Sentence>法第三十二条第一項第六号に掲げる施設</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>祭礼、縁日その他の催しに際し、一時的に設けるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>占用面積一平方メートルにつき一日</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二五〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四三</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一九</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>その他のもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>占用面積一平方メートルにつき一月</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二、五〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四三〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一九〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九六</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六七</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" rowspan="9">
+              <Sentence>第七条第一号に掲げる物件</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle" rowspan="2">
+              <Sentence>看板（アーチであるものを除く。）</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>一時的に設けるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>表示面積一平方メートルにつき一月</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二、五〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四三〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一九〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九六</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六七</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle">
+              <Sentence>その他のもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>表示面積一平方メートルにつき一年</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二五、〇〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四、三〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、九〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九六〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六七〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>標識</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>一本につき一年</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二、四〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、〇〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七三〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六一〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>五四〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" rowspan="2">
+              <Sentence>旗ざお</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>祭礼、縁日その他の催しに際し、一時的に設けるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>一本につき一日</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二五〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四三</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一九</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle">
+              <Sentence>その他のもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>一本につき一月</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二、五〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四三〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一九〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九六</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六七</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" rowspan="2">
+              <Sentence>幕（第七条第四号に掲げる工事用施設であるものを除く。）</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>祭礼、縁日その他の催しに際し、一時的に設けるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>その面積一平方メートルにつき一日</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二五〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四三</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一九</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle">
+              <Sentence>その他のもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>その面積一平方メートルにつき一月</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二、五〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四三〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一九〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九六</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六七</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" rowspan="2">
+              <Sentence>アーチ</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>車道を横断するもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle" rowspan="2">
+              <Sentence>一基につき一月</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二五、〇〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四、三〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、九〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九六〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六七〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle">
+              <Sentence>その他のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一三、〇〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二、一〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九三〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四八〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三三〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="3">
+              <Sentence>第七条第二号に掲げる工作物</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle" rowspan="2">
+              <Sentence>占用面積一平方メートルにつき一年</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三、一〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一、三〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九一〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七六〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六八〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="3">
+              <Sentence>第七条第三号に掲げる施設</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle" colspan="5">
+              <Sentence>Ａに〇・〇三三を乗じて得た額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="3">
+              <Sentence>第七条第四号に掲げる工事用施設及び同条第五号に掲げる工事用材料</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle" rowspan="2">
+              <Sentence>占用面積一平方メートルにつき一月</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>二、五〇〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>四三〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一九〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九六</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六七</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="3">
+              <Sentence>第七条第六号に掲げる仮設建築物及び同条第七号に掲げる施設</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>三一〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>一三〇</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>九一</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>七六</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" Valign="middle">
+              <Sentence>六八</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" rowspan="6">
+              <Sentence>第七条第八号に掲げる施設</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>トンネルの上又は高架の道路の路面下（当該路面下の地下を除く。）に設けるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle" rowspan="17">
+              <Sentence>占用面積一平方メートルにつき一年</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一一を乗じて得た額</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一四を乗じて得た額</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一六を乗じて得た額</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一九を乗じて得た額</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇二三を乗じて得た額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>上空に設けるもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle" colspan="5">
+              <Sentence>Ａに〇・〇二三を乗じて得た額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" rowspan="3">
+              <Sentence>地下（トンネルの上の地下を除く。）に設けるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="middle">
+              <Sentence>階数が一のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle" colspan="5">
+              <Sentence>Ａに〇・〇〇五を乗じて得た額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle">
+              <Sentence>階数が二のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle" colspan="5">
+              <Sentence>Ａに〇・〇〇八を乗じて得た額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle">
+              <Sentence>階数が三以上のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle" colspan="5">
+              <Sentence>Ａに〇・〇一を乗じて得た額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>その他のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle" colspan="5">
+              <Sentence>Ａに〇・〇三三を乗じて得た額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" rowspan="2">
               <Sentence>第七条第九号に掲げる施設</Sentence>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn Valign="middle" colspan="2">
               <Sentence>建築物</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一三を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一一を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一五を乗じて得た額</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一七を乗じて得た額</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一九を乗じて得た額</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇二四を乗じて得た額</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn colspan="2">
-              <Sentence>その他のもの</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇〇九を乗じて得た額</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一を乗じて得た額</Sentence>
-            </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一二を乗じて得た額</Sentence>
-            </TableColumn>
-            <TableColumn>
+            <TableColumn Align="left" Valign="middle">
               <Sentence>Ａに〇・〇一四を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一七を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一六を乗じて得た額</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一九を乗じて得た額</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇二三を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="2">
+            <TableColumn Valign="middle" colspan="2">
+              <Sentence>その他のもの</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇〇八を乗じて得た額</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一を乗じて得た額</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一二を乗じて得た額</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一三を乗じて得た額</Sentence>
+            </TableColumn>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一六を乗じて得た額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="middle" rowspan="2">
               <Sentence>第七条第十号に掲げる施設及び自動車駐車場</Sentence>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn Valign="middle" colspan="2">
               <Sentence>建築物</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
-              <Sentence>Ａに〇・〇二四を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle" colspan="5">
+              <Sentence>Ａに〇・〇二三を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
+            <TableColumn Valign="middle" colspan="2">
               <Sentence>その他のもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇〇九を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇〇八を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Align="left" Valign="middle">
               <Sentence>Ａに〇・〇一を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Align="left" Valign="middle">
               <Sentence>Ａに〇・〇一二を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一四を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一三を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一七を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一六を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="3">
+            <TableColumn Valign="middle" rowspan="3">
               <Sentence>第七条第十一号に掲げる応急仮設建築物</Sentence>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn Valign="middle" colspan="2">
               <Sentence>トンネルの上又は高架の道路の路面下に設けるもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一三を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一一を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一五を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一四を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一七を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一六を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Align="left" Valign="middle">
               <Sentence>Ａに〇・〇一九を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇二四を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇二三を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
+            <TableColumn Valign="middle" colspan="2">
               <Sentence>上空に設けるもの</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
-              <Sentence>Ａに〇・〇二四を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle" colspan="5">
+              <Sentence>Ａに〇・〇二三を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
+            <TableColumn Valign="middle" colspan="2">
               <Sentence>その他のもの</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
-              <Sentence>Ａに〇・〇三四を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle" colspan="5">
+              <Sentence>Ａに〇・〇三三を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="3">
+            <TableColumn Valign="middle" colspan="3">
               <Sentence>第七条第十二号に掲げる器具</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
-              <Sentence>Ａに〇・〇三四を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle" colspan="5">
+              <Sentence>Ａに〇・〇三三を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="3">
+            <TableColumn Valign="middle" rowspan="3">
               <Sentence>第七条第十三号に掲げる施設</Sentence>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn Valign="middle" colspan="2">
               <Sentence>トンネルの上又は高速自動車国道若しくは自動車専用道路（高架のものに限る。）の路面下に設けるもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一三を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一一を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一五を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一四を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇一七を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇一六を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Align="left" Valign="middle">
               <Sentence>Ａに〇・〇一九を乗じて得た額</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>Ａに〇・〇二四を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle">
+              <Sentence>Ａに〇・〇二三を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
+            <TableColumn Valign="middle" colspan="2">
               <Sentence>上空に設けるもの</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
-              <Sentence>Ａに〇・〇二四を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle" colspan="5">
+              <Sentence>Ａに〇・〇二三を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="2">
+            <TableColumn Valign="middle" colspan="2">
               <Sentence>その他のもの</Sentence>
             </TableColumn>
-            <TableColumn colspan="5">
-              <Sentence>Ａに〇・〇三四を乗じて得た額</Sentence>
+            <TableColumn Align="left" Valign="middle" colspan="5">
+              <Sentence>Ａに〇・〇三三を乗じて得た額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="10">
+            <TableColumn colspan="9">
               <Sentence>備考</Sentence>
               <Sentence>一　金額の単位は、円とする。</Sentence>
               <Sentence>二　所在地とは、占用物件の所在地をいい、その区分は、次のとおりとし、各年度の初日後に占用物件の所在地の区分に変更があつた場合は、同日におけるその区分によるものとする。</Sentence>

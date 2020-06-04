@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="51" Year="05">
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Law DataInfo="190910e80k10m02" Era="Heisei" Lang="ja" LawType="Act" Num="51" Year="05">
   <LawNum>平成五年法律第五十一号</LawNum>
   <LawBody>
     <LawTitle>商工会及び商工会議所による小規模事業者の支援に関する法律</LawTitle>
@@ -63,7 +63,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">経済産業大臣は、小規模事業者の経営の改善発達を支援するための商工会及び商工会連合会並びに商工会議所及び日本商工会議所（以下「商工会等」という。）に対する基本的な指針（以下「基本指針」という。）を定めなければならない。</Sentence>
+            <Sentence WritingMode="vertical">経済産業大臣は、小規模事業者の経営の改善発達を支援するための商工会及び商工会連合会並びに商工会議所及び日本商工会議所に対する基本的な指針（以下「基本指針」という。）を定めなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -83,16 +83,16 @@
               <Sentence WritingMode="vertical">近代的経営管理方法の導入等経営管理に関する指導に関する事項</Sentence>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="3">
+          <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">技術の向上、新たな事業の分野の開拓等に寄与する情報の提供等に関する事項</Sentence>
+              <Sentence>事業継続力強化（中小企業等経営強化法（平成十一年法律第十八号）第二条第十六項に規定する事業継続力強化をいう。第五条第一項及び第五項において同じ。）に寄与する情報の提供等に関する事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">事業の共同化等に寄与する施設の設置に関する事項</Sentence>
+              <Sentence WritingMode="vertical">技術の向上、新たな事業の分野の開拓等に寄与する情報の提供等に関する事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
@@ -133,7 +133,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国は、政令で定めるところにより、商工会若しくは商工会議所が基本指針に即して実施する小規模事業者の経営の改善発達を支援する事業（第七条第一項に規定する基盤施設事業を除く。以下「経営改善普及事業」という。）に必要な経費又は経営改善普及事業に関し都道府県商工会連合会が基本指針に即して商工会を指導するために必要な経費について、都道府県が補助する場合には、当該都道府県に対し、予算の範囲内において、当該補助に必要な経費の一部を補助することができる。</Sentence>
+            <Sentence WritingMode="vertical">国は、政令で定めるところにより、商工会若しくは商工会議所が基本指針に即して実施する小規模事業者の経営の改善発達を支援する事業（以下この条において「経営改善普及事業」という。）に必要な経費又は経営改善普及事業に関し都道府県商工会連合会が基本指針に即して商工会を指導するために必要な経費について、都道府県が補助する場合には、当該都道府県に対し、予算の範囲内において、当該補助に必要な経費の一部を補助することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -143,13 +143,135 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="5">
-        <ArticleCaption>（経営発達支援計画の認定）</ArticleCaption>
+      <Article Num="5">
+        <ArticleCaption>（事業継続力強化支援計画の認定）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>商工会又は商工会議所は、その地区を管轄する市町村（特別区を含む。以下「関係市町村」という。）と共同して、小規模事業者の事業継続力強化を支援する事業（以下「事業継続力強化支援事業」という。）についての計画（以下この条及び次条において「事業継続力強化支援計画」という。）を作成し、経済産業省令で定めるところにより、これを都道府県知事に提出して、その事業継続力強化支援計画が適当である旨の認定を受けることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>二以上の商工会又は商工会議所（同一の都道府県の区域の一部をその地区の全部又は一部とするものに限る。）がその事業継続力強化支援事業を共同して実施しようとする場合にあっては、当該二以上の商工会又は商工会議所は、これらの関係市町村（当該都道府県の区域内にあるものに限る。）と共同して、事業継続力強化支援計画を作成し、前項の認定を受けることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>商工会又は商工会議所及び関係市町村は、当該商工会又は商工会議所及び関係市町村以外の者と連携して事業継続力強化支援事業を実施することが当該事業継続力強化支援事業の効果的かつ適切な実施のために特に必要であると認められる場合にあっては、当該者を連携して事業継続力強化支援事業を実施する者とする事業継続力強化支援計画を作成し、第一項の認定を申請することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>事業継続力強化支援計画には、次に掲げる事項を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>事業継続力強化支援事業の目標</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>事業継続力強化支援事業の内容及び実施期間</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>事業継続力強化支援事業の実施体制</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>事業継続力強化支援事業の実施に必要な資金の額及びその調達方法</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該商工会又は商工会議所及び関係市町村以外の者を連携して事業継続力強化支援事業を実施する者とする場合にあっては、次に掲げる事項</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>当該者との連携に関する事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項第三号に掲げる事項には、第七条第五項に規定する経営指導員（小規模事業者に対して事業継続力強化に係る効果的かつ適切な指導を行うために必要な知識及び経験を有する者として経済産業省令で定める要件に該当する者に限る。）による情報の提供及び助言に係る実施体制についても記載するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>都道府県知事は、第一項の認定の申請があった場合において、その事業継続力強化支援計画が次の各号のいずれにも適合するものであると認めるときは、その認定をするものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>第四項第一号から第三号までに掲げる事項が基本指針に照らして適切なものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>第四項第三号から第五号までに掲げる事項が事業継続力強化支援事業を確実に遂行するために適切なものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>都道府県知事は、第一項の認定をしたときは、経済産業省令で定めるところにより、当該認定に係る事業継続力強化支援計画の内容を公表するとともに、経済産業大臣に当該認定をした旨を通知するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（事業継続力強化支援計画の変更等）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前条第一項の認定を受けた商工会及び商工会議所並びに関係市町村は、当該認定に係る事業継続力強化支援計画を変更しようとするときは、都道府県知事の認定を受けなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>都道府県知事は、前条第一項の認定に係る事業継続力強化支援計画（前項の規定による変更の認定があったときは、その変更後のもの。以下「認定事業継続力強化支援計画」という。）が、同条第六項各号のいずれかに適合しなくなったと認めるとき、又は認定事業継続力強化支援計画に従って事業継続力強化支援事業が実施されていないと認めるときは、その認定を取り消すことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前条第六項及び第七項の規定は、第一項の認定について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（経営発達支援計画の認定）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">商工会又は商工会議所は、小規模事業者を支援する次に掲げる事業であって、小規模事業者の技術の向上、新たな事業の分野の開拓その他の小規模事業者の経営の発達に特に資するもの（以下「経営発達支援事業」という。）についての計画（以下「経営発達支援計画」という。）を作成し、これを経済産業大臣に提出して、その経営発達支援計画が適当である旨の認定を受けることができる。</Sentence>
+            <Sentence WritingMode="vertical">商工会又は商工会議所は、関係市町村と共同して、小規模事業者を支援する次に掲げる事業であって、小規模事業者の技術の向上、新たな事業の分野の開拓その他の小規模事業者の経営の発達に特に資するもの（以下「経営発達支援事業」という。）についての計画（以下「経営発達支援計画」という。）を作成し、経済産業省令で定めるところにより、これを経済産業大臣に提出して、その経営発達支援計画が適当である旨の認定を受けることができる。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -179,13 +301,13 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">二以上の商工会又は商工会議所がその経営発達支援事業を共同して実施しようとする場合にあっては、当該二以上の商工会又は商工会議所は共同して経営発達支援計画を作成し、前項の認定を受けることができる。</Sentence>
+            <Sentence WritingMode="vertical">二以上の商工会又は商工会議所がその経営発達支援事業を共同して実施しようとする場合にあっては、当該二以上の商工会又は商工会議所は、これらの関係市町村と共同して、経営発達支援計画を作成し、前項の認定を受けることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">商工会又は商工会議所は、商工会及び商工会議所以外の者と連携して経営発達支援事業を実施することが当該経営発達支援事業の効果的かつ適切な実施のために特に必要であると認められる場合にあっては、商工会及び商工会議所以外の者を連携して経営発達支援事業を実施する者とする経営発達支援計画を作成し、第一項の認定を申請することができる。</Sentence>
+            <Sentence WritingMode="vertical">商工会又は商工会議所及び関係市町村は、当該商工会又は商工会議所及び関係市町村以外の者と連携して経営発達支援事業を実施することが当該経営発達支援事業の効果的かつ適切な実施のために特に必要であると認められる場合にあっては、当該者を連携して経営発達支援事業を実施する者とする経営発達支援計画を作成し、第一項の認定を申請することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="4">
@@ -220,379 +342,121 @@
           <Item Delete="false" Hide="false" Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">商工会及び商工会議所以外の者と連携して経営発達支援事業を実施する場合にあっては、次に掲げる事項</Sentence>
+              <Sentence WritingMode="vertical">当該商工会又は商工会議所及び関係市町村以外の者を連携して経営発達支援事業を実施する者とする場合にあっては、次に掲げる事項</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該商工会及び商工会議所以外の者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                <Sentence WritingMode="vertical">当該者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該商工会及び商工会議所以外の者との連携に関する事項</Sentence>
+                <Sentence WritingMode="vertical">当該者との連携に関する事項</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="5">
+        <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項第三号に掲げる事項には、経営指導員（小規模事業者の経営に係る指導を行う者であって、小規模事業者に対して効果的かつ適切な指導を行うために必要な知識及び経験を有する者として経済産業省令で定める要件に該当する者をいう。）による情報の提供及び助言に係る実施体制についても記載するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6">
+          <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">経済産業大臣は、第一項の認定の申請があった場合において、その経営発達支援計画が次の各号のいずれにも適合するものであると認めるときは、その認定をするものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前項第一号から第三号までに掲げる事項が基本指針に照らして適切なものであること。</Sentence>
+              <Sentence WritingMode="vertical">第四項第一号から第三号までに掲げる事項が基本指針に照らして適切なものであること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前項第三号から第五号までに掲げる事項が経営発達支援事業を確実に遂行するために適切なものであること。</Sentence>
+              <Sentence WritingMode="vertical">第四項第三号から第五号までに掲げる事項が経営発達支援事業を確実に遂行するために適切なものであること。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="6">
-          <ParagraphNum>６</ParagraphNum>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、第一項の認定をしようとするときは、都道府県知事の意見を聴かなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="8">
+          <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">経済産業大臣は、第一項の認定をしたときは、経済産業省令で定めるところにより、当該認定に係る経営発達支援計画の内容を公表するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="6">
-        <ArticleCaption>（経営発達支援計画の変更等）</ArticleCaption>
-        <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">前条第一項の認定を受けた商工会及び商工会議所は、当該認定に係る経営発達支援計画を変更しようとするときは、経済産業大臣の認定を受けなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">経済産業大臣は、前条第一項の認定に係る経営発達支援計画（前項の規定による変更の認定があったときは、その変更後のもの。以下「認定経営発達支援計画」という。）が、同条第五項各号のいずれかに適合しなくなったと認めるとき、又は認定経営発達支援計画に従って経営発達支援事業が実施されていないと認めるときは、その認定を取り消すことができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">前条第五項の規定は、第一項の認定について準用する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="7">
-        <ArticleCaption>（基盤施設計画の認定）</ArticleCaption>
-        <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">商工会等は、共同工場、展示施設その他の小規模事業者の事業の共同化等に寄与する施設を設置する事業（以下「基盤施設事業」という。）についての計画（以下「基盤施設計画」という。）を作成し、これを経済産業大臣に提出して、その基盤施設計画が適当である旨の認定を受けることができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">商工会等は、商工会等以外の者が基盤施設事業の全部又は一部を実施することが当該基盤施設事業の効果的かつ適切な実施のために特に必要であると認める場合にあっては、商工会等以外の者を基盤施設事業の全部又は一部を実施する者とする基盤施設計画を作成し、前項の認定を申請することができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">基盤施設計画には、次に掲げる事項を記載しなければならない。</Sentence>
-          </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">基盤施設事業の目標</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">基盤施設事業の内容</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">基盤施設事業の実施時期</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="4">
-            <ItemTitle>四</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">基盤施設事業の実施に必要な資金の額及びその調達方法</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="5">
-            <ItemTitle>五</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">商工会等以外の者が基盤施設事業の全部又は一部を実施する場合にあっては、当該実施する者並びにその者に対して商工会等が行う指導及び助言の方法</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-        <Paragraph Hide="false" Num="4">
-          <ParagraphNum>４</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">経済産業大臣は、第一項の認定の申請があった場合において、その基盤施設計画が次の各号のいずれにも適合するものであると認めるときは、その認定をするものとする。</Sentence>
-          </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">前項第一号から第三号までに掲げる事項が基本指針に照らして適切なものであること。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">前項第三号及び第四号に掲げる事項が基盤施設事業を確実に遂行するために適切なものであること。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">前項第五号に規定する場合にあっては、同号に掲げる者が基盤施設事業の全部又は一部を実施することが当該基盤施設事業の効果的かつ適切な実施のために特に必要であり、かつ、同号に掲げる指導及び助言の方法が適切なものであること。</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
       <Article Delete="false" Hide="false" Num="8">
-        <ArticleCaption>（基盤施設計画の変更等）</ArticleCaption>
+        <ArticleCaption>（経営発達支援計画の変更等）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前条第一項の認定を受けた商工会等は、当該認定に係る基盤施設計画を変更しようとするときは、経済産業大臣の認定を受けなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前条第一項の認定を受けた商工会及び商工会議所並びに関係市町村は、当該認定に係る経営発達支援計画を変更しようとするときは、経済産業大臣の認定を受けなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">経済産業大臣は、前条第一項の認定に係る基盤施設計画（前項の規定による変更の認定があったときは、その変更後のもの。以下「認定基盤施設計画」という。）が、同条第四項各号のいずれかに適合しなくなったと認めるとき、又は認定基盤施設計画に従って基盤施設事業が実施されていないと認めるときは、その認定を取り消すことができる。</Sentence>
+            <Sentence WritingMode="vertical">経済産業大臣は、前条第一項の認定に係る経営発達支援計画（前項の規定による変更の認定があったときは、その変更後のもの。以下「認定経営発達支援計画」という。）が、同条第六項各号のいずれかに適合しなくなったと認めるとき、又は認定経営発達支援計画に従って経営発達支援事業が実施されていないと認めるときは、その認定を取り消すことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前条第四項の規定は、第一項の認定について準用する。</Sentence>
+            <Sentence WritingMode="vertical">前条第六項から第八項までの規定は、第一項の認定について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="9">
-        <ArticleCaption>（資金の確保）</ArticleCaption>
+        <ArticleCaption>（中小企業信用保険法の特例）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国は、認定基盤施設計画に従って基盤施設事業を実施するために必要な資金の確保に努めるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">認定事業継続力強化支援計画において事業継続力強化支援事業を実施する者又は認定経営発達支援計画において経営発達支援事業を実施する者とされた一般社団法人（その社員総会における議決権の二分の一以上を中小企業信用保険法（昭和二十五年法律第二百六十四号）第二条第一項の中小企業者が有しているものに限る。）若しくは一般財団法人（その設立に際して拠出された財産の価額の二分の一以上が同項の中小企業者により拠出されているものに限る。）又は特定非営利活動促進法（平成十年法律第七号）第二条第二項に規定する特定非営利活動法人（その社員総会における表決権の二分の一以上を中小企業者が有しているものに限り、かつ、中小企業信用保険法第二条第一項第六号に該当するものを除く。）（以下この条において「事業実施一般社団法人等」という。）であって、当該認定事業継続力強化支援計画又は当該認定経営発達支援計画に従った事業継続力強化支援事業又は経営発達支援事業の実施に必要な資金に係る中小企業信用保険法第三条第一項又は第三条の二第一項に規定する債務の保証を受けたものについては、当該事業実施一般社団法人等を同法第二条第一項の中小企業者とみなして、同法第三条、第三条の二及び第四条から第八条までの規定を適用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第三条第一項及び第三条の二第一項の規定の適用については、これらの規定中「借入れ」とあるのは、「商工会及び商工会議所による小規模事業者の支援に関する法律（平成五年法律第五十一号）第六条第二項の認定事業継続力強化支援計画又は同法第八条第二項の認定経営発達支援計画に従った事業継続力強化支援事業又は経営発達支援事業の実施に必要な資金の借入れ」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="10">
-        <ArticleCaption>（全国団体の事業の範囲の特例）</ArticleCaption>
+        <ArticleCaption>（独立行政法人中小企業基盤整備機構の行う事業継続力強化支援事業又は経営発達支援事業に関する協力業務）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">全国商工会連合会は、商工会法第五十五条の八第二項に規定する事業のほか、商工会又は都道府県商工会連合会の基盤施設事業の実施を円滑化するため、次の事業を行うものとする。</Sentence>
+            <Sentence WritingMode="vertical">独立行政法人中小企業基盤整備機構は、認定事業継続力強化支援計画に基づき事業継続力強化支援事業を実施する者又は認定経営発達支援計画に基づき経営発達支援事業を実施する者の依頼に応じて、その行う事業継続力強化支援事業又は経営発達支援事業に関する情報の提供その他必要な協力の業務を行う。</Sentence>
           </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">商工会又は都道府県商工会連合会が認定基盤施設計画に従って基盤施設事業を実施するために必要な資金の借入れに係る債務の保証を行うこと。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">前号の事業に附帯する事業を行うこと。</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">日本商工会議所は、商工会議所法（昭和二十八年法律第百四十三号）第六十五条に規定する事業のほか、商工会議所の基盤施設事業の実施を円滑化するため、次の事業を行うものとする。</Sentence>
-          </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">商工会議所が認定基盤施設計画に従って基盤施設事業を実施するために必要な資金の借入れに係る債務の保証を行うこと。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">前号の事業に附帯する事業を行うこと。</Sentence>
-            </ItemSentence>
-          </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="11">
-        <ArticleCaption>（業務方法書）</ArticleCaption>
+        <ArticleCaption>（報告）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">全国団体は、前条第一項又は第二項に規定する事業（以下「保証事業等」という。）の開始の時までに、保証事業等に係る業務方法書を作成し、経済産業大臣の認可を受けなければならない。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+            <Sentence WritingMode="vertical">都道府県知事は、認定事業継続力強化支援計画に係る事業継続力強化支援事業の実施状況について、当該認定を受けた商工会又は商工会議所に対し、報告を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>経済産業大臣は、認定経営発達支援計画に係る経営発達支援事業の実施状況について、当該認定を受けた商工会又は商工会議所に対し、報告を求めることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="12">
-        <ArticleCaption>（信用基金）</ArticleCaption>
-        <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">全国団体は、保証事業等に関する信用基金を設け、国から交付された金額と全国団体が負担する保証債務の弁済に充てることを条件として国以外の者から出えんされた金額との合計額に相当する金額をもってこれに充てるものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="13">
-        <ArticleCaption>（区分経理）</ArticleCaption>
-        <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">全国団体は、保証事業等に係る経理については、その他の経理と区分し、特別の会計を設けて整理しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="14">
-        <ArticleCaption>（事業計画等の認可）</ArticleCaption>
-        <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">全国団体は、毎事業年度、保証事業等に係る事業計画、収支予算及び資金計画を作成し、当該事業年度の開始前に、経済産業大臣の認可を受けなければならない。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="15">
-        <ArticleCaption>（事業報告書等の提出）</ArticleCaption>
-        <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">全国団体は、毎事業年度、保証事業等に係る事業報告書、財産目録及び収支計算書を作成し、当該事業年度終了の日から三月以内に経済産業大臣に提出し、その承認を受けなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="16">
-        <ArticleCaption>（監督）</ArticleCaption>
-        <ArticleTitle>第十六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">経済産業大臣は、保証事業等の適正な実施を確保するため必要があると認めるときは、全国団体に対し、保証事業等に関して監督上必要な命令をすることができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="17">
-        <ArticleCaption>（事業の廃止）</ArticleCaption>
-        <ArticleTitle>第十七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">保証事業等の廃止に伴う第十三条の特別の会計に係る残余財産の帰属その他の措置については、別に法律で定める。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="18">
-        <ArticleCaption>（経済産業省令への委任）</ArticleCaption>
-        <ArticleTitle>第十八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">この法律に定めるもののほか、保証事業等に係る財務及び会計に関する事項は、経済産業省令で定める。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="19">
-        <ArticleCaption>（財務大臣との協議）</ArticleCaption>
-        <ArticleTitle>第十九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">経済産業大臣は、次の場合には、財務大臣と協議しなければならない。</Sentence>
-          </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">第十一条又は第十四条の認可をしようとするとき。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">第十五条の承認をしようとするとき。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">前条の経済産業省令を定めようとするとき。</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="20">
-        <ArticleCaption>（中小企業信用保険法の特例）</ArticleCaption>
-        <ArticleTitle>第二十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">認定経営発達支援計画において経営発達支援事業を実施する者とされた一般社団法人（その社員総会における議決権の二分の一以上を中小企業信用保険法（昭和二十五年法律第二百六十四号）第二条第一項の中小企業者が有しているものに限る。以下「一般社団法人」という。）若しくは一般財団法人（その設立に際して拠出された財産の価額の二分の一以上が同項の中小企業者により拠出されているものに限る。以下「一般財団法人」という。）若しくは特定非営利活動促進法（平成十年法律第七号）第二条第二項に規定する特定非営利活動法人（その社員総会における表決権の二分の一以上を中小企業者が有しているものに限り、かつ、中小企業信用保険法第二条第一項第六号に該当するものを除く。）又は認定基盤施設計画において基盤施設事業を実施する者とされた一般社団法人若しくは一般財団法人（以下「事業実施一般社団法人等」という。）であって、当該認定経営発達支援計画又は当該認定基盤施設計画に従った経営発達支援事業又は基盤施設事業の実施に必要な資金に係る中小企業信用保険法第三条第一項又は第三条の二第一項に規定する債務の保証を受けたものについては、当該事業実施一般社団法人等を同法第二条第一項の中小企業者とみなして、同法第三条、第三条の二及び第四条から第八条までの規定を適用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同法第三条第一項及び第三条の二第一項の規定の適用については、これらの規定中「借入れ」とあるのは、「商工会及び商工会議所による小規模事業者の支援に関する法律（平成五年法律第五十一号）第六条第二項の認定経営発達支援計画又は同法第八条第二項の認定基盤施設計画に従った経営発達支援事業又は基盤施設事業の実施に必要な資金の借入れ」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="21">
-        <ArticleCaption>（独立行政法人中小企業基盤整備機構の行う経営発達支援事業に関する協力業務）</ArticleCaption>
-        <ArticleTitle>第二十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">独立行政法人中小企業基盤整備機構は、認定経営発達支援計画に基づき経営発達支援事業を実施する者の依頼に応じて、その行う経営発達支援事業に関する情報の提供その他必要な協力の業務を行う。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="22">
-        <ArticleCaption>（報告及び検査）</ArticleCaption>
-        <ArticleTitle>第二十二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">経済産業大臣は、認定経営発達支援計画に係る経営発達支援事業又は認定基盤施設計画に係る基盤施設事業の実施状況について、当該認定を受けた商工会等に対し、報告を求めることができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">経済産業大臣は、保証事業等の適正な実施を確保するため必要があると認めるときは、全国団体に対して、保証事業等に係る業務に関し報告をさせ、又はその職員に、全国団体の事務所に立ち入り、帳簿、書類その他の必要な物件を検査させることができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係人に提示しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="4">
-          <ParagraphNum>４</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">第二項の立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="22_2">
         <ArticleCaption>（都道府県又は指定都市が処理する事務）</ArticleCaption>
-        <ArticleTitle>第二十二条の二</ArticleTitle>
+        <ArticleTitle>第十二条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -600,9 +464,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="23">
+      <Article Delete="false" Hide="false" Num="13">
         <ArticleCaption>（権限の委任）</ArticleCaption>
-        <ArticleTitle>第二十三条</ArticleTitle>
+        <ArticleTitle>第十三条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -610,41 +474,20 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="24">
+      <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（罰則）</ArticleCaption>
-        <ArticleTitle>第二十四条</ArticleTitle>
+        <ArticleTitle>第十四条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第二十二条第一項若しくは第二項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避した者は、二十万円以下の罰金に処する。</Sentence>
+            <Sentence WritingMode="vertical">第十一条の規定による報告をせず、又は虚偽の報告をした者は、二十万円以下の罰金に処する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">商工会等の代表者、代理人、使用人その他の従業者が、商工会等の業務に関し、前項の違反行為をしたときは、行為者を罰するほか、その商工会等に対して同項の刑を科する。</Sentence>
+            <Sentence WritingMode="vertical">商工会又は商工会議所の代表者、代理人、使用人その他の従業者が、商工会又は商工会議所の業務に関し、前項の違反行為をしたときは、行為者を罰するほか、その商工会又は商工会議所に対して同項の刑を科する。</Sentence>
           </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="25">
-        <ArticleTitle>第二十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした全国団体の役員は、二十万円以下の過料に処する。</Sentence>
-          </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">この法律の規定により経済産業大臣の認可又は承認を受けなければならない場合において、その認可又は承認を受けなかったとき。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">第十六条の規定による経済産業大臣の命令に違反したとき。</Sentence>
-            </ItemSentence>
-          </Item>
         </Paragraph>
       </Article>
     </MainProvision>
@@ -1043,6 +886,121 @@
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条（中小企業信用保険法附則に一項を加える改正規定を除く。）並びに附則第五条から第十二条まで及び第十五条から第十九条までの規定は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月五日法律第二一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経営発達支援計画に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の日（次条第三項及び第四項において「施行日」という。）前にされた第二条の規定による改正前の商工会及び商工会議所による小規模事業者の支援に関する法律（以下「旧支援法」という。）第五条第一項の認定の申請であって、この法律の施行の際、認定をするかどうかの処分がされていないものに係る認定については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の際現に旧支援法第五条第一項の認定（旧支援法第六条第一項の変更の認定を含む。）を受けている経営発達支援計画については、なおその効力を有するものとし、当該経営発達支援計画及び前項の規定に基づきなお従前の例により認定を受けた経営発達支援計画に関する変更の認定、認定の取消し、中小企業信用保険法（昭和二十五年法律第二百六十四号）の特例及び報告の徴収については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（保証事業等の廃止に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>全国団体（旧支援法第四条第二項に規定する全国団体をいう。以下この条及び次条において同じ。）の平成三十一年三月三十一日に終わる事業年度の旧支援法第十一条に規定する保証事業等（以下この条及び次条第一項において単に「保証事業等」という。）に係る事業報告書、財産目録及び収支計算書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>全国団体の平成三十一年四月一日に始まる事業年度の保証事業等に係る事業計画、収支予算及び資金計画については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>全国団体の平成三十一年四月一日に始まる事業年度は、施行日の前日に終わるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">全国団体の平成三十一年四月一日に始まる事業年度の保証事業等に係る事業報告書、財産目録及び収支計算書については、なお従前の例による。</Sentence>
+            <Sentence Num="2">この場合において、全国団体は、当該事業年度の保証事業等に係る事業報告書、財産目録及び収支計算書を、施行日から三月以内に経済産業大臣に提出し、その承認を受けなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>全国団体は、保証事業等を廃止したときは、旧支援法第十二条の信用基金（次項において単に「信用基金」という。）を廃止するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>全国団体は、前項の規定により信用基金を廃止した場合において、信用基金に残余財産があるときは、当該残余財産を、国から交付された金額及び全国団体が負担する保証債務の弁済に充てることを条件として国以外の者（以下この項において「出えん者」という。）から出えんされた金額の割合に応じて、国及び出えん者に返還しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後の規定の実施状況を勘案し、必要があると認めるときは、当該規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

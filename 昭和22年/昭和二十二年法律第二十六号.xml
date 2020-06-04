@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="26" Year="22">
+<Law DataInfo="190731e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="26" Year="22">
   <LawNum>昭和二十二年法律第二十六号</LawNum>
   <LawBody>
     <LawTitle>学校教育法</LawTitle>
@@ -244,30 +244,23 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>成年被後見人又は被保佐人</Sentence>
+                <Sentence>禁錮以上の刑に処せられた者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>禁<Ruby>錮<Rt>こ</Rt>
-</Ruby>以上の刑に処せられた者</Sentence>
+                <Sentence>教育職員免許法第十条第一項第二号又は第三号に該当することにより免許状がその効力を失い、当該失効の日から三年を経過しない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>教育職員免許法第十条第一項第二号又は第三号に該当することにより免許状がその効力を失い、当該失効の日から三年を経過しない者</Sentence>
+                <Sentence>教育職員免許法第十一条第一項から第三項までの規定により免許状取上げの処分を受け、三年を経過しない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence>教育職員免許法第十一条第一項から第三項までの規定により免許状取上げの処分を受け、三年を経過しない者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
               <ItemSentence>
                 <Sentence>日本国憲法施行の日以後において、日本国憲法又はその下に成立した政府を暴力で破壊することを主張する政党その他の団体を結成し、又はこれに加入した者</Sentence>
               </ItemSentence>
@@ -1762,7 +1755,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">専門性が求められる職業に係る実務の経験を通じて当該職業を担うための実践的な能力を修得した者が専門職大学等（専門職大学又は第百八条第四項に規定する目的をその目的とする大学（第百四条第五項及び第六項において「専門職短期大学」という。）をいう。以下この条及び第百九条第三項において同じ。）に入学する場合において、当該実践的な能力の修得により当該専門職大学等の教育課程の一部を履修したと認められるときは、文部科学大臣の定めるところにより、修得した実践的な能力の水準その他の事項を勘案して専門職大学等が定める期間を修業年限に通算することができる。</Sentence>
+              <Sentence Function="main" Num="1">専門性が求められる職業に係る実務の経験を通じて当該職業を担うための実践的な能力を修得した者が専門職大学等（専門職大学又は第百八条第四項に規定する目的をその目的とする大学（第百四条第五項及び第六項において「専門職短期大学」という。）をいう。以下同じ。）に入学する場合において、当該実践的な能力の修得により当該専門職大学等の教育課程の一部を履修したと認められるときは、文部科学大臣の定めるところにより、修得した実践的な能力の水準その他の事項を勘案して専門職大学等が定める期間を修業年限に通算することができる。</Sentence>
               <Sentence Function="proviso" Num="2">ただし、その期間は、当該専門職大学等の修業年限の二分の一を超えない範囲内で文部科学大臣の定める期間を超えてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -2030,7 +2023,7 @@
           <Paragraph Num="2">
             <ParagraphNum>○２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前項本文の規定にかかわらず、大学院を置く大学は、文部科学大臣の定めるところにより、第八十三条の大学に文部科学大臣の定める年数以上在学した者（これに準ずる者として文部科学大臣が定める者を含む。）であつて、当該大学院を置く大学の定める単位を優秀な成績で修得したと認めるものを、当該大学院に入学させることができる。</Sentence>
+              <Sentence>前項本文の規定にかかわらず、大学院を置く大学は、文部科学大臣の定めるところにより、第八十三条の大学に文部科学大臣の定める年数以上在学した者（これに準ずる者として文部科学大臣が定める者を含む。）であつて、当該大学院を置く大学の定める単位を優秀な成績で修得したと認めるもの（当該単位の修得の状況及びこれに準ずるものとして文部科学大臣が定めるものに基づき、これと同等以上の能力及び資質を有すると認めるものを含む。）を、当該大学院に入学させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2217,7 +2210,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>大学は、その教育研究水準の向上に資するため、文部科学大臣の定めるところにより、当該大学の教育及び研究、組織及び運営並びに施設及び設備（次項において「教育研究等」という。）の状況について自ら点検及び評価を行い、その結果を公表するものとする。</Sentence>
+              <Sentence>大学は、その教育研究水準の向上に資するため、文部科学大臣の定めるところにより、当該大学の教育及び研究、組織及び運営並びに施設及び設備（次項及び第五項において「教育研究等」という。）の状況について自ら点検及び評価を行い、その結果を公表するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -2237,7 +2230,25 @@
           <Paragraph Num="4">
             <ParagraphNum>○４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前二項の認証評価は、大学からの求めにより、大学評価基準（前二項の認証評価を行うために認証評価機関が定める基準をいう。次条において同じ。）に従つて行うものとする。</Sentence>
+              <Sentence>前二項の認証評価は、大学からの求めにより、大学評価基準（前二項の認証評価を行うために認証評価機関が定める基準をいう。以下この条及び次条において同じ。）に従つて行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>○５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第二項及び第三項の認証評価においては、それぞれの認証評価の対象たる教育研究等状況（第二項に規定する大学の教育研究等の総合的な状況及び第三項に規定する専門職大学等又は専門職大学院の教育課程、教員組織その他教育研究活動の状況をいう。次項及び第七項において同じ。）が大学評価基準に適合しているか否かの認定を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>○６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>大学は、教育研究等状況について大学評価基準に適合している旨の認証評価機関の認定（次項において「適合認定」という。）を受けるよう、その教育研究水準の向上に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>○７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>文部科学大臣は、大学が教育研究等状況について適合認定を受けられなかつたときは、当該大学に対し、当該大学の教育研究等状況について、報告又は資料の提出を求めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2913,8 +2924,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、昭和二十二年四月一日から、これを施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、第二十二条第一項及び第三十九条第一項に規定する盲学校、<Ruby>聾<Rt>ろう</Rt>
+            <Sentence Num="1">この法律は、昭和二十二年四月一日から、これを施行する。</Sentence>
+            <Sentence Num="2">ただし、第二十二条第一項及び第三十九条第一項に規定する盲学校、<Ruby>聾<Rt>ろう</Rt>
 </Ruby>学校及び養護学校における就学義務並びに第七十四条に規定するこれらの学校の設置義務に関する部分の施行期日は、政令で、これを定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -3172,8 +3183,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">高等専門学校は、昭和三十七年四月一日前には、設置することができない。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、同日前にその設置のため必要な手続その他の行為をすることを妨げない。</Sentence>
+            <Sentence Num="1">高等専門学校は、昭和三十七年四月一日前には、設置することができない。</Sentence>
+            <Sentence Num="2">ただし、同日前にその設置のため必要な手続その他の行為をすることを妨げない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3206,8 +3217,8 @@
       <Paragraph Num="2">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Function="main" Num="1">この法律による改正後の規定は、この附則に特別の定めがある場合を除き、この法律の施行前にされた行政庁の処分、この法律の施行前にされた申請に係る行政庁の不作為その他この法律の施行前に生じた事項についても適用する。</Sentence>
-          <Sentence Function="proviso" Num="2">ただし、この法律による改正前の規定によつて生じた効力を妨げない。</Sentence>
+          <Sentence Num="1">この法律による改正後の規定は、この附則に特別の定めがある場合を除き、この法律の施行前にされた行政庁の処分、この法律の施行前にされた申請に係る行政庁の不作為その他この法律の施行前に生じた事項についても適用する。</Sentence>
+          <Sentence Num="2">ただし、この法律による改正前の規定によつて生じた効力を妨げない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="3">
@@ -3329,8 +3340,8 @@
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Function="main" Num="1">この法律は、公布の日から施行する。</Sentence>
-          <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、それぞれ当該各号に掲げる日から施行する。</Sentence>
+          <Sentence Num="1">この法律は、公布の日から施行する。</Sentence>
+          <Sentence Num="2">ただし、次の各号に掲げる規定は、それぞれ当該各号に掲げる日から施行する。</Sentence>
         </ParagraphSentence>
         <Item Num="1">
           <ItemTitle>一</ItemTitle>
@@ -3635,8 +3646,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十一年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、第一条中学校教育法第五十五条の次に一条を加える改正規定は平成十年十月一日から、次条の規定は公布の日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十一年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、第一条中学校教育法第五十五条の次に一条を加える改正規定は平成十年十月一日から、次条の規定は公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3685,8 +3696,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十二年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十二年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -3792,8 +3803,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -3871,8 +3882,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -3917,8 +3928,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -3976,8 +3987,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十五年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十五年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -4108,8 +4119,8 @@
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence Function="main" Num="1">この法律は、平成十七年四月一日から施行する。</Sentence>
-          <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          <Sentence Num="1">この法律は、平成十七年四月一日から施行する。</Sentence>
+          <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
         </ParagraphSentence>
         <Item Num="1">
           <ItemTitle>一</ItemTitle>
@@ -4132,8 +4143,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十九年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、第四条、第六十八条の二及び第六十九条の二の改正規定並びに附則第三条、第六条、第七条（税理士法（昭和二十六年法律第二百三十七号）第八条第一項第一号中「第六十八条の二第三項第二号」を「第六十八条の二第四項第二号」に改める改正規定に限る。）、第九条及び第十条の規定は、平成十七年十月一日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十九年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、第四条、第六十八条の二及び第六十九条の二の改正規定並びに附則第三条、第六条、第七条（税理士法（昭和二十六年法律第二百三十七号）第八条第一項第一号中「第六十八条の二第三項第二号」を「第六十八条の二第四項第二号」に改める改正規定に限る。）、第九条及び第十条の規定は、平成十七年十月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4237,8 +4248,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -4337,8 +4348,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -4509,8 +4520,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成二十八年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次条並びに附則第三条及び第二十条の規定は、公布の日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成二十八年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次条並びに附則第三条及び第二十条の規定は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4543,8 +4554,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成二十八年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成二十八年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -4679,13 +4690,13 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="4">
+      <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Num="1">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>前二条に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+            <Sentence WritingMode="vertical">前二条に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4736,7 +4747,7 @@
             <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1:3">
-            <ItemTitle>一～三</ItemTitle>
+            <ItemTitle>一・三</ItemTitle>
             <ItemSentence>
               <Sentence>略</Sentence>
             </ItemSentence>
@@ -4784,6 +4795,151 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>前条に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月二四日法律第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成三十二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第二条中国立大学法人法附則に一条を加える改正規定、第四条中独立行政法人大学改革支援・学位授与機構法第三条の改正規定及び同法第十六条第一項の改正規定並びに次条並びに附則第四条第三項及び第四項、第九条、第十一条並びに第十二条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条ただし書に規定する規定については、当該規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、新私立学校法の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第四十条、第五十九条、第六十一条、第七十五条（児童福祉法第三十四条の二十の改正規定に限る。）、第八十五条、第百二条、第百七条（民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律第二十六条の改正規定に限る。）、第百十一条、第百四十三条、第百四十九条、第百五十二条、第百五十四条（不動産の鑑定評価に関する法律第二十五条第六号の改正規定に限る。）及び第百六十八条並びに次条並びに附則第三条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条、第四条、第五条（国家戦略特別区域法第十九条の二第一項の改正規定を除く。）、第二章第二節及び第四節、第四十一条（地方自治法第二百五十二条の二十八の改正規定を除く。）、第四十二条から第四十八条まで、第五十条、第五十四条、第五十七条、第六十条、第六十二条、第六十六条から第六十九条まで、第七十五条（児童福祉法第三十四条の二十の改正規定を除く。）、第七十六条、第七十七条、第七十九条、第八十条、第八十二条、第八十四条、第八十七条、第八十八条、第九十条（職業能力開発促進法第三十条の十九第二項第一号の改正規定を除く。）、第九十五条、第九十六条、第九十八条から第百条まで、第百四条、第百八条、第百九条、第百十二条、第百十三条、第百十五条、第百十六条、第百十九条、第百二十一条、第百二十三条、第百三十三条、第百三十五条、第百三十八条、第百三十九条、第百六十一条から第百六十三条まで、第百六十六条、第百六十九条、第百七十条、第百七十二条（フロン類の使用の合理化及び管理の適正化に関する法律第二十九条第一項第一号の改正規定に限る。）並びに第百七十三条並びに附則第十六条、第十七条、第二十条、第二十一条及び第二十三条から第二十九条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して六月を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（行政庁の行為等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（前条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行の日前に、この法律による改正前の法律又はこれに基づく命令の規定（欠格条項その他の権利の制限に係る措置を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、会社法（平成十七年法律第八十六号）及び一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）における法人の役員の資格を成年被後見人又は被保佐人であることを理由に制限する旨の規定について、この法律の公布後一年以内を目途として検討を加え、その結果に基づき、当該規定の削除その他の必要な法制上の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二六日法律第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成三十二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中法科大学院の教育と司法試験等との連携等に関する法律第六条第四項の改正規定及び次条から附則第四条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前二条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

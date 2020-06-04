@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="256" Year="26">
+<Law DataInfo="200601e04k09m02" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="256" Year="26">
   <LawNum>昭和二十六年政令第二百五十六号</LawNum>
   <LawBody>
     <LawTitle>自動車登録令</LawTitle>
@@ -239,8 +239,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">登録は、登録権利者及び登録義務者又はこれらの者の代理人が運輸監理部又は運輸支局に出頭して申請しなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、運輸監理部又は運輸支局に出頭することを要しない。</Sentence>
+                <Sentence>登録は、登録権利者及び登録義務者又はこれらの者の代理人が運輸監理部又は運輸支局に出頭して申請しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -446,7 +445,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>第十条ただし書に規定する場合を除くほか、当事者が出頭しないとき。</Sentence>
+                  <Sentence>情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合を除くほか、当事者が出頭しないとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
@@ -1901,6 +1900,19 @@
           <Sentence>この政令は、民法の一部を改正する法律の施行の日（平成三十二年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一三日政令第一八三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律（次条において「改正法」という。）の施行の日（令和元年十二月十六日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

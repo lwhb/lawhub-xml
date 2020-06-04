@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="227" Year="37">
+<Law DataInfo="200508e01k01m02" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="227" Year="37">
   <LawNum>昭和三十七年政令第二百二十七号</LawNum>
   <LawBody>
     <LawTitle>外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令</LawTitle>
@@ -1110,7 +1110,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第十二条第一項に規定する対象国際運輸業所得には、外国居住者等がその営む国際運輸業に付随して次に掲げる業務を行う場合における当該業務に係る所得（地方税法第七十二条の十二第一号イに規定する付加価値額及び同号ロに規定する資本金等の額を含む。）を含むものとする。</Sentence>
+              <Sentence>法第十二条第一項に規定する対象国際運輸業所得には、外国居住者等がその営む国際運輸業に付随して次に掲げる業務を行う場合における当該業務に係る所得（地方税法第七十二条の十二第一号に規定する付加価値額及び同条第二号に規定する資本金等の額を含む。）を含むものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -3270,7 +3270,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第四十四条に規定する国際運輸業（次条及び別表において「国際運輸業」という。）を営む者の法第四十四条及び第四十五条に規定する所得（地方税法第七十二条の十二第一号イに規定する付加価値額及び同号ロに規定する資本金等の額を含む。以下この条、次条及び同表において同じ。）には、その者が当該事業に付随して次に掲げる業務を行う場合における当該業務に係る所得を含むものとする。</Sentence>
+              <Sentence>法第四十四条に規定する国際運輸業（次条及び別表において「国際運輸業」という。）を営む者の法第四十四条及び第四十五条に規定する所得（地方税法第七十二条の十二第一号に規定する付加価値額及び同条第二号に規定する資本金等の額を含む。以下この条、次条及び同表において同じ。）には、その者が当該事業に付随して次に掲げる業務を行う場合における当該業務に係る所得を含むものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -4055,6 +4055,19 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一〇九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表</AppdxTableTitle>

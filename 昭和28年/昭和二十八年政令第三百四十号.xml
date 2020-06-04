@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="340" Year="28">
+<Law DataInfo="190726e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="340" Year="28">
   <LawNum>昭和二十八年政令第三百四十号</LawNum>
   <LawBody>
     <LawTitle>学校教育法施行令</LawTitle>
@@ -629,7 +629,7 @@
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence>聴力の測定は、日本工業規格によるオージオメータによる。</Sentence>
+                    <Sentence>聴力の測定は、日本産業規格によるオージオメータによる。</Sentence>
                   </ItemSentence>
                 </Item>
               </Remarks>
@@ -1914,6 +1914,19 @@
           <Sentence>この政令は、平成三十一年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二八日政令第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

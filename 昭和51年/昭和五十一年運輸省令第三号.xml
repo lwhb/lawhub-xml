@@ -138,7 +138,7 @@
                 <Sentence WritingMode="vertical">交付の申請</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">保障契約証明書一枚につき一万四千三百円（行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して（以下「電子情報処理組織により」という。）申請する場合にあつては、一万四千百円）</Sentence>
+                <Sentence WritingMode="vertical">保障契約証明書一枚につき一万四千三百円（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。次号及び第十四条において「情報通信技術活用法」という。）第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、一万四千百円）</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -149,7 +149,7 @@
                 <Sentence WritingMode="vertical">再交付の申請</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">保障契約証明書一枚につき一万二千八百円（電子情報処理組織により申請する場合にあつては、一万二千七百円）</Sentence>
+                <Sentence WritingMode="vertical">保障契約証明書一枚につき一万二千八百円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、一万二千七百円）</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -157,8 +157,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">前項の手数料は、手数料の額に相当する収入印紙を第四条第一項又は前条第一項の申請書にはつて納付しなければならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電子情報処理組織により前項の申請をする場合において、当該申請を行つたことにより得られた納付情報により納付するときは、現金をもつてすることができる。</Sentence>
+            <Sentence WritingMode="vertical">前項の手数料は、手数料の額に相当する収入印紙を第四条第一項又は前条第一項の申請書に貼つて納付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -308,7 +307,7 @@
                 <Sentence WritingMode="vertical">交付の申請</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">一般船舶保障契約証明書一枚につき一万四千三百円（電子情報処理組織により申請する場合にあつては、一万四千百円）</Sentence>
+                <Sentence WritingMode="vertical">一般船舶保障契約証明書一枚につき一万四千三百円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、一万四千百円）</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -319,7 +318,7 @@
                 <Sentence WritingMode="vertical">再交付の申請</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">一般船舶保障契約証明書一枚につき一万二千八百円（電子情報処理組織により申請する場合にあつては、一万二千七百円）</Sentence>
+                <Sentence WritingMode="vertical">一般船舶保障契約証明書一枚につき一万二千八百円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、一万二千七百円）</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -327,8 +326,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">前項の手数料は、手数料の額に相当する収入印紙を第十二条第一項又は前条第一項の申請書にはつて納付しなければならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電子情報処理組織により前項の申請をする場合において、当該申請を行つたことにより得られた納付情報により納付するときは、現金をもつてすることができる。</Sentence>
+            <Sentence WritingMode="vertical">前項の手数料は、手数料の額に相当する収入印紙を第十二条第一項又は前条第一項の申請書に貼つて納付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1078,7 +1076,7 @@
       <RelatedArticleNum>（附則第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_001.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1087,7 +1085,7 @@
       <RelatedArticleNum>（附則第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_002.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1409,7 +1407,7 @@
       <RelatedArticleNum>（附則第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_003.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1418,7 +1416,7 @@
       <RelatedArticleNum>（附則第４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_004.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1427,7 +1425,7 @@
       <RelatedArticleNum>（附則第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_005.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1436,7 +1434,7 @@
       <RelatedArticleNum>（附則第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_006.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1480,12 +1478,195 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一六日国土交通省令第四七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行の日（令和元年十二月十六日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（航空法施行規則の一部を改正する省令の一部改正）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">航空法施行規則の一部を改正する省令（平成二十六年国土交通省令第四十八号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第二項中「平成三十六年三月三十一日」を「令和六年三月三十一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（航空法施行規則の一部を改正する省令の一部改正）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">航空法施行規則の一部を改正する省令（平成二十六年国土交通省令第八十二号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第二項中「平成三十七年三月三十一日」を「令和七年三月三十一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（海洋汚染等及び海上災害の防止に関する法律の規定に基づく船舶の設備等の検査等に関する規則の一部を改正する省令の一部改正）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">海洋汚染等及び海上災害の防止に関する法律の規定に基づく船舶の設備等の検査等に関する規則の一部を改正する省令（平成二十七年国土交通省令第六十五号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第二項中「平成三十二年十二月三十一日」を「令和二年十二月三十一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（航空法施行規則の一部を改正する省令の一部改正）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">航空法施行規則の一部を改正する省令（平成二十七年国土交通省令第七十七号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第二項中「平成三十二年一月三十一日」を「令和二年一月三十一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（建設業法施行規則の一部を改正する省令の一部改正）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">建設業法施行規則の一部を改正する省令（平成二十七年国土交通省令第八十三号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第四条中「平成三十三年三月三十一日」を「令和三年三月三十一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（船舶機関規則等の一部を改正する省令の一部改正）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">船舶機関規則等の一部を改正する省令（平成二十八年国土交通省令第八十八号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第二条第一項中「平成三十三年一月一日」を「令和三年一月一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（航空法施行規則の一部を改正する省令の一部改正）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">航空法施行規則の一部を改正する省令（平成二十九年国土交通省令第五十九号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第四条中「平成三十一年十二月三十一日」を「令和元年十二月三十一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第五条中「平成三十六年五月三十一日」を「令和六年五月三十一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（通訳案内士法及び旅行業法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令の一部改正）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">通訳案内士法及び旅行業法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令（平成三十年国土交通省令第一号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第二条中「平成三十二年三月三十一日」を「令和二年三月三十一日」に、「受けなければらならない」を「受けなければならない」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleCaption>（海洋汚染等及び海上災害の防止に関する法律施行規則等の一部を改正する省令の一部改正）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">海洋汚染等及び海上災害の防止に関する法律施行規則等の一部を改正する省令（平成三十年国土交通省令第十号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第一条ただし書中「平成三十一年十二月三十一日」を「令和元年十二月三十一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleCaption>（エネルギーの使用の合理化等に関する法律の規定に基づく輸送事業者に係る届出等に関する省令及びエネルギーの使用の合理化等に関する法律の規定に基づく立入検査をする職員の携帯する身分を示す証明書の様式を定める省令の一部を改正する省令の一部改正）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">エネルギーの使用の合理化等に関する法律の規定に基づく輸送事業者に係る届出等に関する省令及びエネルギーの使用の合理化等に関する法律の規定に基づく立入検査をする職員の携帯する身分を示す証明書の様式を定める省令の一部を改正する省令（平成三十年国土交通省令第八十五号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第二項中「平成三十二年三月三十一日」を「令和二年三月三十一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="12">
+        <ArticleCaption>（航空法施行規則の一部を改正する省令の一部改正）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">航空法施行規則の一部を改正する省令（平成三十一年国土交通省令第十四号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第三項中「平成三十九年三月三十一日」を「令和九年三月三十一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_007.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1494,7 +1675,7 @@
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_008.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1503,7 +1684,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_009.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1512,7 +1693,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_010.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1521,7 +1702,7 @@
       <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_011.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1530,7 +1711,7 @@
       <RelatedArticleNum>（第１２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_012.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1539,7 +1720,7 @@
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_013.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1548,7 +1729,7 @@
       <RelatedArticleNum>（第１５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_014.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1557,7 +1738,7 @@
       <RelatedArticleNum>（第１７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_015.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1566,7 +1747,7 @@
       <RelatedArticleNum>（第２２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_1907111107_016.pdf"/>
+          <Fig src="./pict/S51F03901000003_2005281805_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

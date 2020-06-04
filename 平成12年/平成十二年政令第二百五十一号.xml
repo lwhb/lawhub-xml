@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200417e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="251" Year="12">
+<Law DataInfo="200603e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="251" Year="12">
   <LawNum>平成十二年政令第二百五十一号</LawNum>
   <LawBody>
     <LawTitle>文部科学省組織令</LawTitle>
@@ -6127,23 +6127,29 @@
                 <Item Num="10">
                   <ItemTitle>十</ItemTitle>
                   <ItemSentence>
-                    <Sentence>学校における芸術に関する教育の基準の設定に関すること。</Sentence>
+                    <Sentence>文化観光拠点施設を中核とした地域における文化観光の推進に関する法律（令和二年法律第十八号）の施行に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="11">
                   <ItemTitle>十一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>私立学校教育の振興のための学校法人（放送大学学園を除く。）その他の私立学校の設置者、地方公共団体及び関係団体に対する助成（学校における芸術に関する教育に係るものに限る。）に関すること。</Sentence>
+                    <Sentence>学校における芸術に関する教育の基準の設定に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="12">
                   <ItemTitle>十二</ItemTitle>
                   <ItemSentence>
-                    <Sentence>地方公共団体の機関その他の関係機関に対し、学校における芸術に関する教育に係る専門的、技術的な指導及び助言を行うこと。</Sentence>
+                    <Sentence>私立学校教育の振興のための学校法人（放送大学学園を除く。）その他の私立学校の設置者、地方公共団体及び関係団体に対する助成（学校における芸術に関する教育に係るものに限る。）に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="13">
                   <ItemTitle>十三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>地方公共団体の機関その他の関係機関に対し、学校における芸術に関する教育に係る専門的、技術的な指導及び助言を行うこと。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="14">
+                  <ItemTitle>十四</ItemTitle>
                   <ItemSentence>
                     <Sentence>教育関係職員その他の関係者に対し、学校における芸術に関する教育に係る専門的、技術的な指導及び助言を行うこと。</Sentence>
                   </ItemSentence>
@@ -6990,6 +6996,15 @@
         <ParagraphSentence>
           <Sentence Function="main" Num="1">この政令は、令和二年四月一日から施行する。</Sentence>
           <Sentence Function="proviso" Num="2">ただし、第四条、第二十四条及び第二十五条の改正規定、第二十六条を削る改正規定、第二十七条第三号の改正規定、同条を第二十六条とし、第二十八条を第二十七条とし、同条の次に一条を加える改正規定並びに第三十一条の改正規定は、同年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三〇日政令第一五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、文化観光拠点施設を中核とした地域における文化観光の推進に関する法律（令和二年法律第十八号）の施行の日（令和二年五月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

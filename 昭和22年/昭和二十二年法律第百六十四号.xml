@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="164" Year="22">
+<Law DataInfo="200114e04k09m02" Era="Showa" Lang="ja" LawType="Act" Num="164" Year="22">
   <LawNum>昭和二十二年法律第百六十四号</LawNum>
   <LawBody>
     <LawTitle>児童福祉法</LawTitle>
@@ -642,7 +642,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">第八項、第二十七条第六項、第三十三条の十五第三項、第三十五条第六項、第四十六条第四項及び第五十九条第五項の規定によりその権限に属させられた事項を調査審議するため、都道府県に児童福祉に関する審議会その他の合議制の機関を置くものとする。</Sentence>
+                <Sentence Function="main" Num="1">第九項、第二十七条第六項、第三十三条の十五第三項、第三十五条第六項、第四十六条第四項及び第五十九条第五項の規定によりその権限に属させられた事項を調査審議するため、都道府県に児童福祉に関する審議会その他の合議制の機関を置くものとする。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、社会福祉法（昭和二十六年法律第四十五号）第十二条第一項の規定により同法第七条第一項に規定する地方社会福祉審議会（以下「地方社会福祉審議会」という。）に児童福祉に関する事項を調査審議させる都道府県にあつては、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -679,11 +679,17 @@
             <Paragraph Num="7">
               <ParagraphNum>○７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>社会保障審議会及び児童福祉審議会は、必要に応じ、相互に資料を提供する等常に緊密な連絡をとらなければならない。</Sentence>
+                <Sentence>児童福祉審議会は、前項の規定により意見を聴く場合においては、意見を述べる者の心身の状況、その者の置かれている環境その他の状況に配慮しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8">
               <ParagraphNum>○８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>社会保障審議会及び児童福祉審議会は、必要に応じ、相互に資料を提供する等常に緊密な連絡をとらなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>○９</ParagraphNum>
               <ParagraphSentence>
                 <Sentence>社会保障審議会及び都道府県児童福祉審議会（第一項ただし書に規定する都道府県にあつては、地方社会福祉審議会とする。第二十七条第六項、第三十三条の十二第一項及び第三項、第三十三条の十三、第三十三条の十五、第三十五条第六項、第四十六条第四項並びに第五十九条第五項及び第六項において同じ。）は、児童及び知的障害者の福祉を図るため、芸能、出版物、玩具、遊戯等を推薦し、又はそれらを製作し、興行し、若しくは販売する者等に対し、必要な勧告をすることができる。</Sentence>
               </ParagraphSentence>
@@ -769,6 +775,12 @@
                 <Sentence>市町村は、この法律による事務を適切に行うために必要な体制の整備に努めるとともに、当該事務に従事する職員の人材の確保及び資質の向上のために必要な措置を講じなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>○５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>国は、市町村における前項の体制の整備及び措置の実施に関し、必要な支援を行うように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Num="10_2">
             <ArticleTitle>第十条の二</ArticleTitle>
@@ -830,6 +842,12 @@
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
                   <Subitem1Sentence>
+                    <Sentence>児童の権利の保護の観点から、一時保護の解除後の家庭その他の環境の調整、当該児童の状況の把握その他の措置により当該児童の安全を確保すること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>ト</Subitem1Title>
+                  <Subitem1Sentence>
                     <Sentence>里親に関する次に掲げる業務を行うこと。</Sentence>
                   </Subitem1Sentence>
                   <Subitem2 Num="1">
@@ -863,10 +881,10 @@
                     </Subitem2Sentence>
                   </Subitem2>
                 </Subitem1>
-                <Subitem1 Num="7">
-                  <Subitem1Title>ト</Subitem1Title>
+                <Subitem1 Num="8">
+                  <Subitem1Title>チ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>養子縁組により養子となる児童、その父母及び当該養子となる児童の養親となる者、養子縁組により養子となつた児童、その養親となつた者及び当該養子となつた児童の父母（民法（明治二十九年法律第八十九号）第八百十七条の二第一項に規定する特別養子縁組により親族関係が終了した当該養子となつた児童の実方の父母を含む。）その他の児童を養子とする養子縁組に関する者につき、その相談に応じ、必要な情報の提供、助言その他の援助を行うこと。</Sentence>
+                    <Sentence>養子縁組により養子となる児童、その父母及び当該養子となる児童の養親となる者、養子縁組により養子となつた児童、その養親となつた者及び当該養子となつた児童の父母（民法（明治二十九年法律第八十九号）第八百十七条の二第一項に規定する特別養子縁組（第三十三条の六の二において「特別養子縁組」という。）により親族関係が終了した当該養子となつた児童の実方の父母を含む。）その他の児童を養子とする養子縁組に関する者につき、その相談に応じ、必要な情報の提供、助言その他の援助を行うこと。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -880,7 +898,7 @@
             <Paragraph Num="2">
               <ParagraphNum>○２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>都道府県知事は、市町村の第十条第一項各号に掲げる業務の適切な実施を確保するため必要があると認めるときは、市町村に対し、必要な助言を行うことができる。</Sentence>
+                <Sentence>都道府県知事は、市町村の第十条第一項各号に掲げる業務の適切な実施を確保するため必要があると認めるときは、市町村に対し、体制の整備その他の措置について必要な助言を行うことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -892,13 +910,25 @@
             <Paragraph Num="4">
               <ParagraphNum>○４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>都道府県知事は、第一項第二号ヘに掲げる業務（次項において「里親支援事業」という。）に係る事務の全部又は一部を厚生労働省令で定める者に委託することができる。</Sentence>
+                <Sentence>都道府県知事は、第一項第二号トに掲げる業務（次項において「里親支援事業」という。）に係る事務の全部又は一部を厚生労働省令で定める者に委託することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>○５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence>前項の規定により行われる里親支援事業に係る事務に従事する者又は従事していた者は、その事務に関して知り得た秘密を漏らしてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>○６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>都道府県は、この法律による事務を適切に行うために必要な体制の整備に努めるとともに、当該事務に従事する職員の人材の確保及び資質の向上のために必要な措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>○７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>国は、都道府県における前項の体制の整備及び措置の実施に関し、必要な支援を行うように努めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -932,6 +962,18 @@
               <ParagraphNum>○５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence>児童相談所長は、その管轄区域内の社会福祉法に規定する福祉に関する事務所（以下「福祉事務所」という。）の長（以下「福祉事務所長」という。）に必要な調査を委嘱することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>○６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>都道府県知事は、第二項に規定する業務の質の評価を行うことその他必要な措置を講ずることにより、当該業務の質の向上に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>○７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>国は、前項の措置を援助するために、児童相談所の業務の質の適切な評価の実施に資するための措置を講ずるよう努めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -996,11 +1038,23 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>児童の福祉に関する事務をつかさどる職員（以下「児童福祉司」という。）として二年以上勤務した者又は児童福祉司たる資格を得た後二年以上所員として勤務した者</Sentence>
+                  <Sentence>精神保健福祉士</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>公認心理師</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>児童の福祉に関する事務をつかさどる職員（以下「児童福祉司」という。）として二年以上勤務した者又は児童福祉司たる資格を得た後二年以上所員として勤務した者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
                 <ItemSentence>
                   <Sentence>前各号に掲げる者と同等以上の能力を有すると認められる者であつて、厚生労働省令で定めるもの</Sentence>
                 </ItemSentence>
@@ -1021,7 +1075,7 @@
             <Paragraph Num="5">
               <ParagraphNum>○５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>判定をつかさどる所員の中には、第二項第一号に該当する者又はこれに準ずる資格を有する者及び同項第二号に該当する者又はこれに準ずる資格を有する者が、それぞれ一人以上含まれなければならない。</Sentence>
+                <Sentence>判定をつかさどる所員の中には、第二項第一号に該当する者又はこれに準ずる資格を有する者及び同項第二号に該当する者若しくはこれに準ずる資格を有する者又は同項第五号に該当する者が、それぞれ一人以上含まれなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
@@ -1036,7 +1090,7 @@
                     <Sentence>心理に関する専門的な知識及び技術を必要とする指導</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>第二項第一号に該当する者若しくはこれに準ずる資格を有する者又は同項第二号に該当する者若しくはこれに準ずる資格を有する者</Sentence>
+                    <Sentence>第二項第一号に該当する者若しくはこれに準ずる資格を有する者、同項第二号に該当する者若しくはこれに準ずる資格を有する者又は同項第五号に該当する者</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -1051,6 +1105,12 @@
                   </Column>
                 </ItemSentence>
               </Item>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>○７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項第一号に規定する指導をつかさどる所員の数は、政令で定める基準を標準として都道府県が定めるものとする。</Sentence>
+              </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Num="12_4">
@@ -1124,7 +1184,7 @@
             <Paragraph Num="2">
               <ParagraphNum>○２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>児童福祉司の数は、政令で定める基準を標準として都道府県が定めるものとする。</Sentence>
+                <Sentence>児童福祉司の数は、各児童相談所の管轄区域内の人口、児童虐待の防止等に関する法律（平成十二年法律第八十二号）第二条に規定する児童虐待（以下単に「児童虐待」という。）に係る相談に応じた件数、第二十七条第一項第三号の規定による里親への委託の状況及び市町村におけるこの法律による事務の実施状況その他の条件を総合的に勘案して政令で定める基準を標準として都道府県が定めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -1159,11 +1219,23 @@
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>社会福祉主事として二年以上児童福祉事業に従事した者であつて、厚生労働大臣が定める講習会の課程を修了したもの</Sentence>
+                  <Sentence>精神保健福祉士</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>公認心理師</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence>社会福祉主事として二年以上児童福祉事業に従事した者であつて、厚生労働大臣が定める講習会の課程を修了したもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
                 <ItemSentence>
                   <Sentence>前各号に掲げる者と同等以上の能力を有すると認められる者であつて、厚生労働省令で定めるもの</Sentence>
                 </ItemSentence>
@@ -1178,29 +1250,35 @@
             <Paragraph Num="5">
               <ParagraphNum>○５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>他の児童福祉司が前項の職務を行うため必要な専門的技術に関する指導及び教育を行う児童福祉司は、児童福祉司としておおむね五年以上勤務した者でなければならない。</Sentence>
+                <Sentence>児童福祉司の中には、他の児童福祉司が前項の職務を行うため必要な専門的技術に関する指導及び教育を行う児童福祉司（次項及び第七項において「指導教育担当児童福祉司」という。）が含まれなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
               <ParagraphNum>○６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項の指導及び教育を行う児童福祉司の数は、政令で定める基準を参酌して都道府県が定めるものとする。</Sentence>
+                <Sentence>指導教育担当児童福祉司は、児童福祉司としておおむね五年以上勤務した者でなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
               <ParagraphNum>○７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>児童福祉司は、児童相談所長が定める担当区域により、第四項の職務を行い、担当区域内の市町村長に協力を求めることができる。</Sentence>
+                <Sentence>指導教育担当児童福祉司の数は、政令で定める基準を参酌して都道府県が定めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8">
               <ParagraphNum>○８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>児童福祉司は、厚生労働大臣が定める基準に適合する研修を受けなければならない。</Sentence>
+                <Sentence>児童福祉司は、児童相談所長が定める担当区域により、第四項の職務を行い、担当区域内の市町村長に協力を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="9">
               <ParagraphNum>○９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>児童福祉司は、厚生労働大臣が定める基準に適合する研修を受けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>○１０</ParagraphNum>
               <ParagraphSentence>
                 <Sentence>第三項第一号の施設及び講習会の指定に関し必要な事項は、政令で定める。</Sentence>
               </ParagraphSentence>
@@ -1390,7 +1468,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>成年被後見人又は被保佐人</Sentence>
+                  <Sentence>心身の故障により保育士の業務を適正に行うことができない者として厚生労働省令で定めるもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -3914,7 +3992,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>市町村は、児童の健全な育成に資するため、乳児家庭全戸訪問事業及び養育支援訪問事業を行うよう努めるとともに、乳児家庭全戸訪問事業により要支援児童等（特定妊婦を除く。）を把握したとき又は当該市町村の長が第二十六条第一項第三号の規定による送致若しくは同項第八号の規定による通知若しくは児童虐待の防止等に関する法律（平成十二年法律第八十二号）第八条第二項第二号の規定による送致若しくは同項第四号の規定による通知を受けたときは、養育支援訪問事業の実施その他の必要な支援を行うものとする。</Sentence>
+                  <Sentence>市町村は、児童の健全な育成に資するため、乳児家庭全戸訪問事業及び養育支援訪問事業を行うよう努めるとともに、乳児家庭全戸訪問事業により要支援児童等（特定妊婦を除く。）を把握したとき又は当該市町村の長が第二十六条第一項第三号の規定による送致若しくは同項第八号の規定による通知若しくは児童虐待の防止等に関する法律第八条第二項第二号の規定による送致若しくは同項第四号の規定による通知を受けたときは、養育支援訪問事業の実施その他の必要な支援を行うものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -5454,6 +5532,12 @@
                 <Sentence>協議会は、前条第二項に規定する情報の交換及び協議を行うため必要があると認めるときは、関係機関等に対し、資料又は情報の提供、意見の開陳その他必要な協力を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>○２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>関係機関等は、前項の規定に基づき、協議会から資料又は情報の提供、意見の開陳その他必要な協力の求めがあつた場合には、これに応ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Num="25_4">
             <ArticleTitle>第二十五条の四</ArticleTitle>
@@ -6082,7 +6166,8 @@
             <Paragraph Num="2">
               <ParagraphNum>○２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>児童相談所長は、一時保護が行われた児童で親権を行う者又は未成年後見人のあるものについても、監護、教育及び懲戒に関し、その児童の福祉のため必要な措置を採ることができる。</Sentence>
+                <Sentence Function="main" Num="1">児童相談所長は、一時保護が行われた児童で親権を行う者又は未成年後見人のあるものについても、監護、教育及び懲戒に関し、その児童の福祉のため必要な措置を採ることができる。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、体罰を加えることはできない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -6275,6 +6360,36 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="33_6_2">
+            <ArticleTitle>第三十三条の六の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>児童相談所長は、児童について、家庭裁判所に対し、養親としての適格性を有する者との間における特別養子縁組について、家事事件手続法（平成二十三年法律第五十二号）第百六十四条第二項に規定する特別養子適格の確認を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>○２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>児童相談所長は、前項の規定による請求に係る児童について、特別養子縁組によつて養親となることを希望する者が現に存しないときは、養子縁組里親その他の適当な者に対し、当該児童に係る民法第八百十七条の二第一項に規定する請求を行うことを勧奨するよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33_6_3">
+            <ArticleTitle>第三十三条の六の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>児童相談所長は、児童に係る特別養子適格の確認の審判事件（家事事件手続法第三条の五に規定する特別養子適格の確認の審判事件をいう。）の手続に参加することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>○２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の規定により手続に参加する児童相談所長は、家事事件手続法第四十二条第七項に規定する利害関係参加人とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="33_7">
             <ArticleTitle>第三十三条の七</ArticleTitle>
             <Paragraph Num="1">
@@ -6374,7 +6489,7 @@
             <Paragraph Num="2">
               <ParagraphNum>○２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>被措置児童等虐待を受けたと思われる児童を発見した者は、当該被措置児童等虐待を受けたと思われる児童が、児童虐待の防止等に関する法律第二条に規定する児童虐待を受けたと思われる児童にも該当する場合において、前項の規定による通告をしたときは、同法第六条第一項の規定による通告をすることを要しない。</Sentence>
+                <Sentence>被措置児童等虐待を受けたと思われる児童を発見した者は、当該被措置児童等虐待を受けたと思われる児童が、児童虐待を受けたと思われる児童にも該当する場合において、前項の規定による通告をしたときは、児童虐待の防止等に関する法律第六条第一項の規定による通告をすることを要しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -7043,7 +7158,7 @@
           <Paragraph Num="2">
             <ParagraphNum>○２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>市町村が前項の条例を定めるに当たつては、放課後児童健全育成事業に従事する者及びその員数については厚生労働省令で定める基準に従い定めるものとし、その他の事項については厚生労働省令で定める基準を参酌するものとする。</Sentence>
+              <Sentence>市町村が前項の条例を定めるに当たつては、厚生労働省令で定める基準を参酌するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -7440,28 +7555,22 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>本人又はその同居人が次の各号（同居人にあつては、第一号を除く。）のいずれかに該当する者は、養育里親及び養子縁組里親となることができない。</Sentence>
+              <Sentence>本人又はその同居人が次の各号のいずれかに該当する者は、養育里親及び養子縁組里親となることができない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>成年被後見人又は被保佐人</Sentence>
+                <Sentence>禁錮以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなるまでの者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>禁錮以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなるまでの者</Sentence>
+                <Sentence>この法律、児童買春、児童ポルノに係る行為等の規制及び処罰並びに児童の保護等に関する法律（平成十一年法律第五十二号）その他国民の福祉に関する法律で政令で定めるものの規定により罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなるまでの者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence>この法律、児童買春、児童ポルノに係る行為等の規制及び処罰並びに児童の保護等に関する法律（平成十一年法律第五十二号）その他国民の福祉に関する法律で政令で定めるものの規定により罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなるまでの者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Sentence>児童虐待の防止等に関する法律第二条に規定する児童虐待又は被措置児童等虐待を行つた者その他児童の福祉に関し著しく不適当な行為をした者</Sentence>
               </ItemSentence>
@@ -7470,7 +7579,7 @@
           <Paragraph Num="2">
             <ParagraphNum>○２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>都道府県知事は、養育里親若しくは養子縁組里親又はその同居人が前項各号（同居人にあつては、同項第一号を除く。）のいずれかに該当するに至つたときは、当該養育里親又は養子縁組里親を直ちに養育里親名簿又は養子縁組里親名簿から抹消しなければならない。</Sentence>
+              <Sentence>都道府県知事は、養育里親若しくは養子縁組里親又はその同居人が前項各号のいずれかに該当するに至つたときは、当該養育里親又は養子縁組里親を直ちに養育里親名簿又は養子縁組里親名簿から抹消しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -7953,7 +8062,8 @@
           <Paragraph Num="3">
             <ParagraphNum>○３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>児童福祉施設の長、その住居において養育を行う第六条の三第八項に規定する厚生労働省令で定める者又は里親は、入所中又は受託中の児童等で親権を行う者又は未成年後見人のあるものについても、監護、教育及び懲戒に関し、その児童等の福祉のため必要な措置をとることができる。</Sentence>
+              <Sentence Function="main" Num="1">児童福祉施設の長、その住居において養育を行う第六条の三第八項に規定する厚生労働省令で定める者又は里親は、入所中又は受託中の児童等で親権を行う者又は未成年後見人のあるものについても、監護、教育及び懲戒に関し、その児童等の福祉のため必要な措置をとることができる。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、体罰を加えることはできない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -7966,7 +8076,7 @@
             <ParagraphNum>○５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1">第三項の規定による措置は、児童等の生命又は身体の安全を確保するため緊急の必要があると認めるときは、その親権を行う者又は未成年後見人の意に反しても、これをとることができる。</Sentence>
-              <Sentence Num="2">この場合において、児童福祉施設の長、小規模住居型児童養育事業を行う者又は里親は、速やかに、そのとつた措置について、当該児童等に係る通所給付決定若しくは入所給付決定、第二十一条の六、第二十四条第五項若しくは第六項若しくは第二十七条第一項第三号の措置、助産の実施若しくは母子保護の実施又は当該児童に係る子ども・子育て支援法第二十条第四項に規定する支給認定を行つた都道府県又は市町村の長に報告しなければならない。</Sentence>
+              <Sentence Num="2">この場合において、児童福祉施設の長、小規模住居型児童養育事業を行う者又は里親は、速やかに、そのとつた措置について、当該児童等に係る通所給付決定若しくは入所給付決定、第二十一条の六、第二十四条第五項若しくは第六項若しくは第二十七条第一項第三号の措置、助産の実施若しくは母子保護の実施又は当該児童に係る子ども・子育て支援法第二十条第四項に規定する教育・保育給付認定を行つた都道府県又は市町村の長に報告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -13911,6 +14021,307 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月一七日法律第七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成三十一年十月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次条並びに附則第三条ただし書、第八条から第十条までの規定、附則第十三条中行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）別表第一の九十四の項及び別表第二の百十六の項の改正規定（別表第一の九十四の項に係る部分に限る。）並びに附則第十四条及び第十七条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一・二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二条、第四条、第九条及び第十二条の規定並びに附則第五条及び第六条（第一号に掲げる改正規定を除く。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成三十二年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前二条に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（放課後児童健全育成事業に関する検討）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、附則第一条第三号に掲げる規定の施行後三年を目途として、第九条の規定による改正後の児童福祉法の規定の施行の状況について児童福祉法第六条の三第二項に規定する放課後児童健全育成事業の適切な実施並びに当該放課後児童健全育成事業の内容及び水準の向上を図る観点から検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、附則第三項の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律の施行の際現に係属している特別養子縁組の成立の審判事件に関する養子となる者の年齢についての要件及び当該審判事件の手続については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphCaption>（政令への委任）</ParagraphCaption>
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>前項に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第四十条、第五十九条、第六十一条、第七十五条（児童福祉法第三十四条の二十の改正規定に限る。）、第八十五条、第百二条、第百七条（民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律第二十六条の改正規定に限る。）、第百十一条、第百四十三条、第百四十九条、第百五十二条、第百五十四条（不動産の鑑定評価に関する法律第二十五条第六号の改正規定に限る。）及び第百六十八条並びに次条並びに附則第三条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条、第四条、第五条（国家戦略特別区域法第十九条の二第一項の改正規定を除く。）、第二章第二節及び第四節、第四十一条（地方自治法第二百五十二条の二十八の改正規定を除く。）、第四十二条から第四十八条まで、第五十条、第五十四条、第五十七条、第六十条、第六十二条、第六十六条から第六十九条まで、第七十五条（児童福祉法第三十四条の二十の改正規定を除く。）、第七十六条、第七十七条、第七十九条、第八十条、第八十二条、第八十四条、第八十七条、第八十八条、第九十条（職業能力開発促進法第三十条の十九第二項第一号の改正規定を除く。）、第九十五条、第九十六条、第九十八条から第百条まで、第百四条、第百八条、第百九条、第百十二条、第百十三条、第百十五条、第百十六条、第百十九条、第百二十一条、第百二十三条、第百三十三条、第百三十五条、第百三十八条、第百三十九条、第百六十一条から第百六十三条まで、第百六十六条、第百六十九条、第百七十条、第百七十二条（フロン類の使用の合理化及び管理の適正化に関する法律第二十九条第一項第一号の改正規定に限る。）並びに第百七十三条並びに附則第十六条、第十七条、第二十条、第二十一条及び第二十三条から第二十九条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して六月を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（行政庁の行為等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（前条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行の日前に、この法律による改正前の法律又はこれに基づく命令の規定（欠格条項その他の権利の制限に係る措置を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、会社法（平成十七年法律第八十六号）及び一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）における法人の役員の資格を成年被後見人又は被保佐人であることを理由に制限する旨の規定について、この法律の公布後一年以内を目途として検討を加え、その結果に基づき、当該規定の削除その他の必要な法制上の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二六日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第四条、第七条第一項及び第八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二条（次号に掲げる規定を除く。）の規定並びに次条及び附則第三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和四年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二条中児童福祉法第十二条の改正規定（同条第四項及び第六項に係る部分並びに同条第一項の次に一項を加える部分に限る。）及び同法第十二条の五の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和五年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前二条に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（調整規定）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の日が民法等の一部を改正する法律（令和元年法律第三十四号）の施行の日前である場合には、同法第三条のうち児童福祉法第十一条第一項第二号トの改正規定中「第十一条第一項第二号ト」とあるのは、「第十一条第一項第二号チ」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（児童福祉司の数の基準に関する見直し）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第一条の規定による改正後の児童福祉法第十三条第二項に規定する政令で定める基準については、児童福祉司の数に対する児童虐待の防止等に関する法律第二条に規定する児童虐待（次条第八項及び第九項において単に「児童虐待」という。）に係る相談に応ずる件数が過重なものとならないよう、必要な見直しが行われるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討等）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、速やかに、児童相談所の職員の処遇の改善に資するための措置、児童福祉法第十二条の四に規定する児童を一時保護する施設及び同法第三十三条第一項又は第二項の委託を受けて一時保護を行う者の量的拡充に係る方策、当該施設又は当該者が行う一時保護の質的向上に係る方策その他の児童相談所の体制の強化に対する国の支援その他の措置の在り方について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後一年を目途として、児童福祉法第六条の三第八項に規定する要保護児童を適切に保護するために都道府県及び児童相談所が採る一時保護その他の措置に係る手続の在り方について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後一年を目途として、この法律の施行の状況等を勘案し、児童の福祉に関し専門的な知識及び技術を必要とする支援を行う者についての資格の在り方その他当該者についての必要な資質の向上を図るための方策について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後二年を目途として、児童の保護及び支援に当たって、児童の意見を聴く機会及び児童が自ら意見を述べることができる機会の確保、当該機会における児童を支援する仕組みの構築、児童の権利を擁護する仕組みの構築その他の児童の意見が尊重され、その最善の利益が優先して考慮されるための措置の在り方について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後二年を目途として、民法（明治二十九年法律第八十九号）第八百二十二条の規定の在り方について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年間を目途として、児童相談所及び児童福祉法第十二条の四に規定する児童を一時保護する施設（以下この項及び第八項において「児童相談所等」という。）の整備の状況、児童福祉司その他の児童相談所の職員の確保の状況等を勘案し、地方自治法（昭和二十二年法律第六十七号）第二百五十二条の二十二第一項の中核市及び特別区が児童相談所を設置することができるよう、児童相談所等の整備並びに職員の確保及び育成の支援その他必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、前項の支援を講ずるに当たっては、関係地方公共団体その他の関係団体との連携を図るものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、第六項の支援その他必要な措置の実施状況、児童相談所の設置状況及び児童虐待をめぐる状況等を勘案し、児童相談所等の整備並びに職員の確保及び育成の支援の在り方について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="9">
+          <ParagraphNum>９</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後の児童福祉法及び児童虐待の防止等に関する法律の規定の施行の状況を勘案し、児童虐待の予防及び早期発見のための方策、児童虐待を受けた児童の保護及び自立の支援並びに保護者に対する指導及び支援の在り方その他の児童虐待の防止等に関する施策の在り方について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

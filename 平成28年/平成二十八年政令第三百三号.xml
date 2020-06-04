@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="303" Year="28">
+<Law DataInfo="191120e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="303" Year="28">
   <LawNum>平成二十八年政令第三百三号</LawNum>
   <LawBody>
     <LawTitle>規制改革推進会議令</LawTitle>
@@ -11,7 +11,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">規制改革推進会議（以下「会議」という。）は、委員十五人以内で組織する。</Sentence>
+            <Sentence WritingMode="vertical">規制改革推進会議（以下「会議」という。）は、委員二十人以内で組織する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -22,7 +22,7 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="2">
-        <ArticleCaption>（委員及び専門委員の任命等）</ArticleCaption>
+        <ArticleCaption>（委員等の任命）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
@@ -36,22 +36,39 @@
             <Sentence WritingMode="vertical">専門委員は、当該専門の事項に関し学識経験のある者のうちから、内閣総理大臣が任命する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="3">
-          <ParagraphNum>３</ParagraphNum>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（委員の任期等）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">専門委員は、その者の任命に係る当該専門の事項に関する調査が終了したときは、解任されるものとする。</Sentence>
+            <Sentence Function="main" Num="1">委員の任期は、二年とする。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、補欠の委員の任期は、前任者の残任期間とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>委員は、再任されることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>専門委員は、その者の任命に係る当該専門の事項に関する調査が終了したときは、解任されるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">委員及び専門委員は、非常勤とする。</Sentence>
+            <Sentence>委員及び専門委員は、非常勤とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="3">
+      <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（議長）</ArticleCaption>
-        <ArticleTitle>第三条</ArticleTitle>
+        <ArticleTitle>第四条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -71,9 +88,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="4">
+      <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（部会）</ArticleCaption>
-        <ArticleTitle>第四条</ArticleTitle>
+        <ArticleTitle>第五条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -105,9 +122,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="5">
+      <Article Delete="false" Hide="false" Num="6">
         <ArticleCaption>（議事）</ArticleCaption>
-        <ArticleTitle>第五条</ArticleTitle>
+        <ArticleTitle>第六条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -127,9 +144,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="6">
+      <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（資料の提出等の要求）</ArticleCaption>
-        <ArticleTitle>第六条</ArticleTitle>
+        <ArticleTitle>第七条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -143,9 +160,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="7">
+      <Article Delete="false" Hide="false" Num="8">
         <ArticleCaption>（庶務）</ArticleCaption>
-        <ArticleTitle>第七条</ArticleTitle>
+        <ArticleTitle>第八条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -153,9 +170,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="8">
+      <Article Delete="false" Hide="false" Num="9">
         <ArticleCaption>（会議の運営）</ArticleCaption>
-        <ArticleTitle>第八条</ArticleTitle>
+        <ArticleTitle>第九条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -170,6 +187,23 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一〇月二四日政令第一三二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令の施行後最初に任命される規制改革推進会議の委員の任期は、第二条の規定による改正後の規制改革推進会議令第三条第一項の規定にかかわらず、令和三年七月三十一日までとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

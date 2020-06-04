@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="382" Year="53">
+<Law DataInfo="200127e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="382" Year="53">
   <LawNum>昭和五十三年政令第三百八十二号</LawNum>
   <LawBody>
     <LawTitle>特定鉱業権関係登録令</LawTitle>
@@ -103,7 +103,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">何人も、特定鉱業原簿の謄本若しくは抄本の交付又は特定鉱業原簿若しくはその附属書類の閲覧を請求することができる。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる者は、手数料として同表の中欄に定める金額（電子申請等（行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して行う同法第二条第六号に規定する申請等をいう。以下同じ。）による場合にあつては、同表の下欄に定める金額）を納付しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる者は、手数料として同表の中欄に定める金額（電子申請等（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第六条第一項の規定により同項に規定する電子情報処理組織を使用して行う同法第三条第八号に規定する申請等をいう。以下同じ。）による場合にあつては、同表の下欄に定める金額）を納付しなければならない。</Sentence>
             </ParagraphSentence>
             <TableStruct>
               <Table WritingMode="vertical">
@@ -607,6 +607,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この政令は、整備法の施行の日（平成二十九年五月三十日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一三日政令第一八三号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この政令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律（次条において「改正法」という。）の施行の日（令和元年十二月十六日）から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

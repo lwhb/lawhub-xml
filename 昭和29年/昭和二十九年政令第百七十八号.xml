@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="178" Year="29">
+<Law DataInfo="200417e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="178" Year="29">
   <LawNum>昭和二十九年政令第百七十八号</LawNum>
   <LawBody>
     <LawTitle>防衛省組織令</LawTitle>
@@ -7144,17 +7144,11 @@
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence>装備品等の標準化の促進に関すること。</Sentence>
+                    <Sentence>秘密の保全に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>秘密の保全に関すること。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="6">
-                  <ItemTitle>六</ItemTitle>
                   <ItemSentence>
                     <Sentence>防衛装備庁の所掌事務に係る国際協力に関する制度及び基本的な政策の企画及び立案に関すること。</Sentence>
                   </ItemSentence>
@@ -7297,6 +7291,12 @@
                     <Sentence>装備品等及び役務の調達に関し必要な企業の調査の実施に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
+                <Item Num="7">
+                  <ItemTitle>七</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>装備品等の標準化の促進に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
             </Article>
             <Article Num="177">
@@ -7436,7 +7436,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>長官官房に、総務官一人、人事官一人、会計官一人、監察監査・評価官一人、装備開発官四人及び艦船設計官一人を置く。</Sentence>
+                    <Sentence>長官官房に、総務官一人、人事官一人、会計官一人、監察監査・評価官一人、装備開発官五人及び艦船設計官一人を置く。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -7719,7 +7719,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>装備政策部に、次の二課及び装備制度管理官一人を置く。</Sentence>
+                    <Sentence>装備政策部に、次の二課及び装備保全管理官一人を置く。</Sentence>
                   </ParagraphSentence>
                   <List>
                     <ListSentence>
@@ -7750,19 +7750,31 @@
                   <Item Num="2">
                     <ItemTitle>二</ItemTitle>
                     <ItemSentence>
-                      <Sentence>装備品等の研究開発、調達、補給及び管理並びに役務の調達に関する総合的な政策の企画及び立案に関すること。</Sentence>
+                      <Sentence>装備品等の研究開発、調達、補給及び管理並びに役務の調達に関する総合的な政策の企画及び立案に関すること（装備保全管理官の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="3">
                     <ItemTitle>三</ItemTitle>
                     <ItemSentence>
-                      <Sentence>装備政策部の所掌事務に必要な情報の収集、整理及び分析に関すること。</Sentence>
+                      <Sentence>装備品等の研究開発、調達、補給及び管理並びに役務の調達に関する制度の総合調整に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="4">
                     <ItemTitle>四</ItemTitle>
                     <ItemSentence>
-                      <Sentence>前三号に掲げるもののほか、装備政策部の所掌事務で他の所掌に属しないものに関すること。</Sentence>
+                      <Sentence>装備品等の補給及び管理に関する制度及び基本的な政策の企画及び立案に関すること。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="5">
+                    <ItemTitle>五</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>装備政策部の所掌事務に必要な情報の収集、整理及び分析に関すること（装備保全管理官の所掌に属するものを除く。）。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="6">
+                    <ItemTitle>六</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>前各号に掲げるもののほか、装備政策部の所掌事務で他の所掌に属しないものに関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                 </Paragraph>
@@ -7778,35 +7790,29 @@
                 </Paragraph>
               </Article>
               <Article Num="190">
-                <ArticleCaption>（装備制度管理官の職務）</ArticleCaption>
+                <ArticleCaption>（装備保全管理官の職務）</ArticleCaption>
                 <ArticleTitle>第百九十条</ArticleTitle>
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>装備制度管理官は、次に掲げる事務をつかさどる。</Sentence>
+                    <Sentence>装備保全管理官は、次に掲げる事務をつかさどる。</Sentence>
                   </ParagraphSentence>
                   <Item Num="1">
                     <ItemTitle>一</ItemTitle>
                     <ItemSentence>
-                      <Sentence>装備品等の研究開発、調達、補給及び管理並びに役務の調達に関する制度の総合調整に関すること。</Sentence>
+                      <Sentence>秘密の保全に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="2">
                     <ItemTitle>二</ItemTitle>
                     <ItemSentence>
-                      <Sentence>装備品等の補給及び管理に関する制度及び基本的な政策の企画及び立案に関すること。</Sentence>
+                      <Sentence>装備品等の研究開発、調達、補給及び管理並びに役務の調達に関する総合的な政策のうち科学技術の管理に関するものの企画及び立案に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="3">
                     <ItemTitle>三</ItemTitle>
                     <ItemSentence>
-                      <Sentence>装備品等の標準化の促進に関すること。</Sentence>
-                    </ItemSentence>
-                  </Item>
-                  <Item Num="4">
-                    <ItemTitle>四</ItemTitle>
-                    <ItemSentence>
-                      <Sentence>秘密の保全に関すること。</Sentence>
+                      <Sentence>装備政策部の所掌事務のうち科学技術の管理に関する必要な情報の収集、整理及び分析に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                 </Paragraph>
@@ -7820,7 +7826,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>プロジェクト管理部に、事業計画官一人、統合装備計画官一人、事業監理官三人及び装備技術官三人を置く。</Sentence>
+                    <Sentence>プロジェクト管理部に、事業計画官一人、事業監理官四人及び装備技術官三人を置く。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -7859,31 +7865,24 @@
                   <Item Num="5">
                     <ItemTitle>五</ItemTitle>
                     <ItemSentence>
+                      <Sentence>プロジェクト管理の実施に関する事務の総括に関すること。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="6">
+                    <ItemTitle>六</ItemTitle>
+                    <ItemSentence>
                       <Sentence>前各号に掲げるもののほか、プロジェクト管理部の所掌事務で他の所掌に属しないものに関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                 </Paragraph>
               </Article>
               <Article Num="193">
-                <ArticleCaption>（統合装備計画官の職務）</ArticleCaption>
                 <ArticleTitle>第百九十三条</ArticleTitle>
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>統合装備計画官は、次に掲げる事務をつかさどる。</Sentence>
+                    <Sentence>削除</Sentence>
                   </ParagraphSentence>
-                  <Item Num="1">
-                    <ItemTitle>一</ItemTitle>
-                    <ItemSentence>
-                      <Sentence>プロジェクト管理（誘導武器及びこれに付随する器材その他陸上自衛隊、海上自衛隊及び航空自衛隊のうち二以上の自衛隊において共通して使用される装備品等に係るものに限る。）の実施に関すること（事業計画官及び装備技術官の所掌に属するものを除く。）。</Sentence>
-                    </ItemSentence>
-                  </Item>
-                  <Item Num="2">
-                    <ItemTitle>二</ItemTitle>
-                    <ItemSentence>
-                      <Sentence>プロジェクト管理の実施に関する事務の総括に関すること。</Sentence>
-                    </ItemSentence>
-                  </Item>
                 </Paragraph>
               </Article>
               <Article Num="194">
@@ -7892,7 +7891,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>事業監理官は、命を受けて、プロジェクト管理（前条第一号に規定するものを除く。）の実施に関する事務（事業計画官及び装備技術官の所掌に属するものを除く。）を分掌する。</Sentence>
+                    <Sentence>事業監理官は、命を受けて、プロジェクト管理の実施に関する事務（事業計画官及び装備技術官の所掌に属するものを除く。）を分掌する。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -8110,6 +8109,12 @@
                   </Item>
                   <Item Num="6">
                     <ItemTitle>六</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>装備品等の標準化の促進に関すること。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="7">
+                    <ItemTitle>七</ItemTitle>
                     <ItemSentence>
                       <Sentence>前各号に掲げるもののほか、調達管理部の所掌事務で他の所掌に属しないものに関すること。</Sentence>
                     </ItemSentence>
@@ -9130,14 +9135,14 @@
       <Paragraph Num="5">
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>第十条の三第一項の審議官（前項に規定するものを除く。）のうち一人は、平成三十三年三月三十一日まで置かれるものとする。</Sentence>
+          <Sentence>第十条の三第一項の審議官（前項に規定するものを除く。）のうち一人は、令和三年三月三十一日まで置かれるものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="6">
         <ParagraphCaption>（大臣官房参事官の設置期間の特例）</ParagraphCaption>
         <ParagraphNum>６</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>第十条の四第一項の参事官のうち一人は、平成三十三年三月三十一日まで置かれるものとする。</Sentence>
+          <Sentence>第十条の四第一項の参事官のうち一人は、令和三年三月三十一日まで置かれるものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="7">
@@ -9180,7 +9185,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>平成三十九年三月三十一日までの間</Sentence>
+                <Sentence>令和九年三月三十一日までの間</Sentence>
               </TableColumn>
               <TableColumn>
                 <Sentence>一　駐留軍再編特別措置法第四条第一項の規定による再編関連特定防衛施設の指定及び駐留軍再編特別措置法第五条第一項の規定による再編関連特定周辺市町村の指定に関すること。</Sentence>
@@ -9210,7 +9215,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>平成三十四年三月三十一日までの間</Sentence>
+                <Sentence>令和四年三月三十一日までの間</Sentence>
               </TableColumn>
               <TableColumn>
                 <Sentence>沖縄県における駐留軍用地跡地の有効かつ適切な利用の推進に関する特別措置法（平成七年法律第百二号。以下「駐留軍用地跡地利用特別措置法」という。）第八条第七項の規定による措置のうち、道路に係るものに関すること。</Sentence>
@@ -9245,7 +9250,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>平成三十四年三月三十一日までの間</Sentence>
+                <Sentence>令和四年三月三十一日までの間</Sentence>
               </TableColumn>
               <TableColumn>
                 <Sentence>駐留軍用地跡地利用特別措置法第八条第七項の規定による措置に関すること（周辺環境整備課の所掌に属するものを除く。）。</Sentence>
@@ -9274,21 +9279,21 @@
         <ParagraphCaption>（地方協力局労務管理課の所掌事務の特例）</ParagraphCaption>
         <ParagraphNum>１２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>地方協力局労務管理課は、第四十八条に規定する事務のほか、平成三十五年五月十六日までの間、駐留軍関係離職者等臨時措置法（昭和三十三年法律第百五十八号）の規定による特別給付金に関する事務をつかさどる。</Sentence>
+          <Sentence>地方協力局労務管理課は、第四十八条に規定する事務のほか、令和五年五月十六日までの間、駐留軍関係離職者等臨時措置法（昭和三十三年法律第百五十八号）の規定による特別給付金に関する事務をつかさどる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="13">
         <ParagraphCaption>（地方協力局沖縄調整官の職務の特例）</ParagraphCaption>
         <ParagraphNum>１３</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>地方協力局沖縄調整官は、第四十九条に規定する事務のほか、平成三十四年三月三十一日までの間、駐留軍用地跡地利用特別措置法第八条の規定による返還実施計画の策定及び駐留軍用地跡地利用特別措置法第十九条の規定による駐留軍用地の返還についての見通しの通知に関する事務をつかさどる。</Sentence>
+          <Sentence>地方協力局沖縄調整官は、第四十九条に規定する事務のほか、令和四年三月三十一日までの間、駐留軍用地跡地利用特別措置法第八条の規定による返還実施計画の策定及び駐留軍用地跡地利用特別措置法第十九条の規定による駐留軍用地の返還についての見通しの通知に関する事務をつかさどる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="14">
         <ParagraphCaption>（沖縄防衛局の次長の設置期間の特例）</ParagraphCaption>
         <ParagraphNum>１４</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>第百六十七条第一項の沖縄防衛局の次長のうち一人は、平成三十三年三月三十一日まで置かれるものとする。</Sentence>
+          <Sentence>第百六十七条第一項の沖縄防衛局の次長のうち一人は、令和三年三月三十一日まで置かれるものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -10832,6 +10837,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この政令は、平成三十一年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第八三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

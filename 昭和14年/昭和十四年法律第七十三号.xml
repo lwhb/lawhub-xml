@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="73" Year="14">
+<Law DataInfo="190620e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="73" Year="14">
   <LawNum>昭和十四年法律第七十三号</LawNum>
   <LawBody>
     <LawTitle>船員保険法</LawTitle>
@@ -174,8 +174,8 @@
           <Paragraph Hide="false" Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">この法律において「被扶養者」とは、次に掲げる者をいう。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、後期高齢者医療の被保険者等である者は、この限りでない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">この法律において「被扶養者」とは、次に掲げる者で、日本国内に住所を有するもの又は外国において留学をする学生その他の日本国内に住所を有しないが渡航目的その他の事情を考慮して日本国内に生活の基礎があると認められるものとして厚生労働省令で定めるものをいう。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、後期高齢者医療の被保険者等である者その他この法律の適用を除外すべき特別の理由がある者として厚生労働省令で定める者は、この限りでない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -16537,6 +16537,90 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月二二日法律第九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成三十二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条中高齢者の医療の確保に関する法律第百六十条の二の改正規定及び同条に一項を加える改正規定、第六条中社会保険診療報酬支払基金法の題名の次に目次を付する改正規定及び同法第十六条第二項の改正規定並びに第八条中国民健康保険法第八十八条第一項及び第二項並びに第百十条の二の改正規定、同条に一項を加える改正規定並びに同法第百十三条の二第一項の改正規定並びに附則第三条、第六条及び第十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条の規定（健康保険法第三条第七項の改正規定を除く。）、第四条の規定、第六条の規定（第一号に掲げる改正規定を除く。）、第九条中国民健康保険法第八十二条第二項の改正規定、同法第八十五条の次に二条を加える改正規定及び同法第百四条の改正規定、第十二条の規定（第五号に掲げる改正規定並びに介護保険法第百十五条の四十五中第五項を第九項とし、第四項の次に四項を加える改正規定及び同法第百十七条第三項第六号の改正規定を除く。）並びに第十四条中船員保険法第百十一条第二項の改正規定並びに附則第七条中私立学校教職員共済法（昭和二十八年法律第二百四十五号）第二十六条第三項の改正規定、附則第八条中国家公務員共済組合法（昭和三十三年法律第百二十八号）第九十八条第二項の改正規定、附則第九条中地方公務員等共済組合法（昭和三十七年法律第百五十二号）第百十二条第三項の改正規定及び附則第十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成三十二年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二条の規定（第六号に掲げる改正規定を除く。）、第五条の規定（次号及び第六号に掲げる改正規定を除く。）、第九条の規定（前号に掲げる改正規定を除く。）、第十一条の規定及び第十四条の規定（船員保険法第二条第九項の改正規定及び前号に掲げる改正規定を除く。）並びに附則第七条の規定（私立学校教職員共済法第二十五条の改正規定及び前号に掲げる改正規定を除く。）、附則第八条の規定（国家公務員共済組合法第二条第一項第二号及び第四十条第三項の改正規定並びに前号に掲げる改正規定を除く。）及び附則第九条の規定（地方公務員等共済組合法第二条第一項第二号及び第四十三条第三項の改正規定並びに前号に掲げる改正規定を除く。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第五条中高齢者の医療の確保に関する法律第百四十五条第三項の改正規定、第七条の規定及び第十二条中介護保険法第百六十六条第三項の改正規定並びに附則第四条、第五条、第十二条及び第十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成三十三年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後三年を目途として、この法律（前条各号に掲げる規定にあっては、当該各規定。附則第十五条及び第十六条において同じ。）による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況、医療の質の向上に資するための情報の活用の状況、個人番号カード（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードをいう。）の普及の状況その他社会経済の情報化の進展状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

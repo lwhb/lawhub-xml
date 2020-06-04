@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="106" Year="11">
+<Law DataInfo="190201e04k03m03" Era="Heisei" Lang="ja" LawType="Act" Num="106" Year="11">
   <LawNum>平成十一年法律第百六号</LawNum>
   <LawBody>
     <LawTitle>食料・農業・農村基本法</LawTitle>
@@ -615,7 +615,7 @@
           <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">審議会は、前二項に規定するもののほか、土地改良法（昭和二十四年法律第百九十五号）、家畜改良増殖法（昭和二十五年法律第二百九号）、家畜伝染病予防法（昭和二十六年法律第百六十六号）、飼料需給安定法（昭和二十七年法律第三百五十六号）、酪農及び肉用牛生産の振興に関する法律（昭和二十九年法律第百八十二号）、果樹農業振興特別措置法（昭和三十六年法律第十五号）、畜産物の価格安定に関する法律（昭和三十六年法律第百八十三号）、砂糖及びでん粉の価格調整に関する法律（昭和四十年法律第百九号）、加工原料乳生産者補給金等暫定措置法（昭和四十年法律第百十二号）、農業振興地域の整備に関する法律（昭和四十四年法律第五十八号）、卸売市場法（昭和四十六年法律第三十五号）、肉用子牛生産安定等特別措置法（昭和六十三年法律第九十八号）、食品流通構造改善促進法（平成三年法律第五十九号）、主要食糧の需給及び価格の安定に関する法律（平成六年法律第百十三号）、食品循環資源の再生利用等の促進に関する法律（平成十二年法律第百十六号）、農業の担い手に対する経営安定のための交付金の交付に関する法律（平成十八年法律第八十八号）、有機農業の推進に関する法律（平成十八年法律第百十二号）、中小企業者と農林漁業者との連携による事業活動の促進に関する法律（平成二十年法律第三十八号）、米穀の新用途への利用の促進に関する法律（平成二十一年法律第二十五号）及び都市農業振興基本法（平成二十七年法律第十四号）の規定によりその権限に属させられた事項を処理する。</Sentence>
+              <Sentence WritingMode="vertical">審議会は、前二項に規定するもののほか、土地改良法（昭和二十四年法律第百九十五号）、家畜改良増殖法（昭和二十五年法律第二百九号）、家畜伝染病予防法（昭和二十六年法律第百六十六号）、飼料需給安定法（昭和二十七年法律第三百五十六号）、酪農及び肉用牛生産の振興に関する法律（昭和二十九年法律第百八十二号）、果樹農業振興特別措置法（昭和三十六年法律第十五号）、畜産物の価格安定に関する法律（昭和三十六年法律第百八十三号）、砂糖及びでん粉の価格調整に関する法律（昭和四十年法律第百九号）、加工原料乳生産者補給金等暫定措置法（昭和四十年法律第百十二号）、農業振興地域の整備に関する法律（昭和四十四年法律第五十八号）、卸売市場法（昭和四十六年法律第三十五号）、肉用子牛生産安定等特別措置法（昭和六十三年法律第九十八号）、食品等の流通の合理化及び取引の適正化に関する法律（平成三年法律第五十九号）、主要食糧の需給及び価格の安定に関する法律（平成六年法律第百十三号）、食品循環資源の再生利用等の促進に関する法律（平成十二年法律第百十六号）、農業の担い手に対する経営安定のための交付金の交付に関する法律（平成十八年法律第八十八号）、有機農業の推進に関する法律（平成十八年法律第百十二号）、中小企業者と農林漁業者との連携による事業活動の促進に関する法律（平成二十年法律第三十八号）、米穀の新用途への利用の促進に関する法律（平成二十一年法律第二十五号）及び都市農業振興基本法（平成二十七年法律第十四号）の規定によりその権限に属させられた事項を処理する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -909,6 +909,403 @@
           <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年六月二二日法律第六二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>次条並びに附則第五条、第八条、第九条及び第三十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第三条及び第十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して一年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条の規定及び第二条中食品流通構造改善促進法第三章を第二章とし、同章の次に一章を加える改正規定（第二十七条第二項に係る部分に限る。）並びに附則第四条、第十五条から第十八条まで及び第三十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（卸売市場に関する基本方針に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>農林水産大臣は、前条第三号に掲げる規定の施行の日（以下「第三号施行日」という。）前においても、第一条の規定による改正後の卸売市場法（以下「新卸売市場法」という。）第三条の規定の例により、卸売市場に関する基本方針を定め、これを公表することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により定められた卸売市場に関する基本方針は、第三号施行日において新卸売市場法第三条の規定により定められたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（中央卸売市場又は地方卸売市場の認定に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>その開設する卸売市場（新卸売市場法第二条第二項に規定する卸売市場に該当するものをいう。次項から第四項までにおいて同じ。）について新卸売市場法第四条第一項の認定を受けようとする開設者（新卸売市場法第二条第三項に規定する開設者に該当する者をいう。第三項において同じ。）は、第三号施行日前においても、新卸売市場法第四条第一項から第四項までの規定の例により、その申請をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">農林水産大臣は、前項の申請があった場合においては、第三号施行日前においても、新卸売市場法第四条第五項及び第五条（次条の規定によりみなして適用する場合を含む。）の規定の例により、その認定をすることができる。</Sentence>
+            <Sentence Num="2">この場合において、その認定を受けた卸売市場は、第三号施行日において新卸売市場法第四条第一項の認定を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>その開設する卸売市場について新卸売市場法第十三条第一項の認定を受けようとする開設者は、第三号施行日前においても、同項から同条第四項までの規定の例により、その申請をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">前項の申請に係る卸売市場の所在地を管轄する都道府県知事は、当該申請があった場合においては、第三号施行日前においても、新卸売市場法第十三条第五項及び新卸売市場法第十四条において準用する新卸売市場法第五条（次条の規定によりみなして適用する場合を含む。）の規定の例により、その認定をすることができる。</Sentence>
+            <Sentence Num="2">この場合において、その認定を受けた卸売市場は、第三号施行日において新卸売市場法第十三条第一項の認定を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一条の規定による改正前の卸売市場法（次条において「旧卸売市場法」という。）第二条第三項に規定する中央卸売市場（次項において「旧中央卸売市場」という。）又は同条第四項に規定する地方卸売市場（次項において「旧地方卸売市場」という。）に係る第一項又は第三項の申請については、新卸売市場法第四条第二項又は第十三条第二項の規定にかかわらず、卸売市場（新卸売市場法第二条第二項に規定する卸売市場をいう。次項において同じ。）の施設に関する事項その他の農林水産省令で定める事項の記載を省略することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>附則第一条第三号に掲げる規定の施行の際旧中央卸売市場又は旧地方卸売市場に該当している卸売市場は、同号に掲げる規定の施行の際第一項又は第三項の申請について処分が行われていない場合においては、その処分が行われるまでの間は、新卸売市場法第四条第七項又は第十三条第七項の規定にかかわらず、それぞれ中央卸売市場又は地方卸売市場と称することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（卸売市場を開設する者の欠格事由に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>新卸売市場法第五条（第三号及び第四号に係る部分に限る。）（新卸売市場法第十四条において準用する場合を含む。）の規定の適用については、旧卸売市場法第四十九条第一項（第二号に係る部分に限る。）の規定により旧卸売市場法第八条の認可を取り消され、又は旧卸売市場法第六十五条第一項若しくは第二項の規定により旧卸売市場法第五十五条の許可を取り消された者は、その処分を受けた日において、新卸売市場法第十一条第一項の規定により新卸売市場法第四条第一項の認定を取り消され、又は新卸売市場法第十四条において読み替えて準用する新卸売市場法第十一条第一項の規定により新卸売市場法第十三条第一項の認定を取り消されたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（食品等の流通の合理化に関する基本方針に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>農林水産大臣は、この法律の施行の日（以下「施行日」という。）前においても、第二条の規定による改正後の食品等の流通の合理化及び取引の適正化に関する法律（以下「新食品等流通法」という。）第四条の規定の例により、食品等の流通の合理化に関する基本方針を定め、これを公表することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により定められた食品等の流通の合理化に関する基本方針は、施行日において新食品等流通法第四条の規定により定められたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（株式会社日本政策金融公庫の貸付金等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第二条の規定による改正前の食品流通構造改善促進法（以下「旧構造改善法」という。）第六条第一項の規定により施行日前に株式会社日本政策金融公庫が締結した貸付契約に係る貸付金並びに当該貸付金に係る旧構造改善法第五条第二項に規定する認定計画に係る変更の認定及び認定の取消し並びに当該認定計画に係る旧構造改善法第十条の規定による報告の徴収については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（食品流通構造改善促進機構に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の際現に旧構造改善法第十一条第一項の規定による指定を受けている同項に規定する機構（以下「旧機構」という。）は、施行日において新食品等流通法第十六条第一項の規定による指定を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">前項の規定により新食品等流通法第十六条第一項の規定による指定を受けたものとみなされた旧機構は、新食品等流通法第十七条各号に掲げる業務のほか、旧構造改善法第十二条（第一号に係る部分に限る。）の規定により施行日前に旧機構が締結した債務保証契約に係る同条第一号に掲げる業務及びこれに附帯する業務（以下この項及び附則第二十八条において「旧債務保証業務等」という。）を行うものとする。</Sentence>
+            <Sentence Num="2">この場合において、旧債務保証業務等は、新食品等流通法の適用については、新食品等流通法第十七条第一号に掲げる業務及びこれに附帯する業務とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の債務保証契約に係る旧構造改善法第五条第二項に規定する認定計画に係る変更の認定及び認定の取消し並びに当該認定計画に係る旧構造改善法第十条の規定による報告の徴収については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>旧機構は、施行日までに、新食品等流通法第十九条の規定の例により、業務規程の変更をし、農林水産大臣の認可を受けなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>農林水産大臣は、前項の認可をしようとするときは、あらかじめ、財務大臣に協議するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の認可を受けた業務規程は、施行日において新食品等流通法第十九条第一項の認可を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>旧機構は、施行日までに、新食品等流通法第二十条第一項の規定の例により、事業計画及び収支予算の変更をし、農林水産大臣の認可を受けなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>農林水産大臣は、前項の認可をしようとするときは、あらかじめ、財務大臣に協議するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の認可を受けた事業計画及び収支予算は、施行日において新食品等流通法第二十条第一項の認可を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>農林水産大臣は、旧機構が附則第八条第一項又は前条第一項の規定に違反したときは、附則第七条第一項の規定により受けたものとみなされた新食品等流通法第十六条第一項の規定による指定を取り消すことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律（附則第一条第三号に掲げる規定にあっては、当該規定。附則第三十一条において同じ。）の施行後五年を目途として、食品等（新食品等流通法第二条第一項に規定する食品等をいう。以下この条において同じ。）の生産、流通及び消費の動向及び実態を踏まえ、農林漁業及び食品流通業の成長発展並びに一般消費者の利益の増進に資する食品等の流通構造の実現の観点から、新卸売市場法及び新食品等流通法の規定についてそれぞれ検討を加え、その結果に基づいて必要な見直しを行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（租税特別措置法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前条の規定による改正後の租税特別措置法（以下この条において「新租税特別措置法」という。）第三十四条の二（第二項第十三号に係る部分に限る。）の規定は、個人が施行日以後に行う同条第一項に規定する土地等の譲渡について適用し、個人が施行日前に行った前条の規定による改正前の租税特別措置法（以下この条において「旧租税特別措置法」という。）第三十四条の二第一項に規定する土地等の譲渡については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>新租税特別措置法第六十五条の四（第一項第十三号に係る部分に限る。）の規定は、法人（法人税法（昭和四十年法律第三十四号）第二条第八号に規定する人格のない社団等を含む。以下この項において同じ。）が施行日以後に行う新租税特別措置法第六十五条の四第一項に規定する土地等の譲渡に係る法人税について適用し、法人が施行日前に行った旧租税特別措置法第六十五条の四第一項に規定する土地等の譲渡に係る法人税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>新租税特別措置法第六十八条の七十五（新租税特別措置法第六十五条の四第一項第十三号に係る部分に限る。）の規定は、連結親法人（法人税法第二条第十二号の六の七に規定する連結親法人をいう。以下この項において同じ。）又は当該連結親法人による連結完全支配関係（法人税法第二条第十二号の七の七に規定する連結完全支配関係をいう。以下この項において同じ。）にある連結子法人（法人税法第二条第十二号の七に規定する連結子法人をいう。以下この項において同じ。）が施行日以後に行う新租税特別措置法第六十八条の七十五第一項に規定する土地等の譲渡に係る法人税について適用し、連結親法人又は当該連結親法人による連結完全支配関係にある連結子法人が施行日前に行った旧租税特別措置法第六十八条の七十五第一項に規定する土地等の譲渡に係る法人税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleCaption>（食料・農業・農村基本法の一部改正）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>食料・農業・農村基本法（平成十一年法律第百六号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence>第四十条第三項中「食品流通構造改善促進法」を「食品等の流通の合理化及び取引の適正化に関する法律」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+      <Article Num="28">
+        <ArticleCaption>（中心市街地の活性化に関する法律等の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">附則第七条第一項の規定により新食品等流通法第十六条第一項の規定による指定を受けたものとみなされた旧機構は、新食品等流通法第十七条各号に掲げる業務及び旧債務保証業務等のほか、次の各号に掲げる規定により施行日前に旧機構が締結した債務保証契約に係る当該各号に定める規定に掲げる業務及びこれに附帯する業務（以下この条において「旧特例債務保証業務等」という。）を行うものとする。</Sentence>
+            <Sentence Num="2">この場合において、旧特例債務保証業務等は、新食品等流通法の適用については、新食品等流通法第十七条第一号に掲げる業務及びこれに附帯する業務とみなす。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第十九条の規定による改正前の中心市街地の活性化に関する法律第五十四条（第一号に係る部分に限る。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>同号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第二十条の規定による改正前の中小企業等経営強化法第二十二条第一項（第一号に係る部分に限る。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>同号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第二十二条の規定による改正前の流通業務の総合化及び効率化の促進に関する法律第二十条第一項（第一号に係る部分に限る。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>同号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第二十三条の規定による改正前の中小企業による地域産業資源を活用した事業活動の促進に関する法律第十二条第一項（第一号に係る部分に限る。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>同号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第二十四条の規定による改正前の地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第二十条第一項（第一号に係る部分に限る。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>同号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第二十五条の規定による改正前の中小企業者と農林漁業者との連携による事業活動の促進に関する法律第十条第一項（第一号に係る部分に限る。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>同号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第二十六条の規定による改正前の米穀の新用途への利用の促進に関する法律第十一条第一項（第一号に係る部分に限る。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>同号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>前条の規定による改正前の地域資源を活用した農林漁業者等による新事業の創出等及び地域の農林水産物の利用促進に関する法律第十五条第一項（第一号に係る部分に限る。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>同号</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="29">
+        <ArticleCaption>（中小企業等経営強化法の一部改正に伴う調整規定）</ArticleCaption>
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日が産業競争力強化法等の一部を改正する法律（平成三十年法律第二十六号）の施行の日前である場合には、附則第二十条中「第二十二条の」とあるのは「第二十条の」と、「第二十二条第一項第一号」とあるのは「第二十条第一項第一号」と、「第二十二条第一項各号」とあるのは「第二十条第一項各号」と、「第二十二条第二項」とあるのは「第二十条第二項」と、前条第二号中「第二十二条第一項」とあるのは「第二十条第一項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の場合において、産業競争力強化法等の一部を改正する法律第三条のうち中小企業等経営強化法第二十条第二項の表第十三条第一項の項及び第十四条第一項の項の改正規定中「第十三条第一項の項及び第十四条第一項の項」とあるのは「第十八条第一項の項及び第十九条第一項の項」と、同表第十八条第一項、第十九条及び第二十条第一項第一号の項の改正規定中「第十八条第一項、第十九条及び第二十条第一項第一号の項」とあるのは「第二十三条第一項、第二十四条及び第二十五条第一項第一号の項」と、同表第二十条第一項第四号の項、第二十一条第一号の項、第二十三条第一号の項及び第二十三条第二号の項の改正規定中「第二十条第一項第四号の項、第二十一条第一号の項、第二十三条第一号の項及び第二十三条第二号の項」とあるのは「第三十二条第二号の項及び第三十二条第三号の項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

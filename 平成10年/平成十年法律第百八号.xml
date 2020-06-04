@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="108" Year="10">
+<Law DataInfo="200601e80k10m02" Era="Heisei" Lang="ja" LawType="Act" Num="108" Year="10">
   <LawNum>平成十年法律第百八号</LawNum>
   <LawBody>
     <LawTitle>金融機関等が行う特定金融取引の一括清算に関する法律</LawTitle>
@@ -68,7 +68,7 @@
         <Paragraph Hide="false" Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この法律において「一括清算」とは、基本契約書に基づき特定金融取引を行っている当事者の一方に一括清算事由が生じた場合には、当該当事者の双方の意思にかかわらず、当該一括清算事由が生じた時において、当該基本契約書に基づいて行われているすべての特定金融取引についてその時における当該特定金融取引のそれぞれにつき内閣府令で定めるところにより算出した評価額を合算して得られる純合計額が、当該当事者間における一の債権又は一の債務となることをいう。</Sentence>
+            <Sentence WritingMode="vertical">この法律において「一括清算」とは、基本契約書に基づき特定金融取引を行っている当事者の一方に一括清算事由が生じた場合には、当該当事者の双方の意思にかかわらず、当該一括清算事由が生じた時において、当該基本契約書に基づいて行われている全ての特定金融取引についてその時における当該特定金融取引のそれぞれにつき内閣府令で定めるところにより算出した評価額を合算して得られる純合計額が、当該当事者間における一の債権又は一の債務となることをいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -78,7 +78,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">破産手続開始の決定、再生手続開始の決定又は更生手続開始の決定（以下この条において「破産手続開始決定等」という。）がなされた者が、一括清算の約定をした基本契約書に基づき特定金融取引を行っていた金融機関等又はその相手方である場合には、当該基本契約書に基づいて行われていたすべての特定金融取引についてこれらの者が有する次の各号に掲げる法律に規定する当該各号に定める財産又は債権は、当該破産手続開始決定等に係る一括清算事由が生じたことにより、それぞれ、当該破産手続開始決定等がなされた者が当該約定に基づき有することとなった一の債権又はその相手方が当該約定に基づき有することとなった一の債権とする。</Sentence>
+            <Sentence WritingMode="vertical">破産手続開始の決定、再生手続開始の決定又は更生手続開始の決定（以下この条において「破産手続開始決定等」という。）がされた者が、一括清算の約定をした基本契約書に基づき特定金融取引を行っていた金融機関等又はその相手方である場合には、当該基本契約書に基づいて行われていた全ての特定金融取引についてこれらの者が有する次の各号に掲げる法律に規定する当該各号に定める財産又は債権は、当該破産手続開始決定等に係る一括清算事由が生じたことにより、それぞれ、当該破産手続開始決定等がされた者が当該約定に基づき有することとなった一の債権又はその相手方が当該約定に基づき有することとなった一の債権とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -113,6 +113,35 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>更生手続開始の決定がされた者（一括清算の約定をした基本契約書に基づき特定金融取引を行っていた金融機関等又はその相手方に限る。以下この条において同じ。）の特定金融取引の相手方が、前条の規定により一の債権（以下この条において「一括清算後債権」という。）を有することとなる場合において、当該更生手続開始の決定がされた者と当該相手方との間において更生手続開始の申立て前に締結された担保権の設定を目的とする契約（その契約条項中において、基本契約書に基づき特定金融取引を行っている当事者の一方に更生手続開始の申立てがあった場合は、担保権者に弁済として担保権の目的である財産を帰属させることができることを約定しているものに限る。）に基づく一括清算後債権に係る担保権を有するときは、当該担保権の目的である財産（特定金融取引を行う当事者が相手方に対し債務の履行を担保するために預託する有価証券その他の内閣府令で定めるものに限る。以下この条において「一括清算対象財産」という。）は、当該更生手続開始の申立てがあった時において当該相手方に帰属する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">前項の場合において、当該相手方に帰属する一括清算対象財産の評価額（内閣府令で定めるところにより算出した額をいう。次項において同じ。）が一括清算後債権の額を超えるときは、当該相手方は、当該更生手続開始の決定がされた者に対して、その超える額に相当する金銭を遅滞なく支払わなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、当該一括清算対象財産の一部をもって、当該金銭の全部又は一部に代えることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の規定により一括清算対象財産が更生手続開始の決定がされた者の相手方に帰属するときは、一括清算対象財産の評価額（その額が一括清算後債権の額を超えるときは、一括清算後債権の額）を一括清算後債権の額から控除するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">前三項（第二項ただし書を除く。）の規定は、更生手続開始の決定がされた者とその特定金融取引の相手方との間において、更生手続開始の申立て前に担保権の設定を目的とする契約（その契約条項中において、基本契約書に基づき特定金融取引を行っている当事者の一方に更生手続開始の申立てがあった場合は、担保権者に担保権の目的である財産を処分させることができることを約定しているものに限る。）が締結されている場合に準用する。</Sentence>
+            <Sentence Num="2">この場合において、第一項中「当該更生手続開始の申立てがあった時」とあるのは「当該相手方が更生手続開始の申立て以後更生手続開始前に第三者に譲渡した時」と、「当該相手方に」とあるのは「当該第三者に」と、第二項中「当該相手方に」とあるのは「当該第三者に」と、「評価額（内閣府令で定めるところにより算出した額をいう」とあるのは「譲渡価額（その額が内閣府令で定めるところにより算出した評価額に照らして不当に低いときは、当該評価額」と、前項中「更生手続開始の決定がされた者の相手方」とあるのは「第三者」と、「評価額」とあるのは「譲渡価額」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </MainProvision>
@@ -273,6 +302,50 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第二条から第六条まで及び前条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第三十一条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（金融機関等が行う特定金融取引の一括清算に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第十三条の規定による改正後の金融機関等が行う特定金融取引の一括清算に関する法律第四条の規定は、施行日以後に更生手続開始の申立てがあった者により設定されている担保権の目的である財産について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

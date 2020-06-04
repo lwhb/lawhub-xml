@@ -402,19 +402,19 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="14">
+      <Article Delete="false" Hide="false" Num="14">
         <ArticleCaption>（専門研修調整官）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Num="1">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>岩沼研修センターに、専門研修調整官一人を置く。</Sentence>
+            <Sentence WritingMode="vertical">岩沼研修センターに、専門研修調整官一人を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
+        <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>専門研修調整官は、命を受けて、航空保安業務を行うために必要な専門的な研修に関する重要事項についての企画及び立案並びに関係者との連絡調整に関する事務をつかさどる。</Sentence>
+            <Sentence WritingMode="vertical">専門研修調整官は、命を受けて、航空保安業務を行うために必要な専門的な研修に関する重要事項についての企画及び立案並びに関係者との連絡調整に関する事務をつかさどる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -442,7 +442,7 @@
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">管制科長は、航空交通管制業務に関する専門的な研修に関し、教官の行う教務を整理する。</Sentence>
+            <Sentence WritingMode="vertical">管制科長は、航空交通管制業務に関する専門的な研修に関し、教官の行う教務を整理する（特別専門研修科長の所掌に属するものを除く。）。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="5">
@@ -454,7 +454,7 @@
         <Paragraph Hide="false" Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">システム科長は、航空交通管制情報処理システム及び人工衛星を利用した航空保安用電気通信施設の運用業務に関する専門的な研修に関し、教官の行う教務を整理する。</Sentence>
+            <Sentence WritingMode="vertical">システム科長は、航空交通管制情報処理システムに関する専門的な研修に関し、教官の行う教務を整理する（特別専門研修科長の所掌に属するものを除く。）。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="7">
@@ -466,7 +466,7 @@
         <Paragraph Hide="false" Num="8">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">運用科長は、航空管制運航情報業務に関する専門的な研修（システム科長の所掌に属するものを除く。）に関し、教官の行う教務を整理する。</Sentence>
+            <Sentence WritingMode="vertical">運用科長は、航空管制運航情報業務に関する専門的な研修に関し、教官の行う教務を整理する（システム科長及び特別専門研修科長の所掌に属するものを除く。）。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="9">
@@ -478,8 +478,34 @@
         <Paragraph Hide="false" Num="10">
           <ParagraphNum>１０</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">無線科長は、航空交通管制技術業務に関する専門的な研修（システム科長の所掌に属するものを除く。）に関し、教官の行う教務を整理する。</Sentence>
+            <Sentence WritingMode="vertical">無線科長は、航空交通管制技術業務に関する専門的な研修に関し、教官の行う教務を整理する（システム科長及び特別専門研修科長の所掌に属するものを除く。）。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="11">
+          <ParagraphNum>１１</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第三項、第五項、第七項及び第九項に規定するもののほか、教官のうちから国土交通大臣が指名する者を特別専門研修科長とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="12">
+          <ParagraphNum>１２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">特別専門研修科長は、次に掲げる事務をつかさどる。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">航空灯火・電気技術業務に関する専門的な研修に関し、教官の行う教務の整理に関すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">航空保安業務に従事する職員以外の者に対する航空保安業務に関する専門的な研修に関し、教官の行う教務の整理に関すること。
+
+</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="16">
@@ -697,6 +723,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成三十年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日国土交通省令第二九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

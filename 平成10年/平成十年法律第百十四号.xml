@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="114" Year="10">
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Law DataInfo="190726e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="114" Year="10">
   <LawNum>平成十年法律第百十四号</LawNum>
   <LawBody>
     <LawTitle>感染症の予防及び感染症の患者に対する医療に関する法律</LawTitle>
@@ -3462,58 +3462,64 @@
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">次の各号のいずれかに該当する者には、前条第一項本文の許可を与えない。</Sentence>
               </ParagraphSentence>
-              <Item Delete="false" Hide="false" Num="1">
+              <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">成年被後見人若しくは被保佐人又は破産者で復権を得ないもの</Sentence>
+                  <Sentence>心身の故障により二種病原体等を適正に所持することができない者として厚生労働省令で定めるもの</Sentence>
                 </ItemSentence>
               </Item>
-              <Item Delete="false" Hide="false" Num="2">
+              <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">禁錮以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から五年を経過しない者</Sentence>
+                  <Sentence>破産手続開始の決定を受けて復権を得ない者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">この法律、狂犬病予防法（昭和二十五年法律第二百四十七号）若しくは検疫法又はこれらの法律に基づく命令の規定に違反し、罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から五年を経過しない者</Sentence>
+                  <Sentence WritingMode="vertical">禁錮以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から五年を経過しない者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">第五十六条の三十五第二項の規定により許可を取り消され、取消しの日から五年を経過しない者（当該許可を取り消された者が法人である場合においては、当該取消しの処分に係る行政手続法（平成五年法律第八十八号）第十五条の規定による通知があった日前六十日以内に当該法人の役員（業務を執行する社員、取締役、執行役又はこれらに準ずる者をいい、相談役、顧問その他いかなる名称を有する者であるかを問わず、法人に対し業務を執行する社員、取締役、執行役又はこれらに準ずる者と同等以上の支配力を有するものと認められる者を含む。以下この条において同じ。）であった者で当該取消しの日から五年を経過しないものを含む。）</Sentence>
+                  <Sentence WritingMode="vertical">この法律、狂犬病予防法（昭和二十五年法律第二百四十七号）若しくは検疫法又はこれらの法律に基づく命令の規定に違反し、罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から五年を経過しない者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">第五十六条の三十五第二項の規定による許可の取消しの処分に係る行政手続法第十五条の規定による通知があった日から当該処分をする日又は処分をしないことを決定する日までの間に第五十六条の二十二第二項の規定による届出をした者（当該届出について相当の理由がある者を除く。）で、当該届出の日から五年を経過しないもの</Sentence>
+                  <Sentence WritingMode="vertical">第五十六条の三十五第二項の規定により許可を取り消され、取消しの日から五年を経過しない者（当該許可を取り消された者が法人である場合においては、当該取消しの処分に係る行政手続法（平成五年法律第八十八号）第十五条の規定による通知があった日前六十日以内に当該法人の役員（業務を執行する社員、取締役、執行役又はこれらに準ずる者をいい、相談役、顧問その他いかなる名称を有する者であるかを問わず、法人に対し業務を執行する社員、取締役、執行役又はこれらに準ずる者と同等以上の支配力を有するものと認められる者を含む。以下この条において同じ。）であった者で当該取消しの日から五年を経過しないものを含む。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">前号に規定する期間内に第五十六条の二十二第二項の規定による届出があった場合において、同号の通知の日前六十日以内に当該届出に係る法人（当該届出について相当の理由がある法人を除く。）の役員若しくは政令で定める使用人であった者又は当該届出に係る個人（当該届出について相当の理由がある者を除く。）の政令で定める使用人であった者であって、当該届出の日から五年を経過しないもの</Sentence>
+                  <Sentence WritingMode="vertical">第五十六条の三十五第二項の規定による許可の取消しの処分に係る行政手続法第十五条の規定による通知があった日から当該処分をする日又は処分をしないことを決定する日までの間に第五十六条の二十二第二項の規定による届出をした者（当該届出について相当の理由がある者を除く。）で、当該届出の日から五年を経過しないもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">営業に関し成年者と同一の能力を有しない未成年者でその法定代理人（法定代理人が法人である場合においては、その役員を含む。）が前各号のいずれかに該当するもの</Sentence>
+                  <Sentence WritingMode="vertical">前号に規定する期間内に第五十六条の二十二第二項の規定による届出があった場合において、同号の通知の日前六十日以内に当該届出に係る法人（当該届出について相当の理由がある法人を除く。）の役員若しくは政令で定める使用人であった者又は当該届出に係る個人（当該届出について相当の理由がある者を除く。）の政令で定める使用人であった者であって、当該届出の日から五年を経過しないもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">法人でその役員又は政令で定める使用人のうちに第一号から第六号までのいずれかに該当する者のあるもの</Sentence>
+                  <Sentence WritingMode="vertical">営業に関し成年者と同一の能力を有しない未成年者でその法定代理人（法定代理人が法人である場合においては、その役員を含む。）が前各号のいずれかに該当するもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="9">
                 <ItemTitle>九</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">個人で政令で定める使用人のうちに第一号から第六号までのいずれかに該当する者のあるもの</Sentence>
+                  <Sentence WritingMode="vertical">法人でその役員又は政令で定める使用人のうちに第一号から第七号までのいずれかに該当する者のあるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">個人で政令で定める使用人のうちに第一号から第七号までのいずれかに該当する者のあるもの</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -6242,6 +6248,61 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第四十条、第五十九条、第六十一条、第七十五条（児童福祉法第三十四条の二十の改正規定に限る。）、第八十五条、第百二条、第百七条（民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律第二十六条の改正規定に限る。）、第百十一条、第百四十三条、第百四十九条、第百五十二条、第百五十四条（不動産の鑑定評価に関する法律第二十五条第六号の改正規定に限る。）及び第百六十八条並びに次条並びに附則第三条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（行政庁の行為等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（前条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行の日前に、この法律による改正前の法律又はこれに基づく命令の規定（欠格条項その他の権利の制限に係る措置を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、会社法（平成十七年法律第八十六号）及び一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）における法人の役員の資格を成年被後見人又は被保佐人であることを理由に制限する旨の規定について、この法律の公布後一年以内を目途として検討を加え、その結果に基づき、当該規定の削除その他の必要な法制上の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

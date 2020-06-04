@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="26" Year="13">
+<Law DataInfo="200302e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="26" Year="13">
   <LawNum>平成十三年国土交通省令第二十六号</LawNum>
   <LawBody>
     <LawTitle>航空交通管制部組織規則</LawTitle>
@@ -317,29 +317,23 @@
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">東京航空交通管制部の航空管制技術官は、前項に規定するもののほか、航空交通管制に用いる電気通信回線の監視に関する事務をつかさどる。</Sentence>
+            <Sentence WritingMode="vertical">航空管制技術官のうちから国土交通大臣が指名する者を先任航空管制技術官とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">航空管制技術官のうちから国土交通大臣が指名する者を先任航空管制技術官とする。</Sentence>
+            <Sentence WritingMode="vertical">先任航空管制技術官は、航空管制技術官の所掌に属する事務を管理する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">先任航空管制技術官は、航空管制技術官の所掌に属する事務を管理する。</Sentence>
+            <Sentence WritingMode="vertical">第三項に規定するもののほか、航空管制技術官のうちから国土交通大臣が指名する者を次席航空管制技術官とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="6">
           <ParagraphNum>６</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">第四項に規定するもののほか、航空管制技術官のうちから国土交通大臣が指名する者を次席航空管制技術官とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="7">
-          <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">次席航空管制技術官は、航空管制技術官の所掌に属する事務の管理に関し、先任航空管制技術官を補佐する。</Sentence>
           </ParagraphSentence>
@@ -648,6 +642,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成三十一年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日国土交通省令第三四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="326" Year="60">
+<Law DataInfo="180730e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="326" Year="60">
   <LawNum>昭和六十年政令第三百二十六号</LawNum>
   <LawBody>
     <LawTitle>回路配置利用権等の登録に関する政令</LawTitle>
@@ -405,7 +405,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">債権者は、民法第四百二十三条の規定により債務者に代位して登録を申請するときは、第十四条各号に掲げる事項（設定登録の申請にあつては、法第三条第二項各号に掲げる事項）のほか、申請書に次に掲げる事項を記載し、かつ、代位の原因を証明する書面を添付しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">債権者は、民法第四百二十三条第一項又は第四百二十三条の七の規定により債務者に代位して登録を申請するときは、第十四条各号に掲げる事項（設定登録の申請にあつては、法第三条第二項各号に掲げる事項）のほか、申請書に次に掲げる事項を記載し、かつ、代位の原因を証明する書面を添付しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -1712,6 +1712,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、平成二十七年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年六月六日政令第一八三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、民法の一部を改正する法律の施行の日（平成三十二年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
