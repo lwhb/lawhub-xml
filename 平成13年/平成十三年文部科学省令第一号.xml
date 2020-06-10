@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200603e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="13">
+<Law DataInfo="190125e01k01m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="13">
   <LawNum>平成十三年文部科学省令第一号</LawNum>
   <LawBody>
     <LawTitle>文部科学省組織規則</LawTitle>
@@ -940,12 +940,12 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="9">
-              <ArticleCaption>（政策推進室及び情報システム企画室並びに調査官及び企画官）</ArticleCaption>
+              <ArticleCaption>（政策推進室及びサイバーセキュリティ・情報化推進室並びに調査官及び企画官）</ArticleCaption>
               <ArticleTitle>第九条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">政策課に、政策推進室及び情報システム企画室並びに調査官及び企画官それぞれ一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">政策課に、政策推進室及びサイバーセキュリティ・情報化推進室並びに調査官及び企画官それぞれ一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -987,13 +987,25 @@
               <Paragraph Hide="false" Num="5">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">情報システム企画室は、文部科学省の情報システムの整備及び管理に関する事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">サイバーセキュリティ・情報化推進室は、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
+                <Item Delete="false" Hide="false" Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">文部科学省のサイバーセキュリティ（サイバーセキュリティ基本法（平成二十六年法律第百四号）第二条に規定するサイバーセキュリティをいう。）の確保並びに情報システムの整備及び管理に関する政策の企画及び立案に関する総合調整に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">文部科学省の情報システムの整備及び管理に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
               <Paragraph Hide="false" Num="6">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">情報システム企画室に、室長並びに情報システム専門官及び情報化推進専門官それぞれ一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">サイバーセキュリティ・情報化推進室に、室長並びに情報システム専門官及び情報化推進専門官それぞれ一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="7">
@@ -1876,12 +1888,12 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="26">
-              <ArticleCaption>（生徒指導室並びに学校体験活動推進専門官及び進路指導調査官）</ArticleCaption>
+              <ArticleCaption>（生徒指導室及び進路指導調査官）</ArticleCaption>
               <ArticleTitle>第二十六条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">児童生徒課に、生徒指導室並びに学校体験活動推進専門官及び進路指導調査官それぞれ一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">児童生徒課に、生徒指導室及び進路指導調査官一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -1928,12 +1940,6 @@
               </Paragraph>
               <Paragraph Hide="false" Num="6">
                 <ParagraphNum>６</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">学校体験活動推進専門官は、小学校、中学校、義務教育学校、高等学校及び中等教育学校における体験活動に関する専門的事項についての調査並びに専門的、技術的な指導及び助言（総合教育政策局及び特別支援教育課の所掌に属するものを除く。）に当たる。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Hide="false" Num="7">
-                <ParagraphNum>７</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">進路指導調査官は、小学校、中学校、義務教育学校、高等学校及び中等教育学校における進路指導に関する調査並びに専門的、技術的な指導及び助言（特別支援教育課の所掌に属するものを除く。）に当たる。</Sentence>
                 </ParagraphSentence>
@@ -2414,18 +2420,18 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="37">
-              <ArticleCaption>（大学改革推進室及び大学入試室並びに公立大学専門官及び大学改革支援専門官）</ArticleCaption>
+              <ArticleCaption>（大学改革推進室及び大学入試室並びに公立大学専門官）</ArticleCaption>
               <ArticleTitle>第三十七条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">大学振興課に、大学改革推進室及び大学入試室並びに公立大学専門官及び大学改革支援専門官それぞれ一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">大学振興課に、大学改革推進室及び大学入試室並びに公立大学専門官一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">大学改革推進室は、大学の改革の推進に関する事務（専門教育課及び医学教育課並びに大学改革支援専門官の所掌に属するものを除く。）をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">大学改革推進室は、大学の改革の推進に関する事務（専門教育課及び医学教育課の所掌に属するものを除く。）をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="3">
@@ -2462,12 +2468,6 @@
                 <ParagraphNum>８</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">公立大学専門官は、公立大学における教育の振興に関する企画及び立案並びに援助及び助言（初等中等教育局並びに専門教育課及び医学教育課の所掌に属するものを除く。）並びに公立大学法人に関する専門的事項についての処理に当たる。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Hide="false" Num="9">
-                <ParagraphNum>９</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">大学改革支援専門官は、大学の改革のための補助に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2716,12 +2716,12 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="42">
-              <ArticleCaption>（私学共済室及び私学行政専門官）</ArticleCaption>
+              <ArticleCaption>（私学共済室）</ArticleCaption>
               <ArticleTitle>第四十二条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">私学行政課に、私学共済室及び私学行政専門官一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">私学行政課に、私学共済室を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -2748,12 +2748,6 @@
                   <Sentence WritingMode="vertical">情報連携推進専門官は、私立学校教職員の共済制度に関する個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第五項に規定する個人番号をいう。）の利用による情報の照会及び提供に係る専門的事項についての指導及び助言並びに連絡調整に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="6">
-                <ParagraphNum>６</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">私学行政専門官は、学校法人が行う外国における教育に関する企画及び立案に当たる。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="43">
               <ArticleCaption>（私学助成専門官）</ArticleCaption>
@@ -2772,12 +2766,12 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="44">
-              <ArticleCaption>（企画官、学校法人調査官、私学経営専門官、学校法人危機管理対策専門官及び学校法人コンプライアンス対策専門官）</ArticleCaption>
+              <ArticleCaption>（企画官、学校法人調査官、私学経営専門官、学校法人経営特別対策専門官、学校法人危機管理対策専門官及び学校法人コンプライアンス対策専門官）</ArticleCaption>
               <ArticleTitle>第四十四条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">私学部に、企画官、学校法人調査官、私学経営専門官、学校法人危機管理対策専門官及び学校法人コンプライアンス対策専門官それぞれ一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">私学部に、企画官、学校法人調査官、私学経営専門官、学校法人経営特別対策専門官、学校法人危機管理対策専門官及び学校法人コンプライアンス対策専門官それぞれ一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -2789,23 +2783,29 @@
               <Paragraph Hide="false" Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">学校法人調査官は、参事官のつかさどる職務のうち文部科学大臣が所轄庁である学校法人の経営に関する調査、指導及び助言に関するもの（私学経営専門官、学校法人危機管理対策専門官及び学校法人コンプライアンス対策専門官の所掌に属するものを除く。）を助ける。</Sentence>
+                  <Sentence WritingMode="vertical">学校法人調査官は、参事官のつかさどる職務のうち文部科学大臣が所轄庁である学校法人の経営に関する調査、指導及び助言に関するもの（私学経営専門官、学校法人経営特別対策専門官、学校法人危機管理対策専門官及び学校法人コンプライアンス対策専門官の所掌に属するものを除く。）を助ける。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">私学経営専門官は、参事官のつかさどる職務のうち文部科学大臣が所轄庁である学校法人の経営に係る専門的、技術的な指導及び助言に関するもの（学校法人危機管理対策専門官及び学校法人コンプライアンス対策専門官の所掌に属するものを除く。）を助ける。</Sentence>
+                  <Sentence WritingMode="vertical">私学経営専門官は、参事官のつかさどる職務のうち文部科学大臣が所轄庁である学校法人の経営に係る専門的、技術的な指導及び助言に関するもの（学校法人経営特別対策専門官、学校法人危機管理対策専門官及び学校法人コンプライアンス対策専門官の所掌に属するものを除く。）を助ける。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="5">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">学校法人危機管理対策専門官は、参事官のつかさどる職務のうち文部科学大臣が所轄庁である学校法人の経営に関する危機管理に係る専門的、技術的な指導及び助言に関するもの（学校法人コンプライアンス対策専門官の所掌に属するものを除く。）を助ける。</Sentence>
+                  <Sentence WritingMode="vertical">学校法人経営特別対策専門官は、参事官のつかさどる職務のうち文部科学大臣が所轄庁である学校法人のうち経営が困難になったものの経営判断に係る専門的、技術的な指導及び助言に関するもの（学校法人危機管理対策専門官の所掌に属するものを除く。）を助ける。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="6">
                 <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">学校法人危機管理対策専門官は、参事官のつかさどる職務のうち文部科学大臣が所轄庁である学校法人の経営に関する危機管理に係る専門的、技術的な指導及び助言に関するもの（学校法人コンプライアンス対策専門官の所掌に属するものを除く。）を助ける。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="7">
+                <ParagraphNum>７</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">学校法人コンプライアンス対策専門官は、参事官のつかさどる職務のうち文部科学大臣が所轄庁である学校法人の経営に関する法令等の遵守に係る専門的、技術的な指導及び助言に関するものを助ける。</Sentence>
                 </ParagraphSentence>
@@ -4557,12 +4557,12 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="81">
-            <ArticleCaption>（国際文化交流室）</ArticleCaption>
+            <ArticleCaption>（国際文化交流室及び興行入場券流通対策専門官）</ArticleCaption>
             <ArticleTitle>第八十一条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">文化経済・国際課に、国際文化交流室を置く。</Sentence>
+                <Sentence WritingMode="vertical">文化経済・国際課に、国際文化交流室及び興行入場券流通対策専門官一人を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -4593,6 +4593,12 @@
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">国際文化交流調整官は、命を受けて、国際文化交流室の所掌事務に係る重要事項についての調整に当たる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">興行入場券流通対策専門官は、興行入場券（特定興行入場券の不正転売の禁止等による興行入場券の適正な流通の確保に関する法律（平成三十年法律第百三号）第二条第二項に規定する興行入場券をいう。）の適正な流通の確保に関する関係行政機関の事務の調整に関する事務のうち専門的事項についての調整に当たる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -5398,6 +5404,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、研究開発システムの改革の推進等による研究開発能力の強化及び研究開発等の効率的推進等に関する法律の一部を改正する法律の施行の日（平成三十一年一月十七日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二九日文部科学省令第八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令中、第一条の規定は平成三十一年四月一日から、第二条の規定は平成三十一年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

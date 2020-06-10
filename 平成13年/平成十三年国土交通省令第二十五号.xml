@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="25" Year="13">
+<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="25" Year="13">
   <LawNum>平成十三年国土交通省令第二十五号</LawNum>
   <LawBody>
     <LawTitle>地方航空局組織規則</LawTitle>
@@ -105,7 +105,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">大阪航空局に、災害対策推進官一人を置く。</Sentence>
+              <Sentence WritingMode="vertical">東京航空局及び大阪航空局に、それぞれ災害対策推進官一人を置く。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -448,7 +448,7 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項に掲げる課のほか、総務部に総務企画調整官（大阪航空局に限る。）、広報対策官及び航空保安監査官（大阪航空局に限る。）それぞれ一人を置く。</Sentence>
+              <Sentence WritingMode="vertical">前項に掲げる課のほか、総務部に総務企画調整官（大阪航空局に限る。）、広報対策官及び航空保安監査官それぞれ一人を置く。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1774,7 +1774,7 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">施設部（新千歳空港事務所、東京空港事務所及び那覇空港事務所に限る。）</Sentence>
+                    <Sentence WritingMode="vertical">施設部（東京空港事務所及び那覇空港事務所に限る。）</Sentence>
                   </ListSentence>
                 </List>
               </Paragraph>
@@ -1869,7 +1869,7 @@
               <Paragraph Hide="false" Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">新千歳空港事務所、鹿児島空港事務所及び那覇空港事務所の総務部は、前項に規定するもののほか、次に掲げる事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">鹿児島空港事務所及び那覇空港事務所の総務部は、前項に規定するもののほか、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Delete="false" Hide="false" Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -2138,7 +2138,13 @@
               <Paragraph Hide="false" Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">東京空港事務所、鹿児島空港事務所及び那覇空港事務所の管制保安部は、前各項に規定するもののほか、新千歳空港事務所の管制保安部は、第一項に規定するもののほか、次に掲げる事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">仙台空港事務所、福岡空港事務所及び鹿児島空港事務所の管制保安部は、前各項に規定するもののほか、成田空港事務所の管制保安部は、第一項及び第二項に規定するもののほか、新千歳空港事務所の管制保安部は、第一項に規定するもののほか、次条各号に掲げる事務をつかさどる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">鹿児島空港事務所の管制保安部は、前各項に規定するもののほか、東京空港事務所及び那覇空港事務所の管制保安部は、第一項から第三項までに規定するもののほか、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Delete="false" Hide="false" Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -2153,16 +2159,10 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Hide="false" Num="5">
-                <ParagraphNum>５</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">鹿児島空港事務所の管制保安部は、前各項に規定するもののほか、仙台空港事務所及び福岡空港事務所の管制保安部は、第一項から第三項までに規定するもののほか、成田空港事務所の管制保安部は、第一項及び第二項に規定するもののほか、次条各号に掲げる事務をつかさどる。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
               <Paragraph Hide="false" Num="6">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">仙台空港事務所の管制保安部は、第一項から第三項まで及び前項に規定するもののほか、東京空港事務所の管制保安部は、第一項から第四項までに規定するもののほか、成田空港事務所の管制保安部は、第一項、第二項及び前項に規定するもののほか、国際航空通信施設の工事及び保守に関する事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">仙台空港事務所の管制保安部は、第一項から第四項までに規定するもののほか、東京空港事務所の管制保安部は、第一項から第三項まで及び前項に規定するもののほか、成田空港事務所の管制保安部は、第一項、第二項及び第四項に規定するもののほか、国際航空通信施設の工事及び保守に関する事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="7">
@@ -2174,7 +2174,7 @@
               <Paragraph Hide="false" Num="8">
                 <ParagraphNum>８</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">那覇空港事務所の管制保安部は、第一項から第四項までに規定するもののほか、着陸誘導管制業務に関する事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">那覇空港事務所の管制保安部は、第一項から第三項まで及び第五項に規定するもののほか、着陸誘導管制業務に関する事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2232,7 +2232,7 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">運用調整課（福岡空港事務所及び那覇空港事務所に限る。）</Sentence>
+                    <Sentence WritingMode="vertical">運用調整課（新千歳空港事務所、福岡空港事務所及び那覇空港事務所に限る。）</Sentence>
                   </ListSentence>
                 </List>
                 <List>
@@ -2252,7 +2252,7 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">航空保安防災課（新千歳空港事務所、鹿児島空港事務所及び那覇空港事務所に限る。）</Sentence>
+                    <Sentence WritingMode="vertical">航空保安防災課（鹿児島空港事務所及び那覇空港事務所に限る。）</Sentence>
                   </ListSentence>
                 </List>
               </Paragraph>
@@ -2597,7 +2597,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">管制保安部に、航空管制運航情報官、航空管制通信官（成田空港事務所に限る。）、航空管制官（新千歳空港事務所を除く。）、航空管制技術官、施設運用管理官（仙台空港事務所、成田空港事務所、大阪空港事務所、福岡空港事務所及び鹿児島空港事務所に限る。）及び航空灯火・電気技術官を置く。</Sentence>
+                  <Sentence WritingMode="vertical">管制保安部に、航空管制運航情報官、航空管制通信官（成田空港事務所に限る。）、航空管制官（新千歳空港事務所を除く。）、航空管制技術官、施設運用管理官（新千歳空港事務所、仙台空港事務所、成田空港事務所、大阪空港事務所、福岡空港事務所及び鹿児島空港事務所に限る。）及び航空灯火・電気技術官を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -2681,7 +2681,7 @@
               <Paragraph Hide="false" Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">新千歳空港事務所、東京空港事務所、鹿児島空港事務所及び那覇空港事務所の航空管制運航情報官は、前二項に規定するもののほか、次に掲げる事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">東京空港事務所、鹿児島空港事務所及び那覇空港事務所の航空管制運航情報官は、前二項に規定するもののほか、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Delete="false" Hide="false" Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -2855,7 +2855,7 @@
               <Paragraph Hide="false" Num="13">
                 <ParagraphNum>１３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">仙台空港事務所、成田空港事務所、福岡空港事務所及び鹿児島空港事務所の施設運用管理官は、前項に規定するもののほか、次に掲げる事務をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">新千歳空港事務所、仙台空港事務所、成田空港事務所、福岡空港事務所及び鹿児島空港事務所の施設運用管理官は、前項に規定するもののほか、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Delete="false" Hide="false" Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -2939,7 +2939,7 @@
               <Paragraph Hide="false" Num="21">
                 <ParagraphNum>２１</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">仙台空港事務所、成田空港事務所及び鹿児島空港事務所にあっては、施設運用管理官及び航空灯火・電気技術官のうちから、大阪空港事務所及び福岡空港事務所にあっては施設運用管理官のうちから、国土交通大臣が指名する者を先任施設運用管理官とする。</Sentence>
+                  <Sentence WritingMode="vertical">仙台空港事務所、成田空港事務所及び鹿児島空港事務所にあっては、施設運用管理官及び航空灯火・電気技術官のうちから、新千歳空港事務所、大阪空港事務所及び福岡空港事務所にあっては施設運用管理官のうちから、国土交通大臣が指名する者を先任施設運用管理官とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="22">
@@ -3024,10 +3024,10 @@
                   <Sentence WritingMode="vertical">空港施設保全対策官は、命を受けて、自然災害による被害の予防その他の空港等の施設に係る保全に関する技術の向上に関する重要事項についての企画及び立案並びに調整に関する事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Num="4">
+              <Paragraph Hide="false" Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>施設運用管理官のうちから国土交通大臣が指名する者三人（那覇空港事務所にあっては、四人）を先任施設運用管理官とする。</Sentence>
+                  <Sentence WritingMode="vertical">施設運用管理官のうちから国土交通大臣が指名する者四人を先任施設運用管理官とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="5">

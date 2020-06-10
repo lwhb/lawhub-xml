@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="88" Year="61">
+<Law DataInfo="200608e03k09m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="88" Year="61">
   <LawNum>昭和六十一年通商産業省令第八十八号</LawNum>
   <LawBody>
     <LawTitle>コンビナート等保安規則</LawTitle>
@@ -14,7 +14,7 @@
         <ChapterTitle>第二章　高圧ガスの製造に係る許可等</ChapterTitle>
         <TOCSection Delete="false" Num="1">
           <SectionTitle>第一節　高圧ガスの製造に係る許可</SectionTitle>
-          <ArticleRange>（第三条）</ArticleRange>
+          <ArticleRange>（第三条・第三条の二）</ArticleRange>
         </TOCSection>
         <TOCSection Delete="false" Num="2">
           <SectionTitle>第二節　技術上の基準</SectionTitle>
@@ -2651,7 +2651,7 @@
                   <Subitem1 Delete="false" Hide="false" Num="12">
                     <Subitem1Title>ヲ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">国際相互承認に係る容器保安規則（平成二十八年経済産業省令第八十二号）第二条第一号に規定する国際相互承認圧縮水素自動車燃料装置用容器（以下単に「国際相互承認圧縮水素自動車燃料装置用容器」という。）、同条第二号に規定する国際相互承認天然ガス自動車燃料装置用容器（以下単に「国際相互承認天然ガス自動車燃料装置用容器」という。）又は同条第三号に規定する国際相互容認圧縮水素二輪自動車燃料装置用容器であつて当該容器を製造した月（その製造過程で行われた耐圧試験に合格した月をいう。）の前月から起算して十五年を経過したもの（国際相互承認天然ガス自動車燃料装置用容器にあつては容器製造業者が定めた月（同条第二号イに規定する国際相互承認圧縮天然ガス自動車燃料装置用容器にあつては二十年を超えない範囲内において定めた月）（以下単に「国際相互承認天然ガス自動車燃料装置用容器の充塡可能期限年月」という。）を経過したもの（同条第二号ロに規定する国際相互承認液化天然ガス自動車燃料装置用容器であつて、容器製造業者が国際相互承認天然ガス自動車燃料装置用容器の充塡可能期限年月を定めないものを除く。））には、高圧ガスを充塡しないこと（法第四十八条第五項の許可に付された条件に含まれる充塡可能な期限を経過していないものである場合は、この限りでない。）。</Sentence>
+                      <Sentence WritingMode="vertical">国際相互承認に係る容器保安規則（平成二十八年経済産業省令第八十二号）第二条第一号に規定する国際相互承認圧縮水素自動車燃料装置用容器（以下単に「国際相互承認圧縮水素自動車燃料装置用容器」という。）、同条第二号に規定する国際相互承認天然ガス自動車燃料装置用容器（以下単に「国際相互承認天然ガス自動車燃料装置用容器」という。）又は同条第三号に規定する国際相互承認圧縮水素二輪自動車燃料装置用容器であつて当該容器を製造した月（その製造過程で行われた耐圧試験に合格した月をいう。）の前月から起算して十五年を経過したもの（国際相互承認天然ガス自動車燃料装置用容器にあつては容器製造業者が定めた月（同条第二号イに規定する国際相互承認圧縮天然ガス自動車燃料装置用容器にあつては二十年を超えない範囲内において定めた月）（以下単に「国際相互承認天然ガス自動車燃料装置用容器の充塡可能期限年月」という。）を経過したもの（同条第二号ロに規定する国際相互承認液化天然ガス自動車燃料装置用容器であつて、容器製造業者が国際相互承認天然ガス自動車燃料装置用容器の充塡可能期限年月を定めないものを除く。））には、高圧ガスを充塡しないこと（法第四十八条第五項の許可に付された条件に含まれる充塡可能な期限を経過していないものである場合は、この限りでない。）。</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Delete="false" Hide="false" Num="13">
@@ -5591,8 +5591,26 @@
             <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">処理能力が二十五万立方メートル未満の事業所において、専ら常用の圧力が八十二メガパスカル以下の圧縮水素を燃料として使用する車両に固定された容器に圧縮水素を充塡する者であつて、甲種化学責任者免状、乙種化学責任者免状、丙種化学責任者免状、甲種機械責任者免状又は乙種機械責任者免状の交付を受けたものであり、かつ、圧縮水素又は液化水素の製造に関し六月以上の経験を有する者にその製造に係る保安について監督させる者</Sentence>
+                <Sentence WritingMode="vertical">処理能力が二十五万立方メートル未満の事業所において、専ら常用の圧力が八十二メガパスカル以下の圧縮水素を燃料として使用する車両に固定された容器に圧縮水素を充塡する者であつて、次のいずれかに該当する者にその製造に係る保安について監督させるもの</Sentence>
               </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">甲種化学責任者免状、乙種化学責任者免状、丙種化学責任者免状、甲種機械責任者免状又は乙種機械責任者免状の交付を受けた者であり、かつ、圧縮水素又は液化水素の製造に関し六月以上の経験を有する者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">甲種化学責任者免状、乙種化学責任者免状、丙種化学責任者免状、甲種機械責任者免状又は乙種機械責任者免状の交付を受けた者であり、かつ、圧縮水素スタンドにおける高圧ガスの製造に関する講習（当該講習を適切に実施することができる者が行うものに限る。）を修了した者であつて、圧縮天然ガススタンドに係る高圧ガスの製造に関し六月以上の経験を有する者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">甲種化学責任者免状、乙種化学責任者免状、甲種機械責任者免状又は乙種機械責任者免状の交付を受けた者であり、かつ、圧縮水素スタンドにおける高圧ガスの製造に関する講習（当該講習を適切に実施することができる者が行うものに限る。）を修了した者であつて、可燃性ガスの製造に関し六月以上の経験を有する者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
           </Paragraph>
         </Article>
@@ -5889,6 +5907,12 @@
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前二項の規定にかかわらず、特定製造者は、保安係員若しくは保安主任者に選任した日に前二項の期間が経過している場合又は保安係員若しくは保安主任者に選任した日から前二項の期間が経過するまでの日の期間が六月未満の場合は、保安係員又は保安主任者に選任した日から六月以内に講習を受けさせなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前三項の規定にかかわらず、災害その他やむを得ない事由により前三項の期間内に講習を受けさせることが困難であるときは、経済産業大臣が当該事由を勘案して定める期間内に講習を受けさせなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -9030,12 +9054,30 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-<SupplProvision AmendLawNum="令和元年一一月一二日経済産業省令第四一号" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年一一月一二日経済産業省令第四一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年二月二八日経済産業省令第一二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月一七日経済産業省令第一五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

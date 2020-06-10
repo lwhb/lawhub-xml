@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200603e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="179" Year="29">
+<Law DataInfo="200410e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="179" Year="29">
   <LawNum>昭和二十九年政令第百七十九号</LawNum>
   <LawBody>
     <LawTitle>自衛隊法施行令</LawTitle>
@@ -4107,7 +4107,7 @@
               <Item Num="20">
                 <ItemTitle>二十</ItemTitle>
                 <ItemSentence>
-                  <Sentence>装備制度管理官</Sentence>
+                  <Sentence>装備保全管理官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="21">
@@ -4119,89 +4119,83 @@
               <Item Num="22">
                 <ItemTitle>二十二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>統合装備計画官</Sentence>
+                  <Sentence>事業監理官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="23">
                 <ItemTitle>二十三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>事業監理官</Sentence>
+                  <Sentence>装備技術官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="24">
                 <ItemTitle>二十四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>装備技術官</Sentence>
+                  <Sentence>技術計画官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="25">
                 <ItemTitle>二十五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>技術計画官</Sentence>
+                  <Sentence>技術振興官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="26">
                 <ItemTitle>二十六</ItemTitle>
                 <ItemSentence>
-                  <Sentence>技術振興官</Sentence>
+                  <Sentence>原価管理官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="27">
                 <ItemTitle>二十七</ItemTitle>
                 <ItemSentence>
-                  <Sentence>原価管理官</Sentence>
+                  <Sentence>企業調査官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="28">
                 <ItemTitle>二十八</ItemTitle>
                 <ItemSentence>
-                  <Sentence>企業調査官</Sentence>
+                  <Sentence>需品調達官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="29">
                 <ItemTitle>二十九</ItemTitle>
                 <ItemSentence>
-                  <Sentence>需品調達官</Sentence>
+                  <Sentence>武器調達官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="30">
                 <ItemTitle>三十</ItemTitle>
                 <ItemSentence>
-                  <Sentence>武器調達官</Sentence>
+                  <Sentence>電子音響調達官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="31">
                 <ItemTitle>三十一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>電子音響調達官</Sentence>
+                  <Sentence>艦船調達官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="32">
                 <ItemTitle>三十二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>艦船調達官</Sentence>
+                  <Sentence>通信電気調達官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="33">
                 <ItemTitle>三十三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>通信電気調達官</Sentence>
+                  <Sentence>航空機調達官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="34">
                 <ItemTitle>三十四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>航空機調達官</Sentence>
+                  <Sentence>輸入調達官</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="35">
                 <ItemTitle>三十五</ItemTitle>
-                <ItemSentence>
-                  <Sentence>輸入調達官</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="36">
-                <ItemTitle>三十六</ItemTitle>
                 <ItemSentence>
                   <Sentence>前各号に掲げる官職に準ずる官職として防衛大臣が定める官職</Sentence>
                 </ItemSentence>
@@ -15855,6 +15849,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第八三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第一条の二関係）</RelatedArticleNum>
@@ -15863,7 +15866,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S29SE179_2006021706_001.jpg"/>
+                <Fig src="./pict/S29SE179_2006041106_001.jpg"/>
               </FigStruct>
             </TableColumn>
           </TableRow>

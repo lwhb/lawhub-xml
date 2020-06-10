@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="3" Year="26">
+<Law DataInfo="200604e03k04m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="3" Year="26">
   <LawNum>平成二十六年内閣府・総務省令第三号</LawNum>
   <LawBody>
     <LawTitle>行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則</LawTitle>
@@ -823,203 +823,203 @@
           <TableStruct>
             <Table>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top" rowspan="2">
+                <TableColumn Valign="top" rowspan="2">
                   <Sentence>第四条第一号</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>法第十七条第一項の規定により個人番号カードを交付する市町村長（以下この条において単に「市町村長」という。）</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>令第四十三条第二項の規定により読み替えて適用する法第十七条第一項の規定により個人番号カードを交付する市長（以下この条において単に「市長」という。）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>のうち市町村長</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>のうち市長</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>第四条第一号ハ、第二号、第三号イ及びロ、第四号並びに第五号ロ</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>市町村長</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>市長</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top" rowspan="2">
+                <TableColumn Valign="top" rowspan="2">
                   <Sentence>第五条</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>市町村の長（以下「住所地市町村長</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>市の市長（以下「住所地市長</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>同条第二項ただし書の規定により個人番号カードを交付する住所地市町村長</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>令第四十四条第二項の規定により読み替えて適用する令第十三条第二項ただし書の規定に基づき個人番号カードを交付する住所地市長</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top" rowspan="6">
+                <TableColumn Valign="top" rowspan="6">
                   <Sentence>第十二条第一項</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>市町村長が行う</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>区長（総合区長を含む。以下同じ。）が行う</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>市町村長（特別区の区長を含む。以下同じ。）</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>区長</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>市町村長」</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>区長」</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>第二条第三項中</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>第二条第一項第四号中「備える市町村（特別区を含む。以下同じ。）の長」とあるのは「作成した区長（総合区長を含む。）」と、同条第三項中</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>市町村長が適当</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>区長が適当</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>市町村長が」</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>区長が」</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top" rowspan="2">
+                <TableColumn Valign="top" rowspan="2">
                   <Sentence>第十二条第二項</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>市町村長</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>区長</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>第十条第一号</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>同条第五項第四号中「備える市町村の長」とあるのは「作成した区長（総合区長を含む。）」と、第十条第一号</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>第十二条第三項及び附則第二条第三項</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>市町村長</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>区長</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>第十三条並びに第十六条第一項第一号及び第二号</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>住所地市町村長</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>住所地市長</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top" rowspan="2">
+                <TableColumn Valign="top" rowspan="2">
                   <Sentence>第十六条第二項</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>住所地市町村長は</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>交付申請者が記録されている住民基本台帳を作成した区長（以下「住所地区長」という。）は</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>住所地市町村長が</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>住所地市長が</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top" rowspan="2">
+                <TableColumn Valign="top" rowspan="2">
                   <Sentence>第十六条第三項</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>住所地市町村長は</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>住所地区長は</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>住所地市町村長が</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>住所地市長が</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>第十七条第二項</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>市町村長</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>住所地区長</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>附則第二条第二項</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>法第十七条第一項の規定により個人番号カードを交付する市町村長</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <TableColumn Valign="top">
                   <Sentence>令第四十三条第二項の規定により読み替えて適用する法第十七条第一項の規定により個人番号カードを交付する市長及び同項の規定により法第十六条の政令で定める措置をとるものとされた住所地区長</Sentence>
                 </TableColumn>
               </TableRow>

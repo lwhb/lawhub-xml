@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="190" Year="14">
+<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="190" Year="14">
   <LawNum>平成十四年法律第百九十号</LawNum>
   <LawBody>
     <LawTitle>金融機関等の組織再編成の促進に関する特別措置法</LawTitle>
@@ -701,7 +701,7 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">保険事故が発生した日前一年以内に合併により設立され、若しくは他の農業協同組合連合会と合併し、又は農業協同組合法第五十条の二第二項の規定に基づき同法第十条第一項第二号及び第三号の事業を行う農業協同組合（以下「農業協同組合」という。）若しくは他の農業協同組合連合会から同項第二号及び第三号の事業並びに同項第四号の事業のうち同条第二十三項各号に掲げるもの（これらの事業に附帯する事業を含む。）並びに同条第六項及び第七項の事業の全部を譲り受けた農業協同組合連合会に係る保険金の額についての貯金保険法第五十六条第二項の規定の適用については、同項中「政令で定める金額」とあるのは、「合併又は信用事業の全部の譲渡を行つた農水産業協同組合の数に応じて政令で定める金額」とする。</Sentence>
+              <Sentence WritingMode="vertical">保険事故が発生した日前一年以内に合併により設立され、若しくは他の農業協同組合連合会と合併し、又は農業協同組合法第五十条の二第二項の規定に基づき同法第十条第一項第二号及び第三号の事業を行う農業協同組合（以下「農業協同組合」という。）若しくは他の農業協同組合連合会から同項第二号及び第三号の事業並びに同項第四号の事業のうち同条第二十三項各号に掲げるもの（これらの事業に附帯する事業を含む。）並びに同条第六項、第七項及び第二十四項の事業の全部を譲り受けた農業協同組合連合会に係る保険金の額についての貯金保険法第五十六条第二項の規定の適用については、同項中「政令で定める金額」とあるのは、「合併又は信用事業の全部の譲渡を行つた農水産業協同組合の数に応じて政令で定める金額」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3">
@@ -1329,6 +1329,40 @@
           <Sentence WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この項において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第三十一条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

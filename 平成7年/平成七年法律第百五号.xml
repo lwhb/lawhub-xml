@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="105" Year="07">
+<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="105" Year="07">
   <LawNum>平成七年法律第百五号</LawNum>
   <LawBody>
     <LawTitle>保険業法</LawTitle>
@@ -8739,6 +8739,12 @@
                   <Sentence>前号に掲げる業務の代理又は媒介</Sentence>
                 </ItemSentence>
               </Item>
+              <Item Num="14">
+                <ItemTitle>十四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>顧客から取得した当該顧客に関する情報を当該顧客の同意を得て第三者に提供する業務その他当該保険会社の保有する情報を第三者に提供する業務であって、当該保険会社の行う保険業の高度化又は当該保険会社の利用者の利便の向上に資するもの</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
@@ -9502,7 +9508,7 @@
               <Item Num="12">
                 <ItemTitle>十二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>従属業務又は金融関連業務を専ら営む会社（従属業務を営む会社にあっては主として当該保険会社、その子会社（第一号、第二号及び第八号に掲げる者に限る。第十項において同じ。）その他これらに類する者として内閣府令で定めるものの営む業務のためにその業務を営んでいるものに限るものとし、金融関連業務を営む会社であって次に掲げる業務の区分に該当する場合には、当該区分に定めるものに、それぞれ限るものとする。）</Sentence>
+                  <Sentence>従属業務又は金融関連業務を専ら営む会社（従属業務を営む会社にあっては主として当該保険会社、その子会社（第一号、第二号及び第八号に掲げる者に限る。第十一項において同じ。）その他これらに類する者として内閣府令で定めるものの営む業務のためにその業務を営んでいるものに限るものとし、金融関連業務を営む会社であって次に掲げる業務の区分に該当する場合には、当該区分に定めるものに、それぞれ限るものとする。）</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -9586,6 +9592,12 @@
                 <ItemTitle>十三</ItemTitle>
                 <ItemSentence>
                   <Sentence>新たな事業分野を開拓する会社又は経営の向上に相当程度寄与すると認められる新たな事業活動を行う会社として内閣府令で定める会社（当該会社の議決権を、当該保険会社又はその子会社のうち前号に掲げる会社で内閣府令で定めるもの（次条第七項において「特定子会社」という。）以外の子会社が、合算して、同条第一項に規定する基準議決権数を超えて保有していないものに限る。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="13_2">
+                <ItemTitle>十三の二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前各号に掲げる会社のほか、情報通信技術その他の技術を活用した当該保険会社の行う保険業の高度化若しくは当該保険会社の利用者の利便の向上に資する業務又はこれに資すると見込まれる業務を営む会社</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="14">
@@ -9796,13 +9808,13 @@
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>保険会社は、子会社対象会社のうち、第一項第一号から第十二号まで、第十四号又は第十五号に掲げる会社（従属業務（第二項第一号に掲げる従属業務をいう。以下この項及び第十項において同じ。）又は保険業に付随し、若しくは関連する業務として内閣府令で定めるものを専ら営む会社（従属業務を営む会社にあっては、主として当該保険会社の営む業務のためにその業務を営んでいる会社に限る。）を除く。以下この条及び次条第四項第一号において「子会社対象保険会社等」という。）を子会社としようとするときは、第百四十二条、第百六十七条第一項又は第百七十三条の六第一項の規定により事業の譲受け、合併又は会社分割の認可を受ける場合を除き、あらかじめ、内閣総理大臣の認可を受けなければならない。</Sentence>
+                <Sentence>保険会社は、子会社対象会社のうち、第一項第一号から第十二号まで又は第十三号の二から第十五号までに掲げる会社（従属業務（第二項第一号に掲げる従属業務をいう。以下この項及び第十一項において同じ。）又は保険業に付随し、若しくは関連する業務として内閣府令で定めるものを専ら営む会社（従属業務を営む会社にあっては、主として当該保険会社の営む業務のためにその業務を営んでいる会社に限る。）を除く。次項及び第九項並びに次条第四項第一号において「子会社対象保険会社等」という。）を子会社としようとするとき（第一項第十三号の二に掲げる会社にあっては、当該保険会社又はその子会社が合算してその基準議決権数（同条第一項に規定する基準議決権数をいう。次項及び第十項において同じ。）を超える議決権を取得し、又は保有しようとするとき）は、第百四十二条、第百六十七条第一項又は第百七十三条の六第一項の規定により事業の譲受け、合併又は会社分割の認可を受ける場合を除き、あらかじめ、内閣総理大臣の認可を受けなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">前項の規定は、子会社対象保険会社等が、保険会社又はその子会社の担保権の実行による株式又は持分の取得その他の内閣府令で定める事由により当該保険会社の子会社となる場合には、適用しない。</Sentence>
+                <Sentence Function="main" Num="1">前項の規定は、子会社対象保険会社等が、保険会社又はその子会社の担保権の実行による株式又は持分の取得その他の内閣府令で定める事由により当該保険会社の子会社（第一項第十三号の二に掲げる会社にあっては、当該保険会社又はその子会社が合算してその基準議決権数を超える議決権を保有する会社。以下この項において同じ。）となる場合には、適用しない。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、当該保険会社は、その子会社となった子会社対象保険会社等を引き続き子会社とすることについて内閣総理大臣の認可を受けた場合を除き、当該子会社対象保険会社等が当該事由の生じた日から一年を経過する日までに子会社でなくなるよう、所要の措置を講じなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -9815,6 +9827,12 @@
             <Paragraph Num="10">
               <ParagraphNum>１０</ParagraphNum>
               <ParagraphSentence>
+                <Sentence>保険会社は、当該保険会社又はその子会社が合算してその基準議決権数を超える議決権を保有している子会社対象会社（当該保険会社の子会社及び第一項第十三号の二に掲げる会社を除く。）が同号に掲げる会社となったことを知ったときは、引き続きその基準議決権数を超える議決権を保有することについて内閣総理大臣の認可を受けた場合を除き、これを知った日から一年を経過する日までに当該同号に掲げる会社が当該保険会社又はその子会社が合算してその基準議決権数を超える議決権を保有する会社でなくなるよう、所要の措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="11">
+              <ParagraphNum>１１</ParagraphNum>
+              <ParagraphSentence>
                 <Sentence>第一項第十二号又は第七項の場合において、会社が主として保険会社、その子会社その他これらに類する者として内閣府令で定めるもの又は保険会社の行う業務のために従属業務を営んでいるかどうかの基準は、内閣総理大臣が定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -9825,7 +9843,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>保険会社又はその子会社は、国内の会社（前条第一項第一号から第七号まで、第十二号及び第十四号に掲げる会社並びに特例対象会社を除く。以下この条において同じ。）の議決権については、合算して、その基準議決権数（当該国内の会社の総株主等の議決権に百分の十を乗じて得た議決権の数をいう。以下この条において同じ。）を超える議決権を取得し、又は保有してはならない。</Sentence>
+                <Sentence>保険会社又はその子会社は、国内の会社（前条第一項第一号から第七号まで、第十二号、第十三号の二及び第十四号に掲げる会社並びに特例対象会社を除く。次項から第六項までにおいて同じ。）の議決権については、合算して、その基準議決権数（国内の会社の総株主等の議決権に百分の十を乗じて得た議決権の数をいう。次項から第六項までにおいて同じ。）を超える議決権を取得し、又は保有してはならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -38031,6 +38049,50 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第三十一条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

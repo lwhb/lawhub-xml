@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="7" Year="40" appid="elawsPro" lawid="03ffe7eb-4736-4692-afb1-987429852401">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="7" Year="40">
   <LawNum>昭和四十年建設省令第七号</LawNum>
   <LawBody>
     <LawTitle>河川法施行規則</LawTitle>
@@ -5362,6 +5362,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+<SupplProvision AmendLawNum="令和元年六月二八日国土交通省令第二〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

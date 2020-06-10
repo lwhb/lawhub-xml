@@ -20497,6 +20497,40 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年九月一一日農林水産省令第二八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、農地中間管理事業の推進に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和元年十一月一日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条、第四条、第六条から第八条まで及び第十条から第十五条までの規定は、改正法附則第一条第二号に掲げる規定の施行の日（令和二年四月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（農林水産省関係東日本大震災復興特別区域法施行規則の一部改正）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">農林水産省関係東日本大震災復興特別区域法施行規則（平成二十三年農林水産省令第六十六号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">次の表により、改正前欄に掲げる規定の傍線部分をこれに対応する改正後欄に掲げる規定の傍線部分のように改める。</Sentence>
+            </AmendProvisionSentence>
+            <NewProvision>
+              <FigStruct>
+                <Fig src="./pict/R01F170028_2006041506_001.jpg"/>
+              </FigStruct>
+            </NewProvision>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和元年九月一三日農林水産省令第二九号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
@@ -21135,7 +21169,7 @@
       <RelatedArticleNum>（第２２条の５関係）（法人の場合）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_001.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21144,7 +21178,7 @@
       <RelatedArticleNum>（第２２条の５関係）（個人の場合）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_002.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21153,7 +21187,7 @@
       <RelatedArticleNum>（第１０６条第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_003.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21162,7 +21196,7 @@
       <RelatedArticleNum>（第１１７条第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_004.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21171,7 +21205,7 @@
       <RelatedArticleNum>（第１４３条第３項第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_005.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21180,7 +21214,7 @@
       <RelatedArticleNum>（第１０６条第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_006.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21189,7 +21223,7 @@
       <RelatedArticleNum>（第１１７条第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_007.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21198,7 +21232,7 @@
       <RelatedArticleNum>（第１０６条第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_008.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21207,7 +21241,7 @@
       <RelatedArticleNum>（第１１７条第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_009.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21216,7 +21250,7 @@
       <RelatedArticleNum>（第１４３条第３項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_010.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21225,7 +21259,7 @@
       <RelatedArticleNum>（第１０６条第４号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_011.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21234,7 +21268,7 @@
       <RelatedArticleNum>（第１１７条第４号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_012.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21243,7 +21277,7 @@
       <RelatedArticleNum>（第１０６条第５号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_013.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21252,7 +21286,7 @@
       <RelatedArticleNum>（第１１７条第５号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_014.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21261,7 +21295,7 @@
       <RelatedArticleNum>（第１４３条第３項第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_015.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21270,7 +21304,7 @@
       <RelatedArticleNum>（第２０２条第３項第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_016.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21279,7 +21313,7 @@
       <RelatedArticleNum>（第２０２条第５項第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_017.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21288,7 +21322,7 @@
       <RelatedArticleNum>（第２０２条第３項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_018.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21297,7 +21331,7 @@
       <RelatedArticleNum>（第２０２条第５項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_019.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21306,7 +21340,7 @@
       <RelatedArticleNum>（第２０２条第３項第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_020.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21315,7 +21349,7 @@
       <RelatedArticleNum>（第２０２条第５項第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_021.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21324,7 +21358,7 @@
       <RelatedArticleNum>（第２０２条第３項第４号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_022.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21333,7 +21367,7 @@
       <RelatedArticleNum>（第２０２条第５項第４号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_023.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21342,7 +21376,7 @@
       <RelatedArticleNum>（第２０２条第３項第５号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_024.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21351,7 +21385,7 @@
       <RelatedArticleNum>（第２０２条第５項第５号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_025.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -21360,7 +21394,7 @@
       <RelatedArticleNum>（第２２３条の１６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H17F17001000027_2005301605_026.pdf"/>
+          <Fig src="./pict/R01F170028_2006041506_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

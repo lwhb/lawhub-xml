@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="53" Year="48">
+<Law DataInfo="200608e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="53" Year="48">
   <LawNum>昭和四十八年法律第五十三号</LawNum>
   <LawBody>
     <LawTitle>農水産業協同組合貯金保険法</LawTitle>
@@ -203,7 +203,7 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">農業協同組合法第十条第一項第二号及び第三号の事業並びに同項第四号の事業のうち同条第二十三項各号に掲げるもの（これらの事業に附帯する事業を含む。）並びに同条第六項及び第七項の事業</Sentence>
+                <Sentence WritingMode="vertical">農業協同組合法第十条第一項第二号及び第三号の事業並びに同項第四号の事業のうち同条第二十三項各号に掲げるもの（これらの事業に附帯する事業を含む。）並びに同条第六項、第七項及び第二十四項の事業</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
@@ -6569,6 +6569,20 @@
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第百三条の二、第百三条の三、第二百六十七条の二、第二百六十七条の三及び第三百六十二条の規定は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二八号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第三十一条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

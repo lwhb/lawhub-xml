@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="155" Year="29">
+<Law DataInfo="200417e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="155" Year="29">
   <LawNum>昭和二十九年政令第百五十五号</LawNum>
   <LawBody>
     <LawTitle>関税定率法施行令</LawTitle>
@@ -68,7 +68,7 @@
       </TOCChapter>
       <TOCChapter Num="13">
         <ChapterTitle>第十三章　雑則</ChapterTitle>
-        <ArticleRange>（第六十二条―第七十七条）</ArticleRange>
+        <ArticleRange>（第六十二条―第七十八条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -263,8 +263,7 @@
               </ItemSentence>
             </Item>
             <Item Num="22">
-              <ItemTitle>二十二
-              </ItemTitle>
+              <ItemTitle>二十二</ItemTitle>
               <ItemSentence>
                 <Sentence>法の別表第九四〇一・九〇号の一に掲げる物品</Sentence>
               </ItemSentence>
@@ -3623,23 +3622,29 @@
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence>法の別表第七五〇四・〇〇号の一に掲げるニッケルの粉及びフレーク</Sentence>
+                <Sentence>法の別表第三六〇三・〇〇号の一に掲げるイグナイター</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="11">
               <ItemTitle>十一</ItemTitle>
               <ItemSentence>
-                <Sentence>法の別表第七五〇六・一〇号の一に掲げるニッケル（合金を除く。）の板、シート、ストリップ及びはく</Sentence>
+                <Sentence>法の別表第七五〇四・〇〇号の一に掲げるニッケルの粉及びフレーク</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="12">
               <ItemTitle>十二</ItemTitle>
               <ItemSentence>
-                <Sentence>法の別表第七六〇六・一二号の一及び第七六〇六・九二号の一に掲げるアルミニウムの板、シート及びストリップ（大型のコンテナ（第七十七条で定める規格のものに限る。）の屋根板として使用するもの（幅が二・三メートル以上のものに限る。）に限る。）</Sentence>
+                <Sentence>法の別表第七五〇六・一〇号の一に掲げるニッケル（合金を除く。）の板、シート、ストリップ及びはく</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="13">
               <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence>法の別表第七六〇六・一二号の一及び第七六〇六・九二号の一に掲げるアルミニウムの板、シート及びストリップ（大型のコンテナ（第七十八条で定める規格のものに限る。）の屋根板として使用するもの（幅が二・三メートル以上のものに限る。）に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="14">
+              <ItemTitle>十四</ItemTitle>
               <ItemSentence>
                 <Sentence>法の別表第七八〇一・九一号の一及び第七八〇一・九九号の二の（一）に掲げる鉛の塊</Sentence>
               </ItemSentence>
@@ -3669,7 +3674,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>当該貨物（前条第七号から第十一号までに掲げるものを除く。）から製造される製品の品名及びその予定数量並びにその製造の予定期間</Sentence>
+                <Sentence>当該貨物（前条第七号から第九号まで、第十一号及び第十二号に掲げるものを除く。）から製造される製品の品名及びその予定数量並びにその製造の予定期間</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3715,7 +3720,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">第五十七条各号に掲げる貨物（同条第九号に掲げるものを除く。）について、法第二十条の二第一項（軽減税率適用貨物の用途外使用の制限等）の軽減税率の適用を受けた者は、当該貨物につき次に掲げる事項を記載した帳簿をその事業場に備えなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、第五十七条第一号から第三号まで、第七号、第八号、第十二号及び第十三号に掲げる貨物（特例申告貨物を除く。）については、第一号及び第二号に掲げる事項の記載は、当該事業場に当該貨物の輸入の許可書を備える場合には、省略することができる。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、第五十七条第一号から第三号まで、第七号、第八号、第十号、第十三号及び第十四号に掲げる貨物（特例申告貨物を除く。）については、第一号及び第二号に掲げる事項の記載は、当該事業場に当該貨物の輸入の許可書を備える場合には、省略することができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -3744,7 +3749,7 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>当該貨物（第五十七条第七号から第十一号までに掲げるものを除く。）から製造した製品の品名及び数量（同条第十二号に掲げるものに係る場合にあつては、その製品の品名、寸法、性能及び数量）</Sentence>
+                <Sentence>当該貨物（第五十七条第七号から第九号まで、第十一号及び第十二号に掲げるものを除く。）から製造した製品の品名及び数量（同条第十三号に掲げるものに係る場合にあつては、その製品の品名、寸法、性能及び数量）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -4046,7 +4051,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法の別表第二七類の備考１の（ａ）から（ｃ）までに規定する政令で定める分留性状の試験方法、同表第二七類の備考１の（ｃ）に規定する政令で定める試験方法並びに同表第二七一〇・一二号の一の（一）のＢ及び第二七一〇・二〇号の一の（一）のＢに規定する政令で定める分留性状の試験方法は、それぞれ産業標準化法（昭和二十四年法律第百八十五号）第二十条第一項（日本産業規格）に規定する日本産業規格（第七十五条から第七十七条までにおいて「日本産業規格」という。）に定める石油の分留性状の試験方法、石油製品残留炭素分の試験方法及び化学製品の蒸留試験方法とする。</Sentence>
+              <Sentence>法の別表第二七類の備考１の（ａ）から（ｃ）までに規定する政令で定める分留性状の試験方法、同表第二七類の備考１の（ｃ）に規定する政令で定める試験方法並びに同表第二七一〇・一二号の一の（一）のＢ及び第二七一〇・二〇号の一の（一）のＢに規定する政令で定める分留性状の試験方法は、それぞれ産業標準化法（昭和二十四年法律第百八十五号）第二十条第一項（日本産業規格）に規定する日本産業規格（第七十六条から第七十八条までにおいて「日本産業規格」という。）に定める石油の分留性状の試験方法、石油製品残留炭素分の試験方法及び化学製品の蒸留試験方法とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4071,8 +4076,18 @@
           </Paragraph>
         </Article>
         <Article Num="75">
-          <ArticleCaption>（シェニール織物及びパイル編物のうち難燃性を有するものの指定）</ArticleCaption>
+          <ArticleCaption>（自動車の部分品の指定）</ArticleCaption>
           <ArticleTitle>第七十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法の別表第三六〇三・〇〇号の一に規定する政令で定める自動車の部分品は、エアバッグガス発生器、シートベルト引つ張り固定器用ガス発生器又は歩行者衝撃緩和ボンネット上昇装置用ガス発生器とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="76">
+          <ArticleCaption>（シェニール織物及びパイル編物のうち難燃性を有するものの指定）</ArticleCaption>
+          <ArticleTitle>第七十六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -4080,9 +4095,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="76">
+        <Article Num="77">
           <ArticleCaption>（細幅織物のうち引張強さ及び難燃性を有するものの指定）</ArticleCaption>
-          <ArticleTitle>第七十六条</ArticleTitle>
+          <ArticleTitle>第七十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -4090,9 +4105,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="77">
+        <Article Num="78">
           <ArticleCaption>（大型のコンテナの規格の指定）</ArticleCaption>
-          <ArticleTitle>第七十七条</ArticleTitle>
+          <ArticleTitle>第七十八条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5640,6 +5655,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1">この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="23" Year="42">
+<Law DataInfo="200127e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="23" Year="42">
   <LawNum>昭和四十二年法律第二十三号</LawNum>
   <LawBody>
     <LawTitle>印紙税法</LawTitle>
@@ -6132,13 +6132,13 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二八年一一月一六日法律第七六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Delete="false" Hide="false" Num="1">
+      <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence>この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -6426,6 +6426,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月六日法律第六七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -7388,7 +7401,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>情報処理の促進に関する法律（昭和四十五年法律第九十号）第四十三条第一項第三号及び第四号（業務の範囲等）の業務に関する文書</Sentence>
+              <Sentence>情報処理の促進に関する法律（昭和四十五年法律第九十号）第五十一条第一項第三号及び第四号（業務の範囲等）の業務に関する文書</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>独立行政法人情報処理推進機構</Sentence>

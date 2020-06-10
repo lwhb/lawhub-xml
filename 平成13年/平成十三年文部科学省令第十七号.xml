@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200603e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="17" Year="13">
+<Law DataInfo="190316e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="17" Year="13">
   <LawNum>平成十三年文部科学省令第十七号</LawNum>
   <LawBody>
     <LawTitle>文部科学省定員規則</LawTitle>
@@ -31,7 +31,7 @@
                   <Sentence WritingMode="vertical">本省</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一、七四五人</Sentence>
+                  <Sentence WritingMode="vertical">一、七五〇人</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">うち、一人は、特別職の職員の定員とする。</Sentence>
@@ -42,7 +42,7 @@
                   <Sentence WritingMode="vertical">スポーツ庁</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一二一人</Sentence>
+                  <Sentence WritingMode="vertical">一二二人</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical"/>
@@ -53,7 +53,7 @@
                   <Sentence WritingMode="vertical">文化庁</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">二六〇人</Sentence>
+                  <Sentence WritingMode="vertical">二六一人</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical"/>
@@ -64,7 +64,7 @@
                   <Sentence WritingMode="vertical">合計</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">二、一二六人</Sentence>
+                  <Sentence WritingMode="vertical">二、一三三人</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical"/>
@@ -353,6 +353,21 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は平成三十一年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二九日文部科学省令第一〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成三十一年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">改正後の文部科学省定員規則第一条の規定にかかわらず、文部科学省の本省の定員は、平成三十一年九月三十日までの間においては、一、七八三人（うち、一人は、特別職の職員の定員とする。）とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

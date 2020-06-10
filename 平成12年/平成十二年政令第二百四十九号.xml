@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="249" Year="12">
+<Law DataInfo="200508e01k01m02" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="249" Year="12">
   <LawNum>平成十二年政令第二百四十九号</LawNum>
   <LawBody>
     <LawTitle>外務省組織令</LawTitle>
@@ -2804,7 +2804,7 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>アルバニア、ウクライナ、オーストリア、キプロス、ギリシャ、クロアチア、コソボ、スイス、スロバキア、スロベニア、セルビア、チェコ、ドイツ、ハンガリー、ブルガリア、ベラルーシ、ポーランド、ボスニア・ヘルツェゴビナ、マケドニア旧ユーゴスラビア共和国、モルドバ、モンテネグロ、リヒテンシュタイン及びルーマニアに関する外交政策に関すること。</Sentence>
+                    <Sentence>アルバニア、ウクライナ、オーストリア、北マケドニア、キプロス、ギリシャ、クロアチア、コソボ、スイス、スロバキア、スロベニア、セルビア、チェコ、ドイツ、ハンガリー、ブルガリア、ベラルーシ、ポーランド、ボスニア・ヘルツェゴビナ、モルドバ、モンテネグロ、リヒテンシュタイン及びルーマニアに関する外交政策に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
@@ -4810,6 +4810,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この政令は、平成三十一年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一三四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

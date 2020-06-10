@@ -4735,7 +4735,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">指導主事、社会教育主事その他教育委員会において学校教育又は社会教育に関する専門的事項の指導等に関する事務に従事している者として免許管理者が定める者</Sentence>
+                <Sentence WritingMode="vertical">指導主事、社会教育主事その他教育委員会の事務局（地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）第二十三条第一項の条例の定めるところによりその長が同項第一号に掲げる事務を管理し、及び執行することとされた地方公共団体（第六十五条の七第二号において「特定地方公共団体」という。）にあつては、当該事務を分掌する内部部局を含む。同号において同じ。）において学校教育又は社会教育に関する専門的事項の指導等に関する事務に従事している者として免許管理者が定める者</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -5507,7 +5507,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">教育委員会又は教育委員会の所管に属する教育機関（前号に規定するものを除く。）の職員</Sentence>
+                <Sentence WritingMode="vertical">教育委員会の事務局又は教育委員会（特定地方公共団体にあつては、その長又は教育委員会）の所管に属する教育機関（前号に規定するものを除く。）の職員</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -8751,7 +8751,7 @@
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">指導主事、社会教育主事その他教育委員会において学校教育又は社会教育に関する専門的事項の指導等に関する事務に従事している者として免許管理者が定める者</Sentence>
+              <Sentence WritingMode="vertical">指導主事、社会教育主事その他教育委員会の事務局（地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）第二十三条第一項の条例の定めるところによりその長が同項第一号に掲げる事務を管理し、及び執行することとされた地方公共団体にあっては、当該事務を分掌する内部部局を含む。附則第十条第一項第二号において同じ。）において学校教育又は社会教育に関する専門的事項の指導等に関する事務に従事している者として免許管理者が定める者</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="3">
@@ -9150,7 +9150,7 @@
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">指導主事、社会教育主事その他教育委員会において学校教育又は社会教育に関する専門的事項の指導等に関する事務に従事している者として免許管理者が定める者</Sentence>
+              <Sentence WritingMode="vertical">指導主事、社会教育主事その他教育委員会の事務局において学校教育又は社会教育に関する専門的事項の指導等に関する事務に従事している者として免許管理者が定める者</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="3">
@@ -9863,6 +9863,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成三十一年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日文部科学省令第三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="101" Year="12">
+<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="101" Year="12">
   <LawNum>平成十二年法律第百一号</LawNum>
   <LawBody>
     <LawTitle>金融商品の販売等に関する法律</LawTitle>
@@ -55,7 +55,7 @@
           <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">次に掲げるものを取得させる行為（代理又は媒介に該当するものを除く。）</Sentence>
+              <Sentence WritingMode="vertical">次に掲げるものを取得させる行為（代理又は媒介に該当するもの並びに第八号及び第九号に掲げるものに該当するものを除く。）</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -67,6 +67,12 @@
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence WritingMode="vertical">譲渡性預金証書をもって表示される金銭債権（金融商品取引法第二条第一項に規定する有価証券に表示される権利又は同条第二項の規定により有価証券とみなされる権利であるものを除く。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>資金決済に関する法律（平成二十一年法律第五十九号）第二条第五項に規定する暗号資産</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -288,7 +294,7 @@
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第一項第一号、第三号及び第五号の「元本欠損が生ずるおそれ」とは、当該金融商品の販売が行われることにより顧客の支払うこととなる金銭の合計額（当該金融商品の販売が行われることにより当該顧客の譲渡することとなる金銭以外の物又は権利であって政令で定めるもの（以下この項及び第六条第二項において「金銭相当物」という。）がある場合にあっては、当該合計額に当該金銭相当物の市場価額（市場価額がないときは、処分推定価額）の合計額を加えた額）が、当該金融商品の販売により当該顧客（当該金融商品の販売により当該顧客の定めるところにより金銭又は金銭以外の物若しくは権利を取得することとなる者がある場合にあっては、当該者を含む。以下この項において「顧客等」という。）の取得することとなる金銭の合計額（当該金融商品の販売により当該顧客等の取得することとなる金銭以外の物又は権利がある場合にあっては、当該合計額に当該金銭以外の物又は権利の市場価額（市場価額がないときは、処分推定価額）の合計額を加えた額）を上回ることとなるおそれをいう。</Sentence>
+            <Sentence WritingMode="vertical">第一項第一号、第三号及び第五号の「元本欠損が生ずるおそれ」とは、当該金融商品の販売が行われることにより顧客の支払うこととなる金銭の合計額（当該金融商品の販売が行われることにより当該顧客の譲渡することとなる金銭以外の財産であって政令で定めるもの（以下この項及び第六条第二項において「金銭相当物」という。）がある場合にあっては、当該合計額に当該金銭相当物の市場価額（市場価額がないときは、処分推定価額）の合計額を加えた額）が、当該金融商品の販売により当該顧客（当該金融商品の販売により当該顧客の定めるところにより金銭又は金銭以外の財産を取得することとなる者がある場合にあっては、当該者を含む。以下この項において「顧客等」という。）の取得することとなる金銭の合計額（当該金融商品の販売により当該顧客等の取得することとなる金銭以外の財産がある場合にあっては、当該合計額に当該金銭以外の財産の市場価額（市場価額がないときは、処分推定価額）の合計額を加えた額）を上回ることとなるおそれをいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="4">
@@ -299,19 +305,19 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該金融商品の販売（前条第一項第八号から第十号までに掲げる行為及び同項第十一号に掲げる行為であって政令で定めるものに限る。以下この項において同じ。）について金利、通貨の価格、金融商品市場における相場その他の指標に係る変動により損失が生ずることとなるおそれがある場合における当該損失の額が当該金融商品の販売が行われることにより顧客が支払うべき委託証拠金その他の保証金の額を上回ることとなるおそれ</Sentence>
+              <Sentence WritingMode="vertical">当該金融商品の販売（前条第一項第八号から第十号までに掲げる行為及び同項第十一号に掲げる行為であって政令で定めるものに限る。以下この項において同じ。）について金利、通貨の価格、金融商品市場における相場その他の指標に係る変動により損失が生ずることとなるおそれがある場合における当該損失の額が当該金融商品の販売が行われることにより顧客が支払うべき委託証拠金その他の保証金の金銭の額（当該金融商品の販売が行われることにより当該顧客の預託すべき金銭以外の財産であって政令で定めるもの（以下この号において「保証金相当物」という。）がある場合にあっては、当該額に当該保証金相当物の市場価額（市場価額がないときは、処分推定価額）の合計額を加えた額。次号及び第三号において同じ。）を上回ることとなるおそれ</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該金融商品の販売について当該金融商品の販売を行う者その他の者の業務又は財産の状況の変化により損失が生ずることとなるおそれがある場合における当該損失の額が当該金融商品の販売が行われることにより顧客が支払うべき委託証拠金その他の保証金の額を上回ることとなるおそれ</Sentence>
+              <Sentence WritingMode="vertical">当該金融商品の販売について当該金融商品の販売を行う者その他の者の業務又は財産の状況の変化により損失が生ずることとなるおそれがある場合における当該損失の額が当該金融商品の販売が行われることにより顧客が支払うべき委託証拠金その他の保証金の金銭の額を上回ることとなるおそれ</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該金融商品の販売について第一項第六号の事由により損失が生ずることとなるおそれがある場合における当該損失の額が当該金融商品の販売が行われることにより顧客が支払うべき委託証拠金その他の保証金の額を上回ることとなるおそれ</Sentence>
+              <Sentence WritingMode="vertical">当該金融商品の販売について第一項第六号の事由により損失が生ずることとなるおそれがある場合における当該損失の額が当該金融商品の販売が行われることにより顧客が支払うべき委託証拠金その他の保証金の金銭の額を上回ることとなるおそれ</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
@@ -341,23 +347,29 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前条第一項第六号イに掲げる行為にあっては、当該規定に規定する権利の内容及び当該行為が行われることにより顧客が負うこととなる義務の内容</Sentence>
+              <Sentence WritingMode="vertical">前条第一項第六号に掲げる行為（同号イに係るものに限る。）にあっては、当該規定に規定する権利の内容及び当該行為が行われることにより顧客が負うこととなる義務の内容</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前条第一項第六号ロに掲げる行為にあっては、当該規定に規定する債権の内容及び当該行為が行われることにより顧客が負担することとなる債務の内容</Sentence>
+              <Sentence WritingMode="vertical">前条第一項第六号に掲げる行為（同号ロに係るものに限る。）にあっては、当該規定に規定する債権の内容及び当該行為が行われることにより顧客が負担することとなる債務の内容</Sentence>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="5">
+          <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前条第一項第八号から第十号までに掲げる行為にあっては、これらの規定に規定する取引の仕組み</Sentence>
+              <Sentence>前条第一項第六号に掲げる行為（同号ハに係るものに限る。）にあっては、当該規定に規定する暗号資産に表示される権利の内容（当該権利が存在しないときは、その旨）及び当該行為が行われることにより顧客が負うこととなる義務の内容</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前条第一項第八号から第十号までに掲げる行為にあっては、これらの規定に規定する取引の仕組み</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">前条第一項第十一号の政令で定める行為にあっては、政令で定める事項</Sentence>
             </ItemSentence>
@@ -421,7 +433,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の「元本欠損額」とは、当該金融商品の販売が行われたことにより顧客の支払った金銭及び支払うべき金銭の合計額（当該金融商品の販売が行われたことにより当該顧客の譲渡した金銭相当物又は譲渡すべき金銭相当物がある場合にあっては、当該合計額にこれらの金銭相当物の市場価額（市場価額がないときは、処分推定価額）の合計額を加えた額）から、当該金融商品の販売により当該顧客（当該金融商品の販売により当該顧客の定めるところにより金銭又は金銭以外の物若しくは権利を取得することとなった者がある場合にあっては、当該者を含む。以下この項において「顧客等」という。）の取得した金銭及び取得すべき金銭の合計額（当該金融商品の販売により当該顧客等の取得した金銭以外の物若しくは権利又は取得すべき金銭以外の物若しくは権利がある場合にあっては、当該合計額にこれらの金銭以外の物又は権利の市場価額（市場価額がないときは、処分推定価額）の合計額を加えた額）と当該金融商品の販売により当該顧客等の取得した金銭以外の物又は権利であって当該顧客等が売却その他の処分をしたものの処分価額の合計額とを合算した額を控除した金額をいう。</Sentence>
+            <Sentence WritingMode="vertical">前項の「元本欠損額」とは、当該金融商品の販売が行われたことにより顧客の支払った金銭及び支払うべき金銭の合計額（当該金融商品の販売が行われたことにより当該顧客の譲渡した金銭相当物又は譲渡すべき金銭相当物がある場合にあっては、当該合計額にこれらの金銭相当物の市場価額（市場価額がないときは、処分推定価額）の合計額を加えた額）から、当該金融商品の販売により当該顧客（当該金融商品の販売により当該顧客の定めるところにより金銭又は金銭以外の財産を取得することとなった者がある場合にあっては、当該者を含む。以下この項において「顧客等」という。）の取得した金銭及び取得すべき金銭の合計額（当該金融商品の販売により当該顧客等の取得した金銭以外の財産又は取得すべき金銭以外の財産がある場合にあっては、当該合計額にこれらの金銭以外の財産の市場価額（市場価額がないときは、処分推定価額）の合計額を加えた額）と当該金融商品の販売により当該顧客等の取得した金銭以外の財産であって当該顧客等が売却その他の処分をしたものの処分価額の合計額とを合算した額を控除した金額をいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -701,6 +713,60 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">政府は、この法律の施行後五年以内に、この法律による改正後の規定の実施状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第三十一条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（金融商品の販売等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>金融商品販売業者等（第三条の規定による改正後の金融商品の販売等に関する法律（以下この条において「新金融商品販売法」という。）第二条第三項に規定する金融商品販売業者等をいう。）が、この法律の施行前に新金融商品販売法第三条第一項に規定する重要事項に相当する事項について同項の規定の例により説明を行った場合には、当該説明を同項の規定により行った説明とみなして、新金融商品販売法の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

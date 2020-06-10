@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="93" Year="13">
+<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="93" Year="13">
   <LawNum>平成十三年法律第九十三号</LawNum>
   <LawBody>
     <LawTitle>農林中央金庫法</LawTitle>
@@ -911,10 +911,10 @@
                 <Sentence WritingMode="vertical">破産手続開始の決定を受けて復権を得ない者</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="3">
+            <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">心身の故障のため職務を適正に執行することができない者として主務省令で定める者</Sentence>
+                <Sentence>心身の故障のため職務を適正に執行することができない者として主務省令で定める者</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="4">
@@ -2578,7 +2578,7 @@
             <Item Delete="false" Hide="false" Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">株式会社日本政策金融公庫その他主務大臣の定める者（外国の法令に準拠して外国において銀行業を営む者（銀行法第四条第五項に規定する銀行等を除く。以下「外国銀行」という。）を除く。）の業務の代理又は媒介（主務大臣の定めるものに限る。）</Sentence>
+                <Sentence WritingMode="vertical">株式会社日本政策金融公庫その他主務大臣が定める者（外国の法令に準拠して外国において銀行業を営む者（銀行法第四条第五項に規定する銀行等を除く。以下「外国銀行」という。）を除く。）の業務の代理又は媒介（主務大臣が定めるものに限る。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="10_2">
@@ -2681,6 +2681,12 @@
               <ItemTitle>二十一</ItemTitle>
               <ItemSentence>
                 <Sentence WritingMode="vertical">前号に掲げる業務の代理又は媒介</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="22">
+              <ItemTitle>二十二</ItemTitle>
+              <ItemSentence>
+                <Sentence>顧客から取得した当該顧客に関する情報を当該顧客の同意を得て第三者に提供する業務その他農林中央金庫の保有する情報を第三者に提供する業務であって、農林中央金庫の営む第一項各号に掲げる業務の高度化又は農林中央金庫の利用者の利便の向上に資するもの</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2858,7 +2864,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">金融商品取引法第三十三条第二項各号に掲げる有価証券又は取引について、同項各号に定める行為を行う業務（第四項の規定により営む業務を除く。）</Sentence>
+                <Sentence WritingMode="vertical">金融商品取引法第三十三条第二項各号に掲げる有価証券又は取引について、当該各号に定める行為を行う業務（第四項の規定により営む業務を除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -5073,10 +5079,10 @@
               <ItemSentence>
                 <Sentence WritingMode="vertical">役員のうちに、次のいずれかに該当する者がないこと。</Sentence>
               </ItemSentence>
-              <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">心身の故障のため紛争解決等業務に係る職務を適正に執行することができない者として主務省令で定める者</Sentence>
+                  <Sentence>心身の故障のため紛争解決等業務に係る職務を適正に執行することができない者として主務省令で定める者</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="2">
@@ -7953,6 +7959,50 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>施行日前にした行為及びこの附則の規定によりなお従前の例によることとされる場合における施行日以後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第三十一条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

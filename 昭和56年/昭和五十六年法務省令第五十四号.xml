@@ -359,7 +359,7 @@
                   <Sentence WritingMode="vertical">国立大学法人法（平成十五年法律第百十二号）第二条第一項に規定する国立大学法人の設置する学校</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">当該国立大学法人の学長</Sentence>
+                  <Sentence WritingMode="vertical">当該国立大学法人の学長又は理事長</Sentence>
                 </Column>
               </Subitem1Sentence>
             </Subitem1>
@@ -8635,20 +8635,20 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="4">
+      <Article Delete="false" Hide="false" Num="4">
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Num="1">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">当分の間、出入国管理及び難民認定法施行規則の一部を改正する省令（平成二十八年法務省令第十号）附則第二条の規定によりなお従前の例によることとされる場合における同省令による改正前の出入国管理及び難民認定法施行規則第五十八条の七及び別記第七十九号の二様式の規定の適用については、同条第一項中「署名した」とあるのは「これに署名し、又は記名押印した」と、同条第二項中「連署した」とあるのは「これに署名し、又は記名押印した」と、同様式中「<QuoteStruct>
-              <FigStruct>
-                <Fig src="./pict/R01F120005-001.jpg"/>
-              </FigStruct>
-              </QuoteStruct>」とあるのは「<QuoteStruct>
-              <FigStruct>
-                <Fig src="./pict/R01F120005-002.jpg"/>
-              </FigStruct>
-              </QuoteStruct>」とする。</Sentence>
+<FigStruct>
+<Fig src="./pict/R01F120005_2006011106_001.jpg"/>
+</FigStruct>
+</QuoteStruct>」とあるのは「<QuoteStruct>
+<FigStruct>
+<Fig src="./pict/R01F120005_2006011106_002.jpg"/>
+</FigStruct>
+</QuoteStruct>」とする。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合においては、前二条の規定を準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -8821,6 +8821,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月二九日法務省令第三九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
@@ -10256,7 +10265,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/R01F120005-003.jpg"/>
+                <Fig src="./pict/R01F120005_2006011106_003.jpg"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -11474,7 +11483,7 @@
       <RelatedArticleNum>（第四条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-004.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_004.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11499,7 +11508,7 @@
       <RelatedArticleNum>（第五条，第十三条，第十四条，第十八条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-005.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_005.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11508,7 +11517,7 @@
       <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-006.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_006.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11517,7 +11526,7 @@
       <RelatedArticleNum>（第六条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-007.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_007.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11526,7 +11535,7 @@
       <RelatedArticleNum>（第六条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-008.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_008.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11535,7 +11544,7 @@
       <RelatedArticleNum>（第六条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-009.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_009.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11544,7 +11553,7 @@
       <RelatedArticleNum>（第六条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-010.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_010.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11553,7 +11562,7 @@
       <RelatedArticleNum>（第十三条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-011.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_011.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11562,7 +11571,7 @@
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-012.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_012.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11571,7 +11580,7 @@
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-013.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_013.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11580,7 +11589,7 @@
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-014.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_014.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11589,7 +11598,7 @@
       <RelatedArticleNum>（第七条，第二十条，第二十四条，第四十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-015.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_015.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11598,7 +11607,7 @@
       <RelatedArticleNum>（第七条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-016.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_016.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11607,7 +11616,7 @@
       <RelatedArticleNum>（第七条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-017.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_017.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11616,7 +11625,7 @@
       <RelatedArticleNum>（第七条の三関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-018.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_018.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11625,7 +11634,7 @@
       <RelatedArticleNum>（第七条の四関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-019.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_019.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11634,7 +11643,7 @@
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-020.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_020.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11643,7 +11652,7 @@
       <RelatedArticleNum>（第九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-021.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_021.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11652,7 +11661,7 @@
       <RelatedArticleNum>（第九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-022.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_022.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11661,7 +11670,7 @@
       <RelatedArticleNum>（第十条，第十二条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-023.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_023.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11670,7 +11679,7 @@
       <RelatedArticleNum>（第十条，第十二条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-024.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_024.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11679,7 +11688,7 @@
       <RelatedArticleNum>（第十一条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-025.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_025.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11688,7 +11697,7 @@
       <RelatedArticleNum>（第十二条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-026.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_026.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11697,7 +11706,7 @@
       <RelatedArticleNum>（第十二条、第四十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-027.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_027.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11706,7 +11715,7 @@
       <RelatedArticleNum>（第十二条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-028.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_028.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11715,7 +11724,7 @@
       <RelatedArticleNum>（第十二条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-029.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_029.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11724,7 +11733,7 @@
       <RelatedArticleNum>（第十三条、第十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-030.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_030.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11733,7 +11742,7 @@
       <RelatedArticleNum>（第十三条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-031.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_031.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11742,7 +11751,7 @@
       <RelatedArticleNum>（第十三条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-032.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_032.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11751,7 +11760,7 @@
       <RelatedArticleNum>（第十三条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-033.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_033.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11760,7 +11769,7 @@
       <RelatedArticleNum>（第十三条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-034.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_034.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11769,7 +11778,7 @@
       <RelatedArticleNum>（第十三条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-035.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_035.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11778,7 +11787,7 @@
       <RelatedArticleNum>（第十三条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-036.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_036.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11787,7 +11796,7 @@
       <RelatedArticleNum>（第十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-037.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_037.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11796,7 +11805,7 @@
       <RelatedArticleNum>（第十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-038.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_038.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11805,7 +11814,7 @@
       <RelatedArticleNum>（第十五条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-039.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_039.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11814,7 +11823,7 @@
       <RelatedArticleNum>（第十五条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-040.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_040.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11823,7 +11832,7 @@
       <RelatedArticleNum>（第五十六条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-041.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_041.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11832,7 +11841,7 @@
       <RelatedArticleNum>（第十五条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-042.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_042.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11841,7 +11850,7 @@
       <RelatedArticleNum>（第十五条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-043.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_043.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11850,7 +11859,7 @@
       <RelatedArticleNum>（第十五条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-044.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_044.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11859,7 +11868,7 @@
       <RelatedArticleNum>（第十五条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-045.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_045.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11868,7 +11877,7 @@
       <RelatedArticleNum>（第十六条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-046.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_046.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11877,7 +11886,7 @@
       <RelatedArticleNum>（第十六条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-047.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_047.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11886,7 +11895,7 @@
       <RelatedArticleNum>（第十七条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-048.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_048.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11895,7 +11904,7 @@
       <RelatedArticleNum>（第十七条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-049.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_049.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11904,7 +11913,7 @@
       <RelatedArticleNum>（第十八条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-050.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_050.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11913,7 +11922,7 @@
       <RelatedArticleNum>（第十八条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-051.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_051.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11922,7 +11931,7 @@
       <RelatedArticleNum>（第十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-052.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_052.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11931,7 +11940,7 @@
       <RelatedArticleNum>（第十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-053.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_053.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11940,7 +11949,7 @@
       <RelatedArticleNum>（第十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-054.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_054.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11949,7 +11958,7 @@
       <RelatedArticleNum>（第十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-055.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_055.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11958,7 +11967,7 @@
       <RelatedArticleNum>（第十九条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-056.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_056.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11967,7 +11976,7 @@
       <RelatedArticleNum>（第十九条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-057.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_057.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11976,7 +11985,7 @@
       <RelatedArticleNum>（第十九条の四関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-058.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_058.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11985,7 +11994,7 @@
       <RelatedArticleNum>（第十九条の四関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-059.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_059.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -11994,7 +12003,7 @@
       <RelatedArticleNum>（第十九条の六関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-060.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_060.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12003,7 +12012,7 @@
       <RelatedArticleNum>（第十九条の八関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-061.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_061.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12012,7 +12021,7 @@
       <RelatedArticleNum>（第十九条の九関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-062.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_062.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12021,7 +12030,7 @@
       <RelatedArticleNum>（第十九条の十関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-063.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_063.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12030,7 +12039,7 @@
       <RelatedArticleNum>（第十九条の十一関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-064.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_064.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12039,7 +12048,7 @@
       <RelatedArticleNum>（第十九条の十二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-065.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_065.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12048,7 +12057,7 @@
       <RelatedArticleNum>（第十九条の十二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-066.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_066.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12057,7 +12066,7 @@
       <RelatedArticleNum>（第十九条の十三関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-067.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_067.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12066,7 +12075,7 @@
       <RelatedArticleNum>（第十九条の十九関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-068.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_068.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12075,7 +12084,7 @@
       <RelatedArticleNum>（第十九条の二十二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-069.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_069.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12084,7 +12093,7 @@
       <RelatedArticleNum>（第二十条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-070.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_070.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12093,7 +12102,7 @@
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-071.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_071.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12102,7 +12111,7 @@
       <RelatedArticleNum>（第二十一条の二、第二十一条の三関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-072.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_072.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12111,7 +12120,7 @@
       <RelatedArticleNum>（第二十条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-073.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_073.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12120,7 +12129,7 @@
       <RelatedArticleNum>（第二十条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-074.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_074.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12129,7 +12138,7 @@
       <RelatedArticleNum>（第七条，第二十条，第四十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-075.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_075.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12138,7 +12147,7 @@
       <RelatedArticleNum>（第七条、第二十条、第四十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-076.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_076.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12147,7 +12156,7 @@
       <RelatedArticleNum>（第二十条，第二十一条，第二十二条，第二十四条，第二十五条，第四十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-077.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_077.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12156,7 +12165,7 @@
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-078.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_078.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12165,7 +12174,7 @@
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-079.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_079.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12174,7 +12183,7 @@
       <RelatedArticleNum>（第二十二条，第二十五条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-080.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_080.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12187,7 +12196,7 @@
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-081.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_081.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12196,7 +12205,7 @@
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-082.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_082.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12205,7 +12214,7 @@
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-083.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_083.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12214,7 +12223,7 @@
       <RelatedArticleNum>（第二十五条の三関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-084.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_084.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12223,7 +12232,7 @@
       <RelatedArticleNum>（第二十五条の四関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-085.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_085.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12232,7 +12241,7 @@
       <RelatedArticleNum>（第二十五条の四関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-086.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_086.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12241,7 +12250,7 @@
       <RelatedArticleNum>（第二十五条の五関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-087.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_087.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12250,7 +12259,7 @@
       <RelatedArticleNum>（第二十五条の五関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-088.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_088.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12259,7 +12268,7 @@
       <RelatedArticleNum>（第二十五条の六関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-089.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_089.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12268,7 +12277,7 @@
       <RelatedArticleNum>（第二十五条の六関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-090.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_090.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12277,7 +12286,7 @@
       <RelatedArticleNum>（第二十五条の七関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-091.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_091.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12286,7 +12295,7 @@
       <RelatedArticleNum>（第二十五条の八関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-092.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_092.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12295,7 +12304,7 @@
       <RelatedArticleNum>（第二十五条の八関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-093.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_093.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12304,7 +12313,7 @@
       <RelatedArticleNum>（第二十五条の十関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-094.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_094.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12313,7 +12322,7 @@
       <RelatedArticleNum>（第二十五条の十二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-095.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_095.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12322,7 +12331,7 @@
       <RelatedArticleNum>（第二十五条の十二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-096.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_096.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12331,7 +12340,7 @@
       <RelatedArticleNum>（第二十五条の十三関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-097.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_097.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12340,7 +12349,7 @@
       <RelatedArticleNum>（第二十五条の十三，第五十七条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-098.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_098.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12353,7 +12362,7 @@
       <RelatedArticleNum>（第二十七条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-099.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_099.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12362,7 +12371,7 @@
       <RelatedArticleNum>（第二十七条、第五十三条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-100.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_100.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12371,7 +12380,7 @@
       <RelatedArticleNum>（第二十八条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-101.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_101.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12380,7 +12389,7 @@
       <RelatedArticleNum>（第二十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-102.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_102.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12389,7 +12398,7 @@
       <RelatedArticleNum>（第二十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-103.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_103.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12398,7 +12407,7 @@
       <RelatedArticleNum>（第二十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-104.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_104.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12407,7 +12416,7 @@
       <RelatedArticleNum>（第二十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-105.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_105.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12416,7 +12425,7 @@
       <RelatedArticleNum>（第二十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-106.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_106.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12425,7 +12434,7 @@
       <RelatedArticleNum>（第二十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-107.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_107.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12434,7 +12443,7 @@
       <RelatedArticleNum>（第二十九条の四関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-108.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_108.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12443,7 +12452,7 @@
       <RelatedArticleNum>（第三十条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-109.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_109.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12452,7 +12461,7 @@
       <RelatedArticleNum>（第三十一条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-110.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_110.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12461,7 +12470,7 @@
       <RelatedArticleNum>（第三十三条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-111.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_111.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12470,7 +12479,7 @@
       <RelatedArticleNum>（第三十三条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-112.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_112.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12479,7 +12488,7 @@
       <RelatedArticleNum>（甲）（第三十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-113.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_113.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12488,7 +12497,7 @@
       <RelatedArticleNum>（乙）（第三十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-114.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_114.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12497,7 +12506,7 @@
       <RelatedArticleNum>（丙）（第三十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-115.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_115.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12506,7 +12515,7 @@
       <RelatedArticleNum>（第三十五条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-116.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_116.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12515,7 +12524,7 @@
       <RelatedArticleNum>（第三十六条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-117.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_117.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12524,7 +12533,7 @@
       <RelatedArticleNum>（第三十七条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-118.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_118.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12533,7 +12542,7 @@
       <RelatedArticleNum>（第三十七条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-119.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_119.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12542,7 +12551,7 @@
       <RelatedArticleNum>（第三十七条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-120.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_120.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12551,7 +12560,7 @@
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-121.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_121.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12560,7 +12569,7 @@
       <RelatedArticleNum>（第三十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-122.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_122.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12569,7 +12578,7 @@
       <RelatedArticleNum>（第四十一条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-123.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_123.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12578,7 +12587,7 @@
       <RelatedArticleNum>（第四十一条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-124.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_124.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12587,7 +12596,7 @@
       <RelatedArticleNum>（第四十一条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-125.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_125.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12596,7 +12605,7 @@
       <RelatedArticleNum>（第四十二条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-126.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_126.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12605,7 +12614,7 @@
       <RelatedArticleNum>（第四十三条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-127.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_127.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12614,7 +12623,7 @@
       <RelatedArticleNum>（第四十三条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-128.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_128.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12623,7 +12632,7 @@
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-129.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_129.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12632,7 +12641,7 @@
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-130.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_130.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12641,7 +12650,7 @@
       <RelatedArticleNum>（第四十五条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-131.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_131.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12650,7 +12659,7 @@
       <RelatedArticleNum>（第四十七条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-132.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_132.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12659,7 +12668,7 @@
       <RelatedArticleNum>（第四十七条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-133.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_133.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12668,7 +12677,7 @@
       <RelatedArticleNum>（第四十八条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-134.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_134.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12677,7 +12686,7 @@
       <RelatedArticleNum>（第四十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-135.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_135.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12686,7 +12695,7 @@
       <RelatedArticleNum>（第四十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-136.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_136.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12695,7 +12704,7 @@
       <RelatedArticleNum>（第四十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-137.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_137.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12704,7 +12713,7 @@
       <RelatedArticleNum>（第四十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-138.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_138.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12713,7 +12722,7 @@
       <RelatedArticleNum>（第五十条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-139.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_139.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12722,7 +12731,7 @@
       <RelatedArticleNum>（第五十条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-140.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_140.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12731,7 +12740,7 @@
       <RelatedArticleNum>（第五十条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-141.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_141.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12740,7 +12749,7 @@
       <RelatedArticleNum>（第五十条の四関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-142.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_142.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12749,7 +12758,7 @@
       <RelatedArticleNum>（第五十条の五関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-143.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_143.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12758,7 +12767,7 @@
       <RelatedArticleNum>（第五十条の六関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-144.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_144.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12767,7 +12776,7 @@
       <RelatedArticleNum>（第五十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-145.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_145.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12776,7 +12785,7 @@
       <RelatedArticleNum>（第五十四条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-146.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_146.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12785,7 +12794,7 @@
       <RelatedArticleNum>（第五十四条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-147.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_147.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12794,7 +12803,7 @@
       <RelatedArticleNum>（第五十五条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-148.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_148.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12803,7 +12812,7 @@
       <RelatedArticleNum>（第五十五条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-149.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_149.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12812,7 +12821,7 @@
       <RelatedArticleNum>（第五十五条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-150.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_150.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12821,7 +12830,7 @@
       <RelatedArticleNum>（第五十五条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-151.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_151.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12830,7 +12839,7 @@
       <RelatedArticleNum>（第五十六条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-152.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_152.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12839,7 +12848,7 @@
       <RelatedArticleNum>（第五十六条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-153.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_153.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12848,7 +12857,7 @@
       <RelatedArticleNum>（第五十六条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-154.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_154.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12857,7 +12866,7 @@
       <RelatedArticleNum>（第五十六条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-155.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_155.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12866,7 +12875,7 @@
       <RelatedArticleNum>（第五十六条の二関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-156.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_156.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12875,7 +12884,7 @@
       <RelatedArticleNum>（第五十六条の三関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-157.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_157.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12884,7 +12893,7 @@
       <RelatedArticleNum>（第五十七条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-158.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_158.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12893,7 +12902,7 @@
       <RelatedArticleNum>（第五十八条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-159.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_159.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12902,7 +12911,7 @@
       <RelatedArticleNum>（第五十八条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-160.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_160.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12911,7 +12920,7 @@
       <RelatedArticleNum>（第五十八条の四関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-161.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_161.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12920,7 +12929,7 @@
       <RelatedArticleNum>（第五十八条の五関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-162.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_162.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12929,7 +12938,7 @@
       <RelatedArticleNum>（第五十八条の五関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-163.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_163.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12938,7 +12947,7 @@
       <RelatedArticleNum>（第五十八条の五関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-164.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_164.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12947,7 +12956,7 @@
       <RelatedArticleNum>（第五十八条の八関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-165.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_165.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12956,7 +12965,7 @@
       <RelatedArticleNum>（第五十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-166.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_166.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12965,7 +12974,7 @@
       <RelatedArticleNum>（第五十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-167.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_167.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12974,7 +12983,7 @@
       <RelatedArticleNum>（第五十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-168.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_168.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12983,7 +12992,7 @@
       <RelatedArticleNum>（第五十九条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-169.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_169.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -12992,7 +13001,7 @@
       <RelatedArticleNum>（第六十一条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-170.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_170.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -13001,7 +13010,7 @@
       <RelatedArticleNum>（第六十一条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/R01F120005-171.pdf"/>
+          <Fig src="./pict/R01F120005_2006011106_171.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>

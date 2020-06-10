@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="238" Year="26">
+<Law DataInfo="200608e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="238" Year="26">
   <LawNum>昭和二十六年法律第二百三十八号</LawNum>
   <LawBody>
     <LawTitle>信用金庫法</LawTitle>
@@ -2680,7 +2680,7 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence>金庫、株式会社日本政策金融公庫その他内閣総理大臣の定める者（外国の法令に準拠して外国において銀行業（銀行法第二条第二項（定義等）に規定する銀行業をいう。第五十四条の二十三第一項第六号において同じ。）を営む者（同法第四条第五項（営業の免許）に規定する銀行等を除く。以下「外国銀行」という。）を除く。）の業務（次号に掲げる業務に該当するもの及び次条第四項第七号の二に掲げる業務を除く。）の代理又は媒介（内閣総理大臣の定めるものに限る。）</Sentence>
+                <Sentence>金庫、株式会社日本政策金融公庫その他内閣総理大臣が定める者（外国の法令に準拠して外国において銀行業（銀行法第二条第二項（定義等）に規定する銀行業をいう。第五十四条の二十三第一項第六号において同じ。）を営む者（同法第四条第五項（営業の免許）に規定する銀行等を除く。以下「外国銀行」という。）を除く。）の業務（次号に掲げる業務に該当するもの及び次条第四項第七号の二に掲げる業務を除く。）の代理又は媒介（内閣総理大臣が定めるものに限る。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7_2">
@@ -2777,6 +2777,12 @@
               <ItemTitle>十八</ItemTitle>
               <ItemSentence>
                 <Sentence>前号に掲げる業務の代理又は媒介</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="19">
+              <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence>会員から取得した当該会員に関する情報を当該会員の同意を得て第三者に提供する業務その他当該信用金庫の保有する情報を第三者に提供する業務であつて、当該信用金庫の第一項各号に掲げる業務を行う事業の高度化又は当該信用金庫の利用者の利便の向上に資するもの</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2954,7 +2960,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>金融商品取引法第三十三条第二項各号（金融機関の有価証券関連業の禁止等）に掲げる有価証券又は取引について、同項各号に定める行為を行う業務（第三項の規定により行う業務を除く。）</Sentence>
+                <Sentence>金融商品取引法第三十三条第二項各号（金融機関の有価証券関連業の禁止等）に掲げる有価証券又は取引について、当該各号に定める行為を行う業務（第三項の規定により行う業務を除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -3143,7 +3149,7 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence>金庫、株式会社日本政策金融公庫その他内閣総理大臣の定める者（外国銀行を除く。）の業務（前条第三項第七号の二に掲げる業務及び次号に掲げる業務に該当するものを除く。）の代理又は媒介（内閣総理大臣の定めるものに限る。）</Sentence>
+                <Sentence>金庫、株式会社日本政策金融公庫その他内閣総理大臣が定める者（外国銀行を除く。）の業務（前条第三項第七号の二に掲げる業務及び次号に掲げる業務に該当するものを除く。）の代理又は媒介（内閣総理大臣が定めるものに限る。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7_2">
@@ -3248,6 +3254,12 @@
                 <Sentence>前号に掲げる業務の代理又は媒介</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="19">
+              <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence>顧客から取得した当該顧客に関する情報を当該顧客の同意を得て第三者に提供する業務その他当該信用金庫連合会の保有する情報を第三者に提供する業務であつて、当該信用金庫連合会の第一項各号に掲げる業務を行う事業の高度化又は当該信用金庫連合会の利用者の利便の向上に資するもの</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
@@ -3263,7 +3275,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>金融商品取引法第三十三条第二項各号（金融機関の有価証券関連業の禁止等）に掲げる有価証券又は取引について、同項各号に定める行為を行う業務（前項の規定により行う業務を除く。）</Sentence>
+                <Sentence>金融商品取引法第三十三条第二項各号（金融機関の有価証券関連業の禁止等）に掲げる有価証券又は取引について、当該各号に定める行為を行う業務（前項の規定により行う業務を除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -10751,6 +10763,50 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>電子決済等代行業等に関する改正後の各法律の規定の運用に当たっては、官民データ活用推進基本法（平成二十八年法律第百三号）の趣旨を尊重するよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月七日法律第二八号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第三十一条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
