@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="20" Year="61">
+<Law DataInfo="200515e81k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="20" Year="61">
   <LawNum>昭和六十一年労働省令第二十号</LawNum>
   <LawBody>
     <LawTitle>労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行規則</LawTitle>
@@ -4734,6 +4734,15 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日厚生労働省令第七七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第１面）</RelatedArticleNum>
@@ -4801,7 +4810,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="0">
+    <AppdxStyle Num="2">
       <AppdxStyleTitle WritingMode="vertical">様式第３号―２</AppdxStyleTitle>
       <RelatedArticleNum>（第１面）</RelatedArticleNum>
       <StyleStruct>
@@ -4810,7 +4819,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="0">
+    <AppdxStyle Num="2">
       <AppdxStyleTitle WritingMode="vertical">様式第３号―２</AppdxStyleTitle>
       <RelatedArticleNum>（第２面）</RelatedArticleNum>
       <StyleStruct>
@@ -4819,11 +4828,21 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="0">
+    <AppdxStyle Num="3">
       <AppdxStyleTitle WritingMode="vertical">様式第３号―３</AppdxStyleTitle>
+      <RelatedArticleNum>（第１面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000029505.pdf"/>
+          <Fig src="./pict/2FH00000032736.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle Num="3">
+      <AppdxStyleTitle WritingMode="vertical">様式第３号―３</AppdxStyleTitle>
+      <RelatedArticleNum>（第２面）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/2FH00000032737.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4901,7 +4920,7 @@
       <RelatedArticleNum>（第２面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000030637.pdf"/>
+          <Fig src="./pict/2FH00000032315.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4928,7 +4947,7 @@
       <RelatedArticleNum>（第５面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000030640.pdf"/>
+          <Fig src="./pict/2FH00000032298.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4964,7 +4983,7 @@
       <RelatedArticleNum>（第９面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000030644.pdf"/>
+          <Fig src="./pict/2FH00000032299.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4973,7 +4992,7 @@
       <RelatedArticleNum>（第１０面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000030645.pdf"/>
+          <Fig src="./pict/2FH00000032300.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5000,7 +5019,7 @@
       <RelatedArticleNum>（第１３面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000030649.pdf"/>
+          <Fig src="./pict/2FH00000032302.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5031,7 +5050,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="0">
+    <AppdxStyle Num="2">
       <AppdxStyleTitle WritingMode="vertical">様式第１２号―２</AppdxStyleTitle>
       <RelatedArticleNum>（表面）</RelatedArticleNum>
       <StyleStruct>
@@ -5040,7 +5059,7 @@
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle Num="0">
+    <AppdxStyle Num="2">
       <AppdxStyleTitle WritingMode="vertical">様式第１２号―２</AppdxStyleTitle>
       <RelatedArticleNum>（裏面）</RelatedArticleNum>
       <StyleStruct>

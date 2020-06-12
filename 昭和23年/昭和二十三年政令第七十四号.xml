@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200417e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="74" Year="23">
+<Law DataInfo="200608e05k04m02" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="74" Year="23">
   <LawNum>昭和二十三年政令第七十四号</LawNum>
   <LawBody>
     <LawTitle>児童福祉法施行令</LawTitle>
@@ -1322,8 +1322,12 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1">負担額算定基準者（通所給付決定保護者の児童（これに準ずる者として厚生労働省令で定める者を含む。）をいう。以下この条及び第二十五条の二において同じ。）のうちに無償化対象通所児童（通所給付決定（法第二十一条の五の五第一項に規定する通所給付決定をいう。以下同じ。）に係る三歳に達する日以後の最初の三月三十一日を経過した障害児であつて、小学校就学の始期に達するまでの間にあるものをいう。以下この条及び第二十五条の二において同じ。）がいる通所給付決定保護者（次号から第六号までに掲げる者を除く。）</Sentence>
-                <Sentence Num="2">次のイ又はロに掲げる通所給付決定保護者の区分に応じ、それぞれイ又はロに定める額</Sentence>
+                <Column Num="1">
+                  <Sentence>負担額算定基準者（通所給付決定保護者の児童（これに準ずる者として厚生労働省令で定める者を含む。）をいう。以下この条及び第二十五条の二において同じ。）のうちに無償化対象通所児童（通所給付決定（法第二十一条の五の五第一項に規定する通所給付決定をいう。以下同じ。）に係る三歳に達する日以後の最初の三月三十一日を経過した障害児であつて、小学校就学の始期に達するまでの間にあるものをいう。以下この条及び第二十五条の二において同じ。）がいる通所給付決定保護者（次号から第六号までに掲げる者を除く。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>次のイ又はロに掲げる通所給付決定保護者の区分に応じ、それぞれイ又はロに定める額</Sentence>
+                </Column>
               </ItemSentence>
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
@@ -5629,7 +5633,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="昭和三五年四月一八日政令第一〇三号">
+    <SupplProvision AmendLawNum="昭和三五年四月一八日政令第一〇三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

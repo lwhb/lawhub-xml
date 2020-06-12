@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="10" Year="05">
+<Law DataInfo="200610e03k09m02" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="10" Year="05">
   <LawNum>平成五年大蔵省令第十号</LawNum>
   <LawBody>
     <LawTitle>協同組合による金融事業に関する法律施行規則</LawTitle>
@@ -2757,23 +2757,29 @@
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">計算関係書類が当該信用協同組合等の財産及び損益の状況を全ての重要な点において適正に表示しているかどうかについての意見</Sentence>
+              <Sentence WritingMode="vertical">計算関係書類（剰余金処分案又は損失処理案を除く。第二十五条第二項第二号並びに第三十一条第一号及び第三号において同じ。）が当該信用協同組合等の財産及び損益の状況を全ての重要な点において適正に表示しているかどうかについての意見</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">監査のため必要な調査ができなかったときは、その旨及びその理由</Sentence>
+              <Sentence WritingMode="vertical">剰余金処分案又は損失処理案が法令又は定款に適合しているかどうかについての意見</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">追記情報</Sentence>
+              <Sentence WritingMode="vertical">監査のため必要な調査ができなかったときは、その旨及びその理由</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
             <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">追記情報</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">監査報告を作成した日</Sentence>
             </ItemSentence>
@@ -2782,7 +2788,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項第四号に規定する「追記情報」とは、次に掲げる事項その他の事項のうち、監事の判断に関して説明を付す必要がある事項又は計算関係書類の内容のうち強調する必要がある事項とする。</Sentence>
+            <Sentence WritingMode="vertical">前項第五号に規定する「追記情報」とは、次に掲げる事項その他の事項のうち、監事の判断に関して説明を付す必要がある事項又は計算関係書類の内容のうち強調する必要がある事項とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -2943,7 +2949,7 @@
                   <Sentence WritingMode="vertical">除外事項を付した限定付適正意見</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">監査の対象となった計算関係書類が除外事項を除き一般に公正妥当と認められる会計の慣行に準拠して、当該計算関係書類に係る期間の財産及び損益の状況を全ての重要な点において適正に表示していると認められる旨並びに除外事項</Sentence>
+                  <Sentence WritingMode="vertical">監査の対象となった計算関係書類が除外事項を除き一般に公正妥当と認められる会計の慣行に準拠して、当該計算関係書類に係る期間の財産及び損益の状況を全ての重要な点において適正に表示していると認められる旨、除外事項並びに除外事項を付した限定付適正意見とした理由</Sentence>
                 </Column>
               </Subitem1Sentence>
             </Subitem1>
@@ -2962,17 +2968,29 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前号の意見がないときは、その旨及びその理由</Sentence>
+              <Sentence WritingMode="vertical">剰余金処分案又は損失処理案が法令又は定款に適合しているかどうかについての意見</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">追記情報</Sentence>
+              <Sentence WritingMode="vertical">前二号の意見がないときは、その旨及びその理由</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
             <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">継続企業の前提（当該信用協同組合等が将来にわたって事業活動を継続するとの前提をいう。第六十九条第一項第七号において同じ。）に関する注記に係る事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">追記情報</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">会計監査報告を作成した日</Sentence>
             </ItemSentence>
@@ -2981,28 +2999,22 @@
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項第四号に規定する「追記情報」とは、次に掲げる事項その他の事項のうち、会計監査人の判断に関して説明を付す必要がある事項又は計算関係書類の内容のうち強調する必要がある事項とする。</Sentence>
+            <Sentence WritingMode="vertical">前項第六号に規定する「追記情報」とは、次に掲げる事項その他の事項のうち、会計監査人の判断に関して説明を付す必要がある事項又は計算関係書類の内容のうち強調する必要がある事項とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">継続企業の前提（当該信用協同組合等が将来にわたって事業活動を継続するとの前提をいう。第六十九条第一項第七号において同じ。）に関する注記に係る事項</Sentence>
+              <Sentence WritingMode="vertical">会計方針の変更</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">会計方針の変更</Sentence>
+              <Sentence WritingMode="vertical">重要な偶発事象</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">重要な偶発事象</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="4">
-            <ItemTitle>四</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">重要な後発事象</Sentence>
             </ItemSentence>
@@ -13476,6 +13488,151 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日内閣府令第二二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、令和二年三月三十一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（銀行法施行規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一条の規定による改正後の銀行法施行規則（以下この条において「新銀行法施行規則」という。）別紙様式第一号及び別紙様式第一号の二の規定は、この府令の施行の日（以下「施行日」という。）以後に終了する中間事業年度（銀行法第十九条第一項に規定する中間事業年度をいう。以下この条において同じ。）に係る中間業務報告書（同項の規定による中間業務報告書をいう。以下この項において同じ。）について適用し、施行日前に終了する中間事業年度に係る中間業務報告書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新銀行法施行規則別紙様式第三号及び別紙様式第三号の二の規定は、施行日以後に終了する事業年度に係る業務報告書（銀行法第十九条第一項の規定による業務報告書をいう。以下この項において同じ。）について適用し、施行日前に終了する事業年度に係る業務報告書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新銀行法施行規則別紙様式第五号の規定は、施行日以後に終了する中間事業年度に係る中間業務報告書（銀行法第十九条第二項の規定による中間業務報告書をいう。以下この項において同じ。）について適用し、施行日前に終了する中間事業年度に係る中間業務報告書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新銀行法施行規則別紙様式第五号の二の規定は、施行日以後に終了する事業年度に係る業務報告書（銀行法第十九条第二項の規定による業務報告書をいう。以下この項において同じ。）について適用し、施行日前に終了する事業年度に係る業務報告書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新銀行法施行規則別紙様式第十一号の規定は、施行日以後に終了する中間事業年度に係る中間業務報告書（銀行法第五十二条の二十七第一項の規定による中間業務報告書をいう。以下この項において同じ。）について適用し、施行日前に終了する中間事業年度に係る中間業務報告書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新銀行法施行規則別紙様式第十二号の規定は、施行日以後に終了する事業年度に係る業務報告書（銀行法第五十二条の二十七第一項の規定による業務報告書をいう。以下この項において同じ。）について適用し、施行日前に終了する事業年度に係る業務報告書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新銀行法施行規則別紙様式第二十一号から別紙様式第二十三号までの規定は、施行日以後に終了する事業年度に係る電子決済等代行業に関する報告書（銀行法第五十二条の六十一の十三の規定による電子決済等代行業に関する報告書をいう。以下この項において同じ。）について適用し、施行日前に終了する事業年度に係る電子決済等代行業に関する報告書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（信用金庫法施行規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第二条の規定による改正後の信用金庫法施行規則（以下この条において「新信用金庫法施行規則」という。）第二十九条の規定は、施行日以後に終了する事業年度に係る計算関係書類（信用金庫法施行規則第二十六条第一号に規定する計算関係書類をいう。以下この項及び次項において同じ。）についての監査報告について適用し、施行日前に終了する事業年度に係る計算関係書類についての監査報告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新信用金庫法施行規則第三十一条の規定は、施行日以後に終了する事業年度に係る計算関係書類についての会計監査報告について適用し、施行日前に終了する事業年度に係る計算関係書類についての会計監査報告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新信用金庫法施行規則別紙様式第十三号、別紙様式第十四号及び別紙様式第十五号の規定は、施行日以後に終了する事業年度に係る業務報告書（信用金庫法（昭和二十六年法律第二百三十八号）第八十九条第一項において準用する銀行法第十九条第一項の規定による業務報告書をいう。以下この項において同じ。）について適用し、施行日前に終了する事業年度に係る業務報告書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新信用金庫法施行規則別紙様式第十三号の二及び別紙様式第十四号の二の規定は、施行日以後に終了する事業年度に係る業務報告書（信用金庫法第八十九条第一項において準用する銀行法第十九条第二項の規定による業務報告書をいう。以下この項において同じ。）について適用し、施行日前に終了する事業年度に係る業務報告書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（協同組合による金融事業に関する法律施行規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第三条の規定による改正後の協同組合による金融事業に関する法律施行規則（以下この条において「新協同組合による金融事業に関する法律施行規則」という。）第二十三条の規定は、施行日以後に終了する事業年度に係る計算関係書類（協同組合による金融事業に関する法律施行規則第二十条第一号に規定する計算関係書類をいう。以下この項及び次項において同じ。）についての監査報告について適用し、施行日前に終了する事業年度に係る計算関係書類についての監査報告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新協同組合による金融事業に関する法律施行規則第二十五条の規定は、施行日以後に終了する事業年度に係る計算関係書類についての会計監査報告について適用し、施行日前に終了する事業年度に係る計算関係書類についての会計監査報告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新協同組合による金融事業に関する法律施行規則別紙様式第九号及び別紙様式第十号の規定は、施行日以後に終了する事業年度に係る業務報告書（協同組合による金融事業に関する法律（昭和二十四年法律第百八十三号）第六条第一項において準用する銀行法第十九条第一項の規定による業務報告書をいう。以下この項において同じ。）について適用し、施行日前に終了する事業年度に係る業務報告書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新協同組合による金融事業に関する法律施行規則別紙様式第九号の二及び別紙様式第十号の二の規定は、施行日以後に終了する事業年度に係る業務報告書（協同組合による金融事業に関する法律第六条第一項において準用する銀行法第十九条第二項の規定による業務報告書をいう。以下この項において同じ。）について適用し、施行日前に終了する事業年度に係る業務報告書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（保険業法施行規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第四条の規定による改正後の保険業法施行規則の規定は、施行日以後に終了する事業年度に係る会計監査報告について適用し、施行日前に終了する事業年度に係る会計監査報告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（特定目的会社の監査に関する規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第五条の規定による改正後の特定目的会社の監査に関する規則の規定は、施行日以後に終了する事業年度に係る会計監査報告について適用し、施行日前に終了する事業年度に係る会計監査報告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（投資法人の会計監査に関する規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第六条の規定による改正後の投資法人の会計監査に関する規則の規定は、施行日以後に終了する営業期間に係る会計監査報告について適用し、施行日前に終了する営業期間に係る会計監査報告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一（第六十九条第一項第三号ハ関係）</AppdxTableTitle>
       <TableStruct>
@@ -13493,8 +13650,7 @@
               <Sentence WritingMode="vertical">主要な業務の状況を示す指標</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一　業務粗利益、業務粗利益率、業務純益、実質業務純益、コア業務純益及びコア業務純益（投資信託解約損益を除く。）
-</Sentence>
+              <Sentence WritingMode="vertical">一　業務粗利益、業務粗利益率、業務純益、実質業務純益、コア業務純益及びコア業務純益（投資信託解約損益を除く。）</Sentence>
               <Sentence WritingMode="vertical">二　資金運用収支、役務取引等収支及びその他業務収支</Sentence>
               <Sentence WritingMode="vertical">三　資金運用勘定並びに資金調達勘定の平均残高、利息、利回り及び資金利ざや</Sentence>
               <Sentence WritingMode="vertical">四　受取利息及び支払利息の増減</Sentence>
@@ -14173,7 +14329,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第９号（第６８条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2001311301_009.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006101100_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14181,7 +14337,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第９号の２（第６８条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2001311301_010.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006101100_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14189,7 +14345,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１０号（第６８条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2001311301_011.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006101100_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14197,7 +14353,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１０号の２（第６８条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2001311301_012.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006101100_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

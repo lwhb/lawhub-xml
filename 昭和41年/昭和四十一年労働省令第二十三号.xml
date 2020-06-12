@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="23" Year="41">
+<Law DataInfo="200515e81k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="23" Year="41">
   <LawNum>昭和四十一年労働省令第二十三号</LawNum>
   <LawBody>
     <LawTitle>労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律施行規則</LawTitle>
@@ -1807,7 +1807,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">職業安定機関は、平成二十三年八月一日から平成三十五年三月三十日までの間、個人又は法人が、当該個人又は法人により作成された労働者の雇入れを促進するための計画（以下この条において「雇用促進計画」という。）を提出してその確実な実施を図るための援助を求めたときは、法第十五条に規定する雇用に関する援助として、当該個人又は法人に対して必要な助言その他の措置を行わなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">職業安定機関は、平成二十三年八月一日から令和七年三月三十日までの間、個人又は法人が、当該個人又は法人により作成された労働者の雇入れを促進するための計画（以下この条において「雇用促進計画」という。）を提出してその確実な実施を図るための援助を求めたときは、法第十五条に規定する雇用に関する援助として、当該個人又は法人に対して必要な助言その他の措置を行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -5067,6 +5067,41 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日厚生労働省令第六五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令による改正後の様式（次項において「新様式」という。）は、この省令の施行の日（以下この項において「施行日」という。）以後に労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律施行規則附則第八条第一項に規定する雇用促進計画の期間の初日が属する場合における同項に規定する雇用促進計画の提出について適用し、施行日前に当該期間の初日が属する場合における同項に規定する雇用促進計画の提出については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際この省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、新様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable Num="0">
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
@@ -5164,7 +5199,7 @@
       <RelatedArticleNum>（第１面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000026226.pdf"/>
+          <Fig src="./pict/2FH00000032681.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5173,7 +5208,7 @@
       <RelatedArticleNum>（第２面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019803.pdf"/>
+          <Fig src="./pict/2FH00000032682.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

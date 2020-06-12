@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="181113e04k01m02" Era="Showa" Lang="ja" LawType="Rule" Num="14" Year="25">
+<Law DataInfo="200608e04k04m01" Era="Showa" Lang="ja" LawType="Rule" Num="14" Year="25">
   <LawNum>昭和二十五年電波監理委員会規則第十四号</LawNum>
   <LawBody>
     <LawTitle>電波法施行規則　抄</LawTitle>
     <EnactStatement>電波法（昭和二十五年法律第百三十一号）第四条（無線局の開設）、第九条（工事設計の変更）、第十三条（免許の有効期間）、第十七条（変更等の許可）、第二十五条（無線局の公示）、第三十条（安全施設）、第三十一条（周波数測定装置の備えつけ）、第三十二条（計器及び予備品の備えつけ）、第三十四条（船舶の義務無線電信の条件）、第三十五条（船舶の義務無線電信の条件）、第三十七条（無線設備の機器の検定）、第三十九条（無線設備の操作）、第四十条（無線従事者の従事範囲）、第五十条（通信長の配置等）、第五十二条（目的外使用の禁止等）、第六十条（報告）、第百条（高周波利用設備）及び附則第十項（この法律の施行前になした処分等）の規定の委任に基き、且つ電波法を実施するため、電波監理委員会設置法（昭和二十五年法律第百三十三号）第十七条の規定により電波法施行規則の全部を改正する規則を次のように定める。</EnactStatement>
+    <EnactStatement>電波法施行規則の全部を改正する規則</EnactStatement>
+    <EnactStatement>電波法施行規則（電波監理委員会規則第三号）の全部を次のように改正する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -134,7 +136,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>電波法に基づく命令の規定の解釈に関しては、別に規定せられるもののほか、次の定義に従うものとする。</Sentence>
+              <Sentence>電波法に基づく命令の規定の解釈に関しては、別に規定するもののほか、次の定義に従うものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -518,7 +520,7 @@
               <Subitem1 Num="1">
                 <Subitem1Title>（１）</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>船舶局又は海岸局の無線設備であつて、船舶の船名その他の船舶を識別する情報、位置、針路、速度その他の自動的に更新される情報であつて航行の安全に関する情報及び目的地、目的地への到着予定時刻その他の手動で更新される情報であつて運航に関する情報を船舶局相互間又は船舶局と海岸局との間において自動的に送受信する機能を有するもの</Sentence>
+                  <Sentence>船舶局、海岸局又は船舶地球局の無線設備であつて、船舶の船名その他の船舶を識別する情報、位置、針路、速度その他の自動的に更新される情報であつて航行の安全に関する情報及び目的地、目的地への到着予定時刻その他の手動で更新される情報であつて運航に関する情報を船舶局相互間、船舶局と海岸局との間、船舶局と人工衛星局との間又は船舶地球局と人工衛星局との間において自動的に送受信する機能を有するもの</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="2">
@@ -531,17 +533,23 @@
             <Item Num="37_5">
               <ItemTitle>三十七の五</ItemTitle>
               <ItemSentence>
-                <Sentence>「簡易型船舶自動識別装置」とは、船舶局の無線設備であつて、船舶の船名その他船舶を識別する情報及び位置、針路、速度その他の自動的に更新される情報であつて航行の安全に関する情報のみを船舶局相互間又は船舶局と海岸局との間において自動的に送受信する機能を有するものをいう。</Sentence>
+                <Sentence>「簡易型船舶自動識別装置」とは、船舶局又は船舶地球局の無線設備であつて、船舶の船名その他船舶を識別する情報及び位置、針路、速度その他の自動的に更新される情報であつて航行の安全に関する情報のみを船舶局相互間、船舶局と海岸局との間、船舶局と人工衛星局との間又は船舶地球局と人工衛星局との間において自動的に送受信する機能を有するものをいう。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="37_6">
               <ItemTitle>三十七の六</ItemTitle>
               <ItemSentence>
-                <Sentence>「衛星位置指示無線標識」とは、人工衛星局の中継により、及び航空機局に対して、電波の送信の地点を探知させるための信号を送信する無線設備をいう。</Sentence>
+                <Sentence>「ＶＨＦデータ交換装置」とは、船舶局又は海岸局の無線設備であつて、無線通信規則付録第十八の表に掲げる周波数の電波を使用し、船舶局相互間又は船舶局と海岸局との間においてデジタル変調方式によるデータ交換を行うもの（デジタル選択呼出装置、船舶自動識別装置、簡易型船舶自動識別装置及び捜索救助用位置指示送信装置を除く。）をいう。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="37_7">
               <ItemTitle>三十七の七</ItemTitle>
+              <ItemSentence>
+                <Sentence>「衛星位置指示無線標識」とは、人工衛星局の中継により、及び航空機局に対して、電波の送信の地点を探知させるための信号を送信する無線設備をいう。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="37_8">
+              <ItemTitle>三十七の八</ItemTitle>
               <ItemSentence>
                 <Sentence>「携帯用位置指示無線標識」とは、人工衛星局の中継により、及び航空機局に対して、電波の送信の地点を探知させるための信号を送信する遭難自動通報設備であつて、携帯して使用するものをいう。</Sentence>
               </ItemSentence>
@@ -707,25 +715,25 @@
             <Item Num="52">
               <ItemTitle>五十二</ItemTitle>
               <ItemSentence>
-                <Sentence>「ｋＨｚ」とは、キロ（１０３）ヘルツをいう。</Sentence>
+                <Sentence>「ｋＨｚ」とは、キロ（１０<Sup>３</Sup>）ヘルツをいう。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="53">
               <ItemTitle>五十三</ItemTitle>
               <ItemSentence>
-                <Sentence>「ＭＨｚ」とは、メガ（１０６）ヘルツをいう。</Sentence>
+                <Sentence>「ＭＨｚ」とは、メガ（１０<Sup>６</Sup>）ヘルツをいう。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="54">
               <ItemTitle>五十四</ItemTitle>
               <ItemSentence>
-                <Sentence>「ＧＨｚ」とは、ギガ（１０９）ヘルツをいう。</Sentence>
+                <Sentence>「ＧＨｚ」とは、ギガ（１０<Sup>９</Sup>）ヘルツをいう。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="55">
               <ItemTitle>五十五</ItemTitle>
               <ItemSentence>
-                <Sentence>「ＴＨｚ」とは、テラ（１０１２）ヘルツをいう。</Sentence>
+                <Sentence>「ＴＨｚ」とは、テラ（１０<Sup>１２</Sup>）ヘルツをいう。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="56">
@@ -1550,7 +1558,7 @@
                   <Sentence>船舶局</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>船舶の無線局のうち、無線設備が遭難自動通報設備又はレーダーのみのもの以外のものをいう。</Sentence>
+                  <Sentence>船舶の無線局（人工衛星局の中継によつてのみ無線通信を行うものを除く。）のうち、無線設備が遭難自動通報設備又はレーダーのみのもの以外のものをいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -1748,7 +1756,7 @@
                   <Sentence>船舶地球局</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>法第六条第一項第四号に規定する船舶地球局をいう。</Sentence>
+                  <Sentence>法第六条第一項第四号ロに規定する船舶地球局をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -1759,7 +1767,7 @@
                   <Sentence>航空機地球局</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>法第六条第一項第四号に規定する航空機地球局をいう。</Sentence>
+                  <Sentence>法第六条第一項第四号ロに規定する航空機地球局をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -1792,7 +1800,7 @@
                   <Sentence>人工衛星局</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>法第六条第一項第四号に規定する人工衛星局をいう。</Sentence>
+                  <Sentence>法第六条第一項第四号イに規定する人工衛星局をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -3358,7 +3366,7 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>主としてデータ伝送のために無線通信を行うもの（電気通信回線設備に接続するものを含む。）であつて、次に掲げる周波数の電波を使用し、かつ、空中線電力が〇・五八ワット以下であるもの（以下「小電力データ通信システムの無線局」という。）</Sentence>
+                  <Sentence>主としてデータ伝送のために無線通信を行うもの（電気通信回線設備に接続するものを含む。）であつて、次に掲げる周波数の電波を使用し、かつ、空中線電力が〇・五八ワット以下であるもの（第十一号に規定する五・二ＧＨｚ帯高出力データ通信システムの無線局を除く。）（以下「小電力データ通信システムの無線局」という。）</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>（１）</Subitem1Title>
@@ -3375,7 +3383,7 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>（３）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>五、一五〇ＭＨｚを超え五、三五〇ＭＨｚ以下の周波数（屋内その他電波の遮蔽効果が屋内と同等の場所であつて、総務大臣が別に告示する場所において使用するものに限る。）</Sentence>
+                    <Sentence>五、一五〇ＭＨｚを超え五、三五〇ＭＨｚ以下の周波数（総務大臣が別に告示する場所において使用するものを除く。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
@@ -3387,7 +3395,7 @@
                 <Subitem1 Num="5">
                   <Subitem1Title>（５）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>五、二一〇ＭＨｚ又は五、二九〇ＭＨｚの周波数及び五、五三〇ＭＨｚ又は五、六一〇ＭＨｚの周波数（屋内その他電波の遮蔽効果が屋内と同等の場所であつて、総務大臣が別に告示する場所において使用するものに限る。）</Sentence>
+                    <Sentence>五、二一〇ＭＨｚ又は五、二九〇ＭＨｚの周波数及び五、五三〇ＭＨｚ又は五、六一〇ＭＨｚの周波数（総務大臣が別に告示する場所において使用するものを除く。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="6">
@@ -3406,7 +3414,7 @@
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>一、八九三・六五ＭＨｚ以上一、九〇五・九五ＭＨｚ以下の周波数の電波であつて、一、八九三・六五ＭＨｚ及び一、八九三・六五ＭＨｚに三〇〇MHzの整数倍を加えたもの、一、八九五・六一六ＭＨｚ　以上一、九〇四・二五六ＭＨｚ 以下の周波数の電波であつて、一、八九五・六一六ＭＨｚ及び一、八九五・六一六ＭＨｚに一、七二八kHzの整数倍を加えたもの又は一、八九七・四ＭＨｚ、一、八九九・一ＭＨｚ、一、八九九・二ＭＨｚ若しくは一、九〇一ＭＨｚの周波数の電波を使用し、空中線電力が二四〇ミリワット以下であつて、総務大臣が別に告示する電波の型式及び用途に適合するもの（以下「デジタルコードレス電話の無線局」という。）</Sentence>
+                  <Sentence>一、八九三・六五ＭＨｚ以上一、九〇五・九五ＭＨｚ以下の周波数の電波であつて、一、八九三・六五ＭＨｚ及び一、八九三・六五ＭＨｚに三〇〇ｋＨｚの整数倍を加えたもの、一、八九五・六一六ＭＨｚ以上一、九〇四・二五六ＭＨｚ以下の周波数の電波であつて、一、八九五・六一六ＭＨｚ及び一、八九五・六一六ＭＨｚに一、七二八ｋＨｚの整数倍を加えたもの又は一、八九七・四ＭＨｚ、一、八九九・一ＭＨｚ、一、八九九・二ＭＨｚ若しくは一、九〇一ＭＨｚの周波数の電波を使用し、空中線電力が二四〇ミリワット以下であつて、総務大臣が別に告示する電波の型式及び用途に適合するもの（以下「デジタルコードレス電話の無線局」という。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
@@ -3424,7 +3432,7 @@
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence>五ＧＨｚ帯無線アクセスシステム（四、九〇〇ＭＨｚを超え五、〇〇〇ＭＨｚ以下又は五、〇三〇ＭＨｚを超え五、〇九一ＭＨｚ以下のうち総務大臣が別に告示する周波数の電波を使用し、主としてデータ伝送のために基地局と陸上移動局との間若しくは陸上移動局相互間で行う無線通信（陸上移動中継局の中継によるものを含む。）又は携帯基地局と携帯局（上空での運用を除く。）との間若しくは携帯局（上空での運用を除く。）相互間で行う無線通信をいう。）の陸上移動局又は携帯局であつて、かつ、空中線電力が〇・〇一ワット以下であるもの</Sentence>
+                  <Sentence>五ＧＨｚ帯無線アクセスシステム（四、九〇〇ＭＨｚを超え五、〇〇〇ＭＨｚ以下のうち総務大臣が別に告示する周波数の電波を使用し、主としてデータ伝送のために基地局と陸上移動局との間若しくは陸上移動局相互間で行う無線通信（陸上移動中継局の中継によるものを含む。）又は携帯基地局と携帯局（上空での運用を除く。）との間若しくは携帯局（上空での運用を除く。）相互間で行う無線通信をいう。）の陸上移動局又は携帯局であつて、かつ、空中線電力が〇・〇一ワット以下であるもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="9">
@@ -3437,6 +3445,12 @@
                 <ItemTitle>十</ItemTitle>
                 <ItemSentence>
                   <Sentence>七〇〇ＭＨｚ帯高度道路交通システムの陸上移動局</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="11">
+                <ItemTitle>十一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>五・二ＧＨｚ帯高出力データ通信システム（五、一五〇ＭＨｚを超え五、二五〇ＭＨｚ以下の周波数の電波を使用し、主としてデータ伝送のために基地局（屋外で利用するもの又は最大等価等方輻射電力が二〇〇ミリワットを超えるものに限る。）と陸上移動局との間（基地局と当該周波数の電波を使用する小電力データ通信システムの無線局との間を含む。）で行う無線通信（陸上移動中継局の中継によるもの及び電気通信回線設備に接続するものを含む。）をいう。）の陸上移動局であつて、かつ、空中線電力が〇・二ワット以下であるもの</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -3500,7 +3514,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>法第四条第二項の総務省令で定める無線局は、小電力データ通信システムの無線局（第六条第四項第四号（１）、（３）、（４）及び（５）に掲げる周波数の電波を使用するものに限る。）であつて、総務大臣が別に告示する用途のものとする。</Sentence>
+                <Sentence>法第四条第二項の総務省令で定める無線局は、小電力データ通信システムの無線局（第六条第四項第四号（１）、（３）、（４）及び（５）に掲げる周波数の電波を使用するものに限る。）及び五・二ＧＨｚ帯高出力データ通信システムの陸上移動局であつて、総務大臣が別に告示する用途のものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3591,7 +3605,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>法第六条第七項の総務省令で定める無線局は、次の各号に掲げるものとする。</Sentence>
+                <Sentence>法第六条第八項の総務省令で定める無線局は、次の各号に掲げるものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -3644,7 +3658,7 @@
               <Item Num="9">
                 <ItemTitle>九</ItemTitle>
                 <ItemSentence>
-                  <Sentence>法第六条第七項の規定により総務大臣が公示した期間内に免許の申請が行われた無線局が開設されている人工衛星（当該無線局が開設されていたものを含む。）に開設する基幹放送局（第四号及び第六号に掲げるものを除く。）</Sentence>
+                  <Sentence>法第六条第八項の規定により総務大臣が公示した期間内に免許の申請が行われた無線局が開設されている人工衛星（当該無線局が開設されていたものを含む。）に開設する基幹放送局（第四号及び第六号に掲げるものを除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="10">
@@ -5328,7 +5342,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn>
-                      <Sentence>Ｆ三Ｅ電波四五〇ＭＨｚを超え四七〇ＭＨｚ以下の周波数で別に告示するもの</Sentence>
+                      <Sentence>Ｆ一Ｄ電波及びＦ一Ｅ電波又はＦ三Ｅ電波四五〇ＭＨｚを超え四七〇ＭＨｚ以下の周波数で別に告示するもの</Sentence>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>二ワツト以下</Sentence>
@@ -5420,7 +5434,7 @@
               <Item Num="7_2">
                 <ItemTitle>七の二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第三条第九号のニに規定する防災対策携帯移動衛星通信を行う携帯移動地球局</Sentence>
+                  <Sentence>設備規則第三条第九号の二に規定する防災対策携帯移動衛星通信を行う携帯移動地球局</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="8">
@@ -5979,41 +5993,53 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準に係る無線設備を使用する基地局</Sentence>
+                  <Sentence>設備規則第四十九条の二十の二第一項に規定する技術基準に係る無線設備を使用する基地局</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準に係る無線設備を使用する陸上移動中継局</Sentence>
+                  <Sentence>設備規則第四十九条の二十の二第一項に規定する技術基準に係る無線設備を使用する陸上移動中継局</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準に係る無線設備を使用する陸上移動局</Sentence>
+                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準に係る無線設備を使用する基地局</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準に係る無線設備を使用する携帯基地局</Sentence>
+                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準に係る無線設備を使用する陸上移動中継局</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準に係る無線設備を使用する携帯局</Sentence>
+                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準に係る無線設備を使用する陸上移動局</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="9">
                 <ItemTitle>九</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第四十九条の三十四に規定する技術基準に係る無線設備を使用する陸上移動局</Sentence>
+                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準に係る無線設備を使用する携帯基地局</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="10">
                 <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準に係る無線設備を使用する携帯局</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="11">
+                <ItemTitle>十一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>設備規則第四十九条の三十四に規定する技術基準に係る無線設備を使用する陸上移動局</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="12">
+                <ItemTitle>十二</ItemTitle>
                 <ItemSentence>
                   <Sentence>設備規則第五十四条第二号に規定する技術基準に係る無線設備（同号チの技術基準が適用されるものに限る。）を使用する簡易無線局</Sentence>
                 </ItemSentence>
@@ -6055,41 +6081,53 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準のうち基地局に係るもの</Sentence>
+                  <Sentence>設備規則第四十九条の二十の二第一項に規定する技術基準のうち基地局に係るもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準のうち陸上移動中継局に係るもの</Sentence>
+                  <Sentence>設備規則第四十九条の二十の二第一項に規定する技術基準のうち陸上移動中継局に係るもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準のうち基地局に係るもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準のうち携帯基地局に係るもの</Sentence>
+                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準のうち陸上移動中継局に係るもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準のうち携帯局に係るもの</Sentence>
+                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="9">
                 <ItemTitle>九</ItemTitle>
                 <ItemSentence>
-                  <Sentence>設備規則第四十九条の三十四に規定する技術基準</Sentence>
+                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準のうち携帯基地局に係るもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="10">
                 <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準のうち携帯局に係るもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="11">
+                <ItemTitle>十一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>設備規則第四十九条の三十四に規定する技術基準</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="12">
+                <ItemTitle>十二</ItemTitle>
                 <ItemSentence>
                   <Sentence>設備規則第五十四条第二号に規定する技術基準</Sentence>
                 </ItemSentence>
@@ -6113,7 +6151,13 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>四、九〇〇ＭＨｚを超え五、〇〇〇ＭＨｚ以下又は五、〇三〇ＭＨｚを超え五、〇九一ＭＨｚ以下の周波数の電波を使用する無線局の開設区域は、総務大臣が別に告示する区域とする。</Sentence>
+                  <Sentence>四、九〇〇ＭＨｚを超え五、〇〇〇ＭＨｚ以下の周波数の電波を使用する無線局の開設区域は、総務大臣が別に告示する区域とする。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>五、一五〇ＭＨｚを超え五、二五〇ＭＨｚ以下の周波数の電波を使用する無線局の開設区域は、総務大臣が別に告示する区域とする。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -7730,7 +7774,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>八・〇二五ＧＨｚを超え八・四ＧＨｚ以下の周波数の電波を使用して地球の特性及び自然現象に関する情報を取得するための宇宙無線通信を行う人工衛星局であつて、対地静止衛星に開設する人工衛星局以外のものの対地静止衛星の軌道における電力束密度（搬送波のスペクトルのうち最大の電力密度の四ＫＨｚの帯域幅における電力束密度とする。）は、一平方メートル当たり（－）一七四デシベルを超えてはならない。</Sentence>
+                <Sentence>八・〇二五ＧＨｚを超え八・四ＧＨｚ以下の周波数の電波を使用して地球の特性及び自然現象に関する情報を取得するための宇宙無線通信を行う人工衛星局であつて、対地静止衛星に開設する人工衛星局以外のものの対地静止衛星の軌道における電力束密度（搬送波のスペクトルのうち最大の電力密度の四ｋＨｚの帯域幅における電力束密度とする。）は、一平方メートル当たり（－）一七四デシベルを超えてはならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -7974,7 +8018,7 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>（１）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>船舶局（船上通信設備、双方向無線電話、船舶航空機間双方向無線電話及び船舶自動識別装置に限る。）</Sentence>
+                    <Sentence>船舶局（船上通信設備、双方向無線電話、船舶航空機間双方向無線電話、船舶自動識別装置（通信操作を除く。）及びＶＨＦデータ交換装置（通信操作を除く。）に限る。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
@@ -7992,23 +8036,41 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>（１）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>陸上に開設した無線局（海岸局、航空局、船上通信局、無線航行局及び海岸地球局並びに次号（４）の航空地球局を除く。）</Sentence>
+                    <Sentence>陸上に開設した無線局（海岸局（（２）に掲げるものを除く。）、航空局、船上通信局、無線航行局及び海岸地球局並びに次号（４）の航空地球局を除く。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
                   <Subitem1Title>（２）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>携帯局</Sentence>
+                    <Sentence>海岸局（船舶自動識別装置及びＶＨＦデータ交換装置に限る。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
                   <Subitem1Title>（３）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>航空機地球局（航空機の安全運航又は正常運航に関する通信を行わないものに限る。）</Sentence>
+                    <Sentence>船舶局（船舶自動識別装置及びＶＨＦデータ交換装置に限る。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>（４）</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>携帯局</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>（５）</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>船舶地球局（船舶自動識別装置に限る。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="6">
+                  <Subitem1Title>（６）</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>航空機地球局（航空機の安全運航又は正常運航に関する通信を行わないものに限る。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>（７）</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence>携帯移動地球局</Sentence>
                   </Subitem1Sentence>
@@ -8022,7 +8084,7 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>（１）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>船舶局（第三号（１）に該当する無線設備を除く。）</Sentence>
+                    <Sentence>船舶局（第三号（１）及び前号（３）に該当する無線設備を除く。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
@@ -8046,13 +8108,13 @@
                 <Subitem1 Num="5">
                   <Subitem1Title>（５）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>船舶地球局</Sentence>
+                    <Sentence>船舶地球局（電気通信業務を行うことを目的とするものに限る。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="6">
                   <Subitem1Title>（６）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>航空機地球局（前号（３）に該当するものを除く。）</Sentence>
+                    <Sentence>航空機地球局（前号（６）に該当するものを除く。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -9168,15 +9230,13 @@
                   <Item Num="1">
                     <ItemTitle>一</ItemTitle>
                     <ItemSentence>
-                      <Sentence Function="main" Num="1">（１）を付した書類は、免許規則第八条第二項（同規則第十二条第三項、第十五条の四第二項、第十五条の五第二項、第十五条の六第二項及び第十九条第二項において準用する場合を含む。）の規定により総務大臣又は総合通信局長が提出書類の写しであることを証明したもの（同規則第八条第二項ただし書の規定により申請者に返したものとみなされた提出書類の写しに係る電磁的記録を含む。）とする。</Sentence>
-                      <Sentence Function="main" Num="2">この場合において、当該書類が電磁的方法（電子的方法、磁気的方法その他の人の知覚によつては認識することができない方法をいう。以下同じ。）により記録されたものであるときは、当該記録を必要に応じ直ちに表示することができる電子計算機その他の機器を備え付けておかなければならない。</Sentence>
-                      <Sentence Function="proviso" Num="3">ただし、第六項に規定する方法による場合は、この限りでない。</Sentence>
+                      <Sentence>（１）を付した書類は、免許規則第八条第二項（同規則第十二条第三項、第十五条の四第二項、第十五条の五第二項、第十五条の六第二項及び第十九条第二項において準用する場合を含む。）の規定により総務大臣又は総合通信局長が提出書類の写しであることを証明したもの（同規則第八条第二項ただし書の規定により申請者に返したものとみなされた提出書類の写しに係る電磁的記録を含む。）とする。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="2">
                     <ItemTitle>二</ItemTitle>
                     <ItemSentence>
-                      <Sentence Function="main" Num="1">（２）を付した書類及び（３）を付した書類（第五項に規定する総務大臣の認定するものを含む。）については、電磁的方法により記録されたものとすることができる。</Sentence>
+                      <Sentence Function="main" Num="1">（２）を付した書類及び（３）を付した書類（第五項に規定する総務大臣の認定するものを含む。）については、電磁的方法（電子的方法、磁気的方法その他の人の知覚によつては認識することができない方法をいう。以下同じ。）により記録されたものとすることができる。</Sentence>
                       <Sentence Function="main" Num="2">この場合においては、当該記録を必要に応じ直ちに表示することができる電子計算機その他の機器を備え付けておかなければならない。</Sentence>
                       <Sentence Function="proviso" Num="3">ただし、第六項に規定する方法による場合は、この限りでない。</Sentence>
                     </ItemSentence>
@@ -9193,15 +9253,14 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">前項の免許状は、主たる送信装置のある場所の見やすい箇所に掲げておかなければならない。</Sentence>
+                <Sentence Function="main" Num="1">船舶局、無線航行移動局又は船舶地球局にあつては、前項の免許状は、主たる送信装置のある場所の見やすい箇所に掲げておかなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、掲示を困難とするものについては、その掲示を要しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">遭難自動通報局（携帯用位置指示無線標識のみを設置するものに限る。）、船上通信局、陸上移動局、携帯局、無線標定移動局、携帯移動地球局、陸上を移動する地球局であつて停止中にのみ運用を行うもの又は移動する実験試験局（宇宙物体に開設するものを除く。）、アマチュア局（人工衛星に開設するものを除く。）、簡易無線局（パーソナル無線を除く。）若しくは気象援助局にあつては、前項の規定にかかわらず、その無線設備の常置場所（ＶＳＡＴ地球局にあつては、当該ＶＳＡＴ地球局の送信の制御を行う他の一の地球局（以下「ＶＳＡＴ制御地球局」という。）の無線設備の設置場所とする。）に第一項の免許状を備え付け、かつ、総務大臣が別に告示するところにより、その送信装置のある場所に総務大臣又は総合通信局長が発給する証票を備え付けなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、ラジオゾンデ及びラジオ・ブイの無線局、電気通信業務を行うことを目的として開設する陸上移動局、携帯局、携帯移動地球局及びＶＳＡＴ地球局並びにこれらの無線局以外のものであつて包括免許に係る特定無線局その他総務大臣が告示する無線局については、当該証票の備付けを要しない。</Sentence>
+                <Sentence>遭難自動通報局（携帯用位置指示無線標識のみを設置するものに限る。）、船上通信局、陸上移動局、携帯局、無線標定移動局、携帯移動地球局、陸上を移動する地球局であつて停止中にのみ運用を行うもの又は移動する実験試験局（宇宙物体に開設するものを除く。）、アマチュア局（人工衛星に開設するものを除く。）、簡易無線局（パーソナル無線を除く。）若しくは気象援助局にあつては、第一項の規定にかかわらず、その無線設備の常置場所（ＶＳＡＴ地球局にあつては、当該ＶＳＡＴ地球局の送信の制御を行う他の一の地球局（以下「ＶＳＡＴ制御地球局」という。）の無線設備の設置場所とする。）に同項の免許状を備え付けなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -9776,6 +9835,148 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="40_2">
+            <ArticleCaption>（航空機局等に係る無線局の基準適合性の確認間隔）</ArticleCaption>
+            <ArticleTitle>第四十条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>法第七十条の五の二第二項第一号の総務省令で定める時期は、次の各号に掲げる無線局の種別に従い、それぞれ当該各号に定めるとおりとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>航空機局</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>ア</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence>無線従事者の資格及び員数</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence>一年</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence>法第六十条に規定する時計及び備付書類</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence>一年</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ウ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>無線設備</Sentence>
+                  </Subitem1Sentence>
+                  <Subitem2 Num="1">
+                    <Subitem2Title>（ア）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Column Num="1">
+                        <Sentence>無線局事項書及び工事設計書に記載された内容と実装との照合</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>一年</Sentence>
+                      </Column>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="2">
+                    <Subitem2Title>（イ）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Column Num="1">
+                        <Sentence>電気的特性の点検</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>五年</Sentence>
+                      </Column>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="3">
+                    <Subitem2Title>（ウ）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>総合試験</Sentence>
+                    </Subitem2Sentence>
+                    <List>
+                      <ListSentence>
+                        <Column Num="1">
+                          <Sentence>Ａ</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>ＡＴＣトランスポンダ</Sentence>
+                        </Column>
+                        <Column Num="3">
+                          <Sentence>二年</Sentence>
+                        </Column>
+                      </ListSentence>
+                    </List>
+                    <List>
+                      <ListSentence>
+                        <Column Num="1">
+                          <Sentence>Ｂ</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>航空機用救命無線機及び航空機用携帯無線機（個体識別コードの確認に限る。）</Sentence>
+                        </Column>
+                        <Column Num="3">
+                          <Sentence>一年</Sentence>
+                        </Column>
+                      </ListSentence>
+                    </List>
+                    <List>
+                      <ListSentence>
+                        <Column Num="1">
+                          <Sentence>Ｃ</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>その他</Sentence>
+                        </Column>
+                        <Column Num="3">
+                          <Sentence>五年</Sentence>
+                        </Column>
+                      </ListSentence>
+                    </List>
+                  </Subitem2>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>航空機地球局</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>二年</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="40_3">
+            <ArticleCaption>（軽微な変更）</ArticleCaption>
+            <ArticleTitle>第四十条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>法第七十条の五の二第三項ただし書の総務省令で定める軽微な変更は、別表第四号の三のとおりとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40_4">
+            <ArticleCaption>（無線設備等の点検その他の保守の実施状況の報告）</ArticleCaption>
+            <ArticleTitle>第四十条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>法第七十条の五の二第六項の規定による報告は、前年四月一日（法第七十条の五の二第一項の認定を受けた年度にあつては、当該認定を受けた日）から当年三月三十一日までの点検その他の保守の実施状況について、毎年六月末日までに、別表第四号の四の様式による報告書一通及びその写し二通を総務大臣に提出して行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="41">
             <ArticleTitle>第四十一条</ArticleTitle>
             <Paragraph Num="1">
@@ -10048,53 +10249,59 @@
               <Item Num="17">
                 <ItemTitle>十七</ItemTitle>
                 <ItemSentence>
-                  <Sentence>航空機地球局（航空機の安全運航又は正常運航に関する通信を行わないものに限る。）</Sentence>
+                  <Sentence>船舶地球局（簡易型船舶自動識別装置のみを設置するものに限る。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="18">
                 <ItemTitle>十八</ItemTitle>
                 <ItemSentence>
-                  <Sentence>携帯移動地球局</Sentence>
+                  <Sentence>航空機地球局（航空機の安全運航又は正常運航に関する通信を行わないものに限る。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="19">
                 <ItemTitle>十九</ItemTitle>
                 <ItemSentence>
-                  <Sentence>実験試験局</Sentence>
+                  <Sentence>携帯移動地球局</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="20">
                 <ItemTitle>二十</ItemTitle>
                 <ItemSentence>
-                  <Sentence>実用化試験局（基幹放送を行うものであつて人工衛星に開設するものを除く。）</Sentence>
+                  <Sentence>実験試験局</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="21">
                 <ItemTitle>二十一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>アマチュア局</Sentence>
+                  <Sentence>実用化試験局（基幹放送を行うものであつて人工衛星に開設するものを除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="22">
                 <ItemTitle>二十二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>簡易無線局</Sentence>
+                  <Sentence>アマチュア局</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="23">
                 <ItemTitle>二十三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>構内無線局</Sentence>
+                  <Sentence>簡易無線局</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="24">
                 <ItemTitle>二十四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>気象援助局</Sentence>
+                  <Sentence>構内無線局</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="25">
                 <ItemTitle>二十五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>気象援助局</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="26">
+                <ItemTitle>二十六</ItemTitle>
                 <ItemSentence>
                   <Sentence>特別業務の局（設備規則第四十九条の二十二に規定する道路交通情報通信を行う無線局及びアマチュア局に対する広報を送信する無線局に限る。）</Sentence>
                 </ItemSentence>
@@ -10152,8 +10359,17 @@
             </Paragraph>
           </Article>
           <Article Num="42_2">
-            <ArticleCaption>（電波の発射の防止）</ArticleCaption>
             <ArticleTitle>第四十二条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>法第七十六条の二の二の総務省令で定める場合は、五・二ＧＨｚ帯高出力データ通信システムの基地局及び陸上移動中継局が増加することにより人工衛星局の運用に影響を与えるおそれがあると認められ、かつ、総務大臣が別に告示する条件に適合する場合とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="42_3">
+            <ArticleCaption>（電波の発射の防止）</ArticleCaption>
+            <ArticleTitle>第四十二条の三</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -10214,9 +10430,9 @@
               </TableStruct>
             </Paragraph>
           </Article>
-          <Article Num="42_3">
+          <Article Num="42_4">
             <ArticleCaption>（報告）</ArticleCaption>
-            <ArticleTitle>第四十二条の三</ArticleTitle>
+            <ArticleTitle>第四十二条の四</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -10230,13 +10446,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>船舶局、航空機局又は航空機地球局（電気通信業務を行うことを目的とするものを除く。）の免許人は、法第六条第三項、第四項又は第五項に規定する事項に変更があつたときは、すみやかにその旨を文書によつて、総合通信局長に届け出なければならない。</Sentence>
+                <Sentence>船舶局、航空機局、船舶地球局（電気通信業務を行うことを目的とするものを除く。）又は航空機地球局（電気通信業務を行うことを目的とするものを除く。）の免許人は、法第六条第三項、第四項、第五項又は第六項に規定する事項に変更があつたときは、速やかにその旨を文書によつて、総合通信局長に届け出なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>遭難自動通報局（携帯用位置指示無線標識のみを設置するものを除く。）、無線航行移動局、船舶地球局又は航空機地球局（電気通信業務を行うことを目的とするものに限る。）の免許人は、その無線局の無線設備の設置場所である船舶又は航空機の所有者又は主たる停泊港若しくは定置場に変更があつたときは、すみやかにその旨を文書によつて、総合通信局長に届け出なければならない。</Sentence>
+                <Sentence>遭難自動通報局（携帯用位置指示無線標識のみを設置するものを除く。）、無線航行移動局、船舶地球局（電気通信業務を行うことを目的とするものに限る。）又は航空機地球局（電気通信業務を行うことを目的とするものに限る。）の免許人は、その無線局の無線設備の設置場所である船舶又は航空機の所有者又は主たる停泊港若しくは定置場に変更があつたときは、速やかにその旨を文書によつて、総合通信局長に届け出なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -10363,6 +10579,13 @@
                   <Sentence>第四十条第一項から第三項までの規定に基づき記載する無線業務日誌</Sentence>
                 </ItemSentence>
               </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">前項第二号の無線業務日誌に記録する事項のうち、第四十条第一項第一号（２）（（四）を除く。）及び（５）、同条第二項第一号（２）並びに同項第二号（２）に掲げる事項については、音声により記録することができる。</Sentence>
+                <Sentence Num="2">この場合においては、前項後段の規定にかかわらず、当該記録を必要に応じ電子計算機その他の機器を用いて再生できなければならない。</Sentence>
+              </ParagraphSentence>
             </Paragraph>
           </Article>
         </Section>
@@ -10549,13 +10772,6 @@
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1">第一項第二号に規定する添付書類の写し及び前項の書類については、電磁的方法により記録することができる。</Sentence>
-                <Sentence Num="2">この場合においては、当該記録を必要に応じ直ちに表示することができる電子計算機その他の機器を備え付けておかなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1">第三十八条第六項（各号を除く。）の規定は、電子申請等により第一項第二号に規定する添付書類又は第二項の書類の電磁的記録を提出した高周波利用設備に準用する。</Sentence>
                 <Sentence Num="2">この場合において、第三十八条第六項中「第一項及び第四項の規定により無線局に備え付けておかなければならない書類のうち次の各号に掲げるもの」とあるのは「第四十五条の三第一項第二号に規定する添付書類又は第二項の書類」と、「した無線局」とあるのは「した高周波利用設備」と、「である無線局」とあるのは「である高周波利用設備」と、「第一号から第四号まで」とあるのは「第四十五条の三第一項第二号」と読み替えるものとする。</Sentence>
@@ -11300,7 +11516,7 @@
                         </TableRow>
                         <TableRow>
                           <TableColumn>
-                            <Sentence>一五〇ｋＨｚ以上五〇〇ＫＨｚ未満</Sentence>
+                            <Sentence>一五〇ｋＨｚ以上五〇〇ｋＨｚ未満</Sentence>
                           </TableColumn>
                           <TableColumn>
                             <Sentence>六六デシベルから五六デシベルまで　※</Sentence>
@@ -12615,7 +12831,7 @@
                             <Sentence>一五〇ｋＨｚ以上四ＭＨｚ以下</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence>一四・五デシベルから（―）七デシベルまで　（１）</Sentence>
+                            <Sentence>一四・五デシベルから（－）七デシベルまで　（１）</Sentence>
                           </TableColumn>
                         </TableRow>
                         <TableRow>
@@ -12623,7 +12839,7 @@
                             <Sentence>四ＭＨｚを超え一一ＭＨｚ以下</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence>（―）七デシベルから〇デシベルまで　（２）</Sentence>
+                            <Sentence>（－）七デシベルから〇デシベルまで　（２）</Sentence>
                           </TableColumn>
                         </TableRow>
                         <TableRow>
@@ -12631,7 +12847,7 @@
                             <Sentence>一一ＭＨｚを超え三〇ＭＨｚ未満</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence>〇デシベルから（―）七デシベルまで　（１）</Sentence>
+                            <Sentence>〇デシベルから（－）七デシベルまで　（１）</Sentence>
                           </TableColumn>
                         </TableRow>
                       </Table>
@@ -12652,7 +12868,7 @@
                         <Item Num="3">
                           <ItemTitle>三</ItemTitle>
                           <ItemSentence>
-                            <Sentence>この表の規定にかかわらず、五二六・五ｋＨｚ以上一、六〇六・五ｋＨｚ以下の周波数においては、（―）二デシベルとする。</Sentence>
+                            <Sentence>この表の規定にかかわらず、五二六・五ｋＨｚ以上一、六〇六・五ｋＨｚ以下の周波数においては、（－）二デシベルとする。</Sentence>
                           </ItemSentence>
                         </Item>
                       </Remarks>
@@ -12855,7 +13071,7 @@
                             <Sentence>一五〇ｋＨｚ以上四ＭＨｚ以下</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence>一四・五デシベルから（―）七デシベルまで　（１）</Sentence>
+                            <Sentence>一四・五デシベルから（－）七デシベルまで　（１）</Sentence>
                           </TableColumn>
                         </TableRow>
                         <TableRow>
@@ -12863,7 +13079,7 @@
                             <Sentence>四ＭＨｚを超え一一ＭＨｚ以下</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence>（―）七デシベルから〇デシベルまで　（２）</Sentence>
+                            <Sentence>（－）七デシベルから〇デシベルまで　（２）</Sentence>
                           </TableColumn>
                         </TableRow>
                         <TableRow>
@@ -12871,7 +13087,7 @@
                             <Sentence>一一ＭＨｚを超え三〇ＭＨｚ未満</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence>〇デシベルから（―）七デシベルまで　（１）</Sentence>
+                            <Sentence>〇デシベルから（－）七デシベルまで　（１）</Sentence>
                           </TableColumn>
                         </TableRow>
                       </Table>
@@ -12892,7 +13108,7 @@
                         <Item Num="3">
                           <ItemTitle>三</ItemTitle>
                           <ItemSentence>
-                            <Sentence>この表の規定にかかわらず、五二六・五ｋＨｚ以上一、六〇六・五ｋＨｚ以下の周波数においては、（―）二デシベルとする。</Sentence>
+                            <Sentence>この表の規定にかかわらず、五二六・五ｋＨｚ以上一、六〇六・五ｋＨｚ以下の周波数においては、（－）二デシベルとする。</Sentence>
                           </ItemSentence>
                         </Item>
                         <Item Num="4">
@@ -13126,7 +13342,7 @@
                           <Sentence>一五〇ｋＨｚ以上四ＭＨｚ以下</Sentence>
                         </TableColumn>
                         <TableColumn>
-                          <Sentence>一四・五デシベルから（―）七デシベルまで　（１）</Sentence>
+                          <Sentence>一四・五デシベルから（－）七デシベルまで　（１）</Sentence>
                         </TableColumn>
                       </TableRow>
                       <TableRow>
@@ -13134,7 +13350,7 @@
                           <Sentence>四ＭＨｚを超え一一ＭＨｚ以下</Sentence>
                         </TableColumn>
                         <TableColumn>
-                          <Sentence>（―）七デシベルから〇デシベルまで　（２）</Sentence>
+                          <Sentence>（－）七デシベルから〇デシベルまで　（２）</Sentence>
                         </TableColumn>
                       </TableRow>
                       <TableRow>
@@ -13142,7 +13358,7 @@
                           <Sentence>一一ＭＨｚを超え三〇ＭＨｚ未満</Sentence>
                         </TableColumn>
                         <TableColumn>
-                          <Sentence>〇デシベルから（―）七デシベルまで　（１）</Sentence>
+                          <Sentence>〇デシベルから（－）七デシベルまで　（１）</Sentence>
                         </TableColumn>
                       </TableRow>
                     </Table>
@@ -13169,7 +13385,7 @@
                       <Item Num="4">
                         <ItemTitle>四</ItemTitle>
                         <ItemSentence>
-                          <Sentence>この表の規定にかかわらず、五二六・五ｋＨｚ以上一、六〇六・五ｋＨｚ以下の周波数においては、（―）二デシベルとする。</Sentence>
+                          <Sentence>この表の規定にかかわらず、五二六・五ｋＨｚ以上一、六〇六・五ｋＨｚ以下の周波数においては、（－）二デシベルとする。</Sentence>
                         </ItemSentence>
                       </Item>
                       <Item Num="5">
@@ -13911,7 +14127,7 @@
                       </TableRow>
                       <TableRow>
                         <TableColumn>
-                          <Sentence>一一・七ＧＨｚを以上一二・七ＧＨｚ以下</Sentence>
+                          <Sentence>一一・七ＧＨｚ以上一二・七ＧＨｚ以下</Sentence>
                         </TableColumn>
                         <TableColumn>
                           <Sentence>七三デシベル</Sentence>
@@ -15606,104 +15822,32 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>青森県青森市及び十和田市の区域</Sentence>
+                  <Sentence>山梨県富士吉田市の区域</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>山形県山形市の区域</Sentence>
+                  <Sentence>広島県竹原市の区域</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>福島県福島市の区域</Sentence>
+                  <Sentence>山口県下関市、柳井市及び熊毛郡田布施町の区域</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>山梨県富士吉田市及び南都留郡西桂町の区域</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="6">
-                <ItemTitle>六</ItemTitle>
-                <ItemSentence>
-                  <Sentence>静岡県富士宮市、御殿場市及び駿東郡小山町の区域</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="7">
-                <ItemTitle>七</ItemTitle>
-                <ItemSentence>
-                  <Sentence>滋賀県大津市の区域</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="8">
-                <ItemTitle>八</ItemTitle>
-                <ItemSentence>
-                  <Sentence>京都府京都市右京区及び亀岡市の区域</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="9">
-                <ItemTitle>九</ItemTitle>
-                <ItemSentence>
-                  <Sentence>和歌山県和歌山市及び東牟婁郡那智勝浦町の区域</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="10">
-                <ItemTitle>十</ItemTitle>
-                <ItemSentence>
-                  <Sentence>広島県竹原市の区域</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="11">
-                <ItemTitle>十一</ItemTitle>
-                <ItemSentence>
-                  <Sentence>山口県下関市、柳井市及び熊毛郡田布施町の区域</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="12">
-                <ItemTitle>十二</ItemTitle>
-                <ItemSentence>
-                  <Sentence>徳島県阿南市の区域</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="13">
-                <ItemTitle>十三</ItemTitle>
-                <ItemSentence>
-                  <Sentence>香川県丸亀市、坂出市、三豊市、香川郡直島町の区域</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="14">
-                <ItemTitle>十四</ItemTitle>
-                <ItemSentence>
-                  <Sentence>愛媛県松山市、今治市、新居浜市及び西条市の区域</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="15">
-                <ItemTitle>十五</ItemTitle>
-                <ItemSentence>
-                  <Sentence>高知県宿毛市の区域</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="16">
-                <ItemTitle>十六</ItemTitle>
-                <ItemSentence>
-                  <Sentence>熊本県阿蘇市の区域</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="17">
-                <ItemTitle>十七</ItemTitle>
-                <ItemSentence>
-                  <Sentence>宮崎県日南市の区域</Sentence>
+                  <Sentence>愛媛県今治市及び新居浜市の区域</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項各号に掲げる区域は、平成二十三年十月一日における行政区画によつて表示されたものとする。</Sentence>
+                <Sentence>前項各号に掲げる区域は、平成二十九年十月一日における行政区画によつて表示されたものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -15799,7 +15943,7 @@
                     <Sentence>包括免許に係る特定無線局（法第二十七条の二第一号に掲げる無線局に係るものに限る。）であつて、包括免許人が開設する第二号又は次号に掲げる無線局を通信の相手方とするもの</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>当該特定無線局の送信の制御を行う主たる無線局の無線設備の設置場所を管轄する総合通信局長の管轄区域（当該包括免許において指定周波数を使用する区域に関する条件が付与されている場合にあつては、当該区域）</Sentence>
+                    <Sentence>当該特定無線局の送信の制御を行う無線局の無線設備の設置場所を管轄する総合通信局長の管轄区域（当該包括免許において指定周波数を使用する区域に関する条件が付与されている場合にあつては、当該区域）</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -15919,8 +16063,18 @@
             </Paragraph>
           </Article>
           <Article Num="51_10_2">
-            <ArticleCaption>（特定無線局の数の控除）</ArticleCaption>
+            <ArticleCaption>（広域専用電波を使用する無線局を通信の相手方とする無線局）</ArticleCaption>
             <ArticleTitle>第五十一条の十の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>設備規則又は周波数割当計画において移動しない無線局の使用する電波の周波数に応じて移動する無線局の使用する電波の周波数が定まるとされている場合において、当該移動しない無線局に係る指定周波数のうち当該移動する無線局が使用する電波の周波数を定めるもの及び当該移動する無線局に係る指定周波数が広域専用電波に該当しないときは、当該移動する無線局は広域専用電波を使用する無線局を通信の相手方とするものに該当しないものとして、法第百三条の二第五項及び第六項の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="51_10_2_2">
+            <ArticleCaption>（特定無線局の数の控除）</ArticleCaption>
+            <ArticleTitle>第五十一条の十の二の二</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -15985,9 +16139,9 @@
               </Item>
             </Paragraph>
           </Article>
-          <Article Num="51_10_2_2">
+          <Article Num="51_10_2_3">
             <ArticleCaption>（同等特定無線局区分）</ArticleCaption>
-            <ArticleTitle>第五十一条の十の二の二</ArticleTitle>
+            <ArticleTitle>第五十一条の十の二の三</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -16019,9 +16173,9 @@
               </Item>
             </Paragraph>
           </Article>
-          <Article Num="51_10_2_3">
+          <Article Num="51_10_2_4">
             <ArticleCaption>（開設特定無線局数の届出）</ArticleCaption>
-            <ArticleTitle>第五十一条の十の二の三</ArticleTitle>
+            <ArticleTitle>第五十一条の十の二の四</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -16029,9 +16183,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="51_10_2_4">
+          <Article Num="51_10_2_5">
             <ArticleCaption>（同等特定無線局区分の周波数の幅）</ArticleCaption>
-            <ArticleTitle>第五十一条の十の二の四</ArticleTitle>
+            <ArticleTitle>第五十一条の十の二の五</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -16047,7 +16201,7 @@
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence>第五十一条の十の二の二第一号又は第三号に係る開設している無線局が時分割複信方式による無線通信を行う周波数帯</Sentence>
+                    <Sentence>第五十一条の十の二の三第一号又は第三号に係る開設している無線局が時分割複信方式による無線通信を行う周波数帯</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence>同等特定無線局区分に係る広域専用電波に該当する当該指定周波数に係る指定周波数の電波を使用する無線局（当該無線局の免許人が通信の相手方とする移動しない無線局の免許人と同一の者である場合に限る。）であつて、一の同等特定無線局区分に係る無線局の免許人が同一の者であるものに係る当該指定周波数ごとの占有周波数帯を合わせた周波数帯の帯域幅の二分の一に相当する帯域幅</Sentence>
@@ -16067,9 +16221,9 @@
               </Item>
             </Paragraph>
           </Article>
-          <Article Num="51_10_2_5">
+          <Article Num="51_10_2_6">
             <ArticleCaption>（同等特定無線局区分の広域専用電波の算定に用いる区域）</ArticleCaption>
-            <ArticleTitle>第五十一条の十の二の五</ArticleTitle>
+            <ArticleTitle>第五十一条の十の二の六</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -16099,9 +16253,9 @@
               </Item>
             </Paragraph>
           </Article>
-          <Article Num="51_10_2_6">
+          <Article Num="51_10_2_7">
             <ArticleCaption>（基準無線局数）</ArticleCaption>
-            <ArticleTitle>第五十一条の十の二の六</ArticleTitle>
+            <ArticleTitle>第五十一条の十の二の七</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -16109,9 +16263,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="51_10_2_7">
+          <Article Num="51_10_2_8">
             <ArticleCaption>（新規免許開設局又は既存免許開設局の数の届出）</ArticleCaption>
-            <ArticleTitle>第五十一条の十の二の七</ArticleTitle>
+            <ArticleTitle>第五十一条の十の二の八</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -16119,9 +16273,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="51_10_2_8">
+          <Article Num="51_10_2_9">
             <ArticleCaption>（新規免許開設局又は既存免許開設局に係る包括免許に基づく特定無線局の数）</ArticleCaption>
-            <ArticleTitle>第五十一条の十の二の八</ArticleTitle>
+            <ArticleTitle>第五十一条の十の二の九</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -16723,7 +16877,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>電波法施行令第十四条第二号の総務省令で定める基準は、公租公課又は公共料金（日本国内において供給される電気、ガス及び水道水その他これらに準ずるものに係る料金をいう。）の納付又は収納に関する事務処理の実績を有する者その他これに準ずる者であることとする。</Sentence>
+                <Sentence>電波法施行令第十三条第二号の総務省令で定める基準は、公租公課又は公共料金（日本国内において供給される電気、ガス及び水道水その他これらに準ずるものに係る料金をいう。）の納付又は収納に関する事務処理の実績を有する者その他これに準ずる者であることとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -17394,6 +17548,14 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn>
+                      <Sentence>三の二　法第七十条の五の二に規定する無線設備等保守規程の認定、変更の認定、変更の届出及び無線設備等の点検その他の保守の実施状況の報告</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>その航空機局又は航空機地球局が設置される航空機の定置場の所在地</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn>
                       <Sentence>四　第四十四条第一項第二号、同条第二項及び第四十五条第三号に規定する高周波利用設備の型式の指定並びに確認</Sentence>
                     </TableColumn>
                     <TableColumn>
@@ -17418,7 +17580,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>検査実施報告書であつて船舶局（第四十一条の二の六第八号に規定するものを除く。）、遭難自動通報局、無線航行移動局（第四十一条の二の六第十二号に規定するものを除く。）又は船舶地球局に係るものについては、第一項の規定にかかわらず、任意の総合通信局長を経由して所轄総合通信局長に提出することを妨げない。</Sentence>
+                <Sentence>検査実施報告書であつて船舶局（第四十一条の二の六第八号に規定するものを除く。）、遭難自動通報局、無線航行移動局（第四十一条の二の六第十三号に規定するものを除く。）又は船舶地球局（第四十一条の二の六第十七号に規定するものを除く。）に係るものについては、第一項の規定にかかわらず、任意の総合通信局長を経由して所轄総合通信局長に提出することを妨げない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -17429,115 +17591,12 @@
             </Paragraph>
           </Article>
           <Article Num="52_2">
-            <ArticleCaption>（電磁的方法により記録することができる提出書類等）</ArticleCaption>
             <ArticleTitle>第五十二条の二</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>次の各号に掲げる書類等のうち総務大臣が別に告示するものは、総務大臣が別に告示する電磁的方法により記録し、提出することができる。</Sentence>
+                <Sentence>削除</Sentence>
               </ParagraphSentence>
-              <Item Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第三十九条第三項の規定に基づき報告する書類</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十二条の規定に基づき添付する文書</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="3">
-                <ItemTitle>三</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十二条の三の規定に基づき報告する書類</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="4">
-                <ItemTitle>四</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十三条第一項から第三項までの規定に基づき届け出る文書</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="5">
-                <ItemTitle>五</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十三条の二第一項から第三項までの規定に基づき届け出る書類</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="6">
-                <ItemTitle>六</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十三条の三第一項の規定に基づき届け出る書類</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="7">
-                <ItemTitle>七</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十三条の三第二項の規定に基づき報告する書類</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="8">
-                <ItemTitle>八</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十三条の四の規定に基づき届け出る書類</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="9">
-                <ItemTitle>九</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十五条の三第二項の規定に基づく証明の申請書に添付する書類</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="10">
-                <ItemTitle>十</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十六条第一項（第四十六条の三第三項において準用する場合を含む。）の規定に基づき添付する書類</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="11">
-                <ItemTitle>十一</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十六条の三第四項の規定に基づき届け出る書類</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="12">
-                <ItemTitle>十二</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十六条の六の規定に基づき提出する資料</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="13">
-                <ItemTitle>十三</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十六条の八第一項の規定に基づき届け出る書類</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="14">
-                <ItemTitle>十四</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第四十六条の十の規定に基づき提出する資料</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="15">
-                <ItemTitle>十五</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第五十条の四第一項の規定に基づき添付する書類</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="16">
-                <ItemTitle>十六</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第五十条の七第一項の規定に基づく承認の申請書に添付する書類</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="17">
-                <ItemTitle>十七</ItemTitle>
-                <ItemSentence>
-                  <Sentence>第五十条の七第二項の規定に基づき届け出る書類</Sentence>
-                </ItemSentence>
-              </Item>
             </Paragraph>
           </Article>
           <Article Num="52_3">
@@ -18070,32 +18129,32 @@
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
           <Sentence>昭和五十六年十二月三十一日までの間における改正後の第十二条第四項の適用については、同項の表中「<QuoteStruct>
-            <Table>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>Ａ三Ｈ電波二、一八二ｋＨｚ</Sentence>
-                  <Sentence>Ａ三Ａ電波及びＡ三Ｊ電波地方電波監理局長が指示する周波数</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>Ａ三Ｈ電波二、一八二ｋＨｚ</Sentence>
-                  <Sentence>Ａ三Ａ電波及びＡ三Ｊ電波地方電波監理局長が指示する周波数</Sentence>
-                </TableColumn>
-              </TableRow>
-            </Table>
-          </QuoteStruct>」とあるのは、「<QuoteStruct>
-            <Table>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>Ａ三Ｈ電波二、一八二ｋＨｚ</Sentence>
-                  <Sentence>Ａ三Ｈ電波及びＡ三Ｊ電波地方電波監理局長が指示する周波数</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>Ａ三電波一、六〇五ｋＨｚから三、九〇〇ｋＨｚまで</Sentence>
-                  <Sentence>Ａ三Ｊ電波地方電波監理局長が指示する周波数</Sentence>
-                </TableColumn>
-              </TableRow>
-            </Table>
-          </QuoteStruct>」とする。</Sentence>
+<Table>
+<TableRow>
+<TableColumn>
+<Sentence>Ａ三Ｈ電波二、一八二ｋＨｚ</Sentence>
+<Sentence>Ａ三Ａ電波及びＡ三Ｊ電波地方電波監理局長が指示する周波数</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>Ａ三Ｈ電波二、一八二ｋＨｚ</Sentence>
+<Sentence>Ａ三Ａ電波及びＡ三Ｊ電波地方電波監理局長が指示する周波数</Sentence>
+</TableColumn>
+</TableRow>
+</Table>
+</QuoteStruct>」とあるのは、「<QuoteStruct>
+<Table>
+<TableRow>
+<TableColumn>
+<Sentence>Ａ三Ｈ電波二、一八二ｋＨｚ</Sentence>
+<Sentence>Ａ三Ｈ電波及びＡ三Ｊ電波地方電波監理局長が指示する周波数</Sentence>
+</TableColumn>
+<TableColumn>
+<Sentence>Ａ三電波一、六〇五ｋＨｚから三、九〇〇ｋＨｚまで</Sentence>
+<Sentence>Ａ三Ｊ電波地方電波監理局長が指示する周波数</Sentence>
+</TableColumn>
+</TableRow>
+</Table>
+</QuoteStruct>」とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="4">
@@ -22365,6 +22424,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年三月二八日総務省令第二八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、平成二十九年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <SupplProvision AmendLawNum="平成二八年三月三一日総務省令第三三号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
@@ -22472,7 +22540,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年七月二一日第五〇号" Extract="false" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年七月二一日総務省令第五〇号" Extract="false" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -22577,13 +22645,13 @@
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令の施行の際現に免許を受けている設備規則第三条第一号に規定する携帯無線通信を行う無線局並びに同条第十号に規定する広帯域移動無線アクセスシステムの無線局のうち二、五四五MHzを超え二、五七五MHz以下及び二、五九五MHzを超え二、六四五MHz以下の周波数の電波を使用するものの免許の有効期間については、なお従前の例による。</Sentence>
+          <Sentence>この省令の施行の際現に免許を受けている設備規則第三条第一号に規定する携帯無線通信を行う無線局並びに同条第十号に規定する広帯域移動無線アクセスシステムの無線局のうち二、五四五ＭＨｚを超え二、五七五ＭＨｚ以下及び二、五九五ＭＨｚを超え二、六四五ＭＨｚ以下の周波数の電波を使用するものの免許の有効期間については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="3">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>設備規則第三条第一号に規定する携帯無線通信を行う無線局並びに同条第十号に規定する広帯域移動無線アクセスシステムの無線局のうち二、五四五MHzを超え二、五七五MHz以下及び二、五九五MHzを超え二、六四五MHz以下の周波数の電波を使用するものの無線局事項書の様式は、第二条の規定による改正後の免許規則別表第二号第２及び別表第二号の四の様式にかかわらず、平成三十四年九月三十日までを免許の日とする申請に係るものについては、なお従前の様式によることができる。</Sentence>
+          <Sentence>設備規則第三条第一号に規定する携帯無線通信を行う無線局並びに同条第十号に規定する広帯域移動無線アクセスシステムの無線局のうち二、五四五ＭＨｚを超え二、五七五ＭＨｚ以下及び二、五九五ＭＨｚを超え二、六四五ＭＨｚ以下の周波数の電波を使用するものの無線局事項書の様式は、第二条の規定による改正後の免許規則別表第二号第２及び別表第二号の四の様式にかかわらず、平成三十四年九月三十日までを免許の日とする申請に係るものについては、なお従前の様式によることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -22606,24 +22674,105 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第一号　呼出符号又は呼出名称指定申請書の様式</AppdxStyleTitle>
+    <SupplProvision AmendLawNum="平成三〇年二月一日総務省令第四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令は、平成三十年三月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令の施行の際現に免許を受けている無線局については、この省令による改正後の施行規則第三十八条第一項又は第三項の規定にかかわらず、当該無線局の免許の有効期間が満了する日までは、なお従前の例によることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年二月二日総務省令第五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、電波法施行令の一部を改正する政令（平成三十年政令第二十八号）の施行の日（平成三十年二月二日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年六月二九日総務省令第三九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年七月二五日総務省令第五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令は、電波法及び電気通信事業法の一部を改正する法律（平成二十九年法律第二十七号）附則第一条第二号に掲げる規定の施行の日（平成三十年八月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年七月二五日総務省令第五一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、電波法及び電気通信事業法の一部を改正する法律（平成二十九年法律第二十七号）附則第一条第二号に掲げる規定の施行の日（平成三十年八月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年九月二五日総務省令第五六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
+      <AppdxTableTitle>別表第一号　呼出符号又は呼出名称指定申請書の様式</AppdxTableTitle>
       <RelatedArticleNum>（第６条の２の２第１項関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-001.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第一号の二　呼出符号又は呼出名称指定書の様式</AppdxStyleTitle>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_001.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第一号の二　呼出符号又は呼出名称指定書の様式</AppdxTableTitle>
       <RelatedArticleNum>（第６条の２の２第２項関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-002.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_002.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle>別表第一号の三　許可を要しない工事設計の軽微な事項</AppdxTableTitle>
       <RelatedArticleNum>（第１０条第１項関係）</RelatedArticleNum>
@@ -22906,7 +23055,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（１）　義務航空機局の空中線であつて、航空法第６０条の規定により装備しなければならない無線設備に係るもの（１６０６．５ｋＨｚから２８、０００ｋＨｚまでの周波数の電波を使用するものを除く。）の工事設計</Sentence>
+              <Sentence>（１）　義務航空機局の空中線であつて、航空法第６０条の規定により装備しなければならない無線設備に係るもの（１、６０６．５ｋＨｚから２８、０００ｋＨｚまでの周波数の電波を使用するものを除く。）の工事設計</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>当該部分の全部について削る場合又は当該業務用の検定合格機器であつて、その型式名に付された検定規則別表第８号に規定する記号のうち使用する環境及び等級に係るものが表す内容が当該部分を変更しようとする無線局の行う業務及び当該無線局の機器を使用する環境に適合することとなる機器に係る工事設計に改める場合に限る。</Sentence>
@@ -23000,10 +23149,10 @@
               <Sentence>（３）　第１の１１の項から２０の項までに掲げる装置の部品</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>１　当該部品の属する設備又は装置の性能を低下させない場合であること（送信機の回路（低周波回路を除く。）に使用する電子管，半導体製品（集積回路及び記憶部品を含む。）に係る工事設計を改める場合にあつては，その性能に変更を来すこととならない場合に限る。）。</Sentence>
-              <Sentence>２　発振の回路方式又は変調の回路方式に変更を来さない場合であること。ただし，電波の型式，周波数又は空中線電力の指定の一部の削除に伴う部品に係る工事設計を削る場合又は改める場合であつて，当該変更に係る部分以外の部分の電気的特性に変更を来すこととならない場合を除く。</Sentence>
-              <Sentence>３　電波の型式，周波数又は空中線電力の指定の変更に伴う場合でないこと。ただし，次に掲げる場合を除く。</Sentence>
-              <Sentence>（１）　電波の型式，周波数又は空中線電力の指定の一部の削除に伴う部品に係る工事設計を削る場合又は改める場合であつて，当該変更に係る部分以外の部分の電気的特性に変更を来すこととならない場合</Sentence>
+              <Sentence>１　当該部品の属する設備又は装置の性能を低下させない場合であること（送信機の回路（低周波回路を除く。）に使用する電子管、半導体製品（集積回路及び記憶部品を含む。）に係る工事設計を改める場合にあつては、その性能に変更を来すこととならない場合に限る。）。</Sentence>
+              <Sentence>２　発振の回路方式又は変調の回路方式に変更を来さない場合であること。ただし、電波の型式、周波数又は空中線電力の指定の一部の削除に伴う部品に係る工事設計を削る場合又は改める場合であつて、当該変更に係る部分以外の部分の電気的特性に変更を来すこととならない場合を除く。</Sentence>
+              <Sentence>３　電波の型式、周波数又は空中線電力の指定の変更に伴う場合でないこと。ただし、次に掲げる場合を除く。</Sentence>
+              <Sentence>（１）　電波の型式、周波数又は空中線電力の指定の一部の削除に伴う部品に係る工事設計を削る場合又は改める場合であつて、当該変更に係る部分以外の部分の電気的特性に変更を来すこととならない場合</Sentence>
               <Sentence>（２）　適合表示無線設備の水晶片に係る工事設計を改める場合（技術基準適合証明、工事設計認証又は技術基準適合自己確認に係る周波数に変更を来すこととなる場合を除く。）</Sentence>
               <Sentence>４　第１に規定する当該部品の属する設備又は装置の工事設計の変更の適用の条件に抵触することとならない場合であること。</Sentence>
             </TableColumn>
@@ -23019,7 +23168,7 @@
         </Table>
         <Remarks>
           <RemarksLabel>注</RemarksLabel>
-          <Sentence>第１０条第２項の規定により準用する場合においては，工事設計のうち軽微なものとするものの欄中「工事設計」とあるのは「変更の工事」と，適用の条件の欄中「に係る工事設計を改める場合」とあるのは「を取り替える場合」と，「に係る工事設計を削る場合」とあるのは「を撤去する場合」と，「追加する場合」とあるのは「増設する場合」とそれぞれ読み替えるものとする。</Sentence>
+          <Sentence>第１０条第２項の規定により準用する場合においては、工事設計のうち軽微なものとするものの欄中「工事設計」とあるのは「変更の工事」と、適用の条件の欄中「に係る工事設計を改める場合」とあるのは「を取り替える場合」と、「に係る工事設計を削る場合」とあるのは「を撤去する場合」と、「追加する場合」とあるのは「増設する場合」とそれぞれ読み替えるものとする。</Sentence>
         </Remarks>
       </TableStruct>
     </AppdxTable>
@@ -23343,7 +23492,8 @@
       </Item>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle>別表第二号の二の二（第１１条の２の３関係）</AppdxTableTitle>
+      <AppdxTableTitle>別表第二号の二の二</AppdxTableTitle>
+      <RelatedArticleNum>（第１１条の２の３関係）</RelatedArticleNum>
       <TableStruct>
         <Table>
           <TableRow>
@@ -23650,7 +23800,8 @@
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle>別表第二号の二の三（第１１条の２の３関係）</AppdxTableTitle>
+      <AppdxTableTitle>別表第二号の二の三</AppdxTableTitle>
+      <RelatedArticleNum>（第１１条の２の３関係）</RelatedArticleNum>
       <TableStruct>
         <Table>
           <TableRow>
@@ -23735,7 +23886,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S25F30901000014-003.pdf"/>
+                <Fig src="./pict/S25F30901000014_2006082006_003.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -24095,21 +24246,28 @@
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第二号の二の五（第１１条の２の４第２項関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-004.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
     <AppdxTable>
-      <AppdxTableTitle>別表第二号の三　ＡＣＡＳ，航空用ＤＭＥ，タカン又はＶＯＲを使用する無線局及びＩＬＳ，ＭＬＳ又はＡＴＣＲＢＳの無線局の周波数</AppdxTableTitle>
+      <AppdxTableTitle>別表第二号の二の五</AppdxTableTitle>
+      <RelatedArticleNum>（第１１条の２の４第２項関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_004.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第二号の三　ＡＣＡＳ、航空用ＤＭＥ、タカン又はＶＯＲを使用する無線局及びＩＬＳ、ＭＬＳ又はＡＴＣＲＢＳの無線局の周波数</AppdxTableTitle>
       <RelatedArticleNum>（第１３条第３項関係）</RelatedArticleNum>
       <Item Num="1">
         <ItemTitle>（１）</ItemTitle>
         <ItemSentence>
-          <Sentence>ＶＯＲ，ＩＬＳのローカライザ，ＩＬＳのグライド・パス，ＭＬＳ角度系，機上ＤＭＥ，機上タカン，地表に設置する航空用ＤＭＥ（以下「地上ＤＭＥ」という。）及び地表に設置するタカン（以下「地上タカン」という。）を使用する無線局の周波数</Sentence>
+          <Sentence>ＶＯＲ、ＩＬＳのローカライザ、ＩＬＳのグライド・パス、ＭＬＳ角度系、機上ＤＭＥ、機上タカン、地表に設置する航空用ＤＭＥ（以下「地上ＤＭＥ」という。）及び地表に設置するタカン（以下「地上タカン」という。）を使用する無線局の周波数</Sentence>
         </ItemSentence>
         <TableStruct>
           <Table>
@@ -32301,41 +32459,115 @@
         </Remarks>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第二号の六　無線設備の技術基準の策定等の申出の様式</AppdxStyleTitle>
+    <AppdxTable>
+      <AppdxTableTitle>別表第二号の六　無線設備の技術基準の策定等の申出の様式</AppdxTableTitle>
       <RelatedArticleNum>（第３２条の９の２及び第４５条の２の２関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-005.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第三号　無線従事者選解任届の様式（第３４条の４関係）（総務大臣又は総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-006.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第四号</AppdxStyleTitle>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_005.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第三号　無線従事者選解任届の様式</AppdxTableTitle>
+      <RelatedArticleNum>（第３４条の４関係）（総務大臣又は総合通信局長がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_006.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第四号</AppdxTableTitle>
       <RelatedArticleNum>（第３９条第１項関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-007.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第四号の二　法第７３条第３項の規定による無線局検査の省略通知の様式</AppdxStyleTitle>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_007.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第四号の二　法第７３条第３項の規定による無線局検査の省略通知の様式</AppdxTableTitle>
       <RelatedArticleNum>（第３９条第２項関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-008.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_008.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第四号の三　変更認定を要しない軽微な変更事項</AppdxTableTitle>
+      <RelatedArticleNum>（第四十条の三関係）</RelatedArticleNum>
+      <Item Num="1">
+        <ItemTitle>一</ItemTitle>
+        <ItemSentence>
+          <Sentence>無線局の免許の番号（登録記号に変更がない場合に限る。）</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>二</ItemTitle>
+        <ItemSentence>
+          <Sentence>無線設備等の点検その他の保守を行う施設の名称及び所在地（移転を伴わない場合に限る。）</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="3">
+        <ItemTitle>三</ItemTitle>
+        <ItemSentence>
+          <Sentence>無線設備等の点検その他の保守を行う組織の名称（名称以外の変更がない場合に限る。）</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="4">
+        <ItemTitle>四</ItemTitle>
+        <ItemSentence>
+          <Sentence>無線局の基準適合性の確認間隔（第四十条の二に規定する時期の間隔内での変更の場合に限る。）</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="5">
+        <ItemTitle>五</ItemTitle>
+        <ItemSentence>
+          <Sentence>その他総務大臣が別に告示するもの</Sentence>
+        </ItemSentence>
+      </Item>
+    </AppdxTable>
+    <AppdxTable Num="4_4">
+      <AppdxTableTitle>別表第四号の四</AppdxTableTitle>
+      <RelatedArticleNum>　航空機局等の無線設備等の点検その他の保守の実施状況報告書の様式（第４０条の４関係）（総務大臣がこの様式に代わるものとして認めた場合は、それによることができる。）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_009.jpg"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle>別表第五号　定期検査の実施時期</AppdxTableTitle>
       <RelatedArticleNum>（第四十一条の四関係）</RelatedArticleNum>
@@ -32542,7 +32774,7 @@
           <Subitem1Title>（３）</Subitem1Title>
           <Subitem1Sentence>
             <Column Num="1">
-              <Sentence>特定船舶局であつてＦ二Ｂ電波又はＦ三Ｅ電波一五六ＭＨｚから一五七・四五ＭＨｚまでの周波数を使用する無線設備、遭難自動通報設備（船舶安全法第二条の規定に基づく命令により備付けを要するものを除く。）、簡易型船舶自動識別装置及びレーダー以外の無線設備を設置しないもの</Sentence>
+              <Sentence>特定船舶局であつてＦ二Ｂ電波又はＦ三Ｅ電波一五六ＭＨｚから一五七・四五ＭＨｚまでの周波数を使用する無線設備、遭難自動通報設備（船舶安全法第二条の規定に基づく命令により備付けを要するものを除く。）、簡易型船舶自動識別装置、ＶＨＦデータ交換装置及びレーダー以外の無線設備を設置しないもの</Sentence>
             </Column>
             <Column Num="2">
               <Sentence>五年</Sentence>
@@ -32742,13 +32974,30 @@
       <Item Num="20">
         <ItemTitle>二十</ItemTitle>
         <ItemSentence>
-          <Column Num="1">
-            <Sentence>海岸地球局</Sentence>
-          </Column>
-          <Column Num="2">
-            <Sentence>一年</Sentence>
-          </Column>
+          <Sentence>海岸地球局</Sentence>
         </ItemSentence>
+        <Subitem1 Num="1">
+          <Subitem1Title>（１）</Subitem1Title>
+          <Subitem1Sentence>
+            <Column Num="1">
+              <Sentence>電気通信業務を行うことを目的として開設するもの</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence>一年</Sentence>
+            </Column>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>（２）</Subitem1Title>
+          <Subitem1Sentence>
+            <Column Num="1">
+              <Sentence>（１）に該当しないもの</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence>五年</Sentence>
+            </Column>
+          </Subitem1Sentence>
+        </Subitem1>
       </Item>
       <Item Num="21">
         <ItemTitle>二十一</ItemTitle>
@@ -32809,7 +33058,18 @@
           <Subitem1Title>（２）</Subitem1Title>
           <Subitem1Sentence>
             <Column Num="1">
-              <Sentence>（１）に該当しないもの</Sentence>
+              <Sentence>船舶自動識別装置の無線設備のみを設置するもの</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence>三年</Sentence>
+            </Column>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="3">
+          <Subitem1Title>（３）</Subitem1Title>
+          <Subitem1Sentence>
+            <Column Num="1">
+              <Sentence>（１）及び（２）に該当しないもの</Sentence>
             </Column>
             <Column Num="2">
               <Sentence>二年</Sentence>
@@ -32934,24 +33194,36 @@
         </Subitem1>
       </Item>
     </AppdxTable>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第五号の二　免許人が総合通信局長に提出する無線設備等の検査実施報告書の様式</AppdxStyleTitle>
+    <AppdxTable>
+      <AppdxTableTitle>別表第五号の二　免許人が総合通信局長に提出する無線設備等の検査実施報告書の様式</AppdxTableTitle>
       <RelatedArticleNum>（第４１条の５関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-009.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第五号の三　免許人が総合通信局長に提出する無線設備等の点検実施報告書の様式</AppdxStyleTitle>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_010.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第五号の三　免許人が総合通信局長に提出する無線設備等の点検実施報告書の様式</AppdxTableTitle>
       <RelatedArticleNum>（第４１条の６関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-010.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_011.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle>別表第六号　許可を要しない高周波利用設備の変更の工事</AppdxTableTitle>
       <RelatedArticleNum>（第４５条の２関係）</RelatedArticleNum>
@@ -33073,231 +33345,361 @@
         </Table>
       </TableStruct>
     </AppdxTable>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第七号（第４６条の４関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-011-2.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第八号　型式確認に係る試験方法</AppdxStyleTitle>
+    <AppdxTable>
+      <AppdxTableTitle>別表第七号</AppdxTableTitle>
+      <RelatedArticleNum>（第４６条の４関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_012.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第八号　型式確認に係る試験方法</AppdxTableTitle>
       <RelatedArticleNum>（第４６条の７関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-012.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第九号　試験成績書の様式</AppdxStyleTitle>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_013.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第九号　試験成績書の様式</AppdxTableTitle>
       <RelatedArticleNum>（第４６条の８関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-013.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十号（第４６条の８関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-014-2.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十一号（第５１条の１０関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-015.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十一号の二（第５１条の１０の２の３、第５１条の１０の２の７関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-016.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十一号の三（第５１条の１０の３関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-017.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十一号の四（第５１条の１０の４関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-018.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十二号</AppdxStyleTitle>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_014.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十号</AppdxTableTitle>
+      <RelatedArticleNum>（第４６条の８関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_015.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十一号</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１０関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_016.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十一号の二</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１０の２の３、第５１条の１０の２の７関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_017.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十一号の三</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１０の３関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_018.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十一号の四</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１０の４関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_019.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十二号</AppdxTableTitle>
       <RelatedArticleNum>（第５１条の１１関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-019.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十二号の二（第５１条の１１の２関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-020.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十二号の三（第５１条の１１の２の８関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-021.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十二号の四（第５１条の１１の２の９関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-022.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十三号（第５１条の１１の２の１０第１項関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-023.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十三号の二（第５１条の１１の２の１０第１項及び第２項関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-024.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十四号（第５１条の１１の２の１０第２項関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-025.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十四号の二（第５１条の１１の２の１０第３項関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-026.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十四号の三（第５１条の１１の１７関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-027.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十五号（第５１条の１２関係）</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-028.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle>別表第十六号</AppdxStyleTitle>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S25F30901000014-029.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_020.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十二号の二</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１１の２関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_021.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十二号の三</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１１の２の８関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_022.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十二号の四</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１１の２の９関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_023.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十三号</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１１の２の１０第１項関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_024.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十三号の二</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１１の２の１０第１項及び第２項関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_025.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十四号</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１１の２の１０第２項関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_026.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十四号の二</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１１の２の１０第３項関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_027.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十四号の三</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１１の１７関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_028.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十五号</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１２関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_029.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第十六号</AppdxTableTitle>
+      <RelatedArticleNum>（第５１条の１３関係第２項関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <FigStruct>
+                <Fig src="./pict/S25F30901000014_2006082006_030.pdf"/>
+              </FigStruct>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
     <AppdxFig>
       <AppdxFigTitle>別図第一号</AppdxFigTitle>
       <FigStruct>
-        <Fig src="./pict/S25F30901000014-030.pdf"/>
+        <Fig src="./pict/S25F30901000014_2006082006_031.pdf"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle>別図第二号</AppdxFigTitle>
       <FigStruct>
-        <Fig src="./pict/S25F30901000014-031.pdf"/>
+        <Fig src="./pict/S25F30901000014_2006082006_032.pdf"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle>別図第三号</AppdxFigTitle>
       <FigStruct>
-        <Fig src="./pict/S25F30901000014-032.pdf"/>
+        <Fig src="./pict/S25F30901000014_2006082006_033.pdf"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle>別図第四号</AppdxFigTitle>
       <FigStruct>
-        <Fig src="./pict/S25F30901000014-033.pdf"/>
+        <Fig src="./pict/S25F30901000014_2006082006_034.pdf"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle>別図第五号</AppdxFigTitle>
       <FigStruct>
-        <Fig src="./pict/S25F30901000014-034.pdf"/>
+        <Fig src="./pict/S25F30901000014_2006082006_035.pdf"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle>別図第六号</AppdxFigTitle>
       <FigStruct>
-        <Fig src="./pict/S25F30901000014-035.pdf"/>
+        <Fig src="./pict/S25F30901000014_2006082006_036.pdf"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle>別図第七号</AppdxFigTitle>
       <FigStruct>
-        <Fig src="./pict/S25F30901000014-036.pdf"/>
+        <Fig src="./pict/S25F30901000014_2006082006_037.pdf"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle>別図第八号</AppdxFigTitle>
       <FigStruct>
-        <Fig src="./pict/S25F30901000014-037.pdf"/>
+        <Fig src="./pict/S25F30901000014_2006082006_038.pdf"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle>別図第九号</AppdxFigTitle>
       <FigStruct>
-        <Fig src="./pict/S25F30901000014-038.pdf"/>
+        <Fig src="./pict/S25F30901000014_2006082006_039.pdf"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle>別図第十号</AppdxFigTitle>
       <FigStruct>
-        <Fig src="./pict/S25F30901000014-039.pdf"/>
+        <Fig src="./pict/S25F30901000014_2006082006_040.pdf"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle>別図第十一号</AppdxFigTitle>
       <FigStruct>
-        <Fig src="./pict/S25F30901000014-040.pdf"/>
+        <Fig src="./pict/S25F30901000014_2006082006_041.pdf"/>
       </FigStruct>
     </AppdxFig>
     <AppdxFig>
       <AppdxFigTitle>別図第十二号</AppdxFigTitle>
       <FigStruct>
-        <Fig src="./pict/S25F30901000014-041.pdf"/>
+        <Fig src="./pict/S25F30901000014_2006082006_042.pdf"/>
       </FigStruct>
     </AppdxFig>
   </LawBody>

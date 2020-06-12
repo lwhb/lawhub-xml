@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="11" Year="12">
+<Law DataInfo="200515e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="11" Year="12">
   <LawNum>平成十三年厚生労働省令第一号</LawNum>
   <LawBody>
     <LawTitle>厚生労働省組織規則</LawTitle>
@@ -649,18 +649,90 @@
               </Paragraph>
             </Article>
             <Article Num="13">
-              <ArticleCaption>（医療独立行政法人管理室並びに政策医療推進官及び調査官）</ArticleCaption>
+              <ArticleCaption>（国立ハンセン病療養所将来構想実現等推進室及び医療独立行政法人支援室並びに政策医療推進官及び調査官）</ArticleCaption>
               <ArticleTitle>第十三条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">医療経営支援課に、医療独立行政法人管理室並びに政策医療推進官（関係のある他の職を占める者をもって充てられるものとする。）及び調査官それぞれ一人を置く。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">医療経営支援課に、国立ハンセン病療養所将来構想実現等推進室及び医療独立行政法人支援室並びに政策医療推進官（関係のある他の職を占める者をもって充てられるものとする。）及び調査官それぞれ一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">医療独立行政法人管理室は、次に掲げる事務をつかさどる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所将来構想実現等推進室は、次に掲げる事務をつかさどる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所の将来の在り方に係る構想の実現に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所の職員の配置等に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所の運営に係る企画に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所の診療業務等に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所の医療機器の配置の企画及び管理に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="6">
+                  <ItemTitle>六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所の医療社会事業、患者の福祉及び医師の充足に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="7">
+                  <ItemTitle>七</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所の役務業務及び業務の委託に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="8">
+                  <ItemTitle>八</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所に係る経費の予算、決算及び会計並びに会計の監査に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="9">
+                  <ItemTitle>九</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所に係る行政財産及び物品の管理に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="10">
+                  <ItemTitle>十</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所の職員に貸与する宿舎に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所将来構想実現等推進室に、室長を置く。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">医療独立行政法人支援室は、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -675,14 +747,14 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Num="3">
-                <ParagraphNum>３</ParagraphNum>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">医療独立行政法人管理室に、室長を置く。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">医療独立行政法人支援室に、室長を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Num="4">
-                <ParagraphNum>４</ParagraphNum>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">政策医療推進官は、命を受けて、次に掲げる事務を行う。</Sentence>
                 </ParagraphSentence>
@@ -705,20 +777,20 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Num="5">
-                <ParagraphNum>５</ParagraphNum>
+              <Paragraph Num="7">
+                <ParagraphNum>７</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">調査官は、命を受けて、国立ハンセン病療養所の職員の組織する団体に関する特定事項の調査、企画及び立案並びに調整に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
             <Article Num="14">
-              <ArticleCaption>（試験免許室及び医師臨床研修推進室）</ArticleCaption>
+              <ArticleCaption>（試験免許室、医師臨床研修推進室及び死因究明等企画調査室）</ArticleCaption>
               <ArticleTitle>第十四条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">医事課に、試験免許室及び医師臨床研修推進室を置く。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">医事課に、試験免許室、医師臨床研修推進室及び死因究明等企画調査室を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -755,6 +827,18 @@
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">医師臨床研修推進室に、室長を置く。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">死因究明等企画調査室は、死体の解剖及び保存に関する事務のうち、死因究明及び身元確認に関する調査、企画及び立案並びに調整に関する事務をつかさどる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="7">
+                <ParagraphNum>７</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">死因究明等企画調査室に、室長を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2256,20 +2340,8 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">多様な働き方推進室は、次に掲げる事務をつかさどる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">多様な働き方推進室は、短時間労働者及び有期雇用労働者と通常の労働者との均等な待遇及び均衡のとれた待遇の確保に関する政策の企画及び立案に関する事務をつかさどる。</Sentence>
                 </ParagraphSentence>
-                <Item Num="1">
-                  <ItemTitle>一</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">期間の定めのある労働契約を締結している労働者と期間の定めのない労働契約を締結している労働者との均衡のとれた待遇の確保に関する政策の企画及び立案に関すること。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="2">
-                  <ItemTitle>二</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">短時間労働者と通常の労働者との均等な待遇及び均衡のとれた待遇の確保に関する政策の企画及び立案に関すること。</Sentence>
-                  </ItemSentence>
-                </Item>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
@@ -2670,46 +2742,21 @@
               </Paragraph>
             </Article>
             <Article Num="63">
-              <ArticleCaption>（審査室）</ArticleCaption>
               <ArticleTitle>第六十三条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">援護・業務課に、審査室を置く。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="2">
-                <ParagraphNum>２</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">審査室は、次に掲げる事務をつかさどる。</Sentence>
-                </ParagraphSentence>
-                <Item Num="1">
-                  <ItemTitle>一</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">戦傷病者戦没者遺族等援護法（昭和二十七年法律第百二十七号）に規定する遺族年金、遺族給与金及び弔慰金を受ける権利の裁定に関すること。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="2">
-                  <ItemTitle>二</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">戦傷病者戦没者遺族等援護法に規定する遺族年金及び遺族給与金を受けている者の受給権の調査に関すること。</Sentence>
-                  </ItemSentence>
-                </Item>
-              </Paragraph>
-              <Paragraph Num="3">
-                <ParagraphNum>３</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">審査室に、室長を置く。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">削除</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
             <Article Num="63_2">
-              <ArticleCaption>（事業推進室）</ArticleCaption>
+              <ArticleCaption>（事業推進室及び鑑定調整室）</ArticleCaption>
               <ArticleTitle>第六十三条の二</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">事業課に、事業推進室を置く。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">事業課に、事業推進室及び鑑定調整室を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -2720,13 +2767,13 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">戦没者の遺骨の収集、墓参及びこれらに類する事業の実施に関すること（援護企画課の所掌に属するものを除く。）。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">戦没者の遺骨の収集、墓参及びこれらに類する事業の実施に関すること（援護企画課及び鑑定調整室の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">旧陸海軍関係の死亡者の遺骨及び遺留品の処理に関すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">旧陸海軍関係の死亡者の遺骨及び遺留品の処理に関すること（鑑定調整室の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -2734,6 +2781,30 @@
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">事業推進室に、室長を置く。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">鑑定調整室は、次に掲げる事務をつかさどる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">戦没者の遺骨の鑑定に関する企画及び立案並びに調整に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">戦没者の遺骨の身元の調査、伝達及びこれらに類する業務に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">鑑定調整室に、室長を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4603,7 +4674,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">小樽検疫所千歳空港検疫所支所、仙台検疫所仙台空港検疫所支所、東京検疫所千葉検疫所支所、東京検疫所東京空港検疫所支所、名古屋検疫所清水検疫所支所、名古屋検疫所中部空港検疫所支所、広島検疫所広島空港検疫所支所、福岡検疫所福岡空港検疫所支所、福岡検疫所長崎検疫所支所、福岡検疫所鹿児島検疫所支所及び那覇検疫所那覇空港検疫所支所並びに小樽検疫所函館出張所、小樽検疫所釧路出張所、新潟検疫所富山空港出張所、新潟検疫所金沢・七尾出張所、広島検疫所徳山下松・岩国出張所、広島検疫所坂出出張所、広島検疫所松山出張所、福岡検疫所厳原・比田勝出張所、福岡検疫所熊本空港出張所、福岡検疫所大分・佐賀関出張所、福岡検疫所宮崎空港出張所及び那覇検疫所石垣出張所に、検疫調整官一人を置く。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">大阪検疫所並びに小樽検疫所千歳空港検疫所支所、仙台検疫所仙台空港検疫所支所、東京検疫所千葉検疫所支所、東京検疫所東京空港検疫所支所、東京検疫所川崎検疫所支所、名古屋検疫所清水検疫所支所、名古屋検疫所中部空港検疫所支所、名古屋検疫所四日市検疫所支所、広島検疫所広島空港検疫所支所、福岡検疫所門司検疫所支所、福岡検疫所福岡空港検疫所支所、福岡検疫所長崎検疫所支所、福岡検疫所鹿児島検疫所支所及び那覇検疫所那覇空港検疫所支所並びに小樽検疫所函館出張所、小樽検疫所釧路出張所、仙台検疫所青森空港出張所、新潟検疫所新潟空港出張所、新潟検疫所富山空港出張所、新潟検疫所金沢・七尾出張所、広島検疫所境出張所、広島検疫所岡山空港出張所、広島検疫所徳山下松・岩国出張所、広島検疫所坂出出張所、広島検疫所松山出張所、福岡検疫所厳原・比田勝出張所、福岡検疫所熊本空港出張所、福岡検疫所大分・佐賀関出張所、福岡検疫所宮崎空港出張所及び那覇検疫所石垣出張所に、検疫調整官一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -5574,7 +5645,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">国立保健医療科学院に、企画調整主幹一人及び統括研究官七人を置く。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国立保健医療科学院に、企画調整主幹一人及び統括研究官七人（うち一人は、関係のある他の職を占める者をもって充てられるものとする。）を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -6120,7 +6191,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">国立感染症研究所に、次の十五部及び三室並びに感染症疫学センター、エイズ研究センター、病原体ゲノム解析研究センター、インフルエンザウイルス研究センター及び薬剤耐性研究センターを置く。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国立感染症研究所に、次の十六部及び一室並びに感染症疫学センター、エイズ研究センター、病原体ゲノム解析研究センター、インフルエンザウイルス研究センター、薬剤耐性研究センター及び感染症危機管理研究センターを置く。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">総務部</Sentence>
                   <Sentence Num="3" WritingMode="vertical">ウイルス第一部</Sentence>
                   <Sentence Num="4" WritingMode="vertical">ウイルス第二部</Sentence>
@@ -6136,9 +6207,8 @@
                   <Sentence Num="14" WritingMode="vertical">獣医科学部</Sentence>
                   <Sentence Num="15" WritingMode="vertical">血液・安全性研究部</Sentence>
                   <Sentence Num="16" WritingMode="vertical">品質保証・管理部</Sentence>
-                  <Sentence Num="17" WritingMode="vertical">国際協力室</Sentence>
-                  <Sentence Num="18" WritingMode="vertical">バイオセーフティ管理室</Sentence>
-                  <Sentence Num="19" WritingMode="vertical">動物管理室</Sentence>
+                  <Sentence Num="17" WritingMode="vertical">安全実験管理部</Sentence>
+                  <Sentence Num="18" WritingMode="vertical">国際協力室</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -6566,6 +6636,34 @@
                     <Sentence Num="1" WritingMode="vertical">感染症その他の特定疾病の検定検査に必要な基準、検定検査手法の精度管理及び生物学的製剤の品質保証に関する国際的な調整を行うこと（国際協力室の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">国立感染症研究所の情報システムの整備及び管理並びにこれらに関する講習を行うこと。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Num="596_2">
+              <ArticleCaption>（安全実験管理部の所掌事務）</ArticleCaption>
+              <ArticleTitle>第五百九十六条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">安全実験管理部は、次に掲げる事務をつかさどる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">生物災害に係る安全管理に関する調査、研究及び講習を行うこと。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医学用実験動物の飼育及び健康管理並びにこれらに関する科学的調査、研究及び講習を行うこと。</Sentence>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
             </Article>
             <Article Num="597">
@@ -6579,22 +6677,20 @@
               </Paragraph>
             </Article>
             <Article Num="598">
-              <ArticleCaption>（バイオセーフティ管理室の所掌事務）</ArticleCaption>
               <ArticleTitle>第五百九十八条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">バイオセーフティ管理室は、国立感染症研究所の所掌事務のうち、生物災害に係る安全管理に関する調査及び研究を行うことをつかさどる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">削除</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
             <Article Num="599">
-              <ArticleCaption>（動物管理室の所掌事務）</ArticleCaption>
               <ArticleTitle>第五百九十九条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">動物管理室は、医学用実験動物の飼育及び健康管理並びにこれらに関する科学的調査及び研究を行うことをつかさどる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">削除</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -6609,19 +6705,13 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">予防衛生に関し、情報の収集及び分析並びにこれらの結果の提供並びに疫学的調査及び研究を行うこと（血清及び病原体に関することを含む。）。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">予防衛生に関し、情報の収集及び分析並びにこれらの結果の提供並びに疫学的調査及び研究並びにこれらに関する講習を行うこと（血清及び病原体に関することを含む。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">感染症の判別のための検査及びこれに関する抗原及び抗血清の製造並びにこれらに必要な科学的調査及び研究（これらに関するレファレンス業務を含む。）並びにこれらに関する講習を行うこと。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="3">
-                  <ItemTitle>三</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">血清の収集、保存及び検査並びにこれらに必要な科学的調査及び研究を行うこと。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">血清の収集、保存及び検査並びにこれらに必要な科学的調査及び研究並びにこれらに関する講習を行うこと。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -6716,6 +6806,28 @@
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">抗菌性物質及びその製剤（抗生物質医薬品に限る。）の生物学的検査及びこれらの医薬品の生物学的検査に必要な標準品の製造並びにこれらに必要な科学的調査及び研究を行うこと。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Num="603_3">
+              <ArticleCaption>（感染症危機管理研究センターの所掌事務）</ArticleCaption>
+              <ArticleTitle>第六百三条の三</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">感染症危機管理研究センターは、次に掲げる事務をつかさどる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">感染症その他の特定疾病の危機管理に関し、情報の収集及び分析並びにこれらの結果の提供並びにこれらに必要な科学的調査及び研究（血清及び病原体に関することを含む。）並びにこれらに関する講習を行うこと。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">感染症の判別のための検査並びにこれに関する抗原及び抗血清の製造並びにこれらに必要な科学的調査及び研究（これらに関するレファレンス業務を含む。）並びにこれらに関する講習を行うこと。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -6917,9 +7029,8 @@
                   <Sentence Num="1" WritingMode="vertical">国立児童自立支援施設に、次に掲げる課を置く。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">庶務課</Sentence>
                   <Sentence Num="3" WritingMode="vertical">調査課</Sentence>
-                  <Sentence Num="4" WritingMode="vertical">養成・研修課（国立武蔵野学院に限る。）</Sentence>
-                  <Sentence Num="5" WritingMode="vertical">教務課</Sentence>
-                  <Sentence Num="6" WritingMode="vertical">医務課</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">教務課</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">医務課</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -6974,12 +7085,11 @@
               </Paragraph>
             </Article>
             <Article Num="619">
-              <ArticleCaption>（養成・研修課の所掌事務）</ArticleCaption>
               <ArticleTitle>第六百十九条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">養成・研修課は、国立児童自立支援施設の所掌事務のうち、児童自立支援専門員養成所の行う業務に関する事務をつかさどる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">削除</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -7016,18 +7126,18 @@
               </Paragraph>
             </Article>
             <Article Num="622">
-              <ArticleCaption>（児童自立支援専門員養成所）</ArticleCaption>
+              <ArticleCaption>（人材育成センター）</ArticleCaption>
               <ArticleTitle>第六百二十二条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">国立児童自立支援施設に、児童自立支援専門員養成所を置く。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国立児童自立支援施設に、人材育成センターを置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">児童自立支援専門員養成所の名称及び位置は、次のとおりとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">人材育成センターの名称及び位置は、次のとおりとする。</Sentence>
                 </ParagraphSentence>
                 <TableStruct>
                   <Table WritingMode="vertical">
@@ -7041,7 +7151,7 @@
                     </TableRow>
                     <TableRow>
                       <TableColumn BorderBottom="solid" BorderRight="solid">
-                        <Sentence Num="1" WritingMode="vertical">国立武蔵野学院附属児童自立支援専門員養成所</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">国立武蔵野学院附属人材育成センター</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderRight="solid">
                         <Sentence Num="1" WritingMode="vertical">さいたま市</Sentence>
@@ -7053,13 +7163,61 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">児童自立支援専門員養成所は、国立児童自立支援施設の所掌事務のうち、児童自立支援専門員その他社会福祉に従事する職員の養成及び研修を行うことをつかさどる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">人材育成センターは、国立児童自立支援施設の所掌事務のうち、児童自立支援専門員その他社会福祉に従事する職員の養成及び研修並びに人材育成に関する調査及び研究を行うことをつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Num="4">
-                <ParagraphNum>４</ParagraphNum>
+            </Article>
+            <Article Num="622_2">
+              <ArticleCaption>（センター長及び副センター長）</ArticleCaption>
+              <ArticleTitle>第六百二十二条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">児童自立支援専門員養成所に、所長を置く。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">人材育成センターに、センター長及び副センター長一人（関係のある他の職を占める者をもって充てられるものとする。）を置く。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">センター長は、人材育成センターの事務を掌理する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">副センター長は、センター長を助け、人材育成センターの事務を整理する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="622_3">
+              <ArticleCaption>（人材育成センターに置く課）</ArticleCaption>
+              <ArticleTitle>第六百二十二条の三</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">人材育成センターに、次に掲げる課を置く。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">研修課</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">養成課</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="622_4">
+              <ArticleCaption>（研修課の所掌事務）</ArticleCaption>
+              <ArticleTitle>第六百二十二条の四</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">研修課は、人材育成センターの所掌事務のうち、研修計画の企画・立案及び研修の実施に関することをつかさどる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="622_5">
+              <ArticleCaption>（養成課の所掌事務）</ArticleCaption>
+              <ArticleTitle>第六百二十二条の五</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">養成課は、人材育成センターの所掌事務のうち、養成計画の企画・立案及び養成の実施に関することをつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -8521,6 +8679,18 @@
                   <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、国民健康保険組合の行う業務についての指導に関する事務の円滑な遂行のため特に必要があるときは、当該国民健康保険組合の主たる事務所の所在地を管轄する地方厚生局以外の地方厚生局に対して、その管轄区域の定めにかかわらず当該事務を行わせることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第七百七条第一項第二十二号、第二十三号、第二十五号、第二十六号及び第二十八号に掲げる事務の円滑な遂行のため特に必要があるときは、関東信越厚生局及び近畿厚生局に対して、その管轄区域の定めにかかわらず当該事務を行わせることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第七百八条各号に掲げる事務の円滑な遂行のため特に必要があるときは、関東信越厚生局及び近畿厚生局に対して、その管轄区域の定めにかかわらず当該事務を行わせることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
             </Article>
             <Article Num="706">
               <ArticleCaption>（総務管理官）</ArticleCaption>
@@ -8626,10 +8796,28 @@
                     <Sentence Num="1" WritingMode="vertical">臨床研究法第三十五条第一項の規定による報告徴収及び立入検査に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
+                <Item Num="2_4">
+                  <ItemTitle>二の四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">地域医療構想の達成に向けた取組の推進に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2_5">
+                  <ItemTitle>二の五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">災害時における医療の確保の支援に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">医師の確保に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3_2">
+                  <ItemTitle>三の二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医療法第五条の二の規定による医師の確保を特に図るべき区域で勤務した医師の認定に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
@@ -8743,7 +8931,7 @@
                 <Item Num="23">
                   <ItemTitle>二十三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">毒物及び劇物の製造業及び輸入業の登録及び取締りに関すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">毒物及び劇物の取締りに関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="24">
@@ -9753,11 +9941,12 @@
                   <Sentence Num="1" WritingMode="vertical">健康福祉部に、次に掲げる課を置く。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">健康福祉課</Sentence>
                   <Sentence Num="3" WritingMode="vertical">医事課</Sentence>
-                  <Sentence Num="4" WritingMode="vertical">食品衛生課</Sentence>
-                  <Sentence Num="5" WritingMode="vertical">地域包括ケア推進課</Sentence>
-                  <Sentence Num="6" WritingMode="vertical">保険課（関東信越厚生局及び近畿厚生局に限る。）</Sentence>
-                  <Sentence Num="7" WritingMode="vertical">企業年金課（関東信越厚生局及び近畿厚生局に限る。）</Sentence>
-                  <Sentence Num="8" WritingMode="vertical">保険年金課（関東信越厚生局及び近畿厚生局を除く。）</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">薬事監視指導課（関東信越厚生局及び近畿厚生局に限る。）</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">食品衛生課</Sentence>
+                  <Sentence Num="6" WritingMode="vertical">地域包括ケア推進課</Sentence>
+                  <Sentence Num="7" WritingMode="vertical">保険課（関東信越厚生局及び近畿厚生局に限る。）</Sentence>
+                  <Sentence Num="8" WritingMode="vertical">企業年金課（関東信越厚生局及び近畿厚生局に限る。）</Sentence>
+                  <Sentence Num="9" WritingMode="vertical">保険年金課（関東信越厚生局及び近畿厚生局を除く。）</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -9990,7 +10179,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">医事課は、次に掲げる事務をつかさどる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">北海道厚生局、東北厚生局、東海北陸厚生局、中国四国厚生局及び九州厚生局の医事課は、次に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -10019,7 +10208,7 @@
                 <Item Num="2_2_3">
                   <ItemTitle>二の二の三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">再生医療等安全性確保法第三十五条第一項の規定による特定細胞加工物の製造の許可及び同法第四十条第一項の規定による特定細胞加工物の製造の届出並びに特定細胞加工物の製造をする者の監督に関すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">再生医療等安全性確保法第三十五条第一項の規定による特定細胞加工物の製造の許可及び再生医療等安全性確保法第四十条第一項の規定による特定細胞加工物の製造の届出並びに特定細胞加工物の製造をする者の監督に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2_3">
@@ -10040,10 +10229,28 @@
                     <Sentence Num="1" WritingMode="vertical">臨床研究法第三十五条第一項の規定による報告徴収及び立入検査に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
+                <Item Num="2_4">
+                  <ItemTitle>二の四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">地域医療構想の達成に向けた取組の推進に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2_5">
+                  <ItemTitle>二の五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">災害時における医療の確保の支援に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">医師の確保に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3_2">
+                  <ItemTitle>三の二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医療法第五条の二の規定による医師の確保を特に図るべき区域で勤務した医師の認定に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
@@ -10079,7 +10286,7 @@
                 <Item Num="9">
                   <ItemTitle>九</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">毒物及び劇物の製造業及び輸入業の登録及び取締りに関すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">毒物及び劇物の取締りに関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="10">
@@ -10134,6 +10341,178 @@
                   <ItemTitle>十八</ItemTitle>
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">地方厚生局の所掌事務に係る補助金等の交付に関すること（医師の臨床研修に関するものに限る。）。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">関東信越厚生局及び近畿厚生局の医事課は、次に掲げる事務をつかさどる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">原因の明らかでない公衆衛生上重大な危害が生じ、又は生じるおそれがある緊急の事態への対処に関する総括に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医療の安全に関する取組の普及及び啓発に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">再生医療等安全性確保法第四条第一項に規定する再生医療等提供計画の提出及び再生医療等を提供する医療機関の監督に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">再生医療等安全性確保法第二十六条第一項の規定による再生医療等委員会の認定及び認定再生医療等委員会の監督に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">再生医療等安全性確保法第三十五条第一項の規定による特定細胞加工物の製造の許可及び再生医療等安全性確保法第四十条第一項の規定による特定細胞加工物の製造の届出並びに特定細胞加工物の製造をする者の監督に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="6">
+                  <ItemTitle>六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">臨床研究法第五条第一項に規定する実施計画の提出及び臨床研究を実施する者の監督に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="7">
+                  <ItemTitle>七</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">臨床研究法第二十三条第一項の規定による臨床研究審査委員会の認定及び認定臨床研究審査委員会の監督に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="8">
+                  <ItemTitle>八</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">臨床研究法第三十五条第一項の規定による報告徴収及び立入検査に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="9">
+                  <ItemTitle>九</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">地域医療構想の達成に向けた取組の推進に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="10">
+                  <ItemTitle>十</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">災害時における医療の確保の支援に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="11">
+                  <ItemTitle>十一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医師の確保に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="12">
+                  <ItemTitle>十二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医療法第五条の二の規定による医師の確保を特に図るべき区域で勤務した医師の認定に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="13">
+                  <ItemTitle>十三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医師及び歯科医師の臨床研修に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="14">
+                  <ItemTitle>十四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医師等の行政処分に係る調査の実施に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="15">
+                  <ItemTitle>十五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">行政処分を受けた医師等に対する再教育の実施に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="16">
+                  <ItemTitle>十六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">看護師の特定行為研修に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="17">
+                  <ItemTitle>十七</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医療観察法第六条第二項の精神保健判定医及び医療観察法第十五条第一項の精神保健参与員に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="18">
+                  <ItemTitle>十八</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医療観察法第十六条の規定による指定医療機関の指定及び医療観察法第八十二条第二項の規定による指定医療機関の指導等に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="19">
+                  <ItemTitle>十九</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医療観察法第四十三条第三項（医療観察法第五十一条第三項又は第六十一条第四項において準用する場合を含む。）の規定による指定入院医療機関又は指定通院医療機関の選定、医療観察法第四十五条第一項の規定による決定の執行その他医療観察法第四十二条第一項第一号若しくは第六十一条第一項第一号の決定又は医療観察法第四十二条第一項第二号若しくは第五十一条第一項第二号の決定を受けた者に対する医療に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="20">
+                  <ItemTitle>二十</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">都道府県医療費適正化計画その他の医療に要する費用の適正化の推進に関する地方公共団体その他の関係者との連絡調整に関すること（企画調整課の所掌に属するものを除く。）。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="21">
+                  <ItemTitle>二十一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">地方厚生局の所掌事務に係る補助金等の交付に関すること（医師の臨床研修に関するものに限る。）。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Num="714_2">
+              <ArticleCaption>（薬事監視指導課の所掌事務）</ArticleCaption>
+              <ArticleTitle>第七百十四条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">薬事監視指導課は、次に掲げる事務をつかさどる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医薬品（体外診断用医薬品を除く。）及び再生医療等製品の製造業並びに医療機器の修理業の許可に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">毒物及び劇物の取締りに関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">不良な医薬品等又は不正な表示のされた医薬品等の取締りの実施に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">薬事監視員に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">毒物劇物監視員に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -10556,93 +10935,18 @@
               </Paragraph>
             </Article>
             <Article Num="724">
-              <ArticleCaption>（上席薬事監視専門官及び薬事監視専門官）</ArticleCaption>
+              <ArticleCaption>（薬事監視専門官）</ArticleCaption>
               <ArticleTitle>第七百二十四条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">医事課に、次の各号に掲げる地方厚生局の区分に応じ、当該各号に定めるものを置く。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">北海道厚生局、東北厚生局、東海北陸厚生局、中国四国厚生局及び九州厚生局の医事課に、それぞれ薬事監視専門官一人（関係のある他の職を占める者をもって充てられるものとする。）を、関東信越厚生局の薬事監視指導課に、薬事監視専門官七人を、近畿厚生局の薬事監視指導課に、薬事監視専門官五人を置く。</Sentence>
                 </ParagraphSentence>
-                <Item Num="1">
-                  <ItemTitle>一</ItemTitle>
-                  <ItemSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">北海道厚生局、東北厚生局、東海北陸厚生局、中国四国厚生局及び九州厚生局</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">次に掲げるもの</Sentence>
-                    </Column>
-                  </ItemSentence>
-                  <Subitem1 Num="1">
-                    <Subitem1Title>イ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">上席薬事監視専門官一人（関係のある他の職を占める者をもって充てられるものとする。）</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="2">
-                    <Subitem1Title>ロ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">薬事監視専門官一人（関係のある他の職を占める者をもって充てられるものとする。）</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                </Item>
-                <Item Num="2">
-                  <ItemTitle>二</ItemTitle>
-                  <ItemSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">関東信越厚生局</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">次に掲げるもの</Sentence>
-                    </Column>
-                  </ItemSentence>
-                  <Subitem1 Num="1">
-                    <Subitem1Title>イ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">上席薬事監視専門官一人</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="2">
-                    <Subitem1Title>ロ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">薬事監視専門官七人</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                </Item>
-                <Item Num="3">
-                  <ItemTitle>三</ItemTitle>
-                  <ItemSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">近畿厚生局</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">次に掲げるもの</Sentence>
-                    </Column>
-                  </ItemSentence>
-                  <Subitem1 Num="1">
-                    <Subitem1Title>イ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">上席薬事監視専門官一人</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="2">
-                    <Subitem1Title>ロ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">薬事監視専門官五人</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                </Item>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">上席薬事監視専門官は、命を受けて、第七百十四条第八号及び第九号並びに第十一号から第十三号までに掲げる事務を行い、及び薬事監視専門官の行う事務を整理する。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="3">
-                <ParagraphNum>３</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">薬事監視専門官は、命を受けて、第七百十四条第八号及び第九号並びに第十一号から第十三号までに掲げる事務を行う。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">医事課の薬事監視専門官は、命を受けて、第七百十四条第一項第八号、第九号及び第十一号から第十三号までに掲げる事務を、薬事監視指導課の薬事監視専門官は、命を受けて、第七百十四条の二各号に掲げる事務を行う。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -10788,7 +11092,7 @@
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">社会保険監査指導官三人（うち一人は、関係のある他の職を占める者をもって充てられるものとする。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">社会保険監査指導官三人（うち二人は、関係のある他の職を占める者をもって充てられるものとする。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="3">
@@ -10873,7 +11177,7 @@
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">企業年金監査官二人（うち一人は、関係のある他の職を占める者をもって充てられるものとする。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">企業年金監査官二人（関係のある他の職を占める者をもって充てられるものとする。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                 </Item>
@@ -10919,7 +11223,7 @@
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">企業年金監査官二人</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">企業年金監査官二人（九州厚生局にあっては、うち一人は、関係のある他の職を占める者をもって充てられるものとする。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                 </Item>
@@ -10966,8 +11270,9 @@
                   <Sentence Num="5" WritingMode="vertical">捜査第二課（北海道厚生局、東北厚生局及び中国四国厚生局を除く。）</Sentence>
                   <Sentence Num="6" WritingMode="vertical">特別捜査課（北海道厚生局、東北厚生局及び中国四国厚生局を除く。）</Sentence>
                   <Sentence Num="7" WritingMode="vertical">捜査課（北海道厚生局、東北厚生局及び中国四国厚生局に限る。）</Sentence>
-                  <Sentence Num="8" WritingMode="vertical">国際情報課（関東信越厚生局に限る。）</Sentence>
-                  <Sentence Num="9" WritingMode="vertical">鑑定課（北海道厚生局、東北厚生局及び中国四国厚生局を除く。）</Sentence>
+                  <Sentence Num="8" WritingMode="vertical">密輸対策課（関東信越厚生局及び近畿厚生局に限る。）</Sentence>
+                  <Sentence Num="9" WritingMode="vertical">国際情報課（関東信越厚生局に限る。）</Sentence>
+                  <Sentence Num="10" WritingMode="vertical">鑑定課（北海道厚生局、東北厚生局及び中国四国厚生局を除く。）</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -11023,18 +11328,6 @@
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">上席密輸対策官一人</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="3">
-                    <Subitem1Title>ハ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">密輸対策官三人</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="4">
-                    <Subitem1Title>ニ</Subitem1Title>
-                    <Subitem1Sentence>
                       <Sentence Num="1" WritingMode="vertical">指定薬物専門官一人（関係のある他の職を占める者をもって充てられるものとする。）</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
@@ -11087,23 +11380,11 @@
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">上席密輸対策官一人</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">指定薬物専門官一人</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="3">
                     <Subitem1Title>ハ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">密輸対策官二人</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="4">
-                    <Subitem1Title>ニ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">指定薬物専門官一人</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="5">
-                    <Subitem1Title>ホ</Subitem1Title>
                     <Subitem1Sentence>
                       <Sentence Num="1" WritingMode="vertical">再乱用防止対策官一人</Sentence>
                     </Subitem1Sentence>
@@ -11163,7 +11444,7 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">麻薬等及び医薬品医療機器等法に規定する指定薬物に関する取締りの実施に関すること（捜査企画情報課、捜査第一課及び捜査第二課又は捜査課、特別捜査課、国際情報課、鑑定課並びに情報官、鑑定官、上席密輸対策官、密輸対策官及び指定薬物専門官の所掌に属するものを除く。）。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">麻薬等及び医薬品医療機器等法に規定する指定薬物に関する取締りの実施に関すること（捜査企画情報課、捜査第一課及び捜査第二課又は捜査課、特別捜査課、密輸対策課、国際情報課、鑑定課並びに情報官、鑑定官、密輸対策官及び指定薬物専門官の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
@@ -11272,6 +11553,16 @@
                 </Item>
               </Paragraph>
             </Article>
+            <Article Num="732_2">
+              <ArticleCaption>（密輸対策課の所掌事務）</ArticleCaption>
+              <ArticleTitle>第七百三十二条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">密輸対策課は、麻薬及び向精神薬取締法第五十四条第五項に規定する罪（不法輸入及び不法輸出並びに国外犯に係るものに限る。）の捜査に関する企画及び調整に関する事務をつかさどる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
             <Article Num="733">
               <ArticleCaption>（国際情報課の所掌事務）</ArticleCaption>
               <ArticleTitle>第七百三十三条</ArticleTitle>
@@ -11361,16 +11652,10 @@
               </Paragraph>
             </Article>
             <Article Num="734_3">
-              <ArticleCaption>（上席密輸対策官及び密輸対策官の職務）</ArticleCaption>
+              <ArticleCaption>（密輸対策官の職務）</ArticleCaption>
               <ArticleTitle>第七百三十四条の三</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">上席密輸対策官は、命を受けて、麻薬及び向精神薬取締法第五十四条第五項に規定する罪（不法輸入及び不法輸出並びに国外犯に係るものに限る。）の捜査に関する企画及び調整に関する事務を行う。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="2">
-                <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">密輸対策官は、命を受けて、麻薬及び向精神薬取締法第五十四条第五項に規定する罪（不法輸入及び不法輸出並びに国外犯に係るものに限る。）の捜査に関する事務を行う。</Sentence>
                 </ParagraphSentence>
@@ -11421,6 +11706,22 @@
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">サイバー犯罪対策官は、命を受けて、第七百二十九条の二第一項第二号及び第三号に規定する事務のうち、インターネットその他の高度情報通信ネットワークを利用して行われるものに関する事務を行う。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="734_7">
+              <ArticleCaption>（密輸対策官）</ArticleCaption>
+              <ArticleTitle>第七百三十四条の七</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">関東信越厚生局の密輸対策課に密輸対策官三人、近畿厚生局の密輸対策課に密輸対策官二人を置く。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">密輸対策官は、命を受けて、麻薬及び向精神薬取締法第五十四条第五項に規定する罪（不法輸入及び不法輸出並びに国外犯に係るものに限る。）の捜査に関する事務を行う。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -11564,7 +11865,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">四国厚生支局（以下「支局」という。）は、中国四国厚生局の所掌事務（第七百七条第一号、第二号、第三号、第八号、第十一号、第十三号、第十九号、第二十号、第四十七号、第五十六号（生活保護法第五十条第一項に規定する指定医療機関の監督に関することに限る。）、第五十八号から第六十四号まで、第七十一号、第七十五号、第七十七号から第八十二号まで及び第八十三号（医事課の所掌に属するものを除く。）、第七百十条の二第三号及び第四号、第七百十条の二の四、第七百十条の二の五並びに第七百十条の三第三号から第七号までに掲げるもののほか、次に掲げるものに限る。）のうち、徳島県、香川県、愛媛県及び高知県の区域に係るものを分掌する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">四国厚生支局（以下「支局」という。）は、中国四国厚生局の所掌事務（第七百七条第一号、第二号、第二号の五、第三号、第三号の二、第八号、第十一号、第十三号、第十九号、第二十号、第四十七号、第五十六号（生活保護法第五十条第一項に規定する指定医療機関の監督に関することに限る。）、第五十八号から第六十四号まで、第七十一号、第七十五号、第七十七号から第八十二号まで及び第八十三号（医事課の所掌に属するものを除く。）、第七百十条の二第三号及び第四号、第七百十条の二の四、第七百十条の二の五並びに第七百十条の三第三号から第七号までに掲げるもののほか、次に掲げるものに限る。）のうち、徳島県、香川県、愛媛県及び高知県の区域に係るものを分掌する。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -11847,10 +12148,22 @@
                     <Sentence Num="1" WritingMode="vertical">医療の安全に関する取組の普及及び啓発に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
+                <Item Num="1_2">
+                  <ItemTitle>一の二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">災害時における医療の確保の支援に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">医師の確保に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2_2">
+                  <ItemTitle>二の二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">医療法第五条の二の規定による医師の確保を特に図るべき区域で勤務した医師の認定に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
@@ -12366,7 +12679,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">九州厚生局沖縄麻薬取締支所は、九州厚生局の所掌事務（麻薬取締部の所掌に属するもの並びに第七百十四条第九号及び第十一号から第十三号までに掲げるもの（輸入に係るものに限る。）に限る。）のうち、沖縄県の区域に係るものを分掌する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">九州厚生局沖縄麻薬取締支所は、九州厚生局の所掌事務（麻薬取締部の所掌に属するもの並びに第七百十四条第一項第九号及び第十一号から第十三号までに掲げるもの（輸入に係るものに限る。）に限る。）のうち、沖縄県の区域に係るものを分掌する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -12402,7 +12715,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">薬事監視専門官は、命を受けて、第七百十四条第九号及び第十一号から第十三号までに掲げる事務（輸入に係るものに限る。）を行う。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">薬事監視専門官は、命を受けて、第七百十四条第一項第九号及び第十一号から第十三号までに掲げる事務（輸入に係るものに限る。）を行う。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -12653,7 +12966,7 @@
                 <Item Num="12">
                   <ItemTitle>十二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">短時間労働者の福祉の増進に関すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">短時間労働者及び有期雇用労働者の福祉の増進に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="13">
@@ -13303,7 +13616,7 @@
                 <Item Num="11">
                   <ItemTitle>十一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">短時間労働者の福祉の増進に関する事務の企画及び立案に関すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">短時間労働者及び有期雇用労働者の福祉の増進に関する事務の企画及び立案に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="12">
@@ -13391,7 +13704,7 @@
                 <Item Num="8">
                   <ItemTitle>八</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">短時間労働者の福祉の増進に関する事務の実施に関すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">短時間労働者及び有期雇用労働者の福祉の増進に関する事務の実施に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="9">
@@ -14585,7 +14898,7 @@
               <Sentence Num="5" WritingMode="vertical">新潟検疫所総務課</Sentence>
               <Sentence Num="6" WritingMode="vertical">那覇検疫所総務課</Sentence>
               <Sentence Num="7" WritingMode="vertical">国立ハンセン病療養所に置く看護師養成所</Sentence>
-              <Sentence Num="8" WritingMode="vertical">国立児童自立支援施設に置く児童自立支援専門員養成所</Sentence>
+              <Sentence Num="8" WritingMode="vertical">国立児童自立支援施設に置く人材育成センター</Sentence>
               <Sentence Num="9" WritingMode="vertical">国立障害者リハビリテーションセンター企画・情報部高次脳機能障害情報・支援センター</Sentence>
               <Sentence Num="10" WritingMode="vertical">国立障害者リハビリテーションセンター企画・情報部発達障害情報・支援センター</Sentence>
               <Sentence Num="11" WritingMode="vertical">国立障害者リハビリテーションセンター研究所脳機能系障害研究部</Sentence>
@@ -14656,7 +14969,7 @@
         <ParagraphCaption>（薬事監視専門官の設置期間の特例）</ParagraphCaption>
         <ParagraphNum>７</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">第七百二十四条第一項第二号ロの薬事監視専門官のうち一人は、平成三十六年三月三十一日まで置かれるものとする。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">第七百二十四条の関東信越厚生局の薬事監視専門官のうち一人は、令和六年三月三十一日まで置かれるものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="8">
@@ -14684,7 +14997,7 @@
         <ParagraphCaption>（再乱用防止対策官の設置期間の特例）</ParagraphCaption>
         <ParagraphNum>１１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">第七百二十八条第二項第四号ホの再乱用防止対策官は、平成三十六年三月三十一日まで置かれるものとする。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">第七百二十八条第二項第四号ハの再乱用防止対策官は、令和六年三月三十一日まで置かれるものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="12">
@@ -18311,6 +18624,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日厚生労働省令第七二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>

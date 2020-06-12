@@ -1459,7 +1459,7 @@
                 <Item Delete="false" Hide="false" Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">学校運営協議会（地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）第四十七条の六に規定する学校運営協議会をいう。）その他の学校の運営に関する学校と地域住民その他の関係者との連携及び協力に関する制度の企画及び立案並びにこれらの制度の運営に関する指導及び助言に関すること。</Sentence>
+                    <Sentence WritingMode="vertical">学校運営協議会（地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）第四十七条の五に規定する学校運営協議会をいう。）その他の学校の運営に関する学校と地域住民その他の関係者との連携及び協力に関する制度の企画及び立案並びにこれらの制度の運営に関する指導及び助言に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Delete="false" Hide="false" Num="4">
@@ -1986,12 +1986,12 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="28">
-              <ArticleCaption>（特別支援教育企画官及び特別支援教育調査官）</ArticleCaption>
+              <ArticleCaption>（特別支援教育企画官、特別支援教育調査官及び医療的ケア対策専門官）</ArticleCaption>
               <ArticleTitle>第二十八条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">特別支援教育課に、特別支援教育企画官一人及び特別支援教育調査官八人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">特別支援教育課に、特別支援教育企画官一人、特別支援教育調査官八人及び医療的ケア対策専門官一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -2003,7 +2003,13 @@
               <Paragraph Hide="false" Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">特別支援教育調査官は、命を受けて、教育上特別の支援を必要とする幼児、児童及び生徒に対する教育に関する専門的事項についての調査並びに専門的、技術的な指導及び助言（スポーツ庁及び文化庁並びに総合教育政策局並びに健康教育・食育課の所掌に属するものを除く。）に当たる。</Sentence>
+                  <Sentence WritingMode="vertical">特別支援教育調査官は、命を受けて、教育上特別の支援を必要とする幼児、児童及び生徒に対する教育（次項において「特別支援教育」という。）に関する専門的事項についての調査並びに専門的、技術的な指導及び助言（スポーツ庁及び文化庁並びに総合教育政策局並びに健康教育・食育課及び医療的ケア対策専門官の所掌に属するものを除く。）に当たる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">医療的ケア対策専門官は、特別支援教育のうち医療的ケアに関する専門的事項についての指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2297,7 +2303,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">高等教育局に、企画官一人及び視学官四人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">高等教育局に、企画官一人及び視学官三人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -2647,7 +2653,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">学生・留学生課に、企画官、育英奨学専門官及び就職指導専門官それぞれ一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">学生・留学生課に、企画官二人並びに育英奨学専門官及び就職指導専門官それぞれ一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -3182,13 +3188,19 @@
               <Paragraph Hide="false" Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">量子研究推進室に、室長及び量子ビーム利用推進専門官一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">量子研究推進室に、室長並びに量子ビーム利用推進専門官及び放射光施設推進専門官それぞれ一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">量子ビーム利用推進専門官は、光子、イオン、電子、中性子等のビームの利用の推進に関する専門的事項についての企画及び立案に当たる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">放射光施設推進専門官は、放射光施設（特定先端大型研究施設の共用の促進に関する法律（平成六年法律第七十八号）第二条第三項に規定する放射光を使用して研究等を行うための施設をいい、同項に規定する特定放射光施設を除く。）の整備及び利用等の推進に関する専門的事項についての企画及び立案に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -3564,53 +3576,59 @@
               <Paragraph Hide="false" Num="5">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">生命倫理・安全対策室に、室長並びにヒト胚研究対策専門官、ヒト細胞研究対策専門官、医学系研究対策専門官及びゲノム改変研究対策専門官それぞれ一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">生命倫理・安全対策室に、室長並びにヒト胚研究対策専門官、核移植研究対策専門官、ヒト細胞研究対策専門官、医学系研究対策専門官及びゲノム改変研究対策専門官それぞれ一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="6">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">ヒト胚研究対策専門官は、ヒトに関するクローン技術等の規制に関する法律（平成十二年法律第百四十六号）第二条第一項第六号に規定するヒト受精胚及び同法第四条に規定する特定胚に関する研究に関する生命倫理に係る専門的事項についての指導及び助言に当たる。</Sentence>
+                  <Sentence WritingMode="vertical">ヒト胚研究対策専門官は、ヒトに関するクローン技術等の規制に関する法律（平成十二年法律第百四十六号。以下この条において「法」という。）第二条第一項第六号に規定するヒト受精胚及び法第四条に規定する特定胚に関する研究に関する生命倫理に係る専門的事項（核移植研究対策専門官の所掌に属するものを除く。）についての指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="7">
                 <ParagraphNum>７</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">ヒト細胞研究対策専門官は、ヒト幹細胞その他のヒト細胞に関する研究に関する生命倫理に係る専門的事項についての指導及び助言に当たる。</Sentence>
+                  <Sentence WritingMode="vertical">核移植研究対策専門官は、法第二条第一項第九号に規定するヒト胚核移植胚に関する研究及び同項第二十一号に規定する融合（一の細胞の核を他の除核された細胞に移植することに限る。）に関する技術を用いた研究に関する生命倫理に係る専門的事項についての指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="8">
                 <ParagraphNum>８</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">医学系研究対策専門官は、人を対象とする医学系研究に関する生命倫理に係る専門的事項（ゲノム改変研究対策専門官の所掌に属するものを除く。）についての指導及び助言に当たる。</Sentence>
+                  <Sentence WritingMode="vertical">ヒト細胞研究対策専門官は、ヒト幹細胞その他のヒト細胞に関する研究に関する生命倫理に係る専門的事項についての指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="9">
                 <ParagraphNum>９</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">ゲノム改変研究対策専門官は、ゲノムの改変に関する技術を用いた研究に関する生命倫理に係る専門的事項についての指導及び助言に当たる。</Sentence>
+                  <Sentence WritingMode="vertical">医学系研究対策専門官は、人を対象とする医学系研究に関する生命倫理に係る専門的事項（ゲノム改変研究対策専門官の所掌に属するものを除く。）についての指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="10">
                 <ParagraphNum>１０</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">先端医科学研究企画官は、命を受けて、がんその他の悪性新生物等に関する先端的な医科学研究に関する重要事項についての企画及び立案に参画する。</Sentence>
+                  <Sentence WritingMode="vertical">ゲノム改変研究対策専門官は、ゲノムの改変に関する技術を用いた研究に関する生命倫理に係る専門的事項についての指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="11">
                 <ParagraphNum>１１</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">ゲノム研究企画調整官は、命を受けて、ゲノムに関する科学技術に関する研究開発に係る重要事項についての企画及び立案並びに調整に参画する。</Sentence>
+                  <Sentence WritingMode="vertical">先端医科学研究企画官は、命を受けて、がんその他の悪性新生物等に関する先端的な医科学研究に関する重要事項についての企画及び立案に参画する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="12">
                 <ParagraphNum>１２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">生命科学専門官は、生命科学における学術研究の推進に関する専門的事項についての指導及び助言に当たる。</Sentence>
+                  <Sentence WritingMode="vertical">ゲノム研究企画調整官は、命を受けて、ゲノムに関する科学技術に関する研究開発に係る重要事項についての企画及び立案並びに調整に参画する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="13">
                 <ParagraphNum>１３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">生命科学専門官は、生命科学における学術研究の推進に関する専門的事項についての指導及び助言に当たる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="14">
+                <ParagraphNum>１４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">橋渡し研究専門官は、ライフサイエンス等に関する研究開発の成果を医療に応用するための研究開発の推進に関する専門的事項についての指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
@@ -4233,41 +4251,47 @@
             <Paragraph Hide="false" Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">学校体育室に、室長を置く。</Sentence>
+                <Sentence WritingMode="vertical">学校体育室に、室長及び運動部活動改革専門官一人を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">企画官は、命を受けて、政策課の所掌事務に係る重要事項についての企画及び立案に参画する。</Sentence>
+                <Sentence WritingMode="vertical">運動部活動改革専門官は、学校における運動部活動の改革に関する専門的事項についての調査、指導及び助言に当たる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">スポーツ広報戦略専門官は、スポーツ庁の所掌事務に係る広報に関する専門的事項についての企画及び立案並びに援助及び助言に当たる。</Sentence>
+                <Sentence WritingMode="vertical">企画官は、命を受けて、政策課の所掌事務に係る重要事項についての企画及び立案に参画する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">スポーツ動向調査官は、スポーツに関する内外の動向に係る専門的事項についての調査並びに援助及び助言に当たる。</Sentence>
+                <Sentence WritingMode="vertical">スポーツ広報戦略専門官は、スポーツ庁の所掌事務に係る広報に関する専門的事項についての企画及び立案並びに援助及び助言に当たる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="8">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">武道推進調査官は、武道の振興に関する専門的事項についての調査、指導及び助言並びに連絡調整に当たる。</Sentence>
+                <Sentence WritingMode="vertical">スポーツ動向調査官は、スポーツに関する内外の動向に係る専門的事項についての調査並びに援助及び助言に当たる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="9">
               <ParagraphNum>９</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">教科調査官は、学校における体育及び保健教育の教育課程の基準の設定に関する調査並びに教育課程の基準に係る専門的、技術的な指導及び助言に当たる。</Sentence>
+                <Sentence WritingMode="vertical">武道推進調査官は、武道の振興に関する専門的事項についての調査、指導及び助言並びに連絡調整に当たる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="10">
               <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">教科調査官は、学校における体育及び保健教育の教育課程の基準の設定に関する調査並びに教育課程の基準に係る専門的、技術的な指導及び助言に当たる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="11">
+              <ParagraphNum>１１</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">スポーツ振興投票専門官は、スポーツ振興投票に関する専門的事項についての調査、指導及び助言に当たる。</Sentence>
               </ParagraphSentence>
@@ -5413,6 +5437,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令中、第一条の規定は平成三十一年四月一日から、第二条の規定は平成三十一年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日文部科学省令第一〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

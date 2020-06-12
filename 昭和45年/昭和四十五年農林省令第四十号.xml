@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="40" Year="45">
+<Law DataInfo="200107e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="40" Year="45">
   <LawNum>昭和四十五年農林省令第四十号</LawNum>
   <LawBody>
     <LawTitle>林業種苗法施行規則</LawTitle>
@@ -491,8 +491,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">前条の規定により農林水産大臣に申請する場合における証明申請手数料は、証明申請一件につき四千円に次に掲げる額を合算した額に相当する収入印紙を申請書にはつて納付するものとする。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して申請をするときは、当該申請により得られた納付情報により、現金をもって納付するものとする。</Sentence>
+            <Sentence WritingMode="vertical">前条の規定により農林水産大臣に申請する場合における証明申請手数料は、証明申請一件につき四千円に次に掲げる額を合算した額に相当する収入印紙を申請書に貼つて納付するものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1003,6 +1002,15 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一六日農林水産省令第四七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行の日（令和元年十二月十六日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <TableStruct>
@@ -1060,7 +1068,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号　（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_001.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1068,7 +1076,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第２号　（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_002.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1076,7 +1084,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第３号　（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_003.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1084,7 +1092,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第４号　（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_004.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1092,7 +1100,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第５号　（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_005.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1100,7 +1108,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第６号　（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_006.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1108,7 +1116,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第７号　（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_007.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1116,7 +1124,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第８号　（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_008.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1124,7 +1132,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第９号　（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_009.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1132,7 +1140,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１０号　（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_010.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1140,7 +1148,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１１号　（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_011.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1148,7 +1156,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１２号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_012.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1156,7 +1164,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１３号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_013.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1164,7 +1172,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１４号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_014.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1173,7 +1181,7 @@
       <RelatedArticleNum>（第３２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S45F00601000040_1907040907_015.pdf"/>
+          <Fig src="./pict/S45F00601000040_2003311703_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

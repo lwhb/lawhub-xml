@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="28">
+<Law DataInfo="200604e03k04m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="28">
   <LawNum>平成二十八年経済産業省・国土交通省令第一号</LawNum>
   <LawBody>
     <LawTitle>建築物エネルギー消費性能基準等を定める省令</LawTitle>
@@ -85,7 +85,7 @@
                   <Subitem3 Delete="false" Hide="false" Num="1">
                     <Subitem3Title>（ｉ）</Subitem3Title>
                     <Subitem3Sentence>
-                      <Sentence WritingMode="vertical">国土交通大臣が定める方法により算出した単位住戸（住宅部分の一の住戸をいう。以下同じ。）の外皮平均熱貫流率（単位住戸の内外の温度差一度当たりの総熱損失量（換気による熱損失量を除く。）を外皮（外気等（外気又は外気に通じる床裏、小屋裏、天井裏その他これらに類する建築物の部分をいう。）に接する天井（小屋裏又は天井裏が外気に通じていない場合にあっては、屋根）、壁、床及び開口部並びに当該単位住戸以外の建築物の部分に接する部分をいう。以下（ｉ）において同じ。）の面積で除した数値をいう。以下同じ。）及び冷房期（一年間のうち一日の最高気温が二十三度以上となる全ての期間をいう。 以下同じ。）の平均日射熱取得率（日射量に対する室内に侵入する日射量の割合を外皮の面積により加重平均した数値をいう。以下同じ。）が、次の表の上欄に掲げる地域の区分に応じ、それぞれ同表の中欄及び下欄に掲げる数値以下であること。</Sentence>
+                      <Sentence WritingMode="vertical">国土交通大臣が定める方法により算出した単位住戸（住宅部分の一の住戸をいう。以下同じ。）の外皮平均熱貫流率（単位住戸の内外の温度差一度当たりの総熱損失量（換気による熱損失量を除く。）を外皮（外気等（外気又は外気に通じる床裏、小屋裏、天井裏その他これらに類する建築物の部分をいう。）に接する天井（小屋裏又は天井裏が外気に通じていない場合にあっては、屋根）、壁、床及び開口部並びに当該単位住戸以外の建築物の部分に接する部分をいう。以下（ｉ）において同じ。）の面積で除した数値をいう。以下同じ。）及び冷房期（一年間のうち一日の最高気温が二十三度以上となる全ての期間をいう。以下同じ。）の平均日射熱取得率（日射量に対する室内に侵入する日射量の割合を外皮の面積により加重平均した数値をいう。以下同じ。）が、次の表の上欄に掲げる地域の区分に応じ、それぞれ同表の中欄及び下欄に掲げる数値以下であること。</Sentence>
                     </Subitem3Sentence>
                     <TableStruct>
                       <Table WritingMode="vertical">
@@ -185,7 +185,7 @@
                             <Sentence WritingMode="vertical">―</Sentence>
                           </TableColumn>
                           <TableColumn Align="right" BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">三・二</Sentence>
+                            <Sentence WritingMode="vertical">六・七</Sentence>
                           </TableColumn>
                         </TableRow>
                       </Table>
@@ -294,7 +294,7 @@
                             <Sentence WritingMode="vertical">―</Sentence>
                           </TableColumn>
                           <TableColumn Align="right" BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                            <Sentence WritingMode="vertical">二・四</Sentence>
+                            <Sentence WritingMode="vertical">二・八</Sentence>
                           </TableColumn>
                         </TableRow>
                       </Table>
@@ -414,7 +414,8 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence WritingMode="vertical">ET＝（EAC＋EV＋EL＋EW＋EEV－ES＋EM）×１０－３</Sentence>
+                <Sentence WritingMode="vertical">ET＝（EAC＋EV＋EL＋EW＋EEV－ES＋EM）×１０<Sup>－３</Sup>
+</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -544,7 +545,8 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence WritingMode="vertical">EST＝（ESAC＋ESV＋ESL＋ESW＋ESEV＋EM）×１０－３</Sentence>
+                <Sentence WritingMode="vertical">EST＝（ESAC＋ESV＋ESL＋ESW＋ESEV＋EM）×１０<Sup>－３</Sup>
+</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -661,7 +663,8 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence WritingMode="vertical">ET＝（EH＋EC＋EV＋EL＋EW－ES＋EM）×１０－３</Sentence>
+                <Sentence WritingMode="vertical">ET＝（EH＋EC＋EV＋EL＋EW－ES＋EM）×１０<Sup>－３</Sup>
+</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -815,7 +818,8 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence WritingMode="vertical">EST＝（ESH＋ESC＋ESV＋ESL＋ESW＋EM）×１０－３</Sentence>
+                <Sentence WritingMode="vertical">EST＝（ESH＋ESC＋ESV＋ESL＋ESW＋EM）×１０<Sup>－３</Sup>
+</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1022,7 +1026,8 @@
               </ItemSentence>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.９＋EM｝×１０－３</Sentence>
+                  <Sentence WritingMode="vertical">EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.９＋EM｝×１０<Sup>－３</Sup>
+</Sentence>
                 </ListSentence>
               </List>
               <List>
@@ -1036,7 +1041,10 @@
                     <Sentence WritingMode="vertical">EST</Sentence>
                   </Column>
                   <Column LineBreak="false" Num="2">
-                    <Sentence WritingMode="vertical">特定建築主基準一次エネルギー消費量（単位　一年につきギガジュール）</Sentence>
+                    <Sentence>特定建築主基準一次エネルギー消費量（単位</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="3">
+                    <Sentence>一年につきギガジュール）</Sentence>
                   </Column>
                 </ListSentence>
               </List>
@@ -1131,7 +1139,8 @@
               </ItemSentence>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.８５＋EM｝×１０－３</Sentence>
+                  <Sentence WritingMode="vertical">EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.８５＋EM｝×１０<Sup>－３</Sup>
+</Sentence>
                 </ListSentence>
               </List>
             </Item>
@@ -1183,7 +1192,8 @@
               </ItemSentence>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.８＋EM｝×１０－３</Sentence>
+                  <Sentence WritingMode="vertical">EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.８＋EM｝×１０<Sup>－３</Sup>
+</Sentence>
                 </ListSentence>
               </List>
               <List>
@@ -1202,7 +1212,7 @@
                   <Column LineBreak="false" Num="3">
                     <Sentence WritingMode="vertical">一年につきギガジュール）</Sentence>
                   </Column>
-                </ListSentence>
+               </ListSentence>
               </List>
               <List>
                 <ListSentence>
@@ -1278,7 +1288,7 @@
                     <Sentence WritingMode="vertical">第五条第一項のその他一次エネルギー消費量（単位</Sentence>
                   </Column>
                   <Column LineBreak="false" Num="3">
-                    <Sentence WritingMode="vertical">一年につきメガジュール）</Sentence>
+                    <Sentence WritingMode="vertical">一年につきメガジュール））</Sentence>
                   </Column>
                 </ListSentence>
               </List>
@@ -1295,7 +1305,8 @@
               </ItemSentence>
               <List>
                 <ListSentence>
-                  <Sentence WritingMode="vertical">EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.７５＋EM｝×１０－３</Sentence>
+                  <Sentence WritingMode="vertical">EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.７５＋EM｝×１０<Sup>－３</Sup>
+</Sentence>
                 </ListSentence>
               </List>
             </Item>
@@ -1307,7 +1318,8 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence WritingMode="vertical">EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.９＋EM｝×１０－３</Sentence>
+                <Sentence WritingMode="vertical">EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.９＋EM｝×１０<Sup>－３</Sup>
+</Sentence>
               </ListSentence>
             </List>
           </Paragraph>
@@ -1343,7 +1355,7 @@
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第三条第一項及び第二項の規定は、前項第一号の共用部分の特定建設工事業者基準一次エネルギー消費量について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）＋EM｝×10-3」とあるのは「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×0.9＋EM｝×10-3」とする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）＋EM｝×10<Sup>-3</Sup>」とあるのは「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×0.9＋EM｝×10<Sup>-3</Sup>」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1485,7 +1497,8 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence WritingMode="vertical">EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×０.８＋EM｝×１０－３</Sentence>
+                <Sentence WritingMode="vertical">EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×０.８＋EM｝×１０<Sup>－３</Sup>
+</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1596,7 +1609,8 @@
             </ParagraphSentence>
             <List>
               <ListSentence>
-                <Sentence WritingMode="vertical">EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.９＋EM｝×１０－３</Sentence>
+                <Sentence WritingMode="vertical">EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.９＋EM｝×１０<Sup>－３</Sup>
+</Sentence>
               </ListSentence>
             </List>
             <List>
@@ -1728,7 +1742,7 @@
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前条の規定は、前項第一号の共用部分の誘導基準一次エネルギー消費量について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同条中「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×０.８＋EM｝×１０－３」とあるのは「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×０.９＋EM｝×１０－３」とする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条中「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×０.８＋EM｝×１０<Sup>－３</Sup>」とあるのは「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×０.９＋EM｝×１０<Sup>－３</Sup>」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1771,7 +1785,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令の施行の際現に存する建築物の非住宅部分について、第三条及び第十一条の規定を適用する場合においては、当分の間、第三条第一項中「EST＝（ESAC＋ESV＋ESL＋ESW＋ESEV＋EM）×１０－３」とあるのは「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×１.１＋EM｝×１０－３」と、第十一条中「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×０.８＋EM｝×１０－３」とあるのは「EST＝（ESAC＋ESV＋ESL＋ESW＋ESEV＋EM）×１０－３」とする。</Sentence>
+            <Sentence WritingMode="vertical">この省令の施行の際現に存する建築物の非住宅部分について、第三条及び第十一条の規定を適用する場合においては、当分の間、第三条第一項中「EST＝（ESAC＋ESV＋ESL＋ESW＋ESEV＋EM）×１０<Sup>－３</Sup>」とあるのは「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×１.１＋EM｝×１０<Sup>－３</Sup>」と、第十一条中「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×０.８＋EM｝×１０<Sup>－３</Sup>」とあるのは「EST＝（ESAC＋ESV＋ESL＋ESW＋ESEV＋EM）×１０<Sup>－３</Sup>」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -1792,7 +1806,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令の施行の際現に存する建築物の住宅部分について、第五条及び第十二条の規定を適用する場合においては、当分の間、第五条第一項中「EST＝（ESH＋ESC＋ESV＋ESL＋ESW＋EM）×１０－３」とあるのは「EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×１.１＋EM｝×１０－３」と、同条第四項中「準用する。」とあるのは「準用する。この場合において、同条第一項中「EST＝（ESAC＋ESV＋ESL＋ESW＋ESEV＋EM）×１０－３」とあるのは、「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×１.１＋EM｝×１０－３」とする。」と、第十二条第一項中「EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.９＋EM｝×１０－３」とあるのは「EST＝（ESH＋ESC＋ESV＋ESL＋ESW＋EM）×１０－３」と、同条第三項中「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×０.９＋EM｝×１０－３」とあるのは「EST＝（ESAC＋ESV＋ESL＋ESW＋ESEV＋EM）×１０－３」とする。</Sentence>
+            <Sentence WritingMode="vertical">この省令の施行の際現に存する建築物の住宅部分について、第五条及び第十二条の規定を適用する場合においては、当分の間、第五条第一項中「EST＝（ESH＋ESC＋ESV＋ESL＋ESW＋EM）×１０<Sup>－３</Sup>」とあるのは「EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×１.１＋EM｝×１０<Sup>－３</Sup>」と、同条第四項中「準用する。」とあるのは「準用する。この場合において、同条第一項中「EST＝（ESAC＋ESV＋ESL＋ESW＋ESEV＋EM）×１０<Sup>－３</Sup>」とあるのは、「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×１.１＋EM｝×１０<Sup>－３</Sup>」とする。」と、第十二条第一項中「EST＝｛（ESH＋ESC＋ESV＋ESL＋ESW）×０.９＋EM｝×１０<Sup>－３</Sup>」とあるのは「EST＝（ESH＋ESC＋ESV＋ESL＋ESW＋EM）×１０<Sup>－３</Sup>」と、同条第三項中「EST＝｛（ESAC＋ESV＋ESL＋ESW＋ESEV）×０.９＋EM｝×１０<Sup>－３</Sup>」とあるのは「EST＝（ESAC＋ESV＋ESL＋ESW＋ESEV＋EM）×１０<Sup>－３</Sup>」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
