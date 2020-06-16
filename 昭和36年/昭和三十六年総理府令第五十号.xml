@@ -2220,13 +2220,14 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">加工事業者は、濃縮施設及びその関連施設から構成される加工施設を使用している場合には、当該加工施設の核燃料物質計量管理区域において、年十三回を限度として原子力規制委員会が適当と認める日に行う保障措置検査を受けなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">加工事業者は、濃縮施設及びその関連施設から構成される加工施設を使用している場合には、当該加工施設の核燃料物質計量管理区域において、年十三回を限度として（原子力規制委員会が保障措置協定に基づく保障措置を実施するため必要と認める場合は、当該限度を超えて）原子力規制委員会が適当と認める日に行う保障措置検査を受けなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">当該限度を超える場合にあっては、保障措置検査の回数は、おおむね年平均十三回を超えないものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">使用者は、前項に規定する加工施設と密接な関連を有する使用施設等（実行値の合計が一以上のウラン及びその化合物を取り扱うものに限る。）を使用している場合には、当該使用施設等の核燃料物質計量管理区域において、年十三回を限度として原子力規制委員会が適当と認める日に行う保障措置検査を受けなければならない。</Sentence>
+              <Sentence WritingMode="vertical">使用者は、前項に規定する加工施設と密接な関連を有する使用施設等（実効値の合計が一以上のウラン及びその化合物を取り扱うものに限る。）を使用している場合には、当該使用施設等の核燃料物質計量管理区域において、年十三回を限度として原子力規制委員会が適当と認める日に行う保障措置検査を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3">
@@ -2547,8 +2548,8 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">特定原子力事業者等は、特定原子力施設が存在するサイトにおいて、年六回を限度として、原子力規制委員会が適当と認める日に行う保障措置検査を受けなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、原子力規制委員会が保障措置協定に基づく保障措置を実施するため必要と認める場合は、この限りでない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">特定原子力事業者等は、特定原子力施設が存在するサイトにおいて、年六回を限度として（原子力規制委員会が保障措置協定に基づく保障措置を実施するため必要と認める場合は、当該限度を超えて）原子力規制委員会が適当と認める日に行う保障措置検査を受けなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">当該限度を超える場合にあっては、保障措置検査の回数は、おおむね年平均六回を超えないものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -4708,12 +4709,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二六日原子力規制委員会規則第一四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_001.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4722,7 +4732,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_002.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4731,7 +4741,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_003.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4740,7 +4750,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_004.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4749,7 +4759,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_005.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4758,7 +4768,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_006.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4767,7 +4777,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_007.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4776,7 +4786,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_008.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4785,7 +4795,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_009.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4794,7 +4804,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_010.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4803,7 +4813,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_011.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4812,7 +4822,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_012.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4821,7 +4831,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_013.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4830,7 +4840,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_014.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4839,7 +4849,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_015.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4848,7 +4858,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_016.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4857,7 +4867,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_017.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4866,7 +4876,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_018.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4875,7 +4885,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_019.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4884,7 +4894,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_020.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4893,7 +4903,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_021.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4902,7 +4912,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_022.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4911,7 +4921,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_023.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4920,7 +4930,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_024.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4929,7 +4939,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_025.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4938,7 +4948,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_026.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4946,7 +4956,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第２７（第７条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_027.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4955,7 +4965,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_028.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4964,7 +4974,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_029.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4973,7 +4983,7 @@
       <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S36F03101000050_2005171705_030.pdf"/>
+          <Fig src="./pict/S36F03101000050_2006081606_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

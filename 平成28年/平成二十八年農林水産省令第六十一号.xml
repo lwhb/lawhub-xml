@@ -77,7 +77,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">次に掲げるもの（以下「移動制限植物等」という。）は、植物防疫官がその行う検査の結果ジャガイモシロシストセンチュウのまん延を防止するための適切な措置が講じられていると認める旨を示す表示を付したものでなければ、防除区域以外の地域に移動させてはならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、試験研究の用に供するため農林水産大臣の許可を受けた場合、及び調査を行うため、植物防疫官（植物防疫法第十九条第二項の規定に基づき農林水産大臣が北海道知事又は網走市長に対し調査に関する協力指示書を交付した場合にあっては、植物防疫官又は北海道知事若しくは網走市長の指定する職員）が移動制限植物等を防除区域以外の地域へ移動しようとする場合には、この限りでない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、試験研究の用に供するため農林水産大臣の許可を受けた場合、及び調査を行うため、植物防疫官（植物防疫法第十九条第二項の規定に基づき農林水産大臣が北海道知事、網走市長、清里町長又は斜里町長に対し調査に関する協力指示書を交付した場合にあっては、植物防疫官又は北海道知事、網走市長、清里町長若しくは斜里町長の指定する職員）が移動制限植物等を防除区域以外の地域へ移動しようとする場合には、この限りでない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -151,7 +151,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">防除区域内に存在する移動制限植物等のうちジャガイモシロシストセンチュウが付着し、又は付着しているおそれがあるもので、ジャガイモシロシストセンチュウのまん延を防止するため必要があると認めて植物防疫官が指定するものを所有し、又は管理する者であって、植物防疫官によりこれを廃棄すべきことを命ぜられた者は、植物防疫官（植物防疫法第十九条第二項の規定に基づき農林水産大臣が北海道知事又は網走市長に対し廃棄の措置に関する協力指示書を交付した場合にあっては、植物防疫官又は北海道知事若しくは網走市長の指定する職員）の指示に従い、これを廃棄しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">防除区域内に存在する移動制限植物等のうちジャガイモシロシストセンチュウが付着し、又は付着しているおそれがあるもので、ジャガイモシロシストセンチュウのまん延を防止するため必要があると認めて植物防疫官が指定するものを所有し、又は管理する者であって、植物防疫官によりこれを廃棄すべきことを命ぜられた者は、植物防疫官（植物防疫法第十九条第二項の規定に基づき農林水産大臣が北海道知事、網走市長、清里町長又は斜里町長に対し廃棄の措置に関する協力指示書を交付した場合にあっては、植物防疫官又は北海道知事、網走市長、清里町長若しくは斜里町長の指定する職員）の指示に従い、これを廃棄しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -198,21 +198,66 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月一三日農林水産省令第三六号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年六月十二日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表（第二条関係）</AppdxTableTitle>
-      <Item Delete="false" Hide="false" Num="1">
-        <ItemTitle/>
-        <ItemSentence>
-          <Sentence WritingMode="vertical">北海道網走市稲富、音根内、昭和、豊郷、中園、鱒浦、実豊、藻琴及び山里</Sentence>
-        </ItemSentence>
-      </Item>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn Align="center" BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="middle">
+              <Sentence WritingMode="vertical">都道府県</Sentence>
+            </TableColumn>
+            <TableColumn Align="center" BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="solid" Valign="middle">
+              <Sentence WritingMode="vertical">市町村</Sentence>
+            </TableColumn>
+            <TableColumn Align="center" BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="solid" Valign="middle">
+              <Sentence WritingMode="vertical">防除区域</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none" rowspan="3">
+              <Sentence WritingMode="vertical">北海道</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="none">
+              <Sentence WritingMode="vertical">網走市</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="none">
+              <Sentence WritingMode="vertical">稲富、音根内、昭和、豊郷、中園、鱒浦、実豊、藻琴及び山里</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="none">
+              <Sentence WritingMode="vertical">斜里郡清里町</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="none">
+              <Sentence WritingMode="vertical">神威</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="none">
+              <Sentence WritingMode="vertical">斜里郡斜里町</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="none">
+              <Sentence WritingMode="vertical">以久科北、川上、豊倉、美咲及び来運</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
     </AppdxTable>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第４条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H28F17001000061_2003021703_001.pdf"/>
+          <Fig src="./pict/H28F17001000061_2005212005_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -221,7 +266,7 @@
       <RelatedArticleNum>（第４条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H28F17001000061_2003021703_002.pdf"/>
+          <Fig src="./pict/H28F17001000061_2005212005_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -230,7 +275,7 @@
       <RelatedArticleNum>（第４条第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H28F17001000061_2003021703_003.pdf"/>
+          <Fig src="./pict/H28F17001000061_2005212005_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -239,7 +284,7 @@
       <RelatedArticleNum>（第５条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H28F17001000061_2003021703_004.pdf"/>
+          <Fig src="./pict/H28F17001000061_2005212005_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -248,7 +293,7 @@
       <RelatedArticleNum>（第５条第４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H28F17001000061_2003021703_005.pdf"/>
+          <Fig src="./pict/H28F17001000061_2005212005_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -257,7 +302,7 @@
       <RelatedArticleNum>（第６条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H28F17001000061_2003021703_006.pdf"/>
+          <Fig src="./pict/H28F17001000061_2005212005_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -266,7 +311,7 @@
       <RelatedArticleNum>（第６条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H28F17001000061_2003021703_007.pdf"/>
+          <Fig src="./pict/H28F17001000061_2005212005_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="83" Year="01">
+<Law DataInfo="190121e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="83" Year="01">
   <LawNum>平成元年法律第八十三号</LawNum>
   <LawBody>
     <LawTitle>貨物自動車運送事業法</LawTitle>
@@ -208,7 +208,7 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence>許可を受けようとする者が営業に関し成年者と同一の行為能力を有しない未成年者である場合において、その法定代理人が前各号（第三号を除く。）又は次号のいずれかに該当するものであるとき。</Sentence>
+                <Sentence>許可を受けようとする者が営業に関し成年者と同一の行為能力を有しない未成年者又は成年被後見人である場合において、その法定代理人が前各号（第三号を除く。）又は次号のいずれかに該当するものであるとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
@@ -2193,28 +2193,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="1_3">
-        <ArticleCaption>（標準的な運賃）</ArticleCaption>
-        <ArticleTitle>第一条の三</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>平成三十六年三月三十一日までの間、国土交通大臣は、事業用自動車の運転者の労働条件を改善するとともに、一般貨物自動車運送事業の健全な運営を確保し、及びその担う貨物流通の機能の維持向上を図るため、一般貨物自動車運送事業の能率的な経営の下における適正な原価及び適正な利潤を基準として、標準的な運賃を定めることができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>国土交通大臣は、前項の規定による標準的な運賃を定めたときは、遅滞なく、これを告示しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>国土交通大臣は、第一項の規定による標準的な運賃の設定については、運輸審議会に諮らなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="2">
         <ArticleCaption>（経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
@@ -3093,57 +3071,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>施行日が成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律（平成三十年法律第　　　号）附則第一条第一号に掲げる規定の施行の日前である場合には、同法第百四十九条第六号中「第五条第三号」とあるのは、「第五条第七号」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true" Type="Amend">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Delete="false" Hide="false" Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
-          </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">第四十条、第五十九条、第六十一条、第七十五条（児童福祉法第三十四条の二十の改正規定に限る。）、第八十五条、第百二条、第百七条（民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律第二十六条の改正規定に限る。）、第百十一条、第百四十三条、第百四十九条、第百五十二条、第百五十四条（不動産の鑑定評価に関する法律第二十五条第六号の改正規定に限る。）及び第百六十八条並びに次条並びに附則第三条及び第六条の規定</Sentence>
-              </Column>
-              <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">公布の日</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-          <Item Num="2:4">
-            <ItemTitle>二から四まで</ItemTitle>
-            <ItemSentence>
-              <Sentence>略</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="2">
-        <ArticleCaption>（行政庁の行為等に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">この法律（前条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行の日前に、この法律による改正前の法律又はこれに基づく命令の規定（欠格条項その他の権利の制限に係る措置を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="3">
-        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

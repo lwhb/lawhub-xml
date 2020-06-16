@@ -75,14 +75,14 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">助成勘定は、その内訳として、一般経理、補助金経理、寄付金経理及び学術研究振興基金経理の各経理単位を設け、当該勘定に係る貸借対照表及び損益計算書に各経理単位の内訳を記載した書類を添付するものとする。</Sentence>
+            <Sentence WritingMode="vertical">助成勘定は、その内訳として、一般経理、補助金経理、寄付金経理、学術研究振興基金経理及び減免資金経理の各経理単位を設け、当該勘定に係る貸借対照表及び損益計算書に各経理単位の内訳を記載した書類を添付するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">前項の各経理における事業団の運営に必要な経費は、一般経理において一括して経理するものとする。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、学術研究振興基金経理における事業団の運営に必要な経費（人件費を除く。）については、この限りでない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、学術研究振興基金経理における事業団の運営に必要な経費（人件費を除く。）及び減免資金経理における事業団の運営に必要な経費（当該経費に充てるために国から交付された資金によるものに限る。）については、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="4">
@@ -1915,6 +1915,15 @@
           </Item>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二三日文部科学省令第四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

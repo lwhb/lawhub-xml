@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200508e01k01m02" Era="Showa" Lang="ja" LawType="Act" Num="180" Year="26">
+<Law DataInfo="200612e80k10m03" Era="Showa" Lang="ja" LawType="Act" Num="180" Year="26">
   <LawNum>昭和二十六年法律第百八十号</LawNum>
   <LawBody>
     <LawTitle>国土調査法</LawTitle>
@@ -682,6 +682,16 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="23_5">
+          <ArticleCaption>（報告の徴収等）</ArticleCaption>
+          <ArticleTitle>第二十三条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国土調査を実施する者は、その実施のために必要がある場合においては、当該国土調査に係る土地の所有者その他の利害関係人に対し、当該国土調査の実施に必要な事項に関する報告又は資料の提出を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="24">
           <ArticleCaption>（立入り）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
@@ -829,6 +839,35 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="31_2">
+          <ArticleCaption>（所有者等関係情報の利用及び提供）</ArticleCaption>
+          <ArticleTitle>第三十一条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>都道府県知事又は市町村長は、国土調査の実施に必要な限度で、その保有する当該国土調査に係る土地の所有者その他の利害関係人の氏名又は名称、住所その他の所有者その他の利害関係人に関する情報（次項及び第三項において「所有者等関係情報」という。）を、その保有に当たつて特定された利用目的以外の目的のために内部で利用することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国土調査を実施する者は、その実施のために必要がある場合においては、関係する地方公共団体の長その他の者に対して、当該国土調査に係る土地の所有者等関係情報の提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">前項の求めを受けた者は、国の機関及び地方公共団体以外の者に対し所有者等関係情報を提供しようとするときは、あらかじめ、当該所有者等関係情報を提供することについて第一項に規定する所有者その他の利害関係人の同意を得なければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、当該求めを受けた者が地方公共団体の長である場合において、当該地方公共団体の条例に特別の定めがあるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の同意は、その所在が判明している者に対して求めれば足りる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="32">
           <ArticleCaption>（分割又は合併があつたものとして行う地籍調査）</ArticleCaption>
           <ArticleTitle>第三十二条</ArticleTitle>
@@ -852,6 +891,22 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence>前項の登記の手続に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32_3">
+          <ArticleCaption>（地籍調査を行う地方公共団体等による登記簿の附属書類等の閲覧請求の特例）</ArticleCaption>
+          <ArticleTitle>第三十二条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第五条第四項若しくは第六条第三項の規定による指定を受け、又は第六条の三第二項の規定により定められた事業計画に基づいて地籍調査を行う地方公共団体又は土地改良区等は、不動産登記法第百二十一条第二項ただし書の規定にかかわらず、当該地籍調査に係る土地に関する同項の登記簿の附属書類の閲覧を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項に規定する地方公共団体又は土地改良区等は、不動産登記法第百四十九条第二項ただし書の規定にかかわらず、その行う地籍調査に係る土地に関する同項の筆界特定手続記録の閲覧を請求することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -950,7 +1005,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>第二十二条の二又は第二十三条の規定により報告又は資料の提出を求められた場合において、報告若しくは資料の提出をせず、又は虚偽の記載をした報告をし、若しくは虚偽の資料の提出をした者</Sentence>
+                <Sentence>第二十二条の二、第二十三条又は第二十三条の五の規定により報告又は資料の提出を求められた場合において、報告若しくは資料の提出をせず、又は虚偽の記載をした報告をし、若しくは虚偽の資料の提出をした者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -1517,6 +1572,13 @@
             </Column>
           </ItemSentence>
         </Item>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（国土調査法の一部改正に伴う経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>前項第二号に掲げる規定の施行の日から同項第三号に掲げる規定の施行の日の前日までの間における第三条の規定による改正後の国土調査法第三十二条の三第一項の規定の適用については、同項中「不動産登記法」とあるのは、「不動産登記法（平成十六年法律第百二十三号）」とする。</Sentence>
+        </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
   </LawBody>
