@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200525e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="20">
+<Law DataInfo="200106e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="20">
   <LawNum>平成二十年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号</LawNum>
   <LawBody>
     <LawTitle>犯罪による収益の移転防止に関する法律施行規則</LawTitle>
@@ -521,7 +521,7 @@
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該顧客等又はその代表者等から当該顧客等の本人確認書類（次条に規定する書類をいう。以下同じ。）のうち同条第一号又は第四号に定めるもの（同条第一号ハからホまでに掲げるものを除く。ホ及びヘにおいて「写真付き本人確認書類」という。）の提示（同条第一号ロに掲げる書類（一を限り発行又は発給されたものを除く。ロ及びハにおいて同じ。）の代表者等からの提示を除く。）を受ける方法</Sentence>
+                <Sentence WritingMode="vertical">当該顧客等又はその代表者等から当該顧客等の本人確認書類（次条に規定する書類をいう。以下同じ。）のうち同条第一号又は第四号に定めるもの（同条第一号ハからホまでに掲げるものを除く。以下「写真付き本人確認書類」という。）の提示（同条第一号ロに掲げる書類（一を限り発行又は発給されたものを除く。ロ及びハにおいて同じ。）の代表者等からの提示を除く。）を受ける方法</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
@@ -533,7 +533,7 @@
             <Subitem1 Delete="false" Hide="false" Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該顧客等若しくはその代表者等から当該顧客等の本人確認書類のうち次条第一号ハに掲げるもののいずれか二の書類の提示を受ける方法又は同号ハに掲げる書類及び同号ロ、ニ若しくはホに掲げる書類若しくは当該顧客等の現在の住居の記載がある補完書類（次項に規定する補完書類をいう。ニにおいて同じ。）の提示（同号ロに掲げる書類の提示にあっては、当該書類の代表者等からの提示に限る。）を受ける方法</Sentence>
+                <Sentence WritingMode="vertical">当該顧客等若しくはその代表者等から当該顧客等の本人確認書類のうち次条第一号ハに掲げるもののいずれか二の書類の提示を受ける方法又は同号ハに掲げる書類及び同号ロ、ニ若しくはホに掲げる書類若しくは当該顧客等の現在の住居の記載がある補完書類（次項に規定する補完書類をいう。ニ及びリにおいて同じ。）の提示（同号ロに掲げる書類の提示にあっては、当該書類の代表者等からの提示に限る。）を受ける方法</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="4">
@@ -551,7 +551,7 @@
             <Subitem1 Delete="false" Hide="false" Num="6">
               <Subitem1Title>ヘ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該顧客等又はその代表者等から、特定事業者が提供するソフトウェアを使用して、本人確認用画像情報（当該顧客等又はその代表者等に当該ソフトウェアを使用して撮影をさせた当該顧客等の容貌の画像情報をいう。）の送信を受けるとともに、当該顧客等又はその代表者等に当該顧客等の写真付き本人確認書類（氏名、住居、生年月日及び写真の情報が記録されている半導体集積回路（半導体集積回路の回路配置に関する法律（昭和六十年法律第四十三号）第二条第一項に規定する半導体集積回路をいう。以下同じ。）が組み込まれたものに限る。）に組み込まれた半導体集積回路に記録された当該情報の送信を受ける方法</Sentence>
+                <Sentence WritingMode="vertical">当該顧客等又はその代表者等から、特定事業者が提供するソフトウェアを使用して、本人確認用画像情報（当該顧客等又はその代表者等に当該ソフトウェアを使用して撮影をさせた当該顧客等の容貌の画像情報をいう。）の送信を受けるとともに、当該顧客等又はその代表者等から当該顧客等の写真付き本人確認書類（氏名、住居、生年月日及び写真の情報が記録されている半導体集積回路（半導体集積回路の回路配置に関する法律（昭和六十年法律第四十三号）第二条第一項に規定する半導体集積回路をいう。以下同じ。）が組み込まれたものに限る。）に組み込まれた半導体集積回路に記録された当該情報の送信を受ける方法</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="7">
@@ -575,29 +575,53 @@
             <Subitem1 Delete="false" Hide="false" Num="8">
               <Subitem1Title>チ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該顧客等又はその代表者等から当該顧客等の本人確認書類のうち次条第一号若しくは第四号に定めるもの又はその写しの送付を受けるとともに、当該本人確認書類又はその写しに記載されている当該顧客等の住居に宛てて、取引関係文書を書留郵便等により、転送不要郵便物等として送付する方法</Sentence>
+                <Sentence WritingMode="vertical">当該顧客等又はその代表者等から当該顧客等の本人確認書類のうち次条第一号若しくは第四号に定めるもの（以下チ並びにリ及びヌにおいて単に「本人確認書類」という。）の送付を受け、又は当該顧客等の本人確認書類（氏名、住居及び生年月日の情報が記録されている半導体集積回路が組み込まれたものに限る。）に組み込まれた半導体集積回路に記録された当該情報若しくは本人確認用画像情報（当該顧客等又はその代表者等に特定事業者が提供するソフトウェアを使用して撮影をさせた当該顧客等の本人確認書類（次条第一号イからハまでに掲げるもののうち一を限り発行又は発給されたものに限る。）の画像情報であって、当該本人確認書類に記載されている氏名、住居及び生年月日並びに当該本人確認書類の厚みその他の特徴を確認することができるものをいう。）の送信（当該本人確認用画像情報にあっては、当該ソフトウェアを使用した送信に限る。）を受けるとともに、当該本人確認書類に記載され、又は当該情報に記録されている当該顧客等の住居に宛てて、取引関係文書を書留郵便等により、転送不要郵便物等として送付する方法</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="9">
               <Subitem1Title>リ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">その取扱いにおいて名宛人本人若しくは差出人の指定した名宛人に代わって受け取ることができる者に限り交付する郵便又はこれに準ずるもの（特定事業者に代わって住居を確認し、本人確認書類の提示を受け、並びに第二十条第一項第一号、第三号（括弧書を除く。）及び第十六号に掲げる事項を当該特定事業者に伝達する措置がとられているものに限る。）により、当該顧客等に対して、取引関係文書を送付する方法</Sentence>
+                <Sentence WritingMode="vertical">当該顧客等又はその代表者等から当該顧客等の現在の住居の記載がある本人確認書類のいずれか二の書類の写しの送付を受け、又は当該顧客等の本人確認書類の写し及び当該顧客等の現在の住居の記載がある補完書類（次項第三号に掲げる書類にあっては、当該顧客等と同居する者のものを含み、当該本人確認書類に当該顧客等の現在の住居の記載がないときは、当該補完書類及び他の補完書類（当該顧客等のものに限る。）とする。）若しくはその写しの送付を受けるとともに、当該本人確認書類の写し又は当該補完書類若しくはその写しに記載されている当該顧客等の住居（当該本人確認書類の写しに当該顧客等の現在の住居の記載がない場合にあっては、当該補完書類又はその写しに記載されている当該顧客等の住居）に宛てて、取引関係文書を書留郵便等により、転送不要郵便物等として送付する方法</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="10">
               <Subitem1Title>ヌ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該顧客等から、電子署名及び認証業務に関する法律（平成十二年法律第百二号。以下この項において「電子署名法」という。）第四条第一項に規定する認定を受けた者が発行し、かつ、その認定に係る業務の用に供する電子証明書（当該顧客等の氏名、住居及び生年月日の記録のあるものに限る。）及び当該電子証明書により確認される電子署名法第二条第一項に規定する電子署名が行われた特定取引等に関する情報の送信を受ける方法</Sentence>
+                <Sentence WritingMode="vertical">次の（１）若しくは（２）に掲げる取引又は当該顧客等との間で（２）に掲げる取引と同時に若しくは連続して行われる令第七条第一項ム若しくはヰに掲げる取引を行う際に当該顧客等又はその代表者等から当該顧客等の本人確認書類の写しの送付を受けるとともに、当該本人確認書類の写しに記載されている当該顧客等の住居に宛てて、取引関係文書を書留郵便等により、転送不要郵便物等として送付する方法</Sentence>
               </Subitem1Sentence>
+              <Subitem2 Delete="false" Hide="false" Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">令第七条第一項第一号イに掲げる取引のうち、法人（特定事業者との間で行われた取引の態様その他の事情を勘案してその行う取引が犯罪による収益の移転の危険性の程度が低いと認められる法人に限る。）の被用者との間で行うもの（当該法人の本店等（本店、主たる事務所、支店（会社法第九百三十三条第三項の規定により支店とみなされるものを含む。）又は日本に営業所を設けていない外国会社の日本における代表者の住居をいう。以下同じ。）又は営業所に電話をかけることその他これに類する方法により給与その他の当該法人が当該被用者に支払う金銭の振込みを受ける預金又は貯金口座に係るものであることが確認できるものに限る。）</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Delete="false" Hide="false" Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">令第七条第一項第一号リに掲げる取引（特定事業者が行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第十四条第一項の規定により当該顧客等から同法第二条第五項に規定する個人番号の提供を受けている場合に限る。）</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="11">
               <Subitem1Title>ル</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該顧客等から、電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号。以下この号において「公的個人認証法」という。）第三条第六項の規定に基づき地方公共団体情報システム機構が発行した署名用電子証明書及び当該署名用電子証明書により確認される公的個人認証法第二条第一項に規定する電子署名が行われた特定取引等に関する情報の送信を受ける方法（特定事業者が公的個人認証法第十七条第四項に規定する署名検証者である場合に限る。）</Sentence>
+                <Sentence WritingMode="vertical">その取扱いにおいて名宛人本人若しくは差出人の指定した名宛人に代わって受け取ることができる者に限り交付する郵便又はこれに準ずるもの（特定事業者に代わって住居を確認し、写真付き本人確認書類の提示を受け、並びに第二十条第一項第一号、第三号（括弧書を除く。）及び第十七号に掲げる事項を当該特定事業者に伝達する措置がとられているものに限る。）により、当該顧客等に対して、取引関係文書を送付する方法</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="12">
               <Subitem1Title>ヲ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該顧客等から、電子署名及び認証業務に関する法律（平成十二年法律第百二号。以下この項において「電子署名法」という。）第四条第一項に規定する認定を受けた者が発行し、かつ、その認定に係る業務の用に供する電子証明書（当該顧客等の氏名、住居及び生年月日の記録のあるものに限る。）及び当該電子証明書により確認される電子署名法第二条第一項に規定する電子署名が行われた特定取引等に関する情報の送信を受ける方法</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="13">
+              <Subitem1Title>ワ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該顧客等から、電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号。以下この号において「公的個人認証法」という。）第三条第六項の規定に基づき地方公共団体情報システム機構が発行した署名用電子証明書及び当該署名用電子証明書により確認される公的個人認証法第二条第一項に規定する電子署名が行われた特定取引等に関する情報の送信を受ける方法（特定事業者が公的個人認証法第十七条第四項に規定する署名検証者である場合に限る。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="14">
+              <Subitem1Title>カ</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence WritingMode="vertical">当該顧客等から、公的個人認証法第十七条第一項第五号に掲げる総務大臣の認定を受けた者であって、同条第四項に規定する署名検証者である者が発行し、かつ、当該認定を受けた者が行う特定認証業務（電子署名法第二条第三項に規定する特定認証業務をいう。）の用に供する電子証明書（当該顧客等の氏名、住居及び生年月日の記録のあるものに限り、当該顧客等に係る利用者（電子署名法第二条第二項に規定する利用者をいう。）の真偽の確認が、電子署名及び認証業務に関する法律施行規則（平成十三年総務省・法務省・経済産業省令第二号）第五条第一項各号に掲げる方法により行われて発行されるものに限る。）及び当該電子証明書により確認される電子署名法第二条第一項に規定する電子署名が行われた特定取引等に関する情報の送信を受ける方法</Sentence>
               </Subitem1Sentence>
@@ -633,13 +657,13 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該法人の代表者等から当該顧客等の名称及び本店又は主たる事務所の所在地の申告を受け、かつ、電気通信回線による登記情報の提供に関する法律（平成十一年法律第二百二十六号）第三条第二項に規定する指定法人から登記情報（同法第二条第一項に規定する登記情報をいう。以下同じ。）の送信を受ける方法（当該法人の代表者等（当該顧客等を代表する権限を有する役員として登記されていない法人の代表者等に限る。）と対面しないで当該申告を受けるときは、当該方法に加え、当該顧客等の本店等（本店、主たる事務所、支店（会社法第九百三十三条第三項の規定により支店とみなされるものを含む。）又は日本に営業所を設けていない外国会社の日本における代表者の住居をいう。以下同じ。）に宛てて、取引関係文書を書留郵便等により、転送不要郵便物等として送付する方法）</Sentence>
+                <Sentence WritingMode="vertical">当該法人の代表者等から当該顧客等の名称及び本店又は主たる事務所の所在地の申告を受け、かつ、電気通信回線による登記情報の提供に関する法律（平成十一年法律第二百二十六号）第三条第二項に規定する指定法人から登記情報（同法第二条第一項に規定する登記情報をいう。以下同じ。）の送信を受ける方法（当該法人の代表者等（当該顧客等を代表する権限を有する役員として登記されていない法人の代表者等に限る。）と対面しないで当該申告を受けるときは、当該方法に加え、当該顧客等の本店等に宛てて、取引関係文書を書留郵便等により、転送不要郵便物等として送付する方法）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該法人の代表者等から当該顧客等の名称及び本店又は主たる事務所の所在地の申告を受けるとともに、行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第三十九条第四項の規定により公表されている当該顧客等の名称及び本店又は主たる事務所の所在地（以下「公表事項」という。）を確認する方法（当該法人の代表者等と対面しないで当該申告を受けるときは、当該方法に加え、当該顧客等の本店等に宛てて、取引関係文書を書留郵便等により、転送不要郵便物等として送付する方法）</Sentence>
+                <Sentence WritingMode="vertical">当該法人の代表者等から当該顧客等の名称及び本店又は主たる事務所の所在地の申告を受けるとともに、行政手続における特定の個人を識別するための番号の利用等に関する法律第三十九条第四項の規定により公表されている当該顧客等の名称及び本店又は主たる事務所の所在地（以下「公表事項」という。）を確認する方法（当該法人の代表者等と対面しないで当該申告を受けるときは、当該方法に加え、当該顧客等の本店等に宛てて、取引関係文書を書留郵便等により、転送不要郵便物等として送付する方法）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="4">
@@ -659,8 +683,8 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">特定事業者は、前項第一号イからチまで又は第三号イ若しくはニに掲げる方法（同項第一号ハに掲げる方法にあっては当該顧客等の現在の住居が記載された次の各号に掲げる書類のいずれか（本人確認書類を除き、領収日付の押印又は発行年月日の記載があるもので、その日が特定事業者が提示又は送付を受ける日前六月以内のものに限る。以下「補完書類」という。）の提示を受ける場合を、同号ニに掲げる方法にあっては当該顧客等の現在の住居が記載された補完書類又はその写しの送付を受ける場合を除く。）により本人特定事項の確認を行う場合において、当該本人確認書類又はその写しに当該顧客等の現在の住居又は本店若しくは主たる事務所の所在地の記載がないときは、当該顧客等又はその代表者等から、当該記載がある当該顧客等の本人確認書類若しくは補完書類の提示を受け、又は当該本人確認書類若しくはその写し若しくは当該補完書類若しくはその写しの送付を受けることにより、当該顧客等の現在の住居又は本店若しくは主たる事務所の所在地を確認することができる。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合においては、前項の規定にかかわらず、同項第一号ロ若しくはチ又は第三号ニに規定する取引関係文書は、当該本人確認書類若しくは当該補完書類又はその写しに記載されている当該顧客等の住居又は本店等に宛てて送付するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">特定事業者は、前項第一号イからチまで若しくはヌ又は第三号イ若しくはニに掲げる方法（同項第一号ハに掲げる方法にあっては当該顧客等の現在の住居が記載された次の各号に掲げる書類のいずれか（本人確認書類を除き、領収日付の押印又は発行年月日の記載があるもので、その日が特定事業者が提示又は送付を受ける日前六月以内のものに限る。以下「補完書類」という。）の提示を受ける場合を、同号ニに掲げる方法にあっては当該顧客等の現在の住居が記載された補完書類又はその写しの送付を受ける場合を除く。）により本人特定事項の確認を行う場合において、当該本人確認書類又はその写しに当該顧客等の現在の住居又は本店若しくは主たる事務所の所在地の記載がないときは、当該顧客等又はその代表者等から、当該記載がある当該顧客等の本人確認書類若しくは補完書類の提示を受け、又は当該本人確認書類若しくはその写し若しくは当該補完書類若しくはその写しの送付を受けることにより、当該顧客等の現在の住居又は本店若しくは主たる事務所の所在地を確認することができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合においては、前項の規定にかかわらず、同項第一号ロ、チ若しくはヌ又は第三号ニに規定する取引関係文書は、当該本人確認書類若しくは当該補完書類又はその写しに記載されている当該顧客等の住居又は本店等に宛てて送付するものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -702,7 +726,7 @@
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">特定事業者は、第一項第一号ロ若しくはチ又は第三号ロからニまでに掲げる方法（ロ及びハに掲げる場合にあっては、括弧書に規定する方法に限る。）により本人特定事項の確認を行う場合においては、取引関係文書を書留郵便等により転送不要郵便物等として送付することに代えて、次の各号に掲げる方法のいずれかによることができる。</Sentence>
+            <Sentence WritingMode="vertical">特定事業者は、第一項第一号ロ若しくはチからヌまで又は第三号ロからニまでに掲げる方法（ロ及びハに掲げる場合にあっては、括弧書に規定する方法に限る。）により本人特定事項の確認を行う場合においては、取引関係文書を書留郵便等により転送不要郵便物等として送付することに代えて、次の各号に掲げる方法のいずれかによることができる。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -855,7 +879,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項第一号に掲げる取引を行う場合において、出入国管理及び難民認定法の規定により認められた在留又は上陸に係る旅券又は許可書に記載された期間（第二十条第一項第二十九号において「在留期間等」という。）が九十日を超えないと認められるときは、法第四条第一項第一号の本邦内に住居を有しないことに該当するものとする。</Sentence>
+            <Sentence WritingMode="vertical">前項第一号に掲げる取引を行う場合において、出入国管理及び難民認定法の規定により認められた在留又は上陸に係る旅券又は許可書に記載された期間（第二十条第一項第三十号において「在留期間等」という。）が九十日を超えないと認められるときは、法第四条第一項第一号の本邦内に住居を有しないことに該当するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1050,7 +1074,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第四条第五項の規定により読み替えて適用する同条第一項の規定又は同条第四項（同条第一項に係る部分に限る。）の規定による代表者等の本人特定事項の確認の方法については、第六条第一項（同項第一号に係る部分に限る。）及び第二項の規定を準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第四条第五項の規定により読み替えて適用する同条第一項の規定又は同条第四項（同条第一項に係る部分に限る。）の規定による代表者等の本人特定事項の確認の方法については、第六条第一項（同項第一号（ヌを除く。）に係る部分に限る。）及び第二項の規定を準用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
@@ -1146,8 +1170,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                  <Sentence WritingMode="vertical">第六条第一項第一号ニからヘまで及びチ
-</Sentence>
+                  <Sentence WritingMode="vertical">第六条第一項第一号ニからヘまで及びチ</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence WritingMode="vertical">当該顧客等又はその代表者等</Sentence>
@@ -1240,8 +1263,35 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
+                  <Sentence WritingMode="vertical">第六条第一項第一号リ</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="none">
+                  <Sentence WritingMode="vertical">当該顧客等又はその代表者等</Sentence>
+                </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">第六条第一項第一号リからヲまで</Sentence>
+                  <Sentence WritingMode="vertical">当該代表者等</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="none">
+                  <Sentence WritingMode="vertical">当該顧客等の</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="none">
+                  <Sentence WritingMode="vertical">当該代表者等の</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="none">
+                  <Sentence WritingMode="vertical">当該顧客等と</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence WritingMode="vertical">当該代表者等と</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">第六条第一項第一号ルからカまで</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence WritingMode="vertical">当該顧客等</Sentence>
@@ -1305,13 +1355,19 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">特定事業者は、前項において準用する第六条第一項第一号ロ、チ又はリに掲げる方法により本人特定事項の確認を行う場合においては、当該代表者等の住居に代えて、当該代表者等から、当該代表者等に係る顧客等（国等（人格のない社団又は財団、令第十四条第四号に掲げるもの及び第十八条第六号から第十号までに掲げるものを除く。）に限る。次項第三号において同じ。）の本店等若しくは営業所若しくは当該代表者等が所属する官公署であると認められる場所の記載がある当該顧客等若しくは当該代表者等の本人確認書類若しくは補完書類の提示を受け、又は当該本人確認書類若しくはその写し若しくは当該補完書類若しくはその写しの送付を受けるとともに、当該場所に宛てて取引関係文書を送付することができる。</Sentence>
+            <Sentence WritingMode="vertical">前項の規定にかかわらず、特定事業者は、法人である顧客等との取引を行うに際しては、当該法人の代表者等から当該代表者等の本人確認書類の写し（当該本人確認書類の写しに当該代表者等の現在の住居の記載がないときは、当該本人確認書類の写し及び当該記載がある補完書類又はその写し）の送付を受けるとともに、当該本人確認書類の写し又は当該補完書類若しくはその写しに記載されている当該代表者等の現在の住居に宛てて、取引関係文書を書留郵便等により、転送不要郵便物等として送付することにより法第四条第一項（同条第五項の規定により読み替えて適用する場合に限る。）又は第四項（同条第一項に係る部分に限る。）の規定による確認を行うことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">特定事業者は、第一項において準用する第六条第一項第一号ロ又はチに掲げる方法により本人特定事項の確認を行う場合においては、取引関係文書を書留郵便等により転送不要郵便物等として送付することに代えて、次の各号に掲げる方法のいずれかによることができる。</Sentence>
+            <Sentence WritingMode="vertical">特定事業者は、第一項において準用する第六条第一項第一号ロ、チ、リ若しくはルに掲げる方法又は前項の規定により本人特定事項の確認を行う場合においては、当該代表者等の住居に代えて、当該代表者等から、当該代表者等に係る顧客等（国等（人格のない社団又は財団、令第十四条第四号に掲げるもの及び第十八条第六号から第十号までに掲げるものを除く。）に限る。次項第三号において同じ。）の本店等若しくは営業所若しくは当該代表者等が所属する官公署であると認められる場所の記載がある当該顧客等若しくは当該代表者等の本人確認書類若しくは補完書類の提示を受け、又は当該本人確認書類若しくはその写し若しくは当該補完書類若しくはその写しの送付を受けるとともに、当該場所に宛てて取引関係文書を送付することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">特定事業者は、第一項において準用する第六条第一項第一号ロ、チ若しくはリに掲げる方法又は第二項の規定により本人特定事項の確認を行う場合においては、取引関係文書を書留郵便等により転送不要郵便物等として送付することに代えて、次の各号に掲げる方法のいずれかによることができる。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1332,8 +1388,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="4">
-          <ParagraphNum>４</ParagraphNum>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一項の代表者等は、次の各号に掲げる場合においては、それぞれ当該各号に該当することにより当該顧客等のために特定取引等の任に当たっていると認められる代表者等をいうものとする。</Sentence>
           </ParagraphSentence>
@@ -1456,7 +1512,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第六条又は第十二条に規定する方法</Sentence>
+              <Sentence WritingMode="vertical">第六条（第一項第一号ヌを除く。）又は第十二条（第二項を除く。）に規定する方法</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -1468,7 +1524,7 @@
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">第六条第一項第一号イからリまで（これらの規定を第十二条第一項において準用する場合を含む。）、第二号並びに第三号イ及びニに掲げる方法</Sentence>
+                  <Sentence WritingMode="vertical">第六条第一項第一号イからリまで及びル（これらの規定を第十二条第一項において準用する場合を含む。）、第二号並びに第三号イ及びニに掲げる方法</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
                   <Sentence WritingMode="vertical">当該顧客等又は当該代表者等から、当該顧客等若しくは当該代表者等の住居若しくは本店若しくは主たる事務所の所在地の記載がある当該顧客等若しくは当該代表者等の本人確認書類（当該方法において用いたもの（その写しを用いたものを含む。）を除く。）若しくは補完書類（当該方法において用いたもの（その写しを用いたものを含む。）を除く。）の提示を受け、又は当該本人確認書類若しくはその写し若しくは当該補完書類若しくはその写しの送付を受ける方法</Sentence>
@@ -1479,7 +1535,7 @@
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">第六条第一項第一号ヌからヲまで（これらの規定を第十二条第一項において準用する場合を含む。）並びに第三号ロ、ハ及びホに掲げる方法</Sentence>
+                  <Sentence WritingMode="vertical">第六条第一項第一号ヲからカまで（これらの規定を第十二条第一項において準用する場合を含む。）並びに第三号ロ、ハ及びホに掲げる方法</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
                   <Sentence WritingMode="vertical">当該顧客等又は当該代表者等から、当該顧客等若しくは当該代表者等の本人確認書類の提示を受け、又は当該本人確認書類若しくはその写しの送付を受ける方法（当該本人確認書類又はその写しに当該顧客等又は当該代表者等の現在の住居又は本店若しくは主たる事務所の所在地の記載がないときは、当該方法に加え、当該顧客等又は当該代表者等から、当該記載がある当該顧客等若しくは当該代表者等の補完書類の提示を受け、又は当該補完書類若しくはその写しの送付を受ける方法）</Sentence>
@@ -1800,7 +1856,7 @@
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">次のイからルまでに掲げる場合に応じ、それぞれ当該イからルまでに定めるもの（以下「添付資料」という。）を文書、電磁的記録又はマイクロフィルム（ヘに掲げる場合にあっては、電磁的記録に限る。）を用いて確認記録に添付する方法</Sentence>
+              <Sentence WritingMode="vertical">次のイからカまでに掲げる場合に応じ、それぞれ当該イからカまでに定めるもの（以下「添付資料」という。）を文書、電磁的記録又はマイクロフィルム（チに掲げる場合にあっては、電磁的記録に限る。）を用いて確認記録に添付する方法</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -1850,10 +1906,10 @@
               <Subitem1Title>ホ</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">第六条第一項第一号チ（第十二条第一項において準用する場合を含む。）又は第三号ニに掲げる方法により本人特定事項の確認を行ったとき</Sentence>
+                  <Sentence WritingMode="vertical">第六条第一項第一号チ（第十二条第一項において準用する場合を含む。）に掲げる方法により本人特定事項の確認を行ったとき</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">当該本人確認書類又はその写し</Sentence>
+                  <Sentence WritingMode="vertical">当該本人確認書類若しくはその写し、当該半導体集積回路に記録された氏名、住居及び生年月日の情報又は当該本人確認用画像情報若しくはその写し  </Sentence>
                 </Column>
               </Subitem1Sentence>
             </Subitem1>
@@ -1861,15 +1917,51 @@
               <Subitem1Title>ヘ</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">第六条第一項第一号ヌからヲまで（これらの規定を第十二条第一項において準用する場合を含む。）又は第三号ホに掲げる方法により本人特定事項の確認を行ったとき</Sentence>
+                  <Sentence WritingMode="vertical">第六条第一項第一号リ（第十二条第一項において準用する場合を含む。
+）に掲げる方法又は第十二条第二項の規定により本人特定事項の確認を行ったとき
+</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該本人確認書類の写し又は当該補完書類若しくはその写し
+</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="7">
+              <Subitem1Title>ト</Subitem1Title>
+              <Subitem1Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">第六条第一項第一号ヌに掲げる方法により本人特定事項の確認を行ったとき</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該本人確認書類の写し</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="8">
+              <Subitem1Title>チ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">第六条第一項第一号ヲからカまで（これらの規定を第十二条第一項において準用する場合を含む。）又は第三号ホに掲げる方法により本人特定事項の確認を行ったとき</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
                   <Sentence WritingMode="vertical">当該方法により本人特定事項の確認を行ったことを証するに足りる電磁的記録</Sentence>
                 </Column>
               </Subitem1Sentence>
             </Subitem1>
-            <Subitem1 Delete="false" Hide="false" Num="7">
-              <Subitem1Title>ト</Subitem1Title>
+            <Subitem1 Delete="false" Hide="false" Num="9">
+              <Subitem1Title>リ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">第六条第一項第三号ニに掲げる方法により本人特定事項の確認を行ったとき</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該本人確認書類又はその写し</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="10">
+              <Subitem1Title>ヌ</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
                   <Sentence WritingMode="vertical">第六条第一項第三号ロに掲げる方法により本人特定事項の確認を行ったとき</Sentence>
@@ -1879,8 +1971,8 @@
                 </Column>
               </Subitem1Sentence>
             </Subitem1>
-            <Subitem1 Delete="false" Hide="false" Num="8">
-              <Subitem1Title>チ</Subitem1Title>
+            <Subitem1 Delete="false" Hide="false" Num="11">
+              <Subitem1Title>ル</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
                   <Sentence WritingMode="vertical">第六条第一項第三号ハに掲げる方法により本人特定事項の確認を行ったとき</Sentence>
@@ -1890,8 +1982,8 @@
                 </Column>
               </Subitem1Sentence>
             </Subitem1>
-            <Subitem1 Delete="false" Hide="false" Num="9">
-              <Subitem1Title>リ</Subitem1Title>
+            <Subitem1 Delete="false" Hide="false" Num="12">
+              <Subitem1Title>ヲ</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
                   <Sentence WritingMode="vertical">本人確認書類若しくは補完書類又はその写しの送付を受けることにより第六条第二項（第十二条第一項において準用する場合を含む。）の規定により顧客等若しくは代表者等の現在の住居又は本店若しくは主たる事務所の所在地の確認を行ったとき</Sentence>
@@ -1901,19 +1993,19 @@
                 </Column>
               </Subitem1Sentence>
             </Subitem1>
-            <Subitem1 Delete="false" Hide="false" Num="10">
-              <Subitem1Title>ヌ</Subitem1Title>
+            <Subitem1 Delete="false" Hide="false" Num="13">
+              <Subitem1Title>ワ</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">本人確認書類若しくは補完書類又はその写しの送付を受けることにより、第六条第三項若しくは第十二条第二項の規定により当該各項に規定する場所に宛てて取引関係文書を送付したとき又は第六条第四項若しくは第十二条第三項の規定により第六条第四項第三号若しくは第十二条第三項第三号に規定する場所に赴いて取引関係文書を交付したとき</Sentence>
+                  <Sentence WritingMode="vertical">本人確認書類若しくは補完書類又はその写しの送付を受けることにより、第六条第三項若しくは第十二条第三項の規定により当該各項に規定する場所に宛てて取引関係文書を送付したとき又は第六条第四項若しくは第十二条第四項の規定により第六条第四項第三号若しくは第十二条第四項第三号に規定する場所に赴いて取引関係文書を交付したとき</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
                   <Sentence WritingMode="vertical">当該本人確認書類若しくは補完書類又はその写し</Sentence>
                 </Column>
               </Subitem1Sentence>
             </Subitem1>
-            <Subitem1 Delete="false" Hide="false" Num="11">
-              <Subitem1Title>ル</Subitem1Title>
+            <Subitem1 Delete="false" Hide="false" Num="14">
+              <Subitem1Title>カ</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
                   <Sentence WritingMode="vertical">本人確認書類若しくは補完書類又はその写しの送付を受けることにより第十四条第一項第二号に掲げる方法により本人特定事項の確認を行ったとき</Sentence>
@@ -1967,7 +2059,7 @@
           <Item Delete="false" Hide="false" Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第六条第一項第一号ロ、チ若しくはリ（これらの規定を第十二条第一項において準用する場合を含む。）又は第三号ロからニまでに掲げる方法（ロ及びハに掲げる場合にあっては、括弧書に規定する方法に限る。）により顧客等又は代表者等の本人特定事項の確認を行ったときは、特定事業者が取引関係文書を送付した日付</Sentence>
+              <Sentence WritingMode="vertical">第六条第一項第一号ロ若しくはチからルまで（これらの規定（同号ヌを除く。）を第十二条第一項において準用する場合を含む。）又は第三号ロからニまでに掲げる方法（ロ及びハに掲げる場合にあっては、括弧書に規定する方法に限る。）又は第十二条第二項の規定により顧客等又は代表者等の本人特定事項の確認を行ったときは、特定事業者が取引関係文書を送付した日付</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="6">
@@ -1991,125 +2083,131 @@
           <Item Delete="false" Hide="false" Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第六条第一項第三号ロに規定する方法により顧客等の本人特定事項の確認を行ったときは、特定事業者が登記情報の送信を受けた日付</Sentence>
+              <Sentence WritingMode="vertical">第六条第一項第一号チ（第十二条第一項において準用する場合を含む。）に掲げる方法により顧客等又は代表者等の本人特定事項の確認を行ったときは、特定事業者が本人確認書類の送付又は半導体集積回路に記録された氏名、住居及び生年月日の情報若しくは本人確認用画像情報の送信を受けた日付</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="10">
             <ItemTitle>十</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第六条第一項第三号ハに規定する方法により顧客等の本人特定事項の確認を行ったときは、特定事業者が公表事項を確認した日付</Sentence>
+              <Sentence WritingMode="vertical">第六条第一項第三号ロに規定する方法により顧客等の本人特定事項の確認を行ったときは、特定事業者が登記情報の送信を受けた日付</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="11">
             <ItemTitle>十一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第六条第四項又は第十二条第三項の規定により顧客等又は代表者等の本人特定事項の確認を行ったときは、当該各項に規定する交付を行った日付</Sentence>
+              <Sentence WritingMode="vertical">第六条第一項第三号ハに規定する方法により顧客等の本人特定事項の確認を行ったときは、特定事業者が公表事項を確認した日付</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="12">
             <ItemTitle>十二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第十四条第一項第二号に掲げる方法において本人確認書類若しくは補完書類の提示を受け、又は本人確認書類若しくはその写し若しくは補完書類若しくはその写しの送付を受けたときは、当該提示又は当該送付を受けた日付</Sentence>
+              <Sentence WritingMode="vertical">第六条第四項又は第十二条第四項の規定により顧客等又は代表者等の本人特定事項の確認を行ったときは、当該各項に規定する交付を行った日付</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="13">
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">法第四条第一項第二号から第四号までに掲げる事項又は資産及び収入の状況の確認を行ったときは、確認を行った事項に応じ、確認を行った日付</Sentence>
+              <Sentence WritingMode="vertical">第十四条第一項第二号に掲げる方法において本人確認書類若しくは補完書類の提示を受け、又は本人確認書類若しくはその写し若しくは補完書類若しくはその写しの送付を受けたときは、当該提示又は当該送付を受けた日付</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="14">
             <ItemTitle>十四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">取引時確認を行った取引の種類</Sentence>
+              <Sentence WritingMode="vertical">法第四条第一項第二号から第四号までに掲げる事項又は資産及び収入の状況の確認を行ったときは、確認を行った事項に応じ、確認を行った日付</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="15">
             <ItemTitle>十五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">顧客等又は代表者等の本人特定事項の確認を行った方法</Sentence>
+              <Sentence WritingMode="vertical">取引時確認を行った取引の種類</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="16">
             <ItemTitle>十六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">顧客等又は代表者等の本人特定事項の確認のために本人確認書類又は補完書類の提示を受けたときは、当該本人確認書類又は補完書類の名称、記号番号その他の当該本人確認書類又は補完書類を特定するに足りる事項</Sentence>
+              <Sentence WritingMode="vertical">顧客等又は代表者等の本人特定事項の確認を行った方法</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="17">
             <ItemTitle>十七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">本人確認書類又は補完書類の提示を受けることにより第六条第二項（第十二条第一項において準用する場合を含む。）の規定により顧客等又は代表者等の現在の住居又は本店若しくは主たる事務所の所在地の確認を行ったときは、当該本人確認書類又は補完書類の名称、記号番号その他の当該本人確認書類又は補完書類を特定するに足りる事項</Sentence>
+              <Sentence WritingMode="vertical">顧客等又は代表者等の本人特定事項の確認のために本人確認書類又は補完書類の提示を受けたときは、当該本人確認書類又は補完書類の名称、記号番号その他の当該本人確認書類又は補完書類を特定するに足りる事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="18">
             <ItemTitle>十八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">本人確認書類又は補完書類の提示を受けることにより、第六条第三項若しくは第十二条第二項の規定により当該各項に規定する場所に宛てて取引関係文書を送付したとき又は第六条第四項若しくは第十二条第三項の規定により第六条第四項第三号若しくは第十二条第三項第三号に規定する場所に赴いて取引関係文書を交付したときは、営業所の名称、所在地その他の当該場所を特定するに足りる事項及び当該本人確認書類又は補完書類の名称、記号番号その他の当該本人確認書類又は補完書類を特定するに足りる事項</Sentence>
+              <Sentence WritingMode="vertical">本人確認書類又は補完書類の提示を受けることにより第六条第二項（第十二条第一項において準用する場合を含む。）の規定により顧客等又は代表者等の現在の住居又は本店若しくは主たる事務所の所在地の確認を行ったときは、当該本人確認書類又は補完書類の名称、記号番号その他の当該本人確認書類又は補完書類を特定するに足りる事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="19">
             <ItemTitle>十九</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">顧客等の本人特定事項（顧客等が国等である場合にあっては、当該国等の名称、所在地その他の当該国等を特定するに足りる事項）</Sentence>
+              <Sentence WritingMode="vertical">本人確認書類又は補完書類の提示を受けることにより、第六条第三項若しくは第十二条第三項の規定により当該各項に規定する場所に宛てて取引関係文書を送付したとき又は第六条第四項若しくは第十二条第四項の規定により第六条第四項第三号若しくは第十二条第四項第三号に規定する場所に赴いて取引関係文書を交付したときは、営業所の名称、所在地その他の当該場所を特定するに足りる事項及び当該本人確認書類又は補完書類の名称、記号番号その他の当該本人確認書類又は補完書類を特定するに足りる事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="20">
             <ItemTitle>二十</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">代表者等による取引のときは、当該代表者等の本人特定事項、当該代表者等と顧客等との関係及び当該代表者等が顧客等のために特定取引等の任に当たっていると認めた理由</Sentence>
+              <Sentence WritingMode="vertical">顧客等の本人特定事項（顧客等が国等である場合にあっては、当該国等の名称、所在地その他の当該国等を特定するに足りる事項）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="21">
             <ItemTitle>二十一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">顧客等（国等（人格のない社団又は財団を除く。）を除く。次号において同じ。）が取引を行う目的</Sentence>
+              <Sentence WritingMode="vertical">代表者等による取引のときは、当該代表者等の本人特定事項、当該代表者等と顧客等との関係及び当該代表者等が顧客等のために特定取引等の任に当たっていると認めた理由</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="22">
             <ItemTitle>二十二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">顧客等の職業又は事業の内容並びに顧客等が法人である場合にあっては、事業の内容の確認を行った方法及び書類の名称その他の当該書類を特定するに足りる事項</Sentence>
+              <Sentence WritingMode="vertical">顧客等（国等（人格のない社団又は財団を除く。）を除く。次号において同じ。）が取引を行う目的</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="23">
             <ItemTitle>二十三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">顧客等（国等を除く。）が法人であるときは、実質的支配者の本人特定事項及び当該実質的支配者と当該顧客等との関係並びにその確認を行った方法（当該確認に書類を用いた場合には、当該書類の名称その他の当該書類を特定するに足りる事項を含む。）</Sentence>
+              <Sentence WritingMode="vertical">顧客等の職業又は事業の内容並びに顧客等が法人である場合にあっては、事業の内容の確認を行った方法及び書類の名称その他の当該書類を特定するに足りる事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="24">
             <ItemTitle>二十四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">資産及び収入の状況の確認を行ったときは、当該確認を行った方法及び書類の名称その他の当該書類を特定するに足りる事項</Sentence>
+              <Sentence WritingMode="vertical">顧客等（国等を除く。）が法人であるときは、実質的支配者の本人特定事項及び当該実質的支配者と当該顧客等との関係並びにその確認を行った方法（当該確認に書類を用いた場合には、当該書類の名称その他の当該書類を特定するに足りる事項を含む。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="25">
             <ItemTitle>二十五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">顧客等が自己の氏名及び名称と異なる名義を取引に用いるときは、当該名義並びに顧客等が自己の氏名及び名称と異なる名義を用いる理由</Sentence>
+              <Sentence WritingMode="vertical">資産及び収入の状況の確認を行ったときは、当該確認を行った方法及び書類の名称その他の当該書類を特定するに足りる事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="26">
             <ItemTitle>二十六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">取引記録等を検索するための口座番号その他の事項</Sentence>
+              <Sentence WritingMode="vertical">顧客等が自己の氏名及び名称と異なる名義を取引に用いるときは、当該名義並びに顧客等が自己の氏名及び名称と異なる名義を用いる理由</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="27">
             <ItemTitle>二十七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">顧客等が令第十二条第三項各号に掲げるものであるときは、その旨及び同項各号に掲げるものであると認めた理由</Sentence>
+              <Sentence WritingMode="vertical">取引記録等を検索するための口座番号その他の事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="28">
             <ItemTitle>二十八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">法第四条第二項第一号に掲げる取引に際して確認を行ったときは、関連取引時確認に係る確認記録を検索するための当該関連取引時確認を行った日付その他の事項</Sentence>
+              <Sentence WritingMode="vertical">顧客等が令第十二条第三項各号に掲げるものであるときは、その旨及び同項各号に掲げるものであると認めた理由</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="29">
             <ItemTitle>二十九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四条第二項第一号に掲げる取引に際して確認を行ったときは、関連取引時確認に係る確認記録を検索するための当該関連取引時確認を行った日付その他の事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="30">
+            <ItemTitle>三十</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">第八条第二項の規定により在留期間等の確認を行ったときは、同項に規定する旅券又は許可書の名称、日付、記号番号その他の当該旅券又は許可書を特定するに足りる事項</Sentence>
             </ItemSentence>
@@ -2124,7 +2222,7 @@
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">特定事業者は、第一項第十九号から第二十三号まで及び第二十五号から第二十八号までに掲げる事項に変更又は追加があることを知った場合は、当該変更又は追加に係る内容を確認記録に付記するものとし、既に確認記録又は同項第三号の規定により添付した本人確認書類若しくは補完書類の写し若しくは添付資料に記録され、又は記載されている内容（過去に行われた当該変更又は追加に係る内容を除く。）を消去してはならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">特定事業者は、第一項第二十号から第二十四号まで及び第二十六号から第二十九号までに掲げる事項に変更又は追加があることを知った場合は、当該変更又は追加に係る内容を確認記録に付記するものとし、既に確認記録又は同項第三号の規定により添付した本人確認書類若しくは補完書類の写し若しくは添付資料に記録され、又は記載されている内容（過去に行われた当該変更又は追加に係る内容を除く。）を消去してはならない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、特定事業者は、確認記録に付記することに代えて、変更又は追加に係る内容の記録を別途作成し、当該記録を確認記録と共に保存することとすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -2480,7 +2578,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">住居又は第二十条第一項第十六号に掲げる事項若しくは顧客識別番号（顧客と支払に係る為替取引を行う特定事業者が管理している当該顧客を特定するに足りる記号番号をいう。次号ロにおいて同じ。）</Sentence>
+                <Sentence WritingMode="vertical">住居又は第二十条第一項第十七号に掲げる事項若しくは顧客識別番号（顧客と支払に係る為替取引を行う特定事業者が管理している当該顧客を特定するに足りる記号番号をいう。次号ロにおいて同じ。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="3">
@@ -3586,7 +3684,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１号（第２５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F10008046001_1912101012_001.pdf"/>
+          <Fig src="./pict/H20F10008046001_2006051406_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3594,7 +3692,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第２号（第２５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F10008046001_1912101012_002.pdf"/>
+          <Fig src="./pict/H20F10008046001_2006051406_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3602,7 +3700,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第３号（第２５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F10008046001_1912101012_003.pdf"/>
+          <Fig src="./pict/H20F10008046001_2006051406_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3610,7 +3708,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第４号（第２５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F10008046001_1912101012_004.pdf"/>
+          <Fig src="./pict/H20F10008046001_2006051406_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3618,7 +3716,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第５号（第３３条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F10008046001_1912101012_005.pdf"/>
+          <Fig src="./pict/H20F10008046001_2006051406_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
