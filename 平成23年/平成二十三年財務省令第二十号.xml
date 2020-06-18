@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="020" Year="23">
+<Law DataInfo="200615e03k03m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="020" Year="23">
   <LawNum>平成二十三年財務省令第二十号</LawNum>
   <LawBody>
     <LawTitle>東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則</LawTitle>
@@ -825,19 +825,19 @@
                     <Sentence WritingMode="vertical">市町村長のその者の有していた家屋でその居住の用に供していたものに係る東日本大震災による被害の状況その他の事項を証する書類（その写しを含む。）その他の書類で、当該家屋（以下この号において「被相続人所有家屋」という。）が警戒区域設定指示等が行われた日において当該警戒区域設定指示等の対象区域内に所在し、当該警戒区域設定指示等が行われたことによってその居住の用に供することができなくなったことを明らかにするもの</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">被相続人所有家屋に係る登記事項証明書その他これに類する書類で、当該被相続人が当該被相続人所有家屋を（１）に規定する居住の用に供することができなくなった時（以下この号において「家屋居住不能時」という。）の直前において有していたことを明らかにするもの</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Delete="false" Hide="false" Num="3">
+                  <Subitem2Title>（３）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence WritingMode="vertical">被相続人所有家屋の所在地を管轄する市町村長□から交付を受けた当該被相続人の住民票の写し（ロ（３）に規定する譲渡をした日から二月を経過した日後に交付を受けたものに限る。）、戸籍の附票の写しその他これらに類する書類で、当該被相続人が家屋居住不能時の直前において当該被相続人所有家屋を居住の用に供していたことを明らかにするもの</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
               </Subitem1>
-            </Item>
-            <Item Delete="false" Hide="false" Num="2">
-              <ItemTitle>（２）</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">被相続人所有家屋に係る登記事項証明書その他これに類する書類で、当該被相続人が当該被相続人所有家屋を（１）に規定する居住の用に供することができなくなった時（以下この号において「家屋居住不能時」という。）の直前において有していたことを明らかにするもの</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>（３）</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">被相続人所有家屋の所在地を管轄する市町村長□から交付を受けた当該被相続人の住民票の写し（ロ（３）に規定する譲渡をした日から二月を経過した日後に交付を受けたものに限る。）、戸籍の附票の写しその他これらに類する書類で、当該被相続人が家屋居住不能時の直前において当該被相続人所有家屋を居住の用に供していたことを明らかにするもの</Sentence>
-              </ItemSentence>
               <Subitem1 Delete="false" Hide="false" Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
@@ -1211,12 +1211,12 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第十三条の三の規定により租税特別措置法第四十一条の十九の規定が適用される場合における租税特別措置法施行令第二十六条の二十八の三第九項の規定により読み替えられた所得税法施行令第二百六十二条第一項第六号に規定する財務省令で定める書類は、租税特別措置法施行規則第十九条の十一第七項の規定にかかわらず、次に掲げる書類とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第十三条の三の規定により租税特別措置法第四十一条の十九の規定が適用される場合における租税特別措置法施行令第二十六条の二十八の三第九項の規定により読み替えられた所得税法施行令第二百六十二条第一項第六号に規定する財務省令で定める書類は、租税特別措置法施行規則第十九条の十一第八項の規定にかかわらず、次に掲げる書類とする。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第十三条の三に規定する復興指定会社に該当する特定新規中小会社から交付を受けた東日本大震災復興特別区域法第四十二条第一項に規定する認定地方公共団体の長の特定新規株式に係る租税特別措置法施行規則第十九条の十一第七項第一号イに規定する基準日においてイからハまでに掲げる事実の確認をした旨を証する書類（ニに掲げる事項の記載があるものに限る。）</Sentence>
+                <Sentence WritingMode="vertical">法第十三条の三に規定する復興指定会社に該当する特定新規中小会社から交付を受けた東日本大震災復興特別区域法第四十二条第一項に規定する認定地方公共団体の長の特定新規株式に係る租税特別措置法施行規則第十九条の十一第八項第一号イに規定する基準日においてイからハまでに掲げる事実の確認をした旨を証する書類（ニに掲げる事項の記載があるものに限る。）</Sentence>
               </ItemSentence>
               <Subitem1 Delete="false" Hide="false" Num="1">
                 <Subitem1Title>イ</Subitem1Title>
@@ -1246,7 +1246,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">租税特別措置法施行規則第十九条の十一第七項第二号、第三号、第五号及び第六号に掲げる書類（同項第三号に掲げる書類にあっては、租税特別措置法第四十一条の十九第一項に規定する控除対象特定新規株式を取得した日の属する年中の同号イからニまでに掲げる事項の記載があるものに限る。）</Sentence>
+                <Sentence WritingMode="vertical">租税特別措置法施行規則第十九条の十一第八項第二号、第三号、第五号及び第六号に掲げる書類（同項第三号に掲げる書類にあっては、租税特別措置法第四十一条の十九第一項に規定する控除対象特定新規株式を取得した日の属する年中の同号イからニまでに掲げる事項の記載があるものに限る。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -1808,7 +1808,7 @@
           <Paragraph Hide="false" Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第十八条の八第八項の規定の適用がある場合における法人税法施行規則第二十七条の十四の規定の適用については、同条中「の規定」とあるのは「若しくは東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律の規定」と、「、別表十三（一）」とあるのは「、別表十二（十五）、別表十三（一）」と、同条第二号中「に掲げる」とあるのは「並びに東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則（平成二十三年財務省令第二十号）第六条の七第三項第四号（福島再開投資等準備金）に掲げる」とする。</Sentence>
+              <Sentence WritingMode="vertical">法第十八条の八第八項の規定の適用がある場合における法人税法施行規則第二十七条の十四の規定の適用については、同条中「の規定に基づく」とあるのは「若しくは東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律の規定に基づく」と、「、別表十三（一）」とあるのは「、別表十二（十五）、別表十三（一）」と、同条第二号中「に掲げる」とあるのは「並びに東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則（平成二十三年財務省令第二十号）第六条の七第三項第四号（福島再開投資等準備金）に掲げる」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2259,7 +2259,7 @@
           <Paragraph Hide="false" Num="10">
             <ParagraphNum>１０</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第十九条第八項（法第二十条第八項において準用する場合を含む。）及び法第二十条第二項の規定の適用がある場合における法人税法施行規則第二十七条の十四の規定の適用については、同条中「の規定」とあるのは「若しくは東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律の規定」と、同条第二号中「に掲げる」とあるのは「並びに東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則第七条第三項第六号及び第五項第六号（特定の資産の買換えの場合等の課税の特例）に掲げる」とする。</Sentence>
+              <Sentence WritingMode="vertical">法第十九条第八項（法第二十条第八項において準用する場合を含む。）及び法第二十条第二項の規定の適用がある場合における法人税法施行規則第二十七条の十四の規定の適用については、同条中「の規定に基づく」とあるのは「若しくは東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律の規定に基づく」と、同条第二号中「に掲げる」とあるのは「並びに東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則第七条第三項第六号及び第五項第六号（特定の資産の買換えの場合等の課税の特例）に掲げる」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -7333,7 +7333,8 @@
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">この省令は、平成三十年四月一日から施行する。</Sentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成三十年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第五条の二第五項の改正規定は、令和二年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -7349,12 +7350,38 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成三一年四月一二日財務省令第三一号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
+      <Paragraph Hide="false" Num="1">
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この省令は、公布の日から施行する。</Sentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一三日財務省令第三六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行の日（令和元年十二月十六日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日財務省令第二一号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
