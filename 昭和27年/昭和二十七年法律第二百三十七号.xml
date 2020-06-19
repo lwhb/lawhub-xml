@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="237" Year="27">
+<Law DataInfo="200618e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="237" Year="27">
   <LawNum>昭和二十七年法律第二百三十七号</LawNum>
   <LawBody>
     <LawTitle>航空機製造事業法</LawTitle>
@@ -630,8 +630,8 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">許可事業者又は届出事業者は、製造証明のない航空機用機器（輸入されたものを除く。）を航空機の製造又は修理（航空法（昭和二十七年法律第二百三十一号）第十七条第一項の予備品証明を受けた装備品を用いてするものを除く。）に用いてはならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、試験的に用いる場合その他経済産業省令で定める場合は、この限りでない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">許可事業者又は届出事業者は、製造証明のない航空機用機器（輸入されたものを除く。）を航空機の製造又は修理（航空法（昭和二十七年法律第二百三十一号）第十八条第一項の予備品証明を受けた装備品を用いてするものを除く。）に用いてはならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、試験的に用いる場合その他経済産業省令で定める場合は、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1261,17 +1261,17 @@
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">公布の日</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>
@@ -1360,6 +1360,37 @@
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第五条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一九日法律第三八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二条並びに附則第五条、第六条、第十三条及び第十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>
