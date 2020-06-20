@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="51">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="51">
   <LawNum>昭和五十一年運輸省令第三号</LawNum>
   <LawBody>
     <LawTitle>船舶油濁損害賠償保障法施行規則</LawTitle>
@@ -79,7 +79,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十七条第一項の書面の交付を受けようとする者は、第一号様式による保障契約証明書交付申請書を国土交通大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第十七条第一項の書面の交付を受けようとする者は、第一号様式による保障契約証明書交付申請書を地方運輸局長(運輸監理部長を含む。以下同じ。)に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -101,19 +101,19 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十七条第四項の再交付を受けようとする者は、第二号様式による保障契約証明書再交付申請書を国土交通大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第十七条第四項の再交付を受けようとする者は、第二号様式による保障契約証明書再交付申請書を地方運輸局長に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の申請を、保障契約証明書が損傷し、又はその識別が困難となつたことによりしようとする者は、遅滞なく、当該保障契約証明書を国土交通大臣に返納しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項の申請を、保障契約証明書が損傷し、又はその識別が困難となつたことによりしようとする者は、遅滞なく、当該保障契約証明書を地方運輸局長に返納しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国土交通大臣は、保障契約証明書が滅失したことにより再交付を行つた場合は、当該滅失した保障契約証明書が無効であることを告示する。</Sentence>
+            <Sentence WritingMode="vertical">地方運輸局長は、保障契約証明書が滅失したことにより再交付を行つた場合は、当該滅失した保障契約証明書が無効であることを告示する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="4">
@@ -138,7 +138,7 @@
                 <Sentence WritingMode="vertical">交付の申請</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">保障契約証明書一枚につき一万四千三百円（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。次号及び第十四条において「情報通信技術活用法」という。）第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、一万四千百円）</Sentence>
+                <Sentence WritingMode="vertical">保障契約証明書一枚につき七千円（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。次号及び第十四条において「情報通信技術活用法」という。）第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、六千九百円）</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -149,7 +149,7 @@
                 <Sentence WritingMode="vertical">再交付の申請</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">保障契約証明書一枚につき一万二千八百円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、一万二千七百円）</Sentence>
+                <Sentence WritingMode="vertical">保障契約証明書一枚につき六千円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、五千九百円）</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -194,7 +194,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十八条第一項の変更の届出を行おうとする者は、第四号様式による保障契約証明書記載事項変更届出書を国土交通大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第十八条第一項の変更の届出を行おうとする者は、第四号様式による保障契約証明書記載事項変更届出書を地方運輸局長に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -248,7 +248,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十九条の六において準用する法第十七条第一項の書面（以下「一般船舶保障契約証明書」という。）の交付を受けようとする者は、第六号様式による一般船舶保障契約証明書交付申請書を地方運輸局長（運輸監理部長を含む。以下同じ。）に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第三十九条の六において準用する法第十七条第一項の書面（以下「一般船舶保障契約証明書」という。）の交付を受けようとする者は、第六号様式による一般船舶保障契約証明書交付申請書を地方運輸局長に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -696,7 +696,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十九条の六において準用する法第十七条第一項、第二項、第四項及び第五項、第十八条並びに第十九条並びに法第四十一条の二第一項及び第三項に規定する国土交通大臣の権限は、地方運輸局長が行うものとする。</Sentence>
+            <Sentence WritingMode="vertical">法第十七条第一項、第二項、第四項及び第五項、第十八条並びに第十九条(これらの規定を法第三十九条の六において準用する場合を含む。)並びに法第四十一条の二第一項及び第三項に規定する国土交通大臣の権限は、地方運輸局長が行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -1076,7 +1076,7 @@
       <RelatedArticleNum>（附則第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_001.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1085,7 +1085,7 @@
       <RelatedArticleNum>（附則第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_002.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1407,7 +1407,7 @@
       <RelatedArticleNum>（附則第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_003.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1416,7 +1416,7 @@
       <RelatedArticleNum>（附則第４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_004.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1425,7 +1425,7 @@
       <RelatedArticleNum>（附則第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_005.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1434,7 +1434,7 @@
       <RelatedArticleNum>（附則第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_006.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1661,12 +1661,316 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年二月二八日国土交通省令第一〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、船舶油濁損害賠償保障法の一部を改正する法律（以下「改正法」という。）の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条、第四条及び第五条並びに次条から附則第九条まで及び附則第十一条第一項の規定は、改正法附則第一条ただし書に規定する規定の施行の日（令和二年三月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">改正法附則第二条第二項の国土交通省令で定める事由は、同条第一項の規定により交付した書面（以下「相当証書」という。）に係る保障契約の変更とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">相当証書の交付を受けようとする者は、別記様式一による相当証書交付申請書を地方運輸局長（運輸監理部長を含む。以下同じ。）に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">相当証書の交付の申請は、当該相当証書に係る保障契約における保障期間の開始日の三月前からすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項の申請を代理人により行う場合にあっては、申請書にその権限を証する書面を添付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">相当証書の再交付を受けようとする者は、別記様式二による相当証書再交付申請書を地方運輸局長に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の申請を、相当証書が損傷し、又はその識別が困難となったことによりしようとする者は、遅滞なく、当該相当証書を地方運輸局長に返納しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">地方運輸局長は、相当証書が滅失したことにより再交付を行った場合は、当該滅失した相当証書が無効であることを官報に公示する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前条第三項の規定は、第一項の申請について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">附則第三条第一項の規定による相当証書の交付又は前条第一項の規定による相当証書の再交付を申請しようとする者は、次に掲げる額の手数料を納付しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">交付の申請</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">相当証書一枚につき七千円（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。次号において「情報通信技術活用法」という。）第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあっては、六千九百円）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">再交付の申請</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">相当証書一枚につき六千円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあっては、五千九百円）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の手数料は、手数料の額に相当する収入印紙を附則第三条第一項又は前条第一項の申請書に貼って納付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">相当証書の様式は、次の各号に掲げる船舶の区分に応じ、それぞれ当該各号に定める様式による。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">改正法による改正後の船舶油濁等損害賠償保障法（昭和五十年法律第九十五号。以下「新法」という。）第四十一条第一項第一号に規定する第一種特定船舶</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">別記様式三</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">新法第四十一条第一項第二号に規定する第二種特定船舶</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">別記様式四</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">新法第四十九条第一項第一号に規定する第一種特定船舶</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">別記様式五</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">新法第四十九条第一項第二号に規定する第二種特定船舶</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">別記様式六</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">相当証書の有効期間は、改正法の施行の日（当該施行の日が、保障契約の保障期間の開始日前である場合にあっては、当該保障契約の開始日。以下この条において同じ。）から保障期間の満了する日までの期間とする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該期間が改正法の施行の日から一年を超える場合は、一年とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定にかかわらず、相当証書の有効期間の満了前に当該相当証書に係る保障契約が効力を失うこととなったときは、当該相当証書もその時において効力を失う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">相当証書の記載事項の変更の届出を行おうとする者は、別記様式七による相当証書記載事項変更届出書を地方運輸局長に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">附則第三条第三項の規定は、前項の届出について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">改正法附則第二条に規定する国土交通大臣の権限は、地方運輸局長が行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">改正法附則第四条第二項の規定により読み替えて準用する新法第四十四条及び第五十二条の国土交通省令で定める基準は、次の各号に掲げる書面の区分に応じ、それぞれ当該各号に定めるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">改正法附則第四条第二項第一号に掲げる契約に係る改正法による改正前の船舶油濁損害賠償保障法（以下この条において「旧法」という。）第三十九条の七第一項に規定する書面</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">旧法第三十九条の五（第一項第一号に係る部分に限る。）の規定</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">改正法附則第四条第二項第二号に掲げる契約に係る旧法第三十九条の七第一項に規定する書面</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">旧法第三十九条の五の規定</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">改正法附則第一条ただし書に規定する規定の施行の際現に交付されている第一条の規定による改正前の船舶油濁損害賠償保障法施行規則第三号様式による保障契約証明書は、同条の規定による改正後の船舶油濁損害賠償保障法施行規則第三号様式による保障契約証明書とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行の際現に交付されている第二条の規定による改正前の船舶油濁損害賠償保障法施行規則第三号様式による保障契約証明書（前項の規定により第一条の規定による改正後の船舶油濁損害賠償保障法施行規則第三号様式による保障契約証明書とみなされたものを含む。）は、同条の規定による改正後の船舶油濁等損害賠償保障法施行規則第三号様式によるタンカー保障契約証明書とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle>別記様式１（附則第３条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S51F03901000003_2006151606_007.jpg"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle>別記様式２（附則第４条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S51F03901000003_2006151606_008.jpg"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle>別記様式３（附則第６条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S51F03901000003_2006151606_009.jpg"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle>別記様式４（附則第６条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S51F03901000003_2006151606_010.jpg"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle>別記様式５（附則第６条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S51F03901000003_2006151606_011.jpg"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle>別記様式６（附則第６条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S51F03901000003_2006151606_012.jpg"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle>別記様式７（附則第８条関係）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S51F03901000003_2006151606_013.jpg"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１号様式</AppdxStyleTitle>
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_007.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1675,7 +1979,7 @@
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_008.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1684,7 +1988,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_009.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1693,7 +1997,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_010.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1702,7 +2006,7 @@
       <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_011.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1711,7 +2015,7 @@
       <RelatedArticleNum>（第１２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_012.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1720,7 +2024,7 @@
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_013.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1729,7 +2033,7 @@
       <RelatedArticleNum>（第１５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_014.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1738,7 +2042,7 @@
       <RelatedArticleNum>（第１７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_015.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1747,7 +2051,7 @@
       <RelatedArticleNum>（第２２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2005281805_016.pdf"/>
+          <Fig src="./pict/S51F03901000003_2006151606_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

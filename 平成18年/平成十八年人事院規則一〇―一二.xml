@@ -231,7 +231,14 @@
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
-            <ItemTitle>五</ItemTitle>
+            <ItemTitle>五　福島復興再生特別措置法第八十九条の三第七項に規定する派遣職員　同法第八十九条の九に規定する機構における特定業務</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">
+</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
                 <Sentence WritingMode="vertical">平成三十二年オリンピック・パラリンピック特措法第十七条第七項に規定する派遣職員</Sentence>
@@ -241,8 +248,8 @@
               </Column>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="6">
-            <ItemTitle>六</ItemTitle>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
                 <Sentence WritingMode="vertical">平成三十七年国際博覧会特措法第二十五条第七項に規定する派遣職員</Sentence>
@@ -772,6 +779,16 @@
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日人事院規則一―七五" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
         </ParagraphSentence>

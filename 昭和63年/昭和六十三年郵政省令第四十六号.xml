@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="46" Year="63">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="46" Year="63">
   <LawNum>昭和六十三年郵政省令第四十六号</LawNum>
   <LawBody>
     <LawTitle>電気通信事業報告規則</LawTitle>
@@ -92,7 +92,7 @@
                 <Sentence WritingMode="vertical">ＦＴＴＨアクセスサービス</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">そのすべての区間に光信号伝送用の端末系伝送路設備を用いてインターネットへの接続点までの間の通信を媒介する電気通信役務（主としてインターネットへの接続点までの間の通信を媒介するものを含む。）であつて、ベストエフォート型であるもの（共同住宅等内にＶＤＳＬ設備その他の電気通信設備を用いるものを含み、ＩＰ―ＶＰＮサービス、広域イーサネットサービスその他これらに類する電気通信役務であるものを除く。）をいう。</Sentence>
+                <Sentence WritingMode="vertical">その全ての区間に光信号伝送用の端末系伝送路設備を用いてインターネットへの接続点までの間の通信を媒介する電気通信役務（主としてインターネットへの接続点までの間の通信を媒介するものを含む。）であつて、ベストエフォート型であるもの（共同住宅等内にＶＤＳＬ設備その他の電気通信設備を用いるものを含み、ＩＰ―ＶＰＮサービス、広域イーサネットサービスその他これらに類する電気通信役務であるものを除く。）をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -147,7 +147,7 @@
                 <Sentence WritingMode="vertical">三・九―四世代移動通信アクセスサービス</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">前号に掲げる電気通信役務であつて、三・九―四世代移動通信システム（無線設備規則（昭和二十五年電波監理委員会規則第十八号）第四十九条の六の九又は第四十九条の六の十で定める条件に適合する無線設備をいう。以下同じ。）を用いて提供されるものをいう。</Sentence>
+                <Sentence WritingMode="vertical">携帯電話・ＰＨＳアクセスサービスであつて、三・九―四世代移動通信システム（無線設備規則（昭和二十五年電波監理委員会規則第十八号）第四十九条の六の九又は第四十九条の六の十で定める条件に適合する無線設備をいう。以下同じ。）を用いて提供されるものをいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -158,7 +158,7 @@
                 <Sentence WritingMode="vertical">第五世代移動通信アクセスサービス</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">第十一号に掲げる電気通信役務であつて、第五世代移動通信システム（無線設備規則第四十九条の六の十二で定める条件に適合する無線設備をいう。以下同じ。）を用いて提供されるものをいう。</Sentence>
+                <Sentence WritingMode="vertical">携帯電話・ＰＨＳアクセスサービスであつて、第五世代移動通信システム（無線設備規則第四十九条の六の十二で定める条件に適合する無線設備をいう。以下同じ。）を用いて提供されるものをいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -180,7 +180,7 @@
                 <Sentence WritingMode="vertical">公衆無線ＬＡＮアクセスサービス</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">利用者の電気通信設備と接続される一端が無線により構成される端末系伝送路設備（その一端が移動端末設備と接続されるものに限る。）又は電気通信事業の用に供する端末設備（移動端末設備との通信を行うものに限る。）を用いてインターネットへの接続点までの間の通信を媒介する電気通信役務（第五号及び第十一号から前号までに掲げるものを除く。）をいう。</Sentence>
+                <Sentence WritingMode="vertical">利用者の電気通信設備と接続される一端が無線により構成される端末系伝送路設備（その一端が移動端末設備と接続されるものに限る。）又は電気通信事業の用に供する端末設備（移動端末設備との通信を行うものに限る。）を用いてインターネットへの接続点までの間の通信を媒介する電気通信役務（衛星移動通信サービス、携帯電話・ＰＨＳアクセスサービス及びＢＷＡアクセスサービスを除く。）をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -213,7 +213,7 @@
                 <Sentence WritingMode="vertical">アンライセンスＬＰＷＡサービス</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">利用者の電気通信設備と接続される一端が無線により構成される端末系伝送路設備又は電気通信事業の用に供する端末設備を用いて提供されるデータ伝送役務であつて、電波法施行規則第六条第四項第二号（１）、（１３）若しくは第三号又は第十六条第十一号に掲げる無線局の無線設備を用いて提供されるもの（第九号及び第十五号に掲げるものを除く。）をいう。</Sentence>
+                <Sentence WritingMode="vertical">利用者の電気通信設備と接続される一端が無線により構成される端末系伝送路設備又は電気通信事業の用に供する端末設備を用いて提供されるデータ伝送役務であつて、電波法施行規則第六条第四項第二号⑴若しくは⒀若しくは第三号又は第十六条第十一号に掲げる無線局の無線設備を用いて提供されるもの（ＦＷＡアクセスサービス及び公衆無線ＬＡＮアクセスサービスを除く。）をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -247,6 +247,50 @@
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">契約約款その他の電気通信役務に関する料金その他の提供条件を定めるものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="22">
+            <ItemTitle>二十二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">スマートフォン</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">電気通信番号規則（令和元年総務省令第四号）別表第四号に掲げる音声伝送携帯電話番号を使用した音声伝送役務による通話を可能とする機能を有する移動端末設備であつて、タッチスクリーン（映像面を有する入出力装置であつて、当該映像面に使用者が触れることにより入力が行われるものをいう。第二十四号において同じ。）を有するもの（フィーチャーフォンに該当するものを除く。）をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="23">
+            <ItemTitle>二十三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">フィーチャーフォン</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">電気通信番号規則別表第四号に掲げる音声伝送携帯電話番号を使用した音声伝送役務による通話を可能とする機能を有する移動端末設備であつて、文字等を入力するための物理的なキーボードを有するものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="24">
+            <ItemTitle>二十四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">タブレット</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">データ伝送役務によるデータ通信を可能とする機能のみを有する移動端末設備であつて、タッチスクリーンを有するもの（スマートフォン、フィーチャーフォン及びモバイルルータに該当するものを除く。）をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="25">
+            <ItemTitle>二十五</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">モバイルルータ</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">データ伝送役務によるデータ通信を可能とする機能のみを有する移動端末設備であつて、主として他の端末設備のデータ通信を媒介するために用いられるものをいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -327,7 +371,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
-                  <Sentence WritingMode="vertical">ＩＰ電話（当該ＩＰ電話の提供のために電気通信番号規則（令和元年総務省令第四号）別表第一号に掲げる固定電話番号又は同表第六号に掲げる特定ＩＰ電話番号を使用するものに限る。）</Sentence>
+                  <Sentence WritingMode="vertical">ＩＰ電話（当該ＩＰ電話の提供のために電気通信番号規則別表第一号に掲げる固定電話番号又は同表第六号に掲げる特定ＩＰ電話番号を使用するものに限る。）</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
                   <Sentence WritingMode="vertical">ＩＰ電話を提供する電気通信事業者であつて、ＩＰ電話の提供のために電気通信番号規則別表第一号に掲げる固定電話番号又は同表第六号に掲げる特定ＩＰ電話番号の指定を受けたもの</Sentence>
@@ -717,6 +761,56 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Delete="false" Hide="false" Num="2_3">
+        <ArticleCaption>（移動電気通信役務に係る契約等の状況報告）</ArticleCaption>
+        <ArticleTitle>第二条の三</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">基地局を設置して携帯電話又はＢＷＡアクセスサービスを提供する電気通信事業者及び報告年度末における仮想移動電気通信サービス（携帯電話又はＢＷＡアクセスサービスであるものに限る。）の契約数（無線設備規則第四十九条の六の九第一項第一号ヘに規定するキャリアアグリゲーション技術を用いて複数の電気通信回線を一体として提供している場合には、当該複数の電気通信回線を一の契約数とする。）が五十万以上である電気通信事業者は、様式第二十の四により、移動電気通信役務に係る契約等の状況について、毎報告年度経過後一月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2_4">
+        <ArticleCaption>（移動電気通信役務に係る新規契約数等の状況報告）</ArticleCaption>
+        <ArticleTitle>第二条の四</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十七条の三第一項の規定により指定された電気通信事業者は、様式第二十の五により、移動電気通信役務に係る新規契約数等の状況について、毎四半期経過後二月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2_5">
+        <ArticleCaption>（移動電気通信役務に係る収入状況報告）</ArticleCaption>
+        <ArticleTitle>第二条の五</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十七条の三第一項の規定により指定された電気通信事業者は、様式第二十の六により、移動電気通信役務に係る収入の状況について、毎四半期経過後二月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2_6">
+        <ArticleCaption>（違約金等の定めがある契約の提供状況報告）</ArticleCaption>
+        <ArticleTitle>第二条の六</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十七条の三第一項の規定により指定された電気通信事業者は、様式第二十の七により、違約金等の定めがある契約の提供の状況について、毎四半期経過後二月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2_7">
+        <ArticleCaption>（継続利用割引等の提供状況報告）</ArticleCaption>
+        <ArticleTitle>第二条の七</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十七条の三第一項の規定により指定された電気通信事業者は、様式第二十の八により、継続利用割引等（契約を一定期間継続して締結していたことに応じて利用者に提供される移動電気通信役務の料金（付加的な機能の料金を除く。）の減免その他これと同等の利益をいう。以下同じ。）の提供の状況について、毎四半期経過後二月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Delete="false" Hide="false" Num="3">
         <ArticleCaption>（伝送路設備設置状況報告等）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
@@ -763,42 +857,72 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="4_3">
-        <ArticleCaption>（契約代理業者への支払金支出状況報告）</ArticleCaption>
+        <ArticleCaption>（届出媒介等業務受託者への支払金支出状況報告）</ArticleCaption>
         <ArticleTitle>第四条の三</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">電気通信回線設備を設置して携帯電話又はＰＨＳの電気通信役務を提供する電気通信事業者は、契約代理業者への支払金（電気通信事業者が当該電気通信事業者の電気通信役務の提供に関する契約の締結の媒介、取次ぎ又は代理を業として行う者に対して支払う金銭をいう。以下同じ。）の支出状況について、様式第二十三の三により、毎四半期経過後一月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十七条の三第一項の規定により指定された電気通信事業者は、様式第二十三の三により、届出媒介等業務受託者への支払金の支出の状況について、毎四半期経過後二月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="4_4">
-        <ArticleCaption>（移動端末設備の購入を条件とした割引等の提供状況報告）</ArticleCaption>
+        <ArticleCaption>（移動端末設備の製造事業者への支払金支出状況報告）</ArticleCaption>
         <ArticleTitle>第四条の四</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">電気通信回線設備を設置して携帯電話の電気通信役務を提供する電気通信事業者は、利用者に対する当該電気通信役務に係る移動端末設備の購入を条件とした当該電気通信役務の料金又は当該移動端末設備の購入代金の割引及び金銭その他の物品又は役務の代価とすることができる経済上の利益の提供の状況について、様式第二十三の四により、毎四半期経過後二月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="4_4_2">
-        <ArticleCaption>（中古の移動端末設備の取扱状況等報告）</ArticleCaption>
-        <ArticleTitle>第四条の四の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">電気通信回線設備を設置して携帯電話を提供する電気通信事業者は、中古の移動端末設備の入手及び売却等の状況について、様式第二十三の四の二により、毎報告年度経過後三月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十七条の三第一項の規定により指定された電気通信事業者は、様式第二十三の四により、移動端末設備の製造事業者への支払金の支出の状況について、毎四半期経過後二月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="4_5">
-        <ArticleCaption>（卸電気通信役務の提供に関する報告）</ArticleCaption>
+        <ArticleCaption>（対象設備の購入等を条件とした経済的利益の提供状況報告）</ArticleCaption>
         <ArticleTitle>第四条の五</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第二種指定電気通信設備を設置する電気通信事業者の特定関係法人である電気通信事業者であつて、その一端が特定移動端末設備と接続される伝送路設備を設置するもの（第二種指定電気通信設備を設置する電気通信事業者を除く。）は、対象卸電気通信役務（当該伝送路設備を用いる携帯電話又はＢＷＡアクセスサービス（無線設備規則第三条第十二号に規定する時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムのうち、同号に規定するシングルキャリア周波数分割多元接続方式と他の接続方式を組み合わせた接続方式を用いることが可能なものを使用するものに限る。）の卸電気通信役務（通信モジュール（特定の業務の用に供する通信に用途が限定されている利用者の電気通信設備をいう。以下同じ。）向けに提供するものを除く。）をいう。以下この条において同じ。）を電気通信事業者（当該伝送路設備を設置する電気通信事業者の特定関係法人であるもの（その提供を受ける対象卸電気通信役務に用いられる伝送路設備に接続される特定移動端末設備の数が五万未満のものを除く。）又はその提供を受ける対象卸電気通信役務に用いられる伝送路設備に接続される特定移動端末設備の数が五十万以上のものに限る。以下この条において「卸先電気通信事業者」という。）に対して提供する業務を行うときは、当該卸先電気通信事業者ごとの次に掲げる事項について、様式第二十三の五により、当該事項に関する契約書その他の書面の写しを添えて、遅滞なく、書面等により総務大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十七条の三第一項の規定により指定された電気通信事業者及び前年度末における営業所その他の事務所の数が百以上の届出媒介等業務受託者は、様式第二十三の五により、移動電気通信役務の提供に関する契約を締結し、又は締結していること（移動電気通信役務の提供に関する契約を締結し、又は締結していることとなるものを含む。以下同じ。）及び対象設備の購入等をすることを条件とし、又は新たに移動電気通信役務の提供に関する契約を締結すること（新たに移動電気通信役務の提供に関する契約を締結することとなることを含む。以下同じ。）を条件とした経済的利益の提供の状況について、毎四半期経過後二月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4_6">
+        <ArticleCaption>（在庫端末等の購入等を条件とした利益の提供状況報告）</ArticleCaption>
+        <ArticleTitle>第四条の六</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十七条の三第一項の規定により指定された電気通信事業者及び前年度末における営業所その他の事務所の数が百以上の届出媒介等業務受託者は、様式第二十三の六により、電気通信事業法施行規則第二十二条の二の十六第一項第二号イからニまでに規定する利益の提供の状況について、毎四半期経過後二月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4_7">
+        <ArticleCaption>（移動端末設備の取扱状況等報告）</ArticleCaption>
+        <ArticleTitle>第四条の七</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十七条の三第一項の規定により指定された電気通信事業者は、様式第二十三の七により、移動端末設備の取扱状況等について、毎四半期経過後二月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4_8">
+        <ArticleCaption>（中古の移動端末設備の取扱状況等報告）</ArticleCaption>
+        <ArticleTitle>第四条の八</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">基地局を設置して携帯電話又はＢＷＡアクセスサービスを提供する電気通信事業者は、中古の移動端末設備の入手及び売却等の状況について、様式第二十三の八により、毎報告年度経過後三月以内に、書面等により総務大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4_9">
+        <ArticleCaption>（卸電気通信役務の提供に関する報告）</ArticleCaption>
+        <ArticleTitle>第四条の九</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第二種指定電気通信設備を設置する電気通信事業者の特定関係法人である電気通信事業者であつて、その一端が特定移動端末設備と接続される伝送路設備を設置するもの（第二種指定電気通信設備を設置する電気通信事業者を除く。）は、対象卸電気通信役務（当該伝送路設備を用いる携帯電話又はＢＷＡアクセスサービス（無線設備規則第三条第十二号に規定する時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムのうち、同号に規定するシングルキャリア周波数分割多元接続方式と他の接続方式を組み合わせた接続方式を用いることが可能なものを使用するものに限る。）の卸電気通信役務（通信モジュール（特定の業務の用に供する通信に用途が限定されている利用者の電気通信設備をいう。以下同じ。）向けに提供するものを除く。）をいう。以下この条において同じ。）を電気通信事業者（当該伝送路設備を設置する電気通信事業者の特定関係法人であるもの（その提供を受ける対象卸電気通信役務に用いられる伝送路設備に接続される特定移動端末設備の数が五万未満のものを除く。）又はその提供を受ける対象卸電気通信役務に用いられる伝送路設備に接続される特定移動端末設備の数が五十万以上のものに限る。以下この条において「卸先電気通信事業者」という。）に対して提供する業務を行うときは、当該卸先電気通信事業者ごとの次に掲げる事項について、様式第二十三の九により、当該事項に関する契約書その他の書面の写しを添えて、遅滞なく、書面等により総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -888,14 +1012,14 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">前項の報告をした者は、当該報告をした事項に変更があつたときは、様式第二十三の六により、当該事項に関する契約書その他の書面の写しを添えて、遅滞なく、書面等により総務大臣に提出しなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">前項の報告をした者は、当該報告をした事項に変更があつたときは、様式第二十三の十により、当該事項に関する契約書その他の書面の写しを添えて、遅滞なく、書面等により総務大臣に提出しなければならない。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、軽微な変更については、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第一項の報告をした者は、同項に規定する業務を行わなくなつたときは、様式第二十三の七により、遅滞なく、書面等により総務大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">第一項の報告をした者は、同項に規定する業務を行わなくなつたときは、様式第二十三の十一により、遅滞なく、書面等により総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="4">
@@ -907,13 +1031,13 @@
         <Paragraph Hide="false" Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の規定による報告をしようとする者は、様式第二十三の八により、同項の契約約款を記載した書類を添えて、総務大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項の規定による報告をしようとする者は、様式様式第二十三の十二により、同項の契約約款を記載した書類を添えて、総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第四項の規定により報告した契約約款の変更の届出をしようとする者は、様式第二十三の八により、当該契約約款の新旧対照を記載した書類を添えて、総務大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">第四項の規定により報告した契約約款の変更の届出をしようとする者は、様式第二十三の十二により、当該契約約款の新旧対照を記載した書類を添えて、総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="7">
@@ -923,34 +1047,34 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="4_6">
+      <Article Delete="false" Hide="false" Num="4_10">
         <ArticleCaption>（利用者保護に関する報告）</ArticleCaption>
-        <ArticleTitle>第四条の六</ArticleTitle>
+        <ArticleTitle>第四条の十</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">電気通信事業法第二十六条第一項各号に掲げる電気通信役務（別表に掲げる区分による種類（以下「別表種類」という。）ごとに毎四半期末における契約（説明義務対象外契約（同条の規定により提供条件の概要の説明をすべき契約以外の契約をいう。以下同じ。）を除く。）の数が一万以上である電気通信役務に限る。）を提供する電気通信事業者は、様式第二十三の九により、毎四半期経過後一月以内に、当該別表種類に係る当該毎四半期末の当該電気通信役務の名称等について、書面等により総務大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十六条第一項各号に掲げる電気通信役務（別表に掲げる区分による種類（以下「別表種類」という。）ごとに毎四半期末における契約（説明義務対象外契約（同条の規定により提供条件の概要の説明をすべき契約以外の契約をいう。以下同じ。）を除く。）の数が一万以上である電気通信役務に限る。）を提供する電気通信事業者は、様式第二十三の十三により、毎四半期経過後一月以内に、当該別表種類に係る当該毎四半期末の当該電気通信役務の名称等について、書面等により総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">電気通信事業法第二十六条第一項第一号又は第二号に掲げる電気通信役務（別表種類ごとに毎四半期末における契約（説明義務対象外契約を除く。）の数が一万以上である電気通信役務に限る。）を提供する電気通信事業者は、様式第二十三の十により、毎四半期経過後二月以内に、当該別表種類に係る当該毎四半期末の書面解除（電気通信事業法施行規則第二十二条の二の三第一項第九号に規定する書面解除をいう。）に関する契約状況等及び確認措置契約（同令第二十二条の二の七第一項第五号に規定する確認措置契約をいう。）に関する契約状況等について、書面等により総務大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十六条第一項第一号又は第二号に掲げる電気通信役務（別表種類ごとに毎四半期末における契約（説明義務対象外契約を除く。）の数が一万以上である電気通信役務に限る。）を提供する電気通信事業者は、様式第二十三の十四により、四半期経過後二月以内に、当該別表種類に係る当該毎四半期末の書面解除（電気通信事業法施行規則第二十二条の二の三第一項第九号に規定する書面解除をいう。）に関する契約状況等及び確認措置契約（同令第二十二条の二の七第一項第五号に規定する確認措置契約をいう。）に関する契約状況等について、書面等により総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">電気通信事業法第二十六条第一項第一号又は第二号に掲げる電気通信役務を提供する電気通信事業者（別表種類ごとに毎報告年度末における契約（説明義務対象外契約を除く。）の数が一万以上である電気通信事業者であつて、当該報告年度末において媒介等業務受託者に当該電気通信役務に係る媒介等業務及びこれに付随する業務の委託をしているものに限る。）は、様式第二十三の十一により、毎報告年度経過後二月以内に、当該別表種類に係る当該毎報告年度末の当該電気通信役務の媒介等業務受託者の名称等について、書面等により総務大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十六条第一項第一号又は第二号に掲げる電気通信役務を提供する電気通信事業者（別表種類ごとに毎報告年度末における契約（説明義務対象外契約を除く。）の数が一万以上である電気通信事業者であつて、当該報告年度末において媒介等業務受託者に当該電気通信役務に係る媒介等業務及びこれに付随する業務の委託をしているものに限る。）は、様式第二十三の十五により、毎報告年度経過後二月以内に、当該別表種類に係る当該毎報告年度末の当該電気通信役務の媒介等業務受託者の名称等について、書面等により総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="4_7">
-        <ArticleTitle>第四条の七</ArticleTitle>
+      <Article Delete="false" Hide="false" Num="4_11">
+        <ArticleTitle>第四条の十一</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">電気通信事業法第二十六条第一項第一号又は第二号に掲げる電気通信役務の契約の締結の媒介等の業務を行う届出媒介等業務受託者は、様式第二十三の十二により、毎報告年度経過後二月以内に、当該毎報告年度末における営業所その他の事業所（利用者に対して対面により当該媒介等を行うものに限る。）の所在地等及び再委託先の媒介等業務受託者の名称等について、書面等により総務大臣に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">電気通信事業法第二十六条第一項第一号又は第二号に掲げる電気通信役務の契約の締結の媒介等の業務を行う届出媒介等業務受託者は、様式第二十三の十六により、毎報告年度経過後二月以内に、当該毎報告年度末における営業所その他の事業所（利用者に対して対面により当該媒介等を行うものに限る。）の所在地等及び再委託先の媒介等業務受託者の名称等について、書面等により総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1176,7 +1300,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">総務大臣は、第二条、第四条の六第二項及び第八条の規定により提出された書面等に記載又は記録された事項を集計し、定期的にその結果を公表するものとする。</Sentence>
+            <Sentence WritingMode="vertical">総務大臣は、第二条、第四条の十第二項及び第八条の規定により提出された書面等に記載又は記録された事項を集計し、定期的にその結果を公表するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1186,7 +1310,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第二条から第八条まで及び第十条の規定により総務大臣に提出する書面等は、電気通信事業者の住所を管轄する総合通信局長（沖縄総合通信事務所長を含む。）を経由して提出することができる。</Sentence>
+            <Sentence WritingMode="vertical">第二条、第三条から第四条の二まで及び第四条の九から第八条までの規定により総務大臣に提出する書面等は、電気通信事業者の住所を管轄する総合通信局長（沖縄総合通信事務所長を含む。）を経由して提出することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1800,12 +1924,12 @@
       <AppdxStyleTitle WritingMode="vertical">様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_001.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_001.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_002.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2013,6 +2137,23 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、電気通信事業法の一部を改正する法律（令和元年法律第五号）の施行の日（令和元年十月一日）から施行し、報告期限が令和二年六月一日以降である報告から適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年九月一三日総務省令第四三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、電気通信事業法の一部を改正する法律（令和元年法律第五号）の施行の日（令和元年十月一日。以下「施行日」という。）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令による改正後の電気通信事業報告規則の規定は、施行日以後の事項に関する報告について適用し、施行日前の事項に関する報告については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -2257,7 +2398,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_003.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2266,7 +2407,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_004.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2275,7 +2416,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_005.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2284,7 +2425,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_006.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2293,7 +2434,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_007.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2302,7 +2443,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_008.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2311,7 +2452,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_009.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2320,7 +2461,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_010.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2329,7 +2470,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_011.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2338,7 +2479,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_012.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2347,7 +2488,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_013.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2356,7 +2497,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_014.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2365,7 +2506,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_015.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2374,7 +2515,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_016.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2383,7 +2524,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_017.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2392,7 +2533,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_018.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2401,7 +2542,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_020.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2410,7 +2551,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_021.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2419,7 +2560,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_022.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2428,7 +2569,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_023.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2437,7 +2578,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_024.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2446,7 +2587,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_025.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2455,7 +2596,7 @@
       <RelatedArticleNum>（第２条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_026.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2464,7 +2605,7 @@
       <RelatedArticleNum>（第２条第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_027.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2473,7 +2614,7 @@
       <RelatedArticleNum>（第２条第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_028.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2482,7 +2623,7 @@
       <RelatedArticleNum>（第２条第４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_029.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2491,7 +2632,7 @@
       <RelatedArticleNum>（第２条第４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_030.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2500,7 +2641,7 @@
       <RelatedArticleNum>（第２条第４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_031.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2509,7 +2650,7 @@
       <RelatedArticleNum>（第２条の２第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_032.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2518,7 +2659,52 @@
       <RelatedArticleNum>（第２条の２第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_033.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_032.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第２０の４</AppdxStyleTitle>
+      <RelatedArticleNum>（第２条の３関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S63F04001000046_2006172206_033.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第２０の５</AppdxStyleTitle>
+      <RelatedArticleNum>（第２条の４関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S63F04001000046_2006172206_034.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第２０の６</AppdxStyleTitle>
+      <RelatedArticleNum>（第２条の５関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S63F04001000046_2006172206_035.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第２０の７</AppdxStyleTitle>
+      <RelatedArticleNum>（第２条の６関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S63F04001000046_2006172206_036.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第２０の８</AppdxStyleTitle>
+      <RelatedArticleNum>（第２条の７関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S63F04001000046_2006172206_037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2527,7 +2713,7 @@
       <RelatedArticleNum>（第３条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_034.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_038.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2536,7 +2722,7 @@
       <RelatedArticleNum>（第３条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_035.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_039.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2545,7 +2731,7 @@
       <RelatedArticleNum>（第３条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_036.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_040.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2554,7 +2740,7 @@
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_037.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_041.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2563,7 +2749,7 @@
       <RelatedArticleNum>（第４条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_038.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_042.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2572,7 +2758,7 @@
       <RelatedArticleNum>（第４条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_039.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_043.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2581,88 +2767,115 @@
       <RelatedArticleNum>（第４条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_040.pdf"/>
-        </Style>
-      </StyleStruct>
-    </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">様式第２３の４の２</AppdxStyleTitle>
-      <RelatedArticleNum>（第４条の４の２関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_041.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_044.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２３の５</AppdxStyleTitle>
-      <RelatedArticleNum>（第４条の５第１項関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第４条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_042.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_045.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２３の６</AppdxStyleTitle>
-      <RelatedArticleNum>（第４条の５第２項関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第４条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_043.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_046.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２３の７</AppdxStyleTitle>
-      <RelatedArticleNum>（第４条の５第３項関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第４条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_044.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_047.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２３の８</AppdxStyleTitle>
-      <RelatedArticleNum>（第４条の５第５項及び第６項関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第４条の８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_045.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_048.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２３の９</AppdxStyleTitle>
-      <RelatedArticleNum>（第４条の６第１項関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第４条の９第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_046.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_049.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２３の１０</AppdxStyleTitle>
-      <RelatedArticleNum>（第４条の６第２項関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第４条の９第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_047.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_050.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">様式２３の１１</AppdxStyleTitle>
-      <RelatedArticleNum>（第４条の６第３項関係）</RelatedArticleNum>
+      <AppdxStyleTitle WritingMode="vertical">様式第２３の１１</AppdxStyleTitle>
+      <RelatedArticleNum>（第４条の９第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_048.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_051.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第２３の１２</AppdxStyleTitle>
-      <RelatedArticleNum>（第４条の７関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第４条の９第５項及び第６項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_049.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_052.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第２３の１３</AppdxStyleTitle>
+      <RelatedArticleNum>（第４条の１０第１項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S63F04001000046_2006172206_053.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第２３の１４</AppdxStyleTitle>
+      <RelatedArticleNum>（第４条の１０第２項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S63F04001000046_2006172206_054.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第２３の１５</AppdxStyleTitle>
+      <RelatedArticleNum>（第４条の１０第３項関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S63F04001000046_2006172206_055.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">様式第２３の１６</AppdxStyleTitle>
+      <RelatedArticleNum>（第４条の１１関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S63F04001000046_2006172206_056.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2671,7 +2884,7 @@
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_050.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_057.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2680,7 +2893,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_051.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_058.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2692,7 +2905,7 @@
       <RelatedArticleNum>（第７条の２第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_052.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_059.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2701,7 +2914,7 @@
       <RelatedArticleNum>（第７条の２第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_053.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_060.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2710,7 +2923,7 @@
       <RelatedArticleNum>（第７条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_054.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_061.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2719,7 +2932,7 @@
       <RelatedArticleNum>（第７条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_055.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_062.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2728,7 +2941,7 @@
       <RelatedArticleNum>（第７条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_056.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_063.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2737,7 +2950,7 @@
       <RelatedArticleNum>（第７条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_057.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_064.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2746,7 +2959,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_058.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_065.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2755,7 +2968,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_059.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_066.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2764,7 +2977,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_060.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_067.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2773,7 +2986,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_061.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_068.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2782,7 +2995,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_062.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_069.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2791,7 +3004,7 @@
       <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_1910021810_063.pdf"/>
+          <Fig src="./pict/S63F04001000046_2006172206_070.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

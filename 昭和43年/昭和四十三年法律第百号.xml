@@ -62,15 +62,15 @@
           <ArticleRange>（第六十五条―第七十五条）</ArticleRange>
         </TOCSection>
       </TOCChapter>
-      <TOCChapter Num="5">
+      <TOCChapter Delete="false" Num="5">
         <ChapterTitle>第五章　都市施設等整備協定</ChapterTitle>
         <ArticleRange>（第七十五条の二―第七十五条の四）</ArticleRange>
       </TOCChapter>
-      <TOCChapter Num="6">
+      <TOCChapter Delete="false" Num="6">
         <ChapterTitle>第六章　都市計画協力団体</ChapterTitle>
         <ArticleRange>（第七十五条の五―第七十五条の十）</ArticleRange>
       </TOCChapter>
-      <TOCChapter Num="7">
+      <TOCChapter Delete="false" Num="7">
         <ChapterTitle>第七章　社会資本整備審議会の調査審議等及び都道府県都市計画審議会等</ChapterTitle>
         <ArticleRange>（第七十六条―第七十八条）</ArticleRange>
       </TOCChapter>
@@ -2206,8 +2206,7 @@
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">市町村は、都市計画区域又は準都市計画区域について都市計画（都市計画区域について定めるものにあつては区域外都市施設に関するものを含み、地区計画等にあつては当該都市計画に定めようとする事項のうち政令で定める地区施設の配置及び規模その他の事項に限る。）を決定しようとするときは、あらかじめ、都道府県知事に協議しなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、町村にあつては都道府県知事の同意を得なければならない。</Sentence>
+                <Sentence WritingMode="vertical">市町村は、都市計画区域又は準都市計画区域について都市計画（都市計画区域について定めるものにあつては区域外都市施設に関するものを含み、地区計画等にあつては当該都市計画に定めようとする事項のうち政令で定める地区施設の配置及び規模その他の事項に限る。）を決定しようとするときは、あらかじめ、都道府県知事に協議しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="4">
@@ -4745,243 +4744,243 @@
           </Article>
         </Section>
       </Chapter>
-      <Chapter Num="5">
+      <Chapter Delete="false" Hide="false" Num="5">
         <ChapterTitle>第五章　都市施設等整備協定</ChapterTitle>
-        <Article Num="75_2">
+        <Article Delete="false" Hide="false" Num="75_2">
           <ArticleCaption>（都市施設等整備協定の締結等）</ArticleCaption>
           <ArticleTitle>第七十五条の二</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>都道府県又は市町村は、都市計画（都市施設、地区施設その他の国土交通省令で定める施設（以下この項において「都市施設等」という。）の整備に係るものに限る。）の案を作成しようとする場合において、当該都市計画に係る都市施設等の円滑かつ確実な整備を図るため特に必要があると認めるときは、当該都市施設等の整備を行うと見込まれる者（第七十五条の四において「施設整備予定者」という。）との間において、次に掲げる事項を定めた協定（以下「都市施設等整備協定」という。）を締結することができる。</Sentence>
+              <Sentence WritingMode="vertical">都道府県又は市町村は、都市計画（都市施設、地区施設その他の国土交通省令で定める施設（以下この項において「都市施設等」という。）の整備に係るものに限る。）の案を作成しようとする場合において、当該都市計画に係る都市施設等の円滑かつ確実な整備を図るため特に必要があると認めるときは、当該都市施設等の整備を行うと見込まれる者（第七十五条の四において「施設整備予定者」という。）との間において、次に掲げる事項を定めた協定（以下「都市施設等整備協定」という。）を締結することができる。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
+            <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>都市施設等整備協定の目的となる都市施設等（以下この項において「協定都市施設等」という。）</Sentence>
+                <Sentence WritingMode="vertical">都市施設等整備協定の目的となる都市施設等（以下この項において「協定都市施設等」という。）</Sentence>
               </ItemSentence>
             </Item>
-            <Item Num="2">
+            <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>協定都市施設等の位置、規模又は構造</Sentence>
+                <Sentence WritingMode="vertical">協定都市施設等の位置、規模又は構造</Sentence>
               </ItemSentence>
             </Item>
-            <Item Num="3">
+            <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>協定都市施設等の整備の実施時期</Sentence>
+                <Sentence WritingMode="vertical">協定都市施設等の整備の実施時期</Sentence>
               </ItemSentence>
             </Item>
-            <Item Num="4">
+            <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence>次に掲げる事項のうち必要なもの</Sentence>
+                <Sentence WritingMode="vertical">次に掲げる事項のうち必要なもの</Sentence>
               </ItemSentence>
-              <Subitem1 Num="1">
+              <Subitem1 Delete="false" Hide="false" Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>協定都市施設等の整備の方法</Sentence>
+                  <Sentence WritingMode="vertical">協定都市施設等の整備の方法</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
-              <Subitem1 Num="2">
+              <Subitem1 Delete="false" Hide="false" Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>協定都市施設等の用途の変更の制限その他の協定都市施設等の存置のための行為の制限に関する事項</Sentence>
+                  <Sentence WritingMode="vertical">協定都市施設等の用途の変更の制限その他の協定都市施設等の存置のための行為の制限に関する事項</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
-              <Subitem1 Num="3">
+              <Subitem1 Delete="false" Hide="false" Num="3">
                 <Subitem1Title>ハ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>その他協定都市施設等の整備に関する事項</Sentence>
+                  <Sentence WritingMode="vertical">その他協定都市施設等の整備に関する事項</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
-            <Item Num="5">
+            <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>都市施設等整備協定に違反した場合の措置</Sentence>
+                <Sentence WritingMode="vertical">都市施設等整備協定に違反した場合の措置</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
+          <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>都道府県又は市町村は、都市施設等整備協定を締結したときは、国土交通省令で定めるところにより、その旨を公告し、かつ、当該都市施設等整備協定の写しを当該都道府県又は市町村の事務所に備えて公衆の縦覧に供しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">都道府県又は市町村は、都市施設等整備協定を締結したときは、国土交通省令で定めるところにより、その旨を公告し、かつ、当該都市施設等整備協定の写しを当該都道府県又は市町村の事務所に備えて公衆の縦覧に供しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="75_3">
+        <Article Delete="false" Hide="false" Num="75_3">
           <ArticleCaption>（都市施設等整備協定に従つた都市計画の案の作成等）</ArticleCaption>
           <ArticleTitle>第七十五条の三</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>都道府県又は市町村は、都市施設等整備協定を締結したときは、当該都市施設等整備協定において定められた前条第一項第二号に掲げる事項に従つて都市計画の案を作成して、当該都市施設等整備協定において定められた同項第三号に掲げる事項を勘案して適当な時期までに、都道府県都市計画審議会（市町村都市計画審議会が置かれている市町村にあつては、当該市町村都市計画審議会。次項において同じ。）に付議しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">都道府県又は市町村は、都市施設等整備協定を締結したときは、当該都市施設等整備協定において定められた前条第一項第二号に掲げる事項に従つて都市計画の案を作成して、当該都市施設等整備協定において定められた同項第三号に掲げる事項を勘案して適当な時期までに、都道府県都市計画審議会（市町村都市計画審議会が置かれている市町村にあつては、当該市町村都市計画審議会。次項において同じ。）に付議しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
+          <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>都道府県又は市町村は、前項の規定により都市計画の案を都道府県都市計画審議会に付議しようとするときは、当該都市計画の案に併せて、当該都市施設等整備協定の写しを提出しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">都道府県又は市町村は、前項の規定により都市計画の案を都道府県都市計画審議会に付議しようとするときは、当該都市計画の案に併せて、当該都市施設等整備協定の写しを提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="75_4">
+        <Article Delete="false" Hide="false" Num="75_4">
           <ArticleCaption>（開発許可の特例）</ArticleCaption>
           <ArticleTitle>第七十五条の四</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>都道府県又は市町村は、都市施設等整備協定に第七十五条の二第一項第四号イに掲げる事項として施設整備予定者が行う開発行為（第二十九条第一項各号に掲げるものを除き、第三十二条第一項の同意又は同条第二項の規定による協議を要する場合にあつては、当該同意が得られ、又は当該協議が行われているものに限る。）に関する事項を定めようとするときは、国土交通省令で定めるところにより、あらかじめ、第二十九条第一項の許可の権限を有する者に協議し、その同意を得ることができる。</Sentence>
+              <Sentence WritingMode="vertical">都道府県又は市町村は、都市施設等整備協定に第七十五条の二第一項第四号イに掲げる事項として施設整備予定者が行う開発行為（第二十九条第一項各号に掲げるものを除き、第三十二条第一項の同意又は同条第二項の規定による協議を要する場合にあつては、当該同意が得られ、又は当該協議が行われているものに限る。）に関する事項を定めようとするときは、国土交通省令で定めるところにより、あらかじめ、第二十九条第一項の許可の権限を有する者に協議し、その同意を得ることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
+          <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前項の規定による同意を得た事項が定められた都市施設等整備協定が第七十五条の二第二項の規定により公告されたときは、当該公告の日に当該事項に係る施設整備予定者に対する第二十九条第一項の許可があつたものとみなす。</Sentence>
+              <Sentence WritingMode="vertical">前項の規定による同意を得た事項が定められた都市施設等整備協定が第七十五条の二第二項の規定により公告されたときは、当該公告の日に当該事項に係る施設整備予定者に対する第二十九条第一項の許可があつたものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
       </Chapter>
-      <Chapter Num="6">
+      <Chapter Delete="false" Hide="false" Num="6">
         <ChapterTitle>第六章　都市計画協力団体</ChapterTitle>
-        <Article Num="75_5">
+        <Article Delete="false" Hide="false" Num="75_5">
           <ArticleCaption>（都市計画協力団体の指定）</ArticleCaption>
           <ArticleTitle>第七十五条の五</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>市町村長は、次条に規定する業務を適正かつ確実に行うことができると認められる法人その他これに準ずるものとして国土交通省令で定める団体を、その申請により、都市計画協力団体として指定することができる。</Sentence>
+              <Sentence WritingMode="vertical">市町村長は、次条に規定する業務を適正かつ確実に行うことができると認められる法人その他これに準ずるものとして国土交通省令で定める団体を、その申請により、都市計画協力団体として指定することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
+          <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>市町村長は、前項の規定による指定をしたときは、当該都市計画協力団体の名称、住所及び事務所の所在地を公示しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">市町村長は、前項の規定による指定をしたときは、当該都市計画協力団体の名称、住所及び事務所の所在地を公示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
+          <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>都市計画協力団体は、その名称、住所又は事務所の所在地を変更しようとするときは、あらかじめ、その旨を市町村長に届け出なければならない。</Sentence>
+              <Sentence WritingMode="vertical">都市計画協力団体は、その名称、住所又は事務所の所在地を変更しようとするときは、あらかじめ、その旨を市町村長に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
+          <Paragraph Hide="false" Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>市町村長は、前項の規定による届出があつたときは、当該届出に係る事項を公示しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">市町村長は、前項の規定による届出があつたときは、当該届出に係る事項を公示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="75_6">
+        <Article Delete="false" Hide="false" Num="75_6">
           <ArticleCaption>（都市計画協力団体の業務）</ArticleCaption>
           <ArticleTitle>第七十五条の六</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>都市計画協力団体は、当該市町村の区域内において、次に掲げる業務を行うものとする。</Sentence>
+              <Sentence WritingMode="vertical">都市計画協力団体は、当該市町村の区域内において、次に掲げる業務を行うものとする。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
+            <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>当該市町村がする都市計画の決定又は変更に関し、住民の土地利用に関する意向その他の事情の把握、都市計画の案の内容となるべき事項の周知その他の協力を行うこと。</Sentence>
+                <Sentence WritingMode="vertical">当該市町村がする都市計画の決定又は変更に関し、住民の土地利用に関する意向その他の事情の把握、都市計画の案の内容となるべき事項の周知その他の協力を行うこと。</Sentence>
               </ItemSentence>
             </Item>
-            <Item Num="2">
+            <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>土地所有者等に対し、土地利用の方法に関する提案、土地利用の方法に関する知識を有する者の派遣その他の土地の有効かつ適切な利用を図るために必要な援助を行うこと。</Sentence>
+                <Sentence WritingMode="vertical">土地所有者等に対し、土地利用の方法に関する提案、土地利用の方法に関する知識を有する者の派遣その他の土地の有効かつ適切な利用を図るために必要な援助を行うこと。</Sentence>
               </ItemSentence>
             </Item>
-            <Item Num="3">
+            <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>都市計画に関する情報又は資料を収集し、及び提供すること。</Sentence>
+                <Sentence WritingMode="vertical">都市計画に関する情報又は資料を収集し、及び提供すること。</Sentence>
               </ItemSentence>
             </Item>
-            <Item Num="4">
+            <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence>都市計画に関する調査研究を行うこと。</Sentence>
+                <Sentence WritingMode="vertical">都市計画に関する調査研究を行うこと。</Sentence>
               </ItemSentence>
             </Item>
-            <Item Num="5">
+            <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>都市計画に関する知識の普及及び啓発を行うこと。</Sentence>
+                <Sentence WritingMode="vertical">都市計画に関する知識の普及及び啓発を行うこと。</Sentence>
               </ItemSentence>
             </Item>
-            <Item Num="6">
+            <Item Delete="false" Hide="false" Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence>前各号に掲げる業務に附帯する業務を行うこと。</Sentence>
+                <Sentence WritingMode="vertical">前各号に掲げる業務に附帯する業務を行うこと。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="75_7">
+        <Article Delete="false" Hide="false" Num="75_7">
           <ArticleCaption>（監督等）</ArticleCaption>
           <ArticleTitle>第七十五条の七</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>市町村長は、前条各号に掲げる業務の適正かつ確実な実施を確保するため必要があると認めるときは、都市計画協力団体に対し、その業務に関し報告をさせることができる。</Sentence>
+              <Sentence WritingMode="vertical">市町村長は、前条各号に掲げる業務の適正かつ確実な実施を確保するため必要があると認めるときは、都市計画協力団体に対し、その業務に関し報告をさせることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
+          <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>市町村長は、都市計画協力団体が前条各号に掲げる業務を適正かつ確実に実施していないと認めるときは、当該都市計画協力団体に対し、その業務の運営の改善に関し必要な措置を講ずべきことを命ずることができる。</Sentence>
+              <Sentence WritingMode="vertical">市町村長は、都市計画協力団体が前条各号に掲げる業務を適正かつ確実に実施していないと認めるときは、当該都市計画協力団体に対し、その業務の運営の改善に関し必要な措置を講ずべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
+          <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>市町村長は、都市計画協力団体が前項の規定による命令に違反したときは、その指定を取り消すことができる。</Sentence>
+              <Sentence WritingMode="vertical">市町村長は、都市計画協力団体が前項の規定による命令に違反したときは、その指定を取り消すことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
+          <Paragraph Hide="false" Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>市町村長は、前項の規定により指定を取り消したときは、その旨を公示しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">市町村長は、前項の規定により指定を取り消したときは、その旨を公示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="75_8">
+        <Article Delete="false" Hide="false" Num="75_8">
           <ArticleCaption>（情報の提供等）</ArticleCaption>
           <ArticleTitle>第七十五条の八</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>国土交通大臣又は市町村長は、都市計画協力団体に対し、その業務の実施に関し必要な情報の提供又は指導若しくは助言をするものとする。</Sentence>
+              <Sentence WritingMode="vertical">国土交通大臣又は市町村長は、都市計画協力団体に対し、その業務の実施に関し必要な情報の提供又は指導若しくは助言をするものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="75_9">
+        <Article Delete="false" Hide="false" Num="75_9">
           <ArticleCaption>（都市計画協力団体による都市計画の決定等の提案）</ArticleCaption>
           <ArticleTitle>第七十五条の九</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">都市計画協力団体は、市町村に対し、第七十五条の六各号に掲げる業務の実施を通じて得られた知見に基づき、当該市町村の区域内の一定の地区における当該地区の特性に応じたまちづくりの推進を図るために必要な都市計画の決定又は変更をすることを提案することができる。</Sentence>
-              <Sentence Num="2">この場合においては、当該提案に係る都市計画の素案を添えなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">都市計画協力団体は、市町村に対し、第七十五条の六各号に掲げる業務の実施を通じて得られた知見に基づき、当該市町村の区域内の一定の地区における当該地区の特性に応じたまちづくりの推進を図るために必要な都市計画の決定又は変更をすることを提案することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、当該提案に係る都市計画の素案を添えなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
+          <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>第二十一条の二第三項及び第二十一条の三から第二十一条の五までの規定は、前項の規定による提案について準用する。</Sentence>
+              <Sentence WritingMode="vertical">第二十一条の二第三項及び第二十一条の三から第二十一条の五までの規定は、前項の規定による提案について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="75_10">
+        <Article Delete="false" Hide="false" Num="75_10">
           <ArticleCaption>（都市計画協力団体の市町村による援助への協力）</ArticleCaption>
           <ArticleTitle>第七十五条の十</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>都市計画協力団体は、市町村から都市再生特別措置法第百九条の五第二項の規定による協力の要請を受けたときは、当該要請に応じ、低未利用土地（同法第四十六条第十七項に規定する低未利用土地をいう。）の利用の方法に関する提案又はその方法に関する知識を有する者の派遣に関し協力するものとする。</Sentence>
+              <Sentence WritingMode="vertical">都市計画協力団体は、市町村から都市再生特別措置法第百九条の五第二項の規定による協力の要請を受けたときは、当該要請に応じ、低未利用土地（同法第四十六条第十七項に規定する低未利用土地をいう。）の利用の方法に関する提案又はその方法に関する知識を有する者の派遣に関し協力するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -8463,27 +8462,62 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成三〇年四月二五日法律第二二号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
+      <Paragraph Hide="false" Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          <Sentence WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="2">
+      <Paragraph Hide="false" Num="2">
         <ParagraphCaption>（政令への委任）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          <Sentence WritingMode="vertical">この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="3">
+      <Paragraph Hide="false" Num="3">
         <ParagraphCaption>（検討）</ParagraphCaption>
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>政府は、この法律の施行後五年を経過した場合において、第一条から第三条までの規定による改正後の規定の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          <Sentence WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、第一条から第三条までの規定による改正後の規定の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一〇日法律第四一号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第三条、第七条及び第十条の規定並びに附則第四条、第六条、第八条、第十一条、第十三条、第十五条及び第十六条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

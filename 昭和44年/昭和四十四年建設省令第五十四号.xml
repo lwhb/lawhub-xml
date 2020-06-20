@@ -1773,7 +1773,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第七十三条第一項第二十三号の国土交通省令で定める事項は、次に掲げるものとする。</Sentence>
+            <Sentence WritingMode="vertical">法第七十三条第一項第二十五号の国土交通省令で定める事項は、次に掲げるものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1837,7 +1837,7 @@
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第七十三条第一項第二号から第二十三号までに掲げる事項並びに法第百九条の二第六項及び法第百九条の三第五項の規定により定めることとされている地上権の明細及びその帰属並びにその存続期間その他の条件の概要は、別記様式第十（法第百十条及び法第百十条の二の場合においては、別記様式第十一又は法第百十一条の場合においては、別記様式第十二）の権利変換計画書を作成して定めなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第七十三条第一項第二号から第二十五号までに掲げる事項並びに法第百九条の二第六項及び法第百九条の三第五項の規定により定めることとされている地上権の明細及びその帰属並びにその存続期間その他の条件の概要は、別記様式第十（法第百十条及び法第百十条の二の場合においては、別記様式第十一又は法第百十一条の場合においては、別記様式第十二）の権利変換計画書を作成して定めなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2259,7 +2259,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第四十一条第二項の標準家賃の額の補正は、令第三十条の規定の例により定めた標準家賃の月額から、施設建築物の一部について借家権を与えられることとなる者が施行地区内の建築物について有していた借家権の価額を当該借家権の残存期間、近隣の同類型の借家の取引慣行等を総合的に比較考量して施行者が定める期間で毎月均等に償却するものとして算定した償却額を控除して行なうものとする。</Sentence>
+            <Sentence WritingMode="vertical">令第四十一条第二項の標準家賃の額の補正は、令第三十条の規定の例により定めた標準家賃の月額から、施設建築物の一部について賃借権を与えられることとなる者が施行地区内の建築物について有していた賃借権の価額を当該賃借権の残存期間、近隣の同類型の借家の取引慣行等を総合的に比較考量して施行者が定める期間で毎月均等に償却するものとして算定した償却額を控除して行なうものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3434,12 +3434,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日国土交通省令第二七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、民法及び家事事件手続法の一部を改正する法律の施行の日（令和二年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第一条の三、第十条、第十六条の六関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_001.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3448,7 +3457,7 @@
       <RelatedArticleNum>（第一条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_002.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3457,7 +3466,7 @@
       <RelatedArticleNum>（第二十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_003.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3466,7 +3475,7 @@
       <RelatedArticleNum>（第二十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_004.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3475,7 +3484,7 @@
       <RelatedArticleNum>（第二十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_005.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3484,7 +3493,7 @@
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_006.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3493,7 +3502,7 @@
       <RelatedArticleNum>（第二十四条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_007.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3502,7 +3511,7 @@
       <RelatedArticleNum>（第二十四条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_008.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3511,7 +3520,7 @@
       <RelatedArticleNum>（第二十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_009.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3520,7 +3529,7 @@
       <RelatedArticleNum>（第二十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_010.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3529,7 +3538,7 @@
       <RelatedArticleNum>（第二十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_011.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3538,7 +3547,7 @@
       <RelatedArticleNum>（第二十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_012.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3547,7 +3556,7 @@
       <RelatedArticleNum>（第二十八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_013.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3556,7 +3565,7 @@
       <RelatedArticleNum>（第二十八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_014.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3565,7 +3574,7 @@
       <RelatedArticleNum>（第二十八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_015.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3574,7 +3583,7 @@
       <RelatedArticleNum>（第三十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_016.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3583,7 +3592,7 @@
       <RelatedArticleNum>（第三十二条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_017.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3592,7 +3601,7 @@
       <RelatedArticleNum>（第三十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_018.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3601,7 +3610,7 @@
       <RelatedArticleNum>（第三十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_019.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3610,7 +3619,7 @@
       <RelatedArticleNum>（第三十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_020.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3619,7 +3628,7 @@
       <RelatedArticleNum>（第三十七条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_021.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3628,7 +3637,7 @@
       <RelatedArticleNum>（第三十七条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_022.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3637,7 +3646,7 @@
       <RelatedArticleNum>（第三十七条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_023.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3646,7 +3655,7 @@
       <RelatedArticleNum>（第三十七条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_024.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3655,7 +3664,7 @@
       <RelatedArticleNum>（第三十七条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_025.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3664,7 +3673,7 @@
       <RelatedArticleNum>（第三十七条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_026.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3673,7 +3682,7 @@
       <RelatedArticleNum>（第三十七条の七関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_027.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3682,7 +3691,7 @@
       <RelatedArticleNum>（第三十七条の七関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_028.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3691,7 +3700,7 @@
       <RelatedArticleNum>（第三十七条の八関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_029.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3700,7 +3709,7 @@
       <RelatedArticleNum>（第三十七条の十関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04201000054_1908151408_030.pdf"/>
+          <Fig src="./pict/S44F04201000054_2006101706_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

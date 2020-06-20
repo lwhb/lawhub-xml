@@ -1428,6 +1428,23 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日人事院規則一―七五" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（人事院規則一―三四の一部改正に伴う経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則による改正前の規則一―三四別表の二十の表平成三十一年ラグビーワールドカップ特措法の項に掲げる人事管理文書の保存期間については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表　人事管理文書の保存期間</AppdxTableTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
@@ -1495,7 +1512,7 @@
             </TableRow>
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">第十八条第一項第六号又は第九号の承認に関する文書等</Sentence>
+                <Sentence WritingMode="vertical">第十八条第一項第六号又は第十号の承認に関する文書等</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -4946,7 +4963,8 @@
                 <Sentence WritingMode="vertical">福島復興再生特別措置法</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">第四十八条の二第一項の要請の文書等</Sentence>
+                <Sentence WritingMode="vertical">
+第四十八条の二第一項又は第八十九条の二第一項の要請の文書等</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="4">
                 <Sentence WritingMode="vertical">派遣の終了した日</Sentence>
@@ -4957,17 +4975,20 @@
             </TableRow>
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">第四十八条の三第一項、第四項又は第五項の同意の文書等</Sentence>
+                <Sentence WritingMode="vertical">
+第四十八条の三第一項、第四項若しくは第五項又は第八十九条の三第一項、第四項若しくは第五項の同意の文書等</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">第四十八条の三第一項の取決めの文書等</Sentence>
+                <Sentence WritingMode="vertical">
+第四十八条の三第一項又は第八十九条の三第一項の取決めの文書等</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">第四十八条の三第五項の申出の文書等</Sentence>
+                <Sentence WritingMode="vertical">
+第四十八条の三第五項又は第八十九条の三第五項の申出の文書等</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -4997,35 +5018,6 @@
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical">第十七条第五項の申出の文書等</Sentence>
-              </TableColumn>
-            </TableRow>
-            <TableRow>
-              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="4">
-                <Sentence WritingMode="vertical">平成三十一年ラグビーワールドカップ特措法</Sentence>
-              </TableColumn>
-              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">第三条第一項の要請の文書等</Sentence>
-              </TableColumn>
-              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="4">
-                <Sentence WritingMode="vertical">派遣の終了した日</Sentence>
-              </TableColumn>
-              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="4">
-                <Sentence WritingMode="vertical">三年</Sentence>
-              </TableColumn>
-            </TableRow>
-            <TableRow>
-              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">第四条第一項、第四項又は第五項の同意の文書等</Sentence>
-              </TableColumn>
-            </TableRow>
-            <TableRow>
-              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">第四条第一項の取決めの文書等</Sentence>
-              </TableColumn>
-            </TableRow>
-            <TableRow>
-              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">第四条第五項の申出の文書等</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -5182,6 +5174,31 @@
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
                 <Sentence WritingMode="vertical">規則一―七二（職員の平成三十七年国際博覧会特措法第十四条第一項の規定により指定された博覧会協会への派遣）</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence WritingMode="vertical">第十二条第二項の協議に関する文書等</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence WritingMode="vertical">取得の日</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence WritingMode="vertical">五年</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence WritingMode="vertical">第十三条各項の報告の文書等</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence WritingMode="vertical">取得の日</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence WritingMode="vertical">三年</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                <Sentence WritingMode="vertical">規則一―七四（職員の公益財団法人福島イノベーション・コースト構想推進機構への派遣）</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical">第十二条第二項の協議に関する文書等</Sentence>

@@ -118,12 +118,12 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="3">
-              <ArticleCaption>（福利厚生室並びに人事企画官、人事調整官、人事評価調整官及び人事企画推進官）</ArticleCaption>
+              <ArticleCaption>（福利厚生室並びに人事企画官、人事調整官、人事評価調整官、人事企画推進官及び障害者活躍推進官）</ArticleCaption>
               <ArticleTitle>第三条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">人事課に、福利厚生室並びに人事企画官二人、人事調整官一人、人事評価調整官一人及び人事企画推進官一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">人事課に、福利厚生室並びに人事企画官二人、人事調整官一人、人事評価調整官一人、人事企画推進官一人及び障害者活躍推進官一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -184,6 +184,12 @@
                 <ParagraphNum>７</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">人事企画推進官は、命を受けて、人事課の所掌事務に係る特定事項についての企画及び立案並びに連絡調整に当たる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="8">
+                <ParagraphNum>８</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">障害者活躍推進官は、命を受けて、障害者である文部科学省の職員の障害の特性に配慮した職務の円滑な遂行に必要な措置に関する専門的事項についての企画及び立案並びに連絡調整に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1069,7 +1075,7 @@
               <Paragraph Hide="false" Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">国際協力企画室に、室長並びに人物交流専門官、海外協力官及び国際協力調査官それぞれ一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">国際協力企画室に、室長並びに人物交流専門官及び海外協力官それぞれ一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="4">
@@ -1081,13 +1087,7 @@
               <Paragraph Hide="false" Num="5">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">海外協力官は、教育に関する国際協力に関する企画及び立案に当たる（国際協力調査官及び開発協力推進専門官の所掌に属するものを除く。）。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Hide="false" Num="6">
-                <ParagraphNum>６</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">国際協力調査官は、国際協力の実施に関する専門的事項についての調査に当たる（開発協力推進専門官の所掌に属するものを除く。）。</Sentence>
+                  <Sentence WritingMode="vertical">海外協力官は、教育に関する国際協力に関する企画及び立案に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1679,7 +1679,7 @@
               <Paragraph Hide="false" Num="6">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">視学官は、命を受けて、初等中等教育（幼稚園、小学校、中学校、義務教育学校、高等学校、中等教育学校、特別支援学校及び幼保連携型認定こども園における教育をいう。以下同じ。）に係る専門的、技術的な指導及び助言（スポーツ庁及び文化庁並びに生涯学習政策局の所掌に属するものを除く。）に当たる。</Sentence>
+                  <Sentence WritingMode="vertical">視学官は、命を受けて、初等中等教育（幼稚園、小学校、中学校、義務教育学校、高等学校、中等教育学校、特別支援学校及び幼保連携型認定こども園における教育をいう。以下同じ。）に係る専門的、技術的な指導及び助言（スポーツ庁及び文化庁並びに総合教育政策局の所掌に属するものを除く。）に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="7">
@@ -2477,13 +2477,13 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Delete="false" Hide="false" Num="38">
-              <ArticleCaption>（専門職大学院室並びに企画官、産学連携教育推進専門官、新分野・融合領域担当専門官及び技術者育成振興専門官）</ArticleCaption>
+            <Article Num="38">
+              <ArticleCaption>（専門職大学院室並びに企画官、産学連携教育推進専門官及び技術者育成振興専門官）</ArticleCaption>
               <ArticleTitle>第三十八条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">専門教育課に、専門職大学院室並びに企画官、産学連携教育推進専門官、新分野・融合領域担当専門官及び技術者育成振興専門官それぞれ一人を置く。</Sentence>
+                  <Sentence>専門教育課に、専門職大学院室並びに企画官、産学連携教育推進専門官及び技術者育成振興専門官それぞれ一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -2546,16 +2546,10 @@
                   <Sentence WritingMode="vertical">産学連携教育推進専門官は、大学及び高等専門学校における産業界との連携による教育活動に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="7">
+              <Paragraph Num="7">
                 <ParagraphNum>７</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">新分野・融合領域担当専門官は、新たな分野及び横断的な分野に関する教育の振興に係る専門的事項についての調査並びに専門的、技術的な指導及び助言（大学振興課及び医学教育課の所掌に属するものを除く。）に当たる。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Hide="false" Num="8">
-                <ParagraphNum>８</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">技術者育成振興専門官は、大学及び高等専門学校における技術教育の振興に関する専門的事項についての調査並びに専門的、技術的な指導及び助言（大学振興課及び医学教育課の所掌に属するものを除く。）に当たる。</Sentence>
+                  <Sentence>技術者育成振興専門官は、大学及び高等専門学校における技術教育の振興に関する専門的事項についての調査並びに専門的、技術的な指導及び助言（大学振興課及び医学教育課の所掌に属するものを除く。）に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2595,53 +2589,47 @@
               <Paragraph Hide="false" Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">大学病院支援室に、室長並びに病院支援専門官及びエイズ・感染症医療専門官それぞれ一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">大学病院支援室に、室長及びエイズ・感染症医療専門官一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">病院支援専門官は、大学の附属病院の組織及び運営一般に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
+                  <Sentence WritingMode="vertical">エイズ・感染症医療専門官は、大学の附属病院におけるエイズその他の感染症に係る医療体制の整備充実に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="5">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">エイズ・感染症医療専門官は、大学の附属病院におけるエイズその他の感染症に係る医療体制の整備充実に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
+                  <Sentence WritingMode="vertical">企画官は、命を受けて、医学教育課の所掌事務に係る重要事項についての企画及び立案に参画する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="6">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">企画官は、命を受けて、医学教育課の所掌事務に係る重要事項についての企画及び立案に参画する。</Sentence>
+                  <Sentence WritingMode="vertical">薬学教育専門官は、大学における薬学に関する教育に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="7">
                 <ParagraphNum>７</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">薬学教育専門官は、大学における薬学に関する教育に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
+                  <Sentence WritingMode="vertical">看護教育専門官は、看護師、保健師及び助産師の養成のための教育に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="8">
                 <ParagraphNum>８</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">看護教育専門官は、看護師、保健師及び助産師の養成のための教育に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
+                  <Sentence WritingMode="vertical">介護福祉人材育成専門官は、社会福祉に関する専門的知識及び技術を有する者の養成のための教育に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="9">
                 <ParagraphNum>９</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">介護福祉人材育成専門官は、社会福祉に関する専門的知識及び技術を有する者の養成のための教育に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
+                  <Sentence WritingMode="vertical">がん医療人材育成専門官は、がんに係る医療に携わる人材の養成のための大学における教育に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="10">
                 <ParagraphNum>１０</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">がん医療人材育成専門官は、がんに係る医療に携わる人材の養成のための大学における教育に関する専門的事項についての調査並びに専門的、技術的な指導及び助言に当たる。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Hide="false" Num="11">
-                <ParagraphNum>１１</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">地域医療人材育成専門官は、地域医療に携わる人材の養成のための大学における教育に係る専門的事項についての企画及び立案並びに専門的、技術的な指導及び助言に当たる。</Sentence>
                 </ParagraphSentence>
@@ -4192,12 +4180,12 @@
         <Section Delete="false" Hide="false" Num="1">
           <SectionTitle>第一節　スポーツ庁</SectionTitle>
           <Article Delete="false" Hide="false" Num="73">
-            <ArticleCaption>（学校体育室並びに企画官、スポーツ広報戦略専門官、スポーツ動向調査官、武道推進調査官、教科調査官及びスポーツ振興投票専門官）</ArticleCaption>
+            <ArticleCaption>（学校体育室並びに企画官、スポーツ広報戦略専門官、スポーツ動向調査官、スポーツ研究成果活用推進専門官、武道推進調査官、教科調査官及びスポーツ振興投票専門官）</ArticleCaption>
             <ArticleTitle>第七十三条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">政策課に、学校体育室並びに企画官一人、スポーツ広報戦略専門官一人、スポーツ動向調査官一人、武道推進調査官一人、教科調査官三人及びスポーツ振興投票専門官一人を置く。</Sentence>
+                <Sentence WritingMode="vertical">政策課に、学校体育室並びに企画官一人、スポーツ広報戦略専門官一人、スポーツ動向調査官一人、スポーツ研究成果活用推進専門官一人、武道推進調査官一人、教科調査官三人及びスポーツ振興投票専門官一人を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -4281,17 +4269,23 @@
             <Paragraph Hide="false" Num="9">
               <ParagraphNum>９</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">武道推進調査官は、武道の振興に関する専門的事項についての調査、指導及び助言並びに連絡調整に当たる。</Sentence>
+                <Sentence WritingMode="vertical">スポーツ研究成果活用推進専門官は、スポーツに関する科学的研究の成果の活用に関する専門的事項についての調査、援助及び助言並びに連絡調整に当たる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="10">
               <ParagraphNum>１０</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">教科調査官は、学校における体育及び保健教育の教育課程の基準の設定に関する調査並びに教育課程の基準に係る専門的、技術的な指導及び助言に当たる。</Sentence>
+                <Sentence WritingMode="vertical">武道推進調査官は、武道の振興に関する専門的事項についての調査、指導及び助言並びに連絡調整に当たる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="11">
               <ParagraphNum>１１</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">教科調査官は、学校における体育及び保健教育の教育課程の基準の設定に関する調査並びに教育課程の基準に係る専門的、技術的な指導及び助言に当たる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="12">
+              <ParagraphNum>１２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">スポーツ振興投票専門官は、スポーツ振興投票に関する専門的事項についての調査、指導及び助言に当たる。</Sentence>
               </ParagraphSentence>
@@ -4384,12 +4378,12 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="76">
-            <ArticleCaption>（外国調査官、国際スポーツ大会専門官、ラグビーワールドカップ推進専門官及びアンチ・ドーピング支援専門官）</ArticleCaption>
+            <ArticleCaption>（外国調査官、国際スポーツ大会専門官及びアンチ・ドーピング支援専門官）</ArticleCaption>
             <ArticleTitle>第七十六条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国際課に、外国調査官、国際スポーツ大会専門官、ラグビーワールドカップ推進専門官及びアンチ・ドーピング支援専門官それぞれ一人を置く。</Sentence>
+                <Sentence WritingMode="vertical">国際課に、外国調査官、国際スポーツ大会専門官及びアンチ・ドーピング支援専門官それぞれ一人を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -4401,17 +4395,11 @@
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国際スポーツ大会専門官は、国際的な規模において行われるスポーツ大会に関する専門的事項についての調査、指導及び助言（オリンピック・パラリンピック課及び参事官並びにラグビーワールドカップ推進専門官の所掌に属するものを除く。）に当たる。</Sentence>
+                <Sentence WritingMode="vertical">国際スポーツ大会専門官は、国際的な規模において行われるスポーツ大会に関する専門的事項についての調査、指導及び助言（オリンピック・パラリンピック課及び参事官の所掌に属するものを除く。）に当たる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="4">
               <ParagraphNum>４</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">ラグビーワールドカップ推進専門官は、平成三十一年に開催されるラグビーワールドカップ大会に関する専門的事項についての調査、指導及び助言並びに連絡調整に当たる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Hide="false" Num="5">
-              <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">アンチ・ドーピング支援専門官は、スポーツにおけるドーピングの防止活動の促進に関する専門的事項についての調査、指導及び助言に当たる。</Sentence>
               </ParagraphSentence>
@@ -4470,7 +4458,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">政策課に、会計室及び文化政策調査研究室並びに企画官二人を置く。</Sentence>
+                <Sentence WritingMode="vertical">政策課に、会計室及び文化政策調査研究室並びに企画官一人を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -4627,18 +4615,48 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="82">
-            <ArticleCaption>（日本語教育専門官）</ArticleCaption>
+            <ArticleCaption>（地域日本語教育推進室並びに日本語教育調査官、日本語教師養成専門官及び日本語教育評価専門官）</ArticleCaption>
             <ArticleTitle>第八十二条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国語課に、日本語教育専門官一人を置く。</Sentence>
+                <Sentence WritingMode="vertical">国語課に、地域日本語教育推進室並びに日本語教育調査官、日本語教師養成専門官及び日本語教育評価専門官それぞれ一人を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">日本語教育専門官は、外国人に対する日本語教育の振興に関する専門的事項（外交政策に係るもの並びに総合教育政策局及び高等教育局の所掌に属するものを除く。）についての調査、指導及び助言に当たる。</Sentence>
+                <Sentence WritingMode="vertical">地域日本語教育推進室は、地域における外国人に対する日本語教育に関する事務（外交政策に係るもの並びに総合教育政策局及び高等教育局の所掌に属するものを除く。）をつかさどる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">地域日本語教育推進室に、室長及び地域日本語教育調整専門官一人を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">地域日本語教育調整専門官は、地域における外国人に対する日本語教育に関する専門的事項についての調整、指導及び助言（外交政策に係るもの並びに総合教育政策局及び高等教育局の所掌に属するものを除く。）に当たる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">日本語教育調査官は、外国人に対する日本語教育に関する調査、指導及び助言（外交政策に係るもの並びに総合教育政策局及び高等教育局、地域日本語教育推進室並びに日本語教師養成専門官及び日本語教育評価専門官の所掌に属するものを除く。）に当たる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">日本語教師養成専門官は、日本語教師の養成及び研修に関する専門的事項についての調査、指導及び助言に当たる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">日本語教育評価専門官は、日本語教育の評価に関する専門的事項についての調査、指導及び助言に当たる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4707,12 +4725,12 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="84">
-            <ArticleCaption>（文化遺産国際協力室並びに文化財活用専門官、熊本地震災害復旧対策調査官及び古墳壁画対策調査官）</ArticleCaption>
+            <ArticleCaption>（文化遺産国際協力室並びに文化財活用専門官、文化財防災専門官、熊本地震災害復旧対策調査官及び古墳壁画対策調査官）</ArticleCaption>
             <ArticleTitle>第八十四条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">文化資源活用課に、文化遺産国際協力室並びに文化財活用専門官、熊本地震災害復旧対策調査官及び古墳壁画対策調査官それぞれ一人を置く。</Sentence>
+                <Sentence WritingMode="vertical">文化資源活用課に、文化遺産国際協力室並びに文化財活用専門官、文化財防災専門官、熊本地震災害復旧対策調査官及び古墳壁画対策調査官それぞれ一人を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -4766,57 +4784,38 @@
             <Paragraph Hide="false" Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">熊本地震災害復旧対策調査官は、平成二十八年熊本地震により被災した建造物である有形文化財の修理又は復旧に関する専門的事項についての調査及び研究並びに指導及び助言に関するものを助ける。</Sentence>
+                <Sentence WritingMode="vertical">文化財防災専門官は、文化財の防災及び防犯に関する専門的事項についての企画及び立案並びに調整に当たる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="6">
               <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">熊本地震災害復旧対策調査官は、平成二十八年熊本地震により被災した建造物である有形文化財の修理又は復旧に関する専門的事項についての調査及び研究並びに指導及び助言に関するものを助ける。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="7">
+              <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">古墳壁画対策調査官は、古墳壁画の修理及び公開に関する専門的事項についての調査及び研究並びに指導及び助言に当たる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="85">
-            <ArticleCaption>（宗教法人室）</ArticleCaption>
             <ArticleTitle>第八十五条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">宗務課に、宗教法人室を置く。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Hide="false" Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">宗教法人室は、次に掲げる事務をつかさどる。</Sentence>
-              </ParagraphSentence>
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">宗教法人の規則、規則の変更、合併及び任意解散の認証に関すること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">都道府県知事に対し、宗教に係る専門的、技術的な指導及び助言を行うこと。</Sentence>
-                </ItemSentence>
-              </Item>
-            </Paragraph>
-            <Paragraph Hide="false" Num="3">
-              <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">宗教法人室に、室長を置く。</Sentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Delete="false" Hide="false" Num="86">
-            <ArticleCaption>（地方創生企画官、芸術教育企画官、メディア芸術調査官、生活文化担当専門官及び教科調査官）</ArticleCaption>
+          <Article Num="86">
+            <ArticleCaption>（地方創生企画官、芸術教育企画官、メディア芸術調査官、生活文化担当専門官、企画調整専門官、文化観光支援調査官、博物館支援調査官及び教科調査官）</ArticleCaption>
             <ArticleTitle>第八十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
+            <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">文化庁に、地方創生企画官一人、芸術教育企画官一人、メディア芸術調査官一人、生活文化担当専門官一人及び教科調査官四人を置く。</Sentence>
+                <Sentence>文化庁に、地方創生企画官一人、芸術教育企画官一人、メディア芸術調査官一人、生活文化担当専門官一人、企画調整専門官一人、文化観光支援調査官一人、博物館支援調査官一人及び教科調査官四人を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -4846,13 +4845,31 @@
             <Paragraph Hide="false" Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">生活文化担当専門官は、命を受けて、参事官のつかさどる職務のうち生活文化（文化芸術基本法第十二条に規定する生活文化をいう。）の振興に関する企画及び立案並びに援助及び助言に関するものを助ける。</Sentence>
+                <Sentence WritingMode="vertical">生活文化担当専門官は、命を受けて、参事官のつかさどる職務のうち生活文化（文化芸術基本法第十二条に規定する生活文化（食文化を除く。）をいう。）の振興に関する企画及び立案並びに援助及び助言に関するものを助ける。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">教科調査官は、命を受けて、参事官のつかさどる職務のうち学校における芸術に関する教育の教育課程の基準の設定に関する調査並びに教育課程の基準に係る専門的、技術的な指導及び助言に関するものを助ける。</Sentence>
+                <Sentence WritingMode="vertical">企画調整専門官は、命を受けて、参事官のつかさどる職務のうち食文化の振興に関する重要事項についての企画及び立案並びに調整に関するものを助ける。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>文化観光支援調査官は、命を受けて、参事官のつかさどる職務のうち観光の振興に資する見地からの文化の振興に関する調査、指導及び助言に関するもの（博物館支援調査官の所掌に属するものを除く。）を助ける。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>博物館支援調査官は、命を受けて、参事官のつかさどる職務のうち博物館の支援に関する調査、指導及び助言に関するものを助ける。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>教科調査官は、命を受けて、参事官のつかさどる職務のうち学校における芸術に関する教育の教育課程の基準の設定に関する調査並びに教育課程の基準に係る専門的、技術的な指導及び助言に関するものを助ける。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4954,47 +4971,57 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第二十四条第五項の訟務専門官は、平成三十三年三月三十一日まで置かれるものとする。</Sentence>
+            <Sentence WritingMode="vertical">第二十四条第五項の訟務専門官は、令和三年三月三十一日まで置かれるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="6">
-        <ArticleCaption>（研究開発局企画官の設置期間の特例）</ArticleCaption>
+      <Article Num="6">
+        <ArticleCaption>（高等教育局私学部私学行政課私学共済室情報連携推進専門官の設置期間の特例）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第六十九条第一項の企画官は、平成三十二年三月三十一日まで置かれるものとする。</Sentence>
+            <Sentence>第四十二条第三項の情報連携推進専門官は、令和三年三月三十一日まで置かれるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="7">
-        <ArticleCaption>（スポーツ庁国際課ラグビーワールドカップ推進専門官の設置期間の特例）</ArticleCaption>
+      <Article Num="7">
+        <ArticleCaption>（研究振興局ライフサイエンス課生命倫理・安全対策室医学系研究対策専門官の設置期間の特例）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第七十六条第一項のラグビーワールドカップ推進専門官は、平成三十二年三月三十一日まで置かれるものとする。</Sentence>
+            <Sentence>第六十条第五項の医学系研究対策専門官は、令和四年三月三十一日まで置かれるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="8">
-        <ArticleCaption>（スポーツ庁オリンピック・パラリンピック課外国カリキュラム開発調査官の設置期間の特例）</ArticleCaption>
+      <Article Num="8">
+        <ArticleCaption>（研究開発局企画官の設置期間の特例）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第七十七条第一項の外国カリキュラム開発調査官は、平成三十三年三月三十一日まで置かれるものとする。</Sentence>
+            <Sentence>第六十九条第一項の企画官は、令和五年三月三十一日まで置かれるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="9">
-        <ArticleCaption>（文化庁文化資源活用課熊本地震災害復旧対策調査官の設置期間の特例）</ArticleCaption>
+      <Article Num="9">
+        <ArticleCaption>（スポーツ庁オリンピック・パラリンピック課外国カリキュラム開発調査官の設置期間の特例）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第八十四条第五項の熊本地震災害復旧対策調査官は、平成三十四年三月三十一日まで置かれるものとする。</Sentence>
+            <Sentence>第七十七条第一項の外国カリキュラム開発調査官は、令和三年三月三十一日まで置かれるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（文化庁文化資源活用課熊本地震災害復旧対策調査官の設置期間の特例）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第八十四条第一項の熊本地震災害復旧対策調査官は、令和四年三月三十一日まで置かれるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -5446,6 +5473,16 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日文部科学省令第一二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二表に係る改正規定は、同年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
