@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200618e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="360" Year="63">
+<Law DataInfo="200618e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="360" Year="63">
   <LawNum>昭和六十三年政令第三百六十号</LawNum>
   <LawBody>
     <LawTitle>消費税法施行令</LawTitle>
@@ -824,7 +824,7 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法別表第一第二号に規定する支払手段に類するものとして政令で定めるものは、資金決済に関する法律（平成二十一年法律第五十九号）第二条第五項（定義）に規定する仮想通貨及び国際通貨基金協定第十五条に規定する特別引出権とする。</Sentence>
+              <Sentence>法別表第一第二号に規定する支払手段に類するものとして政令で定めるものは、資金決済に関する法律（平成二十一年法律第五十九号）第二条第五項（定義）に規定する暗号資産及び国際通貨基金協定第十五条に規定する特別引出権とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4477,7 +4477,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>法別表第一第二号に規定する支払手段又は第九条第四項に規定する仮想通貨若しくは特別引出権の譲渡</Sentence>
+                <Sentence>法別表第一第二号に規定する支払手段又は第九条第四項に規定する暗号資産若しくは特別引出権の譲渡</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -11069,7 +11069,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>改正法附則第三十四条第一項第一号イに規定する政令で定める事業は、食品衛生法施行令（昭和二十八年政令第二百二十九号）第三十五条第一号に規定する飲食店営業、同条第二号に規定する喫茶店営業その他の飲食料品（同項第一号に規定する飲食料品をいう。次項において同じ。）をその場で飲食させる事業とする。</Sentence>
+            <Sentence>改正法附則第三十四条第一項第一号イに規定する政令で定める事業は、食品衛生法施行令（昭和二十八年政令第二百二十九号）第三十四条の二第二号に規定する飲食店営業その他の飲食料品（同項第一号に規定する飲食料品をいう。次項において同じ。）をその場で飲食させる事業とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -12088,6 +12088,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>令和二年四月一日から令和五年九月三十日までの間における第一条の規定による改正後の消費税法施行令第六十三条の二第二項の規定の適用については、同項中「第五十八条の二第二項及び第三項、第五十八条の三第二項」とあるのは「第五十八条第二項及び第三項、第五十八条の二第二項」と、「、第七十条の十三並びに」とあるのは「並びに」と、「第五十八条の二第二項、第五十八条の三第二項及び第七十条の十三第一項」とあるのは「第五十八条第二項及び第五十八条の二第二項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（平成二十八年消費税法施行令等の一部を改正する政令の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>令和二年六月一日から令和三年五月三十一日までの間における前条の規定による改正後の消費税法施行令等の一部を改正する政令附則第三条第一項の規定の適用については、同項中「その他」とあるのは、「、同号に規定する喫茶店営業その他」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
