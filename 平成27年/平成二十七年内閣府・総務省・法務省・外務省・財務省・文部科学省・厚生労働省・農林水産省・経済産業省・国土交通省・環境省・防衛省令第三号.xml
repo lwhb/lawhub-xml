@@ -21,7 +21,8 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十四条第一項の規定による報告は、事業所ごとに、毎年度（毎年四月一日から翌年三月三十一日までをいう。以下同じ。）、当該年度の翌年度の六月末日までに、別記様式による報告書を提出してしなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第二十四条第一項の規定による報告は、事業所ごとに、毎年度（毎年四月一日から翌年三月三十一日までをいう。以下同じ。）、当該年度の翌年度の六月末日までに、別記様式による報告書を提出してしなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他やむを得ない事由により当該期限までに提出してすることが困難であるときは、主務大臣が当該事由を勘案して定める期限までに提出してしなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -145,11 +146,20 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="令和元年六月二八日内閣府・総務省・法務省・外務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省・防衛省令第一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
+      <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence Function="main" Num="1">この命令は、公布の日から施行する。</Sentence>
-          <Sentence Function="proviso" Num="2">ただし、「日本工業規格」を「日本産業規格」に改める部分は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この命令は、公布の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、「日本工業規格」を「日本産業規格」に改める部分は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日内閣府・総務省・法務省・外務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省・防衛省令第二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この命令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -158,7 +168,7 @@
       <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/427M60003ffa003_1907171407_1907311507_001.pdf"/>
+          <Fig src="./pict/427M60003ffa003_1907171407_1907311507_2006181406_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

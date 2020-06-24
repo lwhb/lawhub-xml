@@ -823,26 +823,17 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">任命権者は、この規則の施行前に改正前の規則八―一八第十七条の規定に基づき告知された採用試験の結果に基づいて作成された採用候補者名簿でこの規則の施行の際現に有効なものに記載された者の中から、なお従前の例により職員を採用することができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="3">
-        <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
             <Sentence WritingMode="vertical">改正後の規則八―一八別表第三国家公務員採用総合職試験（院卒者試験）の項第二号イの規定の適用については、当分の間、同号イ中「司法試験に合格したもの」とあるのは、「司法試験に合格したもの又は司法試験法及び裁判所法の一部を改正する法律（平成十四年法律第百三十八号）附則第十条の規定により同法附則第六条第二項に規定する新司法試験に合格した者とみなされた者」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="4">
-        <ArticleCaption>（準備行為）</ArticleCaption>
-        <ArticleTitle>第四条</ArticleTitle>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（令和二年度に実施する採用試験の特例）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">人事院及び試験機関は、この規則の施行の日前においても、改正後の規則八―一八第三条第一項に規定する採用試験の実施に必要な準備行為をすることができる。</Sentence>
+            <Sentence WritingMode="vertical">令和二年度に実施する採用試験に係る別表第二の規定の適用については、同表国家公務員採用総合職試験（院卒者試験）の項中「専門試験（記述式）、政策課題討議試験」とあるのは「専門試験（記述式）」と、同表国家公務員採用総合職試験（大卒程度試験）の項中「専門試験（記述式）、政策論文試験」とあるのは「政策論文試験」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -943,823 +934,557 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一〇日人事院規則八―一八―二九" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一　区分試験及び区分試験の対象となる官職</AppdxTableTitle>
       <RelatedArticleNum>（第四条関係）</RelatedArticleNum>
       <TableStruct>
-        <Table WritingMode="vertical">
+        <Table>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">採用試験の種類ごとの名称</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>採用試験の種類ごとの名称</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">区分試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>区分試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">区分試験の対象となる官職</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>区分試験の対象となる官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="9">
-              <Sentence WritingMode="vertical">国家公務員採用総合職試験（院卒者試験）</Sentence>
+            <TableColumn Valign="top" rowspan="9">
+              <Sentence>国家公務員採用総合職試験（院卒者試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">行政</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>行政</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、主として政治学、国際関係、法律及び経済に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　法第四十五条の二第一項第一号に規定する官職のうち、主として政治学、国際関係、法律及び経済に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">人間科学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>人間科学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、主として心理学、教育学、福祉及び社会学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　法第四十五条の二第一項第一号に規定する官職のうち、主として心理学、教育学、福祉及び社会学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">工学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>工学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>三</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、主として計測、制御、情報工学、電気、電子、通信、機械、航空、土木、建築、材料工学、原子力工学及び造船工学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>三　法第四十五条の二第一項第一号に規定する官職のうち、主として計測、制御、情報工学、電気、電子、通信、機械、航空、土木、建築、材料工学、原子力工学及び造船工学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">数理科学・物理・地球科学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>数理科学・物理・地球科学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>四</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、主として数学、情報科学、経営工学、物理及び地球科学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>四　法第四十五条の二第一項第一号に規定する官職のうち、主として数学、情報科学、経営工学、物理及び地球科学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">化学・生物・薬学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>化学・生物・薬学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>五</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、主として化学、生物学、薬学及び農芸化学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>五　法第四十五条の二第一項第一号に規定する官職のうち、主として化学、生物学、薬学及び農芸化学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">農業科学・水産</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>農業科学・水産</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>六</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、主として農学、農業経済、畜産及び水産に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>六　法第四十五条の二第一項第一号に規定する官職のうち、主として農学、農業経済、畜産及び水産に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">農業農村工学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>農業農村工学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>七</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、主として農業農村工学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>七　法第四十五条の二第一項第一号に規定する官職のうち、主として農業農村工学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">森林・自然環境</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>森林・自然環境</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>八</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、主として林学、砂防、造園及び林産に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>八　法第四十五条の二第一項第一号に規定する官職のうち、主として林学、砂防、造園及び林産に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">法務</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>法務</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>九</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、主として法曹に必要な学識及び能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>九　法第四十五条の二第一項第一号に規定する官職のうち、主として法曹に必要な学識及び能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="11">
-              <Sentence WritingMode="vertical">国家公務員採用総合職試験（大卒程度試験）</Sentence>
+            <TableColumn Valign="top" rowspan="11">
+              <Sentence>国家公務員採用総合職試験（大卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">政治・国際</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>政治・国際</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、主として政治学及び国際関係に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　法第四十五条の二第一項第一号に規定する官職のうち、主として政治学及び国際関係に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">法律</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>法律</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、主として法律に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　法第四十五条の二第一項第一号に規定する官職のうち、主として法律に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">経済</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>経済</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>三</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、主として経済に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>三　法第四十五条の二第一項第一号に規定する官職のうち、主として経済に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">人間科学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>人間科学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>四</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">国家公務員採用総合職試験（院卒者試験）の項第二号に掲げる官職と同一の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>四　国家公務員採用総合職試験（院卒者試験）の項第二号に掲げる官職と同一の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">工学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>工学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>五</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">国家公務員採用総合職試験（院卒者試験）の項第三号に掲げる官職と同一の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>五　国家公務員採用総合職試験（院卒者試験）の項第三号に掲げる官職と同一の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">数理科学・物理・地球科学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>数理科学・物理・地球科学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>六</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">国家公務員採用総合職試験（院卒者試験）の項第四号に掲げる官職と同一の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>六　国家公務員採用総合職試験（院卒者試験）の項第四号に掲げる官職と同一の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">化学・生物・薬学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>化学・生物・薬学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>七</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">国家公務員採用総合職試験（院卒者試験）の項第五号に掲げる官職と同一の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>七　国家公務員採用総合職試験（院卒者試験）の項第五号に掲げる官職と同一の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">農業科学・水産</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>農業科学・水産</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>八</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">国家公務員採用総合職試験（院卒者試験）の項第六号に掲げる官職と同一の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>八　国家公務員採用総合職試験（院卒者試験）の項第六号に掲げる官職と同一の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">農業農村工学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>農業農村工学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>九</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">国家公務員採用総合職試験（院卒者試験）の項第七号に掲げる官職と同一の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>九　国家公務員採用総合職試験（院卒者試験）の項第七号に掲げる官職と同一の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">森林・自然環境</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>森林・自然環境</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>十</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">国家公務員採用総合職試験（院卒者試験）の項第八号に掲げる官職と同一の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>十　国家公務員採用総合職試験（院卒者試験）の項第八号に掲げる官職と同一の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">教養</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>教養</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>十一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第一号に規定する官職のうち、国家公務員採用総合職試験（院卒者試験）の項各号に掲げる官職及び前各号に掲げる官職を除く全ての官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>十一　法第四十五条の二第一項第一号に規定する官職のうち、国家公務員採用総合職試験（院卒者試験）の項各号に掲げる官職及び前各号に掲げる官職を除く全ての官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="10">
-              <Sentence WritingMode="vertical">国家公務員採用一般職試験（大卒程度試験）</Sentence>
+            <TableColumn Valign="top" rowspan="10">
+              <Sentence>国家公務員採用一般職試験（大卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">行政</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>行政</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として政治学、国際関係、法律、経済、心理学、教育学及び社会学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　法第四十五条の二第一項第二号に規定する官職のうち、主として政治学、国際関係、法律、経済、心理学、教育学及び社会学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">電気・電子・情報</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>電気・電子・情報</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として電気、電子、通信及び情報工学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　法第四十五条の二第一項第二号に規定する官職のうち、主として電気、電子、通信及び情報工学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">機械</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>機械</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>三</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として機械に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>三　法第四十五条の二第一項第二号に規定する官職のうち、主として機械に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">土木</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>土木</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>四</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として土木に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>四　法第四十五条の二第一項第二号に規定する官職のうち、主として土木に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">建築</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>建築</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>五</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として建築に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>五　法第四十五条の二第一項第二号に規定する官職のうち、主として建築に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">物理</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>物理</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>六</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として物理に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>六　法第四十五条の二第一項第二号に規定する官職のうち、主として物理に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">化学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>化学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>七</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として化学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>七　法第四十五条の二第一項第二号に規定する官職のうち、主として化学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">農学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>農学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>八</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として農学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>八　法第四十五条の二第一項第二号に規定する官職のうち、主として農学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">農業農村工学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>農業農村工学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>九</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として農業農村工学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>九　法第四十五条の二第一項第二号に規定する官職のうち、主として農業農村工学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">林学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>林学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>十</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として林学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>十　法第四十五条の二第一項第二号に規定する官職のうち、主として林学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="10">
-              <Sentence WritingMode="vertical">国家公務員採用一般職試験（高卒程度試験）</Sentence>
+            <TableColumn Valign="top" rowspan="10">
+              <Sentence>国家公務員採用一般職試験（高卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">事務</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>事務</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、国家公務員採用一般職試験（大卒程度試験）の項各号に掲げる官職及び次号から第五号までに掲げる官職を除く全ての官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>一　法第四十五条の二第一項第二号に規定する官職のうち、国家公務員採用一般職試験（大卒程度試験）の項各号に掲げる官職及び次号から第五号までに掲げる官職を除く全ての官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">事務（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>事務（社会人）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">技術</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>技術</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として電気、電子、情報処理、機械、土木及び建築に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>二　法第四十五条の二第一項第二号に規定する官職のうち、主として電気、電子、情報処理、機械、土木及び建築に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">技術（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>技術（社会人）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">農業</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>農業</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>三</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として農業に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>三　法第四十五条の二第一項第二号に規定する官職のうち、主として農業に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">農業（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>農業（社会人）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">農業土木</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>農業土木</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>四</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として農業土木に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>四　法第四十五条の二第一項第二号に規定する官職のうち、主として農業土木に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">農業土木（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>農業土木（社会人）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">林業</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>林業</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>五</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">法第四十五条の二第一項第二号に規定する官職のうち、主として林業に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>五　法第四十五条の二第一項第二号に規定する官職のうち、主として林業に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">林業（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>林業（社会人）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">皇宮護衛官採用試験（高卒程度試験）</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>皇宮護衛官採用試験（高卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">護衛官</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>護衛官</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第一号に規定する官職</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>対象官職等政令第一条第二項第一号に規定する官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">護衛官（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>護衛官（社会人）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
-              <Sentence WritingMode="vertical">刑務官採用試験</Sentence>
+            <TableColumn Valign="top" rowspan="6">
+              <Sentence>刑務官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">刑務Ａ</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>刑務Ａ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第二号に規定する官職のうち、主として刑事施設における男子の被収容者の処遇の業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>一　対象官職等政令第一条第二項第二号に規定する官職のうち、主として刑事施設における男子の被収容者の処遇の業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">刑務Ａ（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>刑務Ａ（社会人）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">刑務Ｂ</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>刑務Ｂ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第二号に規定する官職のうち、主として刑事施設における女子の被収容者の処遇の業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>二　対象官職等政令第一条第二項第二号に規定する官職のうち、主として刑事施設における女子の被収容者の処遇の業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">刑務Ｂ（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>刑務Ｂ（社会人）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">刑務Ａ（武道）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>刑務Ａ（武道）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>三</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第二号に規定する官職のうち、主として刑事施設における男子の被収容者の警備の業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>三　対象官職等政令第一条第二項第二号に規定する官職のうち、主として刑事施設における男子の被収容者の警備の業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">刑務Ｂ（武道）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>刑務Ｂ（武道）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>四</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第二号に規定する官職のうち、主として刑事施設における女子の被収容者の警備の業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>四　対象官職等政令第一条第二項第二号に規定する官職のうち、主として刑事施設における女子の被収容者の警備の業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="7">
-              <Sentence WritingMode="vertical">法務省専門職員（人間科学）採用試験</Sentence>
+            <TableColumn Valign="top" rowspan="7">
+              <Sentence>法務省専門職員（人間科学）採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">矯正心理専門職Ａ</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>矯正心理専門職Ａ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第三号に規定する官職のうち、主として少年鑑別所における鑑別及び刑事施設における男子の受刑者の資質の調査に関する業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　対象官職等政令第一条第二項第三号に規定する官職のうち、主として少年鑑別所における鑑別及び刑事施設における男子の受刑者の資質の調査に関する業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">矯正心理専門職Ｂ</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>矯正心理専門職Ｂ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="2">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第三号に規定する官職のうち、主として少年鑑別所における鑑別及び刑事施設における女子の受刑者の資質の調査に関する業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　対象官職等政令第一条第二項第三号に規定する官職のうち、主として少年鑑別所における鑑別及び刑事施設における女子の受刑者の資質の調査に関する業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">法務教官Ａ</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>法務教官Ａ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Paragraph Hide="false" Num="3">
-                <ParagraphNum>三</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第三号に規定する官職のうち、主として少年院における男子の在院者の矯正教育その他の処遇、少年鑑別所における在所者の観護処遇並びに刑事施設における男子の受刑者の改善指導及び教科指導に関する業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>三　対象官職等政令第一条第二項第三号に規定する官職のうち、主として少年院における男子の在院者の矯正教育その他の処遇、少年鑑別所における在所者の観護処遇並びに刑事施設における男子の受刑者の改善指導及び教科指導に関する業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">法務教官Ａ（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>法務教官Ａ（社会人）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">法務教官Ｂ</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>法務教官Ｂ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Paragraph Hide="false" Num="4">
-                <ParagraphNum>四</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第三号に規定する官職のうち、主として少年院における女子の在院者の矯正教育その他の処遇、少年鑑別所における在所者の観護処遇並びに刑事施設における女子の受刑者の改善指導及び教科指導に関する業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>四　対象官職等政令第一条第二項第三号に規定する官職のうち、主として少年院における女子の在院者の矯正教育その他の処遇、少年鑑別所における在所者の観護処遇並びに刑事施設における女子の受刑者の改善指導及び教科指導に関する業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">法務教官Ｂ（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>法務教官Ｂ（社会人）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">保護観察官</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>保護観察官</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="5">
-                <ParagraphNum>五</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第三号に規定する官職のうち、主として保護観察、調査、生活環境の調整その他犯罪をした者及び非行のある少年の更生保護並びに犯罪の予防に関する業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>五　対象官職等政令第一条第二項第三号に規定する官職のうち、主として保護観察、調査、生活環境の調整その他犯罪をした者及び非行のある少年の更生保護並びに犯罪の予防に関する業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">入国警備官採用試験</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>入国警備官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">警備官</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>警備官</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第四号に規定する官職</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>対象官職等政令第一条第二項第四号に規定する官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">警備官（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>警備官（社会人）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">労働基準監督官採用試験</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>労働基準監督官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">労働基準監督Ａ</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>労働基準監督Ａ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第九号に規定する官職のうち、次号に掲げる官職を除く全ての官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　対象官職等政令第一条第二項第九号に規定する官職のうち、次号に掲げる官職を除く全ての官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">労働基準監督Ｂ</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>労働基準監督Ｂ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第九号に規定する官職のうち、主として工学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　対象官職等政令第一条第二項第九号に規定する官職のうち、主として工学に関する知識、技術又はその他の能力を必要とする業務に従事することを職務とする官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">航空保安大学校学生採用試験</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>航空保安大学校学生採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">航空情報科</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>航空情報科</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第十一号に規定する官職のうち、航空保安大学校本科航空情報科学生の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　対象官職等政令第一条第二項第十一号に規定する官職のうち、航空保安大学校本科航空情報科学生の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">航空電子科</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>航空電子科</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第十一号に規定する官職のうち、航空保安大学校本科航空電子科学生の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　対象官職等政令第一条第二項第十一号に規定する官職のうち、航空保安大学校本科航空電子科学生の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="5">
-              <Sentence WritingMode="vertical">海上保安学校学生採用試験</Sentence>
+            <TableColumn Valign="top" rowspan="5">
+              <Sentence>海上保安学校学生採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">船舶運航システム課程</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>船舶運航システム課程</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第十五号に規定する官職のうち、海上保安学校本科船舶運航システム課程学生の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　対象官職等政令第一条第二項第十五号に規定する官職のうち、海上保安学校本科船舶運航システム課程学生の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">航空課程</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>航空課程</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第十五号に規定する官職のうち、海上保安学校本科航空課程学生の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　対象官職等政令第一条第二項第十五号に規定する官職のうち、海上保安学校本科航空課程学生の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">情報システム課程</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>情報システム課程</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>三</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第十五号に規定する官職のうち、海上保安学校本科情報システム課程学生の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>三　対象官職等政令第一条第二項第十五号に規定する官職のうち、海上保安学校本科情報システム課程学生の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">管制課程</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>管制課程</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>四</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第十五号に規定する官職のうち、海上保安学校本科管制課程学生の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>四　対象官職等政令第一条第二項第十五号に規定する官職のうち、海上保安学校本科管制課程学生の官職</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">海洋科学課程</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>海洋科学課程</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>五</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">対象官職等政令第一条第二項第十五号に規定する官職のうち、海上保安学校本科海洋科学課程学生の官職</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>五　対象官職等政令第一条第二項第十五号に規定する官職のうち、海上保安学校本科海洋科学課程学生の官職</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -1769,499 +1494,354 @@
       <AppdxTableTitle WritingMode="vertical">別表第二　採用試験の試験種目</AppdxTableTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <TableStruct>
-        <Table WritingMode="vertical">
+        <Table>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">採用試験の種類ごとの名称</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>採用試験の種類ごとの名称</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">区分試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>区分試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">試験種目</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>試験種目</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">国家公務員採用総合職試験（院卒者試験）</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>国家公務員採用総合職試験（院卒者試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">行政</Sentence>
-              <Sentence WritingMode="vertical">人間科学</Sentence>
-              <Sentence WritingMode="vertical">工学</Sentence>
-              <Sentence WritingMode="vertical">数理科学・物理・地球科学</Sentence>
-              <Sentence WritingMode="vertical">化学・生物・薬学</Sentence>
-              <Sentence WritingMode="vertical">農業科学・水産</Sentence>
-              <Sentence WritingMode="vertical">農業農村工学</Sentence>
-              <Sentence WritingMode="vertical">森林・自然環境</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>行政</Sentence>
+              <Sentence>人間科学</Sentence>
+              <Sentence>工学</Sentence>
+              <Sentence>数理科学・物理・地球科学</Sentence>
+              <Sentence>化学・生物・薬学</Sentence>
+              <Sentence>農業科学・水産</Sentence>
+              <Sentence>農業農村工学</Sentence>
+              <Sentence>森林・自然環境</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）、政策課題討議試験、人物試験及び英語試験</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）、政策課題討議試験、人物試験及び英語試験</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">法務</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>法務</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、政策課題討議試験、人物試験及び英語試験</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、政策課題討議試験、人物試験及び英語試験</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">国家公務員採用総合職試験（大卒程度試験）</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>国家公務員採用総合職試験（大卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">政治・国際</Sentence>
-              <Sentence WritingMode="vertical">法律</Sentence>
-              <Sentence WritingMode="vertical">経済</Sentence>
-              <Sentence WritingMode="vertical">人間科学</Sentence>
-              <Sentence WritingMode="vertical">工学</Sentence>
-              <Sentence WritingMode="vertical">数理科学・物理・地球科学</Sentence>
-              <Sentence WritingMode="vertical">化学・生物・薬学</Sentence>
-              <Sentence WritingMode="vertical">農業科学・水産</Sentence>
-              <Sentence WritingMode="vertical">農業農村工学</Sentence>
-              <Sentence WritingMode="vertical">森林・自然環境</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>政治・国際</Sentence>
+              <Sentence>法律</Sentence>
+              <Sentence>経済</Sentence>
+              <Sentence>人間科学</Sentence>
+              <Sentence>工学</Sentence>
+              <Sentence>数理科学・物理・地球科学</Sentence>
+              <Sentence>化学・生物・薬学</Sentence>
+              <Sentence>農業科学・水産</Sentence>
+              <Sentence>農業農村工学</Sentence>
+              <Sentence>森林・自然環境</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）、政策論文試験、人物試験及び英語試験</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）、政策論文試験、人物試験及び英語試験</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">教養</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>教養</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、総合論文試験、政策課題討議試験、企画提案試験、人物試験及び英語試験</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、総合論文試験、政策課題討議試験、企画提案試験、人物試験及び英語試験</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">国家公務員採用一般職試験（大卒程度試験）</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>国家公務員採用一般職試験（大卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">行政</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>行政</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、専門試験（多肢選択式）、一般論文試験及び人物試験</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、専門試験（多肢選択式）、一般論文試験及び人物試験</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">電気・電子・情報</Sentence>
-              <Sentence WritingMode="vertical">機械</Sentence>
-              <Sentence WritingMode="vertical">土木</Sentence>
-              <Sentence WritingMode="vertical">建築</Sentence>
-              <Sentence WritingMode="vertical">物理</Sentence>
-              <Sentence WritingMode="vertical">化学</Sentence>
-              <Sentence WritingMode="vertical">農学</Sentence>
-              <Sentence WritingMode="vertical">農業農村工学</Sentence>
-              <Sentence WritingMode="vertical">林学</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>電気・電子・情報</Sentence>
+              <Sentence>機械</Sentence>
+              <Sentence>土木</Sentence>
+              <Sentence>建築</Sentence>
+              <Sentence>物理</Sentence>
+              <Sentence>化学</Sentence>
+              <Sentence>農学</Sentence>
+              <Sentence>農業農村工学</Sentence>
+              <Sentence>林学</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）及び人物試験</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）及び人物試験</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">国家公務員採用一般職試験（高卒程度試験）</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>国家公務員採用一般職試験（高卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">事務</Sentence>
-              <Sentence WritingMode="vertical">事務（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>事務</Sentence>
+              <Sentence>事務（社会人）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、適性試験、作文試験及び人物試験</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、適性試験、作文試験及び人物試験</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">技術</Sentence>
-              <Sentence WritingMode="vertical">農業</Sentence>
-              <Sentence WritingMode="vertical">農業土木</Sentence>
-              <Sentence WritingMode="vertical">林業</Sentence>
-              <Sentence WritingMode="vertical">技術（社会人）</Sentence>
-              <Sentence WritingMode="vertical">農業（社会人）</Sentence>
-              <Sentence WritingMode="vertical">農業土木（社会人）</Sentence>
-              <Sentence WritingMode="vertical">林業（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>技術</Sentence>
+              <Sentence>農業</Sentence>
+              <Sentence>農業土木</Sentence>
+              <Sentence>林業</Sentence>
+              <Sentence>技術（社会人）</Sentence>
+              <Sentence>農業（社会人）</Sentence>
+              <Sentence>農業土木（社会人）</Sentence>
+              <Sentence>林業（社会人）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、専門試験（多肢選択式）及び人物試験</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、専門試験（多肢選択式）及び人物試験</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">皇宮護衛官採用試験（大卒程度試験）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>皇宮護衛官採用試験（大卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、課題論文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、課題論文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">皇宮護衛官採用試験（高卒程度試験）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>皇宮護衛官採用試験（高卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">全ての区分試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>全ての区分試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、作文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、作文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">刑務官採用試験</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>刑務官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">刑務Ａ</Sentence>
-              <Sentence WritingMode="vertical">刑務Ｂ</Sentence>
-              <Sentence WritingMode="vertical">刑務Ａ（社会人）</Sentence>
-              <Sentence WritingMode="vertical">刑務Ｂ（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>刑務Ａ</Sentence>
+              <Sentence>刑務Ｂ</Sentence>
+              <Sentence>刑務Ａ（社会人）</Sentence>
+              <Sentence>刑務Ｂ（社会人）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、作文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、作文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">刑務Ａ（武道）</Sentence>
-              <Sentence WritingMode="vertical">刑務Ｂ（武道）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>刑務Ａ（武道）</Sentence>
+              <Sentence>刑務Ｂ（武道）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、作文試験、実技試験、人物試験、身体検査及び身体測定</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、作文試験、実技試験、人物試験、身体検査及び身体測定</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">法務省専門職員（人間科学）採用試験</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>法務省専門職員（人間科学）採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">矯正心理専門職Ａ</Sentence>
-              <Sentence WritingMode="vertical">矯正心理専門職Ｂ</Sentence>
-              <Sentence WritingMode="vertical">法務教官Ａ</Sentence>
-              <Sentence WritingMode="vertical">法務教官Ｂ</Sentence>
-              <Sentence WritingMode="vertical">法務教官Ａ（社会人）</Sentence>
-              <Sentence WritingMode="vertical">法務教官Ｂ（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>矯正心理専門職Ａ</Sentence>
+              <Sentence>矯正心理専門職Ｂ</Sentence>
+              <Sentence>法務教官Ａ</Sentence>
+              <Sentence>法務教官Ｂ</Sentence>
+              <Sentence>法務教官Ａ（社会人）</Sentence>
+              <Sentence>法務教官Ｂ（社会人）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）、人物試験、身体検査及び身体測定</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）、人物試験、身体検査及び身体測定</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">保護観察官</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>保護観察官</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）及び人物試験</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）及び人物試験</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">入国警備官採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>入国警備官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">全ての区分試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>全ての区分試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、作文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、作文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">外務省専門職員採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>外務省専門職員採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、専門試験（記述式）、外国語試験（記述式）、外国語試験（面接）、時事論文試験、人物試験及び身体検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、専門試験（記述式）、外国語試験（記述式）、外国語試験（面接）、時事論文試験、人物試験及び身体検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">財務専門官採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>財務専門官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）及び人物試験</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）及び人物試験</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">国税専門官採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>国税専門官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）、人物試験及び身体検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）、人物試験及び身体検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">税務職員採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>税務職員採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、適性試験、作文試験、人物試験及び身体検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、適性試験、作文試験、人物試験及び身体検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">食品衛生監視員採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>食品衛生監視員採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、専門試験（記述式）及び人物試験</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、専門試験（記述式）及び人物試験</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">労働基準監督官採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>労働基準監督官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">全ての区分試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>全ての区分試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）、人物試験及び身体検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、専門試験（多肢選択式）、専門試験（記述式）、人物試験及び身体検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">航空管制官採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>航空管制官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、適性試験、外国語試験（多肢選択式）、外国語試験（聞き取り）、外国語試験（面接）、人物試験、身体検査及び身体測定</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、適性試験、外国語試験（多肢選択式）、外国語試験（聞き取り）、外国語試験（面接）、人物試験、身体検査及び身体測定</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">航空保安大学校学生採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>航空保安大学校学生採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">全ての区分試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>全ての区分試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、学科試験（多肢選択式）、人物試験、身体検査及び身体測定</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、学科試験（多肢選択式）、人物試験、身体検査及び身体測定</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">気象大学校学生採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>気象大学校学生採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、学科試験（多肢選択式）、学科試験（記述式）、作文試験、人物試験及び身体検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、学科試験（多肢選択式）、学科試験（記述式）、作文試験、人物試験及び身体検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">海上保安官採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>海上保安官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、課題論文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、課題論文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">海上保安大学校学生採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>海上保安大学校学生採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、学科試験（多肢選択式）、学科試験（記述式）、作文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、学科試験（多肢選択式）、学科試験（記述式）、作文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
-              <Sentence WritingMode="vertical">海上保安学校学生採用試験</Sentence>
+            <TableColumn Valign="top" rowspan="3">
+              <Sentence>海上保安学校学生採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">船舶運航システム課程</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>船舶運航システム課程</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、作文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、作文試験、人物試験、身体検査、身体測定及び体力検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">航空課程</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>航空課程</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、学科試験（多肢選択式）、人物試験、身体検査、身体測定、体力検査及び適性検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、学科試験（多肢選択式）、人物試験、身体検査、身体測定、体力検査及び適性検査</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">情報システム課程</Sentence>
-              <Sentence WritingMode="vertical">管制課程</Sentence>
-              <Sentence WritingMode="vertical">海洋科学課程</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>情報システム課程</Sentence>
+              <Sentence>管制課程</Sentence>
+              <Sentence>海洋科学課程</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">基礎能力試験、学科試験（多肢選択式）、人物試験、身体検査、身体測定及び体力検査</Sentence>
-                </ItemSentence>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>基礎能力試験、学科試験（多肢選択式）、人物試験、身体検査、身体測定及び体力検査</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -2271,1040 +1851,460 @@
       <AppdxTableTitle WritingMode="vertical">別表第三　採用試験の受験資格</AppdxTableTitle>
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <TableStruct>
-        <Table WritingMode="vertical">
+        <Table>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">採用試験の種類ごとの名称</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>採用試験の種類ごとの名称</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">区分試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>区分試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">受験資格</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>受験資格</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">国家公務員採用総合職試験（院卒者試験）</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>国家公務員採用総合職試験（院卒者試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">行政</Sentence>
-              <Sentence WritingMode="vertical">人間科学</Sentence>
-              <Sentence WritingMode="vertical">工学</Sentence>
-              <Sentence WritingMode="vertical">数理科学・物理・地球科学</Sentence>
-              <Sentence WritingMode="vertical">化学・生物・薬学</Sentence>
-              <Sentence WritingMode="vertical">農業科学・水産</Sentence>
-              <Sentence WritingMode="vertical">農業農村工学</Sentence>
-              <Sentence WritingMode="vertical">森林・自然環境</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>行政</Sentence>
+              <Sentence>人間科学</Sentence>
+              <Sentence>工学</Sentence>
+              <Sentence>数理科学・物理・地球科学</Sentence>
+              <Sentence>化学・生物・薬学</Sentence>
+              <Sentence>農業科学・水産</Sentence>
+              <Sentence>農業農村工学</Sentence>
+              <Sentence>森林・自然環境</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">第十九条の規定により告知された当該採用試験の第一次試験の日の属する年度（四月一日から翌年の三月三十一日までをいう。以下同じ。）（以下「試験年度」という。）の四月一日における年齢が三十歳未満の者で次に掲げるもの</Sentence>
-                </ParagraphSentence>
-                <Item Delete="false" Hide="false" Num="1">
-                  <ItemTitle>イ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">大学院の修士課程又は専門職大学院の課程を修了した者及び試験年度の三月までに大学院の修士課程又は専門職大学院の課程を修了する見込みの者</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Delete="false" Hide="false" Num="2">
-                  <ItemTitle>ロ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">人事院がイに掲げる者と同等の資格があると認める者</Sentence>
-                  </ItemSentence>
-                </Item>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　第十九条の規定により告知された当該採用試験の第一次試験の日の属する年度（四月一日から翌年の三月三十一日までをいう。以下同じ。）（以下「試験年度」という。）の四月一日における年齢が三十歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>イ　大学院の修士課程又は専門職大学院の課程を修了した者及び試験年度の三月までに大学院の修士課程又は専門職大学院の課程を修了する見込みの者</Sentence>
+              <Sentence>ロ　人事院がイに掲げる者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">法務</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>法務</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">試験年度の四月一日における年齢が三十歳未満の者で次に掲げるもの</Sentence>
-                </ParagraphSentence>
-                <Item Delete="false" Hide="false" Num="1">
-                  <ItemTitle>イ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">法科大学院（学校教育法第九十九条第二項に規定する専門職大学院であって、法曹に必要な学識及び能力を培うことを目的とするものをいう。）の課程を修了した者であって司法試験に合格したもの</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Delete="false" Hide="false" Num="2">
-                  <ItemTitle>ロ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">人事院がイに掲げる者と同等の資格があると認める者</Sentence>
-                  </ItemSentence>
-                </Item>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　試験年度の四月一日における年齢が三十歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>イ　法科大学院（学校教育法第九十九条第二項に規定する専門職大学院であって、法曹に必要な学識及び能力を培うことを目的とするものをいう。）の課程を修了した者であって司法試験に合格したもの</Sentence>
+              <Sentence>ロ　人事院がイに掲げる者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">国家公務員採用総合職試験（大卒程度試験）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>国家公務員採用総合職試験（大卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">政治・国際</Sentence>
-              <Sentence WritingMode="vertical">法律</Sentence>
-              <Sentence WritingMode="vertical">経済</Sentence>
-              <Sentence WritingMode="vertical">人間科学</Sentence>
-              <Sentence WritingMode="vertical">工学</Sentence>
-              <Sentence WritingMode="vertical">数理科学・物理・地球科学</Sentence>
-              <Sentence WritingMode="vertical">化学・生物・薬学</Sentence>
-              <Sentence WritingMode="vertical">農業科学・水産</Sentence>
-              <Sentence WritingMode="vertical">農業農村工学</Sentence>
-              <Sentence WritingMode="vertical">森林・自然環境</Sentence>
-              <Sentence WritingMode="vertical">教養</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>政治・国際</Sentence>
+              <Sentence>法律</Sentence>
+              <Sentence>経済</Sentence>
+              <Sentence>人間科学</Sentence>
+              <Sentence>工学</Sentence>
+              <Sentence>数理科学・物理・地球科学</Sentence>
+              <Sentence>化学・生物・薬学</Sentence>
+              <Sentence>農業科学・水産</Sentence>
+              <Sentence>農業農村工学</Sentence>
+              <Sentence>森林・自然環境</Sentence>
+              <Sentence>教養</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
-                  </Subitem1Sentence>
-                  <Subitem2 Delete="false" Hide="false" Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Delete="false" Hide="false" Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">人事院が（１）に掲げる者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Delete="false" Hide="false" Num="3">
-                    <Subitem2Title>（３）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">教養の区分試験にあっては、（１）及び（２）に掲げるもののほか、試験年度の四月一日における年齢が二十歳の者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者</Sentence>
+              <Sentence>（２）　人事院が（１）に掲げる者と同等の資格があると認める者</Sentence>
+              <Sentence>（３）　教養の区分試験にあっては、（１）及び（２）に掲げるもののほか、試験年度の四月一日における年齢が二十歳の者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">国家公務員採用一般職試験（大卒程度試験）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>国家公務員採用一般職試験（大卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">全ての区分試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>全ての区分試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
-                  </Subitem1Sentence>
-                  <Subitem2 Delete="false" Hide="false" Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Delete="false" Hide="false" Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">学校教育法に基づく短期大学（以下単に「短期大学」という。）又は同法に基づく高等専門学校（以下単に「高等専門学校」という。）を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
+              <Sentence>（２）　学校教育法に基づく短期大学（以下単に「短期大学」という。）又は同法に基づく高等専門学校（以下単に「高等専門学校」という。）を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">国家公務員採用一般職試験（高卒程度試験）</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>国家公務員採用一般職試験（高卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">事務</Sentence>
-              <Sentence WritingMode="vertical">技術</Sentence>
-              <Sentence WritingMode="vertical">農業</Sentence>
-              <Sentence WritingMode="vertical">農業土木</Sentence>
-              <Sentence WritingMode="vertical">林業</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>事務</Sentence>
+              <Sentence>技術</Sentence>
+              <Sentence>農業</Sentence>
+              <Sentence>農業土木</Sentence>
+              <Sentence>林業</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ParagraphSentence>
-                <Item Delete="false" Hide="false" Num="1">
-                  <ItemTitle>イ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日において高等学校又は学校教育法に基づく中等教育学校（以下単に「中等教育学校」という。）を卒業した日の翌日から起算して二年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Delete="false" Hide="false" Num="2">
-                  <ItemTitle>ロ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">人事院がイに掲げる者に準ずると認める者</Sentence>
-                  </ItemSentence>
-                </Item>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日において高等学校又は学校教育法に基づく中等教育学校（以下単に「中等教育学校」という。）を卒業した日の翌日から起算して二年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
+              <Sentence>ロ　人事院がイに掲げる者に準ずると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">事務（社会人）</Sentence>
-              <Sentence WritingMode="vertical">技術（社会人）</Sentence>
-              <Sentence WritingMode="vertical">農業（社会人）</Sentence>
-              <Sentence WritingMode="vertical">農業土木（社会人）</Sentence>
-              <Sentence WritingMode="vertical">林業（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>事務（社会人）</Sentence>
+              <Sentence>技術（社会人）</Sentence>
+              <Sentence>農業（社会人）</Sentence>
+              <Sentence>農業土木（社会人）</Sentence>
+              <Sentence>林業（社会人）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">試験年度の四月一日における年齢が四十歳未満の者（前号イに規定する期間が経過した者及び人事院が当該者に準ずると認める者に限る。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　試験年度の四月一日における年齢が四十歳未満の者（前号イに規定する期間が経過した者及び人事院が当該者に準ずると認める者に限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">皇宮護衛官採用試験（大卒程度試験）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>皇宮護衛官採用試験（大卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
-                  </Subitem1Sentence>
-                  <Subitem2 Delete="false" Hide="false" Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Delete="false" Hide="false" Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
+              <Sentence>（２）　短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">皇宮護衛官採用試験（高卒程度試験）</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>皇宮護衛官採用試験（高卒程度試験）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">護衛官</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>護衛官</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ParagraphSentence>
-                <Item Delete="false" Hide="false" Num="1">
-                  <ItemTitle>イ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して五年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Delete="false" Hide="false" Num="2">
-                  <ItemTitle>ロ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">人事院がイに掲げる者に準ずると認める者</Sentence>
-                  </ItemSentence>
-                </Item>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して五年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
+              <Sentence>ロ　人事院がイに掲げる者に準ずると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">護衛官（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>護衛官（社会人）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">試験年度の四月一日における年齢が四十歳未満の者（前号イに規定する期間が経過した者及び人事院が当該者に準ずると認める者に限る。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　試験年度の四月一日における年齢が四十歳未満の者（前号イに規定する期間が経過した者及び人事院が当該者に準ずると認める者に限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="4">
-              <Sentence WritingMode="vertical">刑務官採用試験</Sentence>
+            <TableColumn Valign="top" rowspan="4">
+              <Sentence>刑務官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">刑務Ａ</Sentence>
-              <Sentence WritingMode="vertical">刑務Ａ（武道）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>刑務Ａ</Sentence>
+              <Sentence>刑務Ａ（武道）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">試験年度の四月一日における年齢が十七歳以上二十九歳未満の男子</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　試験年度の四月一日における年齢が十七歳以上二十九歳未満の男子</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">刑務Ｂ</Sentence>
-              <Sentence WritingMode="vertical">刑務Ｂ（武道）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>刑務Ｂ</Sentence>
+              <Sentence>刑務Ｂ（武道）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">試験年度の四月一日における年齢が十七歳以上二十九歳未満の女子</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　試験年度の四月一日における年齢が十七歳以上二十九歳未満の女子</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">刑務Ａ（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>刑務Ａ（社会人）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>三</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">試験年度の四月一日における年齢が四十歳未満の男子（第一号に規定する受験資格を有しなくなった者に限る。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>三　試験年度の四月一日における年齢が四十歳未満の男子（第一号に規定する受験資格を有しなくなった者に限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">刑務Ｂ（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>刑務Ｂ（社会人）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>四</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">試験年度の四月一日における年齢が四十歳未満の女子（第二号に規定する受験資格を有しなくなった者に限る。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>四　試験年度の四月一日における年齢が四十歳未満の女子（第二号に規定する受験資格を有しなくなった者に限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="7">
-              <Sentence WritingMode="vertical">法務省専門職員（人間科学）採用試験</Sentence>
+            <TableColumn Valign="top" rowspan="7">
+              <Sentence>法務省専門職員（人間科学）採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">矯正心理専門職Ａ</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>矯正心理専門職Ａ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ParagraphSentence>
-                <Item Delete="false" Hide="false" Num="1">
-                  <ItemTitle>イ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の男子</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Delete="false" Hide="false" Num="2">
-                  <ItemTitle>ロ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の男子で次に掲げるもの</Sentence>
-                  </ItemSentence>
-                  <Subitem1 Delete="false" Hide="false" Num="1">
-                    <Subitem1Title>（１）</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Delete="false" Hide="false" Num="2">
-                    <Subitem1Title>（２）</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">人事院が（１）に掲げる者と同等の資格があると認める者</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                </Item>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の男子</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の男子で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者</Sentence>
+              <Sentence>（２）　人事院が（１）に掲げる者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">矯正心理専門職Ｂ</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>矯正心理専門職Ｂ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="2">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ParagraphSentence>
-                <Item Delete="false" Hide="false" Num="1">
-                  <ItemTitle>イ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の女子</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Delete="false" Hide="false" Num="2">
-                  <ItemTitle>ロ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の女子で次に掲げるもの</Sentence>
-                  </ItemSentence>
-                  <Subitem1 Delete="false" Hide="false" Num="1">
-                    <Subitem1Title>（１）</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Delete="false" Hide="false" Num="2">
-                    <Subitem1Title>（２）</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">人事院が（１）に掲げる者と同等の資格があると認める者</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                </Item>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の女子</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の女子で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者</Sentence>
+              <Sentence>（２）　人事院が（１）に掲げる者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">法務教官Ａ</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>法務教官Ａ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="3">
-                <ParagraphNum>三</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ParagraphSentence>
-                <Item Delete="false" Hide="false" Num="1">
-                  <ItemTitle>イ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の男子</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Delete="false" Hide="false" Num="2">
-                  <ItemTitle>ロ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の男子で次に掲げるもの</Sentence>
-                  </ItemSentence>
-                  <Subitem1 Delete="false" Hide="false" Num="1">
-                    <Subitem1Title>（１）</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Delete="false" Hide="false" Num="2">
-                    <Subitem1Title>（２）</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                </Item>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>三　次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の男子</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の男子で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
+              <Sentence>（２）　短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">法務教官Ｂ</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>法務教官Ｂ</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="4">
-                <ParagraphNum>四</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ParagraphSentence>
-                <Item Delete="false" Hide="false" Num="1">
-                  <ItemTitle>イ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の女子</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Delete="false" Hide="false" Num="2">
-                  <ItemTitle>ロ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の女子で次に掲げるもの</Sentence>
-                  </ItemSentence>
-                  <Subitem1 Delete="false" Hide="false" Num="1">
-                    <Subitem1Title>（１）</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Delete="false" Hide="false" Num="2">
-                    <Subitem1Title>（２）</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                </Item>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>四　次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の女子</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の女子で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
+              <Sentence>（２）　短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">法務教官Ａ（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>法務教官Ａ（社会人）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="5">
-                <ParagraphNum>五</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">試験年度の四月一日における年齢が四十歳未満の男子（第三号イに規定する受験資格を有しなくなった者に限る。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>五　試験年度の四月一日における年齢が四十歳未満の男子（第三号イに規定する受験資格を有しなくなった者に限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">法務教官Ｂ（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>法務教官Ｂ（社会人）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="6">
-                <ParagraphNum>六</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">試験年度の四月一日における年齢が四十歳未満の女子（第四号イに規定する受験資格を有しなくなった者に限る。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>六　試験年度の四月一日における年齢が四十歳未満の女子（第四号イに規定する受験資格を有しなくなった者に限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">保護観察官</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>保護観察官</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="7">
-                <ParagraphNum>七</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ParagraphSentence>
-                <Item Delete="false" Hide="false" Num="1">
-                  <ItemTitle>イ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Delete="false" Hide="false" Num="2">
-                  <ItemTitle>ロ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
-                  </ItemSentence>
-                  <Subitem1 Delete="false" Hide="false" Num="1">
-                    <Subitem1Title>（１）</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Delete="false" Hide="false" Num="2">
-                    <Subitem1Title>（２）</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                </Item>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>七　次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
+              <Sentence>（２）　短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">入国警備官採用試験</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>入国警備官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">警備官</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>警備官</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="1">
-                <ParagraphNum>一</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ParagraphSentence>
-                <Item Delete="false" Hide="false" Num="1">
-                  <ItemTitle>イ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して五年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Delete="false" Hide="false" Num="2">
-                  <ItemTitle>ロ</ItemTitle>
-                  <ItemSentence>
-                    <Sentence WritingMode="vertical">人事院がイに掲げる者に準ずると認める者</Sentence>
-                  </ItemSentence>
-                </Item>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>一　次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して五年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
+              <Sentence>ロ　人事院がイに掲げる者に準ずると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">警備官（社会人）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>警備官（社会人）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Paragraph Hide="false" Num="2">
-                <ParagraphNum>二</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">試験年度の四月一日における年齢が四十歳未満の者（前号イに規定する期間が経過した者及び人事院が当該者に準ずると認める者に限る。）</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
+            <TableColumn Valign="top">
+              <Sentence>二　試験年度の四月一日における年齢が四十歳未満の者（前号イに規定する期間が経過した者及び人事院が当該者に準ずると認める者に限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">外務省専門職員採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>外務省専門職員採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
-                  </Subitem1Sentence>
-                  <Subitem2 Delete="false" Hide="false" Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Delete="false" Hide="false" Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
+              <Sentence>（２）　短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">財務専門官採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>財務専門官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
-                  </Subitem1Sentence>
-                  <Subitem2 Delete="false" Hide="false" Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Delete="false" Hide="false" Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
+              <Sentence>（２）　短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">国税専門官採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>国税専門官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
-                  </Subitem1Sentence>
-                  <Subitem2 Delete="false" Hide="false" Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Delete="false" Hide="false" Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">人事院が（１）に掲げる者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者</Sentence>
+              <Sentence>（２）　人事院が（１）に掲げる者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">税務職員採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>税務職員採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して三年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">人事院がイに掲げる者に準ずると認める者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して三年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
+              <Sentence>ロ　人事院がイに掲げる者に準ずると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">食品衛生監視員採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>食品衛生監視員採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の者で次に掲げるもの</Sentence>
-                  </Subitem1Sentence>
-                  <Subitem2 Delete="false" Hide="false" Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">大学において薬学、畜産学、水産学又は農芸化学の課程を修めて卒業した者及び試験年度の三月までに当該課程を修めて大学を卒業する見込みの者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Delete="false" Hide="false" Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">都道府県知事の登録を受けた食品衛生監視員の養成施設において所定の課程を修了した者及び試験年度の三月までに当該課程を修了する見込みの者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
-                  </Subitem1Sentence>
-                  <Subitem2 Delete="false" Hide="false" Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">イ（１）に掲げる者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Delete="false" Hide="false" Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">都道府県知事の登録を受けた食品衛生監視員の養成施設において所定の課程を修了した者又は試験年度の三月までに当該課程を修了する見込みの者であって、大学を卒業したもの及び試験年度の三月までに大学を卒業する見込みのもの</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Delete="false" Hide="false" Num="3">
-                    <Subitem2Title>（３）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">人事院が（１）又は（２）に掲げる者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学において薬学、畜産学、水産学又は農芸化学の課程を修めて卒業した者及び試験年度の三月までに当該課程を修めて大学を卒業する見込みの者</Sentence>
+              <Sentence>（２）　都道府県知事の登録を受けた食品衛生監視員の養成施設において所定の課程を修了した者及び試験年度の三月までに当該課程を修了する見込みの者</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>（１）　イ（１）に掲げる者</Sentence>
+              <Sentence>（２）　都道府県知事の登録を受けた食品衛生監視員の養成施設において所定の課程を修了した者又は試験年度の三月までに当該課程を修了する見込みの者であって、大学を卒業したもの及び試験年度の三月までに大学を卒業する見込みのもの</Sentence>
+              <Sentence>（３）　人事院が（１）又は（２）に掲げる者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">労働基準監督官採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>労働基準監督官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">全ての区分試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>全ての区分試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
-                  </Subitem1Sentence>
-                  <Subitem2 Delete="false" Hide="false" Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Delete="false" Hide="false" Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">人事院が（１）に掲げる者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者</Sentence>
+              <Sentence>（２）　人事院が（１）に掲げる者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">航空管制官採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>航空管制官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
-                  </Subitem1Sentence>
-                  <Subitem2 Delete="false" Hide="false" Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Delete="false" Hide="false" Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日における年齢が二十一歳以上三十歳未満の者</Sentence>
+              <Sentence>ロ　試験年度の四月一日における年齢が二十一歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>（１）　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
+              <Sentence>（２）　短期大学又は高等専門学校を卒業した者及び試験年度の三月までに短期大学又は高等専門学校を卒業する見込みの者並びに人事院がこれらの者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">航空保安大学校学生採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>航空保安大学校学生採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">全ての区分試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>全ての区分試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して三年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">人事院がイに掲げる者と同等の資格があると認める者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して三年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
+              <Sentence>ロ　人事院がイに掲げる者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">気象大学校学生採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>気象大学校学生採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して二年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">人事院がイに掲げる者と同等の資格があると認める者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して二年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
+              <Sentence>ロ　人事院がイに掲げる者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">海上保安官採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>海上保安官採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">試験年度の四月一日における年齢が三十歳未満の者で次に掲げるもの</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">人事院がイに掲げる者と同等の資格があると認める者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>試験年度の四月一日における年齢が三十歳未満の者で次に掲げるもの</Sentence>
+              <Sentence>イ　大学を卒業した者及び試験年度の三月までに大学を卒業する見込みの者</Sentence>
+              <Sentence>ロ　人事院がイに掲げる者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">海上保安大学校学生採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>海上保安大学校学生採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して二年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">人事院がイに掲げる者と同等の資格があると認める者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して二年を経過していない者及び試験年度の三月までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
+              <Sentence>ロ　人事院がイに掲げる者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">海上保安学校学生採用試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>海上保安学校学生採用試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">全ての区分試験</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>全ての区分試験</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle/>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">次に掲げる者</Sentence>
-                </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して十二年（採用試験が同一年度に二回行われる場合における初回の採用試験については、十三年）を経過していない者及び試験年度の三月（採用試験が同一年度に二回行われる場合における初回の採用試験については、九月）までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">人事院がイに掲げる者と同等の資格があると認める者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-              </Item>
+            <TableColumn Valign="top">
+              <Sentence>次に掲げる者</Sentence>
+              <Sentence>イ　試験年度の四月一日において高等学校又は中等教育学校を卒業した日の翌日から起算して十二年（採用試験が同一年度に二回行われる場合における初回の採用試験については、十三年）を経過していない者及び試験年度の三月（採用試験が同一年度に二回行われる場合における初回の採用試験については、九月）までに高等学校又は中等教育学校を卒業する見込みの者</Sentence>
+              <Sentence>ロ　人事院がイに掲げる者と同等の資格があると認める者</Sentence>
             </TableColumn>
           </TableRow>
         </Table>

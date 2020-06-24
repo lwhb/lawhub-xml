@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="191120e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="102" Year="14">
+<Law DataInfo="200622e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="102" Year="14">
   <LawNum>平成十四年政令第百二号</LawNum>
   <LawBody>
     <LawTitle>沖縄振興特別措置法施行令</LawTitle>
@@ -1887,7 +1887,7 @@
               <Subitem1 Num="6">
                 <Subitem1Title>ヘ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>卸売市場法（昭和四十六年法律第三十五号）第二条第三項に規定する中央卸売市場及び同条第四項に規定する地方卸売市場の施設の改良、造成又は取得</Sentence>
+                  <Sentence>卸売市場法（昭和四十六年法律第三十五号）第四条第六項に規定する中央卸売市場及び同法第十三条第六項に規定する地方卸売市場の施設の改良、造成又は取得</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="7">
@@ -3355,6 +3355,20 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年一〇月一七日政令第二九三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この政令は、改正法の施行の日（平成三十年十月二十二日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第一条、第四条から第六条まで、第八条及び第十四条並びに次条の規定は、改正法附則第一条第三号に掲げる規定の施行の日（平成三十二年六月二十一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="平成三〇年一〇月二四日政令第三〇〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
@@ -3424,18 +3438,12 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>二</Sentence>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>土地改良</Sentence>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>土地改良法第二条第二項に規定する土地改良事業で国が行うもの</Sentence>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>（一）　土地改良法第八十五条第一項、第八十五条の二第一項若しくは第八十五条の三第一項若しくは第六項の申請により行う農業用用排水施設の新設、管理、廃止若しくは変更又は同法第八十七条の五第一項の規定により行う土地改良施設の突発事故被害の復旧</Sentence>
@@ -3463,11 +3471,9 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>三</Sentence>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>林業施設</Sentence>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>森林法第四十一条第三項に規定する保安施設事業（保安林整備事業として行われるものを除く。）</Sentence>
@@ -3504,31 +3510,9 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="12">
               <Sentence>五</Sentence>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="12">
               <Sentence>道路</Sentence>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>高速自動車国道</Sentence>
@@ -3543,7 +3527,7 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>一般国道</Sentence>
-              <Sentence/>
+
               <Sentence/>
             </TableColumn>
             <TableColumn Valign="top">
@@ -3572,9 +3556,6 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="4">
               <Sentence>県道</Sentence>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>（一）　新設若しくは改築（いずれも（三）及び（四）に掲げるもの並びに道路整備事業に係る国の財政上の特別措置に関する法律施行令（昭和三十四年政令第十七号）第一条第一項第五号に掲げる事業に該当するものを除く。）又は修繕</Sentence>
@@ -3610,9 +3591,7 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="4">
               <Sentence>市町村道</Sentence>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
+
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>（一）　新設又は改築（いずれも（三）及び（四）に掲げるもの並びに道路整備事業に係る国の財政上の特別措置に関する法律施行令第一条第一項第五号に掲げる事業に該当するものを除く。）</Sentence>
@@ -3648,13 +3627,9 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>六</Sentence>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>港湾</Sentence>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>港湾法第二条第五項に規定する港湾施設のうち水域施設、外郭施設、係留施設、臨港交通施設、港湾公害防止施設、廃棄物処理施設（廃棄物埋立護岸、廃油処理施設及び同法第十二条第一項第十一号の三の海洋性廃棄物処理施設に限る。）、港湾環境整備施設又は公共の用に供する港湾施設用地（同法第二条第九項に規定する避難港にあっては、水域施設又は外郭施設に限る。）の建設又は改良の工事</Sentence>
@@ -3727,24 +3702,12 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>十</Sentence>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>水道</Sentence>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>水道法第三条第二項に規定する水道事業及び同条第四項に規定する水道用水供給事業</Sentence>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>（一）　水源開発施設（水道の水源の開発の用に供するダム、堰、水路及び海水淡水化施設並びにこれらの施設と密接な関連を有する施設をいう。以下同じ。）であって、用水単価及び資本単価（水道法施行令（昭和三十二年政令第三百三十六号）別表に規定する用水単価及び資本単価をいう。以下同じ。）が厚生労働大臣が定める額以上の水道用水供給事業の用に供するものの新設又は増設</Sentence>
@@ -3800,11 +3763,9 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>十三</Sentence>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>下水道</Sentence>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" colspan="2">
               <Sentence>（一）　下水道法第二条第三号に規定する公共下水道の設置又は改築</Sentence>
@@ -3880,13 +3841,9 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>十八</Sentence>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>児童福祉施設</Sentence>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>児童福祉法第七条第一項に規定する児童福祉施設の整備</Sentence>
@@ -3931,11 +3888,9 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>二十</Sentence>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>生活保護施設</Sentence>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>生活保護法第三十八条第一項に規定する保護施設の整備</Sentence>
@@ -3972,23 +3927,9 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="8">
               <Sentence>二十二</Sentence>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="8">
               <Sentence>義務教育施設等</Sentence>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>公立の義務教育諸学校等の施設費の国庫負担等に関する法律（昭和三十三年法律第八十一号）第二条第一項に規定する義務教育諸学校に係る建物（同条第二項に規定する建物をいう。以下同じ。）の整備</Sentence>
@@ -4064,13 +4005,9 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>二十三</Sentence>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>高等学校教育施設等</Sentence>
-              <Sentence/>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" colspan="2">
               <Sentence>公立の高等学校等（義務教育諸学校等の施設費の国庫負担等に関する法律第十一条第一項に規定する高等学校等をいう。以下同じ。）に係る建物の整備</Sentence>
@@ -4126,15 +4063,12 @@
           <TableRow>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>二十六</Sentence>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>地すべり防止施設</Sentence>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top" rowspan="2">
               <Sentence>地すべり等防止法第二条第四項に規定する地すべり防止工事</Sentence>
-              <Sentence/>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>（一）　渓流（山間部におけるその直下流を含む。以下同じ。）において施行するもの及びこれと一体となって直接渓流に土砂を排出することを防止するために施行するもの</Sentence>

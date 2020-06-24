@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200422e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="98" Year="11">
+<Law DataInfo="181112e80k10m04" Era="Heisei" Lang="ja" LawType="Act" Num="98" Year="11">
   <LawNum>平成十一年法律第九十八号</LawNum>
   <LawBody>
     <LawTitle>農林水産省設置法</LawTitle>
@@ -36,7 +36,7 @@
         </TOCSection>
         <TOCSection Num="4">
           <SectionTitle>第四節　特別の機関</SectionTitle>
-          <ArticleRange>（第十二条―第十六条の三）</ArticleRange>
+          <ArticleRange>（第十二条―第十六条の二）</ArticleRange>
         </TOCSection>
         <TOCSection Num="5">
           <SectionTitle>第五節　地方支分部局</SectionTitle>
@@ -200,7 +200,7 @@
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence>卸売市場の整備及び中央卸売市場の監督に関すること。</Sentence>
+                  <Sentence>中央卸売市場の監督その他卸売市場に関すること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="9">
@@ -219,12 +219,6 @@
                 <ItemTitle>十一</ItemTitle>
                 <ItemSentence>
                   <Sentence>食品産業その他の所掌に係る事業における資源の有効な利用の確保に関すること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="11_2">
-                <ItemTitle>十一の二</ItemTitle>
-                <ItemSentence>
-                  <Sentence>農林水産物及び食品の輸出の促進に関する法律（令和元年法律第五十七号）第四条に規定する事務</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="12">
@@ -290,19 +284,7 @@
               <Item Num="22">
                 <ItemTitle>二十二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>獣医療に関すること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="22_2">
-                <ItemTitle>二十二の二</ItemTitle>
-                <ItemSentence>
-                  <Sentence>獣医師に関すること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="22_3">
-                <ItemTitle>二十二の三</ItemTitle>
-                <ItemSentence>
-                  <Sentence>愛玩動物看護師に関する事務のうち所掌に係るものに関すること。</Sentence>
+                  <Sentence>獣医師及び獣医療に関すること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="23">
@@ -954,18 +936,8 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>前項に定めるもののほか、別に法律で定めるところにより農林水産省に置かれる特別の機関で本省に置かれるものは、次のとおりとする。</Sentence>
+                <Sentence>前項に定めるもののほか、別に法律で定めるところにより農林水産省に置かれる特別の機関で本省に置かれるものは、食育推進会議とする。</Sentence>
               </ParagraphSentence>
-              <List>
-                <ListSentence>
-                  <Sentence>食育推進会議</Sentence>
-                </ListSentence>
-              </List>
-              <List>
-                <ListSentence>
-                  <Sentence>農林水産物・食品輸出本部</Sentence>
-                </ListSentence>
-              </List>
             </Paragraph>
           </Article>
           <Article Num="13">
@@ -1078,16 +1050,6 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence>食育推進会議については、食育基本法（これに基づく命令を含む。）の定めるところによる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="16_3">
-            <ArticleCaption>（農林水産物・食品輸出本部）</ArticleCaption>
-            <ArticleTitle>第十六条の三</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence>農林水産物・食品輸出本部については、農林水産物及び食品の輸出の促進に関する法律（これに基づく命令を含む。）の定めるところによる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1272,7 +1234,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>林野庁は、前条の任務を達成するため、第四条第一項第二号、第三号（業務及び会計の検査に係るものを除く。）、第四号、第五号、第十号、第十一号、第十二号、第十三号、第三十三号、第三十四号、第三十九号、第四十八号、第五十五号から第六十六号まで及び第八十三号から第八十六号までに掲げる事務をつかさどる。</Sentence>
+                  <Sentence>林野庁は、前条の任務を達成するため、第四条第一項第二号、第三号（業務及び会計の検査に係るものを除く。）、第四号、第五号、第十号から第十三号まで、第三十三号、第三十四号、第三十九号、第四十八号、第五十五号から第六十六号まで及び第八十三号から第八十六号までに掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1414,7 +1376,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>水産庁は、前条の任務を達成するため、第四条第一項第二号、第三号（業務及び会計の検査に係るものを除く。）、第四号、第五号、第十号、第十一号、第十二号、第十三号、第三十三号、第三十四号、第三十五号（漁業信用基金協会の業務の監督（業務及び会計の検査を除く。）に係るものに限る。）、第三十九号、第四十八号、第六十七号から第八十三号まで、第八十五号及び第八十六号に掲げる事務をつかさどる。</Sentence>
+                  <Sentence>水産庁は、前条の任務を達成するため、第四条第一項第二号、第三号（業務及び会計の検査に係るものを除く。）、第四号、第五号、第十号から第十三号まで、第三十三号、第三十四号、第三十五号（漁業信用基金協会の業務の監督（業務及び会計の検査を除く。）に係るものに限る。）、第三十九号、第四十八号、第六十七号から第八十三号まで、第八十五号及び第八十六号に掲げる事務をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1528,6 +1490,14 @@
             </TableRow>
             <TableRow>
               <TableColumn>
+                <Sentence>平成三十一年三月三十一日</Sentence>
+              </TableColumn>
+              <TableColumn>
+                <Sentence>奄美群島（奄美群島振興開発特別措置法（昭和二十九年法律第百八十九号）第一条に規定する奄美群島をいう。）の振興及び開発に関する総合的な政策の企画及び立案並びに推進に関すること。</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn>
                 <Sentence>平成三十三年三月三十一日</Sentence>
               </TableColumn>
               <TableColumn>
@@ -1548,14 +1518,6 @@
               </TableColumn>
               <TableColumn>
                 <Sentence>離島振興対策実施地域（離島振興法（昭和二十八年法律第七十二号）第二条第一項の離島振興対策実施地域をいう。）の振興に関する総合的な政策の企画及び立案並びに推進に関すること。</Sentence>
-              </TableColumn>
-            </TableRow>
-            <TableRow>
-              <TableColumn>
-                <Sentence>平成三十六年三月三十一日</Sentence>
-              </TableColumn>
-              <TableColumn>
-                <Sentence>奄美群島（奄美群島振興開発特別措置法（昭和二十九年法律第百八十九号）第一条に規定する奄美群島をいう。）の振興及び開発に関する総合的な政策の企画及び立案並びに推進に関すること。</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -1597,8 +1559,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第七条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第七条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1611,8 +1573,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第八条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第八条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1625,8 +1587,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第七条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第七条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1639,8 +1601,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第七条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第七条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1653,8 +1615,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第七条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第七条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1667,8 +1629,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第七条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第七条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1681,8 +1643,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第七条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第七条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1695,8 +1657,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第九条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第九条の規定は、同日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1761,8 +1723,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1828,8 +1790,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十五年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第二項の改正規定並びに次条及び附則第六条から第八条までの規定は、公布の日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十五年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第二項の改正規定並びに次条及び附則第六条から第八条までの規定は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1842,8 +1804,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十五年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第五条から第十二条まで及び第十四条から第十九条までの規定は、同年十月一日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十五年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第五条から第十二条まで及び第十四条から第十九条までの規定は、同年十月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1869,8 +1831,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1917,8 +1879,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、第二条の規定は、平成十八年四月一日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="2">ただし、第二条の規定は、平成十八年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1951,8 +1913,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十六年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十六年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1976,8 +1938,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十七年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第二項の改正規定及び附則第三条から第五条までの規定は、公布の日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成十七年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第二項の改正規定及び附則第三条から第五条までの規定は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2078,8 +2040,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成二十一年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成二十一年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -2103,8 +2065,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、消費者庁及び消費者委員会設置法（平成二十一年法律第四十八号）の施行の日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、消費者庁及び消費者委員会設置法（平成二十一年法律第四十八号）の施行の日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -2170,8 +2132,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成二十二年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第三条の改正規定及び附則第七条から第九条までの規定は、公布の日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成二十二年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第三条の改正規定及び附則第七条から第九条までの規定は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2184,8 +2146,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -2219,8 +2181,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -2328,8 +2290,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成二十五年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第二項の改正規定並びに次条並びに附則第四条、第六条及び第九条から第十一条までの規定は、公布の日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成二十五年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第二項の改正規定並びに次条並びに附則第四条、第六条及び第九条から第十一条までの規定は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2355,8 +2317,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次条及び附則第十八条の規定については、公布の日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次条及び附則第十八条の規定については、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2405,8 +2367,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成二十七年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第八条第三項及び第四項並びに第十九条の規定は、公布の日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成二十七年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第八条第三項及び第四項並びに第十九条の規定は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2429,8 +2391,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号。以下「通則法改正法」という。）の施行の日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号。以下「通則法改正法」という。）の施行の日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -2474,8 +2436,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成二十七年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、附則第二項の改正規定及び附則第四条から第六条までの規定は、公布の日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成二十七年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、附則第二項の改正規定及び附則第四条から第六条までの規定は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2488,8 +2450,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -2562,8 +2524,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成二十八年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Num="1">この法律は、平成二十八年四月一日から施行する。</Sentence>
+            <Sentence Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -2655,7 +2617,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律は、平成三十年四月一日から施行する。</Sentence>
+            <Sentence Function="main" Num="1">この法律は、平成三十年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第四条の規定は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2668,7 +2631,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次条及び附則第九条の規定は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2743,7 +2707,12 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence>略</Sentence>
+              <Column Num="1">
+                <Sentence>附則第三条及び第十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して一年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
             </ItemSentence>
           </Item>
           <Item Num="3">
@@ -2759,6 +2728,16 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="31">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="32">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第三十二条</ArticleTitle>
@@ -2766,46 +2745,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="平成三一年三月三〇日法律第八号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>この法律は、平成三十一年四月一日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年六月二八日法律第五〇号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、第三十四条から第三十六条まで、第三十八条（第十八条及び第二十五条の規定を準用する部分を除く。）及び第三十九条の規定並びに第四十四条、第四十五条及び第四十七条（第一号を除く。）の規定（指定試験機関に係る部分に限る。）並びに附則第四条、第五条、第九条及び第十条の規定は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年一一月二七日法律第五七号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>この法律は、令和二年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

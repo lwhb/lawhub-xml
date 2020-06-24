@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="083" Year="14">
+<Law DataInfo="200622e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="083" Year="14">
   <LawNum>平成十四年農林水産省令第八十三号</LawNum>
   <LawBody>
     <LawTitle>農林水産省の職員が検査の際に携帯する身分証明書の様式を定める省令</LawTitle>
@@ -61,7 +61,7 @@
         <Item Delete="false" Hide="false" Num="9">
           <ItemTitle>九</ItemTitle>
           <ItemSentence>
-            <Sentence WritingMode="vertical">卸売市場法（昭和四十六年法律第三十五号）第四十八条第一項</Sentence>
+            <Sentence WritingMode="vertical">卸売市場法（昭和四十六年法律第三十五号）第十二条第二項</Sentence>
           </ItemSentence>
         </Item>
         <Item Delete="false" Hide="false" Num="10">
@@ -291,11 +291,36 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年一〇月一七日農林水産省令第六七号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、卸売市場法及び食品流通構造改善促進法の一部を改正する法律（以下「改正法」という。）の施行の日（平成三十年十月二十二日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一条、第三条、第四条、第六条、第七条及び第九条並びに附則第三条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">改正法附則第一条第三号に掲げる規定の施行の日（平成三十二年六月二十一日）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H14F17001000083-001.pdf"/>
+          <Fig src="./pict/H14F17001000083_1903052003_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

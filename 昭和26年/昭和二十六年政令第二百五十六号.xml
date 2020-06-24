@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e04k09m02" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="256" Year="26">
+<Law DataInfo="200622e05k07m03" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="256" Year="26">
   <LawNum>昭和二十六年政令第二百五十六号</LawNum>
   <LawBody>
     <LawTitle>自動車登録令</LawTitle>
@@ -1897,9 +1897,22 @@
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence>この政令は、民法の一部を改正する法律の施行の日（平成三十二年四月一日）から施行する。</Sentence>
+          <Sentence>この政令は、民法の一部を改正する法律の施行の日（令和二年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二八日政令第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和元年一二月一三日政令第一八三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>

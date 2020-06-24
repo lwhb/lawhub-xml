@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="13">
+<Law DataInfo="200619e04k04m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="13">
   <LawNum>平成十三年経済産業省令第一号</LawNum>
   <LawBody>
     <LawTitle>経済産業省組織規則</LawTitle>
@@ -3728,9 +3728,9 @@
                         <Sentence>関東経済産業局</Sentence>
                       </TableColumn>
                       <TableColumn>
-                        <Sentence>茨城県、栃木県、群馬県、埼玉県、千葉県、東京都、神奈川県、山梨県</Sentence>
-                        <Sentence>静岡県のうち</Sentence>
-                        <Sentence>熱海市、沼津市、三島市、富士宮市（昭和三十一年九月二十九日における旧庵原郡内房村の区域を除く。）、伊東市、富士市（平成二十年十月三十一日における旧庵原郡富士川町の区域を除く。）、御殿場市、裾野市、下田市、伊豆市、伊豆の国市、田方郡、賀茂郡、駿東郡</Sentence>
+                        <Sentence Num="1">茨城県、栃木県、群馬県、埼玉県、千葉県、東京都、神奈川県、山梨県</Sentence>
+                        <Sentence Num="2">静岡県のうち</Sentence>
+                        <Sentence Num="3">熱海市、沼津市、三島市、富士宮市（昭和三十一年九月二十九日における旧庵原郡内房村の区域を除く。）、伊東市、富士市（平成二十年十月三十一日における旧庵原郡富士川町の区域を除く。）、御殿場市、裾野市、下田市、伊豆市、伊豆の国市、田方郡、賀茂郡、駿東郡</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
@@ -3746,13 +3746,13 @@
                         <Sentence>近畿経済産業局</Sentence>
                       </TableColumn>
                       <TableColumn>
-                        <Sentence>滋賀県、京都府、大阪府、奈良県、和歌山県、兵庫県（赤穂市（昭和三十八年九月一日に岡山県和気郡日生町から編入された区域に限る。）を除く。）</Sentence>
-                        <Sentence>福井県のうち</Sentence>
-                        <Sentence>小浜市、三方郡、大飯郡、三方上中郡</Sentence>
-                        <Sentence>岐阜県のうち</Sentence>
-                        <Sentence>不破郡関ケ原町（昭和二十九年八月三十一日における旧今須村の区域に限る。）</Sentence>
-                        <Sentence>三重県のうち</Sentence>
-                        <Sentence>熊野市（昭和二十九年十一月二日における旧南牟婁郡新鹿村、荒坂村及び泊村の区域を除く。）、南牟婁郡</Sentence>
+                        <Sentence Num="1">滋賀県、京都府、大阪府、奈良県、和歌山県、兵庫県（赤穂市（昭和三十八年九月一日に岡山県和気郡日生町から編入された区域に限る。）を除く。）</Sentence>
+                        <Sentence Num="2">福井県のうち</Sentence>
+                        <Sentence Num="3">小浜市、三方郡、大飯郡、三方上中郡</Sentence>
+                        <Sentence Num="4">岐阜県のうち</Sentence>
+                        <Sentence Num="5">不破郡関ケ原町（昭和二十九年八月三十一日における旧今須村の区域に限る。）</Sentence>
+                        <Sentence Num="6">三重県のうち</Sentence>
+                        <Sentence Num="7">熊野市（昭和二十九年十一月二日における旧南牟婁郡新鹿村、荒坂村及び泊村の区域を除く。）、南牟婁郡</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
@@ -3760,13 +3760,13 @@
                         <Sentence>中国経済産業局</Sentence>
                       </TableColumn>
                       <TableColumn>
-                        <Sentence>鳥取県、島根県、岡山県、広島県、山口県</Sentence>
-                        <Sentence>兵庫県のうち</Sentence>
-                        <Sentence>赤穂市（昭和三十八年九月一日に岡山県和気郡日生町から編入された区域に限る。）</Sentence>
-                        <Sentence>香川県のうち</Sentence>
-                        <Sentence>小豆郡、香川郡</Sentence>
-                        <Sentence>愛媛県のうち</Sentence>
-                        <Sentence>今治市（平成十七年一月十五日における旧越智郡吉海町、宮窪町、伯方町、上浦町、大三島町及び関前村の区域に限る。）、越智郡</Sentence>
+                        <Sentence Num="1">鳥取県、島根県、岡山県、広島県、山口県</Sentence>
+                        <Sentence Num="2">兵庫県のうち</Sentence>
+                        <Sentence Num="3">赤穂市（昭和三十八年九月一日に岡山県和気郡日生町から編入された区域に限る。）</Sentence>
+                        <Sentence Num="4">香川県のうち</Sentence>
+                        <Sentence Num="5">小豆郡、香川郡</Sentence>
+                        <Sentence Num="6">愛媛県のうち</Sentence>
+                        <Sentence Num="7">今治市（平成十七年一月十五日における旧越智郡吉海町、宮窪町、伯方町、上浦町、大三島町及び関前村の区域に限る。）、越智郡</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
@@ -4893,9 +4893,9 @@
                         <Sentence>富山市</Sentence>
                       </TableColumn>
                       <TableColumn>
-                        <Sentence>富山県、石川県</Sentence>
-                        <Sentence>岐阜県のうち</Sentence>
-                        <Sentence>飛騨市（平成十六年一月三十一日における旧吉城郡神岡町及び宮川村（昭和三十一年九月二十九日における旧坂下村の区域に限る。）の区域に限る。）及び郡上市（平成十六年二月二十九日における旧郡上郡白鳥町石徹白の区域に限る。）</Sentence>
+                        <Sentence Num="1">富山県、石川県</Sentence>
+                        <Sentence Num="2">岐阜県のうち</Sentence>
+                        <Sentence Num="3">飛騨市（平成十六年一月三十一日における旧吉城郡神岡町及び宮川村（昭和三十一年九月二十九日における旧坂下村の区域に限る。）の区域に限る。）及び郡上市（平成十六年二月二十九日における旧郡上郡白鳥町石徹白の区域に限る。）</Sentence>
                       </TableColumn>
                     </TableRow>
                   </Table>

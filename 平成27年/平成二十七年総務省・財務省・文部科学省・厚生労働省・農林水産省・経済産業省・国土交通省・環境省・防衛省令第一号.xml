@@ -108,7 +108,8 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十二条第一項の規定による報告は、事業所ごとに、毎年度、当該年度の翌年度の六月末日までに、別記様式による報告書を提出してしなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第二十二条第一項の規定による報告は、事業所ごとに、毎年度、当該年度の翌年度の六月末日までに、別記様式による報告書を提出してしなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他やむを得ない事由により当該期限までに提出してすることが困難であるときは、主務大臣が当該事由を勘案して定める期限までに提出してしなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -210,12 +211,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省・防衛省令第一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式</AppdxStyleTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H27F11009045001_1908231308_001.pdf"/>
+          <Fig src="./pict/H27F11009045001_2006181306_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

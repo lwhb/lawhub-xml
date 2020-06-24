@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200107e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="56" Year="17">
+<Law DataInfo="190104e99k09m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="56" Year="17">
   <LawNum>平成十七年農林水産省令第五十六号</LawNum>
   <LawBody>
     <LawTitle>農林水産省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則</LawTitle>
@@ -383,6 +383,37 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年一〇月一七日農林水産省令第六七号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、卸売市場法及び食品流通構造改善促進法の一部を改正する法律（以下「改正法」という。）の施行の日（平成三十年十月二十二日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条、第三条、第四条、第六条、第七条及び第九条並びに附則第三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>改正法附則第一条第三号に掲げる規定の施行の日（平成三十二年六月二十一日）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="平成三〇年一一月三〇日農林水産省令第七五号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
@@ -532,14 +563,6 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
               <Sentence WritingMode="vertical">第二十六条</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">卸売市場法（昭和四十六年法律第三十五号）</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">第二十九条第一項</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -856,14 +879,6 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">卸売市場法</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">第二十八条及び第二十九条第一項</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
               <Sentence WritingMode="vertical">森林組合法</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
@@ -1132,14 +1147,6 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
               <Sentence WritingMode="vertical">第三十四条第四項及び第三十五条第二項（これらの規定を第六十七条第二項において準用する場合を含む。）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">卸売市場法</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">第二十九条第二項</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>

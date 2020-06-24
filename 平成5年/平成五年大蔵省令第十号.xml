@@ -820,7 +820,7 @@
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">金融商品取引法第二条第八項第七号、第十三号及び第十五号に掲げる行為を行う業務</Sentence>
+              <Sentence WritingMode="vertical">金融商品取引法第二条第八項第七号、第十三号及び第十五号に掲げる行為（同号に掲げる行為にあっては、暗号資産（同条第二十四項第三号の二に規定する暗号資産をいう。以下同じ。）の価値等（暗号資産の価値、暗号資産関連オプション（同法第百八十五条の二十三第一項に規定する暗号資産関連オプションをいう。）の対価の額又は暗号資産関連金融指標（同法第百八十五条の二十二第一項第一号に規定する暗号資産関連金融指標をいう。）の動向をいう。第十四号並びに第十条第二項第一号及び第三項第一号において同じ。）の分析に基づく投資判断（同法第二条第八項第十一号ロに規定する投資判断をいう。第十四号並びに第十条第二項第一号及び第三項第一号において同じ。）に基づいて財産の運用を行うものを除く。）を行う業務</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
@@ -910,7 +910,7 @@
           <Item Delete="false" Hide="false" Num="14">
             <ItemTitle>十四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">投資助言業務（金融商品取引法第二十八条第六項に規定する投資助言業務をいう。）又は投資一任契約（同法第二条第八項第十二号ロに規定する投資一任契約をいう。）に係る業務</Sentence>
+              <Sentence WritingMode="vertical">投資助言業務（金融商品取引法第二十八条第六項に規定する投資助言業務をいう。第四十九条の二及び第四十九条の三において同じ。）又は投資一任契約（同法第二条第八項第十二号ロに規定する投資一任契約をいい、暗号資産の価値等の分析に基づく投資判断の全部又は一部を一任されるものを除く。）に係る業務</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="14_2">
@@ -1297,7 +1297,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">信用協同組合等は、認可対象会社（法第四条の二第三項又は法第四条の四第三項に規定する認可対象会社をいい、同条第一項第七号の三に掲げる会社（以下「業務高度化等会社」という。）を除く。以下この条において同じ。）を子会社とすることの認可を受けようとするときは、認可申請書に次に掲げる書面を添付して金融庁長官等に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">信用協同組合等は、認可対象会社（法第四条の二第三項又は法第四条の四第三項に規定する認可対象会社をいい、同条第一項第七号の三に掲げる会社（以下「業務高度化等会社」という。）を除く。以下この条において同じ。）を子会社とすることについての認可を受けようとするときは、認可申請書に次に掲げる書面を添付して金融庁長官等に提出しなければならない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1429,13 +1429,13 @@
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前二項の規定は、法第四条の二第四項ただし書（法第四条の四第五項において準用する場合を含む。）の規定による認可について準用する。</Sentence>
+            <Sentence WritingMode="vertical">前二項の規定は、法第四条の二第四項ただし書（法第四条の四第五項において準用する場合を含む。）の規定による認可（信用協同組合連合会若しくはその子会社が合算してその基準議決権数を超えて取得し、若しくは保有することとなった業務高度化等会社の議決権について引き続きその基準議決権数を超えて保有すること又は子会社となった外国の業務高度化等会社を引き続き子会社とすることについての認可を除く。）について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第一項の規定は、法第四条の二第五項及び法第四条の四第四項の規定による認可（信用協同組合連合会若しくはその子会社が合算してその基準議決権数を超えて取得し、若しくは保有することとなった業務高度化等会社の議決権について引き続きその基準議決権数を超えて保有すること又は子会社となった外国の業務高度化等会社を引き続き子会社とすることについての認可を除く。）について準用する。</Sentence>
+            <Sentence WritingMode="vertical">第一項及び第二項の規定は、法第四条の二第五項において準用する同条第三項及び法第四条の四第四項において準用する同条第三項の規定による認可（業務高度化等会社に該当する子会社としようとすることについての認可を除く。）について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="5">
@@ -1564,7 +1564,7 @@
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該申請の時において申請信用協同組合連合会及びその子会社等の収支が良好であり、かつ、申請信用協同組合連合会若しくはその子会社が合算して当該認可に係る業務高度化等会社についてその基準議決権数を超える議決権を取得若しくは保有し、又は外国の業務高度化等会社を子会社とした後も良好に推移することが見込まれること。</Sentence>
+              <Sentence WritingMode="vertical">当該申請の時において申請信用協同組合連合会及びその子会社等の収支が良好であり、かつ、申請信用協同組合連合会若しくはその子会社が合算して当該認可に係る業務高度化等会社についてその基準議決権数を超える議決権を取得し、若しくは保有し、又は外国の業務高度化等会社を子会社とした後も良好に推移することが見込まれること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
@@ -1582,7 +1582,7 @@
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">申請信用協同組合連合会の業務の状況に照らし、申請信用協同組合連合会若しくはその子会社が合算して当該認可に係る業務高度化等会社の基準議決権数を超える議決権を取得若しくは保有し、又は外国の業務高度化等会社を子会社とした後も、申請信用協同組合連合会の業務の健全かつ適切な運営に支障を来す著しいおそれがないと認められること。</Sentence>
+              <Sentence WritingMode="vertical">申請信用協同組合連合会の業務の状況に照らし、申請信用協同組合連合会若しくはその子会社が合算して当該認可に係る業務高度化等会社の基準議決権数を超える議決権を取得し、若しくは保有し、又は外国の業務高度化等会社を子会社とした後も、申請信用協同組合連合会の業務の健全かつ適切な運営に支障を来す著しいおそれがないと認められること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="8">
@@ -1607,7 +1607,7 @@
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第一項の規定は、法第四条の四第六項の規定による認可について準用する。</Sentence>
+            <Sentence WritingMode="vertical">第一項及び第二項の規定は、法第四条の四第四項において準用する同条第三項の規定による認可（業務高度化等会社に該当する子会社としようとすることについての認可に限る。）及び同条第六項の規定による認可について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="5">
@@ -1945,12 +1945,12 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四条の四第一項第二号に規定する内閣府令で定める業務は、金融商品取引法第三十五条第一項第一号から第十号まで及び第十三号に掲げる行為を行う業務並びに同条第二項第一号から第三号までに掲げる業務（同項第一号に掲げる業務にあっては、中小企業等協同組合法による信用協同組合及び信用協同組合連合会の事業に関する内閣府令（平成五年大蔵省令第九号）第一条の三第八項第一号及び第三号（同項第一号に係る部分に限る。）に掲げるもの並びに商品先物取引法（昭和二十五年法律第二百三十九号）第二条第二十一項に規定する商品市場における取引等の委託を受ける業務に限り、金融商品取引法第三十五条第二項第二号に掲げる業務にあっては、中小企業等協同組合法による信用協同組合及び信用協同組合連合会の事業に関する内閣府令第一条の三第八項第一号及び第三号（同項第一号に係る部分に限る。）に掲げるものに限る。）のほか、次に掲げるものとする。</Sentence>
+            <Sentence WritingMode="vertical">法第四条の四第一項第二号に規定する内閣府令で定める業務は、金融商品取引法第三十五条第一項第一号から第十号まで、第十三号及び第十六号に掲げる行為を行う業務並びに同条第二項第一号から第三号までに掲げる業務（同項第一号に掲げる業務にあっては、中小企業等協同組合法による信用協同組合及び信用協同組合連合会の事業に関する内閣府令（平成五年大蔵省令第九号）第一条の三第八項第一号及び第三号（同項第一号に係る部分に限る。）に掲げるもの並びに商品先物取引法（昭和二十五年法律第二百三十九号）第二条第二十一項に規定する商品市場における取引等の委託を受ける業務に限り、金融商品取引法第三十五条第二項第二号に掲げる業務にあっては、中小企業等協同組合法による信用協同組合及び信用協同組合連合会の事業に関する内閣府令第一条の三第八項第一号及び第三号（同項第一号に係る部分に限る。）に掲げるものに限る。）のほか、次に掲げるものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">金融商品取引法第二条第八項第七号及び第十一号から第十七号までに掲げる行為並びに金融商品取引法施行令（昭和四十年政令第三百二十一号）第一条の十二に規定する行為を行う業務</Sentence>
+              <Sentence WritingMode="vertical">金融商品取引法第二条第八項第七号及び第十一号から第十七号までに掲げる行為（同項第十二号、第十四号及び第十五号に掲げる行為にあっては、暗号資産の価値等の分析に基づく投資判断に基づいて財産の運用を行うものを除く。）並びに金融商品取引法施行令（昭和四十年政令第三百二十一号）第一条の十二各号に掲げる行為を行う業務</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -1975,7 +1975,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">金融商品取引法第二条第八項第十一号、第十二号及び第十四号に掲げる行為並びに金融商品取引法施行令第一条の十二に規定する行為を行う業務</Sentence>
+              <Sentence WritingMode="vertical">金融商品取引法第二条第八項第十一号、第十二号及び第十四号に掲げる行為（同項第十二号及び第十四号に掲げる行為にあっては、暗号資産の価値等の分析に基づく投資判断に基づいて財産の運用を行うものを除く。）並びに金融商品取引法施行令第一条の十二第一号に掲げる行為を行う業務</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -4254,6 +4254,26 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Delete="false" Hide="false" Num="49_2">
+        <ArticleCaption>（暗号資産の取得等に係る情報の安全管理措置）</ArticleCaption>
+        <ArticleTitle>第四十九条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">信用協同組合等は、その行う業務のうち、暗号資産を取得し、又は保有することとなる業務及び暗号資産に係る投資助言業務について、これらの業務の内容及び方法に応じ、当該業務に係る電子情報処理組織の管理を十分に行うための措置を講じなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="49_3">
+        <ArticleCaption>（暗号資産の取得等に係る健全性確保を図るための措置等）</ArticleCaption>
+        <ArticleTitle>第四十九条の三</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">信用協同組合等は、その行う業務のうち、暗号資産を取得し、又は保有することとなる業務及び暗号資産に係る投資助言業務について、暗号資産の特性、取引の内容その他の事情に応じ、信用協同組合等の経営の健全性の確保を図り、及びこれらの業務の適正かつ確実な遂行を確保するために必要な体制を整備する措置を講じなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Delete="false" Hide="false" Num="50">
         <ArticleCaption>（内部規則等）</ArticleCaption>
         <ArticleTitle>第五十条</ArticleTitle>
@@ -5511,7 +5531,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">直近の五事業年度における主要な事業の状況を示す指標として次に掲げる事項（（１３）から（１６）までに掲げる事項については、信託業務を営む場合に限る。）</Sentence>
+                <Sentence WritingMode="vertical">直近の五事業年度における主要な事業の状況を示す指標として次に掲げる事項（（１３）から（１７）までに掲げる事項については、信託業務を営む場合に限る。）</Sentence>
               </Subitem1Sentence>
               <Subitem2 Delete="false" Hide="false" Num="1">
                 <Subitem2Title>（１）</Subitem2Title>
@@ -5600,11 +5620,17 @@
               <Subitem2 Delete="false" Hide="false" Num="15">
                 <Subitem2Title>（１５）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence WritingMode="vertical">信託勘定有価証券残高</Sentence>
+                  <Sentence WritingMode="vertical">信託勘定有価証券残高（（１６）に掲げる事項を除く。）</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
               <Subitem2 Delete="false" Hide="false" Num="16">
                 <Subitem2Title>（１６）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence WritingMode="vertical">信託勘定電子記録移転有価証券表示権利等（金融商品取引業等に関する内閣府令（平成十九年内閣府令第五十二号）第一条第四項第十七号に規定する電子記録移転有価証券表示権利等をいう。）残高</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Delete="false" Hide="false" Num="17">
+                <Subitem2Title>（１７）</Subitem2Title>
                 <Subitem2Sentence>
                   <Sentence WritingMode="vertical">信託財産額</Sentence>
                 </Subitem2Sentence>
@@ -10113,7 +10139,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の規定にかかわらず、特定関係法人（金融商品取引業等に関する内閣府令（平成十九年内閣府令第五十二号）第百十六条の三第二項に規定する特定関係法人をいう。以下この項において同じ。）の付与した信用格付については、準用金融商品取引法第三十八条第三号に規定する金融商品取引法第六十六条の二十七の登録の意義その他の事項として内閣府令で定める事項は、次に掲げるものとする。</Sentence>
+            <Sentence WritingMode="vertical">前項の規定にかかわらず、特定関係法人（金融商品取引業等に関する内閣府令第百十六条の三第二項に規定する特定関係法人をいう。以下この項において同じ。）の付与した信用格付については、準用金融商品取引法第三十八条第三号に規定する金融商品取引法第六十六条の二十七の登録の意義その他の事項として内閣府令で定める事項は、次に掲げるものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -10310,13 +10336,13 @@
           <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">中小企業等協同組合法第九条の八第二項第六号から第二十三号までに規定する事業（同法第九条の九第六項の規定により行う同法第九条の八第二項第六号から第二十三号まで（第十二号の二を除く。）及び第九条の九第六項第一号の二に掲げる事業を含むものとし、金融庁長官が別に定めるものを除く。）の全部若しくは一部のみを行う施設若しくは設備の設置、位置の変更若しくは廃止又は当該施設若しくは設備において行う業務の内容の変更をした場合</Sentence>
+              <Sentence WritingMode="vertical">中小企業等協同組合法第九条の八第二項第六号から第二十四号まで（第十二号の二を除く。）に規定する事業（同法第九条の九第六項の規定により行う同法第九条の八第二項第六号から第十一号まで、第十三号から第二十二号まで及び第二十四号並びに第九条の九第六項第一号の二に及び第一号の五に掲げる事業を含むものとし、金融庁長官が別に定めるものを除く。）の全部若しくは一部のみを行う施設若しくは設備の設置、位置の変更若しくは廃止又は当該施設若しくは設備において行う業務の内容の変更をした場合</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="6_2">
             <ItemTitle>六の二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">外国において中小企業等協同組合法第九条の八第二項第六号から第二十三号までに規定する事業（同法第九条の九第六項の規定により行う同法第九条の八第二項第六号から第二十三号まで並びに第九条の九第六項第一号の二及び第一号の三に掲げる事業を含むものとし、金融庁長官が別に定めるものを除く。）の全部若しくは一部のみを行う施設若しくは設備の設置、位置の変更若しくは廃止又は当該施設若しくは設備において行う業務の内容の変更をしようとする場合</Sentence>
+              <Sentence WritingMode="vertical">外国において中小企業等協同組合法第九条の八第二項第六号から第二十四号まで（第十二号を除く。）に規定する事業（同法第九条の九第六項の規定により行う同法第九条の八第二項第六号から第十一号まで、第十三号から第二十二号まで及び第二十四号並びに第九条の九第六項第一号の三及び第一号の五に掲げる事業を含むものとし、金融庁長官が別に定めるものを除く。）の全部若しくは一部のみを行う施設若しくは設備の設置、位置の変更若しくは廃止又は当該施設若しくは設備において行う業務の内容の変更をしようとする場合</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="6_3">
@@ -10358,7 +10384,7 @@
           <Item Delete="false" Hide="false" Num="8_4">
             <ItemTitle>八の四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">信用協同組合等若しくはその子会社の担保権の実行による株式若しくは持分の取得又は第五条第一項各号に掲げる事由により他の会社（第八号の規定により子会社とすることについて同号の届出をしなければならないとされているものを除く。）を子会社とした場合</Sentence>
+              <Sentence WritingMode="vertical">信用協同組合等若しくはその子会社の担保権の実行による株式若しくは持分の取得又は第五条第一項各号に掲げる事由により他の会社を子会社（業務高度化等会社にあっては、当該信用協同組合連合会又はその子会社が合算してその基準議決権数を超える議決権を保有する会社）とした場合（第八号の規定により届出をしなければならない場合を除く。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="9">
@@ -10376,13 +10402,13 @@
           <Item Delete="false" Hide="false" Num="10_2">
             <ItemTitle>十の二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">法第四条の四第三項の認可を受けた信用協同組合連合会が当該信用協同組合連合会又はその子会社が合算してその基準議決権数を超えて保有する業務高度化等会社の議決権のうちその基準議決権数を超える部分の議決権を保有しなくなった場合</Sentence>
+              <Sentence WritingMode="vertical">信用協同組合連合会又はその子会社が合算してその基準議決権数を超えて保有する業務高度化等会社の議決権のうちその基準議決権数を超える部分の議決権を保有しなくなった場合</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="10_3">
             <ItemTitle>十の三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">法第四条の四第三項の認可を受けた信用協同組合連合会又はその子会社が合算してその基準議決権数を超えて議決権を保有する業務高度化等会社が名称、本店若しくは主たる営業所若しくは事務所の位置を変更し、合併し、又は業務の全部を廃止した場合（前二号の場合を除く。）</Sentence>
+              <Sentence WritingMode="vertical">信用協同組合連合会又はその子会社が合算してその基準議決権数を超えて議決権を保有する業務高度化等会社が名称、本店若しくは主たる営業所若しくは事務所の位置を変更し、合併し、又は業務の全部を廃止した場合（前二号の場合を除く。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="11">
@@ -10448,7 +10474,7 @@
           <Item Delete="false" Hide="false" Num="19">
             <ItemTitle>十九</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">信用協同組合等、その子会社又は業務の委託先（第六項において「子会社等」という。）において不祥事件（業務の委託先にあっては、当該信用協同組合等が委託する業務に係るものに限る。）が発生したことを知った場合</Sentence>
+              <Sentence WritingMode="vertical">信用協同組合等、その子会社又は業務の委託先（第七項において「子会社等」という。）において不祥事件（業務の委託先にあっては、当該信用協同組合等が委託する業務に係るものに限る。）が発生したことを知った場合</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="20">
@@ -13663,6 +13689,29 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日内閣府令第三五号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの府令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和二年四月三〇日内閣府令第三九号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
@@ -14312,7 +14361,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_001.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14320,7 +14369,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_002.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14328,7 +14377,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第３号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_003.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14336,7 +14385,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_004.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14344,7 +14393,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第５号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_005.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14352,7 +14401,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第６号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_006.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14360,7 +14409,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第７号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_007.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14368,7 +14417,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第８号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_008.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14376,7 +14425,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第９号（第６８条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_009.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14384,7 +14433,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第９号の２（第６８条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_010.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14392,7 +14441,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１０号（第６８条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_011.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14400,7 +14449,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１０号の２（第６８条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_012.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14408,7 +14457,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１１号（第８０条第６号及び第１０５条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_013.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14416,7 +14465,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１２号（第８６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_014.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14424,7 +14473,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１３号（第１０５条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_015.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14432,7 +14481,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１４号（第１０５条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_016.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14440,7 +14489,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１５号（第１１０条の１９第２号ニ関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_017.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14448,7 +14497,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１６号（第１１０条の３２第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_018.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14456,7 +14505,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１７号（第１１０条の３２第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_019.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14464,7 +14513,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１８号（第１１０条の３２第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006111006_020.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006181706_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

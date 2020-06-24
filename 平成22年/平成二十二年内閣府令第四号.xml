@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="4" Year="22">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="4" Year="22">
   <LawNum>平成二十二年内閣府令第四号</LawNum>
   <LawBody>
     <LawTitle>資金移動業者に関する内閣府令</LawTitle>
@@ -127,7 +127,7 @@
             <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">取締役等が法第四十条第一項第十号イ及びロに該当しない旨の官公署の証明書（当該取締役等が外国人である場合には、別紙様式第四号により作成した誓約書）又はこれに代わる書面</Sentence>
+                <Sentence WritingMode="vertical">取締役等が法第四十条第一項第十号ロに該当しない旨の官公署の証明書（当該取締役等が外国人である場合には、別紙様式第四号により作成した誓約書）又はこれに代わる書面</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="5">
@@ -253,10 +253,16 @@
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="9">
-          <ArticleCaption>（登録の拒否の通知）</ArticleCaption>
+          <ArticleCaption>（登録の拒否）</ArticleCaption>
           <ArticleTitle>第九条</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第四十条第一項第十号イに規定する内閣府令で定める者は、精神の機能の障害のため資金移動業に係る職務を適正に執行するに当たって必要な認知、判断及び意思疎通を適切に行うことができない者とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">金融庁長官は、法第四十条第二項の規定による通知をするときは、別紙様式第九号により作成した登録拒否通知書により行うものとする。</Sentence>
             </ParagraphSentence>
@@ -2590,11 +2596,20 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一一月二一日内閣府令第四一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律附則第一条第二号に掲げる規定の施行の日（令和元年十二月十四日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号（第４条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_001.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2602,7 +2617,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２号（第４条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_002.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2610,7 +2625,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第３号（第６条、第１０条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_003.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2618,7 +2633,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号（第６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_004.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2626,7 +2641,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第５号（第６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_005.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2634,7 +2649,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第６号（第６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_006.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2642,7 +2657,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第７号（第６条、第１０条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_007.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2650,15 +2665,15 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第８号（第７条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_008.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">別紙様式第９号（第９条関係）</AppdxStyleTitle>
+      <AppdxStyleTitle WritingMode="vertical">別紙様式第９号（第９条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_009.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2666,7 +2681,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１０号（第１０条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_010.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2674,7 +2689,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１１号（第１４条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_011.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2682,7 +2697,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１２号（第１７条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_012.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2690,7 +2705,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１３号（第１７条第３項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_013.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2698,7 +2713,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１４号（第１７条第４項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_014.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2706,7 +2721,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１５号（第１８条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_015.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2714,7 +2729,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１６号（第１８条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_016.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2722,7 +2737,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１７号（第１８条第３項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_017.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2730,7 +2745,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１８号（第２２条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_018.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2738,7 +2753,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１９号（第３４条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_019.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2746,7 +2761,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２０号（第３４条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_020.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2754,7 +2769,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２１号（第３５条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_021.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2762,7 +2777,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２２号（第３８条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_022.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2770,7 +2785,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２３号（第３８条第５項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_023.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2778,7 +2793,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２４号（第３９条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000004_1908071908_024.pdf"/>
+          <Fig src="./pict/H22F10001000004_1912242112_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
