@@ -78,7 +78,7 @@
           <Item Delete="false" Hide="false" Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">福島復興再生特別措置法（平成二十四年法律第二十五号）第四十八条の三第一項の規定により派遣されている職員</Sentence>
+              <Sentence WritingMode="vertical">福島復興再生特別措置法（平成二十四年法律第二十五号）第四十八条の三第一項又は第八十九条の三第一項の規定により派遣されている職員</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="9">
@@ -379,6 +379,23 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日人事院規則一―七五" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（人事院規則一―三四の一部改正に伴う経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則による改正前の規則一―三四別表の二十の表平成三十一年ラグビーワールドカップ特措法の項に掲げる人事管理文書の保存期間については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

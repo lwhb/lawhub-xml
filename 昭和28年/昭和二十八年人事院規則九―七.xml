@@ -230,7 +230,7 @@
           <Item Delete="false" Hide="false" Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">福島復興再生特別措置法（平成二十四年法律第二十五号）第四十八条の三第一項の規定により派遣され、又は当該派遣後職務に復帰した場合</Sentence>
+              <Sentence WritingMode="vertical">福島復興再生特別措置法（平成二十四年法律第二十五号）第四十八条の三第一項若しくは第八十九条の三第一項の規定により派遣され、又は当該派遣後職務に復帰した場合</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="9">
@@ -248,18 +248,12 @@
           <Item Delete="false" Hide="false" Num="11">
             <ItemTitle>十一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">平成三十一年ラグビーワールドカップ特措法第四条第一項の規定により派遣され、又は当該派遣後職務に復帰した場合</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="12">
-            <ItemTitle>十二</ItemTitle>
-            <ItemSentence>
               <Sentence WritingMode="vertical">平成三十七年国際博覧会特措法第二十五条第一項の規定により派遣され、又は当該派遣後職務に復帰した場合
 </Sentence>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="13">
-            <ItemTitle>十三</ItemTitle>
+          <Item Delete="false" Hide="false" Num="12">
+            <ItemTitle>十二</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">停職にされ、又は停職の終了により職務に復帰した場合</Sentence>
             </ItemSentence>
@@ -268,7 +262,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">給与期間の初日から引き続いて休職にされ、専従許可を受け、派遣法第二条第一項の規定により派遣され、育児休業法第三条の規定により育児休業をし、交流派遣をされ、法科大学院派遣法第十一条第一項の規定により派遣され、自己啓発等休業をし、福島復興再生特別措置法第四十八条の三第一項の規定により派遣され、配偶者同行休業をし、平成三十二年オリンピック・パラリンピック特措法第十七条第一項の規定により派遣され、平成三十一年ラグビーワールドカップ特措法第四条第一項の規定により派遣され、平成三十七年国際博覧会特措法第二十五条第一項の規定により派遣され、又は停職にされている職員が、俸給の支給定日後に復職し、又は職務に復帰した場合には、その給与期間中の俸給をその際支給する。</Sentence>
+            <Sentence WritingMode="vertical">給与期間の初日から引き続いて休職にされ、専従許可を受け、派遣法第二条第一項の規定により派遣され、育児休業法第三条の規定により育児休業をし、交流派遣をされ、法科大学院派遣法第十一条第一項の規定により派遣され、自己啓発等休業をし、福島復興再生特別措置法第四十八条の三第一項若しくは第八十九条の三第一項の規定により派遣され、配偶者同行休業をし、平成三十二年オリンピック・パラリンピック特措法第十七条第一項の規定により派遣され、平成三十七年国際博覧会特措法第二十五条第一項の規定により派遣され、又は停職にされている職員が、俸給の支給定日後に復職し、又は職務に復帰した場合には、その給与期間中の俸給をその際支給する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -287,7 +281,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">職員が、月の一日から末日までの期間の全日数にわたつて勤務しなかつた場合（給与法第二十三条第一項の場合及び公務上の負傷若しくは疾病若しくは補償法第一条の二に規定する通勤による負傷若しくは疾病（派遣法第三条に規定する派遣職員の派遣先の業務上の負傷若しくは疾病又は補償法第一条の二に規定する通勤による負傷若しくは疾病を含む。）又は官民人事交流法第十六条、法科大学院派遣法第九条（法科大学院派遣法第十八条において準用する場合を含む。）、福島復興再生特別措置法第四十八条の九、平成三十二年オリンピック・パラリンピック特措法第二十三条、平成三十一年ラグビーワールドカップ特措法第十条若しくは平成三十七年国際博覧会特措法第三十一条の規定（以下この条において「特定規定」という。）により給与法第二十三条第一項及び附則第六項の規定の適用に関し公務とみなされる業務に係る業務上の負傷若しくは疾病若しくは特定規定に規定する通勤による負傷若しくは疾病により承認を得て勤務しなかつた場合を除く。）は、俸給の特別調整額、本府省業務調整手当及び専門スタッフ職調整手当は支給することができない。</Sentence>
+            <Sentence WritingMode="vertical">職員が、月の一日から末日までの期間の全日数にわたつて勤務しなかつた場合（給与法第二十三条第一項の場合及び公務上の負傷若しくは疾病若しくは補償法第一条の二に規定する通勤による負傷若しくは疾病（派遣法第三条に規定する派遣職員の派遣先の業務上の負傷若しくは疾病又は補償法第一条の二に規定する通勤による負傷若しくは疾病を含む。）又は官民人事交流法第十六条、法科大学院派遣法第九条（法科大学院派遣法第十八条において準用する場合を含む。）、福島復興再生特別措置法第四十八条の九若しくは第八十九条の九、平成三十二年オリンピック・パラリンピック特措法第二十三条、平成三十一年ラグビーワールドカップ特措法第十条若しくは平成三十七年国際博覧会特措法第三十一条の規定（以下この条において「特定規定」という。）により給与法第二十三条第一項及び附則第六項の規定の適用に関し公務とみなされる業務に係る業務上の負傷若しくは疾病若しくは特定規定に規定する通勤による負傷若しくは疾病により承認を得て勤務しなかつた場合を除く。）は、俸給の特別調整額、本府省業務調整手当及び専門スタッフ職調整手当は支給することができない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -853,6 +847,16 @@
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日人事院規則一―七五" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
         </ParagraphSentence>

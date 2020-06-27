@@ -235,8 +235,20 @@
         <Paragraph Hide="false" Num="7">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第九条の八第二項第十五号の二及び第十六号に規定する内閣府令で定めるものは、金融商品取引法第二条第二十項に規定するデリバティブ取引（有価証券関連デリバティブ取引（同法第二十八条第八項第六号に規定する有価証券関連デリバティブ取引をいう。）に該当するものを除く。）とする。</Sentence>
+            <Sentence WritingMode="vertical">法第九条の八第二項第十五号の二及び第十六号に規定する内閣府令で定めるものは、金融商品取引法第二条第二十項に規定するデリバティブ取引のうち、次に掲げる取引以外の取引とする。</Sentence>
           </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">有価証券関連デリバティブ取引（金融商品取引法第二十八条第八項第六号に規定する有価証券関連デリバティブ取引をいう。以下同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">暗号資産（金融商品取引法第二条第二十四項第三号の二に規定する暗号資産をいう。）又は暗号資産関連金融指標（同法第百八十五条の二十二第一項第一号に規定する暗号資産関連金融指標をいう。）に係る取引</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Hide="false" Num="8">
           <ParagraphNum>８</ParagraphNum>
@@ -2054,11 +2066,34 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日内閣府令第三五号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの府令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号（第１9条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000009_2004301604_001.pdf"/>
+          <Fig src="./pict/H05F03401000009_2006181706_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

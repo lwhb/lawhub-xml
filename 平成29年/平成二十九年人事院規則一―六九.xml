@@ -31,7 +31,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">福島復興再生特別措置法第四十八条の二第一項の人事院規則で定める職員は、次に掲げる職員とする。</Sentence>
+            <Sentence WritingMode="vertical">福島復興再生特別措置法第四十八条の三第一項の規定による派遣の場合における同法第四十八条の二第一項の人事院規則で定める職員は、次に掲げる職員とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -78,23 +78,29 @@
           <Item Delete="false" Hide="false" Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">平成三十二年オリンピック・パラリンピック特措法第十七条第一項の規定により派遣されている職員</Sentence>
+              <Sentence WritingMode="vertical">福島復興再生特別措置法第八十九条の三第一項の規定により派遣されている職員</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">平成三十七年国際博覧会特措法第二十五条第一項の規定により派遣されている職員</Sentence>
+              <Sentence WritingMode="vertical">平成三十二年オリンピック・パラリンピック特措法第十七条第一項の規定により派遣されている職員</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="10">
             <ItemTitle>十</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">判事補及び検事の弁護士職務経験に関する法律（平成十六年法律第百二十一号）第二条第四項の規定により弁護士となってその職務を行う職員</Sentence>
+              <Sentence WritingMode="vertical">平成三十七年国際博覧会特措法第二十五条第一項の規定により派遣されている職員</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="11">
             <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">判事補及び検事の弁護士職務経験に関する法律（平成十六年法律第百二十一号）第二条第四項の規定により弁護士となってその職務を行う職員</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="12">
+            <ItemTitle>十二</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">規則八―一二（職員の任免）第四十二条第二項の規定により任期を定めて採用された職員その他任期を限られた職員</Sentence>
             </ItemSentence>
@@ -107,7 +113,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">福島復興再生特別措置法第四十八条の二第一項の任命権者には、併任に係る官職の任命権者は含まれないものとする。</Sentence>
+            <Sentence WritingMode="vertical">福島復興再生特別措置法第四十八条の三第一項の規定による派遣の場合における同法第四十八条の二第一項の任命権者には、併任に係る官職の任命権者は含まれないものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -397,6 +403,23 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日人事院規則一―七五" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（人事院規則一―三四の一部改正に伴う経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則による改正前の規則一―三四別表の二十の表平成三十一年ラグビーワールドカップ特措法の項に掲げる人事管理文書の保存期間については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

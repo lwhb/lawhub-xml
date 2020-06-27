@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="295" Year="51">
+<Law DataInfo="200605e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="295" Year="51">
   <LawNum>昭和五十一年政令第二百九十五号</LawNum>
   <LawBody>
     <LawTitle>特定商取引に関する法律施行令</LawTitle>
@@ -834,7 +834,7 @@
       <Paragraph Num="2">
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1">法第二十六条第一項第八号ニの政令で定める販売又は役務の提供は、第五条に規定するもののほか、保険業法等の一部を改正する法律（平成十七年法律第三十八号）附則第二条第七項第一号ホ(7)に規定する認可特定保険業者が同法附則第四条第一項及び第二項において読み替えて準用する保険業法（平成七年法律第百五号）第二百七十二条の十一第一項に規定する事業又は業務として行う商品の販売又は役務の提供とする。</Sentence>
+          <Sentence Num="1">法第二十六条第一項第八号ニの政令で定める販売又は役務の提供は、第五条に規定するもののほか、保険業法等の一部を改正する法律（平成十七年法律第三十八号）附則第二条第七項第一号ホ（７）に規定する認可特定保険業者が同法附則第四条第一項及び第二項において読み替えて準用する保険業法（平成七年法律第百五号）第二百七十二条の十一第一項に規定する事業又は業務として行う商品の販売又は役務の提供とする。</Sentence>
           <Sentence Num="2">この場合においては、第五条の二の規定を準用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
@@ -852,7 +852,7 @@
         <Item Num="2">
           <ItemTitle>二</ItemTitle>
           <ItemSentence>
-            <Sentence>電気事業法等の一部を改正する法律附則第二十三条第一項に規定する役務の提供（平成三十三年三月三十一日までの間に限る。）</Sentence>
+            <Sentence>電気事業法等の一部を改正する法律附則第二十三条第一項に規定する役務の提供（令和三年三月三十一日までの間に限る。）</Sentence>
           </ItemSentence>
         </Item>
         <Item Num="3">
@@ -1742,6 +1742,20 @@
           <Sentence>この政令は、道路運送車両法の一部を改正する法律の施行の日（令和二年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日政令第一四二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この政令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第七条中特定商取引に関する法律施行令附則第三項第二号の改正規定並びに次条並びに附則第四条及び第八条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一（第三条関係）</AppdxTableTitle>

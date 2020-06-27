@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="24" Year="44">
+<Law DataInfo="200623e03k08m03" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="24" Year="44">
   <LawNum>昭和四十四年労働省令第二十四号</LawNum>
   <LawBody>
     <LawTitle>職業能力開発促進法施行規則</LawTitle>
@@ -3058,6 +3058,27 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="42_2">
+            <ArticleCaption>（法第二十八条第五項第一号の厚生労働省令で定める者）</ArticleCaption>
+            <ArticleTitle>第四十二条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>法第二十八条第五項第一号の厚生労働省令で定める者は、精神の機能の障害により職業訓練指導員の業務を適正に行うに当たつて必要な認知、判断及び意思疎通を適切に行うことができない者とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="42_3">
+            <ArticleCaption>（都道府県知事への届出）</ArticleCaption>
+            <ArticleTitle>第四十二条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1">職業訓練指導員免許を受けた者又はその法定代理人若しくは同居の親族は、当該職業訓練指導員免許を受けた者が精神の機能の障害を有する状態となり職業訓練指導員の業務の継続が著しく困難となつたときは、都道府県知事にその旨を届け出るものとする。</Sentence>
+                <Sentence Num="2">この場合においては、その病名、障害の程度、病因、病後の経過、治癒の見込みその他参考となる所見を記載した医師の診断書を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="43">
             <ArticleCaption>（免許の取消し）</ArticleCaption>
             <ArticleTitle>第四十三条</ArticleTitle>
@@ -3295,7 +3316,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn>
-                      <Sentence>免許職種に関し、短期養成課程 （実務経験者訓練技法習得コースに係るものに限る。）の指導員養成訓練を修了し、職業訓練指導員試験において学科試験のうち関連学科に合格した者と同等以上の能力を有すると職業能力開発総合大学校の長が認める者（法第三十条第三項に定める職業訓練指導員試験を受けることができる者に限る。）</Sentence>
+                      <Sentence>免許職種に関し、短期養成課程（実務経験者訓練技法習得コースに係るものに限る。）の指導員養成訓練を修了し、職業訓練指導員試験において学科試験のうち関連学科に合格した者と同等以上の能力を有すると職業能力開発総合大学校の長が認める者（法第三十条第三項に定める職業訓練指導員試験を受けることができる者に限る。）</Sentence>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>学科試験のうち関連学科</Sentence>
@@ -3303,7 +3324,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn>
-                      <Sentence>免許職種に関し、短期養成課程 （実務経験者訓練技法習得コースに係るものに限る。）の指導員養成訓練を修了し、職業訓練指導員試験において実技試験に合格した者と同等以上の能力を有すると職業能力開発総合大学校の長が認める者（法第三十条第三項に定める職業訓練指導員試験を受けることができる者に限る。）</Sentence>
+                      <Sentence>免許職種に関し、短期養成課程（実務経験者訓練技法習得コースに係るものに限る。）の指導員養成訓練を修了し、職業訓練指導員試験において実技試験に合格した者と同等以上の能力を有すると職業能力開発総合大学校の長が認める者（法第三十条第三項に定める職業訓練指導員試験を受けることができる者に限る。）</Sentence>
                     </TableColumn>
                     <TableColumn>
                       <Sentence>実技試験の全部</Sentence>
@@ -20789,7 +20810,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1">この省令は、成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律（令和元年法律第三十七号）の施行の日（令和元年九月十四日）から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、第十一条（職業能力開発促進法施行規則様式第十一号の改正規定に限る。）の規定及び次条第三項の規定は公布の日から、第三条、第四条、第六条から第八条まで、第十一条（同令第四十二条の次に次の二条を加える改正規定及び同令様式第八号の改正規定に限る。）、第十六条、第十八条、第十九条、第二十一条及び第二十四条並びに附則第四条及び第六条の規定は同法附則第一条第二号に掲げる規定の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第十一条（職業能力開発促進法施行規則様式第十一号の改正規定に限る。）の規定及び次条第三項の規定は公布の日から、第三条、第四条、第六条、第七条、第十一条（同令第四十二条の次に次の二条を加える改正規定及び同令様式第八号の改正規定に限る。）、第十六条、第十八条、第十九条、第二十一条及び第二十四条並びに附則第四条及び第六条の規定は同法附則第一条第二号に掲げる規定の施行の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -20815,6 +20836,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一八日厚生労働省令第八二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一</AppdxTableTitle>
@@ -23048,7 +23078,7 @@
           <TableRow>
             <TableColumn>
               <Sentence>２　実技</Sentence>
-              <Sentence>電気・電子系製造設備科の系基礎実技の①から⑥までに掲げる科目</Sentence>
+              <Sentence>電気・電子系製造設備科の系基礎実技の○１から○６までに掲げる科目</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>二四〇</Sentence>
@@ -23165,7 +23195,7 @@
           <TableRow>
             <TableColumn>
               <Sentence>２　実技</Sentence>
-              <Sentence>電気・電子系製造設備科の系基礎実技の①から⑥までに掲げる科目</Sentence>
+              <Sentence>電気・電子系製造設備科の系基礎実技の○１から○６までに掲げる科目</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>二四〇</Sentence>
@@ -23392,7 +23422,7 @@
           <TableRow>
             <TableColumn>
               <Sentence>２　実技</Sentence>
-              <Sentence>電気・電子系製造設備科の系基礎実技の①から⑥までに掲げる科目</Sentence>
+              <Sentence>電気・電子系製造設備科の系基礎実技の○１から○６までに掲げる科目</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>二四〇</Sentence>
@@ -23629,7 +23659,7 @@
           <TableRow>
             <TableColumn>
               <Sentence>２　実技</Sentence>
-              <Sentence>電力系発変電科の系基礎実技の①から③までに掲げる科目</Sentence>
+              <Sentence>電力系発変電科の系基礎実技の○１から○３までに掲げる科目</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>一一〇</Sentence>
@@ -23738,7 +23768,7 @@
           <TableRow>
             <TableColumn>
               <Sentence>２　実技</Sentence>
-              <Sentence>電力系発変電科の系基礎実技の①から③までに掲げる科目</Sentence>
+              <Sentence>電力系発変電科の系基礎実技の○１から○３までに掲げる科目</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>一一〇</Sentence>
@@ -23845,7 +23875,7 @@
           <TableRow>
             <TableColumn>
               <Sentence>２　実技</Sentence>
-              <Sentence>電力系発変電科の系基礎実技の①から③までに掲げる科目</Sentence>
+              <Sentence>電力系発変電科の系基礎実技の○１から○３までに掲げる科目</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>一一〇</Sentence>
@@ -23952,7 +23982,7 @@
           <TableRow>
             <TableColumn>
               <Sentence>２　実技</Sentence>
-              <Sentence>電力系発変電科の系基礎実技の①から③までに掲げる科目</Sentence>
+              <Sentence>電力系発変電科の系基礎実技の○１から○３までに掲げる科目</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>一一〇</Sentence>
@@ -40920,7 +40950,7 @@
                 <Sentence>次の科目のうち必要とするもの</Sentence>
                 <Sentence>印刷箱製造法</Sentence>
                 <Sentence>
-                  <Ruby>貼<Rt>はり</Rt>
+<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱製造法</Sentence>
                 <Sentence>段ボール箱製造法</Sentence>
               </TableColumn>
@@ -41003,6 +41033,7 @@
                 <Sentence>射出成形法</Sentence>
                 <Sentence>インフレーション成形法</Sentence>
                 <Sentence>ブロー成形法</Sentence>
+                <Sentence>真空成形法</Sentence>
               </TableColumn>
               <TableColumn>
                 <Sentence>一五〇</Sentence>
@@ -41367,19 +41398,19 @@
             <TableRow>
               <TableColumn>
                 <Sentence>
-                  <Ruby>厨<Rt>ちゅう</Rt>
+<Ruby>厨<Rt>ちゅう</Rt>
 </Ruby>房設備施工科</Sentence>
               </TableColumn>
               <TableColumn>
                 <Sentence>施工法</Sentence>
                 <Sentence>
-                  <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房機器</Sentence>
                 <Sentence>
-                  <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房関連設備</Sentence>
                 <Sentence>
-                  <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房</Sentence>
                 <Sentence>関連基礎知識</Sentence>
                 <Sentence>製図</Sentence>
@@ -43263,7 +43294,7 @@
                 <Sentence>次の科目のうち必要とするもの</Sentence>
                 <Sentence>印刷箱製造法</Sentence>
                 <Sentence>
-                  <Ruby>貼<Rt>はり</Rt>
+<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱製造法</Sentence>
                 <Sentence>段ボール箱製造法</Sentence>
               </TableColumn>
@@ -43342,6 +43373,7 @@
                 <Sentence>射出成形法</Sentence>
                 <Sentence>インフレーション成形法</Sentence>
                 <Sentence>ブロー成形法</Sentence>
+                <Sentence>真空成形法</Sentence>
               </TableColumn>
               <TableColumn>
                 <Sentence>一五〇</Sentence>
@@ -43706,19 +43738,19 @@
             <TableRow>
               <TableColumn>
                 <Sentence>
-                  <Ruby>厨<Rt>ちゅう</Rt>
+<Ruby>厨<Rt>ちゅう</Rt>
 </Ruby>房設備施工科</Sentence>
               </TableColumn>
               <TableColumn>
                 <Sentence>施工法</Sentence>
                 <Sentence>
-                  <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房機器</Sentence>
                 <Sentence>
-                  <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房関連設備</Sentence>
                 <Sentence>
-                  <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房</Sentence>
                 <Sentence>関連基礎知識</Sentence>
                 <Sentence>製図</Sentence>
@@ -55419,10 +55451,10 @@
               <Sentence>介護サービス科</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>児童福祉法（昭和二十二年法律第百六十四号）による保育士登録証を有する者、保健師助産師看護師法（昭和二十三年法律第二百三号）による保健師、助産師、看護師若しくは准看護師の免許を有する者、教育職員免許法による養護教諭の免許状を有する者、理学療法士及び作業療法士法（昭和四十年法律第百三十七号）による理学療法士若しくは作業療法士の免許を有する者、社会福祉士及び介護福祉士法（昭和六十二年法律第三十号）による社会福祉士登録証若しくは介護福祉士登録証を有する者、精神保健福祉士法（平成九年法律第百三十一号）による精神保健福祉士登録証を有する者又は就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律（平成十八年法律第七十七号）による保育教諭の資格を有する者 </Sentence>
+              <Sentence>児童福祉法（昭和二十二年法律第百六十四号）による保育士登録証を有する者、保健師助産師看護師法（昭和二十三年法律第二百三号）による保健師、助産師、看護師若しくは准看護師の免許を有する者、教育職員免許法による養護教諭の免許状を有する者、理学療法士及び作業療法士法（昭和四十年法律第百三十七号）による理学療法士若しくは作業療法士の免許を有する者、社会福祉士及び介護福祉士法（昭和六十二年法律第三十号）による社会福祉士登録証若しくは介護福祉士登録証を有する者、精神保健福祉士法（平成九年法律第百三十一号）による精神保健福祉士登録証を有する者又は就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律（平成十八年法律第七十七号）による保育教諭の資格を有する者</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>児童福祉法による保育士登録証を有する者であつて、介護サービス科に関し七年以上の実務の経験を有し、かつ、社会福祉士及び介護福祉士法第四十条第二項第五号の規定に該当するもの、保健師助産師看護師法による保健師、助産師若しくは看護師の免許を有する者、同法による准看護師の免許を有する者であつて、介護サービス科に関し七年以上の実務の経験を有するもの、教育職員免許法による養護教諭の免許状を有する者であつて、介護サービス科に関し七年以上の実務の経験を有するもの若しくは同号の規定に該当するもの、理学療法士及び作業療法士法による理学療法士若しくは作業療法士の免許を有する者であつて、同号の規定に該当するもの、社会福祉士及び介護福祉士法による社会福祉士登録証を有する者であつて、同号の規定に該当するもの、同法による介護福祉士登録証を有する者、精神保健福祉士法による精神保健福祉士登録証を有する者であつて、同号の規定に該当するもの又は就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律による保育教諭の資格を有する者であつて、介護サービス科に関し七年以上の実務の経験を有し、かつ、同号の規定に該当するもの </Sentence>
+              <Sentence>児童福祉法による保育士登録証を有する者であつて、介護サービス科に関し七年以上の実務の経験を有し、かつ、社会福祉士及び介護福祉士法第四十条第二項第五号の規定に該当するもの、保健師助産師看護師法による保健師、助産師若しくは看護師の免許を有する者、同法による准看護師の免許を有する者であつて、介護サービス科に関し七年以上の実務の経験を有するもの、教育職員免許法による養護教諭の免許状を有する者であつて、介護サービス科に関し七年以上の実務の経験を有するもの若しくは同号の規定に該当するもの、理学療法士及び作業療法士法による理学療法士若しくは作業療法士の免許を有する者であつて、同号の規定に該当するもの、社会福祉士及び介護福祉士法による社会福祉士登録証を有する者であつて、同号の規定に該当するもの、同法による介護福祉士登録証を有する者、精神保健福祉士法による精神保健福祉士登録証を有する者であつて、同号の規定に該当するもの又は就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律による保育教諭の資格を有する者であつて、介護サービス科に関し七年以上の実務の経験を有し、かつ、同号の規定に該当するもの</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>実技試験の全部及び学科試験のうち関連学科</Sentence>
@@ -56026,7 +56058,7 @@
               <Sentence>家具製作</Sentence>
               <Sentence>建具製作</Sentence>
               <Sentence>紙器・段ボール箱製造</Sentence>
-              <Sentence>製版</Sentence>
+              <Sentence>プリプレス</Sentence>
               <Sentence>印刷</Sentence>
               <Sentence>製本</Sentence>
               <Sentence>プラスチック成形</Sentence>
@@ -56847,7 +56879,7 @@
           <TableRow>
             <TableColumn>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備施工</Sentence>
             </TableColumn>
             <TableColumn>
@@ -57730,7 +57762,8 @@
             </TableColumn>
             <TableColumn>
               <Sentence>一　製作等作業試験</Sentence>
-              <Sentence>二　計画立案等作業試験</Sentence>
+              <Sentence>二　判断等試験</Sentence>
+              <Sentence>三　計画立案等作業試験</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -57921,7 +57954,7 @@
           <TableRow>
             <TableColumn>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備施工</Sentence>
             </TableColumn>
             <TableColumn>
@@ -59331,7 +59364,7 @@
               <Sentence>イ　一般熱処理作業法</Sentence>
               <Sentence>一般熱処理作業の方法</Sentence>
               <Sentence>
-                <Ruby>雰<Rt>ふん</Rt>
+<Ruby>雰<Rt>ふん</Rt>
 </Ruby>囲気熱処理作業の方法</Sentence>
               <Sentence>一般熱処理作業に使用する加熱装置及び冷却装置の種類、構造、機能及び操作方法</Sentence>
               <Sentence>一般熱処理により製品に生ずる欠陥の原因及び防止方法</Sentence>
@@ -61961,10 +61994,10 @@
               <Sentence>三　<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱製造作業</Sentence>
               <Sentence>
-                <Ruby>貼<Rt>はり</Rt>
+<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱加工</Sentence>
               <Sentence>
-                <Ruby>貼<Rt>はり</Rt>
+<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱加工時間の見積り</Sentence>
               <Sentence>四　段ボール箱製造作業</Sentence>
               <Sentence>段ボール箱加工</Sentence>
@@ -62165,6 +62198,23 @@
               <Sentence>成形材料、成形品、試験方法、プラスチック用語及び略語に関する日本産業規格</Sentence>
               <Sentence>日本産業規格に定める図示法及び材料記号</Sentence>
               <Sentence>食品衛生法関係法令、家庭用品品質表示法関係法令、騒音規制法関係法令、振動規制法関係法令及び容器包装に係る分別収集及び再商品化の促進等に関する法律関係法令のうち、ブロー成形に関する部分</Sentence>
+              <Sentence>ホ　真空成形法</Sentence>
+              <Sentence>真空成形法の種類、特徴及び用途</Sentence>
+              <Sentence>真空成形条件の設定及び成形品の品質</Sentence>
+              <Sentence>成形不良の原因及び防止対策成形品の仕上げ及び二次加工の方法</Sentence>
+              <Sentence>成形品の測定</Sentence>
+              <Sentence>歩留り及び成形不良率の計算方法</Sentence>
+              <Sentence>真空成形機の種類及び構造</Sentence>
+              <Sentence>真空成形機の空圧系統の要素及び機能</Sentence>
+              <Sentence>真空成形機の油圧系統の要素及び機能</Sentence>
+              <Sentence>真空成形機の電気系統及び制御系統の要素及び機能</Sentence>
+              <Sentence>真空成形機の附属機器及び装置の種類及び機能</Sentence>
+              <Sentence>真空成形用金型及び抜型の種類、構造及び機能</Sentence>
+              <Sentence>真空成形用金型及び抜型の検査及び取扱い</Sentence>
+              <Sentence>成形材料の種類、性質及び用途</Sentence>
+              <Sentence>成形材料、成形品、試験方法、プラスチック用語及び略語に関する日本産業規格</Sentence>
+              <Sentence>日本産業規格に定める図示法及び材料記号</Sentence>
+              <Sentence>食品衛生法関係法令、家庭用品品質表示法関係法令、騒音規制法関係法令、振動規制法関係法令及び容器包装に係る分別収集及び再商品化の促進等に関する法律関係法令のうち、真空成形に関する部分</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>次の各号に掲げる科目のうち、受検者が選択するいずれか一の科目</Sentence>
@@ -62184,6 +62234,9 @@
               <Sentence>成形条件の設定</Sentence>
               <Sentence>ブロー成形機による成形加工</Sentence>
               <Sentence>成形材料の成形収縮率及び歩留りの計算</Sentence>
+              <Sentence>五　真空成形作業</Sentence>
+              <Sentence>真空成形機による成形加工</Sentence>
+              <Sentence>生産管理</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -62221,7 +62274,7 @@
               <Sentence>積層防食の特性及び用途</Sentence>
               <Sentence>積層防食層の設計</Sentence>
               <Sentence>
-                <Ruby>躯<Rt>く</Rt>
+<Ruby>躯<Rt>く</Rt>
 </Ruby>体構造の種類及び特徴</Sentence>
               <Sentence>積層防食における施工環境の管理</Sentence>
               <Sentence>積層防食の工程</Sentence>
@@ -62230,7 +62283,7 @@
               <Sentence>積層防食に使用する機械及び工具の種類及び使用方法</Sentence>
               <Sentence>積層防食層の検査方法</Sentence>
               <Sentence>
-                <Ruby>躯<Rt>く</Rt>
+<Ruby>躯<Rt>く</Rt>
 </Ruby>体に生ずる劣化及び腐食</Sentence>
               <Sentence>積層防食材料の種類、性質及び用途</Sentence>
             </TableColumn>
@@ -62256,7 +62309,7 @@
               <Sentence>製造工程</Sentence>
               <Sentence>乾燥方法の種類</Sentence>
               <Sentence>
-                <Ruby>釉<Rt>ゆう</Rt>
+<Ruby>釉<Rt>ゆう</Rt>
 </Ruby>薬の種類及び使用方法並びに施<Ruby>釉<Rt>ゆう</Rt>
 </Ruby>
 </Sentence>
@@ -62675,7 +62728,7 @@
               <Sentence>水盛り、やりかた及び墨出し</Sentence>
               <Sentence>木工事の施工</Sentence>
               <Sentence>
-                <Ruby>矩<Rt>かな</Rt>
+<Ruby>矩<Rt>かな</Rt>
 </Ruby>
 <Ruby>計<Rt>ばかり</Rt>
 </Ruby>の製作</Sentence>
@@ -62726,7 +62779,7 @@
               <Sentence>仮設の建設物の組立て及び解体の方法</Sentence>
               <Sentence>掘削、土止め及び地業の方法</Sentence>
               <Sentence>
-                <Ruby>躯<Rt>く</Rt>
+<Ruby>躯<Rt>く</Rt>
 </Ruby>体工事の方法</Sentence>
               <Sentence>重量物の運搬方法</Sentence>
               <Sentence>建設物の解体の方法</Sentence>
@@ -62990,30 +63043,30 @@
           <TableRow>
             <TableColumn>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備施工</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>一　施工法</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備工事の施工計画及び施工管理</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備工事の施工方法</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備工事に使用する材料及びその工作法</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備関連工事の施工方法</Sentence>
               <Sentence>二　<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房機器</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房機器の種類、構造、機能及び用途</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房機器の保守管理</Sentence>
               <Sentence>三　<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房関連設備</Sentence>
@@ -63025,11 +63078,11 @@
               <Sentence>四　<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房の規模及び<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房機器のレイアウト</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房の構造</Sentence>
               <Sentence>五　関連基礎知識</Sentence>
               <Sentence>気体及び液体の性質</Sentence>
@@ -63046,19 +63099,19 @@
             </TableColumn>
             <TableColumn>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備施工作業</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備施工図の作成</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備の据付け</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備の分解、組立て及び調整</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備の気密試験、導通試験及び機能試験</Sentence>
             </TableColumn>
           </TableRow>
@@ -63120,7 +63173,7 @@
               <Sentence>鉄筋工事用材料の種類、規格、性質及び用途</Sentence>
               <Sentence>鉄筋工事の関連工事に使用する材料の種類及び用途</Sentence>
               <Sentence>四　建築設計図</Sentence>
-              <Sentence>日本産業規格の建築製図通則及び土木製図通則に定める表示記号</Sentence>
+              <Sentence>日本産業規格の建築製図通則及び土木製図通則等に定める表示記号</Sentence>
               <Sentence>コンクリート施工図の読図の方法</Sentence>
               <Sentence>五　関係法規</Sentence>
               <Sentence>建築基準法関係法令のうち、鉄筋工事に関する部分</Sentence>
@@ -63131,7 +63184,7 @@
               <Sentence>次の各号に掲げる科目のうち、受検者が選択するいずれか一の科目</Sentence>
               <Sentence>一　鉄筋施工図作成作業</Sentence>
               <Sentence>
-                <Ruby>躯<Rt>く</Rt>
+<Ruby>躯<Rt>く</Rt>
 </Ruby>体施工図及び構造詳細図の読図</Sentence>
               <Sentence>鉄筋折り曲げ加工図の作成</Sentence>
               <Sentence>鉄筋施工図の作成</Sentence>
@@ -63567,7 +63620,7 @@
               <Sentence>一　熱絶縁</Sentence>
               <Sentence>熱絶縁の基礎知識</Sentence>
               <Sentence>二　関係法規</Sentence>
-              <Sentence>建築基準法関係法令、消防法関係法令、廃棄物の処理及び清掃に関する法律関係法令、特定物質の規制等によるオゾン層の保護に関する法律（昭和六十三年法律第五十三号）関係法令、地球温暖化対策の推進に関する法律（平成十年法律第百十七号）関係法令及び建設工事に係る資材の再資源化等に関する法律関係法令のうち、熱絶縁工事に関する部分</Sentence>
+              <Sentence>建築基準法関係法令、消防法関係法令、廃棄物の処理及び清掃に関する法律関係法令、特定物質等の規制等によるオゾン層の保護に関する法律（昭和六十三年法律第五十三号）関係法令、地球温暖化対策の推進に関する法律（平成十年法律第百十七号）関係法令及び建設工事に係る資材の再資源化等に関する法律関係法令のうち、熱絶縁工事に関する部分</Sentence>
               <Sentence>三　安全衛生</Sentence>
               <Sentence>安全衛生に関する詳細な知識</Sentence>
               <Sentence>四　前各号に掲げる科目のほか、次に掲げる科目のうち、受検者が選択するいずれか一の科目</Sentence>
@@ -64432,7 +64485,7 @@
 </Ruby>
 </Sentence>
               <Sentence>
-                <Ruby>梱<Rt>こん</Rt>
+<Ruby>梱<Rt>こん</Rt>
 </Ruby>包</Sentence>
             </TableColumn>
           </TableRow>
@@ -64991,7 +65044,7 @@
               <Sentence>イ　一般熱処理作業法</Sentence>
               <Sentence>一般熱処理作業の方法</Sentence>
               <Sentence>
-                <Ruby>雰<Rt>ふん</Rt>
+<Ruby>雰<Rt>ふん</Rt>
 </Ruby>囲気熱処理作業の方法</Sentence>
               <Sentence>一般熱処理作業に使用する加熱装置及び冷却装置の種類、構造、機能及び操作方法</Sentence>
               <Sentence>一般熱処理により製品に生ずる欠陥の原因及び防止方法</Sentence>
@@ -67500,7 +67553,7 @@
               <Sentence>三　<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱製造作業</Sentence>
               <Sentence>
-                <Ruby>貼<Rt>はり</Rt>
+<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱加工</Sentence>
               <Sentence>四　段ボール箱製造作業</Sentence>
               <Sentence>段ボール箱加工</Sentence>
@@ -67698,6 +67751,23 @@
               <Sentence>成形材料、成形品、試験方法、プラスチック用語及び略語に関する日本産業規格</Sentence>
               <Sentence>日本産業規格に定める図示法及び材料記号</Sentence>
               <Sentence>食品衛生法関係法令、家庭用品品質表示法関係法令、騒音規制法関係法令、振動規制法関係法令及び容器包装に係る分別収集及び再商品化の促進等に関する法律関係法令のうち、ブロー成形に関する部分</Sentence>
+              <Sentence>ホ　真空成形法</Sentence>
+              <Sentence>真空成形法の種類、特徴及び用途</Sentence>
+              <Sentence>真空成形条件の設定及び成形品の品質</Sentence>
+              <Sentence>成形不良の原因及び防止対策成形品の仕上げ及び二次加工の方法</Sentence>
+              <Sentence>成形品の測定</Sentence>
+              <Sentence>歩留り及び成形不良率の計算方法</Sentence>
+              <Sentence>真空成形機の種類及び構造</Sentence>
+              <Sentence>真空成形機の空圧系統の要素及び機能</Sentence>
+              <Sentence>真空成形機の油圧系統の要素及び機能</Sentence>
+              <Sentence>真空成形機の電気系統及び制御系統の要素及び機能</Sentence>
+              <Sentence>真空成形機の附属機器及び装置の種類及び機能</Sentence>
+              <Sentence>真空成形用金型及び抜型の種類、構造及び機能</Sentence>
+              <Sentence>真空成形用金型及び抜型の検査及び取扱い</Sentence>
+              <Sentence>成形材料の種類、性質及び用途</Sentence>
+              <Sentence>成形材料、成形品、試験方法、プラスチック用語及び略語に関する日本産業規格</Sentence>
+              <Sentence>日本産業規格に定める図示法及び材料記号</Sentence>
+              <Sentence>食品衛生法関係法令、家庭用品品質表示法関係法令、騒音規制法関係法令、振動規制法関係法令及び容器包装に係る分別収集及び再商品化の促進等に関する法律関係法令のうち、真空成形に関する部分</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>次の各号に掲げる科目のうち、受検者が選択するいずれか一の科目</Sentence>
@@ -67713,6 +67783,9 @@
               <Sentence>四　ブロー成形作業</Sentence>
               <Sentence>成形条件の設定</Sentence>
               <Sentence>ブロー成形機による成形加工</Sentence>
+              <Sentence>五　真空成形作業</Sentence>
+              <Sentence>真空成形機による成形加工</Sentence>
+              <Sentence>生産管理</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -67750,7 +67823,7 @@
               <Sentence>積層防食の特性及び用途</Sentence>
               <Sentence>積層防食層の設計</Sentence>
               <Sentence>
-                <Ruby>躯<Rt>く</Rt>
+<Ruby>躯<Rt>く</Rt>
 </Ruby>体構造の種類及び特徴</Sentence>
               <Sentence>積層防食における施工環境の管理</Sentence>
               <Sentence>積層防食の工程</Sentence>
@@ -67759,7 +67832,7 @@
               <Sentence>積層防食に使用する機械及び工具の種類及び使用方法</Sentence>
               <Sentence>積層防食層の検査方法</Sentence>
               <Sentence>
-                <Ruby>躯<Rt>く</Rt>
+<Ruby>躯<Rt>く</Rt>
 </Ruby>体に生ずる劣化及び腐食</Sentence>
               <Sentence>積層防食材料の種類、性質及び用途</Sentence>
             </TableColumn>
@@ -67785,7 +67858,7 @@
               <Sentence>製造工程</Sentence>
               <Sentence>乾燥方法の種類</Sentence>
               <Sentence>
-                <Ruby>釉<Rt>ゆう</Rt>
+<Ruby>釉<Rt>ゆう</Rt>
 </Ruby>薬の種類及び使用方法並びに施<Ruby>釉<Rt>ゆう</Rt>
 </Ruby>
 </Sentence>
@@ -68174,7 +68247,7 @@
               <Sentence>水盛り、やりかた及び墨出し</Sentence>
               <Sentence>木工事の施工</Sentence>
               <Sentence>
-                <Ruby>矩<Rt>かな</Rt>
+<Ruby>矩<Rt>かな</Rt>
 </Ruby>
 <Ruby>計<Rt>ばかり</Rt>
 </Ruby>の製作</Sentence>
@@ -68222,7 +68295,7 @@
               <Sentence>仮設の建設物の組立て及び解体の方法</Sentence>
               <Sentence>掘削、土止め及び地業の方法</Sentence>
               <Sentence>
-                <Ruby>躯<Rt>く</Rt>
+<Ruby>躯<Rt>く</Rt>
 </Ruby>体工事の方法</Sentence>
               <Sentence>重量物の運搬方法</Sentence>
               <Sentence>建設物の解体の方法</Sentence>
@@ -68472,30 +68545,30 @@
           <TableRow>
             <TableColumn>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備施工</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>一　施工法</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備工事の施工計画</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備工事の施工方法</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備工事に使用する材料及びその工作法</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備関連工事の施工方法</Sentence>
               <Sentence>二　<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房機器</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房機器の種類、構造、機能及び用途</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房機器の保守管理</Sentence>
               <Sentence>三　<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房関連設備</Sentence>
@@ -68507,11 +68580,11 @@
               <Sentence>四　<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房の規模及び<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房機器のレイアウト</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房の構造</Sentence>
               <Sentence>五　関連基礎知識</Sentence>
               <Sentence>気体及び液体の性質</Sentence>
@@ -68528,16 +68601,16 @@
             </TableColumn>
             <TableColumn>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備施工作業</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備の据付け</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備の分解、組立て及び調整</Sentence>
               <Sentence>
-                <Ruby>厨<Rt>ちゆう</Rt>
+<Ruby>厨<Rt>ちゆう</Rt>
 </Ruby>房設備の気密試験、導通試験及び機能試験</Sentence>
             </TableColumn>
           </TableRow>
@@ -68597,7 +68670,7 @@
               <Sentence>鉄筋工事用材料の種類、規格、性質及び用途</Sentence>
               <Sentence>鉄筋工事の関連工事に使用する材料の種類及び用途</Sentence>
               <Sentence>四　建築設計図</Sentence>
-              <Sentence>日本産業規格の建築製図通則及び土木製図通則に定める表示記号</Sentence>
+              <Sentence>日本産業規格の建築製図通則及び土木製図通則等に定める表示記号</Sentence>
               <Sentence>コンクリート施工図の読図の方法</Sentence>
               <Sentence>五　関係法規</Sentence>
               <Sentence>建築基準法関係法令のうち、鉄筋工事に関する部分</Sentence>
@@ -68608,7 +68681,7 @@
               <Sentence>次の各号に掲げる科目のうち、受検者が選択するいずれか一の科目</Sentence>
               <Sentence>一　鉄筋施工図作成作業</Sentence>
               <Sentence>
-                <Ruby>躯<Rt>く</Rt>
+<Ruby>躯<Rt>く</Rt>
 </Ruby>体施工図及び構造詳細図の読図</Sentence>
               <Sentence>鉄筋折り曲げ加工図の作成</Sentence>
               <Sentence>鉄筋施工図の作成</Sentence>
@@ -69015,7 +69088,7 @@
               <Sentence>一　熱絶縁</Sentence>
               <Sentence>熱絶縁の基礎知識</Sentence>
               <Sentence>二　関係法規</Sentence>
-              <Sentence>建築基準法関係法令、消防法関係法令、廃棄物の処理及び清掃に関する法律関係法令、特定物質の規制等によるオゾン層の保護に関する法律関係法令、地球温暖化対策の推進に関する法律関係法令及び建設工事に係る資材の再資源化等に関する法律関係法令のうち、熱絶縁工事に関する部分</Sentence>
+              <Sentence>建築基準法関係法令、消防法関係法令、廃棄物の処理及び清掃に関する法律関係法令、特定物質等の規制等によるオゾン層の保護に関する法律関係法令、地球温暖化対策の推進に関する法律関係法令及び建設工事に係る資材の再資源化等に関する法律関係法令のうち、熱絶縁工事に関する部分</Sentence>
               <Sentence>三　安全衛生</Sentence>
               <Sentence>安全衛生に関する詳細な知識</Sentence>
               <Sentence>四　前各号に掲げる科目のほか、次に掲げる科目のうち、受検者が選択するいずれか一の科目</Sentence>
@@ -69842,7 +69915,7 @@
 </Ruby>
 </Sentence>
               <Sentence>
-                <Ruby>梱<Rt>こん</Rt>
+<Ruby>梱<Rt>こん</Rt>
 </Ruby>包</Sentence>
             </TableColumn>
           </TableRow>
@@ -70216,12 +70289,12 @@
               <Sentence>一般熱処理作業の方法</Sentence>
               <Sentence>一般熱処理により製品に生ずる欠陥</Sentence>
               <Sentence>一般熱処理における材料の試験及び検査</Sentence>
-              <Sentence>ロ　浸炭・浸炭窒化・窒化処理作業</Sentence>
+              <Sentence>ロ　浸炭・浸炭窒化・窒化処理作業法</Sentence>
               <Sentence>雰囲気熱処理作業の方法</Sentence>
               <Sentence>浸炭処理作業、浸炭窒化処理作業及び窒化処理作業の方法</Sentence>
               <Sentence>浸炭処理、浸炭窒化処理及び窒化処理により製品に生ずる欠陥</Sentence>
               <Sentence>浸炭処理、浸炭窒化処理及び窒化処理における材料の試験</Sentence>
-              <Sentence>ハ　高周波・炎熱処理作業</Sentence>
+              <Sentence>ハ　高周波・炎熱処理作業法</Sentence>
               <Sentence>高周波熱処理作業及び炎熱処理作業の方法</Sentence>
               <Sentence>高周波熱処理及び炎熱処理により製品に生ずる欠陥</Sentence>
               <Sentence>高周波熱処理及び炎熱処理における材料の試験</Sentence>
@@ -71316,7 +71389,7 @@
               <Sentence>三　<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱製造作業</Sentence>
               <Sentence>
-                <Ruby>貼<Rt>はり</Rt>
+<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱加工</Sentence>
               <Sentence>四　段ボール箱製造作業</Sentence>
               <Sentence>段ボール箱加工</Sentence>
@@ -71675,7 +71748,7 @@
               <Sentence>仮設の建設物の組立て及び解体の方法</Sentence>
               <Sentence>掘削、土止め及び地業の方法</Sentence>
               <Sentence>
-                <Ruby>躯<Rt>く</Rt>
+<Ruby>躯<Rt>く</Rt>
 </Ruby>体工事の方法</Sentence>
               <Sentence>重量物の運搬方法</Sentence>
               <Sentence>建設物の解体の方法</Sentence>
@@ -71909,12 +71982,25 @@
               <Sentence>鉄筋工事用材料の種類、規格、性質及び用途</Sentence>
               <Sentence>鉄筋工事の関連工事に使用する材料の種類及び用途</Sentence>
               <Sentence>四　建築設計図</Sentence>
-              <Sentence>日本産業規格の建築製図通則及び土木製図通則に定める表示記号</Sentence>
+              <Sentence>日本産業規格の建築製図通則及び土木製図通則等に定める表示記号</Sentence>
               <Sentence>コンクリート施工図の読図の方法</Sentence>
               <Sentence>五　安全衛生</Sentence>
               <Sentence>安全衛生に関する詳細な知識</Sentence>
             </TableColumn>
             <TableColumn>
+              <Sentence>次の各号に掲げる科目のうち、受検者が選択するいずれか一の科目</Sentence>
+              <Sentence>一　鉄筋施工図作成作業</Sentence>
+              <Sentence>
+<Ruby>躯<Rt>く</Rt>
+</Ruby>体施工図及び構造詳細図の読図</Sentence>
+              <Sentence>鉄筋折り曲げ加工図の作成</Sentence>
+              <Sentence>鉄筋施工図の作成</Sentence>
+              <Sentence>鉄筋加工<Ruby>絵<Rt>え</Rt>
+</Ruby>
+<Ruby>符<Rt>ふ</Rt>
+</Ruby>の作成</Sentence>
+              <Sentence>材料の選定</Sentence>
+              <Sentence>二　鉄筋組立て作業</Sentence>
               <Sentence>鉄筋組立て作業</Sentence>
               <Sentence>鉄筋の組立て</Sentence>
             </TableColumn>
@@ -72523,7 +72609,7 @@
 </Ruby>
 </Sentence>
               <Sentence>
-                <Ruby>梱<Rt>こん</Rt>
+<Ruby>梱<Rt>こん</Rt>
 </Ruby>包</Sentence>
             </TableColumn>
           </TableRow>
@@ -73585,7 +73671,7 @@
               <Sentence>水盛り、やりかた及び墨出し</Sentence>
               <Sentence>枠組壁工事の施工</Sentence>
               <Sentence>
-                <Ruby>矩<Rt>かな</Rt>
+<Ruby>矩<Rt>かな</Rt>
 </Ruby>
 <Ruby>計<Rt>ばかり</Rt>
 </Ruby>の製作</Sentence>
@@ -74747,12 +74833,12 @@
           <TableRow>
             <TableColumn>
               <Sentence>
-                <Ruby>貼<Rt>はり</Rt>
+<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱製造法</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>
-                <Ruby>貼<Rt>はり</Rt>
+<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱製造作業</Sentence>
             </TableColumn>
           </TableRow>
@@ -74765,7 +74851,7 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="4">
+            <TableColumn rowspan="5">
               <Sentence>プラスチック成形</Sentence>
             </TableColumn>
             <TableColumn>
@@ -74797,6 +74883,14 @@
             </TableColumn>
             <TableColumn>
               <Sentence>ブロー成形作業</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn>
+              <Sentence>真空成形法</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>真空成形作業</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -75729,12 +75823,12 @@
           <TableRow>
             <TableColumn>
               <Sentence>
-                <Ruby>貼<Rt>はり</Rt>
+<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱製造法</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>
-                <Ruby>貼<Rt>はり</Rt>
+<Ruby>貼<Rt>はり</Rt>
 </Ruby>箱製造作業</Sentence>
             </TableColumn>
           </TableRow>
@@ -76009,7 +76103,7 @@
       <RelatedArticleNum>（第四十八条の十六関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04101000024-017.pdf"/>
+          <Fig src="./pict/S44F04101000024-017.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -76018,7 +76112,7 @@
       <RelatedArticleNum>（第四十八条の十八関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S44F04101000024-018.pdf"/>
+          <Fig src="./pict/S44F04101000024-018.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200420e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="345" Year="27">
+<Law DataInfo="200605e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="345" Year="27">
   <LawNum>平成二十七年政令第三百四十五号</LawNum>
   <LawBody>
     <LawTitle>被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の施行及び国家公務員の退職給付の給付水準の見直し等のための国家公務員退職手当法等の一部を改正する法律の一部の施行に伴う国家公務員共済組合法による長期給付等に関する経過措置に関する政令</LawTitle>
@@ -14126,35 +14126,43 @@
                     </TableColumn>
                   </TableRow>
                   <TableRow>
-                    <TableColumn>
-                      <Sentence>令和二年四月から令和三年三月まで</Sentence>
+                    <TableColumn Valign="middle">
+                      <Sentence>令和二年四月から令和五年三月まで</Sentence>
                     </TableColumn>
-                    <TableColumn>
-                      <Sentence>年三・四パーセント</Sentence>
-                    </TableColumn>
-                  </TableRow>
-                  <TableRow>
-                    <TableColumn>
-                      <Sentence>令和三年四月から令和四年三月まで</Sentence>
-                    </TableColumn>
-                    <TableColumn>
-                      <Sentence>年三・七パーセント</Sentence>
+                    <TableColumn Valign="middle">
+                      <Sentence>年一・七パーセント</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
-                    <TableColumn>
-                      <Sentence>令和四年四月から令和五年三月まで</Sentence>
+                    <TableColumn Valign="middle">
+                      <Sentence>令和五年四月から令和七年三月まで</Sentence>
                     </TableColumn>
-                    <TableColumn>
-                      <Sentence>年三・九パーセント</Sentence>
+                    <TableColumn Valign="middle">
+                      <Sentence>年一・六パーセント</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
-                    <TableColumn>
-                      <Sentence>令和五年四月から令和六年三月まで</Sentence>
+                    <TableColumn Valign="middle">
+                      <Sentence>令和七年四月から令和八年三月まで</Sentence>
                     </TableColumn>
-                    <TableColumn>
-                      <Sentence>年四・一パーセント</Sentence>
+                    <TableColumn Valign="middle">
+                      <Sentence>年一・七パーセント</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="middle">
+                      <Sentence>令和八年四月から令和九年三月まで</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>年二パーセント</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="middle">
+                      <Sentence>令和九年四月から令和十一年三月まで</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>年二・一パーセント</Sentence>
                     </TableColumn>
                   </TableRow>
                 </Table>
@@ -16345,6 +16353,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月一五日政令第一四四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、公布の日から施行し、令和二年四月一日から適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

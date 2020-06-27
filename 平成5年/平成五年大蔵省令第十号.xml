@@ -1836,7 +1836,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">株式会社地域経済活性化支援機構法（平成二十一年法律第六十三号）第二十二条第一項第八号に掲げる業務の実施により設立される株式会社が無限責任組合員となる投資事業有限責任組合であって、次のいずれかに該当するものから出資を受けている会社</Sentence>
+              <Sentence WritingMode="vertical">株式会社地域経済活性化支援機構法（平成二十一年法律第六十三号）第二十二条第一項第六号に掲げる業務の実施により設立される株式会社が無限責任組合員となる投資事業有限責任組合であって、次のいずれかに該当するものから出資を受けている会社</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -13729,6 +13729,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一九日内閣府令第四七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、株式会社地域経済活性化支援機構法の一部を改正する法律の施行の日（令和二年六月十九日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一（第六十九条第一項第三号ハ関係）</AppdxTableTitle>
       <TableStruct>
@@ -14361,7 +14370,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_001.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14369,7 +14378,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_002.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14377,7 +14386,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第３号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_003.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14385,7 +14394,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_004.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14393,7 +14402,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第５号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_005.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14401,7 +14410,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第６号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_006.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14409,7 +14418,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第７号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_007.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14417,7 +14426,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第８号（第１５条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_008.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14425,7 +14434,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第９号（第６８条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_009.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14433,7 +14442,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第９号の２（第６８条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_010.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14441,7 +14450,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１０号（第６８条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_011.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14449,7 +14458,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１０号の２（第６８条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_012.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14457,7 +14466,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１１号（第８０条第６号及び第１０５条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_013.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14465,7 +14474,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１２号（第８６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_014.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14473,7 +14482,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１３号（第１０５条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_015.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14481,7 +14490,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１４号（第１０５条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_016.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14489,7 +14498,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１５号（第１１０条の１９第２号ニ関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_017.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14497,7 +14506,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１６号（第１１０条の３２第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_018.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14505,7 +14514,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１７号（第１１０条の３２第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_019.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -14513,7 +14522,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１８号（第１１０条の３２第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000010_2006181706_020.pdf"/>
+          <Fig src="./pict/H05F03401000010_2006231706_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

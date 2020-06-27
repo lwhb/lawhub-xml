@@ -686,6 +686,13 @@
           <Sentence WritingMode="vertical">第十二条第一項の規定による公共職業訓練等受講届及び公共職業訓練等通所届並びに第十四条第一項の規定による傷病手当に相当する退職手当支給申請書は、当分の間、第二項の規定による廃止前の失業者の退職手当を受けるために必要な手続に関する省令の相当様式によることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+      <Paragraph Hide="false" Num="6">
+        <ParagraphCaption>（特定退職者に関する暫定措置）</ParagraphCaption>
+        <ParagraphNum>６</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">受給資格に係る退職の日が雇用保険法施行規則（昭和五十年労働省令第三号）附則第一条の四に規定する離職の日に相当する期間内である者に係る第六条の二及び第二十一条第一項の規定の適用については、第六条の二中「次のとおり」とあるのは「雇用保険法施行規則（昭和五十年労働省令第三号）附則第一条の四の規定により読み替えられた同規則第三十六条（各号列記以外の部分に限る。）に規定する理由により退職した者のほか、次のとおり」と、第二十一条第一項中「雇用保険法施行規則（昭和五十年労働省令第三号）」とあるのは「雇用保険法施行規則」とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和五九年七月三一日総理府令第四四号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -1086,11 +1093,20 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一九日内閣官房令第五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この内閣官房令は、公布の日から施行し、この内閣官房令による改正後の失業者の退職手当支給規則附則第六項の規定は、令和二年五月一日以降に退職した者について適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第１（第３条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_001.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1098,7 +1114,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_002.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1106,7 +1122,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１（別紙）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_003.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1114,7 +1130,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第２（第４条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_004.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1122,7 +1138,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第２（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_005.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1131,7 +1147,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_006.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1140,7 +1156,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_007.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1148,7 +1164,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第３の２（第６条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_008.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1156,7 +1172,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第３の２（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_009.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1164,7 +1180,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第４（第８条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_010.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1172,7 +1188,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第５（第８条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_011.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1180,7 +1196,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第６（第１１条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_012.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1188,7 +1204,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第６（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_013.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1196,7 +1212,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第７（第１２条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_014.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1204,7 +1220,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第７（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_015.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1212,7 +1228,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第８（第１２条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_016.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1220,7 +1236,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第８の２（第１３条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_017.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1228,7 +1244,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第８の２（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_018.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1236,7 +1252,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第９（第１４条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_019.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1244,7 +1260,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第９（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_020.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1252,7 +1268,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第９の２（その１）（第１７条の２関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_021.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1260,7 +1276,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第９の２（その１）（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_022.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1268,7 +1284,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第９の２（その２）（第１７条の２関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_023.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1276,7 +1292,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第９の２（その２）（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_024.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1285,7 +1301,7 @@
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_025.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1294,7 +1310,7 @@
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_026.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1302,7 +1318,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１０の２（第１９条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_027.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1310,7 +1326,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１０の２（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_028.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1318,7 +1334,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１１（第１９条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_029.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1326,7 +1342,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１１（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_030.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1334,7 +1350,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１１の２（第２１条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_031.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1342,7 +1358,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１１の２（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_032.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1350,7 +1366,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１１の３（第２１条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_033.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1358,7 +1374,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１１の３（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_034.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1366,7 +1382,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１１の４（第２１条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_035.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1374,7 +1390,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１１の４（第２１条関係）（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_036.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1382,7 +1398,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１２（第２１条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_037.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1390,7 +1406,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１２（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_038.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_038.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1398,7 +1414,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１３（第２１条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_039.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_039.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1406,7 +1422,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１３（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_040.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_040.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1414,7 +1430,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第１４（第２１条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_041.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_041.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1422,7 +1438,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第14の２（第21条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_042.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_042.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1430,7 +1446,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第14の2（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_043.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_043.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1438,7 +1454,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第14の３（第21条関係）（表面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_044.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_044.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1446,7 +1462,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記様式第14の３（裏面）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S50F03101000014_1910031310_045.pdf"/>
+          <Fig src="./pict/S50F03101000014_2006191706_045.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

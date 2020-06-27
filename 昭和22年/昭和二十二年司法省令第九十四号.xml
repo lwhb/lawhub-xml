@@ -554,7 +554,13 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>○２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">市町村長が、戸籍法第二十四条第二項（第四十四条第三項及び第四十五条において準用する場合を含む。）の規定によつて、管轄法務局又は地方法務局の長の許可を得て、戸籍の訂正又は記載をするときは、前項に掲げる事項は、許可書にこれを記載しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">市町村長が、戸籍法第二十四条第二項又は第四十四条第三項（第四十五条において準用する場合を含む。）の規定によつて、管轄法務局又は地方法務局の長の許可を得て、戸籍の訂正又は記載をするときは、前項に掲げる事項は、許可書にこれを記載しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">市町村長が、戸籍法第二十四条第三項の規定によつて、市町村長限りの職権で戸籍の訂正をするときは、第一項に掲げる事項は、訂正書にこれを記載しなければならない</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1205,6 +1211,15 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">戸籍法第二十四条第一項の通知は、附録第十八号書式によつて、書面でこれをしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="47_2">
+          <ArticleTitle>第四十七条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">市町村長は、戸籍法第二十四条第二項又は第三項の規定によつて、戸籍の訂正をした場合には、速やかに届出人又は届出事件の本人に連絡を行わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3396,6 +3411,29 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日法務省令第三二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、戸籍法の一部を改正する法律（令和元年法律第十七号）附則第一条第二号に掲げる規定の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（届書の用紙に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行の際現に存するこの省令による改正前の様式による届書の用紙は、この省令の施行後においても当分の間使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第十一条の二、第十一条の六、第五十二条の二、第五十三条の二、第五十三条の四第三項、同条第六項関係）</RelatedArticleNum>
@@ -3417,7 +3455,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S22F00501000094_2001161701_001.pdf"/>
+                <Fig src="./pict/S22F00501000094_2006231706_001.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -4029,7 +4067,7 @@
       <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_002.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4038,7 +4076,7 @@
       <RelatedArticleNum>（第四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_003.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4047,7 +4085,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_004.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4056,7 +4094,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_005.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4065,7 +4103,7 @@
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_006.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4074,7 +4112,7 @@
       <RelatedArticleNum>（第三十三条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/S22F00501000094_2001161701_007.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_007.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -4082,7 +4120,7 @@
       <AppdxNoteTitle WritingMode="vertical">附録第七号　戸籍記載例</AppdxNoteTitle>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/S22F00501000094_2001161701_008.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_008.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -4091,7 +4129,7 @@
       <RelatedArticleNum>（第四十二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_009.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4100,7 +4138,7 @@
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_010.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4109,7 +4147,7 @@
       <RelatedArticleNum>（第四十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_011.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4118,7 +4156,7 @@
       <RelatedArticleNum>（第五十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_012.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4127,7 +4165,7 @@
       <RelatedArticleNum>（第五十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_013.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4136,7 +4174,7 @@
       <RelatedArticleNum>（第五十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_014.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4145,7 +4183,7 @@
       <RelatedArticleNum>（第五十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_015.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4154,7 +4192,7 @@
       <RelatedArticleNum>（第十二条関係）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S22F00501000094_2001161701_016.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_016.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4166,7 +4204,7 @@
       <RelatedArticleNum>（第十四条関係）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S22F00501000094_2001161701_017.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_017.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4175,7 +4213,7 @@
       <RelatedArticleNum>（第四十七条関係）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S22F00501000094_2001161701_018.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_018.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4184,7 +4222,7 @@
       <RelatedArticleNum>（第六十四条関係）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S22F00501000094_2001161701_019.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_019.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4193,7 +4231,7 @@
       <RelatedArticleNum>（第六十六条関係）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S22F00501000094_2001161701_020.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_020.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4202,7 +4240,7 @@
       <RelatedArticleNum>（第六十六条関係）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S22F00501000094_2001161701_021.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_021.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4211,7 +4249,7 @@
       <RelatedArticleNum>（第七十三条第二項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_022.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4220,7 +4258,7 @@
       <RelatedArticleNum>（第七十三条第三項関係）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S22F00501000094_2001161701_023.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_023.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4229,7 +4267,7 @@
       <RelatedArticleNum>（第七十三条第六項関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/S22F00501000094_2001161701_024.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_024.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -4238,7 +4276,7 @@
       <RelatedArticleNum>（第七十三条第六項関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/S22F00501000094_2001161701_025.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_025.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -4247,7 +4285,7 @@
       <RelatedArticleNum>（第七十三条第七項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_026.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4256,7 +4294,7 @@
       <RelatedArticleNum>（第七十三条第八項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_027.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4264,7 +4302,7 @@
       <AppdxStyleTitle WritingMode="vertical">付録第二十八号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_028.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4273,7 +4311,7 @@
       <RelatedArticleNum>（第七十九条の六関係）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S22F00501000094_2001161701_029.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_029.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4282,7 +4320,7 @@
       <RelatedArticleNum>（第七十三条第九項関係）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S22F00501000094_2001161701_030.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_030.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4290,7 +4328,7 @@
       <AppdxFormatTitle WritingMode="vertical">付録第三十一号書式　（第七十九条の十二第一項関係）　戸籍（除籍、届書、申請書その他）記載事項証明</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S22F00501000094_2001161701_031.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_031.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4299,7 +4337,7 @@
       <RelatedArticleNum>（第七十九条の十二第四項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S22F00501000094_2001161701_032.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4308,7 +4346,7 @@
       <RelatedArticleNum>（第七十九条の十二第五項関係）</RelatedArticleNum>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S22F00501000094_2001161701_033.pdf"/>
+          <Fig src="./pict/S22F00501000094_2006231706_033.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
