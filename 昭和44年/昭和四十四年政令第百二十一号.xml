@@ -119,7 +119,7 @@
                   <Sentence WritingMode="vertical">厚生労働省</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">三一、八二二人</Sentence>
+                  <Sentence WritingMode="vertical">三三、一〇三人</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">うち、一人は、特別職の職員の定員とする。</Sentence>
@@ -185,7 +185,7 @@
                   <Sentence WritingMode="vertical">合計</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">二九九、四五八人</Sentence>
+                  <Sentence WritingMode="vertical">三〇〇、七三九人</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical"/>
@@ -1480,7 +1480,7 @@
                 <Sentence WritingMode="vertical">令和三年一月三十一日までの間</Sentence>
               </TableColumn>
               <TableColumn Align="right" BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">三一、八六二人</Sentence>
+                <Sentence WritingMode="vertical">三三、一四三人</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical">うち、一人は、特別職の職員の定員とする。</Sentence>
@@ -1525,6 +1525,28 @@
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一六日政令第一八九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（行政機関職員定員令の一部を改正する政令の一部改正）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">行政機関職員定員令の一部を改正する政令（令和二年政令第七十五号）の一部を次のように改正する。</Sentence>
+        </ParagraphSentence>
+        <AmendProvision>
+          <AmendProvisionSentence>
+            <Sentence WritingMode="vertical">附則第二項の表厚生労働省の項中「三一、八六二人」を「三三、一四三人」に改める。</Sentence>
+          </AmendProvisionSentence>
+        </AmendProvision>
       </Paragraph>
     </SupplProvision>
   </LawBody>

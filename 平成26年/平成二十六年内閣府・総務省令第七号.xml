@@ -60,7 +60,7 @@
             <Subitem1 Delete="false" Hide="false" Num="5">
               <Subitem1Title>ホ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該届出に係る被扶養者に係る雇用保険法（昭和四十九年法律第百十六号）第十条第一項の失業等給付の支給に関する情報（以下「失業等給付関係情報」という。）</Sentence>
+                <Sentence WritingMode="vertical">当該届出に係る被扶養者に係る雇用保険法（昭和四十九年法律第百十六号）第十条第一項の失業等給付又は同法第六十一条の六第一項の育児休業給付の支給に関する情報（以下「失業等給付関係情報」という。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="6">
@@ -7359,10 +7359,10 @@
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">雇用保険法第十条の三第一項の未支給の失業等給付の支給の請求に係る事実についての審査に関する事務</Sentence>
+                <Sentence WritingMode="vertical">雇用保険法第十条の三第一項（同法第六十一条の六第二項において準用する場合を含む。）の未支給の失業等給付又は育児休業給付の支給の請求に係る事実についての審査に関する事務</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">当該請求を行う者又は死亡した当該請求に係る未支給の失業等給付の支給を受けるべき者に係る住民票に記載された住民票関係情報</Sentence>
+                <Sentence WritingMode="vertical">当該請求を行う者又は死亡した当該請求に係る未支給の失業等給付又は育児休業給付の支給を受けるべき者に係る住民票に記載された住民票関係情報</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -7370,10 +7370,10 @@
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">雇用保険法第六十一条の六第一項の介護休業給付金の支給の申請に係る事実についての審査に関する事務</Sentence>
+                <Sentence WritingMode="vertical">雇用保険法第六十一条の四第一項の介護休業給付金の支給の申請に係る事実についての審査に関する事務</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">当該申請を行う者又は当該者の対象家族（雇用保険法第六十一条の六第一項の対象家族をいう。）に係る住民票に記載された住民票関係情報</Sentence>
+                <Sentence WritingMode="vertical">当該申請を行う者又は当該者の対象家族（雇用保険法第六十一条の四第一項の対象家族をいう。）に係る住民票に記載された住民票関係情報</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -9456,10 +9456,10 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
-          <Item Num="ヘ">
+          <Item Delete="false" Hide="false" Num="ヘ">
             <ItemTitle>ヘ</ItemTitle>
             <ItemSentence>
-              <Sentence>学資金申請者又は当該学資金申請者の生計を維持する者に係る市町村民税に関する情報</Sentence>
+              <Sentence WritingMode="vertical">学資金申請者又は当該学資金申請者の生計を維持する者に係る市町村民税に関する情報</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="7">
               <Subitem1Title>ト</Subitem1Title>
@@ -11044,6 +11044,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この命令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日内閣府・総務省令第二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この命令は、雇用保険法等の一部を改正する法律（令和二年法律第十四号）の施行の日（令和二年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

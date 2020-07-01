@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="17" Year="05">
+<Law DataInfo="200219e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="17" Year="05">
   <LawNum>平成五年政令第十七号</LawNum>
   <LawBody>
     <LawTitle>絶滅のおそれのある野生動植物の種の保存に関する法律施行令</LawTitle>
@@ -24,6 +24,12 @@
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence>法第四条第五項の特定第一種国内希少野生動植物種は、別表第三に掲げる種とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第四条第六項の特定第二種国内希少野生動植物種は、別表第四に掲げる種とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -55,7 +61,7 @@
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence>別表第一の表二の第一の二から四まで並びに六のイの（３）の１の項、（４）の１の項、３の項及び４の項、（６）並びに（８）の１の項並びにハ</Sentence>
+                <Sentence>別表第一の表二の第一の二から四まで並びに六のイの（３）の１の項、（４）の１の項、３の項及び４の項、（７）並びに（９）の１の項、ロの（１）並びにニ</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="3">
@@ -74,7 +80,7 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence>別表第一の表二の第二の（８）の２の項、３の項及び５の項、（１２）の１の項、（１４）の２の項、（１５）、（１９）、（２０）の１の項、（２４）、（２９）、（３０）、（３１）、（３９）の２の項及び４の項、（４２）の１の項、（４４）、（４５）、（４８）の２の項、（５１）並びに（５２）に掲げる種の種子</Sentence>
+              <Sentence>別表第一の表二の第二の（８）の２の項、３の項及び６の項、（９）の１の項、（１０）、（１３）の１の項、（１５）の２の項、（１６）、（２０）の１の項、（２１）の１の項、（２５）、（３１）、（３２）、（３３）、（４１）の５の項及び８の項、（４４）の１の項及び３の項、（４７）、（４８）、（５１）の２の項、（５４）並びに（５５）に掲げる種の種子</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -85,7 +91,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第六条第二項第四号の政令で定める器官は、別表第四の科名の欄に掲げる希少野生動植物種の科の区分に応じ、それぞれ同表の器官の欄に定める器官とする。</Sentence>
+            <Sentence>法第六条第二項第四号の政令で定める器官は、別表第五の科名の欄に掲げる希少野生動植物種の科の区分に応じ、それぞれ同表の器官の欄に定める器官とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -106,7 +112,7 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence>別表第四の科名の欄に掲げる希少野生動植物種の科の区分に応じ、それぞれ同表の加工品の欄に定める物品（これらの物品として製造する過程のものを含む。）</Sentence>
+              <Sentence>別表第五の科名の欄に掲げる希少野生動植物種の科の区分に応じ、それぞれ同表の加工品の欄に定める物品（これらの物品として製造する過程のものを含む。）</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -117,7 +123,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第十二条第一項第四号の原材料器官等は、別表第五の科名の欄に掲げる国際希少野生動植物種の科の区分に応じ、それぞれ同表の原材料器官等の欄に定める器官及びその加工品とする。</Sentence>
+            <Sentence>法第十二条第一項第四号の原材料器官等は、別表第六の科名の欄に掲げる国際希少野生動植物種の科の区分に応じ、それぞれ同表の原材料器官等の欄に定める器官及びその加工品とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -137,7 +143,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第十五条第一項の政令で定める要件は、輸出については、次の各号のいずれにも該当することとする。</Sentence>
+            <Sentence>法第十五条第一項ただし書の政令で定める要件は、輸出については、次の各号のいずれにも該当することとする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -217,7 +223,7 @@
             <Subitem1 Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence>別表第六の種名の欄に掲げる種ごとに、それぞれ同表の個体群の欄に掲げる個体群の区分に応じ、同表の個体等の欄に定める個体等（当該個体群に属する個体又はその個体から生じた器官等に限る。）であること。</Sentence>
+                <Sentence>別表第七の種名の欄に掲げる種ごとに、それぞれ同表の個体群の欄に掲げる個体群の区分に応じ、同表の個体等の欄に定める個体等（当該個体群に属する個体又はその個体から生じた器官等に限る。）であること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -246,7 +252,7 @@
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence>別表第六の１２の項及び１３の項に掲げる個体等のうち牙（平成二十六年六月一日以後に本邦に輸入されたものに限る。）についての法第二十条第一項の登録</Sentence>
+                <Sentence>別表第七の１２の項及び１３の項に掲げる個体等のうち牙（平成二十六年六月一日以後に本邦に輸入されたものに限る。）についての法第二十条第一項の登録</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence>一の原材料器官等につき千六百円</Sentence>
@@ -294,7 +300,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第三十三条の二の政令で定める特定器官等は、別表第五の４の項に掲げる原材料器官等のうち甲及びその加工品に係る特定器官等とする。</Sentence>
+            <Sentence>法第三十三条の二の政令で定める特定器官等は、別表第六の４の項に掲げる原材料器官等のうち甲及びその加工品に係る特定器官等とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -324,7 +330,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第三十三条の六第一項の政令で定める特定器官等は、別表第五の２の項に掲げる原材料器官等のうち牙及びその加工品に係る特定器官等とする。</Sentence>
+            <Sentence>法第三十三条の六第一項の政令で定める特定器官等は、別表第六の２の項に掲げる原材料器官等のうち牙及びその加工品に係る特定器官等とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -396,7 +402,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第三十三条の二十五第一項の政令で定める製品は、別表第五の２の項に掲げる原材料器官等のうち牙に係るものを原材料として製造された装身具、調度品、楽器、印章その他の環境省令、経済産業省令で定める製品（その原材料器官等を使用した部分が僅少でないこと、その部分から種を容易に識別することができることその他の環境省令、経済産業省令で定める要件に該当するものに限る。）とする。</Sentence>
+            <Sentence>法第三十三条の二十五第一項の政令で定める製品は、別表第六の２の項に掲げる原材料器官等のうち牙に係るものを原材料として製造された装身具、調度品、楽器、印章その他の環境省令、経済産業省令で定める製品（その原材料器官等を使用した部分が僅少でないこと、その部分から種を容易に識別することができることその他の環境省令、経済産業省令で定める要件に該当するものに限る。）とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1060,6 +1066,24 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一月二二日政令第六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1">この政令は、令和二年二月十日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第七条第一項の改正規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令の施行の際現にこの政令による改正後の絶滅のおそれのある野生動植物の種の保存に関する法律施行令別表第三の種名の欄に掲げる種（亜種又は変種を含む。）のうちこの政令による改正前の絶滅のおそれのある野生動植物の種の保存に関する法律施行令別表第三の種名の欄に掲げられていないものに係る特定国内種事業を行っている者に対する絶滅のおそれのある野生動植物の種の保存に関する法律第三十条の規定の適用については、同条第一項及び第二項中「行おうとする者」とあるのは「行っている者」と、「あらかじめ」とあるのは「令和二年三月十日までに」とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一　国内希少野生動植物種</AppdxTableTitle>
       <RelatedArticleNum>（第一条、第二条、第七条関係）</RelatedArticleNum>
@@ -1593,7 +1617,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（２）　ひなこうもり科</Sentence>
+              <Sentence>（２）　きくがしらこうもり科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1601,12 +1625,41 @@
               <Sentence>１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Murina ryukyuana（リュウキュウテングコウモリ）</Sentence>
+              <Sentence>Rhinolophus cornutus orii（オリイコキクガシラコウモリ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
               <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Rhinolophus pumilus pumilus（オキナワコキクガシラコウモリ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（３）　ひなこうもり科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Miniopterus fuscus（リュウキュウユビナガコウモリ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Murina ryukyuana（リュウキュウテングコウモリ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Myotis yanbarensis（ヤンバルホオヒゲコウモリ）</Sentence>
@@ -1698,7 +1751,25 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>ロ　たか目</Sentence>
+              <Sentence>ロ　こうのとり目</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（１）　とき科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Platalea minor（クロツラヘラサギ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>ハ　たか目</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1716,7 +1787,25 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>ハ　すずめ目</Sentence>
+              <Sentence>ニ　つる目</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（１）　くいな科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Coturnicops exquisitus（シマクイナ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>ホ　すずめ目</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1734,7 +1823,38 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>ニ　みずなぎどり目</Sentence>
+              <Sentence>（２）　ひたき科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Turdus celaenops（アカコッコ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>ヘ　ペリカン目</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（１）　さぎ科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Ixobrychus eurhythmus（オオヨシゴイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>ト　みずなぎどり目</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1764,8 +1884,16 @@
             </TableColumn>
           </TableRow>
           <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Puffinus lherminieri bannermani（セグロミズナギドリ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>ホ　ふくろう目</Sentence>
+              <Sentence>チ　ふくろう目</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1855,6 +1983,14 @@
               <Sentence>１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
+              <Sentence>Takydromus dorsalis（サキシマカナヘビ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>Takydromus toyamai（ミヤコカナヘビ）</Sentence>
             </TableColumn>
           </TableRow>
@@ -1873,7 +2009,33 @@
               <Sentence>１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
+              <Sentence>Hebius concelarus（ミヤコヒバァ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>Opisthotropis kikuzatoi（キクザトサワヘビ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>ハ　かめ目</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（１）　いしがめ科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Geoemyda japonica（リュウキュウヤマガメ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1986,12 +2148,20 @@
               <Sentence>５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Hynobius tosashimizuensis（トサシミズサンショウウオ）</Sentence>
+              <Sentence>Hynobius tokyoensis（トウキョウサンショウウオ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
               <Sentence>６</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Hynobius tosashimizuensis（トサシミズサンショウウオ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>７</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Onychodactylus tsukubaensis（ツクバハコネサンショウウオ）</Sentence>
@@ -2068,12 +2238,28 @@
               <Sentence>２</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Rhodeus atremius suigensis（スイゲンゼニタナゴ）</Sentence>
+              <Sentence>Acheilognathus tabira nakamurae（セボシタビラ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
               <Sentence>３</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Hemigrammocypris neglectus（カワバタモロコ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>４</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Rhodeus atremius suigensis（スイゲンゼニタナゴ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Tanakia tanago（ミヤコタナゴ）</Sentence>
@@ -2095,6 +2281,24 @@
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Gymnogobius nakamurae（コシノハゼ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>ハ　さけ目</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（１）　しらうお科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Neosalanx reganius（アリアケヒメシラウオ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2281,7 +2485,20 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（５）　ほたる科</Sentence>
+              <Sentence>（５）　みずすまし科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Gyrinus ryukyuensis（リュウキュウヒメミズスマシ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（６）　ほたる科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2294,7 +2511,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（６）　くわがたむし科</Sentence>
+              <Sentence>（７）　くわがたむし科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2323,7 +2540,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（７）　はなのみ科</Sentence>
+              <Sentence>（８）　はなのみ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2360,7 +2577,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（８）　こがねむし科</Sentence>
+              <Sentence>（９）　こがねむし科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2386,7 +2603,20 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１）　せみ科</Sentence>
+              <Sentence>（１）　こおいむし科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Kirkaldyia deyrolli（タガメ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（２）　せみ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2399,7 +2629,25 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>ハ　ちょう目</Sentence>
+              <Sentence>ハ　はち目</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（１）　あり科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Aphaenogaster gamagumayaa（ガマアシナガアリ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>ニ　ちょう目</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2449,7 +2697,7 @@
               <Sentence>２</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Phengaris teleius kazamoto（ゴマシジミ関東・中部亜種）</Sentence>
+              <Sentence>Japonica onoi mizobei（カシワアカシジミ冠高原亜種）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2457,7 +2705,7 @@
               <Sentence>３</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Pithecops fulgens tsushimanus（ツシマウラボシシジミ）</Sentence>
+              <Sentence>Phengaris teleius kazamoto（ゴマシジミ関東・中部亜種）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2465,12 +2713,20 @@
               <Sentence>４</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Plebejus subsolanus iburiensis（アサマシジミ北海道亜種）</Sentence>
+              <Sentence>Pithecops fulgens tsushimanus（ツシマウラボシシジミ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
               <Sentence>５</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Plebejus subsolanus iburiensis（アサマシジミ北海道亜種）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>６</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Shijimia moorei moorei（ゴイシツバメシジミ）</Sentence>
@@ -2499,7 +2755,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>ニ　とんぼ目</Sentence>
+              <Sentence>ホ　とんぼ目</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2564,7 +2820,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>ホ　ばった目</Sentence>
+              <Sentence>ヘ　ばった目</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2600,12 +2856,52 @@
               <Sentence>１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Nesiohelix omphalina bipyramidalis（オオアガリマイマイ）</Sentence>
+              <Sentence>Aegista inexpectata（オモイガケナマイマイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
               <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Aegista marginata（ヘリトリケマイマイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Euhadra murayamai（ムラヤママイマイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>４</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Euhadra nachicola（ナチマイマイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>５</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Euhadra sadoensis（サドマイマイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>６</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Nesiohelix omphalina bipyramidalis（オオアガリマイマイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>７</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Nesiohelix omphalina omphalina（ヘソアキアツマイマイ）</Sentence>
@@ -2733,7 +3029,7 @@
               <Sentence>１５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Satsuma amanoi（アマノヤマタカマイマイ）</Sentence>
+              <Sentence>Nipponochloritis obscura（トクノシマビロウドマイマイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2741,7 +3037,7 @@
               <Sentence>１６</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Satsuma hemihelva（ウラキヤマタカマイマイ）</Sentence>
+              <Sentence>Satsuma amanoi（アマノヤマタカマイマイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2749,7 +3045,60 @@
               <Sentence>１７</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
+              <Sentence>Satsuma hemihelva（ウラキヤマタカマイマイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１８</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>Satsuma iheyaensis（イヘヤヤマタカマイマイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１９</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Satsuma kumejimaensis（クメジママイマイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（３）　きせるがい科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Megalophaedusa ishikawai（イシカワギセル）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Megalophaedusa spelaeonis（カザアナギセル）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Stereophaedusa caudata（トクネニヤダマシギセル）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>４</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Stereophaedusa striatella（ミヤコオキナワギセル）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2930,7 +3279,7 @@
               <Sentence>９</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Arisaema nagiense（ナギヒロハテンナンショウ）</Sentence>
+              <Sentence>Arisaema minamitanii（ヒュウガヒロハテンナンショウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2938,7 +3287,7 @@
               <Sentence>１０</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Arisaema ogatae（オガタテンナンショウ）</Sentence>
+              <Sentence>Arisaema nagiense（ナギヒロハテンナンショウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2946,7 +3295,7 @@
               <Sentence>１１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Arisaema seppikoense（セッピコテンナンショウ）</Sentence>
+              <Sentence>Arisaema ogatae（オガタテンナンショウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2954,7 +3303,7 @@
               <Sentence>１２</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Pothos chinensis（ユズノハカズラ）</Sentence>
+              <Sentence>Arisaema seppikoense（セッピコテンナンショウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2962,12 +3311,20 @@
               <Sentence>１３</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Rhaphidophora kortharthii（サキシマハブカズラ）</Sentence>
+              <Sentence>Pothos chinensis（ユズノハカズラ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
               <Sentence>１４</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Rhaphidophora kortharthii（サキシマハブカズラ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Rhaphidophora liukiuensis（ヒメハブカズラ）</Sentence>
@@ -3007,7 +3364,7 @@
               <Sentence>４</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Asarum monodoriflorum（モノドラカンアオイ）</Sentence>
+              <Sentence>Asarum misandrum（アソサイシン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3015,7 +3372,7 @@
               <Sentence>５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Asarum okinawense（ヒナカンアオイ）</Sentence>
+              <Sentence>Asarum mitoanum（フクエジマカンアオイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3023,7 +3380,7 @@
               <Sentence>６</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Asarum sakawanum var. stellatum（ホシザキカンアオイ）</Sentence>
+              <Sentence>Asarum monodoriflorum（モノドラカンアオイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3031,12 +3388,28 @@
               <Sentence>７</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Asarum satsumense（サツマアオイ）</Sentence>
+              <Sentence>Asarum okinawense（ヒナカンアオイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
               <Sentence>８</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Asarum sakawanum var. stellatum（ホシザキカンアオイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>９</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Asarum satsumense（サツマアオイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１０</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Asarum yaeyamense（ヤエヤマカンアオイ）</Sentence>
@@ -3158,7 +3531,7 @@
               <Sentence>１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Lonicera kurobushiensis（クロブシヒョウタンボク）</Sentence>
+              <Sentence>Lonicera fragrantissima（ツシマヒョウタンボク）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3166,12 +3539,28 @@
               <Sentence>２</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Lonicera uzenensis（ウゼンベニバナヒョウタンボク）</Sentence>
+              <Sentence>Lonicera kurobushiensis（クロブシヒョウタンボク）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
               <Sentence>３</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Lonicera linderifolia var. linderifolia（ヤブヒョウタンボク）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>４</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Lonicera uzenensis（ウゼンベニバナヒョウタンボク）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Triosteum pinnatifidum（ホザキツキヌキソウ）</Sentence>
@@ -3219,12 +3608,20 @@
               <Sentence>５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Saussurea mikurasimensis（ミクラジマトウヒレン）</Sentence>
+              <Sentence>Saussurea japonica（ヒナヒゴタイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
               <Sentence>６</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Saussurea mikurasimensis（ミクラジマトウヒレン）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>７</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Saussurea yakusimensis（ヤクシマヒゴタイ）</Sentence>
@@ -3240,12 +3637,33 @@
               <Sentence>１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
+              <Sentence>Berteroella maximowiczii（ハナナズナ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>Draba igarashii（シリベシナズナ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１０）　こばのいしかぐま科</Sentence>
+              <Sentence>（１０）　かやつりぐさ科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Isolepis crassiuscula（ビャッコイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（１１）　こばのいしかぐま科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3258,7 +3676,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１１）　おしだ科</Sentence>
+              <Sentence>（１２）　おしだ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3290,7 +3708,7 @@
               <Sentence>４</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Polystichum lonchitis（ヒイラギデンダ）</Sentence>
+              <Sentence>Polystichum grandifrons（キュウシュウイノデ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3298,7 +3716,7 @@
               <Sentence>５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Polystichum obae（アマミデンダ）</Sentence>
+              <Sentence>Polystichum lonchitis（ヒイラギデンダ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3306,12 +3724,20 @@
               <Sentence>６</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
+              <Sentence>Polystichum obae（アマミデンダ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>７</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>Polystichum piceopaleaceum（サクラジマイノデ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１２）　つつじ科</Sentence>
+              <Sentence>（１３）　つつじ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3340,7 +3766,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１３）　ほしくさ科</Sentence>
+              <Sentence>（１４）　ほしくさ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3353,7 +3779,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１４）　とうだいぐさ科</Sentence>
+              <Sentence>（１５）　とうだいぐさ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3374,7 +3800,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１５）　りんどう科</Sentence>
+              <Sentence>（１６）　りんどう科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3395,7 +3821,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１６）　ふうろそう科</Sentence>
+              <Sentence>（１７）　ふうろそう科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3408,7 +3834,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１７）　いわたばこ科</Sentence>
+              <Sentence>（１８）　いわたばこ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3421,7 +3847,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１８）　きんもうわらび科</Sentence>
+              <Sentence>（１９）　きんもうわらび科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3434,7 +3860,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１９）　しそ科</Sentence>
+              <Sentence>（２０）　しそ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3446,8 +3872,16 @@
             </TableColumn>
           </TableRow>
           <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Scutellaria kikai-insularis（ヒメタツナミソウ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（２０）　まめ科</Sentence>
+              <Sentence>（２１）　まめ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3484,7 +3918,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（２１）　ゆり科</Sentence>
+              <Sentence>（２２）　ゆり科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3492,7 +3926,7 @@
               <Sentence>１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Chionographis koidzumiana var. kurokamiana（クロカミシライトソウ）</Sentence>
+              <Sentence>Asparagus oligoclonos（タマボウキ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3500,12 +3934,44 @@
               <Sentence>２</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
+              <Sentence>Chionographis koidzumiana var. kurokamiana（クロカミシライトソウ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>Fritillaria kaiensis（カイコバイモ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>４</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Tricyrtis ishiiana var. ishiiana（サガミジョウロウホトトギス）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>５</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Tricyrtis ishiiana var. surugensis（スルガジョウロウホトトギス）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>６</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Tricyrtis perfoliata（キバナノツキヌキホトトギス）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（２２）　ひかげのかずら科</Sentence>
+              <Sentence>（２３）　ひかげのかずら科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3526,7 +3992,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（２３）　きんとらのお科</Sentence>
+              <Sentence>（２４）　きんとらのお科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3539,7 +4005,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（２４）　のぼたん科</Sentence>
+              <Sentence>（２５）　のぼたん科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3552,7 +4018,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（２５）　やぶこうじ科</Sentence>
+              <Sentence>（２６）　やぶこうじ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3565,7 +4031,20 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（２６）　すいれん科</Sentence>
+              <Sentence>（２７）　いばらも科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Najas tenuicaulis（ヒメイバラモ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（２８）　すいれん科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3578,7 +4057,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（２７）　らん科</Sentence>
+              <Sentence>（２９）　らん科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3586,7 +4065,7 @@
               <Sentence>１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Anoectochilus formosanus（キバナシュスラン）</Sentence>
+              <Sentence>Acanthephippium pictum（エンレイショウキラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3594,7 +4073,7 @@
               <Sentence>２</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Anoectochilus koshunensis（コウシュンシュスラン）</Sentence>
+              <Sentence>Anoectochilus formosanus（キバナシュスラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3602,7 +4081,7 @@
               <Sentence>３</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Calanthe hattorii（アサヒエビネ）</Sentence>
+              <Sentence>Anoectochilus koshunensis（コウシュンシュスラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3610,7 +4089,7 @@
               <Sentence>４</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Calanthe hoshii（ホシツルラン）</Sentence>
+              <Sentence>Calanthe formosana（タイワンエビネ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3618,7 +4097,7 @@
               <Sentence>５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Cryptostylis arachnites（オオスズムシラン）</Sentence>
+              <Sentence>Calanthe hattorii（アサヒエビネ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3626,7 +4105,7 @@
               <Sentence>６</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Cryptostylis taiwaniana（タカオオオスズムシラン）</Sentence>
+              <Sentence>Calanthe hoshii（ホシツルラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3634,7 +4113,7 @@
               <Sentence>７</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Cypripedium guttatum（チョウセンキバナアツモリソウ）</Sentence>
+              <Sentence>Crepidium kandae（カンダヒメラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3642,7 +4121,7 @@
               <Sentence>８</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Cypripedium macranthos var. macranthos（ホテイアツモリ）</Sentence>
+              <Sentence>Cryptostylis arachnites（オオスズムシラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3650,7 +4129,7 @@
               <Sentence>９</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Cypripedium macranthos var. rebunense（レブンアツモリソウ）</Sentence>
+              <Sentence>Cryptostylis taiwaniana（タカオオオスズムシラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3658,7 +4137,7 @@
               <Sentence>１０</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Cypripedium macranthos var. speciosum（アツモリソウ）</Sentence>
+              <Sentence>Cypripedium guttatum（チョウセンキバナアツモリソウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3666,7 +4145,7 @@
               <Sentence>１１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Dendrobium okinawense（オキナワセッコク）</Sentence>
+              <Sentence>Cypripedium macranthos var. macranthos（ホテイアツモリ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3674,7 +4153,7 @@
               <Sentence>１２</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Gastrodia albida（ヤクシマヤツシロラン）</Sentence>
+              <Sentence>Cypripedium macranthos var. rebunense（レブンアツモリソウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3682,7 +4161,7 @@
               <Sentence>１３</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Gastrodia uraiensis（タブガワヤツシロラン）</Sentence>
+              <Sentence>Cypripedium macranthos var. speciosum（アツモリソウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3690,7 +4169,7 @@
               <Sentence>１４</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Goodyera fumata（ヤブミョウガラン）</Sentence>
+              <Sentence>Dendrobium okinawense（オキナワセッコク）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3698,7 +4177,7 @@
               <Sentence>１５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Habenaria stenopetala（テツオサギソウ）</Sentence>
+              <Sentence>Eulophia taiwanensis（タカサゴヤガラ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3706,7 +4185,7 @@
               <Sentence>１６</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Hancockia uniflora（ヒメクリソラン）</Sentence>
+              <Sentence>Gastrodia albida（ヤクシマヤツシロラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3714,7 +4193,7 @@
               <Sentence>１７</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Hetaeria oblongifolia（オオカゲロウラン）</Sentence>
+              <Sentence>Gastrodia uraiensis（タブガワヤツシロラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3722,7 +4201,7 @@
               <Sentence>１８</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Liparis viridiflora（コゴメキノエラン）</Sentence>
+              <Sentence>Goodyera fumata（ヤブミョウガラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3730,7 +4209,7 @@
               <Sentence>１９</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Macodes petola（ナンバンカモメラン）</Sentence>
+              <Sentence>Habenaria stenopetala（テツオサギソウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3738,7 +4217,7 @@
               <Sentence>２０</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Malaxis boninensis（シマホザキラン）</Sentence>
+              <Sentence>Hancockia uniflora（ヒメクリソラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3746,7 +4225,7 @@
               <Sentence>２１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Odontochilus hatusimanus（ハツシマラン）</Sentence>
+              <Sentence>Hetaeria oblongifolia（オオカゲロウラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3754,7 +4233,7 @@
               <Sentence>２２</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Odontochilus tashiroi（オオギミラン）</Sentence>
+              <Sentence>Liparis nikkoensis（ヒメスズムシソウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3762,7 +4241,7 @@
               <Sentence>２３</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Peristylus lacertifer（タコガタサギソウ）</Sentence>
+              <Sentence>Liparis viridiflora（コゴメキノエラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3770,7 +4249,7 @@
               <Sentence>２４</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Phaius mishmensis（ヒメカクラン）</Sentence>
+              <Sentence>Macodes petola（ナンバンカモメラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3778,7 +4257,7 @@
               <Sentence>２５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Platanthera boninensis（シマツレサギソウ）</Sentence>
+              <Sentence>Malaxis boninensis（シマホザキラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3786,7 +4265,7 @@
               <Sentence>２６</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Platanthera okuboi（ハチジョウツレサギ）</Sentence>
+              <Sentence>Odontochilus hatusimanus（ハツシマラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3794,7 +4273,7 @@
               <Sentence>２７</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Platanthera sonoharae（クニガミトンボソウ）</Sentence>
+              <Sentence>Odontochilus nanlingensis（ヒメシラヒゲラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3802,7 +4281,7 @@
               <Sentence>２８</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Platanthera stenoglossa ssp. iriomotensis（イリオモテトンボソウ）</Sentence>
+              <Sentence>Odontochilus tashiroi（オオギミラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3810,7 +4289,7 @@
               <Sentence>２９</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Thrixspermum fantasticum（ハガクレナガミラン）</Sentence>
+              <Sentence>Oreorchis itoana（コハクラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3818,12 +4297,68 @@
               <Sentence>３０</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
+              <Sentence>Peristylus lacertifer（タコガタサギソウ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Phaius mishmensis（ヒメカクラン）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Platanthera boninensis（シマツレサギソウ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３３</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Platanthera okuboi（ハチジョウツレサギ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３４</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Platanthera sonoharae（クニガミトンボソウ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３５</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Platanthera stenoglossa ssp. iriomotensis（イリオモテトンボソウ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３６</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Thrixspermum fantasticum（ハガクレナガミラン）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３７</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>Vrydagzynea nuda（ミソボシラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（２８）　きじのおしだ科</Sentence>
+              <Sentence>（３０）　きじのおしだ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3836,7 +4371,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（２９）　こしょう科</Sentence>
+              <Sentence>（３１）　こしょう科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3849,7 +4384,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（３０）　とべら科</Sentence>
+              <Sentence>（３２）　とべら科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3862,7 +4397,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（３１）　いね科</Sentence>
+              <Sentence>（３３）　いね科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3875,7 +4410,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（３２）　はなしのぶ科</Sentence>
+              <Sentence>（３４）　はなしのぶ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3888,7 +4423,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（３３）　ひめはぎ科</Sentence>
+              <Sentence>（３５）　ひめはぎ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3901,7 +4436,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（３４）　たで科</Sentence>
+              <Sentence>（３６）　たで科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3922,7 +4457,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（３５）　うらぼし科</Sentence>
+              <Sentence>（３７）　うらぼし科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3951,7 +4486,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（３６）　ひるむしろ科</Sentence>
+              <Sentence>（３８）　ひるむしろ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3964,7 +4499,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（３７）　さくらそう科</Sentence>
+              <Sentence>（３９）　さくらそう科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3977,7 +4512,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（３８）　いのもとそう科</Sentence>
+              <Sentence>（４０）　いのもとそう科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3985,20 +4520,7 @@
               <Sentence>１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Pteris formosana（タイワンアマクサシダ）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" colspan="2">
-              <Sentence>（３９）　きんぽうげ科</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top">
-              <Sentence>１</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>Callianthemum hondoense（キタダケソウ）</Sentence>
+              <Sentence>Cheilanthes krameri（イワウラジロ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4006,7 +4528,7 @@
               <Sentence>２</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Callianthemum kirigishiense（キリギシソウ）</Sentence>
+              <Sentence>Haplopteris yakushimensis（オオバシシラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4014,7 +4536,36 @@
               <Sentence>３</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Ranunculus pygmaeus（クモマキンポウゲ）</Sentence>
+              <Sentence>Pteris formosana（タイワンアマクサシダ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（４１）　きんぽうげ科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Aconitum ciliare（ハナカズラ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Aconitum iidemontanum（イイデトリカブト）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Aconitum metajaponicum（オンタケブシ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4022,12 +4573,44 @@
               <Sentence>４</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
+              <Sentence>Callianthemum hondoense（キタダケソウ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>５</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Callianthemum kirigishiense（キリギシソウ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>６</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Ranunculus pygmaeus（クモマキンポウゲ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>７</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Ranunculus yatsugatakensis（ヤツガタケキンポウゲ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>８</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>Thalictrum uchiyamae（ムラサキカラマツ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（４０）　くろうめもどき科</Sentence>
+              <Sentence>（４２）　くろうめもどき科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4040,7 +4623,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（４１）　あかね科</Sentence>
+              <Sentence>（４３）　あかね科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4053,7 +4636,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（４２）　ゆきのした科</Sentence>
+              <Sentence>（４４）　ゆきのした科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4073,8 +4656,29 @@
             </TableColumn>
           </TableRow>
           <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Mitella amamiana（アマミチャルメルソウ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（４３）　なす科</Sentence>
+              <Sentence>（４５）　ごまのはぐさ科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Veronicastrum noguchii（イスミスズカケ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（４６）　なす科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4087,7 +4691,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（４４）　きぶし科</Sentence>
+              <Sentence>（４７）　きぶし科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4108,7 +4712,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（４５）　はいのき科</Sentence>
+              <Sentence>（４８）　はいのき科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4121,7 +4725,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（４６）　ななばけしだ科</Sentence>
+              <Sentence>（４９）　ななばけしだ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4142,7 +4746,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（４７）　ひめしだ科</Sentence>
+              <Sentence>（５０）　ひめしだ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4155,7 +4759,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（４８）　しなのき科</Sentence>
+              <Sentence>（５１）　しなのき科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4176,7 +4780,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（４９）　ほんごうそう科</Sentence>
+              <Sentence>（５２）　ほんごうそう科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4189,7 +4793,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（５０）　いらくさ科</Sentence>
+              <Sentence>（５３）　いらくさ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4210,7 +4814,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（５１）　おみなえし科</Sentence>
+              <Sentence>（５４）　おみなえし科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4223,7 +4827,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（５２）　くまつづら科</Sentence>
+              <Sentence>（５５）　くまつづら科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4232,6 +4836,35 @@
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Callicarpa parvifolia（ウラジロコムラサキ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（５６）　すみれ科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Viola tashiroi var. tairae（イシガキスミレ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Viola thibaudieri（タデスミレ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Viola utchinensis（オキナワスミレ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -13959,7 +14592,7 @@
               <Sentence>８</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Arisaema nagiense（ナギヒロハテンナンショウ）</Sentence>
+              <Sentence>Arisaema minamitanii（ヒュウガヒロハテンナンショウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -13967,12 +14600,20 @@
               <Sentence>９</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Arisaema ogatae（オガタテンナンショウ）</Sentence>
+              <Sentence>Arisaema nagiense（ナギヒロハテンナンショウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
               <Sentence>１０</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Arisaema ogatae（オガタテンナンショウ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Arisaema seppikoense（セッピコテンナンショウ）</Sentence>
@@ -14012,7 +14653,7 @@
               <Sentence>４</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Asarum monodoriflorum（モノドラカンアオイ）</Sentence>
+              <Sentence>Asarum misandrum（アソサイシン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14020,7 +14661,7 @@
               <Sentence>５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Asarum okinawense（ヒナカンアオイ）</Sentence>
+              <Sentence>Asarum mitoanum（フクエジマカンアオイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14028,7 +14669,7 @@
               <Sentence>６</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Asarum sakawanum var. stellatum（ホシザキカンアオイ）</Sentence>
+              <Sentence>Asarum monodoriflorum（モノドラカンアオイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14036,7 +14677,7 @@
               <Sentence>７</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Asarum satsumense（サツマアオイ）</Sentence>
+              <Sentence>Asarum okinawense（ヒナカンアオイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14044,12 +14685,41 @@
               <Sentence>８</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
+              <Sentence>Asarum sakawanum var. stellatum（ホシザキカンアオイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>９</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Asarum satsumense（サツマアオイ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１０</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>Asarum yaeyamense（ヤエヤマカンアオイ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（４）　きく科</Sentence>
+              <Sentence>（４）　すいかずら科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Lonicera fragrantissima（ツシマヒョウタンボク）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（５）　きく科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14070,7 +14740,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（５）　あぶらな科</Sentence>
+              <Sentence>（６）　あぶらな科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14078,12 +14748,20 @@
               <Sentence>１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
+              <Sentence>Berteroella maximowiczii（ハナナズナ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>Draba igarashii（シリベシナズナ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（６）　おしだ科</Sentence>
+              <Sentence>（７）　おしだ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14096,7 +14774,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（７）　ほしくさ科</Sentence>
+              <Sentence>（８）　ほしくさ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14109,7 +14787,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（８）　りんどう科</Sentence>
+              <Sentence>（９）　りんどう科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14122,7 +14800,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（９）　ふうろそう科</Sentence>
+              <Sentence>（１０）　ふうろそう科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14135,12 +14813,20 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１０）　ゆり科</Sentence>
+              <Sentence>（１１）　ゆり科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
               <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Asparagus oligoclonos（タマボウキ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>Chionographis koidzumiana var. kurokamiana（クロカミシライトソウ）</Sentence>
@@ -14148,39 +14834,10 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
-              <Sentence>２</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>Fritillaria kaiensis（カイコバイモ）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" colspan="2">
-              <Sentence>（１１）　らん科</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top">
-              <Sentence>１</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>Anoectochilus formosanus（キバナシュスラン）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top">
-              <Sentence>２</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>Cypripedium macranthos var. macranthos（ホテイアツモリ）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top">
               <Sentence>３</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Cypripedium macranthos var. rebunense（レブンアツモリソウ）</Sentence>
+              <Sentence>Fritillaria kaiensis（カイコバイモ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14188,7 +14845,7 @@
               <Sentence>４</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Cypripedium macranthos var. speciosum（アツモリソウ）</Sentence>
+              <Sentence>Tricyrtis ishiiana var. ishiiana（サガミジョウロウホトトギス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14196,7 +14853,7 @@
               <Sentence>５</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Dendrobium okinawense（オキナワセッコク）</Sentence>
+              <Sentence>Tricyrtis ishiiana var. surugensis（スルガジョウロウホトトギス）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14204,7 +14861,60 @@
               <Sentence>６</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Macodes petola（ナンバンカモメラン）</Sentence>
+              <Sentence>Tricyrtis perfoliata（キバナノツキヌキホトトギス）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（１２）　らん科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Acanthephippium pictum（エンレイショウキラン）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Anoectochilus formosanus（キバナシュスラン）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Crepidium kandae（カンダヒメラン）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>４</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Cypripedium macranthos var. macranthos（ホテイアツモリ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>５</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Cypripedium macranthos var. rebunense（レブンアツモリソウ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>６</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Cypripedium macranthos var. speciosum（アツモリソウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14212,7 +14922,7 @@
               <Sentence>７</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Odontochilus hatusimanus（ハツシマラン）</Sentence>
+              <Sentence>Dendrobium okinawense（オキナワセッコク）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14220,12 +14930,28 @@
               <Sentence>８</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
+              <Sentence>Macodes petola（ナンバンカモメラン）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>９</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Odontochilus hatusimanus（ハツシマラン）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１０</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>Odontochilus tashiroi（オオギミラン）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１２）　はなしのぶ科</Sentence>
+              <Sentence>（１３）　はなしのぶ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14238,7 +14964,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１３）　うらぼし科</Sentence>
+              <Sentence>（１４）　うらぼし科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14251,7 +14977,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１４）　きんぽうげ科</Sentence>
+              <Sentence>（１５）　きんぽうげ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14259,7 +14985,7 @@
               <Sentence>１</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Callianthemum hondoense（キタダケソウ）</Sentence>
+              <Sentence>Aconitum ciliare（ハナカズラ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14267,7 +14993,7 @@
               <Sentence>２</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>Callianthemum kirigishiense（キリギシソウ）</Sentence>
+              <Sentence>Callianthemum hondoense（キタダケソウ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14275,12 +15001,28 @@
               <Sentence>３</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
+              <Sentence>Callianthemum kirigishiense（キリギシソウ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>４</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Ranunculus yatsugatakensis（ヤツガタケキンポウゲ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>５</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>Thalictrum uchiyamae（ムラサキカラマツ）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
-              <Sentence>（１５）　ななばけしだ科</Sentence>
+              <Sentence>（１６）　ななばけしだ科</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14293,6 +15035,35 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" colspan="2">
+              <Sentence>（１７）　すみれ科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Viola tashiroi var. tairae（イシガキスミレ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>２</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Viola thibaudieri（タデスミレ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>３</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Viola utchinensis（オキナワスミレ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
               <Sentence>備考　括弧内に記載する呼称は、学名に相当する和名である。</Sentence>
             </TableColumn>
           </TableRow>
@@ -14300,7 +15071,103 @@
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle>別表第四　器官及び加工品</AppdxTableTitle>
+      <AppdxTableTitle>別表第四　特定第二種国内希少野生動植物種</AppdxTableTitle>
+      <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>項</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>種名</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>第一　動物界</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>一　両生綱</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>イ　有尾目</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（１）　さんしょううお科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Hynobius tokyoensis（トウキョウサンショウウオ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>二　条<Ruby>鰭<Rt>き</Rt>
+</Ruby>亜綱</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>イ　こい目</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（１）　こい科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Hemigrammocypris neglectus（カワバタモロコ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>三　昆虫綱</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>イ　かめむし目</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>（１）　こおいむし科</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>１</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>Kirkaldyia deyrolli（タガメ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>備考　括弧内に記載する呼称は、学名に相当する和名である。</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第五　器官及び加工品</AppdxTableTitle>
       <RelatedArticleNum>（第三条、第四条関係）</RelatedArticleNum>
       <TableStruct>
         <Table>
@@ -15288,7 +16155,7 @@
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle>別表第五　原材料器官等</AppdxTableTitle>
+      <AppdxTableTitle>別表第六　原材料器官等</AppdxTableTitle>
       <RelatedArticleNum>（第五条、第十条、第十三条、第十八条関係）</RelatedArticleNum>
       <TableStruct>
         <Table>
@@ -15351,7 +16218,7 @@
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle>別表第六　登録対象個体群</AppdxTableTitle>
+      <AppdxTableTitle>別表第七　登録対象個体群</AppdxTableTitle>
       <RelatedArticleNum>（第八条、第九条関係）</RelatedArticleNum>
       <TableStruct>
         <Table>
