@@ -529,6 +529,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月七日外務省令第七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この省令による改正後の在外公館に勤務する外務公務員の休暇帰国に関する省令別表の規定は、令和二年四月一日から適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表（第一条関係）</AppdxTableTitle>
       <TableStruct>
@@ -619,7 +629,8 @@
               <Sentence WritingMode="vertical">キエフ（ウクライナ）</Sentence>
               <Sentence WritingMode="vertical">タシケント（ウズベキスタン）</Sentence>
               <Sentence WritingMode="vertical">タリン（エストニア）</Sentence>
-              <Sentence WritingMode="vertical">アスタナ（カザフスタン）</Sentence>
+              <Sentence WritingMode="vertical">ヌルスルタン（カザフスタン）</Sentence>
+              <Sentence WritingMode="vertical">スコピエ（北マケドニア）</Sentence>
               <Sentence WritingMode="vertical">ビシュケク（キルギス）</Sentence>
               <Sentence WritingMode="vertical">ザグレブ（クロアチア）</Sentence>
               <Sentence WritingMode="vertical">プリシュティナ（コソボ）</Sentence>
@@ -631,7 +642,6 @@
               <Sentence WritingMode="vertical">ミンスク（ベラルーシ）</Sentence>
               <Sentence WritingMode="vertical">ワルシャワ（ポーランド）</Sentence>
               <Sentence WritingMode="vertical">サラエボ（ボスニア・ヘルツェゴビナ）</Sentence>
-              <Sentence WritingMode="vertical">スコピエ（マケドニア旧ユーゴスラビア共和国）</Sentence>
               <Sentence WritingMode="vertical">キシニョフ（モルドバ）</Sentence>
               <Sentence WritingMode="vertical">リガ（ラトビア）</Sentence>
               <Sentence WritingMode="vertical">ビリニュス（リトアニア）</Sentence>

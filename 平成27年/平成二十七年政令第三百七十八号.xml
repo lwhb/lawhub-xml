@@ -214,6 +214,17 @@
               </Column>
             </ItemSentence>
           </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">附則第三条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">平成三十二年七月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="2">
@@ -229,6 +240,21 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">前項に規定する特定水銀使用製品に係る法附則第三条の承認を受けようとする者は、前条第二号に掲げる規定の施行の日前においても、その申請を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一条第一号（ボタン電池であるアルカリマンガン電池に限る。）、第二号、第五号及び第八号（マーキュロクロム液に限る。）から第十三号までに掲げる特定水銀使用製品に係る法第六条第一項の許可を受けようとする者は、附則第一条第四号に掲げる規定の施行の日前においても、法第六条第二項の規定の例により、その申請を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項に規定する特定水銀使用製品に係る次条の承認を受けようとする者は、附則第一条第四号に掲げる規定の施行の日前においても、その申請を行うことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

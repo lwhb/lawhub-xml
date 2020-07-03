@@ -181,7 +181,7 @@
                   <Sentence WritingMode="vertical">商品</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">法第二条第二十四項第三号の二に規定する商品をいう。</Sentence>
+                  <Sentence WritingMode="vertical">法第二条第二十四項第三号の三に規定する商品をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -689,12 +689,12 @@
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="3">
-          <ArticleCaption>（外国通貨の換算）</ArticleCaption>
+          <ArticleCaption>（外国通貨又は暗号資産の換算）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法、令第五章若しくは第五章の二又はこの府令の規定により内閣総理大臣等に提出する書類中、外国通貨をもって金額を表示するものがあるときは、当該金額を本邦通貨に換算した金額及びその換算に用いた標準を付記しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">法、令第五章若しくは第五章の二又はこの府令の規定により内閣総理大臣等に提出する書類中、外国通貨又は暗号資産（資金決済に関する法律（平成二十一年法律第五十九号）第二条第五項に規定する暗号資産をいう。）をもって金額又は数量を表示するものがあるときは、当該金額又は数量を本邦通貨に換算した金額及びその換算に用いた標準を付記しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -8146,6 +8146,29 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日内閣府令第三五号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの府令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一（第七十四条、第七十五条関係）</AppdxTableTitle>
       <TableStruct>
@@ -8381,7 +8404,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第一号（第四十五条及び第六十条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_001.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8389,7 +8412,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第二号（第百十一条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_002.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8397,7 +8420,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第三号（第百十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_003.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8405,7 +8428,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第四号（第百十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_004.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8413,7 +8436,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第五号（第百十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_005.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8421,7 +8444,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第六号（第百十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_006.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8429,7 +8452,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第七号（第百十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_007.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8437,7 +8460,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第八号（第百十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_008.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8445,7 +8468,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第九号（第百十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_009.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8453,7 +8476,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十号（第百十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_010.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8461,7 +8484,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十一号（第百十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_011.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8469,7 +8492,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十二号（第百十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_012.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8477,7 +8500,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十三号（第百十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_013.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8485,7 +8508,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十四号（第百十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_014.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8493,7 +8516,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十五号（第百十七条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_015.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8501,7 +8524,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十六号（第百十九条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000054_2003111303_016.pdf"/>
+          <Fig src="./pict/H19F10001000054_2005081705_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

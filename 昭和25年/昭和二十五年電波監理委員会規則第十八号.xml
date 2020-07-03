@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="20200312e06k04m01" Era="Showa" Lang="ja" LawType="Rule" Num="18" Year="25">
+<Law DataInfo="20200624e04k04m01" Era="Showa" Lang="ja" LawType="Rule" Num="18" Year="25">
   <LawNum>昭和二十五年電波監理委員会規則第十八号</LawNum>
   <LawBody>
     <LawTitle>無線設備規則</LawTitle>
@@ -1126,7 +1126,7 @@
                       <Sentence>六　次に掲げる送信設備</Sentence>
                       <Sentence>（一）　七六ＭＨｚを超え九五ＭＨｚ以下の周波数の電波を使用する受信障害対策中継放送（超短波放送（デジタル放送を除く。）に係るものに限る。）を行う地上基幹放送局の送信設備であつて、空中線電力が〇・二五ワット以下のもの</Sentence>
                       <Sentence>（二）　一七〇ＭＨｚを超え四七〇ＭＨｚ以下の周波数の電波を使用する無線局の送信設備（第四十九条の三十において無線設備の条件が定められている無線局の送信設備に限る。）</Sentence>
-                      <Sentence>（三）　四七〇ＭＨｚを超える周波数の電波を使用する無線局の送信設備（第四十九条の六から第四十九条の七の三まで、第四十九条の八の二、第四十九条の八の三、第四十九条の十六（四七〇ＭＨｚを超え七一四ＭＨｚ以下の周波数の電波を使用するものに限る。）、第四十九条の十六の二（四七〇ＭＨｚを超え七一四ＭＨｚ以下の周波数の電波を使用するものに限る。）及び第五十四条第四号において無線設備の条件が定められている無線局並びに一、二一五ＭＨｚを超え二、六九〇ＭＨｚ以下の周波数の角度変調の電波を使用する単一通信路の陸上移動業務の無線局（第四十九条の十六（一、二四〇ＭＨｚを超え一、二六〇ＭＨｚ以下の周波数の電波を使用するものに限る。）及び第四十九条の十六の二（一、二四〇ＭＨｚを超え一、二六〇ＭＨｚ以下の周波数の電波を使用するものに限る。）において無線設備の条件が定められているものを除く。）の送信設備並びにこの表の二の項、四の項、七の項から九の項まで、十六の項及び十七の項に掲げるものを除く。）</Sentence>
+                      <Sentence>（三）　四七〇ＭＨｚを超える周波数の電波を使用する無線局の送信設備（第四十九条の六から第四十九条の七の三まで、第四十九条の八の二、第四十九条の八の三、第四十九条の十六（四七〇ＭＨｚを超え七一四ＭＨｚ以下の周波数の電波を使用するものに限る。）及び第四十九条の十六の二（四七〇ＭＨｚを超え七一四ＭＨｚ以下の周波数の電波を使用するものに限る。）において無線設備の条件が定められている無線局並びに一、二一五ＭＨｚを超え二、六九〇ＭＨｚ以下の周波数の角度変調の電波を使用する単一通信路の陸上移動業務の無線局（第四十九条の十六（一、二四〇ＭＨｚを超え一、二六〇ＭＨｚ以下の周波数の電波を使用するものに限る。）及び第四十九条の十六の二（一、二四〇ＭＨｚを超え一、二六〇ＭＨｚ以下の周波数の電波を使用するものに限る。）において無線設備の条件が定められているものを除く。）の送信設備並びにこの表の二の項、四の項、七の項から九の項まで、十六の項及び十七の項に掲げるものを除く。）</Sentence>
                     </TableColumn>
                     <TableColumn Valign="top">
                       <Sentence>五〇</Sentence>
@@ -13465,7 +13465,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>ＡＣＡＳⅠ（ＡＣＡＳであつて、表示する情報が位置情報のみのものをいう。）は、次に掲げる条件に適合すること。</Sentence>
+                  <Sentence>ＡＣＡＳＩ（ＡＣＡＳであつて、表示する情報が位置情報のみのものをいう。）は、次に掲げる条件に適合すること。</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -13575,7 +13575,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>ＡＣＡＳⅠⅠ（ＡＣＡＳであつて、表示する情報が位置情報及び垂直方向の回避情報のものをいう。）は、次に掲げる条件に適合すること。</Sentence>
+                  <Sentence>ＡＣＡＳＩＩ（ＡＣＡＳであつて、表示する情報が位置情報及び垂直方向の回避情報のものをいう。）は、次に掲げる条件に適合すること。</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -22422,8 +22422,8 @@
                             <Sentence Num="2">七五・二ＭＨｚ未満</Sentence>
                           </TableColumn>
                           <TableColumn>
-                            <Sentence Num="1">一五マイクロワット以下</Sentence>
-                            <Sentence Num="2">ただし、五・二ＧＨｚ帯高出力データ通信システムの基地局又は陸上移動中継局の五、二一〇ＭＨｚの周波数の電波と同時に使用する場合にあつては、五〇マイクロワット以下</Sentence>
+                            <Sentence Function="main" Num="1">一五マイクロワット以下</Sentence>
+                            <Sentence Function="proviso" Num="2">ただし、五・二ＧＨｚ帯高出力データ通信システムの基地局又は陸上移動中継局の五、二一〇ＭＨｚの周波数の電波と同時に使用する場合にあつては、五〇マイクロワット以下</Sentence>
                           </TableColumn>
                         </TableRow>
                         <TableRow>
@@ -28021,163 +28021,8 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>九〇〇ＭＨｚ帯の周波数の電波を使用するもの</Sentence>
+                  <Sentence>削除</Sentence>
                 </ItemSentence>
-                <Subitem1 Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence>一般的条件</Sentence>
-                  </Subitem1Sentence>
-                  <Subitem2 Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence>通信方式は、単信方式であること。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence>変調方式は、周波数変調であること。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="3">
-                    <Subitem2Title>（３）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence>発振方式は、発振周波数を水晶発振により制御する周波数シンセサイザ方式であること。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="4">
-                    <Subitem2Title>（４）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence Function="main" Num="1">一の筐体に収められており、かつ、容易に開けることができないこと。</Sentence>
-                      <Sentence Function="proviso" Num="2">ただし、空中線、給電線、電源設備、送話器、受話器その他総務大臣が別に告示するものについては、この限りでない。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="5">
-                    <Subitem2Title>（５）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence>送信空中線は、その絶対利得が七・一四デシベル以下であり、かつ、その水平面の指向特性が無指向性であること。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="6">
-                    <Subitem2Title>（６）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence>使用する電波の周波数の選択、送信及び受信の手順並びに制御信号の構成は、総務大臣が別に告示するところによるものであること。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="7">
-                    <Subitem2Title>（７）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence>使用する電波の周波数の選択、送信及び受信の手順を書き込んだ記憶装置は、その内容を変更できないものであり、かつ、当該記憶装置によつて制御される処理装置と一体構造であること。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="8">
-                    <Subitem2Title>（８）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence>使用する電波の周波数（当該周波数を表すこととなるチャネル番号を含む。）及び受信した制御信号の内容は、表示されないこと。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="9">
-                    <Subitem2Title>（９）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence>総務大臣が別に告示で定める周波数以外の電波の発射ができないものであること。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="10">
-                    <Subitem2Title>（１０）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence>電波の発射を開始及び停止するとき並びに電波の発射が継続する場合は六〇秒ごとに、自動的に制御信号のみを送信すること。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="11">
-                    <Subitem2Title>（１１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence>無線設備の故障によりＦ二Ｄ電波の発射が継続的に行われるときは、その時間が六〇秒になる前に、自動的にその発射を停止すること。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                </Subitem1>
-                <Subitem1 Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence>送信装置の条件</Sentence>
-                  </Subitem1Sentence>
-                  <Subitem2 Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence>Ｆ二Ｄ電波を使用する送信装置</Sentence>
-                    </Subitem2Sentence>
-                    <Subitem3 Num="1">
-                      <Subitem3Title>（イ）</Subitem3Title>
-                      <Subitem3Sentence>
-                        <Sentence>変調信号は、次のとおりであること。</Sentence>
-                      </Subitem3Sentence>
-                      <Subitem4 Num="1">
-                        <Subitem4Title>（一）</Subitem4Title>
-                        <Subitem4Sentence>
-                          <Sentence>符号形式は、ＮＲＺ符号であること。</Sentence>
-                        </Subitem4Sentence>
-                      </Subitem4>
-                      <Subitem4 Num="2">
-                        <Subitem4Title>（二）</Subitem4Title>
-                        <Subitem4Sentence>
-                          <Sentence>信号伝送速度は、毎秒一、二〇〇ビット（許容偏差は、百万分の二〇〇とする。）であること。</Sentence>
-                        </Subitem4Sentence>
-                      </Subitem4>
-                      <Subitem4 Num="3">
-                        <Subitem4Title>（三）</Subitem4Title>
-                        <Subitem4Sentence>
-                          <Sentence>ＭＳＫ方式により変調されたものであつて、マーク周波数が一、二〇〇ヘルツ及びスペース周波数が一、八〇〇ヘルツ（許容偏差は、それぞれ百万分の二〇〇とする。）であるものであること。</Sentence>
-                        </Subitem4Sentence>
-                      </Subitem4>
-                    </Subitem3>
-                    <Subitem3 Num="2">
-                      <Subitem3Title>（ロ）</Subitem3Title>
-                      <Subitem3Sentence>
-                        <Sentence>周波数偏移は、変調のないときの搬送波の周波数より（±）二・五ｋＨｚを超え（±）五ｋＨｚ以内であること。</Sentence>
-                      </Subitem3Sentence>
-                    </Subitem3>
-                  </Subitem2>
-                  <Subitem2 Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence>Ｆ三Ｅ電波を使用する送信装置</Sentence>
-                    </Subitem2Sentence>
-                    <Subitem3 Num="1">
-                      <Subitem3Title>（イ）</Subitem3Title>
-                      <Subitem3Sentence>
-                        <Sentence>変調周波数は、三、〇〇〇ヘルツ以内であること。</Sentence>
-                      </Subitem3Sentence>
-                    </Subitem3>
-                    <Subitem3 Num="2">
-                      <Subitem3Title>（ロ）</Subitem3Title>
-                      <Subitem3Sentence>
-                        <Sentence>周波数偏移は、変調のないときの搬送波の周波数より（±）五ｋＨｚ以内であること。</Sentence>
-                      </Subitem3Sentence>
-                    </Subitem3>
-                    <Subitem3 Num="3">
-                      <Subitem3Title>（ハ）</Subitem3Title>
-                      <Subitem3Sentence>
-                        <Sentence>周波数偏移が（ロ）に規定する値を超えることを防ぐ自動的制御装置を備え付けていること。</Sentence>
-                      </Subitem3Sentence>
-                    </Subitem3>
-                    <Subitem3 Num="4">
-                      <Subitem3Title>（ニ）</Subitem3Title>
-                      <Subitem3Sentence>
-                        <Sentence>（ハ）の自動的制御装置と変調器との間に低域ろ波器（三ｋＨｚから一五ｋＨｚまでの間の各周波数について、当該各周波数における減衰量と一ｋＨｚにおける減衰量との比が次の式により求められる値以上となるものに限る。）を備え付けていること。</Sentence>
-                      </Subitem3Sentence>
-                      <List>
-                        <ListSentence>
-                          <Sentence>６０ｌｏｇ１０（ｆ／３）デシベル</Sentence>
-                        </ListSentence>
-                      </List>
-                      <List>
-                        <ListSentence>
-                          <Sentence>ｆは、３ｋＨｚから１５ｋＨｚまでの間の当該各周波数（単位ｋＨｚ）とする。</Sentence>
-                        </ListSentence>
-                      </List>
-                    </Subitem3>
-                  </Subitem2>
-                </Subitem1>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
@@ -37485,6 +37330,48 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年一〇月四日総務省令第五八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令は、平成三十一年一月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">この省令による改正前の様式又は書式により調製した用紙については、この省令の施行後においても当分の間、使用することができる。</Sentence>
+            <Sentence Num="2">この場合、この省令による改正前の様式又は書式により調製した用紙を修補して使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この省令の施行の際現に免許を受けている九〇〇ＭＨｚ帯の周波数の電波を使用する簡易無線局の無線設備の条件については、この省令による改正後の設備規則の規定にかかわらず、当該簡易無線局の免許の有効期間の間は、なお従前の例によることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この省令の施行の際現に受けているこの省令による改正前の証明規則第二条第一項第四号の無線設備に係る技術基準適合証明又は工事設計認証は、この省令の施行後においても、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この省令の施行の際現に付されているこの省令による改正前の証明規則第二条第一項第四号に掲げる特定無線設備に係る表示は、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一号　周波数の許容偏差の表</AppdxTableTitle>
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
@@ -40794,7 +40681,7 @@
                     <Subitem1Title>（１）</Subitem1Title>
                     <Subitem1Sentence>
                       <Column Num="1">
-                        <Sentence>ＡＣＡＳⅠ</Sentence>
+                        <Sentence>ＡＣＡＳＩ</Sentence>
                       </Column>
                       <Column Num="2">
                         <Sentence>２００ｋＨｚ</Sentence>
@@ -40805,7 +40692,7 @@
                     <Subitem1Title>（２）</Subitem1Title>
                     <Subitem1Sentence>
                       <Column Num="1">
-                        <Sentence>ＡＣＡＳⅠⅠ</Sentence>
+                        <Sentence>ＡＣＡＳＩＩ</Sentence>
                       </Column>
                       <Column Num="2">
                         <Sentence>１０ｋＨｚ</Sentence>

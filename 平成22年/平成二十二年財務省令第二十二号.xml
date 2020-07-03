@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="22" Year="22">
+<Law DataInfo="200701e03k04m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="22" Year="22">
   <LawNum>平成二十二年財務省令第二十二号</LawNum>
   <LawBody>
     <LawTitle>租税特別措置の適用状況の透明化等に関する法律施行規則</LawTitle>
@@ -4342,12 +4342,10 @@
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、令和元年七月一日から施行する。</Sentence>
         </ParagraphSentence>
-        <List>
-          <ListSentence>
-            <Sentence WritingMode="vertical">附 則（令和二年三月三一日財務省令第二五号）</Sentence>
-          </ListSentence>
-        </List>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日財務省令第二五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
@@ -4367,24 +4365,11 @@
           <ParagraphSentence>
             <Sentence WritingMode="vertical">別段の定めがあるものを除き、改正後の租税特別措置の適用状況の透明化等に関する法律施行規則（以下「新規則」という。）第四条の規定は、法人（法人税法（昭和四十年法律第三十四号）第二条第八号に規定する人格のない社団等を含む。以下同じ。）のこの省令の施行の日以後に終了する事業年度に係る法人税の申告及び連結法人（同法第二条第十二号の七の二に規定する連結法人をいう。以下同じ。）の同日以後に終了する連結事業年度（租税特別措置の適用状況の透明化等に関する法律（平成二十二年法律第八号）第二条第一項第六号に規定する連結事業年度をいう。以下同じ。）に係る法人税の申告について適用し、法人の同日前に終了した事業年度に係る法人税の申告及び連結法人の同日前に終了した連結事業年度に係る法人税の申告については、なお従前の例による。</Sentence>
           </ParagraphSentence>
-          <List>
-            <ListSentence>
-              <Column Num="1">
-                <Sentence>附</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence>則</Sentence>
-              </Column>
-              <Column Num="3">
-                <Sentence>（令和二年四月一〇日財務省令第四一号）</Sentence>
-              </Column>
-              <Column Num="4">
-                <Sentence>抄</Sentence>
-              </Column>
-            </ListSentence>
-          </List>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月一〇日財務省令第四一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>

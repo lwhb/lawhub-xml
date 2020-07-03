@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="059" Year="19">
+<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="059" Year="19">
   <LawNum>平成十九年内閣府令第五十九号</LawNum>
   <LawBody>
     <LawTitle>有価証券の取引等の規制に関する内閣府令</LawTitle>
@@ -518,12 +518,12 @@
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="3">
-          <ArticleCaption>（外国通貨の換算）</ArticleCaption>
+          <ArticleCaption>（外国通貨又は暗号資産の換算）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法、令又はこの府令の規定により財務局長又は福岡財務支局長に提出する書類中、外国通貨をもって金額を表示するものがあるときは、当該金額を本邦通貨に換算した金額及びその換算に用いた標準を付記しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">法、令又はこの府令の規定により財務局長又は福岡財務支局長に提出する書類中、外国通貨又は暗号資産（資金決済に関する法律（平成二十一年法律第五十九号）第二条第五項に規定する暗号資産をいう。）をもって金額又は数量を表示するものがあるときは、当該金額又は数量を本邦通貨に換算した金額及びその換算に用いた標準を付記しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -8173,12 +8173,35 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日内閣府令第三五号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの府令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000059_1908202308_001.pdf"/>
+          <Fig src="./pict/H19F10001000059_2005112005_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8187,7 +8210,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000059_1908202308_002.pdf"/>
+          <Fig src="./pict/H19F10001000059_2005112005_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8196,12 +8219,12 @@
       <RelatedArticleNum>（第二十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000059_1908202308_003.pdf"/>
+          <Fig src="./pict/H19F10001000059_2005112005_003.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000059_1908202308_004.pdf"/>
+          <Fig src="./pict/H19F10001000059_2005112005_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -8210,12 +8233,12 @@
       <RelatedArticleNum>（第四十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000059_1908202308_005.pdf"/>
+          <Fig src="./pict/H19F10001000059_2005112005_005.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000059_1908202308_006.pdf"/>
+          <Fig src="./pict/H19F10001000059_2005112005_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

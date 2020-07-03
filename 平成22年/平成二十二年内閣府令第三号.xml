@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="3" Year="22">
+<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="3" Year="22">
   <LawNum>平成二十二年内閣府令第三号</LawNum>
   <LawBody>
     <LawTitle>前払式支払手段に関する内閣府令</LawTitle>
@@ -65,7 +65,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法（第二章に限る。）、資金決済に関する法律施行令（以下「令」といい、第二章に限る。）又はこの府令の規定により金融庁長官（令第二十八条第一項の規定により財務局長又は福岡財務支局長（以下「財務局長等」という。）に金融庁長官の権限が委任されている場合にあっては、当該財務局長等。第二十八条、第三十五条第五号及び第三十六条を除き、以下同じ。）に提出する書類中、外国通貨をもって金額を表示するものがあるときは、当該金額を本邦通貨に換算した金額及びその換算に用いた標準を付記しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">法（第二章に限る。）、資金決済に関する法律施行令（以下「令」といい、第二章に限る。）又はこの府令の規定により金融庁長官（令第二十九条第一項の規定により財務局長又は福岡財務支局長（以下「財務局長等」という。）に金融庁長官の権限が委任されている場合にあっては、当該財務局長等。第二十八条、第三十五条第五号及び第三十六条を除き、以下同じ。）に提出する書類中、外国通貨をもって金額を表示するものがあるときは、当該金額を本邦通貨に換算した金額及びその換算に用いた標準を付記しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3123,11 +3123,24 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日内閣府令第三五号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号（第９条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_001.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3135,7 +3148,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２号（第１２条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_002.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3143,7 +3156,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第３号（第１４条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_003.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3151,7 +3164,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号（第１６条、第２０条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_004.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3159,7 +3172,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第５号（第１６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_005.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3167,7 +3180,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第６号（第１６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_006.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3175,7 +3188,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第７号（第１６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_007.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3183,7 +3196,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第８号（第１６条、第２０条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_008.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3191,7 +3204,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第９号（第１７条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_009.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3199,7 +3212,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１０号（第１９条第3項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_010.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3207,7 +3220,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１１号（第２０条第１項、附則第６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_011.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3215,7 +3228,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１２号（第２７条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_012.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3223,7 +3236,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１３号（第３０条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_013.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3231,7 +3244,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１４号（第３３条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_014.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3239,7 +3252,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１５号（第３３条第３項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_015.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3247,7 +3260,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１６号（第３３条第４項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_016.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3255,7 +3268,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１７号（第３４条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_017.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3263,7 +3276,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１８号（第３４条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_018.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3271,7 +3284,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１９号（第３４条第３項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_019.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3279,7 +3292,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２０号（第３８条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_020.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3287,7 +3300,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２１号（第３８条第３項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_021.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3295,7 +3308,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２２号（第３８条第４項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_022.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3303,7 +3316,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２３号（第３９条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_023.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3311,7 +3324,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２４号（第４１条第６項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_024.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3319,7 +3332,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２５号（第４１条第７項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_025.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3327,7 +3340,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２６号（第４１条第８項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_026.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3335,7 +3348,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２７号（第４７条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_027.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3343,7 +3356,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２８号（第５０条の２第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_028.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3351,7 +3364,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２９号（第５０条の２第３項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_029.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3359,7 +3372,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第３０号（第５１条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_030.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3367,7 +3380,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第３１号（第５３条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F10001000003_1912242112_031.pdf"/>
+          <Fig src="./pict/H22F10001000003_2006261706_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

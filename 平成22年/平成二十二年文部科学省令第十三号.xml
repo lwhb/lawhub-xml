@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="13" Year="22">
+<Law DataInfo="200302e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="13" Year="22">
   <LawNum>平成二十二年文部科学省令第十三号</LawNum>
   <LawBody>
     <LawTitle>高等学校等就学支援金の支給に関する法律施行規則</LawTitle>
@@ -157,7 +157,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四条に規定する認定の申請は、同条に規定する者（以下この項において「受給資格者」という。）が、様式第一号による申請書に、保護者等（令第一条第二項に規定する保護者等をいう。以下同じ。）の個人番号カードの写し等（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードの写しその他の書類をいう。以下同じ。）又は課税証明書等（令第一条第二項に規定する道府県民税所得割の額及び市町村民税所得割の額を明らかにすることのできる市町村（特別区を含む。）の長の証明書その他の書類をいう。第十条第二項及び第十一条第三項において同じ。）を添付して、当該受給資格者が在学する高等学校等（その者が同時に二以上の高等学校等の課程に在学するときは、その選択した一の高等学校等の課程。次項及び第十一条第四項において同じ。）の設置者を通じて、当該高等学校等の所在地の都道府県知事（当該高等学校等が地方公共団体の設置するものである場合（当該高等学校等が法第二条第五号に規定する特定教育施設である場合を除く。）にあっては、都道府県教育委員会。以下同じ。）に提出することによって行わなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第四条に規定する認定の申請は、同条に規定する者（以下この項において「受給資格者」という。）が、様式第一号による申請書に、保護者等（令第一条第二項に規定する保護者等をいう。以下同じ。）の個人番号カードの写し等（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードの写しその他の書類をいう。以下同じ。）又は課税証明書等（令第一条第二項第一号に規定する合計額及び同項第二号に規定する額を明らかにすることのできる市町村（特別区を含む。）の長の証明書その他の書類をいう。第十条第二項及び第十一条第三項において同じ。）を添付して、当該受給資格者が在学する高等学校等（その者が同時に二以上の高等学校等の課程に在学するときは、その選択した一の高等学校等の課程。次項及び第十一条第四項において同じ。）の設置者を通じて、当該高等学校等の所在地の都道府県知事（当該高等学校等が地方公共団体の設置するものである場合（当該高等学校等が法第二条第五号に規定する特定教育施設である場合を除く。）にあっては、都道府県教育委員会。以下同じ。）に提出することによって行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -256,7 +256,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第三条第五号に定める文部科学省令で定めるところにより算定した額は、履修科目のうちの各科目の一単位当たりの支給限度額（次の各号に掲げる支給対象高等学校等の区分に応じ、それぞれ当該各号に定める額を当該各科目を履修する期間とした月数で除した額をいう。）を履修科目の全ての単位について合算した額とする。</Sentence>
+            <Sentence WritingMode="vertical">令第三条第五号に定める文部科学省令で定めるところにより算定した額は、履修科目のうちの各科目の一単位当たりの支給限度額（次の各号に掲げる支給対象高等学校等の区分に応じ、それぞれ当該各号に定める額（当該額が当該各科目の一単位当たりの授業料の額を超える場合にあっては、当該一単位当たりの授業料の額）を当該各科目を履修する期間とした月数で除した額をいう。）を履修科目の全ての単位について合算した額とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -618,12 +618,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日文部科学省令第一一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第３条第１項、第１０条第２項並びに第１１条第１項及び第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F20001000013_1909021609_001.pdf"/>
+          <Fig src="./pict/H22F20001000013_2006151306_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -632,7 +641,7 @@
       <RelatedArticleNum>（第１０条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F20001000013_1909021609_002.pdf"/>
+          <Fig src="./pict/H22F20001000013_2006151306_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -641,7 +650,7 @@
       <RelatedArticleNum>（第１０条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F20001000013_1909021609_003.pdf"/>
+          <Fig src="./pict/H22F20001000013_2006151306_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -650,7 +659,7 @@
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H22F20001000013_1909021609_004.pdf"/>
+          <Fig src="./pict/H22F20001000013_2006151306_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

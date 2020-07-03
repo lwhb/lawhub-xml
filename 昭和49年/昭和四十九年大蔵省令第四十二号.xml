@@ -111,25 +111,25 @@
               <Sentence Function="main" Num="1" WritingMode="vertical">法人等は、本省資金の借入れをしようとする場合には、次の各号に掲げる区分に応じ当該各号に定める書類を、当該借入れに係る資金の交付を希望する日の七営業日（「営業日」とは、日本銀行の休日及び行政機関の休日に関する法律（昭和六十三年法律第九十一号）第一条第一項第三号に掲げる日でない日をいう。以下同じ。）前までに財務大臣に提出して、当該借入れの申込みを行うものとする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、急を要するやむを得ない理由があると財務大臣が認める場合にあつては、当該借入れに係る資金の交付を希望する日まで借入れの申込みを行なうことができる。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
+            <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Column Num="1">
-                  <Sentence>財政融資資金の長期運用に対する特別措置に関する法律（昭和四十八年法律第七号）第二条の規定に基づいて毎年度予算をもつて国会の議決を経た長期運用予定額（以下「長期運用予定額」という。）に係る借入れの場合</Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">財政融資資金の長期運用に対する特別措置に関する法律（昭和四十八年法律第七号）第二条の規定に基づいて毎年度予算をもつて国会の議決を経た長期運用予定額（以下「長期運用予定額」という。）に係る借入れの場合</Sentence>
                 </Column>
-                <Column Num="2">
-                  <Sentence>財務大臣が別に定める書式による財政融資資金長期資金借入申込書</Sentence>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">財務大臣が別に定める書式による財政融資資金長期資金借入申込書</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Num="2">
+            <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Column Num="1">
-                  <Sentence>前号以外の借入れの場合</Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">前号以外の借入れの場合</Sentence>
                 </Column>
-                <Column Num="2">
-                  <Sentence>財務大臣が別に定める書式による財政融資資金短期資金借入申込書</Sentence>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">財務大臣が別に定める書式による財政融資資金短期資金借入申込書</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -151,14 +151,14 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="4_3">
+        <Article Delete="false" Hide="false" Num="4_3">
           <ArticleCaption>（貸付けに係る借用証書の提出）</ArticleCaption>
           <ArticleTitle>第四条の三</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">法人等は、前条の規定により財政融資資金貸付通知書による通知を受けた場合には、当該通知に係る資金の交付を受けるため、当該通知書に指定された貸付日の三営業日前までに、財務大臣に財務大臣が別に定める書式による財政融資資金長期資金借用証書又は財政融資資金短期資金借用証書（以下「本省資金借用証書」という。）を提出するものとする。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、やむを得ない理由があると財務大臣が認める場合にあつては、当該貸付日までに財務大臣に本省資金借用証書を提出するものとする。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">法人等は、前条の規定により財政融資資金貸付通知書による通知を受けた場合には、当該通知に係る資金の交付を受けるため、当該通知書に指定された貸付日の三営業日前までに、財務大臣に財務大臣が別に定める書式による財政融資資金長期資金借用証書又は財政融資資金短期資金借用証書（以下「本省資金借用証書」という。）を提出するものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、やむを得ない理由があると財務大臣が認める場合にあつては、当該貸付日までに財務大臣に本省資金借用証書を提出するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -171,25 +171,25 @@
               <Sentence Function="main" Num="1" WritingMode="vertical">法人等は、その発行する国債等（国債、法人債及び外国債をいう。以下同じ。）について本省資金により応募又は引受けを行うことを依頼しようとする場合には、次の各号に掲げる区分に応じ当該各号に定める書類を、当該国債等に係る払込日又は引受期日（以下「代金払込期日」という。）の七営業日前までに財務大臣に提出して、当該依頼を行うものとする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、急を要するやむを得ない理由があると財務大臣が認める場合にあつては、当該代金払込期日まで応募又は引受けの依頼を行うことができる。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
+            <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Column Num="1">
-                  <Sentence>応募の方法による場合</Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">応募の方法による場合</Sentence>
                 </Column>
-                <Column Num="2">
-                  <Sentence>財務大臣が別に定める書式による応募依頼書</Sentence>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">財務大臣が別に定める書式による応募依頼書</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Num="2">
+            <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Column Num="1">
-                  <Sentence>引受けの方法による場合</Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">引受けの方法による場合</Sentence>
                 </Column>
-                <Column Num="2">
-                  <Sentence>財務大臣が別に定める書式による引受依頼書</Sentence>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">財務大臣が別に定める書式による引受依頼書</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -265,10 +265,10 @@
               <Sentence WritingMode="vertical">法人等が、各年度における長期貸付等予定額（長期運用予定額のうち貸付け等に係るものに限る。以下この条及び次条において同じ。）に係る本省資金の貸付け等を受けることができる期限（以下「貸付等期限」という。）は、当該各年度の三月末日（同日が土曜日に当たる場合にはその前日とし、同日が日曜日に当たる場合にはその前々日とする。以下この条において同じ。）とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
+          <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>法人等は、各年度における長期貸付等予定額の全部又は一部に係る本省資金の貸付け等を当該年度の貸付等期限までに受けることができない場合には、財務大臣が別に定める書式による財政融資資金長期資金貸付等期限延長承認申請書を貸付等期限までに財務大臣に提出して、その受けることができない本省資金の貸付け等の貸付等期限を翌年度の三月末日とすること（以下この条及び次条において「期限延長」という。）について財務大臣の承認を求めなければならない。</Sentence>
+              <Sentence WritingMode="vertical">法人等は、各年度における長期貸付等予定額の全部又は一部に係る本省資金の貸付け等を当該年度の貸付等期限までに受けることができない場合には、財務大臣が別に定める書式による財政融資資金長期資金貸付等期限延長承認申請書を貸付等期限までに財務大臣に提出して、その受けることができない本省資金の貸付け等の貸付等期限を翌年度の三月末日とすること（以下この条及び次条において「期限延長」という。）について財務大臣の承認を求めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3">
@@ -278,13 +278,13 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="8">
+        <Article Delete="false" Hide="false" Num="8">
           <ArticleCaption>（財政融資資金長期資金実行状況報告書の提出）</ArticleCaption>
           <ArticleTitle>第八条</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法人等は、各年度において長期貸付等予定額が定められた場合には、当該長期貸付等予定額に係る年度の終了後一月内に、当該年度の長期貸付等予定額及び当該年度の前年度の長期貸付等予定額のうち前条の規定により期限延長の承認を受けた額について、財務大臣が別に定める書式による財政融資資金長期資金実行状況報告書を財務大臣に提出するものとする。</Sentence>
+              <Sentence WritingMode="vertical">法人等は、各年度において長期貸付等予定額が定められた場合には、当該長期貸付等予定額に係る年度の終了後一月内に、当該年度の長期貸付等予定額及び当該年度の前年度の長期貸付等予定額のうち前条の規定により期限延長の承認を受けた額について、財務大臣が別に定める書式による財政融資資金長期資金実行状況報告書を財務大臣に提出するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -294,14 +294,14 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="9">
+        <Article Delete="false" Hide="false" Num="9">
           <ArticleCaption>（有価証券の買入れの依頼）</ArticleCaption>
           <ArticleTitle>第九条</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">有価証券（国債等及び地方債をいう。以下同じ。）の発行者又は所有者（以下「有価証券の発行者等」という。）は、その発行又は所有する有価証券について本省資金により買入れを行うことを依頼しようとする場合には、財務大臣が別に定める書式による買入依頼書を、当該買入れを希望する日の七営業日前までに財務大臣に提出して、当該買入れの依頼を行うものとする。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、急を要するやむを得ない理由があると財務大臣が認める場合にあつては、当該買入れを希望する日まで買入れの依頼を行うことができる。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">有価証券（国債等及び地方債をいう。以下同じ。）の発行者又は所有者（以下「有価証券の発行者等」という。）は、その発行又は所有する有価証券について本省資金により買入れを行うことを依頼しようとする場合には、財務大臣が別に定める書式による買入依頼書を、当該買入れを希望する日の七営業日前までに財務大臣に提出して、当該買入れの依頼を行うものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、急を要するやむを得ない理由があると財務大臣が認める場合にあつては、当該買入れを希望する日まで買入れの依頼を行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -351,14 +351,14 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="10">
+        <Article Delete="false" Hide="false" Num="10">
           <ArticleCaption>（有価証券の借入れの申込み）</ArticleCaption>
           <ArticleTitle>第十条</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">金融機関その他財政融資資金法施行令（平成十二年政令第三百六十号）第二条第二項に規定する法人（以下「金融機関等」という。）は、財政融資資金が所有する有価証券の借入れを受けようとする場合には、財務大臣が別に定める書式による有価証券借入申込書を、当該借入れに係る有価証券の交付を希望する日の七営業日前までに財務大臣に提出して、当該借入れの申込みを行うものとする。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、急を要するやむを得ない理由があると財務大臣が認める場合にあつては、当該借入れに係る有価証券の交付を希望する日まで借入れの申込みを行うことができる。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">金融機関その他財政融資資金法施行令（平成十二年政令第三百六十号）第二条第二項に規定する法人（以下「金融機関等」という。）は、財政融資資金が所有する有価証券の借入れを受けようとする場合には、財務大臣が別に定める書式による有価証券借入申込書を、当該借入れに係る有価証券の交付を希望する日の七営業日前までに財務大臣に提出して、当該借入れの申込みを行うものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、急を要するやむを得ない理由があると財務大臣が認める場合にあつては、当該借入れに係る有価証券の交付を希望する日まで借入れの申込みを行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -378,24 +378,24 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="10_3">
+        <Article Delete="false" Hide="false" Num="10_3">
           <ArticleCaption>（有価証券の貸付けに係る有価証券の交付）</ArticleCaption>
           <ArticleTitle>第十条の三</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>金融機関等は、前条の規定により有価証券貸付通知書による通知を受けた場合には、当該通知に係る有価証券の交付を受けるため、当該通知書に指定された貸付日に、日本銀行本店に当該通知書及び財務大臣が別に定める書式による財政融資資金所有有価証券借用証書を提出するものとする。</Sentence>
+              <Sentence WritingMode="vertical">金融機関等は、前条の規定により有価証券貸付通知書による通知を受けた場合には、当該通知に係る有価証券の交付を受けるため、当該通知書に指定された貸付日に、日本銀行本店に当該通知書及び財務大臣が別に定める書式による財政融資資金所有有価証券借用証書を提出するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="11">
+        <Article Delete="false" Hide="false" Num="11">
           <ArticleCaption>（法令の規定による他の法人等への債務の承継）</ArticleCaption>
           <ArticleTitle>第十一条</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">法令の規定により、法人等が運用を受けた本省資金に係る債務を他の法人等が承継した場合には、次の各号に掲げる区分に応じ当該各号に定める法人等は、速やかに財務大臣が別に定める書式による財政融資資金債務承継通知書を財務大臣に提出するものとする。</Sentence>
-              <Sentence Num="2">この場合において、当該債務が有価証券に係るものである場合には、当該財政融資資金債務承継通知書を日本銀行本店にも提出するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法令の規定により、法人等が運用を受けた本省資金に係る債務を他の法人等が承継した場合には、次の各号に掲げる区分に応じ当該各号に定める法人等は、速やかに財務大臣が別に定める書式による財政融資資金債務承継通知書を財務大臣に提出するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該債務が有価証券に係るものである場合には、当該財政融資資金債務承継通知書を日本銀行本店にも提出するものとする。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -426,10 +426,10 @@
               <Sentence WritingMode="vertical">財務大臣は、前項に規定する承継が債務の一部に係るものである場合において、同項の規定により財政融資資金債務承継通知書の提出を受けたときは、新法人等に対し財政融資資金借用証書提出請求書を、旧法人等に対し追証書提出請求書を送付する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
+          <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>新法人等又は旧法人等は、前項の規定により財政融資資金借用証書提出請求書又は追証書提出請求書（以下「借用証書等提出請求書」という。）の送付を受けたときは、当該借用証書等提出請求書に指定された本省資金借用証書又は財務大臣が別に定める書式による追証書を財務大臣に提出するものとする。</Sentence>
+              <Sentence WritingMode="vertical">新法人等又は旧法人等は、前項の規定により財政融資資金借用証書提出請求書又は追証書提出請求書（以下「借用証書等提出請求書」という。）の送付を受けたときは、当該借用証書等提出請求書に指定された本省資金借用証書又は財務大臣が別に定める書式による追証書を財務大臣に提出するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -676,32 +676,13 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">地方公共団体は、前条の規定により起債前貸等の貸付けを受けようとする場合には、財務大臣が別に定める書式による財政融資資金起債前貸等借入申込書に、次の各号に掲げる書類を添えて財務大臣に提出するものとする。</Sentence>
+              <Sentence WritingMode="vertical">地方公共団体は、前条の規定により起債前貸等の貸付けを受けようとする場合には、財務大臣が別に定める書式による財政融資資金起債前貸等借入申込書に、貸付対象事業に係る財務大臣が別に定める書式による事業実施状況等調書を添えて財務大臣に提出するものとする。</Sentence>
             </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">地方自治法（昭和二十二年法律第六十七号）第二百三十条第二項の規定による貸付対象事業に係る地方債の起債の目的、限度額、起債の方法、利率及び償還の方法を定めた予算の抜粋</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">貸付対象事業に係る財務大臣が別に定める書式による事業実施状況等調書</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">地方公共団体は、前条に規定する起債前貸等の貸付けを分割して受けようとする場合には、当該地方公共団体が第二回目以降の貸付けを受けようとする場合に提出すべき書類のうち、前項第一号に掲げる書類の提出を省略することができる。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一回目の貸付けの場合に提出した書類に記載された内容が第二回目以降の貸付けの場合においても変更がない場合に限る。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Hide="false" Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">財務大臣は、前二項に規定する書類のほか、必要と認める書類の提出を求めることができる。</Sentence>
+              <Sentence WritingMode="vertical">財務大臣は、前項に規定する書類のほか、必要と認める書類の提出を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -733,7 +714,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">地方公共団体は、財務大臣から第二十二条の規定により送付を受けた財政融資資金貸付通知書に指定された貸付日の三営業日前（前条ただし書の場合にあつては貸付日）までに前条に定める手続をしなかつた場合において、当該通知書に記載された起債前貸等の貸付けを受けようとする場合には、改めて財政融資資金起債前貸等借入申込書を財務大臣に提出するものとする。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、財政融資資金起債前貸等借入申込書には、第二十一条第一項各号に掲げる書類の添付は要しない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、財政融資資金起債前貸等借入申込書には、第二十一条第一項に規定する事業実施状況等調書の添付は要しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -830,33 +811,14 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">地方公共団体は、普通地方長期資金等の貸付けを受けようとする場合には、財務大臣が別に定める書式による財政融資資金普通地方長期資金等借入申込書に、次の各号に掲げる書類を添えて、当該普通地方長期資金等の借入れを希望する日の二十営業日前までに財務大臣に提出するものとする。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">地方公共団体は、普通地方長期資金等の貸付けを受けようとする場合には、財務大臣が別に定める書式による財政融資資金普通地方長期資金等借入申込書に、貸付対象事業に係る財務大臣が別に定める書式による事業実施状況等調書を添えて、当該普通地方長期資金等の借入れを希望する日の二十営業日前までに財務大臣に提出するものとする。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、急を要するやむを得ない理由があると財務大臣が認める場合にあつては、当該借入れを希望する日までに財務大臣に財政融資資金普通地方長期資金等借入申込書を提出することができる。</Sentence>
             </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">地方自治法第二百三十条第二項の規定による貸付対象事業に係る地方債の起債の目的、限度額、起債の方法、利率及び償還の方法を定めた予算の抜粋</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">貸付対象事業に係る財務大臣が別に定める書式による事業実施状況等調書</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">地方公共団体は、第二十五条の規定により起債前貸等を普通地方長期資金等に借り換えようとする場合には、提出すべき書類のうち前項第一号に掲げる書類の提出を省略することができる。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、起債前貸等の貸付けの場合に提出を受けた書類に記載された内容が普通地方長期資金等に借り換える場合においても変更がない場合に限る。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Hide="false" Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">財務大臣は、前二項に規定する書類のほか、必要と認める書類の提出を求めることができる。</Sentence>
+              <Sentence WritingMode="vertical">財務大臣は、前項に規定する書類のほか、必要と認める書類の提出を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -897,7 +859,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">地方公共団体は、財務大臣から第三十条前段の規定による財政融資資金貸付通知書の送付を受け、当該通知書に指定された貸付日の三営業日前（前条第一項ただし書の場合にあつては貸付日）までに前条第一項の規定による財政融資資金普通地方長期資金等借用証書の提出をしなかつた場合又は第三十条後段の規定による財政融資資金借換通知書の送付を受け、当該通知書に指定された借換日の三営業日前（前条第二項ただし書の場合にあつては借換日）までに前条第二項の規定による財政融資資金普通地方長期資金等借用証書の提出をしなかつた場合において、当該通知書に記載された普通地方長期資金等の貸付けを受けようとする場合には、改めて財政融資資金普通地方長期資金等借入申込書を財務大臣に提出するものとする。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、財政融資資金普通地方長期資金等借入申込書には、第二十九条第一項各号に掲げる書類の添付は要しない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、財政融資資金普通地方長期資金等借入申込書には、第二十九条第一項に規定する事業実施状況等調書の添付は要しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2190,152 +2152,182 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年八月九日財務省令第一九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行し、令和元年度の予算に係る財政融資資金の貸付けから適用する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この省令による改正後の財政融資資金の管理及び運用の手続に関する規則（以下「新管理運用規則」という。）第二十一条、第二十四条、第二十九条及び第三十二条の規定は、令和元年度において運用する平成三十年度の予算に係る財政融資資金の貸付けにも適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令による改正前の財政融資資金の管理及び運用の手続に関する規則（以下「旧管理運用規則」という。）第二十一条第一項各号の規定により提出された書類は、当分の間、新管理運用規則第二十一条第一項の規定により提出された書類とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">旧管理運用規則第二十九条第一項各号の規定により提出された書類は、当分の間、新管理運用規則第二十九条第一項により提出された書類とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１号書式（甲）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１号書式（甲）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１号書式（乙）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１号書式（乙）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第３号書式（甲）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第３号書式（甲）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第３号書式（乙）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第３号書式（乙）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第４号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第４号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第６号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第６号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第７号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第７号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第７号の２書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第７号の２書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第７号の３書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第７号の３書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第８号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第８号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第８号の２書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第８号の２書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第８号の３書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第８号の３書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第９号書式（甲）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第９号書式（甲）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第９号書式（乙）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第９号書式（乙）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１０号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１０号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１１号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１１号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１１号の２書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１１号の２書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１２号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１２号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１３号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１３号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１４号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１４号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１５号書式（表面）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１５号書式（表面）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１５号書式（裏面）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１５号書式（裏面）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１６号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１６号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１７号書式（甲）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１７号書式（甲）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１７号書式（乙）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１７号書式（乙）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１８号書式（甲）（表面）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１８号書式（甲）（表面）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１８号書式（甲）（裏面）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１８号書式（甲）（裏面）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１８号書式（乙）（表面）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１８号書式（乙）（表面）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１８号書式（乙）（裏面）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１８号書式（乙）（裏面）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第１９号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第１９号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２０号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２０号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２１号書式（表面）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２１号書式（表面）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２１号書式（裏面）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２１号書式（裏面）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２２号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２２号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２３号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２３号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２４号書式（甲）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２４号書式（甲）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２４号書式（乙）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２４号書式（乙）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２５号書式（甲）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２５号書式（甲）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２５号書式（乙）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２５号書式（乙）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２６号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２６号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２７号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２７号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２８号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２８号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２８号の２書式（甲）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２８号の２書式（甲）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２８号の２書式（乙）　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２８号の２書式（乙）　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２８号の３書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２８号の３書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第２９号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第２９号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第３０号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第３０号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle>別紙第３１号書式　（削除）</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">別紙第３１号書式　（削除）</AppdxFormatTitle>
     </AppdxFormat>
   </LawBody>
 </Law>

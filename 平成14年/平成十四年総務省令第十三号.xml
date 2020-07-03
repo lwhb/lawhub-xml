@@ -796,7 +796,7 @@
           <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">資金決済に関する法律第六十三条の六第一項の届出の受理又はその届出に係る事実についての審査</Sentence>
+              <Sentence WritingMode="vertical">資金決済に関する法律第六十三条の六第二項の届出の受理又はその届出に係る事実についての審査</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="7">
@@ -1650,11 +1650,29 @@
         <Paragraph Hide="false" Num="57">
           <ParagraphNum>５７</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第一の四十五の項の総務省令で定める事務は、関税法（昭和二十九年法律第六十一号）第二十四条第二項の許可の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
+            <Sentence WritingMode="vertical">法別表第一の四十四の三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国税通則法第七十四条の十三の四第一項の管理の対象となる者の生存の事実又は氏名若しくは住所の変更の事実の確認</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国税通則法第七十四条の十三の四第二項の提供の請求の受理、その請求に係る事実についての審査又はその請求に対する応答</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Hide="false" Num="58">
           <ParagraphNum>５８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第一の四十五の項の総務省令で定める事務は、関税法（昭和二十九年法律第六十一号）第二十四条第二項の許可の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="59">
+          <ParagraphNum>５９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の四十六の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -1683,8 +1701,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="59">
-          <ParagraphNum>５９</ParagraphNum>
+        <Paragraph Hide="false" Num="60">
+          <ParagraphNum>６０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の四十七の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -1707,8 +1725,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="60">
-          <ParagraphNum>６０</ParagraphNum>
+        <Paragraph Hide="false" Num="61">
+          <ParagraphNum>６１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の四十七の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -1725,20 +1743,20 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="61">
-          <ParagraphNum>６１</ParagraphNum>
+        <Paragraph Hide="false" Num="62">
+          <ParagraphNum>６２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の四十七の三の項の総務省令で定める事務は、特別支援学校への就学奨励に関する法律（昭和二十九年法律第百四十四号）第五条の経費の算定に必要な資料の受理、その資料に係る事実についての審査又はその資料の提出に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="62">
-          <ParagraphNum>６２</ParagraphNum>
+        <Paragraph Hide="false" Num="63">
+          <ParagraphNum>６３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の四十七の四の項の総務省令で定める事務は、独立行政法人日本スポーツ振興センター法（平成十四年法律第百六十二号）第十五条第一項第七号若しくは附則第八条第一項の災害共済給付の給付金の支払の請求の受理、その請求に係る事実についての審査又はその請求に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="63">
-          <ParagraphNum>６３</ParagraphNum>
+        <Paragraph Hide="false" Num="64">
+          <ParagraphNum>６４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の四十七の五の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -1779,8 +1797,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="64">
-          <ParagraphNum>６４</ParagraphNum>
+        <Paragraph Hide="false" Num="65">
+          <ParagraphNum>６５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の四十七の六の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -1797,8 +1815,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="65">
-          <ParagraphNum>６５</ParagraphNum>
+        <Paragraph Hide="false" Num="66">
+          <ParagraphNum>６６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の四十八の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -1839,20 +1857,20 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="66">
-          <ParagraphNum>６６</ParagraphNum>
+        <Paragraph Hide="false" Num="67">
+          <ParagraphNum>６７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の四十九の項の総務省令で定める事務は、博物館法（昭和二十六年法律第二百八十五号）第五条第一項第三号の認定の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="67">
-          <ParagraphNum>６７</ParagraphNum>
+        <Paragraph Hide="false" Num="68">
+          <ParagraphNum>６８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の五十の項の総務省令で定める事務は、受験申込書の受理、受験申込書に係る事実についての審査又は受験申込書の提出に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="68">
-          <ParagraphNum>６８</ParagraphNum>
+        <Paragraph Hide="false" Num="69">
+          <ParagraphNum>６９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の五十一の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -1875,26 +1893,26 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="69">
-          <ParagraphNum>６９</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第一の五十三の項の総務省令で定める事務は、万国著作権条約の実施に伴う著作権法の特例に関する法律（昭和三十一年法律第八十六号）第五条第一項の許可の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
         <Paragraph Hide="false" Num="70">
           <ParagraphNum>７０</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第一の五十四の項の総務省令で定める事務は、著作権法（昭和四十五年法律第四十八号）第七十五条第一項又は第七十七条の許可の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第一の五十三の項の総務省令で定める事務は、万国著作権条約の実施に伴う著作権法の特例に関する法律（昭和三十一年法律第八十六号）第五条第一項の許可の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="71">
           <ParagraphNum>７１</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第一の五十五の項の総務省令で定める事務は、著作権法第八十八条第一項又は同法第百四条において準用する第七十七条の登録の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第一の五十四の項の総務省令で定める事務は、著作権法（昭和四十五年法律第四十八号）第七十五条第一項又は第七十七条の許可の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="72">
           <ParagraphNum>７２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第一の五十五の項の総務省令で定める事務は、著作権法第八十八条第一項又は同法第百四条において準用する第七十七条の登録の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="73">
+          <ParagraphNum>７３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の五十六の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -1911,8 +1929,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="73">
-          <ParagraphNum>７３</ParagraphNum>
+        <Paragraph Hide="false" Num="74">
+          <ParagraphNum>７４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の五十七の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -1929,8 +1947,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="74">
-          <ParagraphNum>７４</ParagraphNum>
+        <Paragraph Hide="false" Num="75">
+          <ParagraphNum>７５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の五十七の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -1953,8 +1971,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="75">
-          <ParagraphNum>７５</ParagraphNum>
+        <Paragraph Hide="false" Num="76">
+          <ParagraphNum>７６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の五十七の三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2001,14 +2019,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="76">
-          <ParagraphNum>７６</ParagraphNum>
+        <Paragraph Hide="false" Num="77">
+          <ParagraphNum>７７</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法別表第一の五十七の四の項の総務省令で定める事務は、新型インフルエンザ等対策特別措置法（平成二十四年法律第三十一号）第二十八条第一項の規定による指示に基づき行う予防接種を受けると見込まれる者の生存の事実又は氏名若しくは住所の変更の事実の確認とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="77">
-          <ParagraphNum>７７</ParagraphNum>
+        <Paragraph Hide="false" Num="78">
+          <ParagraphNum>７８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の五十八の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2049,8 +2067,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="78">
-          <ParagraphNum>７８</ParagraphNum>
+        <Paragraph Hide="false" Num="79">
+          <ParagraphNum>７９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の五十九の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2073,8 +2091,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="79">
-          <ParagraphNum>７９</ParagraphNum>
+        <Paragraph Hide="false" Num="80">
+          <ParagraphNum>８０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の六十の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2097,20 +2115,20 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="80">
-          <ParagraphNum>８０</ParagraphNum>
+        <Paragraph Hide="false" Num="81">
+          <ParagraphNum>８１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の六十一の項の総務省令で定める事務は、免許試験受験申請書の受理、免許試験受験申請書に係る事実についての審査又は免許試験受験申請書の提出に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="81">
-          <ParagraphNum>８１</ParagraphNum>
+        <Paragraph Hide="false" Num="82">
+          <ParagraphNum>８２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の六十二の項の総務省令で定める事務は、登録の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="82">
-          <ParagraphNum>８２</ParagraphNum>
+        <Paragraph Hide="false" Num="83">
+          <ParagraphNum>８３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の六十三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2157,8 +2175,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="83">
-          <ParagraphNum>８３</ParagraphNum>
+        <Paragraph Hide="false" Num="84">
+          <ParagraphNum>８４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の六十三の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2193,14 +2211,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="84">
-          <ParagraphNum>８４</ParagraphNum>
+        <Paragraph Hide="false" Num="85">
+          <ParagraphNum>８５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の六十四の項の総務省令で定める事務は、確認の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="85">
-          <ParagraphNum>８５</ParagraphNum>
+        <Paragraph Hide="false" Num="86">
+          <ParagraphNum>８６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の六十五の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2223,8 +2241,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="86">
-          <ParagraphNum>８６</ParagraphNum>
+        <Paragraph Hide="false" Num="87">
+          <ParagraphNum>８７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の六十六の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2277,8 +2295,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="87">
-          <ParagraphNum>８７</ParagraphNum>
+        <Paragraph Hide="false" Num="88">
+          <ParagraphNum>８８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の六十七の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2301,14 +2319,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="88">
-          <ParagraphNum>８８</ParagraphNum>
+        <Paragraph Hide="false" Num="89">
+          <ParagraphNum>８９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の六十七の二の項の総務省令で定める事務は、障害者の雇用の促進等に関する法律（昭和三十五年法律第百二十三号）第十一条の職業指導等の実施に係る事実についての審査とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="89">
-          <ParagraphNum>８９</ParagraphNum>
+        <Paragraph Hide="false" Num="90">
+          <ParagraphNum>９０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の六十八の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2325,8 +2343,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="90">
-          <ParagraphNum>９０</ParagraphNum>
+        <Paragraph Hide="false" Num="91">
+          <ParagraphNum>９１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の六十九の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2366,21 +2384,33 @@
               <Sentence Num="1" WritingMode="vertical">日雇労働被保険者任意加入の申請の受理、その申請に係る事実についての審査又はその申請に対する応答</Sentence>
             </ItemSentence>
           </Item>
-        </Paragraph>
-        <Paragraph Hide="false" Num="91">
-          <ParagraphNum>９１</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第一の七十の項の総務省令で定める事務は、特定就職困難者コース助成金、障害者トライアルコース助成金、障害者雇用安定助成金、障害者職業能力開発コース助成金若しくは職業訓練受講給付金の支給の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
-          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">育児休業給付の支給の申請の受理、その申請に係る事実についての審査又はその申請に対する応答</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">育児休業給付の支給を受けることができる者の生存の事実又は氏名若しくは住所の変更の事実の確認</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Hide="false" Num="92">
           <ParagraphNum>９２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第一の七十一の項の総務省令で定める事務は、合格証書の再交付の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第一の七十の項の総務省令で定める事務は、特定就職困難者コース助成金、障害者トライアルコース助成金、障害者雇用安定助成金、障害者職業能力開発コース助成金若しくは職業訓練受講給付金の支給の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="93">
           <ParagraphNum>９３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第一の七十一の項の総務省令で定める事務は、合格証書の再交付の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="94">
+          <ParagraphNum>９４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十一の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2397,8 +2427,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="94">
-          <ParagraphNum>９４</ParagraphNum>
+        <Paragraph Hide="false" Num="95">
+          <ParagraphNum>９５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十一の三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2433,14 +2463,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="95">
-          <ParagraphNum>９５</ParagraphNum>
+        <Paragraph Hide="false" Num="96">
+          <ParagraphNum>９６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十一の六の項の総務省令で定める事務は、身体障害者福祉法（昭和二十四年法律第二百八十三号）第三十八条第二項の費用の徴収に係る事実についての審査とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="96">
-          <ParagraphNum>９６</ParagraphNum>
+        <Paragraph Hide="false" Num="97">
+          <ParagraphNum>９７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十一の七の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2487,8 +2517,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="97">
-          <ParagraphNum>９７</ParagraphNum>
+        <Paragraph Hide="false" Num="98">
+          <ParagraphNum>９８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2523,8 +2553,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="98">
-          <ParagraphNum>９８</ParagraphNum>
+        <Paragraph Hide="false" Num="99">
+          <ParagraphNum>９９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十二の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2577,8 +2607,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="99">
-          <ParagraphNum>９９</ParagraphNum>
+        <Paragraph Hide="false" Num="100">
+          <ParagraphNum>１００</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十二の三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2607,8 +2637,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="100">
-          <ParagraphNum>１００</ParagraphNum>
+        <Paragraph Hide="false" Num="101">
+          <ParagraphNum>１０１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2679,8 +2709,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="101">
-          <ParagraphNum>１０１</ParagraphNum>
+        <Paragraph Hide="false" Num="102">
+          <ParagraphNum>１０２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十三の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -2967,8 +2997,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="102">
-          <ParagraphNum>１０２</ParagraphNum>
+        <Paragraph Hide="false" Num="103">
+          <ParagraphNum>１０３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十三の三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3015,8 +3045,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="103">
-          <ParagraphNum>１０３</ParagraphNum>
+        <Paragraph Hide="false" Num="104">
+          <ParagraphNum>１０４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十三の四の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3303,8 +3333,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="104">
-          <ParagraphNum>１０４</ParagraphNum>
+        <Paragraph Hide="false" Num="105">
+          <ParagraphNum>１０５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十三の五の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3339,8 +3369,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="105">
-          <ParagraphNum>１０５</ParagraphNum>
+        <Paragraph Hide="false" Num="106">
+          <ParagraphNum>１０６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十四の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3399,8 +3429,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="106">
-          <ParagraphNum>１０６</ParagraphNum>
+        <Paragraph Hide="false" Num="107">
+          <ParagraphNum>１０７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十五の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3441,8 +3471,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="107">
-          <ParagraphNum>１０７</ParagraphNum>
+        <Paragraph Hide="false" Num="108">
+          <ParagraphNum>１０８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十六の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3471,8 +3501,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="108">
-          <ParagraphNum>１０８</ParagraphNum>
+        <Paragraph Hide="false" Num="109">
+          <ParagraphNum>１０９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3567,8 +3597,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="109">
-          <ParagraphNum>１０９</ParagraphNum>
+        <Paragraph Hide="false" Num="110">
+          <ParagraphNum>１１０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3645,8 +3675,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="110">
-          <ParagraphNum>１１０</ParagraphNum>
+        <Paragraph Hide="false" Num="111">
+          <ParagraphNum>１１１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3675,8 +3705,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="111">
-          <ParagraphNum>１１１</ParagraphNum>
+        <Paragraph Hide="false" Num="112">
+          <ParagraphNum>１１２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の四の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3777,8 +3807,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="112">
-          <ParagraphNum>１１２</ParagraphNum>
+        <Paragraph Hide="false" Num="113">
+          <ParagraphNum>１１３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の五の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3831,8 +3861,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="113">
-          <ParagraphNum>１１３</ParagraphNum>
+        <Paragraph Hide="false" Num="114">
+          <ParagraphNum>１１４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の六の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3879,8 +3909,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="114">
-          <ParagraphNum>１１４</ParagraphNum>
+        <Paragraph Hide="false" Num="115">
+          <ParagraphNum>１１５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の七の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3905,12 +3935,18 @@
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
+              <Sentence WritingMode="vertical">特定障害者に対する特別障害給付金の支給に関する法律第十六条の二第一項の未支払の特別障害給付金の支払の請求の受理、その請求に係る事実についての審査又はその請求に対する応答</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">特定障害者に対する特別障害給付金の支給に関する法律第二十七条第一項若しくは第二項の届出の受理、その届出に係る事実についての審査又はその届出に対する応答</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="115">
-          <ParagraphNum>１１５</ParagraphNum>
+        <Paragraph Hide="false" Num="116">
+          <ParagraphNum>１１６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の八の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3939,8 +3975,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="116">
-          <ParagraphNum>１１６</ParagraphNum>
+        <Paragraph Hide="false" Num="117">
+          <ParagraphNum>１１７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の九の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -3963,26 +3999,26 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="117">
-          <ParagraphNum>１１７</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の十の項の総務省令で定める事務は、保険給付若しくは給付の支給に係る書類の受理、その書類に係る事実についての審査又はその書類の提出に対する応答とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
         <Paragraph Hide="false" Num="118">
           <ParagraphNum>１１８</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の十一の項の総務省令で定める事務は、特例対象者の生存の事実又は氏名若しくは住所の変更の事実の確認とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の十の項の総務省令で定める事務は、保険給付若しくは給付の支給に係る書類の受理、その書類に係る事実についての審査又はその書類の提出に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="119">
           <ParagraphNum>１１９</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の十二の項の総務省令で定める事務は、厚生年金保険の保険給付及び国民年金の給付の支払の遅延に係る加算金の支給に関する法律（平成二十一年法律第三十七号）附則第二条第一項において読み替えて準用する同法第二条ただし書若しくは第三条ただし書若しくは附則第二条第三項若しくは第三条第一項の保険給付遅延特別加算金若しくは給付遅延特別加算金の支給の請求の受理、その請求に係る事実についての審査又はその請求に対する応答とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の十一の項の総務省令で定める事務は、特例対象者の生存の事実又は氏名若しくは住所の変更の事実の確認とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="120">
           <ParagraphNum>１２０</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の十二の項の総務省令で定める事務は、厚生年金保険の保険給付及び国民年金の給付の支払の遅延に係る加算金の支給に関する法律（平成二十一年法律第三十七号）附則第二条第一項において読み替えて準用する同法第二条ただし書若しくは第三条ただし書若しくは附則第二条第三項若しくは第三条第一項の保険給付遅延特別加算金若しくは給付遅延特別加算金の支給の請求の受理、その請求に係る事実についての審査又はその請求に対する応答とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="121">
+          <ParagraphNum>１２１</ParagraphNum>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法別表第一の七十七の十三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4011,8 +4047,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="121">
-          <ParagraphNum>１２１</ParagraphNum>
+        <Paragraph Hide="false" Num="122">
+          <ParagraphNum>１２２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十七の十四の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4029,8 +4065,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="122">
-          <ParagraphNum>１２２</ParagraphNum>
+        <Paragraph Hide="false" Num="123">
+          <ParagraphNum>１２３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十八の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4065,8 +4101,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="123">
-          <ParagraphNum>１２３</ParagraphNum>
+        <Paragraph Hide="false" Num="124">
+          <ParagraphNum>１２４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十八の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4089,14 +4125,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="124">
-          <ParagraphNum>１２４</ParagraphNum>
+        <Paragraph Hide="false" Num="125">
+          <ParagraphNum>１２５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十八の三の項の総務省令で定める事務は、戦没者等の妻に対する特別給付金支給法（昭和三十八年法律第六十一号）第三条の特別給付金の支給の請求の受理、その請求に係る事実についての審査又はその請求に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="125">
-          <ParagraphNum>１２５</ParagraphNum>
+        <Paragraph Hide="false" Num="126">
+          <ParagraphNum>１２６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十八の四の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4113,44 +4149,44 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="126">
-          <ParagraphNum>１２６</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第一の七十八の五の項の総務省令で定める事務は、戦没者等の遺族に対する特別弔慰金支給法（昭和四十年法律第百号）第三条の特別弔慰金の支給の請求の受理、その請求に係る事実についての審査又はその請求に対する応答とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
         <Paragraph Hide="false" Num="127">
           <ParagraphNum>１２７</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第一の七十八の六の項の総務省令で定める事務は、戦傷病者等の妻に対する特別給付金支給法（昭和四十一年法律第百九号）第三条第一項の特別給付金の支給の請求の受理、その請求に係る事実についての審査又はその請求に対する応答とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第一の七十八の五の項の総務省令で定める事務は、戦没者等の遺族に対する特別弔慰金支給法（昭和四十年法律第百号）第三条の特別弔慰金の支給の請求の受理、その請求に係る事実についての審査又はその請求に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="128">
           <ParagraphNum>１２８</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第一の七十八の七の項の総務省令で定める事務は、戦没者の父母等に対する特別給付金支給法（昭和四十二年法律第五十七号）第三条の特別給付金の支給の請求の受理、その請求に係る事実についての審査又はその請求に対する応答とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第一の七十八の六の項の総務省令で定める事務は、戦傷病者等の妻に対する特別給付金支給法（昭和四十一年法律第百九号）第三条第一項の特別給付金の支給の請求の受理、その請求に係る事実についての審査又はその請求に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="129">
           <ParagraphNum>１２９</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第一の七十八の七の項の総務省令で定める事務は、戦没者の父母等に対する特別給付金支給法（昭和四十二年法律第五十七号）第三条の特別給付金の支給の請求の受理、その請求に係る事実についての審査又はその請求に対する応答とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="130">
+          <ParagraphNum>１３０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の七十九の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">卸売市場法（昭和四十六年法律第三十五号）第十五条第一項の許可の申請の受理又はその申請に係る事実についての審査</Sentence>
+              <Sentence WritingMode="vertical">卸売市場法（昭和四十六年法律第三十五号）第四条第一項又は第六条第一項の認定の申請の受理又はその申請に係る事実についての審査</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">卸売市場法第二十一条第一項又は第二項の認可の申請の受理又はその申請に係る事実についての審査</Sentence>
+              <Sentence WritingMode="vertical">卸売市場法第六条第二項の届出の受理又はその届出に係る事実についての審査</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="130">
-          <ParagraphNum>１３０</ParagraphNum>
+        <Paragraph Hide="false" Num="131">
+          <ParagraphNum>１３１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の八十の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4287,8 +4323,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="131">
-          <ParagraphNum>１３１</ParagraphNum>
+        <Paragraph Hide="false" Num="132">
+          <ParagraphNum>１３２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の八十一の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4311,8 +4347,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="132">
-          <ParagraphNum>１３２</ParagraphNum>
+        <Paragraph Hide="false" Num="133">
+          <ParagraphNum>１３３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の八十一の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4353,8 +4389,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="133">
-          <ParagraphNum>１３３</ParagraphNum>
+        <Paragraph Hide="false" Num="134">
+          <ParagraphNum>１３４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の八十二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4383,8 +4419,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="134">
-          <ParagraphNum>１３４</ParagraphNum>
+        <Paragraph Hide="false" Num="135">
+          <ParagraphNum>１３５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の八十三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4413,8 +4449,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="135">
-          <ParagraphNum>１３５</ParagraphNum>
+        <Paragraph Hide="false" Num="136">
+          <ParagraphNum>１３６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の八十四の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4437,14 +4473,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="136">
-          <ParagraphNum>１３６</ParagraphNum>
+        <Paragraph Hide="false" Num="137">
+          <ParagraphNum>１３７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の八十五の項の総務省令で定める事務は、計量法第七十九条第一項（同法第八十一条第三項において準用する場合を含む。）の届出の受理又はその届出に係る事実についての審査とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="137">
-          <ParagraphNum>１３７</ParagraphNum>
+        <Paragraph Hide="false" Num="138">
+          <ParagraphNum>１３８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の八十六の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4461,8 +4497,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="138">
-          <ParagraphNum>１３８</ParagraphNum>
+        <Paragraph Hide="false" Num="139">
+          <ParagraphNum>１３９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の八十七の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4503,8 +4539,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="139">
-          <ParagraphNum>１３９</ParagraphNum>
+        <Paragraph Hide="false" Num="140">
+          <ParagraphNum>１４０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の八十八の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4557,8 +4593,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="140">
-          <ParagraphNum>１４０</ParagraphNum>
+        <Paragraph Hide="false" Num="141">
+          <ParagraphNum>１４１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の八十九の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4575,8 +4611,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="141">
-          <ParagraphNum>１４１</ParagraphNum>
+        <Paragraph Hide="false" Num="142">
+          <ParagraphNum>１４２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の九十の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4605,20 +4641,20 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="142">
-          <ParagraphNum>１４２</ParagraphNum>
+        <Paragraph Hide="false" Num="143">
+          <ParagraphNum>１４３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の九十一の項の総務省令で定める事務は、火薬類取締法（昭和二十五年法律第百四十九号）第三十一条第三項の試験（経済産業大臣が行うものに限る。）の受験願書の受理、その受験願書に係る事実についての審査又はその受験願書の提出に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="143">
-          <ParagraphNum>１４３</ParagraphNum>
+        <Paragraph Hide="false" Num="144">
+          <ParagraphNum>１４４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の九十二の項の総務省令で定める事務は、火薬類取締法第三十一条第三項の試験の受験願書の受理、その受験願書に係る事実についての審査又はその受験願書の提出に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="144">
-          <ParagraphNum>１４４</ParagraphNum>
+        <Paragraph Hide="false" Num="145">
+          <ParagraphNum>１４５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の九十三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4635,8 +4671,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="145">
-          <ParagraphNum>１４５</ParagraphNum>
+        <Paragraph Hide="false" Num="146">
+          <ParagraphNum>１４６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の九十四の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4653,8 +4689,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="146">
-          <ParagraphNum>１４６</ParagraphNum>
+        <Paragraph Hide="false" Num="147">
+          <ParagraphNum>１４７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の九十五の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4671,14 +4707,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="147">
-          <ParagraphNum>１４７</ParagraphNum>
+        <Paragraph Hide="false" Num="148">
+          <ParagraphNum>１４８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の九十六の項の総務省令で定める事務は、特定家庭用機器再商品化法（平成十年法律第九十七号）第二十三条第一項又は第二十四条第一項の認定の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="148">
-          <ParagraphNum>１４８</ParagraphNum>
+        <Paragraph Hide="false" Num="149">
+          <ParagraphNum>１４９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の九十七の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4701,8 +4737,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="149">
-          <ParagraphNum>１４９</ParagraphNum>
+        <Paragraph Hide="false" Num="150">
+          <ParagraphNum>１５０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の九十八の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4719,8 +4755,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="150">
-          <ParagraphNum>１５０</ParagraphNum>
+        <Paragraph Hide="false" Num="151">
+          <ParagraphNum>１５１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の九十九の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4743,8 +4779,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="151">
-          <ParagraphNum>１５１</ParagraphNum>
+        <Paragraph Hide="false" Num="152">
+          <ParagraphNum>１５２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4761,8 +4797,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="152">
-          <ParagraphNum>１５２</ParagraphNum>
+        <Paragraph Hide="false" Num="153">
+          <ParagraphNum>１５３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百一の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4785,20 +4821,20 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="153">
-          <ParagraphNum>１５３</ParagraphNum>
+        <Paragraph Hide="false" Num="154">
+          <ParagraphNum>１５４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百二の項の総務省令で定める事務は、マンションの管理の適正化の推進に関する法律（平成十二年法律第百四十九号）第三十条第一項の登録の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="154">
-          <ParagraphNum>１５４</ParagraphNum>
+        <Paragraph Hide="false" Num="155">
+          <ParagraphNum>１５５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百三の項の総務省令で定める事務は、マンションの管理の適正化の推進に関する法律第四十四条第一項若しくは第三項又は第五十九条第一項の登録の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="155">
-          <ParagraphNum>１５５</ParagraphNum>
+        <Paragraph Hide="false" Num="156">
+          <ParagraphNum>１５６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百三の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4815,8 +4851,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="156">
-          <ParagraphNum>１５６</ParagraphNum>
+        <Paragraph Hide="false" Num="157">
+          <ParagraphNum>１５７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百四の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4839,14 +4875,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="157">
-          <ParagraphNum>１５７</ParagraphNum>
+        <Paragraph Hide="false" Num="158">
+          <ParagraphNum>１５８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百五の項の総務省令で定める事務は、合格証の再交付の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="158">
-          <ParagraphNum>１５８</ParagraphNum>
+        <Paragraph Hide="false" Num="159">
+          <ParagraphNum>１５９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百五の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4863,8 +4899,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="159">
-          <ParagraphNum>１５９</ParagraphNum>
+        <Paragraph Hide="false" Num="160">
+          <ParagraphNum>１６０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百六の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4887,8 +4923,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="160">
-          <ParagraphNum>１６０</ParagraphNum>
+        <Paragraph Hide="false" Num="161">
+          <ParagraphNum>１６１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百七の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -4935,8 +4971,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="161">
-          <ParagraphNum>１６１</ParagraphNum>
+        <Paragraph Hide="false" Num="162">
+          <ParagraphNum>１６２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百七の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5007,8 +5043,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="162">
-          <ParagraphNum>１６２</ParagraphNum>
+        <Paragraph Hide="false" Num="163">
+          <ParagraphNum>１６３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百八の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5025,8 +5061,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="163">
-          <ParagraphNum>１６３</ParagraphNum>
+        <Paragraph Hide="false" Num="164">
+          <ParagraphNum>１６４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百九の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5079,8 +5115,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="164">
-          <ParagraphNum>１６４</ParagraphNum>
+        <Paragraph Hide="false" Num="165">
+          <ParagraphNum>１６５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百十の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5109,8 +5145,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="165">
-          <ParagraphNum>１６５</ParagraphNum>
+        <Paragraph Hide="false" Num="166">
+          <ParagraphNum>１６６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百十一の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5133,8 +5169,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="166">
-          <ParagraphNum>１６６</ParagraphNum>
+        <Paragraph Hide="false" Num="167">
+          <ParagraphNum>１６７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百十二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5157,8 +5193,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="167">
-          <ParagraphNum>１６７</ParagraphNum>
+        <Paragraph Hide="false" Num="168">
+          <ParagraphNum>１６８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百十三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5193,14 +5229,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="168">
-          <ParagraphNum>１６８</ParagraphNum>
+        <Paragraph Hide="false" Num="169">
+          <ParagraphNum>１６９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百十四の項の総務省令で定める事務は、自動車損害賠償保障法（昭和三十年法律第九十七号）第七十二条第一項の損害のてん補の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="169">
-          <ParagraphNum>１６９</ParagraphNum>
+        <Paragraph Hide="false" Num="170">
+          <ParagraphNum>１７０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百十五の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5217,8 +5253,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="170">
-          <ParagraphNum>１７０</ParagraphNum>
+        <Paragraph Hide="false" Num="171">
+          <ParagraphNum>１７１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百十六の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5241,8 +5277,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="171">
-          <ParagraphNum>１７１</ParagraphNum>
+        <Paragraph Hide="false" Num="172">
+          <ParagraphNum>１７２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百十七の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5259,8 +5295,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="172">
-          <ParagraphNum>１７２</ParagraphNum>
+        <Paragraph Hide="false" Num="173">
+          <ParagraphNum>１７３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百十八の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5313,8 +5349,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="173">
-          <ParagraphNum>１７３</ParagraphNum>
+        <Paragraph Hide="false" Num="174">
+          <ParagraphNum>１７４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百十九の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5343,8 +5379,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="174">
-          <ParagraphNum>１７４</ParagraphNum>
+        <Paragraph Hide="false" Num="175">
+          <ParagraphNum>１７５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百二十の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5367,8 +5403,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="175">
-          <ParagraphNum>１７５</ParagraphNum>
+        <Paragraph Hide="false" Num="176">
+          <ParagraphNum>１７６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百二十一の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -5391,14 +5427,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="176">
-          <ParagraphNum>１７６</ParagraphNum>
+        <Paragraph Hide="false" Num="177">
+          <ParagraphNum>１７７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百二十二の項の総務省令で定める事務は、国家公務員法（昭和二十二年法律第百二十号）第四十二条の採用試験の受験願書の受理、その受験願書に係る事実についての審査又はその受験願書の提出に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="177">
-          <ParagraphNum>１７７</ParagraphNum>
+        <Paragraph Hide="false" Num="178">
+          <ParagraphNum>１７８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第一の百二十三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -6741,7 +6777,7 @@
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律第百二十五条第一項の保健事業の実施の対象となる者の生存の事実又は氏名若しくは住所の変更の事実の確認</Sentence>
+              <Sentence WritingMode="vertical">高齢者の医療の確保に関する法律第百二十五条第一項の高齢者保健事業又は同条第五項の事業の実施の対象となる者の生存の事実又は氏名若しくは住所の変更の事実の確認</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="8">
@@ -8048,11 +8084,29 @@
         <Paragraph Hide="false" Num="38">
           <ParagraphNum>３８</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法別表第三の八の項の総務省令で定める事務は、家畜商法（昭和二十四年法律第二百八号）第五条の登録の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
+            <Sentence WritingMode="vertical">法別表第三の七の二十の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">卸売市場法第十三条第一項又は第十四条において準用する同法第六条第一項の認定の申請の受理又はその申請に係る事実についての審査</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">卸売市場法第十四条において準用する同法第六条第二項の届出の受理又はその届出に係る事実についての審査</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Hide="false" Num="39">
           <ParagraphNum>３９</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法別表第三の八の項の総務省令で定める事務は、家畜商法（昭和二十四年法律第二百八号）第五条の登録の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="40">
+          <ParagraphNum>４０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の九の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8087,8 +8141,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="40">
-          <ParagraphNum>４０</ParagraphNum>
+        <Paragraph Hide="false" Num="41">
+          <ParagraphNum>４１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の十の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8129,14 +8183,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="41">
-          <ParagraphNum>４１</ParagraphNum>
+        <Paragraph Hide="false" Num="42">
+          <ParagraphNum>４２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の十一の項の総務省令で定める事務は、大規模小売店舗立地法第五条第一項、第六条第二項、第八条第七項、第九条第四項又は附則第五条第一項（同条第三項において準用する場合を含む。）の届出の受理又はその届出に係る事実についての審査とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="42">
-          <ParagraphNum>４２</ParagraphNum>
+        <Paragraph Hide="false" Num="43">
+          <ParagraphNum>４３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の十二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8159,14 +8213,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="43">
-          <ParagraphNum>４３</ParagraphNum>
+        <Paragraph Hide="false" Num="44">
+          <ParagraphNum>４４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の十三の項の総務省令で定める事務は、火薬類取締法第三十一条第三項の試験（都道府県知事が行うものに限る。）の受験願書の受理、その受験願書に係る事実についての審査又はその受験願書の提出に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="44">
-          <ParagraphNum>４４</ParagraphNum>
+        <Paragraph Hide="false" Num="45">
+          <ParagraphNum>４５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の十四の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8183,8 +8237,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="45">
-          <ParagraphNum>４５</ParagraphNum>
+        <Paragraph Hide="false" Num="46">
+          <ParagraphNum>４６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の十五の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8201,8 +8255,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="46">
-          <ParagraphNum>４６</ParagraphNum>
+        <Paragraph Hide="false" Num="47">
+          <ParagraphNum>４７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の十六の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8219,8 +8273,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="47">
-          <ParagraphNum>４７</ParagraphNum>
+        <Paragraph Hide="false" Num="48">
+          <ParagraphNum>４８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の十七の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8243,8 +8297,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="48">
-          <ParagraphNum>４８</ParagraphNum>
+        <Paragraph Hide="false" Num="49">
+          <ParagraphNum>４９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の十八の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8267,8 +8321,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="49">
-          <ParagraphNum>４９</ParagraphNum>
+        <Paragraph Hide="false" Num="50">
+          <ParagraphNum>５０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の十九の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8285,8 +8339,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="50">
-          <ParagraphNum>５０</ParagraphNum>
+        <Paragraph Hide="false" Num="51">
+          <ParagraphNum>５１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8321,8 +8375,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="51">
-          <ParagraphNum>５１</ParagraphNum>
+        <Paragraph Hide="false" Num="52">
+          <ParagraphNum>５２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十一の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8345,14 +8399,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="52">
-          <ParagraphNum>５２</ParagraphNum>
+        <Paragraph Hide="false" Num="53">
+          <ParagraphNum>５３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十一の二の項の総務省令で定める事務は、住宅宿泊事業法第三条第一項又は第四項の届出の受理又はその届出に係る事実についての審査とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="53">
-          <ParagraphNum>５３</ParagraphNum>
+        <Paragraph Hide="false" Num="54">
+          <ParagraphNum>５４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十一の三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8381,8 +8435,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="54">
-          <ParagraphNum>５４</ParagraphNum>
+        <Paragraph Hide="false" Num="55">
+          <ParagraphNum>５５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8423,8 +8477,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="55">
-          <ParagraphNum>５５</ParagraphNum>
+        <Paragraph Hide="false" Num="56">
+          <ParagraphNum>５６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8495,8 +8549,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="56">
-          <ParagraphNum>５６</ParagraphNum>
+        <Paragraph Hide="false" Num="57">
+          <ParagraphNum>５７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十三の二の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8537,8 +8591,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="57">
-          <ParagraphNum>５７</ParagraphNum>
+        <Paragraph Hide="false" Num="58">
+          <ParagraphNum>５８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十三の三の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8555,8 +8609,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="58">
-          <ParagraphNum>５８</ParagraphNum>
+        <Paragraph Hide="false" Num="59">
+          <ParagraphNum>５９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十四の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8579,14 +8633,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="59">
-          <ParagraphNum>５９</ParagraphNum>
+        <Paragraph Hide="false" Num="60">
+          <ParagraphNum>６０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十五の項の総務省令で定める事務は、建築基準法第七十七条の六十三第一項の規定により経由される書類の受理、その書類に係る事実についての審査又はその書類の提出に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="60">
-          <ParagraphNum>６０</ParagraphNum>
+        <Paragraph Hide="false" Num="61">
+          <ParagraphNum>６１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十六の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8645,8 +8699,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="61">
-          <ParagraphNum>６１</ParagraphNum>
+        <Paragraph Hide="false" Num="62">
+          <ParagraphNum>６２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十七の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8669,8 +8723,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="62">
-          <ParagraphNum>６２</ParagraphNum>
+        <Paragraph Hide="false" Num="63">
+          <ParagraphNum>６３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十八の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -8687,8 +8741,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="63">
-          <ParagraphNum>６３</ParagraphNum>
+        <Paragraph Hide="false" Num="64">
+          <ParagraphNum>６４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第三の二十九の項の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -10001,7 +10055,7 @@
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律第百二十五条第一項の保健事業の実施の対象となる者の生存の事実又は氏名若しくは住所の変更の事実の確認</Sentence>
+              <Sentence WritingMode="vertical">高齢者の医療の確保に関する法律第百二十五条第一項の高齢者保健事業又は同条第五項の事業の実施の対象となる者の生存の事実又は氏名若しくは住所の変更の事実の確認</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="8">
@@ -11326,6 +11380,24 @@
         <Paragraph Hide="false" Num="37">
           <ParagraphNum>３７</ParagraphNum>
           <ParagraphSentence>
+            <Sentence WritingMode="vertical">法別表第五第十号の十一の総務省令で定める事務は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">卸売市場法第十三条第一項又は第十四条において準用する同法第六条第一項の認定の申請の受理又はその申請に係る事実についての審査</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">卸売市場法第十四条において準用する同法第六条第二項の届出の受理又はその届出に係る事実についての審査</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="38">
+          <ParagraphNum>３８</ParagraphNum>
+          <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第十一号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
@@ -11341,14 +11413,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="38">
-          <ParagraphNum>３８</ParagraphNum>
+        <Paragraph Hide="false" Num="39">
+          <ParagraphNum>３９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第十二号の総務省令で定める事務は、林業種苗法（昭和四十五年法律第八十九号）第十条第一項の登録の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="39">
-          <ParagraphNum>３９</ParagraphNum>
+        <Paragraph Hide="false" Num="40">
+          <ParagraphNum>４０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第十三号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11383,8 +11455,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="40">
-          <ParagraphNum>４０</ParagraphNum>
+        <Paragraph Hide="false" Num="41">
+          <ParagraphNum>４１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第十四号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11425,14 +11497,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="41">
-          <ParagraphNum>４１</ParagraphNum>
+        <Paragraph Hide="false" Num="42">
+          <ParagraphNum>４２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第十五号の総務省令で定める事務は、大規模小売店舗立地法第五条第一項、第六条第二項、第八条第七項、第九条第四項又は附則第五条第一項（同条第三項において準用する場合を含む。）の届出の受理又はその届出に係る事実についての審査とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="42">
-          <ParagraphNum>４２</ParagraphNum>
+        <Paragraph Hide="false" Num="43">
+          <ParagraphNum>４３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第十六号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11455,14 +11527,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="43">
-          <ParagraphNum>４３</ParagraphNum>
+        <Paragraph Hide="false" Num="44">
+          <ParagraphNum>４４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第十七号の総務省令で定める事務は、火薬類取締法第三十一条第三項の試験（都道府県知事が行うものに限る。）の受験願書の受理、その受験願書に係る事実についての審査又はその受験願書の提出に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="44">
-          <ParagraphNum>４４</ParagraphNum>
+        <Paragraph Hide="false" Num="45">
+          <ParagraphNum>４５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第十八号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11479,8 +11551,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="45">
-          <ParagraphNum>４５</ParagraphNum>
+        <Paragraph Hide="false" Num="46">
+          <ParagraphNum>４６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第十九号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11497,8 +11569,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="46">
-          <ParagraphNum>４６</ParagraphNum>
+        <Paragraph Hide="false" Num="47">
+          <ParagraphNum>４７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11515,8 +11587,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="47">
-          <ParagraphNum>４７</ParagraphNum>
+        <Paragraph Hide="false" Num="48">
+          <ParagraphNum>４８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十一号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11539,8 +11611,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="48">
-          <ParagraphNum>４８</ParagraphNum>
+        <Paragraph Hide="false" Num="49">
+          <ParagraphNum>４９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十二号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11563,8 +11635,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="49">
-          <ParagraphNum>４９</ParagraphNum>
+        <Paragraph Hide="false" Num="50">
+          <ParagraphNum>５０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十三号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11581,8 +11653,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="50">
-          <ParagraphNum>５０</ParagraphNum>
+        <Paragraph Hide="false" Num="51">
+          <ParagraphNum>５１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十四号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11617,8 +11689,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="51">
-          <ParagraphNum>５１</ParagraphNum>
+        <Paragraph Hide="false" Num="52">
+          <ParagraphNum>５２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十五号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11641,14 +11713,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="52">
-          <ParagraphNum>５２</ParagraphNum>
+        <Paragraph Hide="false" Num="53">
+          <ParagraphNum>５３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十五号の二の総務省令で定める事務は、住宅宿泊事業法第三条第一項又は第四項の届出の受理又はその届出に係る事実についての審査とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="53">
-          <ParagraphNum>５３</ParagraphNum>
+        <Paragraph Hide="false" Num="54">
+          <ParagraphNum>５４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十六号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11677,8 +11749,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="54">
-          <ParagraphNum>５４</ParagraphNum>
+        <Paragraph Hide="false" Num="55">
+          <ParagraphNum>５５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十七号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11725,8 +11797,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="55">
-          <ParagraphNum>５５</ParagraphNum>
+        <Paragraph Hide="false" Num="56">
+          <ParagraphNum>５６</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十八号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11797,8 +11869,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="56">
-          <ParagraphNum>５６</ParagraphNum>
+        <Paragraph Hide="false" Num="57">
+          <ParagraphNum>５７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十八号の二の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11839,8 +11911,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="57">
-          <ParagraphNum>５７</ParagraphNum>
+        <Paragraph Hide="false" Num="58">
+          <ParagraphNum>５８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十八号の三の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11857,8 +11929,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="58">
-          <ParagraphNum>５８</ParagraphNum>
+        <Paragraph Hide="false" Num="59">
+          <ParagraphNum>５９</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第二十九号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11881,14 +11953,14 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="59">
-          <ParagraphNum>５９</ParagraphNum>
+        <Paragraph Hide="false" Num="60">
+          <ParagraphNum>６０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第三十号の総務省令で定める事務は、建築基準法第七十七条の六十三第一項の規定により経由される書類の受理、その書類に係る事実についての審査又はその書類の提出に対する応答とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Hide="false" Num="60">
-          <ParagraphNum>６０</ParagraphNum>
+        <Paragraph Hide="false" Num="61">
+          <ParagraphNum>６１</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第三十一号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11953,8 +12025,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="61">
-          <ParagraphNum>６１</ParagraphNum>
+        <Paragraph Hide="false" Num="62">
+          <ParagraphNum>６２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第三十二号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11977,8 +12049,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="62">
-          <ParagraphNum>６２</ParagraphNum>
+        <Paragraph Hide="false" Num="63">
+          <ParagraphNum>６３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第三十三号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -11995,8 +12067,8 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="63">
-          <ParagraphNum>６３</ParagraphNum>
+        <Paragraph Hide="false" Num="64">
+          <ParagraphNum>６４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">法別表第五第三十四号の総務省令で定める事務は、次のとおりとする。</Sentence>
           </ParagraphSentence>
@@ -13012,6 +13084,51 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、建築士法の一部を改正する法律の施行の日（令和二年三月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日総務省令第二八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月一日総務省令第三四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三〇日総務省令第四八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律の施行の日（令和二年五月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月五日総務省令第五八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、年金制度の機能強化のための国民年金法等の一部を改正する法律（令和二年法律第百七十八号）附則第一条第一号に掲げる規定の施行の日（令和二年六月五日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一九日総務省令第六〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、卸売市場法及び食品流通構造改善促進法の一部を改正する法律附則第一条第三号に掲げる規定の施行の日（令和二年六月二十一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

@@ -254,7 +254,7 @@
           <Paragraph Hide="false" Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項の規定にかかわらず、同項に規定する嘱託をするために指定公証人に対し提供しなければならない情報であって認証を受けようとする情報と併せて提供しなければならないものが電気通信回線により指定公証人に送信して提供されている場合には、嘱託人が指定公証人の面前において行う法第六十二条ノ六第一項第二号に掲げる行為（同条第二項に規定する宣誓をした上で行うものを除く。）は、映像と音声の送受信により相手の状態を相互に認識しながら通話をすることができる方法によってすることができる。</Sentence>
+              <Sentence WritingMode="vertical">前項の規定にかかわらず、嘱託人の申立てがあり、指定公証人が相当と認めるときは、嘱託人が指定公証人の面前において行う法第六十二条ノ六第一項第二号に掲げる行為（同条第二項に規定する宣誓をした上で行うものを除く。）は、映像と音声の送受信により相手の状態を相互に認識しながら通話をすることができる方法によってすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="8">
@@ -1021,17 +1021,34 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月一日法務省令第三六号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年五月十一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令の施行前にされた嘱託に係る電磁的記録の認証に関する手続については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">附録第一号</AppdxNoteTitle>
       <RelatedArticleNum>（第二十三条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/H13F12001000024_2005281305_001.jpg"/>
+          <Fig src="./pict/H13F12001000024_2006291706_001.jpg"/>
         </Note>
       </NoteStruct>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/H13F12001000024_2005281305_002.jpg"/>
+          <Fig src="./pict/H13F12001000024_2006291706_002.jpg"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -1040,7 +1057,7 @@
       <RelatedArticleNum>（第二十三条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/H13F12001000024_2005281305_003.jpg"/>
+          <Fig src="./pict/H13F12001000024_2006291706_003.jpg"/>
         </Note>
       </NoteStruct>
     </AppdxNote>

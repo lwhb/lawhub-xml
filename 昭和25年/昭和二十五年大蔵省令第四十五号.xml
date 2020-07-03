@@ -21,7 +21,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三条第六項の規定により支給する旅費の額は、左の各号に規定する額による。</Sentence>
+            <Sentence WritingMode="vertical">法第三条第六項の規定により支給する旅費の額は、法第四十六条第二項の規定に基づき財務大臣に協議して定める旅費の額を支給する場合を除き、左の各号に規定する額による。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -182,7 +182,7 @@
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">第二号から第七号までに掲げる旅費以外の旅費を請求する場合には、別表第二の第一号様式による旅費請求書。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、第三条第一項に規定する赴任に係る旅費及び法第二十五条又は第三十八条（法の他の条文においてこれらを準用する場合を含む。）に規定する扶養親族移転料を請求する場合には、別表第二の第二号様式による旅費請求書</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、法第三条第一項に規定する赴任に係る旅費及び法第二十五条又は第三十八条（法の他の条文においてこれらを準用する場合を含む。）に規定する扶養親族移転料を請求する場合には、別表第二の第二号様式による旅費請求書</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -1332,6 +1332,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一五日財務省令第四九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一（甲）</AppdxTableTitle>
       <TableStruct>
@@ -1339,7 +1348,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S25F03401000045_2005191405_001.pdf"/>
+                <Fig src="./pict/S25F03401000045_2006291806_001.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -1353,7 +1362,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S25F03401000045_2005191405_002.pdf"/>
+                <Fig src="./pict/S25F03401000045_2006291806_002.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -1364,7 +1373,7 @@
       <AppdxStyleTitle WritingMode="vertical">別表第二（第一号様式（甲））</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F03401000045_2005191405_003.pdf"/>
+          <Fig src="./pict/S25F03401000045_2006291806_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1372,7 +1381,7 @@
       <AppdxStyleTitle WritingMode="vertical">別表第二（第二号様式（甲））</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F03401000045_2005191405_004.pdf"/>
+          <Fig src="./pict/S25F03401000045_2006291806_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1380,7 +1389,7 @@
       <AppdxStyleTitle WritingMode="vertical">別表第二（第一号様式（乙）第二号様式（乙））</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F03401000045_2005191405_005.pdf"/>
+          <Fig src="./pict/S25F03401000045_2006291806_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1388,7 +1397,7 @@
       <AppdxStyleTitle WritingMode="vertical">別表第二（第三号様式（甲））</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F03401000045_2005191405_006.pdf"/>
+          <Fig src="./pict/S25F03401000045_2006291806_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1396,7 +1405,7 @@
       <AppdxStyleTitle WritingMode="vertical">別表第二（第三号様式（乙））</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F03401000045_2005191405_007.pdf"/>
+          <Fig src="./pict/S25F03401000045_2006291806_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1404,7 +1413,7 @@
       <AppdxStyleTitle WritingMode="vertical">別表第二（第四号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F03401000045_2005191405_008.pdf"/>
+          <Fig src="./pict/S25F03401000045_2006291806_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1412,7 +1421,7 @@
       <AppdxStyleTitle WritingMode="vertical">別表第二（第五号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F03401000045_2005191405_009.pdf"/>
+          <Fig src="./pict/S25F03401000045_2006291806_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1420,7 +1429,7 @@
       <AppdxStyleTitle WritingMode="vertical">別表第二（第六号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F03401000045_2005191405_010.pdf"/>
+          <Fig src="./pict/S25F03401000045_2006291806_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1428,7 +1437,7 @@
       <AppdxStyleTitle WritingMode="vertical">別表第二（第七号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F03401000045_2005191405_011.pdf"/>
+          <Fig src="./pict/S25F03401000045_2006291806_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1436,7 +1445,7 @@
       <AppdxStyleTitle WritingMode="vertical">別表第二（第八号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F03401000045_2005191405_012.pdf"/>
+          <Fig src="./pict/S25F03401000045_2006291806_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

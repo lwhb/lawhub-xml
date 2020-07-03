@@ -112,6 +112,12 @@
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、人道上やむを得ない理由により、戸籍への記載を待たずに渡航しなければならない特別の事情があると認められるときに限る。</Sentence>
             </ItemSentence>
           </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国外において、有効期限が満了した旅券を返納の上、法第三条の申請をする場合において、当該旅券の有効期限満了前に法第十一条の規定に基づいた法第三条の申請ができないことについて真にやむを得ない理由があると認められるとき。</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Hide="false" Num="6">
           <ParagraphNum>６</ParagraphNum>
@@ -1420,6 +1426,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月二二日外務省令第八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
@@ -1428,7 +1443,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/H01F03301000011_2003111403_001.pdf"/>
+                <Fig src="./pict/H01F03301000011_2006291406_001.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -1471,7 +1486,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_002.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1479,7 +1494,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１号の２様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_003.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1487,7 +1502,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第２号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_004.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1495,7 +1510,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第２号の２様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_005.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1503,7 +1518,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第３号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_006.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1511,7 +1526,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第３号の２様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_007.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1519,7 +1534,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第４号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_008.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1527,7 +1542,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第４号の２様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_009.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1535,7 +1550,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第５号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_010.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1543,7 +1558,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第６号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_011.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1551,7 +1566,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第７号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_012.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1559,7 +1574,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第８号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_013.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1567,7 +1582,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第９号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_014.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1575,7 +1590,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１０号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_015.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1583,7 +1598,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１１号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_016.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1591,7 +1606,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１１号の２様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_017.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1599,7 +1614,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１２号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_018.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1607,7 +1622,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１２号の２様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_019.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1615,7 +1630,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１３号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_020.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1623,7 +1638,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１４号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_021.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1631,7 +1646,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１５号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_022.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1639,7 +1654,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１５号の２様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_023.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1647,7 +1662,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１６号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_024.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1655,7 +1670,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１７号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_025.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1663,7 +1678,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１８号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_026.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1671,7 +1686,7 @@
       <AppdxStyleTitle WritingMode="vertical">（別記第１９号様式）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H01F03301000011_2003111403_027.pdf"/>
+          <Fig src="./pict/H01F03301000011_2006291406_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
