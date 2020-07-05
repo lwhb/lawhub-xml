@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200618e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="284" Year="09">
+<Law DataInfo="200622e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="284" Year="09">
   <LawNum>平成九年政令第二百八十四号</LawNum>
   <LawBody>
     <LawTitle>航空法関係手数料令</LawTitle>
@@ -22,7 +22,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1">法第百三十五条第二号から第六号までに掲げる者が同条の規定により納付しなければならない手数料の額は、別表第一のとおりとする。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、同表第一号から第三号までの証明又は検査において騒音又は発動機の排出物の実測を行う場合にあっては、当該各号に掲げる額に別表第二に掲げる額を加算した額とする。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、同表第一号から第八号までの証明、承認又は検査において騒音又は発動機の排出物の実測を行う場合にあっては、同表に掲げる額に別表第二に掲げる額を加算した額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -275,6 +275,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この政令は、令和二年三月二十三日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月一一日政令第一六六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、航空法及び運輸安全委員会設置法の一部を改正する法律（令和元年法律第三十八号）の施行の日（令和二年六月十八日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -849,15 +858,369 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn Valign="top" rowspan="36">
-              <Sentence>三　法第十六条第一項の修理改造検査を受けようとする者</Sentence>
+            <TableColumn Valign="top" rowspan="30">
+              <Sentence>三　法第十三条第一項の承認を申請する者</Sentence>
             </TableColumn>
+            <TableColumn Valign="top" rowspan="27">
+              <Sentence>イ　国土交通省令で定める大変更をしようとする場合</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" rowspan="9">
+              <Sentence>（１）　承認に係る変更について国際民間航空条約の締約国たる外国が承認その他の行為をした航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" rowspan="3">
+              <Sentence>飛行機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>最大離陸重量五千七百キログラム以下のもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>単発機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>十万二千六百円（電子情報処理組織により承認を申請する場合（以下「電子承認申請の場合」という。）にあっては、十万二千百円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>多発機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>十八万五千四百円（電子承認申請の場合にあっては、十八万五千円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>最大離陸重量五千七百キログラムを超えるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>十八万五千四百円（電子承認申請の場合にあっては、十八万五千円）に、五千七百キログラムを超える五千七百キログラムごとに一万九百円を加算した額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" rowspan="3">
+              <Sentence>回転翼航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>最大離陸重量三千百七十五キログラム以下のもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>単発機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>十万三千六百円（電子承認申請の場合にあっては、十万三千百円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>多発機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>十八万七千円（電子承認申請の場合にあっては、十八万六千五百円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>最大離陸重量三千百七十五キログラムを超えるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>十八万七千円（電子承認申請の場合にあっては、十八万六千五百円）に、三千百七十五キログラムを超える三千百七十五キログラムごとに一万四千四百円を加算した額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>滑空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>動力滑空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>七万千六百円（電子承認申請の場合にあっては、七万千百円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>その他の滑空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>六万五千五百円（電子承認申請の場合にあっては、六万五千百円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="3">
+              <Sentence>飛行船</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>十八万三千四百円（電子承認申請の場合にあっては、十八万三千円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" rowspan="9">
+              <Sentence>（２）　法第二十条第一項第一号の能力について同項の認定を受けた者が承認に係る設計及び設計後の検査をした航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" rowspan="3">
+              <Sentence>飛行機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>最大離陸重量五千七百キログラム以下のもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>単発機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>二百九十九万五千九百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>多発機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>五百八十五万五千四百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>最大離陸重量五千七百キログラムを超えるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>五百八十五万五千四百円に、五千七百キログラムを超える五千七百キログラムごとに三十四万三千八百円を加算した額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" rowspan="3">
+              <Sentence>回転翼航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>最大離陸重量三千百七十五キログラム以下のもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>単発機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>二百八十七万二千五百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>多発機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>五百五十五万九千五百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>最大離陸重量三千百七十五キログラムを超えるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>五百五十五万九千五百円に、三千百七十五キログラムを超える三千百七十五キログラムごとに四十万四千五百円を加算した額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>滑空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>動力滑空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>百三十二万五千四百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>その他の滑空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>百九万千三百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="3">
+              <Sentence>飛行船</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>五百五十九万六千百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" rowspan="9">
+              <Sentence>（３）　その他の航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" rowspan="3">
+              <Sentence>飛行機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>最大離陸重量五千七百キログラム以下のもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>単発機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>三百十七万六千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>多発機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>六百四十七万九千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>最大離陸重量五千七百キログラムを超えるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>六百四十七万九千円に、五千七百キログラムを超える五千七百キログラムごとに三十七万九千三百円を加算した額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" rowspan="3">
+              <Sentence>回転翼航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>最大離陸重量三千百七十五キログラム以下のもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>単発機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>三百十八万四千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>多発機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>六百四十九万千百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>最大離陸重量三千百七十五キログラムを超えるもの</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>六百四十九万千百円に、三千百七十五キログラムを超える三千百七十五キログラムごとに三十七万九千八百円を加算した額</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>滑空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>動力滑空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>百四十八万三千二百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="2">
+              <Sentence>その他の滑空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>百二十万五百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="3">
+              <Sentence>飛行船</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>五百八十三万七千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" rowspan="3">
+              <Sentence>ロ　その他の変更をしようとする場合</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" colspan="4">
+              <Sentence>（１）　承認に係る変更について国際民間航空条約の締約国たる外国が承認その他の行為をした航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>三万千五百円（電子承認申請の場合にあっては、三万千円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="4">
+              <Sentence>（２）　法第二十条第一項第一号の能力について同項の認定を受けた者が承認に係る設計及び設計後の検査をした航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>三十二万七百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="4">
+              <Sentence>（３）　その他の航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>三十三万三千二百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" rowspan="3">
+              <Sentence>四　法第十三条の二第一項の承認を申請する者</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" colspan="5">
+              <Sentence>イ　承認に係る変更について国際民間航空条約の締約国たる外国が承認その他の行為をした航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>一万九千七百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="5">
+              <Sentence>ロ　法第二十条第一項第一号の能力について同項の認定を受けた者が承認に係る設計及び設計後の検査をした航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>十五万六千百円（電子承認申請の場合にあっては、十五万五千六百円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="5">
+              <Sentence>ハ　その他の航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>十九万五千百円（電子承認申請の場合にあっては、十九万四千六百円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" rowspan="3">
+              <Sentence>五　法第十三条の二第三項の承認を申請する者</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" colspan="5">
+              <Sentence>イ　承認に係る変更について国際民間航空条約の締約国たる外国が承認その他の行為をした航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>一万二千七百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="5">
+              <Sentence>ロ　法第二十条第一項第一号の能力について同項の認定を受けた者が承認に係る設計及び設計後の検査をした航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>十万二百円（電子承認申請の場合にあっては、九万九千七百円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="5">
+              <Sentence>ハ　その他の航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>十二万千円（電子承認申請の場合にあっては、十二万五百円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
             <TableColumn Valign="top" rowspan="18">
+              <Sentence>六　法第十七条第一項の修理改造検査を受けようとする者</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" colspan="2" rowspan="9">
               <Sentence>イ　国土交通省令で定める大修理又は大改造をする場合</Sentence>
             </TableColumn>
-            <TableColumn Valign="top" rowspan="9">
-              <Sentence>（１）　法第二十条第一項第一号の能力について同項の認定を受けた者が修理改造検査に係る設計及び設計後の検査をした航空機</Sentence>
-            </TableColumn>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>飛行機</Sentence>
             </TableColumn>
@@ -868,7 +1231,7 @@
               <Sentence>単発機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>四万六千五百円（電子情報処理組織により検査を申請する場合（以下「電子検査申請の場合」という。）にあっては、四万六千四百円）</Sentence>
+              <Sentence>十六万三千九百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -876,7 +1239,7 @@
               <Sentence>多発機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>九万二千五百円</Sentence>
+              <Sentence>二十万八千五百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -884,7 +1247,7 @@
               <Sentence>最大離陸重量五千七百キログラムを超えるもの</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>九万二千五百円に、五千七百キログラムを超える五千七百キログラムごとに一万円を加算した額</Sentence>
+              <Sentence>二十万八千五百円に、五千七百キログラムを超える五千七百キログラムごとに九千六百円を加算した額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -898,7 +1261,7 @@
               <Sentence>単発機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>四万六千九百円</Sentence>
+              <Sentence>十六万四千四百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -906,7 +1269,7 @@
               <Sentence>多発機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>九万三千円（電子検査申請の場合にあっては、九万二千九百円）</Sentence>
+              <Sentence>二十万九千円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -914,7 +1277,7 @@
               <Sentence>最大離陸重量三千百七十五キログラムを超えるもの</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>九万三千円（電子検査申請の場合にあっては、九万二千九百円）に、三千百七十五キログラムを超える三千百七十五キログラムごとに五千三百円を加算した額</Sentence>
+              <Sentence>二十万九千円に、三千百七十五キログラムを超える三千百七十五キログラムごとに五千八百円を加算した額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -925,7 +1288,7 @@
               <Sentence>動力滑空機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>五万四千円（電子検査申請の場合にあっては、五万三千九百円）</Sentence>
+              <Sentence>十七万三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -933,7 +1296,7 @@
               <Sentence>その他の滑空機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>五万三千円</Sentence>
+              <Sentence>十六万九千八百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -941,106 +1304,13 @@
               <Sentence>飛行船</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>九万千百円（電子検査申請の場合にあっては、九万千円）</Sentence>
+              <Sentence>二十万八千円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn Valign="top" rowspan="9">
-              <Sentence>（２）　その他の航空機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top" rowspan="3">
-              <Sentence>飛行機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top" rowspan="2">
-              <Sentence>最大離陸重量五千七百キログラム以下のもの</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>単発機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>四万八千八百円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top">
-              <Sentence>多発機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>九万六千三百円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" colspan="2">
-              <Sentence>最大離陸重量五千七百キログラムを超えるもの</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>九万六千三百円に、五千七百キログラムを超える五千七百キログラムごとに一万千百円を加算した額</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" rowspan="3">
-              <Sentence>回転翼航空機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top" rowspan="2">
-              <Sentence>最大離陸重量三千百七十五キログラム以下のもの</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>単発機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>四万九千三百円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top">
-              <Sentence>多発機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>九万六千八百円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" colspan="2">
-              <Sentence>最大離陸重量三千百七十五キログラムを超えるもの</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>九万六千八百円に、三千百七十五キログラムを超える三千百七十五キログラムごとに六千百円を加算した額</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" rowspan="2">
-              <Sentence>滑空機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top" colspan="2">
-              <Sentence>動力滑空機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>五万七千三百円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" colspan="2">
-              <Sentence>その他の滑空機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>五万五千九百円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" colspan="3">
-              <Sentence>飛行船</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>九万五千九百円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" rowspan="18">
+            <TableColumn Valign="top" colspan="2" rowspan="9">
               <Sentence>ロ　その他の修理又は改造をする場合</Sentence>
             </TableColumn>
-            <TableColumn Valign="top" rowspan="9">
-              <Sentence>（１）　法第二十条第一項第一号の能力について同項の認定を受けた者が修理改造検査に係る設計及び設計後の検査をした航空機</Sentence>
-            </TableColumn>
             <TableColumn Valign="top" rowspan="3">
               <Sentence>飛行機</Sentence>
             </TableColumn>
@@ -1051,7 +1321,7 @@
               <Sentence>単発機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>三万九千九百円（電子検査申請の場合にあっては、三万九千八百円）</Sentence>
+              <Sentence>十五万七千円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1059,7 +1329,7 @@
               <Sentence>多発機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>五万二千七百円</Sentence>
+              <Sentence>十六万七千六百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1067,7 +1337,7 @@
               <Sentence>最大離陸重量五千七百キログラムを超えるもの</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>五万二千七百円に、五千七百キログラムを超える五千七百キログラムごとに千三百円を加算した額</Sentence>
+              <Sentence>十六万七千六百円に、五千七百キログラムを超える五千七百キログラムごとに九百三十円を加算した額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1081,7 +1351,7 @@
               <Sentence>単発機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>四万三百円</Sentence>
+              <Sentence>十五万七千五百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1089,7 +1359,7 @@
               <Sentence>多発機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>五万三千二百円</Sentence>
+              <Sentence>十六万八千百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1097,7 +1367,7 @@
               <Sentence>最大離陸重量三千百七十五キログラムを超えるもの</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>五万三千二百円に、三千百七十五キログラムを超える三千百七十五キログラムごとに五百九十円（電子検査申請の場合にあっては、五百六十円）を加算した額</Sentence>
+              <Sentence>十六万八千百円に、三千百七十五キログラムを超える三千百七十五キログラムごとに五百八十円を加算した額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1108,7 +1378,7 @@
               <Sentence>動力滑空機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>四万九千二百円</Sentence>
+              <Sentence>十六万五千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1116,7 +1386,7 @@
               <Sentence>その他の滑空機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>四万八千三百円（電子検査申請の場合にあっては、四万八千二百円）</Sentence>
+              <Sentence>十六万四千八百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1124,102 +1394,50 @@
               <Sentence>飛行船</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>五万千三百円（電子検査申請の場合にあっては、五万千二百円）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" rowspan="9">
-              <Sentence>（２）　その他の航空機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top" rowspan="3">
-              <Sentence>飛行機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top" rowspan="2">
-              <Sentence>最大離陸重量五千七百キログラム以下のもの</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>単発機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>四万二千二百円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top">
-              <Sentence>多発機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>五万六千五百円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" colspan="2">
-              <Sentence>最大離陸重量五千七百キログラムを超えるもの</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>五万六千五百円に、五千七百キログラムを超える五千七百キログラムごとに千四百円を加算した額</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" rowspan="3">
-              <Sentence>回転翼航空機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top" rowspan="2">
-              <Sentence>最大離陸重量三千百七十五キログラム以下のもの</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>単発機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>四万二千七百円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top">
-              <Sentence>多発機</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>五万七千円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn Valign="top" colspan="2">
-              <Sentence>最大離陸重量三千百七十五キログラムを超えるもの</Sentence>
-            </TableColumn>
-            <TableColumn Valign="top">
-              <Sentence>五万七千円に、三千百七十五キログラムを超える三千百七十五キログラムごとに五百九十円（電子検査申請の場合にあっては、五百六十円）を加算した額</Sentence>
+              <Sentence>十六万七千百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" rowspan="2">
-              <Sentence>滑空機</Sentence>
+              <Sentence>七　法第十七条の二第一項の承認を申請する者</Sentence>
             </TableColumn>
-            <TableColumn Valign="top" colspan="2">
-              <Sentence>動力滑空機</Sentence>
+            <TableColumn Valign="top" colspan="5">
+              <Sentence>イ　法第二十条第一項第一号の能力について同項の認定を受けた者が承認に係る設計及び設計後の検査をした航空機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>五万二千六百円</Sentence>
+              <Sentence>十一万二千五百円（電子承認申請の場合にあっては、十一万二千円）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn Valign="top" colspan="2">
-              <Sentence>その他の滑空機</Sentence>
+            <TableColumn Valign="top" colspan="5">
+              <Sentence>ロ　その他の航空機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>五万千百円</Sentence>
+              <Sentence>十三万八千二百円（電子承認申請の場合にあっては、十三万七千七百円）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn Valign="top" colspan="3">
-              <Sentence>飛行船</Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence>八　法第十七条の二第三項の承認を申請する者</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top" colspan="5">
+              <Sentence>イ　法第二十条第一項第一号の能力について同項の認定を受けた者が承認に係る設計及び設計後の検査をした航空機</Sentence>
             </TableColumn>
             <TableColumn Valign="top">
-              <Sentence>五万六千百円</Sentence>
+              <Sentence>七万千六百円（電子承認申請の場合にあっては、七万千二百円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="5">
+              <Sentence>ロ　その他の航空機</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>十一万六百円（電子承認申請の場合にあっては、十一万二百円）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn Valign="top">
-              <Sentence>四　法第十七条第一項の予備品証明を申請する者</Sentence>
+              <Sentence>九　法第十八条第一項の予備品証明を申請する者</Sentence>
             </TableColumn>
             <TableColumn Valign="top" colspan="5">
               <Sentence/>
@@ -1230,7 +1448,7 @@
           </TableRow>
           <TableRow>
             <TableColumn Valign="top" rowspan="2">
-              <Sentence>五　法第二十条第一項の事業場の認定を申請する者</Sentence>
+              <Sentence>十　法第二十条第一項の事業場の認定を申請する者</Sentence>
             </TableColumn>
             <TableColumn Valign="top" colspan="5">
               <Sentence>イ　初めて認定を申請する場合</Sentence>
@@ -1245,6 +1463,15 @@
             </TableColumn>
             <TableColumn Valign="top">
               <Sentence>二十四万三千六百円（電子認定申請の場合にあっては、二十四万三千百円）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top" colspan="7">
+              <Sentence>備考</Sentence>
+              <Sentence>一　この表第一号ロに掲げる航空機について法第十七条第一項の修理又は改造をし、当該修理又は改造に係る同項の修理改造検査を受けないで法第十条第一項の耐空証明を受けようとする場合における手数料の額は、同号ロに掲げる額に、この表第六号中欄に掲げる区分に応じ、同号下欄に掲げる額（次号イ又はロに掲げる設計に基づき当該修理又は改造をする場合にあっては、当該額から十三万八千二百円を控除した額）を加算した額とする。</Sentence>
+              <Sentence>二　次に掲げる設計に基づき修理又は改造をする航空機について法第十七条第一項の修理改造検査を受けようとする場合における手数料の額は、この表第六号に掲げる額から十三万八千二百円を控除した額とする。</Sentence>
+              <Sentence>イ　法第十三条第一項、第十三条の二第一項若しくは第三項又は第十七条の二第一項若しくは第三項の承認を受けた設計</Sentence>
+              <Sentence>ロ　法第十七条第一項の国土交通省令で定める輸入した航空機の修理又は改造のための設計</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
