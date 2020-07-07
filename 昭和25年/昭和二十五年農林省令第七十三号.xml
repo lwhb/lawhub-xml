@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="191113e03k03m03" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="73" Year="25">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="73" Year="25">
   <LawNum>昭和二十五年農林省令第七十三号</LawNum>
   <LawBody>
     <LawTitle>植物防疫法施行規則</LawTitle>
@@ -4060,6 +4060,8 @@
               <Sentence WritingMode="vertical">Acleris gloverana</Sentence>
               <Sentence WritingMode="vertical">Acleris variana</Sentence>
               <Sentence WritingMode="vertical">Acraea acerata</Sentence>
+              <Sentence WritingMode="vertical">Acrogonia citrina</Sentence>
+              <Sentence WritingMode="vertical">Acrogonia terminalis</Sentence>
               <Sentence WritingMode="vertical">Acrolepiopsis assectella</Sentence>
               <Sentence WritingMode="vertical">Acrolepiopsis vesperella</Sentence>
               <Sentence WritingMode="vertical">Acrosternum hilare</Sentence>
@@ -4099,6 +4101,7 @@
               <Sentence WritingMode="vertical">Anastrepha obliqua（ニシインドミバエ）</Sentence>
               <Sentence WritingMode="vertical">Anastrepha serpentina（ウスグロミバエ）</Sentence>
               <Sentence WritingMode="vertical">Anastrepha suspensa（カリブミバエ）</Sentence>
+              <Sentence WritingMode="vertical">Anoplophora glabripennis（ツヤハダゴマダラカミキリ）</Sentence>
               <Sentence WritingMode="vertical">Anstenoptilia marmarodactyla</Sentence>
               <Sentence WritingMode="vertical">Anthonomus eugenii（トウガラシゾウムシ）</Sentence>
               <Sentence WritingMode="vertical">Anthonomus signatus</Sentence>
@@ -4140,6 +4143,7 @@
               <Sentence WritingMode="vertical">Autographa californica</Sentence>
               <Sentence WritingMode="vertical">Bactericera cockerelli</Sentence>
               <Sentence WritingMode="vertical">Bactericera nigricornis</Sentence>
+              <Sentence WritingMode="vertical">Bactericera tremblayi</Sentence>
               <Sentence WritingMode="vertical">Bactericera trigonica</Sentence>
               <Sentence WritingMode="vertical">Bactrocera albistrigata</Sentence>
               <Sentence WritingMode="vertical">Bactrocera correcta（セグロモモミバエ）</Sentence>
@@ -4368,8 +4372,9 @@
               <Sentence WritingMode="vertical">Grapholita funebrana（スモモヒメハマキ）</Sentence>
               <Sentence WritingMode="vertical">Grapholita prunivora（アメリカリンゴコシンクイ）</Sentence>
               <Sentence WritingMode="vertical">Graphosoma lineatum</Sentence>
-              <Sentence WritingMode="vertical">Gymnoscelis rufifasciata</Sentence>
               <Sentence WritingMode="vertical">Gryllotalpa gryllotalpa</Sentence>
+              <Sentence WritingMode="vertical">Gymnandrosoma aurantianum</Sentence>
+              <Sentence WritingMode="vertical">Gymnoscelis rufifasciata</Sentence>
               <Sentence WritingMode="vertical">Halotydeus destructor</Sentence>
               <Sentence WritingMode="vertical">Haplothrips anceps</Sentence>
               <Sentence WritingMode="vertical">Haplothrips clarisetis</Sentence>
@@ -4392,6 +4397,7 @@
               <Sentence WritingMode="vertical">Hofmannophila pseudospretella</Sentence>
               <Sentence WritingMode="vertical">Holotrichia disparilis</Sentence>
               <Sentence WritingMode="vertical">Holotrichia serrata</Sentence>
+              <Sentence WritingMode="vertical">Homalodisca vitripennis</Sentence>
               <Sentence WritingMode="vertical">Hordeolicoccus nephelii</Sentence>
               <Sentence WritingMode="vertical">Hyadaphis coriandri</Sentence>
               <Sentence WritingMode="vertical">Hyadaphis foeniculi</Sentence>
@@ -4851,6 +4857,7 @@
               <Sentence WritingMode="vertical">Hypoxylon mammatum（ポプラ類ヒポキシロン胴枯病菌）</Sentence>
               <Sentence WritingMode="vertical">Hypoxylon mediterraneum</Sentence>
               <Sentence WritingMode="vertical">Monilinia vaccinii-corymbosi</Sentence>
+              <Sentence WritingMode="vertical">Neonectria neomacrospora</Sentence>
               <Sentence WritingMode="vertical">Ophiostoma novo-ulmi（ニレ類立枯病菌）</Sentence>
               <Sentence WritingMode="vertical">Ophiostoma ulmi（ニレ類立枯病菌）</Sentence>
               <Sentence WritingMode="vertical">Peniophora sacrata</Sentence>
@@ -4858,6 +4865,7 @@
               <Sentence WritingMode="vertical">Peronosclerospora philippinensis</Sentence>
               <Sentence WritingMode="vertical">Peronosclerospora sacchari（サトウキビべと病菌）</Sentence>
               <Sentence WritingMode="vertical">Peronosclerospora sorghi（モロコシしらが病菌）</Sentence>
+              <Sentence WritingMode="vertical">Peronospora chlorae（トルコギキョウべと病菌）</Sentence>
               <Sentence WritingMode="vertical">Peronospora tabacina（タバコべと病菌）</Sentence>
               <Sentence WritingMode="vertical">Phymatotrichopsis omnivora</Sentence>
               <Sentence WritingMode="vertical">Phytophthora kernoviae</Sentence>
@@ -4866,16 +4874,20 @@
               <Sentence WritingMode="vertical">Puccinia aristidae（ホウレンソウさび病菌）</Sentence>
               <Sentence WritingMode="vertical">Puccinia pittieriana</Sentence>
               <Sentence WritingMode="vertical">Pucciniastrum americanum（キイチゴ類さび病菌）</Sentence>
+              <Sentence WritingMode="vertical">Ramularia collo-cygni</Sentence>
               <Sentence WritingMode="vertical">Rosellinia bunodes（コーヒーノキ紋羽病菌）</Sentence>
               <Sentence WritingMode="vertical">Rosellinia pepo</Sentence>
               <Sentence WritingMode="vertical">Seiridium cardinale</Sentence>
               <Sentence WritingMode="vertical">Septoria citri</Sentence>
               <Sentence WritingMode="vertical">Sirococcus conigenus</Sentence>
+              <Sentence WritingMode="vertical">Sirococcus tsugae</Sentence>
               <Sentence WritingMode="vertical">Sphaeropsis tumefaciens（カンキツ類てんぐ巣病菌）</Sentence>
               <Sentence WritingMode="vertical">Stenocarpella macrospora</Sentence>
               <Sentence WritingMode="vertical">Stenocarpella maydis</Sentence>
               <Sentence WritingMode="vertical">Synchytrium endobioticum（ジャガイモがんしゆ病菌）</Sentence>
               <Sentence WritingMode="vertical">Synchytrium psophocarpi（シカクマメ赤渋病菌）</Sentence>
+              <Sentence WritingMode="vertical">Thecaphora frezii</Sentence>
+              <Sentence WritingMode="vertical">Thecaphora solani[SYN: Angiosorus solani]</Sentence>
               <Sentence WritingMode="vertical">Tilletia indica</Sentence>
               <Sentence WritingMode="vertical">Uromyces betae（テンサイさび病菌）</Sentence>
             </TableColumn>
@@ -4905,7 +4917,7 @@
               <Sentence WritingMode="vertical">Erwinia tracheiphila（ウリ類青枯病菌）</Sentence>
               <Sentence WritingMode="vertical">Grapevine flavescence doree phytoplasma</Sentence>
               <Sentence WritingMode="vertical">Grapevine yellows phytoplasma</Sentence>
-              <Sentence WritingMode="vertical">Pantoea stewartii［SYN：Erwinia stewartii］（トウモロコシ萎ちよう細菌病菌）</Sentence>
+              <Sentence WritingMode="vertical">Pantoea stewartii subsp. stewartii（トウモロコシ萎ちよう細菌病菌）</Sentence>
               <Sentence WritingMode="vertical">Peach rosette phytoplasma</Sentence>
               <Sentence WritingMode="vertical">Peach X-disease phytoplasma</Sentence>
               <Sentence WritingMode="vertical">Peach yellows phytoplasma</Sentence>
@@ -4939,13 +4951,20 @@
               <Sentence WritingMode="vertical">Artichoke Italian latent virus</Sentence>
               <Sentence WritingMode="vertical">Banana bract mosaic virus</Sentence>
               <Sentence WritingMode="vertical">Banana streak GF virus</Sentence>
-              <Sentence WritingMode="vertical">Banana streak Mysore virus</Sentence>
+              <Sentence WritingMode="vertical">Banana streak IM virus</Sentence>
+              <Sentence WritingMode="vertical">Banana streak MY virus</Sentence>
               <Sentence WritingMode="vertical">Banana streak OL virus</Sentence>
-              <Sentence WritingMode="vertical">Banana streak virus</Sentence>
+              <Sentence WritingMode="vertical">Banana streak UA virus</Sentence>
+              <Sentence WritingMode="vertical">Banana streak UI virus</Sentence>
+              <Sentence WritingMode="vertical">Banana streak UL virus</Sentence>
+              <Sentence WritingMode="vertical">Banana streak UM virus</Sentence>
+              <Sentence WritingMode="vertical">Banana streak VN virus</Sentence>
               <Sentence WritingMode="vertical">Beet curly top virus</Sentence>
               <Sentence WritingMode="vertical">Black raspberry necrosis virus</Sentence>
+              <Sentence WritingMode="vertical">Blackberry chlorotic ringspot virus</Sentence>
               <Sentence WritingMode="vertical">Blackberry yellow vein-associated virus</Sentence>
               <Sentence WritingMode="vertical">Blackcurrant reversion virus</Sentence>
+              <Sentence WritingMode="vertical">Blueberry fruit drop-associated virus</Sentence>
               <Sentence WritingMode="vertical">Blueberry leaf mottle virus</Sentence>
               <Sentence WritingMode="vertical">Blueberry mosaic virus</Sentence>
               <Sentence WritingMode="vertical">Blueberry scorch virus</Sentence>
@@ -4971,11 +4990,10 @@
               <Sentence WritingMode="vertical">Grapevine Bulgarian latent virus</Sentence>
               <Sentence WritingMode="vertical">Grapevine chrome mosaic virus</Sentence>
               <Sentence WritingMode="vertical">Grapevine leafroll-associated virus ４</Sentence>
-              <Sentence WritingMode="vertical">Grapevine leafroll-associated virus ５</Sentence>
-              <Sentence WritingMode="vertical">Grapevine leafroll-associated virus ６</Sentence>
               <Sentence WritingMode="vertical">Grapevine leafroll-associated virus ７</Sentence>
               <Sentence WritingMode="vertical">Grapevine leafroll-associated virus ８</Sentence>
               <Sentence WritingMode="vertical">Grapevine line pattern virus</Sentence>
+              <Sentence WritingMode="vertical">Grapevine Pinot gris virus</Sentence>
               <Sentence WritingMode="vertical">Grapevine Tunisian ringspot virus</Sentence>
               <Sentence WritingMode="vertical">Grapevine yellow vein virus</Sentence>
               <Sentence WritingMode="vertical">Indian citrus ringspot virus</Sentence>
@@ -5043,11 +5061,10 @@
               <Sentence WritingMode="vertical">Tulip halo necrosis virus</Sentence>
               <Sentence WritingMode="vertical">Vallota mosaic virus</Sentence>
               <Sentence WritingMode="vertical">Columnea latent viroid</Sentence>
-              <Sentence WritingMode="vertical">Mexican papita viroid</Sentence>
               <Sentence WritingMode="vertical">Pepper chat fruit viroid</Sentence>
               <Sentence WritingMode="vertical">Potato spindle tuber viroid（ジャガイモやせいもウイロイド）</Sentence>
               <Sentence WritingMode="vertical">Tomato apical stunt viroid</Sentence>
-              <Sentence WritingMode="vertical">Tomato chlorotic dwarf viroid</Sentence>
+              <Sentence WritingMode="vertical">Tomato chlorotic dwarf viroid（トマト退緑萎縮ウイロイド）</Sentence>
               <Sentence WritingMode="vertical">Tomato planta macho viroid</Sentence>
             </TableColumn>
           </TableRow>
@@ -5131,7 +5148,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一　インド、インドネシア、カンボジア、シンガポール、スリランカ、タイ、中華人民共和国（香港を除く。以下この表において同じ。）、ネパール、パキスタン、バングラデシュ、フィリピン、ブータン、ベトナム、香港、マレーシア、ミャンマー、モルディブ、ラオス、アラブ首長国連邦、イエメン、イラン、オマーン、ウガンダ、ケニア、ジンバブエ、スワジランド、セーシェル、タンザニア、南アフリカ共和国、アメリカ合衆国（ハワイ諸島を除く。以下この表において同じ。）、バミューダ諸島、エクアドル、エルサルバドル、ガイアナ、グアテマラ、コスタリカ、コロンビア、スリナム、ニカラグア、西インド諸島、パナマ、ブラジル、フランス領ギアナ、ベネズエラ、ベリーズ、メキシコ、オーストラリア領クリスマス島、パプアニューギニア、ハワイ諸島</Sentence>
+              <Sentence WritingMode="vertical">一　インド、インドネシア、カンボジア、シンガポール、スリランカ、タイ、中華人民共和国（香港を除く。以下この表において同じ。）、ネパール、パキスタン、バングラデシュ、フィリピン、ブータン、ベトナム、香港、マレーシア、ミャンマー、モルディブ、ラオス、アラブ首長国連邦、イエメン、イラン、オマーン、ウガンダ、ケニア、ジンバブエ、スワジランド、セーシェル、タンザニア、南アフリカ共和国、アメリカ合衆国（ハワイ諸島を除く。以下この表において同じ。）、バミューダ諸島、アルゼンチン、エクアドル、エルサルバドル、ガイアナ、グアテマラ、コスタリカ、コロンビア、スリナム、ニカラグア、西インド諸島、パナマ、ブラジル、フランス領ギアナ、ベネズエラ、ベリーズ、メキシコ、オーストラリア領クリスマス島、パプアニューギニア、ハワイ諸島</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">アボカド、カシューナッツ、カヤ・イボレンシス、くだものとけい、げつけいじゆ、ココやし、ごれんし、ざくろ、サポジラ、しようが、パパイヤ、ばんじろう、ブクスス・センペルウィレンス、まるめろ、マンゴウ、れいし、くわ属植物、ケストルム属植物、げつきつ属植物、コーヒーノキ属植物、なし属植物、はこやなぎ属植物、バショウ属植物、ばら属植物、ばんれいし属植物、ぶどう属植物、ふよう属植物、プルメリア属植物、みかん属植物及びユーゲニア属植物の生植物（種子、果実及び地下部を除く。）であつて栽培の用に供するもの</Sentence>
@@ -5142,10 +5159,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二　インド、アラブ首長国連邦、イエメン、イスラエル、イラク、イラン、カタール、サウジアラビア、シリア、トルコ、ヨルダン、アルバニア、イタリア、英国（グレート・ブリテン及び北アイルランドに限る。以下この表において同じ。）、英領チャネル諸島、オランダ、キプロス、ギリシャ、クロアチア、コソボ、スイス、スペイン、スロベニア、セルビア、ハンガリー、フランス、ブルガリア、ボスニア・ヘルツェゴビナ、ポルトガル、マルタ、モンテネグロ、リトアニア、ルーマニア、ロシア、アルジェリア、エチオピア、カナリア諸島、ケニア、スーダン、セネガル、チュニジア、ニジェール、南スーダン、モロッコ、リビア、アルゼンチン、ウルグアイ、エクアドル、コスタリカ、コロンビア、チリ、パナマ、パラグアイ、ブラジル、ベネズエラ、ペルー、ボリビア</Sentence>
+              <Sentence WritingMode="vertical">二　インド、ネパール、バングラデシュ、ミャンマー、アラブ首長国連邦、イエメン、イスラエル、イラク、イラン、カタール、サウジアラビア、シリア、トルコ、ヨルダン、アルバニア、イタリア、ウズベキスタン、英国（グレート・ブリテン及び北アイルランドに限る。以下この表において同じ。）、英領チャネル諸島、オランダ、キプロス、ギリシャ、キルギス、クロアチア、コソボ、スイス、スペイン、スロベニア、セルビア、タジキスタン、ハンガリー、フランス、ブルガリア、ボスニア・ヘルツェゴビナ、ポルトガル、マルタ、モンテネグロ、リトアニア、ルーマニア、ロシア、アルジェリア、アンゴラ、ウガンダ、エジプト、エチオピア、エリトリア、ガーナ、カナリア諸島、ケニア、ザンビア、スーダン、セネガル、タンザニア、チュニジア、ナイジェリア、ニジェール、ボツワナ、マヨット島、南アフリカ共和国、南スーダン、モザンビーク、モロッコ、リビア、レソト、アルゼンチン、ウルグアイ、エクアドル、コスタリカ、コロンビア、チリ、パナマ、パラグアイ、ブラジル、ベネズエラ、ペルー、ボリビア</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">いんげんまめ、きだちたばこ、しまほおずき、しろばなようしゆちようせんあさがお、たばこ、つのみちようせんあさがお、とうがらし、トマト、くこ属植物及びなす属植物の生茎葉並びにトマトの生果実</Sentence>
+              <Sentence WritingMode="vertical">いんげんまめ、きだちたばこ、しまほおずき、しろばなようしゆちようせんあさがお、たばこ、つのみちようせんあさがお、とうがらし、トマト、くこ属植物及びなす属植物の生茎葉並びにしまほおずき及びトマトの生果実</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">Ｔｕｔａ　ａｂｓｏｌｕｔａ（トマトキバガ）</Sentence>
@@ -5164,10 +5181,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">四　大韓民国、パキスタン、イスラエル、イラク、イラン、トルコ、ヨルダン、アイルランド、アゼルバイジャン、アルバニア、アルメニア、イタリア、ウクライナ、ウズベキスタン、英国、エストニア、オーストリア、オランダ、カザフスタン、ギリシャ、キルギス、クロアチア、コソボ、ジョージア、スイス、スウェーデン、スペイン、スロバキア、スロベニア、セルビア、タジキスタン、チェコ、デンマーク、ドイツ、トルクメニスタン、ハンガリー、フィンランド、フランス、ブルガリア、ベラルーシ、ベルギー、ポーランド、ボスニア・ヘルツェゴビナ、マケドニア旧ユーゴスラビア共和国、モルドバ、モンテネグロ、ラトビア、リトアニア、ルーマニア、ロシア、カーボヴェルデ、カナリア諸島、ガンビア、セネガル、南アフリカ共和国、モロッコ、リビア、アメリカ合衆国、カナダ、チリ、ペルー、メキシコ、オーストラリア、ニュージーランド、ハワイ諸島</Sentence>
+              <Sentence WritingMode="vertical">四　大韓民国、パキスタン、イスラエル、イラク、イラン、シリア、トルコ、ヨルダン、アイルランド、アゼルバイジャン、アルバニア、アルメニア、イタリア、ウクライナ、ウズベキスタン、英国、エストニア、オーストリア、オランダ、カザフスタン、ギリシャ、キルギス、クロアチア、コソボ、ジョージア、スイス、スウェーデン、スペイン、スロバキア、スロベニア、セルビア、タジキスタン、チェコ、デンマーク、ドイツ、トルクメニスタン、ハンガリー、フィンランド、フランス、ブルガリア、ベラルーシ、ベルギー、ポーランド、ボスニア・ヘルツェゴビナ、ポルトガル、マケドニア旧ユーゴスラビア共和国、モルドバ、モンテネグロ、ラトビア、リトアニア、ルーマニア、ロシア、エジプト、カーボヴェルデ、カナリア諸島、ガンビア、セネガル、南アフリカ共和国、モロッコ、リビア、アメリカ合衆国、カナダ、チリ、ペルー、メキシコ、オーストラリア、ニュージーランド、ハワイ諸島</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">しよくようだいおう、あぶらな属植物及びふだんそう属植物の生植物の地下部であつて栽培の用に供し得るもの</Sentence>
+              <Sentence WritingMode="vertical">しよくようだいおう、トマト、ほうれんそう、あぶらな属植物及びふだんそう属植物の生植物の地下部であつて栽培の用に供し得るもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">Ｈｅｔｅｒｏｄｅｒａ　ｓｃｈａｃｈｔｉｉ（テンサイシストセンチュウ）</Sentence>
@@ -5197,10 +5214,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">七　インド、インドネシア、シンガポール、スリランカ、タイ、パキスタン、バングラデシュ、フィリピン、ベトナム、マレーシア、オマーン、英国、オランダ、デンマーク、ドイツ、フランス、ベルギー、ポーランド、ウガンダ、エジプト、エチオピア、ガーナ、ガボン、カメルーン、ギニア、ケニア、コートジボワール、コンゴ民主共和国、ザンビア、ジンバブエ、スーダン、セネガル、ソマリア、タンザニア、ナイジェリア、マダガスカル、マラウイ、南アフリカ共和国、南スーダン、モザンビーク、レユニオン、アメリカ合衆国、カナダ、エクアドル、エルサルバドル、キューバ、グアテマラ、グアドループ、グレナダ、コスタリカ、コロンビア、ジャマイカ、スリナム、セントビンセント、セントルシア、ドミニカ共和国、ドミニカ、トリニダード･トバゴ、ニカラグア、パナマ、プエルトリコ、ブラジル、ベネズエラ、ベリーズ、ペルー、マルチニーク島、メキシコ、オーストラリア、サモア、トンガ、ニュー・カレドニア、パプアニューギニア、ハワイ諸島、フィジー</Sentence>
+              <Sentence WritingMode="vertical">七　インド、インドネシア、シンガポール、スリランカ、タイ、中華人民共和国、パキスタン、バングラデシュ、フィリピン、ベトナム、マレーシア、オマーン、英国、オランダ、デンマーク、ドイツ、フランス、ベルギー、ポーランド、ウガンダ、エジプト、エチオピア、ガーナ、ガボン、カメルーン、ギニア、ケニア、コートジボワール、コンゴ民主共和国、ザンビア、ジンバブエ、スーダン、セネガル、ソマリア、タンザニア、ナイジェリア、マダガスカル、マラウイ、南アフリカ共和国、南スーダン、モザンビーク、レユニオン、アメリカ合衆国、カナダ、エクアドル、エルサルバドル、キューバ、グアテマラ、グアドループ、グレナダ、コスタリカ、コロンビア、ジャマイカ、スリナム、セントビンセント、セントルシア、ドミニカ共和国、ドミニカ、トリニダード･トバゴ、ニカラグア、パナマ、プエルトリコ、ブラジル、ベネズエラ、ベリーズ、ペルー、マルチニーク島、メキシコ、オーストラリア、サモア、トンガ、ニュー・カレドニア、パプアニューギニア、ハワイ諸島、フィジー</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">アボカド、うこん、おくら、キルトスペルマ・シャミッソーニス、クプレッスス・マクロカルパ、ケロシア・ニティダ、ココやし、さといも、さとうきび、しようが、しよくようかんな、だいしよ、ちや、とうもろこし、トマト、なす、ばれいしよ、ばんれいし、びんろうじゆ、めきしこいとすぎ、らつかせい（さやのない種子を除く。）、アンスリューム属植物、カラテア属植物、くずうこん属植物、コーヒーノキ属植物、こしよう属植物、バショウ属植物、フィロデンドロン属植物及びふだんそう属植物の生植物の地下部であつて栽培の用に供し得るもの</Sentence>
+              <Sentence WritingMode="vertical">アボカド、うこん、おくら、キルトスペルマ・シャミッソーニス、クプレッスス・マクロカルパ、ケロシア・ニティダ、ココやし、さといも、さとうきび、しようが、しよくようかんな、だいしよ、ちや、とうもろこし、トマト、なす、ばれいしよ、ばんれいし、びんろうじゆ、めきしこいとすぎ、らつかせい（さやのない種子を除く。）、アヌビアス属植物、アンスリューム属植物、カラテア属植物、くずうこん属植物、コーヒーノキ属植物、こしよう属植物、バショウ属植物、フィロデンドロン属植物及びふだんそう属植物の生植物の地下部であつて栽培の用に供し得るもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">Ｒａｄｏｐｈｏｌｕｓ　ｓｉｍｉｌｉｓ（バナナネモグリセンチュウ）</Sentence>
@@ -5208,10 +5225,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">八　スリランカ、タイ、中華人民共和国、ベトナム、スイス、コートジボワール、セネガル、ブルキナファソ、マラウイ、南アフリカ共和国、アメリカ合衆国、グアテマラ、コスタリカ、西インド諸島、ブラジル、ベネズエラ、メキシコ</Sentence>
+              <Sentence WritingMode="vertical">八　インド、スリランカ、タイ、台湾、中華人民共和国、ベトナム、スイス、ケニア、コートジボワール、セネガル、ナイジェリア、ニジェール、ブルキナファソ、マラウイ、南アフリカ共和国、アメリカ合衆国、グアテマラ、コスタリカ、西インド諸島、ブラジル、ベネズエラ、メキシコ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">アセロラ、アラビアコーヒー、アンゲロニア・アングスティフォリア、エンテロロビウム・コントルティシリクウム、オエケクラデス・マクラタ、カリステモン・ウィミナリス、キャッサバ、きゆうり、くずうこん、クレロデンドルム・ウガンデンセ、くろみぐわ、くわくさ、けぶかわた、こせんだんぐさ、さつまいも、しようじようそう、じよおうやし、しろこやまもも、すいか、せいようきらんそう、ソランドラ・マクシマ、たばこ、だんどぼろぎく、ティボウキナ・エレガンス、てりみのいぬほおずき、とうがらし、トマト、なす、なつめ、にしきじそ、にんじん、パウロウニア・エロンガタ、はなまき、ぱらみつ、ばんじろう、ひめのうぜんかずら、ペポかぼちや、みばしよう及びユーフォルビア・プニケアの生植物の地下部であつて栽培の用に供し得るもの</Sentence>
+              <Sentence WritingMode="vertical">アセロラ、アラビアコーヒー、アンゲロニア・アングスティフォリア、エンテロロビウム・コントルティシリクウム、オエケクラデス・マクラタ、カリステモン・ウィミナリス、キャッサバ、きゆうり、くずうこん、クレロデンドルム・ウガンデンセ、くろみぐわ、くわくさ、けぶかわた、こせんだんぐさ、さつまいも、しようが、しようじようそう、じよおうやし、シロギニアヤム、しろこやまもも、すいか、ステノケレウス・クエレタロエンシス、せいようきらんそう、ソランドラ・マクシマ、たばこ、たまさんご、だんどぼろぎく、ティボウキナ・エレガンス、てりみのいぬほおずき、とうがらし、トマト、なす、なつめ、なんごくいぬほおずき、にしきじそ、にんじん、パウロウニア・エロンガタ、バオバブ、はなまき、ぱらみつ、ばんじろう、ひめのうぜんかずら、ビルソニマ・キドニーフォリア、ペポかぼちや、みばしよう、ユーフォルビア・プニケア及びヒロセレウス属植物の生植物の地下部であつて栽培の用に供し得るもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">Ｍｅｌｏｉｄｏｇｙｎｅ　ｅｎｔｅｒｏｌｏｂｉｉ</Sentence>
@@ -5230,7 +5247,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十　インド、台湾、中華人民共和国、アゼルバイジャン、アルメニア、イタリア、ウクライナ、ウズベキスタン、英国、エストニア、オランダ、カザフスタン、キルギス、ジョージア、スロバキア、タジキスタン、チェコ、デンマーク、ドイツ、トルクメニスタン、ハンガリー、フランス、ベラルーシ、ベルギー、ポーランド、モルドバ、ラトビア、リトアニア、ルーマニア、ロシア、モロッコ、アメリカ合衆国、カナダ、アルゼンチン、ブラジル、オーストラリア、ニュージーランド、ハワイ諸島</Sentence>
+              <Sentence WritingMode="vertical">十　インド、台湾、中華人民共和国、アゼルバイジャン、アルメニア、イタリア、ウクライナ、ウズベキスタン、英国、エストニア、オランダ、カザフスタン、キルギス、ジョージア、スロバキア、タジキスタン、チェコ、デンマーク、ドイツ、トルクメニスタン、ハンガリー、フランス、ベラルーシ、ベルギー、ポーランド、モルドバ、ラトビア、リトアニア、ルーマニア、ロシア、アルジェリア、モロッコ、アメリカ合衆国、カナダ、アルゼンチン、ブラジル、オーストラリア、ニュージーランド、ハワイ諸島</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">えんどうの種子であつて栽培の用に供するもの</Sentence>
@@ -5241,7 +5258,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十一　アイルランド、英国、ニュージーランド</Sentence>
+              <Sentence WritingMode="vertical">十一　アイルランド、英国、チリ、ニュージーランド</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">あめりかいわなんてん、ウァッキニウム・ミルティルス、せいようきづた、せいようとちのき、せいようばくちのき、せいようひいらぎ、せこいあおすぎ、チェリモヤ、ポドカルプス・サリグヌス、ヨーロッパぐり、ロマティア・ミリコイデス、あせび属植物、おがたまのき属植物、ゲウイナ属植物、こなら属植物、つつじ属植物、ドリミス属植物、ぶな属植物、もくれん属植物及びゆりのき属植物の生植物（種子及び果実を除く。）であつて栽培の用に供するもの</Sentence>
@@ -5252,7 +5269,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十二　アイルランド、イタリア、英国、英領チャネル諸島、オランダ、ギリシャ、スイス、スウェーデン、スペイン、スロベニア、セルビア、デンマーク、ドイツ、ノルウェー、フィンランド、フランス、ベルギー、ポーランド、リトアニア、アメリカ合衆国、カナダ</Sentence>
+              <Sentence WritingMode="vertical">十二　アイルランド、イタリア、英国、英領チャネル諸島、オランダ、ギリシャ、スイス、スウェーデン、スペイン、スロベニア、セルビア、デンマーク、ドイツ、ノルウェー、フィンランド、フランス、ベルギー、ポーランド、ポルトガル、リトアニア、ルクセンブルク、アメリカ合衆国、カナダ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">とさみずき、ノトリトカルプス・デンシフロルス、ヒドランゲア・シーマニアイ、アジアンタム属植物、あせび属植物、あめりかいかりそう属植物、アルクトスタフィロス属植物、アルブツス属植物、いすのき属植物、いちい属植物、いわなんてん属植物、うめがさそう属植物、うるし属植物、ウンベルラリア属植物、エリカ属植物、おがたまのき属植物、おしだ属植物、オリーブ属植物、かえで属植物、かなめもち属植物、かばのき属植物、がまずみ属植物、かや属植物、からまつ属植物、ガリア属植物、カルナ属植物、カルミア属植物、がんこうらん属植物、きいちご属植物、キスツス属植物、きづた属植物、きようちくとう属植物、くすのき属植物、くましで属植物、くり属植物、グリセリーニア属植物、クレマティス属植物、くろうめもどき属植物、くろばなろうばい属植物、ケアノツス属植物、ゲウイナ属植物、げつけいじゆ属植物、ケラトニア属植物、こなら属植物、さくら属植物、しい属植物、しおで属植物、しなのき属植物、しやりんとう属植物、ショワジア属植物、しらたまのき属植物、シンフォリカルポス属植物、すいかずら属植物、すぐり属植物、すのき（こけもも）属植物、セコイア属植物、ゼノビア属植物、つが属植物、つつじ属植物、つばき属植物、つばめおもと属植物、つまとりそう属植物、ていかかずら属植物、とうひ属植物、とがさわら属植物、ときわさんざし属植物、ときわまんさく属植物、とちのき属植物、とねりこ属植物、とねりばはぜのき属植物、とべら属植物、ドリミス属植物、なんきよくぶな属植物、にしきぎ属植物、にれ属植物、にわとこ属植物、はこやなぎ属植物、はしどい属植物、はしばみ属植物、はなずおう属植物、ばら属植物、パラクメリア属植物、パロッティア属植物、はんのき属植物、ばんれいし属植物、ひいらぎなんてん属植物、ひのき属植物、ひめしやくなげ属植物、ひめつばき属植物、フィソカルプス属植物、フクシア属植物、ぶな属植物、ヘテロメレス属植物、まいづるそう属植物、まつ属植物、まてばしい属植物、まんさく属植物、みずき属植物、めぎ属植物、もくせい属植物、もくれん属植物、もくれんもどき属植物、もちのき属植物、もみ属植物、やなぎ属植物、やぶこうじ属植物、やぶにんじん属植物、ユーカリノキ属植物、ゆずりは属植物、ゆりのき属植物、りんご属植物及びりんねそう属植物の生植物（種子及び果実を除く。）であつて栽培の用に供するもの</Sentence>
@@ -5346,7 +5363,7 @@
               <Sentence WritingMode="vertical">テオシント及びとうもろこしの種子であつて栽培の用に供するもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">Ｐａｎｔｏｅａ　ｓｔｅｗａｒｔｉｉ（トウモロコシ萎ちよう細菌病菌）</Sentence>
+              <Sentence WritingMode="vertical">Pantoea stewartii subsp. stewartii（トウモロコシ萎ちよう細菌病菌）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5417,7 +5434,7 @@
               <Sentence WritingMode="vertical">一　イエメン、イスラエル、イラン、サウジアラビア、シリア、トルコ、ヨルダン、レバノン、アルバニア、イタリア、オーストリア、オランダ、キプロス、ギリシャ、クロアチア、コソボ、スイス、スペイン、スロベニア、セルビア、ドイツ、ハンガリー、フランス、ベルギー、ボスニア・ヘルツェゴビナ、ポルトガル、マケドニア旧ユーゴスラビア共和国、マルタ、モンテネグロ、ロシア、アフリカ、バミューダ諸島、アルゼンチン、ウルグアイ、エクアドル、エルサルバドル、グアテマラ、コスタリカ、コロンビア、ニカラグア、西インド諸島（キューバ、ドミニカ共和国及びプエルトリコを除く。）、パナマ、パラグアイ、ブラジル、ベネズエラ、ペルー、ボリビア、ホンジュラス、オーストラリア（タスマニアを除く。）、ハワイ諸島</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">アキー、アボカド（付表第六十、第六十四及び第七十に掲げるものを除く。）、あめだまのき、オールスパイス、オリーブ、カシューナッツ、キウイフルーツ、きばなきようちくとう、ククミス・ディプサケウス、コッキニア・ミクロフィラ、コラロカルプス・エリプチクス、ごれんし、ざくろ、ジャボチカバ、そらまめ、てりはぼく、なつめやし、ナンセ、なんようざくら、にがうり、フェイジョア、ポポー、マメーリンゴ、りゆうがん、れいし、いちじく属植物、いんげん属植物、かき属植物（付表第四十一に掲げるものを除く。）、カリッサ属植物、くるみ属植物、くわ属植物、コッコロバ属植物、コーヒーノキ属植物、すぐり属植物、すのき（こけもも）属植物、とけいそう属植物、ドビアーリス属植物、なつめ属植物、にんめんし属植物、バショウ属植物（成熟していないバナナの生果実を除く。）、パパイヤ属植物（付表第一に掲げるものを除く。）、ばんじろう属植物、ぱんのき属植物、ばんれいし属植物、ひいらぎとらのお属植物、びやくだん属植物、ふくぎ属植物、ぶどう属植物（付表第三、第五十四及び第五十九に掲げるものを除く。）、ふともも属植物、マンゴウ属植物（付表第二、第三十六、第四十三、第五十一及び第五十三に掲げるものを除く。）、もちのき属植物、ももたまな属植物、わた属植物、あかてつ科植物、さぼてん科植物（付表第三十五に掲げるものを除く。）、なす科植物（付表第三及び第四十二に掲げるものを除く。）、ばら科植物（付表第三及び第三十一に掲げるものを除く。）及びみかん科植物（付表第四から第八まで、第三十九、第四十五、第五十六及び第六十五に掲げるものを除く。）の生果実</Sentence>
+              <Sentence WritingMode="vertical">アキー、アボカド（付表第六十、第六十四及び第七十に掲げるものを除く。）、あめだまのき、オールスパイス、オリーブ、カシューナッツ、キウイフルーツ、きばなきようちくとう、ククミス・ディプサケウス、コッキニア・ミクロフィラ、コラロカルプス・エリプチクス、ごれんし、ざくろ、ジャボチカバ、そらまめ、てりはぼく、なつめやし、ナンセ、なんようざくら、にがうり、フェイジョア、ポポー、マメーリンゴ、りゆうがん、れいし、いちじく属植物、いんげん属植物、かき属植物（付表第四十一に掲げるものを除く。）、カリッサ属植物、くるみ属植物、くわ属植物、コッコロバ属植物、コーヒーノキ属植物、すぐり属植物、すのき（こけもも）属植物、とけいそう属植物、ドビアーリス属植物、なつめ属植物、にんめんし属植物、バショウ属植物（成熟していないバナナの生果実を除く。）、パパイヤ属植物（付表第一に掲げるものを除く。）、ばんじろう属植物、ぱんのき属植物、ばんれいし属植物、ひいらぎとらのお属植物、びやくだん属植物、ふくぎ属植物、ぶどう属植物（付表第三、第五十四及び第五十九に掲げるものを除く。）、ふともも属植物、マンゴウ属植物（付表第二、第三十六、第四十三、第五十一及び第五十三に掲げるものを除く。）、もちのき属植物、ももたまな属植物、ユーゲニア属植物、わた属植物、あかてつ科植物、さぼてん科植物（付表第三十五に掲げるものを除く。）、なす科植物（付表第三及び第四十二に掲げるものを除く。）、ばら科植物（付表第三及び第三十一に掲げるものを除く。）及びみかん科植物（付表第四から第八まで、第三十九、第四十五、第五十六及び第六十五に掲げるものを除く。）の生果実</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">Ceratitis capitata（チチュウカイミバエ）</Sentence>
@@ -5425,10 +5442,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二　インド、インドネシア、カンボジア、シンガポール、スリランカ、タイ、台湾、中華人民共和国（香港を除く。以下この表において同じ。）、ネパール、パキスタン、バングラデシュ、東ティモール、フィリピン、ブータン、ブルネイ、ベトナム、香港、マレーシア、ミャンマー、ラオス、パプアニューギニア、ハワイ諸島、フランス領ポリネシア、ミクロネシア</Sentence>
+              <Sentence WritingMode="vertical">二　インド、インドネシア、カンボジア、シンガポール、スリランカ、タイ、台湾、中華人民共和国（香港を除く。以下この表において同じ。）、ネパール、パキスタン、バングラデシュ、東ティモール、フィリピン、ブータン、ブルネイ、ベトナム、香港、マレーシア、ミャンマー、ラオス、アンゴラ、ウガンダ、エチオピア、ガーナ、ガボン、カメルーン、ガンビア、ギニア、ギニアビサウ、ケニア、コートジボワール、コモロ、コンゴ共和国、コンゴ民主共和国、ザンビア、シエラレオネ、スーダン、スワジランド、赤道ギニア、セネガル、タンザニア、チャド、中央アフリカ共和国、トーゴ、ナイジェリア、ナミビア、ニジェール、ブルキナファソ、ブルンジ、ベナン、ボツワナ、マダガスカル、マヨット島、マリ、南アフリカ共和国、モザンビーク、モーリタニア、リベリア、ルワンダ、パプアニューギニア、ハワイ諸島、フランス領ポリネシア、ミクロネシア</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">かんきつ類（付表第十及び第五十八に掲げるものを除く。）、アセロラ、アボカド、あんず、いちじく、いんどめてんぐ、おらんだいちご、オリーブ、カシューナッツ、がじゆまる、グリコスミス・ペンタフィラ、くろつぐ、ごれんし、ざくろ、サラカやし、サントール、すもも、たいへいようぐるみ、テトラクトミア・マジュス、てりはぼく、トマト、トリファシア・トリフォリア、なし、なつめやし、なんようざくら、ねじれふさまめのき、パパイヤ（付表第一、第十一及び第十二に掲げるものを除く。四の項において同じ。）、パラミグニア・アンダマニカ、びわ、びんろうじゆ、ぶどう（付表第三十二に掲げるものを除く。）、もも、ももたまな、やまもも、ランブータン、りゆうがん、りんご、れいし（付表第十三、第十四及び第七十一に掲げるものを除く。）、わんぴ、あかたねのき属植物、かき属植物、コーヒーノキ属植物、とうがらし属植物、とけいそう属植物、なす属植物、なつめ属植物（付表第六十三に掲げるものを除く。）、にんめんし属植物、ばんじろう属植物、ぱんのき属植物、ばんれいし属植物、ヒロセレウス属植物（付表第五十二及び第五十五に掲げるものを除く。四の項において同じ。）、ふくぎ属植物（付表第四十に掲げるものを除く。）、ふともも属植物、マンゴウ属植物（付表第十五から第十七まで、第三十六、第四十八、第五十、第五十七及び第六十一に掲げるものを除く。四の項において同じ。）、ランサ属植物、ロリニア属植物及びあかてつ科植物の生果実並びに成熟したバナナの生果実</Sentence>
+              <Sentence WritingMode="vertical">かんきつ類（付表第四、第五、第十及び第五十八に掲げるものを除く。）、アキー、アセロラ、アボカド、いちじく、いちじくぐわ、イルビンギア・ガボネンシス、いんどめてんぐ、うどんげのき、おらんだいちご、オリーブ、カシューナッツ、がじゆまる、きゆうり、きんきじゆ、グリコスミス・ペンタフィラ、くろつぐ、コルディラ・ピンナータ、ごれんし、コロシントうり（付表第六十六に掲げるものを除く。）、ざくろ、サラカやし、サントール、すいか、スクレロカリア・ビレア、せいようかぼちや（付表第六十七に掲げるものを除く。）、たいへいようぐるみ、テトラクトミア・マジュス、てりはぼく、てんじくいぬかんこ、トマト、トリファシア・トリフォリア、なし、なつめやし、なんようざくら、にがうり、ねぐろもも、ねじれふさまめのき、バッカウレア・ラケモサ、バッカウレア・ラミフロラ、パパイヤ（付表第一、第十一及び第十二に掲げるものを除く。四の項において同じ。）、パラミグニア・アンダマニカ、びわ、びんろうじゆ、フィクス・エリゴドン、フィクス・グロッスラリオイデス、フィクス・コンカティアン、ぶどう（付表第三十二及び第五十四に掲げるものを除く。）、ペポかぼちや（付表第六十八に掲げるものを除く。）、ももたまな、やまもも、ゆうがお（付表第六十九に掲げるものを除く。）、らんばい、ランブータン、りゆうがん、りんご、れいし（付表第十三、第十四及び第七十一に掲げるものを除く。）、わんぴ、あかたねのき属植物、かき属植物、カリッサ属植物、ぐみ属植物、コーヒーノキ属植物、さくら属植物、とうがらし属植物、とけいそう属植物、なす属植物、なつめ属植物（付表第六十三に掲げるものを除く。）、にんめんし属植物、ばんじろう属植物、ぱんのき属植物、ばんれいし属植物、ヒロセレウス属植物（付表第五十二及び第五十五に掲げるものを除く。四の項において同じ。）、ふくぎ属植物（付表第四十に掲げるものを除く。）、ふともも属植物、マンゴウ属植物（付表第十五から第十七まで、第三十六、第四十八、第五十、第五十七及び第六十一に掲げるものを除く。四の項において同じ。）、ユーゲニア属植物、ランサ属植物、ロリニア属植物及びあかてつ科植物の生果実並びに成熟したバナナの生果実</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">Bactrocera dorsalis species complex（ミカンコミバエ種群）</Sentence>
@@ -5439,7 +5456,7 @@
               <Sentence WritingMode="vertical">三　オーストラリア（タスマニアを除く。）、ニュー・カレドニア、パプアニューギニア、フランス領ポリネシア</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">かんきつ類（付表第七に掲げるものを除く。）、アセロラ、アボカド（付表第六十四に掲げるものを除く。）、あんず、いちじく、エレモシトラス・グラウカ、オプンティア・フィクス―インディカ、おらんだいちご、オリーブ、カシミロア・テトラメリア、カシューナッツ、キウイフルーツ、きだちとうがらし、グリコスミス・トリフォリアタ、こだちとまと、ごれんし、さくらんぼ、ざくろ、サントール、しまほおずき、シロサポテ、すもも、せいようかりん、とうがらし、トマト、なし、なつめやし、パパイヤ、ばんじろう、ぱんのき、ヒロセレウス・メガランサス、びわ、フェイジョア、ぶどう（付表第五十九に掲げるものを除く。）、まるめろ、ムラーヤ・エキゾチカ、もも、りんご、れいし、わんぴ、アクロニチア属植物、かき属植物、きいちご属植物、くわ属植物、コーヒーノキ属植物、すのき（こけもも）属植物、とけいそう属植物、なす属植物、なつめ属植物、にんめんし属植物、ばんれいし属植物、ふともも属植物、マンゴウ属植物（付表第二に掲げるものを除く。）、ももたまな属植物、ロリニア属植物及びあかてつ科植物の生果実並びに成熟したバナナの生果実</Sentence>
+              <Sentence WritingMode="vertical">かんきつ類（付表第七に掲げるものを除く。）、アセロラ、アボカド（付表第六十四に掲げるものを除く。）、あんず、いちじく、エレモシトラス・グラウカ、オプンティア・フィクス―インディカ、おらんだいちご、オリーブ、カシミロア・テトラメリア、カシューナッツ、キウイフルーツ、きだちとうがらし、グリコスミス・トリフォリアタ、こだちとまと、ごれんし、さくらんぼ、ざくろ、サントール、しまほおずき、シロサポテ、すもも、せいようかりん、とうがらし、トマト、なし、なつめやし、パパイヤ、ばんじろう、ぱんのき、ヒロセレウス・メガランサス、びわ、フェイジョア、ぶどう（付表第五十九に掲げるものを除く。）、まるめろ、ミロバランすもも、ムラーヤ・エキゾチカ、もも、りんご、れいし、わんぴ、アクロニチア属植物、かき属植物、きいちご属植物、くわ属植物、コーヒーノキ属植物、すのき（こけもも）属植物、とけいそう属植物、なす属植物、なつめ属植物、にんめんし属植物、ばんれいし属植物、ふともも属植物、マンゴウ属植物（付表第二に掲げるものを除く。）、ももたまな属植物、ユーゲニア属植物、ロリニア属植物及びあかてつ科植物の生果実並びに成熟したバナナの生果実</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">Bactrocera tryoni（クインスランドミバエ）</Sentence>
@@ -5450,7 +5467,7 @@
               <Sentence WritingMode="vertical">四　インド、インドネシア、カンボジア、シンガポール、スリランカ、タイ、台湾、中華人民共和国、ネパール、パキスタン、バングラデシュ、東ティモール、フィリピン、ブータン、ブルネイ、ベトナム、香港、マレーシア、ミャンマー、ラオス、アフガニスタン、ウガンダ、カメルーン、ガンビア、ギニア、ケニア、コートジボワール、コンゴ共和国、スーダン、セーシェル、セネガル、タンザニア、トーゴ、ナイジェリア、ニジェール、ブルキナファソ、ベナン、マリ、南スーダン、モーリシャス、レユニオン、パプアニューギニア、ハワイ諸島、ミクロネシア</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">うり科植物（付表第十八に掲げるものを除く。）の生茎葉及び生果実並びにいんげんまめ、きだちとうがらし、きまめ、ごれんし、ささげ、とうがらし、トマト、なす、パパイヤ、ヒロセレウス属植物及びマンゴウ属植物の生果実</Sentence>
+              <Sentence WritingMode="vertical">うり科植物（付表第十八に掲げるものを除く。）の生茎葉及び生果実並びにいんげんまめ、きだちとうがらし、きまめ、ごれんし、ささげ、とうがらし、トマト、なす、パパイヤ、ふじまめ、ヒロセレウス属植物及びマンゴウ属植物の生果実</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">Bactrocera cucurbitae（ウリミバエ）</Sentence>
@@ -5513,7 +5530,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十　インド、インドネシア、スリランカ、パキスタン、フィリピン、イスラエル、イラン、トルコ、レバノン、アイスランド、アイルランド、アゼルバイジャン、アルメニア、イタリア、ウクライナ、ウズベキスタン、英国、エストニア、オーストリア、オランダ、カザフスタン、キプロス、ギリシャ、キルギス、クロアチア、ジョージア、スイス、スウェーデン、スペイン、スロバキア、スロベニア、タジキスタン、チェコ、デンマーク、ドイツ、トルクメニスタン、ノルウェー、ハンガリー、フィンランド、フランス、ブルガリア、ベラルーシ、ベルギー、ボスニア・ヘルツェゴビナ、ポーランド、ポルトガル、マルタ、モルドバ、ラトビア、リトアニア、ルクセンブルク、ロシア、アルジェリア、カナリア諸島、ケニア、南アフリカ共和国、アメリカ合衆国、カナダ、アルゼンチン、エルサルバドル、グアテマラ、コスタリカ、チリ、ニカラグア、パナマ、ベネズエラ、ベリーズ、ペルー、ボリビア、ホンジュラス、メキシコ、オーストラリア、ニュージーランド</Sentence>
+              <Sentence WritingMode="vertical">十　インド、インドネシア、スリランカ、パキスタン、フィリピン、イスラエル、イラン、トルコ、レバノン、アイスランド、アイルランド、アゼルバイジャン、アルメニア、イタリア、ウクライナ、ウズベキスタン、英国、エストニア、オーストリア、オランダ、カザフスタン、キプロス、ギリシャ、キルギス、クロアチア、ジョージア、スイス、スウェーデン、スペイン、スロバキア、スロベニア、タジキスタン、チェコ、デンマーク、ドイツ、トルクメニスタン、ノルウェー、ハンガリー、フィンランド、フランス、ブルガリア、ベラルーシ、ベルギー、ボスニア・ヘルツェゴビナ、ポーランド、ポルトガル、マルタ、モルドバ、ラトビア、リトアニア、ルクセンブルク、ロシア、アルジェリア、エジプト、カナリア諸島、ケニア、南アフリカ共和国、アメリカ合衆国、カナダ、アルゼンチン、エルサルバドル、グアテマラ、コスタリカ、チリ、ニカラグア、パナマ、ベネズエラ、ベリーズ、ペルー、ボリビア、ホンジュラス、メキシコ、オーストラリア、ニュージーランド</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">あかざ属植物及びなす科植物（付表第四十六に掲げるものを除く。）の生塊茎等の地下部</Sentence>
@@ -5524,7 +5541,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十一　インド、パキスタン、トルコ、アイスランド、アイルランド、アゼルバイジャン、アルメニア、イタリア、ウクライナ、ウズベキスタン、英国、エストニア、オーストリア、オランダ、カザフスタン、キプロス、ギリシャ、キルギス、ジョージア、スイス、スウェーデン、スペイン、スロベニア、タジキスタン、チェコ、デンマーク、ドイツ、トルクメニスタン、ノルウェー、ハンガリー、フランス、ブルガリア、ベラルーシ、ベルギー、ボスニア・ヘルツェゴビナ、ポーランド、ポルトガル、マルタ、モルドバ、ラトビア、リトアニア、ロシア、カナリア諸島、アメリカ合衆国、カナダ、エクアドル、コスタリカ、コロンビア、チリ、パナマ、フォークランド諸島、ベネズエラ、ペルー、ボリビア、ニュージーランド</Sentence>
+              <Sentence WritingMode="vertical">十一　インド、パキスタン、トルコ、アイスランド、アイルランド、アゼルバイジャン、アルメニア、イタリア、ウクライナ、ウズベキスタン、英国、エストニア、オーストリア、オランダ、カザフスタン、キプロス、ギリシャ、キルギス、ジョージア、スイス、スウェーデン、スペイン、スロベニア、タジキスタン、チェコ、デンマーク、ドイツ、トルクメニスタン、ノルウェー、ハンガリー、フィンランド、フランス、ブルガリア、ベラルーシ、ベルギー、ボスニア・ヘルツェゴビナ、ポーランド、ポルトガル、マルタ、モルドバ、ラトビア、リトアニア、ロシア、アルジェリア、カナリア諸島、ケニア、アメリカ合衆国、カナダ、エクアドル、コスタリカ、コロンビア、チリ、パナマ、フォークランド諸島、ベネズエラ、ペルー、ボリビア、ニュージーランド</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">なす科植物（付表第四十六に掲げるものを除く。）の生塊茎等の地下部</Sentence>
@@ -6002,25 +6019,25 @@
       <Item Delete="false" Hide="false" Num="66">
         <ItemTitle>六十六</ItemTitle>
         <ItemSentence>
-          <Sentence WritingMode="vertical"/>
+          <Sentence WritingMode="vertical">アフリカを除く地域から発送され、アフリカを経由しないで輸入されるコロシントうりの生果実</Sentence>
         </ItemSentence>
       </Item>
       <Item Delete="false" Hide="false" Num="67">
         <ItemTitle>六十七</ItemTitle>
         <ItemSentence>
-          <Sentence WritingMode="vertical"/>
+          <Sentence WritingMode="vertical">アフリカを除く地域から発送され、アフリカを経由しないで輸入されるせいようかぼちやの生果実</Sentence>
         </ItemSentence>
       </Item>
       <Item Delete="false" Hide="false" Num="68">
         <ItemTitle>六十八</ItemTitle>
         <ItemSentence>
-          <Sentence WritingMode="vertical"/>
+          <Sentence WritingMode="vertical">アフリカを除く地域から発送され、アフリカを経由しないで輸入されるペポかぼちやの生果実</Sentence>
         </ItemSentence>
       </Item>
       <Item Delete="false" Hide="false" Num="69">
         <ItemTitle>六十九</ItemTitle>
         <ItemSentence>
-          <Sentence WritingMode="vertical"/>
+          <Sentence WritingMode="vertical">アフリカを除く地域から発送され、アフリカを経由しないで輸入されるゆうがおの生果実</Sentence>
         </ItemSentence>
       </Item>
       <Item Delete="false" Hide="false" Num="70">
@@ -6057,7 +6074,7 @@
               <Sentence WritingMode="vertical">一　アルゼンチン、ウルグアイ、エクアドル、エルサルバドル、ガイアナ、グアテマラ、コスタリカ、コロンビア、スリナム、トリニダード・トバゴ、ニカラグア、パナマ、パラグアイ、ブラジル、フランス領ギアナ、ベネズエラ、ベリーズ、ペルー、ボリビア、ホンジュラス、メキシコ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">あかてつ、アビウ、あんず、いちじく、かき、カンポマネシア・キサントカルパ、キウイフルーツ、クリソフィルム・ゴノカルプム、ごれんし、さくらんぼ、ざくろ、サポジラ、ジジフス・ジョアゼイロ、ズエラニア・グイドニア、せいようすもも、なし、びわ、フェイジョア、ぶどう（付表第一に掲げるものを除く。）、まるきんかん、マンゴウ（別表二の付表第四十三、第五十一及び第五十三に掲げるものを除く。）、もも、ももたまな、りんご、コーヒーノキ属植物、にんめんし属植物、ばんじろう属植物、ばんれいし属植物、ふともも属植物、みかん属植物（付表第二及び別表二の付表第三十九に掲げるものを除く。）及びユーゲニア属植物の生果実</Sentence>
+              <Sentence WritingMode="vertical">あかてつ、アビウ、あんず、いちじく、かき、カンポマネシア・キサントカルパ、キウイフルーツ、クリソフィルム・ゴノカルプム、こだちとまと、ごれんし、さくらんぼ、ざくろ、サポジラ、ジジフス・ジョアゼイロ、ズエラニア・グイドニア、せいようすもも、なし、びわ、フェイジョア、ぶどう（付表第一に掲げるものを除く。）、まるきんかん、マンゴウ（別表二の付表第四十三、第五十一及び第五十三に掲げるものを除く。）、もも、ももたまな、りんご、きいちご属植物（付表第三に掲げるものを除く。）、コーヒーノキ属植物、すのき（こけもも）属植物（付表第四に掲げるものを除く。）、にんめんし属植物、ばんじろう属植物、ばんれいし属植物、ふともも属植物、みかん属植物（ライム及びレモン並びに付表第二に掲げるものを除く。）及びユーゲニア属植物の生果実</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　輸出国の政府機関により発行され、かつ、その検査の結果検疫有害動植物が付着していないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものであること。</Sentence>
@@ -6124,10 +6141,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">六　アメリカ合衆国（ハワイ諸島を除く。以下この表において同じ。）、カナダ、エルサルバドル、グアテマラ、ニカラグア、ホンジュラス、メキシコ、ニュージーランド</Sentence>
+              <Sentence WritingMode="vertical">六　アメリカ合衆国（ハワイ諸島を除く。以下この表において同じ。）、カナダ、エルサルバドル、グアテマラ、ニカラグア、ホンジュラス、メキシコ、ニュージーランド、ノーフォーク島</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">アルファルファ、さつまいも、せいようひるがお、そらまめ、たばこ、てんさい、とうもろこし、トマト、においひば、はつかだいこん、ひまわり、レタス、くこ属植物、とうがらし属植物、なす属植物及びほおずき属植物の生茎葉及び生果実</Sentence>
+              <Sentence WritingMode="vertical">アルファルファ、さつまいも、せいようひるがお、そらまめ、こだちとまと、たばこ、てんさい、とうもろこし、トマト、においひば、はつかだいこん、ひまわり、レタス、くこ属植物、とうがらし属植物、なす属植物及びほおずき属植物の生茎葉及び生果実</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　輸出国の政府機関により発行され、かつ、その検査の結果検疫有害動植物が付着していないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものであること。</Sentence>
@@ -6232,7 +6249,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十五　モンゴル、イタリア、ウクライナ、英国、オーストリア、スイス、スウェーデン、スペイン、チェコ、デンマーク、ドイツ、ノルウェー、フィンランド、フランス、ベラルーシ、ポーランド、ラトビア、ロシア</Sentence>
+              <Sentence WritingMode="vertical">十五　モンゴル、イタリア、ウクライナ、英国、エストニア、オーストリア、スイス、スウェーデン、スペイン、チェコ、デンマーク、ドイツ、ノルウェー、フィンランド、フランス、ベラルーシ、ポーランド、ラトビア、ロシア</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">イノンド、おらんだぜり、クミン、コエンドロ、セロリー、にんじん及びひめういきようの生茎葉</Sentence>
@@ -6244,7 +6261,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十六　アイルランド、英国、ニュージーランド</Sentence>
+              <Sentence WritingMode="vertical">十六　アイルランド、英国、チリ、ニュージーランド</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">あめりかいわなんてん、ウァッキニウム・ミルティルス、せいようきづた、せいようとちのき、せいようばくちのき、せいようひいらぎ、せこいあおすぎ、チェリモヤ、ポドカルプス・サリグヌス、ヨーロッパぐり、ロマティア・ミリコイデス、あせび属植物、おがたまのき属植物、ゲウイナ属植物、こなら属植物、つつじ属植物、ドリミス属植物、ぶな属植物、もくれん属植物及びゆりのき属植物の葉、枝、樹皮その他の部分（種子及び果実を除く。）並びにこれらの植物の葉、枝、樹皮その他の部分が微生物その他の生物により分解されて生じた有機物であつて、植物の植込みの用又は植物が生育するための土壌の被覆の用に供するもの</Sentence>
@@ -6256,7 +6273,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十七　アイルランド、イタリア、英国、英領チャネル諸島、オランダ、ギリシャ、スイス、スウェーデン、スペイン、スロベニア、セルビア、デンマーク、ドイツ、ノルウェー、フィンランド、フランス、ベルギー、ポーランド、リトアニア、アメリカ合衆国、カナダ</Sentence>
+              <Sentence WritingMode="vertical">十七　アイルランド、イタリア、英国、英領チャネル諸島、オランダ、ギリシャ、スイス、スウェーデン、スペイン、スロベニア、セルビア、デンマーク、ドイツ、ノルウェー、フィンランド、フランス、ベルギー、ポーランド、ポルトガル、リトアニア、ルクセンブルク、アメリカ合衆国、カナダ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">とさみずき、ノトリトカルプス・デンシフロルス、ヒドランゲア・シーマニアイ、アジアンタム属植物、あせび属植物、あめりかいかりそう属植物、アルクトスタフィロス属植物、アルブツス属植物、いすのき属植物、いちい属植物、いわなんてん属植物、うめがさそう属植物、うるし属植物、ウンベルラリア属植物、エリカ属植物、おがたまのき属植物、おしだ属植物、オリーブ属植物、かえで属植物、かなめもち属植物、かばのき属植物、がまずみ属植物、かや属植物、からまつ属植物、ガリア属植物、カルナ属植物、カルミア属植物、がんこうらん属植物、きいちご属植物、キスツス属植物、きづた属植物、きようちくとう属植物、くすのき属植物、くましで属植物、くり属植物、グリセリーニア属植物、クレマティス属植物、くろうめもどき属植物、くろばなろうばい属植物、ケアノツス属植物、ゲウイナ属植物、げつけいじゆ属植物、ケラトニア属植物、こなら属植物、さくら属植物、しい属植物、しおで属植物、しなのき属植物、しやりんとう属植物、ショワジア属植物、しらたまのき属植物、シンフォリカルポス属植物、すいかずら属植物、すぐり属植物、すのき（こけもも）属植物、セコイア属植物、ゼノビア属植物、つが属植物、つつじ属植物、つばき属植物、つばめおもと属植物、つまとりそう属植物、ていかかずら属植物、とうひ属植物、とがさわら属植物、ときわさんざし属植物、ときわまんさく属植物、とちのき属植物、とねりこ属植物、とねりばはぜのき属植物、とべら属植物、ドリミス属植物、なんきよくぶな属植物、にしきぎ属植物、にれ属植物、にわとこ属植物、はこやなぎ属植物、はしどい属植物、はしばみ属植物、はなずおう属植物、ばら属植物、パラクメリア属植物、パロッティア属植物、はんのき属植物、ばんれいし属植物、ひいらぎなんてん属植物、ひのき属植物、ひめしやくなげ属植物、ひめつばき属植物、フィソカルプス属植物、フクシア属植物、ぶな属植物、ヘテロメレス属植物、まいづるそう属植物、まつ属植物、まてばしい属植物、まんさく属植物、みずき属植物、めぎ属植物、もくせい属植物、もくれん属植物、もくれんもどき属植物、もちのき属植物、もみ属植物、やなぎ属植物、やぶこうじ属植物、やぶにんじん属植物、ユーカリノキ属植物、ゆずりは属植物、ゆりのき属植物、りんご属植物及びりんねそう属植物の葉、枝、樹皮その他の部分（種子及び果実を除く。）並びにこれらの植物の葉、枝、樹皮その他の部分が微生物その他の生物により分解されて生じた有機物であつて、植物の植込みの用又は植物が生育するための土壌の被覆の用に供するもの</Sentence>
@@ -6280,10 +6297,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十九　インド、インドネシア、タイ、台湾、中華人民共和国、イスラエル、トルコ、イタリア、ギリシャ、セルビア、ハンガリー、ナイジェリア、南アフリカ共和国、アメリカ合衆国、コスタリカ、ブラジル、オーストラリア、北マリアナ諸島、グアム</Sentence>
+              <Sentence WritingMode="vertical">十九　インド、インドネシア、タイ、大韓民国、台湾、中華人民共和国、イスラエル、トルコ、イタリア、ギリシャ、セルビア、ハンガリー、ナイジェリア、南アフリカ共和国、アメリカ合衆国、コスタリカ、ブラジル、オーストラリア、北マリアナ諸島、グアム</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">きゆうり、すいか、せいようかぼちや、とうがん、にほんかぼちや、ペポかぼちや、メロン及びゆうがおの種子であつて栽培の用に供するもの</Sentence>
+              <Sentence WritingMode="vertical">きゆうり、すいか、せいようかぼちや、とうがん、にほんかぼちや、ペポかぼちや、メロン及びゆうがおの生植物（果実を除き、種子を含む。）であつて栽培の用に供するもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　輸出国の政府機関により発行され、かつ、その検査の結果検疫有害動植物が付着していないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものであること。</Sentence>
@@ -6294,10 +6311,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二十　スウェーデン、スペイン、ドイツ、ノルウェー、フィンランド、フランス、カナリア諸島、モロッコ、アメリカ合衆国、エルサルバドル、グアテマラ、ニカラグア、ホンジュラス、メキシコ、ニュージーランド</Sentence>
+              <Sentence WritingMode="vertical">二十　イスラエル、イタリア、エストニア、ギリシャ、スウェーデン、スペイン、ドイツ、ノルウェー、フィンランド、フランス、カナリア諸島、モロッコ、アメリカ合衆国、エルサルバドル、グアテマラ、ニカラグア、ホンジュラス、メキシコ、ニュージーランド</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">おおぶどうほおずき、きだちとうがらし、こだちとまと、しまほおずき、セロリー、ソラヌム・エラエアグニフォリウム、ソラヌム・ドゥルカマラ、たばこ、とうがらし、トマト、ながばくこ、なす、にんじん及びばれいしよの生植物（種子及び果実を除く。）であつて栽培の用に供するもの</Sentence>
+              <Sentence WritingMode="vertical">あめりかぼうふう、おおぶどうほおずき、おらんだぜり、きだちとうがらし、こだちとまと、しまほおずき、セロリー、ソラヌム・エラエアグニフォリウム、ソラヌム・ドゥルカマラ、たばこ、チャービル、とうがらし、トマト、ながばくこ、なす、にんじん及びばれいしよの生植物（種子及び果実を除く。）であつて栽培の用に供するもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　輸出国の政府機関により発行され、かつ、その検査の結果検疫有害動植物が付着していないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものであること。</Sentence>
@@ -6306,10 +6323,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二十一　大韓民国、中華人民共和国、トルコ、イタリア、ギリシャ、スペイン、スロベニア、フランス、ポルトガル、チリ、ニュージーランド</Sentence>
+              <Sentence WritingMode="vertical">二十一　大韓民国、中華人民共和国、トルコ、イタリア、ギリシャ、スペイン、スロベニア、フランス、ポルトガル、チリ、オーストラリア、ニュージーランド</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">キウイフルーツ、さるなし及びみやままたたびの生植物（種子及び果実を除き、花粉を含む。）であつて栽培の用に供するもの</Sentence>
+              <Sentence WritingMode="vertical">キウイフルーツ、さるなし、しまさるなし及びみやままたたびの生植物（種子及び果実を除き、花粉を含む。）であつて栽培の用に供するもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　輸出国の政府機関により発行され、かつ、その検査の結果検疫有害動植物が付着していないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものであること。</Sentence>
@@ -6332,10 +6349,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二十三　台湾、イラン、イタリア、フランス、アメリカ合衆国、カナダ、アルゼンチン、エクアドル、コスタリカ、パラグアイ、ブラジル、ベネズエラ、メキシコ</Sentence>
+              <Sentence WritingMode="vertical">二十三　台湾、イラン、イタリア、スペイン、フランス、アメリカ合衆国、カナダ、アルゼンチン、エクアドル、コスタリカ、パラグアイ、ブラジル、ベネズエラ、メキシコ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">アエスクルス・ヒブリダ、アボカド、あめりかすずかけのき、あめりかはなずおう、あめりかむらさきしきぶ、あめりかやまぼうし、アルテミシア・ダグラシアナ、アルヌス・ロンビフォリア、アンペロプシス・アルボレア、いちじく、いちよう、いわだれそう、ウエストリンギア・フルティコサ、エウカリプツス・カマルドゥレンシス、エウカリプツス・グロブルス、エンケリア・ファリノサ、おとめふうろ、オリガヌム・マヨラナ、オリーブ、カマエクリスタ・ファスキクラタ、からたち、かりふおるにあすずかけのき、ゲニスタ・モンスペッスラーナ、ケルキス・オッキデンタリス、こしようぼく、こせんだんぐさ、コプロスマ・レペンス、サルウィア・アピアナ、サルウィア・メッリフェラ、さるすべり、ジャカランダ・ミモシフォリア、すいかずら、せいようきづた、せいようきようちくとう、ソリダゴ・フィスツローサ、たいさんぼく、つるうめもどき、テーダまつ、とうぐわ、なんてん、にちにちそう、はいきんぽうげ、バージニアづた、ピスタシオノキ、びろうどとねりこ、ぶな、ペカン、ヘテロメレス・アルブティフォリア、ホホバ、ポリガラ・ミルティフォリア、マルウァ・パルウィフロラ、マルビウム・ウルガレ、むくげ、もみじばふう、ヤポンノキ、ユグランス・カリフォルニカ、ユニペルス・アシェイ、ゆりのき、ラティビダ・コルムナリス、レダマ、レッドマルベリー、おおふともも属植物、おらんだふうろ属植物、かえで属植物、きいちご属植物、きんかん属植物、くわがたそう属植物、こなら属植物、コーヒーノキ属植物、さくら属植物、すのき（こけもも）属植物、つるにちにちそう属植物、なし属植物、にれ属植物、にわとこ属植物、バッカリス属植物、ぶどう属植物、みかん属植物、やなぎ属植物及びわすれぐさ属植物の生植物（種子及び果実を除く。）であつて栽培の用に供するもの</Sentence>
+              <Sentence WritingMode="vertical">アエスクルス・ヒブリダ、アカシア・サリグナ、アガティス・アウストラリス、アボカド、あめりかえのき、あめりかさいかち、あめりかすずかけのき、あめりかはなずおう、あめりかむらさきしきぶ、あめりかやまぼうし、アルテミシア・ダグラシアナ、アルヌス・ロンビフォリア、アレクトリオン・エクスケルスス、あれちのぎく、アンペロプシス・アルボレア、アンペロプシス・コルダタ、アンティリス・ヘルマニアエ、イウァ・アンヌア、いちじく、いちよう、いわだれそう、ウィテクス・ルケンス、ウエストリンギア・グラブラ、ウエストリンギア・フルティコサ、うらじろあかめがしわ、エウカリプツス・カマルドゥレンシス、エウカリプツス・グロブルス、エウリオプス・クリサンテモイデス、えぞのへびいちご、エレモフィラ・マクラタ、エンケリア・ファリノサ、おおあれちのぎく、おきなわすずめうり、おとめふうろ、オリガヌム・マヨラナ、オリーブ、かなむぐら、カマエクリスタ・ファスキクラタ、からたち、カリコトメ・ビルロサ、かりふおるにあすずかけのき、キスツス・クレティクス、キスツス・サルウィーフォリウス、キスツス・モンスペリエンシス、キティスス・ビルロスス、くろばとべら、くろみぐわ、ゲニスタ・コルシカ、ゲニスタ・モンスペッスラーナ、ケルキス・オッキデンタリス、こしようぼく、こせんだんぐさ、コプロスマ・レペンス、コプロスマ・ロブスタ、コリノカルプス・ラエウィガツス、コロキア・コトネアステル、コロキア・マクロカルパ、サルウィア・アピアナ、サルウィア・メッリフェラ、さるすべり、ジャカランダ・ミモシフォリア、しろざ、しんのうやし、すいかずら、せいようきづた、せいようきようちくとう、せいようずおう、せねがるやし、ソリダゴ・フィスツローサ、たいさんぼく、たわだぎく、チタルパ・タシュケンテンシス、つるうめもどき、ティランジア・ウスネオイデス、テーダまつ、とうぐわ、なんてん、にちにちそう、ニューサイラン、のぶどう、はいきんぽうげ、バージニアづた、バーベナ・リトラリス、ハロラギス・エレクタ、ピスタシオノキ、ピットスポルム・ウンベラツム、ピットスポルム・エウゲニオイデス、ピットスポルム・クラッシフォリウム、ファグナロン・サクサチレ、フィリレア・ラティフォーリア、フォルミウム・クッキアヌム、ふさあかしあ、ぶな、ペカン、ヘテロメレス・アルブティフォリア、ヘリクリスム・イタリクム、ホホバ、ポリガラ・ミルティフォリア、マルウァ・パルウィフロラ、マルビウム・ウルガレ、まんねんろう、ミオポルム・ラエツム、むくげ、むくろじ、メリコペ・テルナタ、メリタ・シンクライリー、もみじばふう、ヤポンノキ、ユグランス・カリフォルニカ、ユニペルス・アシェイ、ゆりのき、ようしゅきだちるりそう、ラティビダ・コルムナリス、レダマ、レッドマルベリー、ロサ・カニナ、ロサ・カリフォルニカ、ロサ・フロリブンダ、エリシムム属植物、おおふともも属植物、おらんだふうろ属植物、かえで属植物、きいちご属植物、きんかん属植物、くわがたそう属植物、こなら属植物、コーヒーノキ属植物、さくら属植物、すのき（こけもも）属植物、ストレプトカルパス属植物、せんねんぼく属植物、つるにちにちそう属植物、とねりこ属植物、なし属植物、にれ属植物、にわとこ属植物、バッカリス属植物、ぶどう属植物、ヘーベ属植物、ペラルゴニューム属植物、みかん属植物、やなぎ属植物、ラウァンドゥラ属植物及びわすれぐさ属植物の生植物（種子及び果実を除く。）であつて栽培の用に供するもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　輸出国の政府機関により発行され、かつ、その検査の結果検疫有害動植物が付着していないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものであること。</Sentence>
@@ -6344,10 +6361,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二十四　インド、中華人民共和国、アフガニスタン、イスラエル、イラン、トルコ、イタリア、ウクライナ、英国、オーストリア、オランダ、ギリシャ、クロアチア、スロベニア、チェコ、ドイツ、フランス、ベラルーシ、ベルギー、ポーランド、マルタ、ロシア、エジプト、ガーナ、ナイジェリア、アメリカ合衆国、コスタリカ、ドミニカ共和国、ベネズエラ、ペルー、オーストラリア、ニュージーランド</Sentence>
+              <Sentence WritingMode="vertical">二十四　インド、中華人民共和国、バングラデシュ、アフガニスタン、イスラエル、イラン、トルコ、イタリア、ウクライナ、英国、オーストリア、オランダ、ギリシャ、クロアチア、スペイン、スロベニア、チェコ、ドイツ、フランス、ベラルーシ、ベルギー、ポーランド、マルタ、モンテネグロ、ロシア、エジプト、ガーナ、ナイジェリア、アメリカ合衆国、コスタリカ、ドミニカ共和国、ベネズエラ、ペルー、メキシコ、オーストラリア、ニュージーランド</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">とうがらし、トマト、ばれいしよ及びペチュニア属植物の種子であつて栽培の用に供するもの並びにアボカド、しまほおずき、ストレプトソレン・ジェイムソニー、ソラヌム・ラントネッティー、タマサンゴ、つるはななす、とうがらし、トマト、ばれいしよ、ペピーノ、カリブラコア属植物、ケストルム属植物、ダリア属植物、ブルグマンシア属及びペチュニア属植物の生植物（種子及び果実を除く。）であつて栽培の用に供し得るもの</Sentence>
+              <Sentence WritingMode="vertical">とうがらし、トマト、はりなすび、ばれいしよ及びペチュニア属植物の種子であつて栽培の用に供するもの並びにアトリプレクス・セミルナリス、アボカド、いぬほおずき、おおせんなり、コニザ・ボナリエンシス、しまほおずき、ストレプトソレン・ジェイムソニー、せんなりほおずき、ソラヌム・ラントネッティー、ダツラ・レイクハルティー、タマサンゴ、つるはななす、とうがらし、トマト、はりなすび、ばれいしよ、ペピーノ、ラゴディア・エレマエア、カリブラコア属植物、ケストルム属植物、ダリア属植物、ブルグマンシア属及びペチュニア属植物の生植物（種子及び果実を除く。）であつて栽培の用に供し得るもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　輸出国の政府機関により発行され、かつ、その検査の結果検疫有害動植物が付着していないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものであること。</Sentence>
@@ -6356,10 +6373,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二十五　中華人民共和国、シリア、アイルランド、イタリア、英国、オーストリア、オランダ、キプロス、ギリシャ、スイス、スウェーデン、スペイン、チェコ、デンマーク、ドイツ、ハンガリー、フランス、ブルガリア、ベルギー、ポーランド、リトアニア、カナリア諸島、南アフリカ共和国、アメリカ合衆国、カナダ、エクアドル、チリ、ペルー、メキシコ</Sentence>
+              <Sentence WritingMode="vertical">二十五　中華人民共和国、シリア、トルコ、アイルランド、イタリア、英国、オーストリア、オランダ、キプロス、ギリシャ、スイス、スウェーデン、スペイン、チェコ、デンマーク、ドイツ、ハンガリー、フランス、ブルガリア、ベルギー、ポーランド、リトアニア、カナリア諸島、南アフリカ共和国、モロッコ、アメリカ合衆国、カナダ、エクアドル、チリ、ペルー、メキシコ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">トマトの種子であつて栽培の用に供するもの並びにあらげしゆんぎく、いぬほおずき、エキウム・クレティクム、エキウム・フミレ、きだちたばこ、けちようせんあさがお、ケノポディウム・ムラレ、コニザ・アルビダ、シシンブリウム・イリオ、タラクサクム・ウルガレ、ディプロタクシス・エルコイデス、トマト、バッシア・スコパリア、ばれいしよ、ピプタテルム・ムルティフロルム、ひろはひるがお、ペピーノ、ほんきんせんか、モリカンディア・アルウェンシス、ようしゆきだちるりそう、おおばこ属植物、オノポルドゥム属植物、ぎしぎし属植物、コロノプス属植物、せいようひるがお属植物、ぜにあおい属植物、のげし属植物及びひゆ属植物の生植物（種子及び果実を除く。）であつて栽培の用に供し得るもの</Sentence>
+              <Sentence WritingMode="vertical">トマトの種子であつて栽培の用に供するもの並びにあらげしゆんぎく、いぬほおずき、エキウム・クレティクム、エキウム・フミレ、きだちたばこ、けちようせんあさがお、ケノポディウム・ムラレ、コニザ・アルビダ、シシンブリウム・イリオ、タラクサクム・ウルガレ、ディプロタクシス・エルコイデス、トマト、バッシア・スコパリア、ばれいしよ、ピプタテルム・ムルティフロルム、ひろはひるがお、ペピーノ、ほんきんせんか、めぼうき、モリカンディア・アルウェンシス、ようしゆきだちるりそう、おおばこ属植物、オノポルドゥム属植物、ぎしぎし属植物、コロノプス属植物、せいようひるがお属植物、ぜにあおい属植物、のげし属植物及びひゆ属植物の生植物（種子及び果実を除く。）であつて栽培の用に供し得るもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　輸出国の政府機関により発行され、かつ、その検査の結果検疫有害動植物が付着していないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものであること。</Sentence>
@@ -6380,14 +6397,13 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二十七　カナダ、メキシコ</Sentence>
+              <Sentence WritingMode="vertical">二十七　削除</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">ソラヌム・カルディオフィルム及びトマトの生植物（種子及び果実を除く。）であつて栽培の用に供し得るもの</Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">１　輸出国の政府機関により発行され、かつ、その検査の結果検疫有害動植物が付着していないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものであること。</Sentence>
-              <Sentence WritingMode="vertical">２　１の検査証明書又はその写しには、核酸の塩基配列を検出するために適切と認められる方法による検査が行われ、かつ、Mexican papita viroidに侵されていないことが特記されていること。</Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6411,7 +6427,7 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　輸出国の政府機関により発行され、かつ、その検査の結果検疫有害動植物が付着していないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものであること。</Sentence>
-              <Sentence WritingMode="vertical">２　１の検査証明書又はその写しには、核酸の塩基配列を検出するために適切と認められる方法による検査が行われ、かつ、Tomato chlorotic dwarf viroidに侵されていないことが特記されていること。</Sentence>
+              <Sentence WritingMode="vertical">２　１の検査証明書又はその写しには、核酸の塩基配列を検出するために適切と認められる方法による検査が行われ、かつ、Tomato chlorotic dwarf viroid（トマト退緑委縮ウイロイド）に侵されていないことが特記されていること。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6428,14 +6444,28 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">三十一　メキシコ</Sentence>
+              <Sentence WritingMode="vertical">三十一　カナダ、メキシコ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">トマトの生植物（種子及び果実を除く。）であつて栽培の用に供し得るもの</Sentence>
+              <Sentence WritingMode="vertical">ソラヌム・カルディオフィルム及びトマトの生植物（種子及び果実を除く。）であつて栽培の用に供し得るもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　輸出国の政府機関により発行され、かつ、その検査の結果検疫有害動植物が付着していないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものであること。</Sentence>
               <Sentence WritingMode="vertical">２　１の検査証明書又はその写しには、核酸の塩基配列を検出するために適切と認められる方法による検査が行われ、かつ、Tomato planta macho viroidに侵されていないことが特記されていること。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三十二　インド、台湾、中華人民共和国、イスラエル、トルコ、アゼルバイジャン、イタリア、ウクライナ、英国、オランダ、クロアチア、コソボ、ジョージア、スイス、スペイン、スロベニア、セルビア、デンマーク、ドイツ、ノルウェー、ハンガリー、フランス、ポーランド、ボスニア・ヘルツェゴビナ、ポルトガル、マケドニア旧ユーゴスラビア共和国、モンテネグロ、ロシア、アメリカ合衆国、カナダ、アルゼンチン、オーストラリア</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">エリトラエア・ケンタウレウム、エリトラエア・ロクスバリー、ケンタウリウム・プルケルム、とるこぎきょう、ブラクストニア・インペルフォリアタ、ブラクストニア・セロティナ及びブラクストニア・ペルフォリアタの生植物（果実を除き、種子を含む。）であつて栽培の用に供するもの</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　輸出国の政府機関により発行され、かつ、その検査の結果検疫有害動植物が付着していないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものであること。</Sentence>
+              <Sentence WritingMode="vertical">２　１の検査証明書又はその写しには、次のいずれかの措置が行われ、かつ、Peronospora chloraeに侵されていないことが特記されていること。</Sentence>
+              <Sentence WritingMode="vertical">一　種子については、Peronospora chloraeが発生していない状態が維持されている地域として輸出国の政府機関が指定する地域において生産されること。</Sentence>
+              <Sentence WritingMode="vertical">二　種子以外の生植物については、輸出国の政府機関が指定するPeronospora chloraeが発生していない栽培施設において生産されること。</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -6446,13 +6476,25 @@
       <Item Delete="false" Hide="false" Num="1">
         <ItemTitle>一</ItemTitle>
         <ItemSentence>
-          <Sentence WritingMode="vertical">メキシコから発送され、他の地域を経由しないで輸入されるぶどうの生果実</Sentence>
+          <Sentence WritingMode="vertical">メキシコから発送され、別表二の二の一の項に定める地域を経由しないで輸入されるぶどうの生果実</Sentence>
         </ItemSentence>
       </Item>
       <Item Delete="false" Hide="false" Num="2">
         <ItemTitle>二</ItemTitle>
         <ItemSentence>
-          <Sentence WritingMode="vertical">メキシコから発送され、他の地域を経由しないで輸入されるみかん属植物の生果実</Sentence>
+          <Sentence WritingMode="vertical">メキシコから発送され、別表二の二の一の項に定める地域を経由しないで輸入されるみかん属植物の生果実</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Delete="false" Hide="false" Num="3">
+        <ItemTitle>三</ItemTitle>
+        <ItemSentence>
+          <Sentence WritingMode="vertical">メキシコから発送され、別表二の二の一の項に定める地域を経由しないで輸入されるきいちご属植物の生果実</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Delete="false" Hide="false" Num="4">
+        <ItemTitle>四</ItemTitle>
+        <ItemSentence>
+          <Sentence WritingMode="vertical">メキシコから発送され、別表二の二の一の項に定める地域を経由しないで輸入されるすのき（こけもも）属植物の生果実</Sentence>
         </ItemSentence>
       </Item>
     </AppdxTable>
@@ -6854,7 +6896,7 @@
               <Sentence WritingMode="vertical">一　北緯二十六度以南の南西諸島（大東諸島、宮古群島及び八重山群島を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">かんきつ類（ポンカンを除く。）、わんぴ、びわ、すもも、もも、ざくろ、いちじく、がじゆまる、りゆうがん、れいし、ごれんし、アボカド、ランブータン、くろつぐ、びんろうじゆ、サントール、てりはぼく、ももたまな、アセロラ、あんず、いんどめてんぐ、おらんだいちご、オリーブ、たいへいようぐるみ、なし、なつめやし、ぶどう、やまもも、りんご、かき属植物、なす属植物、ぱんのき属植物、マンゴウ属植物（マンゴウを除く。）、なつめ属植物、とけいそう属植物、あかてつ科植物、ふともも属植物、ばんれいし属植物、ふくぎ属植物、とうがらし属植物（ピーマンを除く。）、あかたねのき属植物、コーヒーノキ属植物、にんめんし属植物、ばんじろう属植物、ランサ属植物及びヒロセレウス属植物の生果実並びに成熟したバナナの生果実</Sentence>
+              <Sentence WritingMode="vertical">かんきつ類（ポンカンを除く。）、わんぴ、びわ、すもも、もも、ざくろ、いちじく、がじゆまる、りゆうがん、れいし、ごれんし、アボカド、ランブータン、くろつぐ、びんろうじゆ、サントール、てりはぼく、ももたまな、アセロラ、あんず、いんどめてんぐ、おらんだいちご、オリーブ、たいへいようぐるみ、なし、なつめやし、ぶどう、やまもも、りんご、アキー、いちじくぐわ、イルビンギア・ガボネンシス、うどんげのき、うめ、カシューナッツ、きゆうり、きんきじゆ、グリコスミス・ペンタフィラ、コルディラ・ピンナータ、さくらんぼ、すいか、スクレロカリア・ビレア、せいようすもも、てんじくいぬかんこ、トリファシア・トリフォリア、なんようざくら、にがうり、ねぐろもも、ねじれふさまめのき、バッカウレア・ラケモサ、バッカウレア・ラミフロラ、パパイヤ、ひまらやざくら、フィクス・エリゴドン、フィクス・コンカティアン、らんばい、かき属植物、なす属植物、ぱんのき属植物、マンゴウ属植物（マンゴウを除く。）、なつめ属植物、とけいそう属植物、あかてつ科植物、ふともも属植物、ばんれいし属植物、ふくぎ属植物、とうがらし属植物（ピーマンを除く。）、あかたねのき属植物、コーヒーノキ属植物、にんめんし属植物、ばんじろう属植物、ランサ属植物、ヒロセレウス属植物、カリッサ属植物、ユーゲニア属植物及びロリニア属植物の生果実並びに成熟したバナナの生果実</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence WritingMode="vertical">ミカンコミバエ</Sentence>
@@ -7003,7 +7045,7 @@
       <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_001.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7012,7 +7054,7 @@
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_002.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7021,7 +7063,7 @@
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_003.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7030,7 +7072,7 @@
       <RelatedArticleNum>（第十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_004.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7039,7 +7081,7 @@
       <RelatedArticleNum>（第十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_005.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7048,7 +7090,7 @@
       <RelatedArticleNum>（第十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_006.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7057,7 +7099,7 @@
       <RelatedArticleNum>（第十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_007.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7066,7 +7108,7 @@
       <RelatedArticleNum>（第十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_008.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7075,7 +7117,7 @@
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_009.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7084,7 +7126,7 @@
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_010.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7093,7 +7135,7 @@
       <RelatedArticleNum>（第二十二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_011.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7102,7 +7144,7 @@
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_012.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7111,7 +7153,7 @@
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_013.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7119,7 +7161,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十三号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_014.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7128,7 +7170,7 @@
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_015.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7137,7 +7179,7 @@
       <RelatedArticleNum>（第二十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_016.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7146,7 +7188,7 @@
       <RelatedArticleNum>（第二十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_017.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7155,7 +7197,7 @@
       <RelatedArticleNum>（第二十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_018.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7167,7 +7209,7 @@
       <RelatedArticleNum>（第三十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_019.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7176,7 +7218,7 @@
       <RelatedArticleNum>（第三十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_020.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7185,7 +7227,7 @@
       <RelatedArticleNum>（第三十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_021.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7194,7 +7236,7 @@
       <RelatedArticleNum>（第三十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_022.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7203,7 +7245,7 @@
       <RelatedArticleNum>（第三十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_023.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7212,7 +7254,7 @@
       <RelatedArticleNum>（第三十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_024.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7221,7 +7263,7 @@
       <RelatedArticleNum>（第三十五条の三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_025.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7230,7 +7272,7 @@
       <RelatedArticleNum>（第三十五条の三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_026.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7239,7 +7281,7 @@
       <RelatedArticleNum>（第三十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_027.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7248,7 +7290,7 @@
       <RelatedArticleNum>（第三十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_028.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7257,7 +7299,7 @@
       <RelatedArticleNum>（第三十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_029.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7266,7 +7308,7 @@
       <RelatedArticleNum>（第三十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_030.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7275,7 +7317,7 @@
       <RelatedArticleNum>（第三十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_031.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7284,7 +7326,7 @@
       <RelatedArticleNum>（第三十五条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_032.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7293,7 +7335,7 @@
       <RelatedArticleNum>（第三十五条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_033.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7302,7 +7344,7 @@
       <RelatedArticleNum>（第三十五条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_034.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7311,7 +7353,7 @@
       <RelatedArticleNum>（第三十五条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_035.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7320,7 +7362,7 @@
       <RelatedArticleNum>（第三十五条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_036.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7329,7 +7371,7 @@
       <RelatedArticleNum>（第三十五条の八関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_037.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7338,7 +7380,7 @@
       <RelatedArticleNum>（第三十五条の八関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_038.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_038.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7347,7 +7389,7 @@
       <RelatedArticleNum>（第三十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_039.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_039.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7356,7 +7398,7 @@
       <RelatedArticleNum>（第三十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_040.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_040.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7365,7 +7407,7 @@
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_041.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_041.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7374,7 +7416,7 @@
       <RelatedArticleNum>（第三十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_042.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_042.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7383,7 +7425,7 @@
       <RelatedArticleNum>（第四十二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_043.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_043.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7392,7 +7434,7 @@
       <RelatedArticleNum>（第四十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_044.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_044.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7401,7 +7443,7 @@
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_045.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_045.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7410,7 +7452,7 @@
       <RelatedArticleNum>（第四十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_046.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_046.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7419,7 +7461,7 @@
       <RelatedArticleNum>（第四十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_047.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_047.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7428,7 +7470,7 @@
       <RelatedArticleNum>（第四十八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_048.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_048.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7437,7 +7479,7 @@
       <RelatedArticleNum>（第四十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_049.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_049.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7446,7 +7488,7 @@
       <RelatedArticleNum>（第五十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_050.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_050.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7455,7 +7497,7 @@
       <RelatedArticleNum>（第五十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_051.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_051.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7464,7 +7506,7 @@
       <RelatedArticleNum>（第五十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006081706_052.pdf"/>
+          <Fig src="./pict/S25F00601000073_2006251706_052.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

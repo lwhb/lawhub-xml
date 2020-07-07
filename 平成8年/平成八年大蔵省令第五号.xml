@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200625e03k09m02" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="5" Year="08">
+<Law DataInfo="200625e05k09m02" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="5" Year="08">
   <LawNum>平成八年大蔵省令第五号</LawNum>
   <LawBody>
     <LawTitle>保険業法施行規則</LawTitle>
@@ -94,7 +94,7 @@
         </TOCChapter>
         <TOCChapter Num="4">
           <ChapterTitle>第四章　子会社等</ChapterTitle>
-          <ArticleRange>（第五十六条―第五十八条の五）</ArticleRange>
+          <ArticleRange>（第五十六条―第五十八条の六）</ArticleRange>
         </TOCChapter>
         <TOCChapter Num="5">
           <ChapterTitle>第五章　経理</ChapterTitle>
@@ -471,7 +471,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法第二条第十五項（法第二条の二第二項、第百七条第九項、第百二十七条第二項、第二百七十一条の三第二項、第二百七十一条の四第五項、第二百七十一条の五第四項、第二百七十一条の三十二第三項、第二百七十二条の二十一第二項、第二百七十二条の三十一第五項、第二百七十二条の三十二第三項、第二百七十二条の三十三第二項、第二百七十二条の三十四第二項及び第二百七十二条の四十二第三項並びに第四十八条の二第二項、第五十六条第十項、第五十八条第六項、第五十八条の三第三項、第五十八条の五第二項、第八十五条第二項、第九十四条第四項、第百五条第三項、第百五条の六第三項、第百十八条第三項及び第二百十条の七第十項において準用する場合を含む。次項において同じ。）の規定により、会社又は議決権の保有者が保有する議決権に含まないものとされる内閣府令で定める議決権は、次の株式又は持分に係る議決権とする。</Sentence>
+              <Sentence>法第二条第十五項（法第二条の二第二項、第百七条第九項、第百二十七条第二項、第二百七十一条の三第二項、第二百七十一条の四第五項、第二百七十一条の五第四項、第二百七十一条の三十二第三項、第二百七十二条の二十一第二項、第二百七十二条の三十一第五項、第二百七十二条の三十二第三項、第二百七十二条の三十三第二項、第二百七十二条の三十四第二項及び第二百七十二条の四十二第三項並びに第四十八条の二第二項、第五十六条第十一項、第五十八条第六項、第五十八条の二第五項、第五十八条の四第三項、第五十八条の六第二項、第八十五条第二項、第九十四条第四項、第百五条第三項、第百五条の六第三項、第百十八条第三項及び第二百十条の七第十項において準用する場合を含む。次項において同じ。）の規定により、会社又は議決権の保有者が保有する議決権に含まないものとされる内閣府令で定める議決権は、次の株式又は持分に係る議決権とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -13268,13 +13268,13 @@
               <Item Num="9">
                 <ItemTitle>九</ItemTitle>
                 <ItemSentence>
-                  <Sentence>有価証券関連デリバティブ取引（金融商品取引法第二十八条第八項第六号（定義）に規定する有価証券関連デリバティブ取引をいう。以下同じ。）</Sentence>
+                  <Sentence>有価証券関連デリバティブ取引（金融商品取引法第二十八条第八項第六号に規定する有価証券関連デリバティブ取引をいう。以下同じ。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="10">
                 <ItemTitle>十</ItemTitle>
                 <ItemSentence>
-                  <Sentence>金融商品取引法第二条第二十項（定義）に規定するデリバティブ取引（前号に掲げるものに該当するものを除く。）</Sentence>
+                  <Sentence>金融商品取引法第二条第二十項に規定するデリバティブ取引（前号に掲げるものに該当するもの及び暗号資産（同条第二十四項第三号の二に規定する暗号資産をいう。以下同じ。）又は暗号資産関連金融指標（同法第百八十五条の二十二第一項第一号に規定する暗号資産関連金融指標をいう。第五十二条の二の二第三号、第五十二条の十六第一項第四号ニ及び第五十六条第二項第一号において同じ。）に係る取引を除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="11">
@@ -14011,8 +14011,26 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>法第九十八条第一項第六号及び第七号に規定する内閣府令で定めるものは、金融商品取引法第二条第二十項に規定するデリバティブ取引（資産の運用のために行うもの及び有価証券関連デリバティブ取引に該当するものを除く。）とする。</Sentence>
+                <Sentence>法第九十八条第一項第六号及び第七号に規定する内閣府令で定めるものは、金融商品取引法第二条第二十項に規定するデリバティブ取引のうち、次に掲げる取引以外の取引とする。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>資産の運用のために行う取引</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>有価証券関連デリバティブ取引</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>暗号資産又は暗号資産関連金融指標に係る取引</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
           </Article>
           <Article Num="52_3">
@@ -15373,7 +15391,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>次に掲げるすべての事項のみが表示されている景品その他の物品（ロからニまでに掲げる事項について明瞭かつ正確に表示されているものに限る。）を提供する方法（当該事項のうち景品その他の物品に表示されていない事項がある場合にあっては、当該景品その他の物品と当該事項が表示されている他の物品とを一体のものとして提供する方法を含む。）</Sentence>
+                  <Sentence>次に掲げる全ての事項のみが表示されている景品その他の物品（ロからニまでに掲げる事項について明瞭かつ正確に表示されているものに限る。）を提供する方法（当該事項のうち景品その他の物品に表示されていない事項がある場合にあっては、当該景品その他の物品と当該事項が表示されている他の物品とを一体のものとして提供する方法を含む。）</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -15390,7 +15408,7 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>令第十三条の五の五第二項第一号に掲げる事項（当該事項の文字又は数字が当該事項以外の事項の文字又は数字のうち最も大きなものと著しく異ならない大きさで表示されているものに限る。）</Sentence>
+                    <Sentence>令第十三条の五の五第二項第一号に掲げる事項及び第五十二条の十三の十八第二号に掲げる事項（これらの事項の文字又は数字が当該事項以外の事項の文字又は数字のうち最も大きなものと著しく異ならない大きさで表示されているものに限る。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
@@ -15426,19 +15444,19 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>保険金信託業務を行う生命保険会社等がその行う特定信託契約の締結の業務の内容について広告又は前条に規定する行為（次項において「広告等」という。）をするときは、準用金融商品取引法第三十七条第一項各号（第二号を除く。）に掲げる事項について明瞭かつ正確に表示しなければならない。</Sentence>
+                <Sentence>保険金信託業務を行う生命保険会社等がその行う特定信託契約の締結の業務の内容について広告又は前条に規定する行為（以下この章において「広告等」という。）をするときは、準用金融商品取引法第三十七条第一項各号（第二号を除く。）に掲げる事項について明瞭かつ正確に表示しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>保険金信託業務を行う生命保険会社等がその行う特定信託契約の締結の業務の内容について広告等をするときは、令第十三条の五の五第一項第二号に掲げる事項の文字又は数字を当該事項以外の事項の文字又は数字のうち最も大きなものと著しく異ならない大きさで表示するものとする。</Sentence>
+                <Sentence>保険金信託業務を行う生命保険会社等がその行う特定信託契約の締結の業務の内容について広告等をするときは、令第十三条の五の五第一項第二号に掲げる事項及び第五十二条の十三の十八第二号に掲げる事項の文字又は数字をこれらの事項以外の事項の文字又は数字のうち最も大きなものと著しく異ならない大きさで表示するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>保険金信託業務を行う生命保険会社等がその行う特定信託契約の締結の業務の内容について基幹放送事業者（放送法（昭和二十五年法律第百三十二号）第二条第二十三号に規定する基幹放送事業者をいい、日本放送協会及び放送大学学園（放送大学学園法（平成十四年法律第百五十六号）第三条に規定する放送大学学園をいう。）を除く。第五十二条の十三の十九第一項第二号、第二百三十四条の十六第三項及び第二百三十四条の十九第一項第二号において同じ。）の放送設備により放送をさせる方法又は第五十二条の十三の十九第一項各号に掲げる方法（音声により放送をさせる方法を除く。）により広告をするときは、前項の規定にかかわらず、令第十三条の五の五第二項第一号に掲げる事項の文字又は数字を当該事項以外の事項の文字又は数字のうち最も大きなものと著しく異ならない大きさで表示するものとする。</Sentence>
+                <Sentence>保険金信託業務を行う生命保険会社等がその行う特定信託契約の締結の業務の内容について基幹放送事業者（放送法（昭和二十五年法律第百三十二号）第二条第二十三号に規定する基幹放送事業者をいい、日本放送協会及び放送大学学園（放送大学学園法（平成十四年法律第百五十六号）第三条に規定する放送大学学園をいう。）を除く。第五十二条の十三の十九第一項第二号、第二百三十四条の十六第三項及び第二百三十四条の十九第一項第二号において同じ。）の放送設備により放送をさせる方法又は第五十二条の十三の十九第一項各号に掲げる方法（音声により放送をさせる方法を除く。）により広告をするときは、前項の規定にかかわらず、令第十三条の五の五第二項第一号に掲げる事項及び第五十二条の十三の十八第二号に掲げる事項の文字又は数字をこれらの事項以外の事項の文字又は数字のうち最も大きなものと著しく異ならない大きさで表示するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -15477,8 +15495,32 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>令第十三条の五の五第一項第三号に規定する内閣府令で定める事項は、当該特定信託契約に関する重要な事項について顧客の不利益となる事実とする。</Sentence>
+                <Sentence>令第十三条の五の五第一項第三号に規定する内閣府令で定める事項は、次に掲げる事項とする。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該特定信託契約に関する重要な事項について顧客の不利益となる事実</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>暗号資産等の信託（信託財産の管理又は処分において、暗号資産及び暗号資産関連有価証券（金融商品取引業等に関する内閣府令第百四十六条の三第二項に規定する暗号資産関連有価証券をいう。第五十二条の十六第一項第四号ニにおいて同じ。）を含む財産の信託並びに暗号資産関連デリバティブ取引（同令第百二十三条第一項第三十五号に規定する暗号資産関連デリバティブ取引をいう。）を行う信託をいう。以下同じ。）を内容とする特定信託契約について広告等をする場合にあっては、次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>暗号資産は、本邦通貨又は外国通貨でないこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>暗号資産は、代価の弁済を受ける者の同意がある場合に限り代価の弁済のために使用することができること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
             </Paragraph>
           </Article>
           <Article Num="52_13_19">
@@ -15511,7 +15553,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>令第十三条の五の五第二項第二号に規定する内閣府令で定める事項は、第五十二条の十三の十五第三号ニに掲げる事項とする。</Sentence>
+                <Sentence>令第十三条の五の五第二項第二号に規定する内閣府令で定める事項は、第五十二条の十三の十五第三号ニ及び前条第二号に掲げる事項とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -15546,6 +15588,60 @@
                 <ItemSentence>
                   <Sentence>特定信託契約に関して顧客が支払うべき手数料等の額又はその計算方法、支払の方法及び時期並びに支払先に関する事項</Sentence>
                 </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>電子記録移転有価証券表示権利等（金融商品取引業等に関する内閣府令第一条第四項第十七号に規定する電子記録移転有価証券表示権利等をいう。以下同じ。）に関する特定信託契約について広告等をする場合にあっては、次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>電子記録移転有価証券表示権利等の性質</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>電子記録移転有価証券表示権利等に係る保有又は移転の仕組みに関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>暗号資産等の信託を内容とする特定信託契約について広告等をする場合にあっては、次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>暗号資産の性質</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>暗号資産の保有又は移転の仕組みに関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>暗号資産の取引高若しくは価格の推移又はこれらの見込みに関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>暗号資産に表示される権利義務の内容に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>暗号資産を発行し、若しくは発行しようとする者、暗号資産に表示される権利に係る債務者又は暗号資産の価値若しくは仕組みに重大な影響を及ぼすことができる者の資力若しくは信用又はその行う事業に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
             </Paragraph>
           </Article>
@@ -15755,6 +15851,12 @@
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
+              <Item Num="13">
+                <ItemTitle>十三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該特定信託契約が電子記録移転有価証券表示権利等に関するものである場合にあっては、当該電子記録移転有価証券表示権利等の概要その他当該電子記録移転有価証券表示権利等の性質に関し顧客の注意を喚起すべき事項</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
@@ -15935,6 +16037,24 @@
                   <Sentence>特定信託契約の締結又は解約に関し、顧客（個人に限る。）に迷惑を覚えさせるような時間に電話又は訪問により勧誘する行為</Sentence>
                 </ItemSentence>
               </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>暗号資産等の信託を内容とする特定信託契約の締結若しくはその勧誘をするに際し、又はその行う当該特定信託契約の締結の業務に関して広告等をするに際し、顧客（金融商品取引業者等（金融商品取引法第三十四条に規定する金融商品取引業者等をいい、暗号資産に関する金融商品取引行為（同条に規定する金融商品取引行為をいう。）を業として行う者に限る。）及び暗号資産交換業者等（資金決済に関する法律第二条第八項に規定する暗号資産交換業者又は同条第九項に規定する外国暗号資産交換業者をいう。）を除く。次号において同じ。）に対し、裏付けとなる合理的な根拠を示さないで、第五十二条の十三の二十第六号イからホまでに掲げる事項に関する表示をする行為</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>顧客に対し、第五十二条の十三の十八第二号イ及びロに掲げる事項を明瞭かつ正確に表示しないで（書面の交付その他これに準ずる方法を用いる場合にあっては、当該事項の文字又は数字を当該事項以外の事項の文字又は数字のうち最も大きなものと著しく異ならない大きさで表示しないことを含む。）暗号資産等の信託を内容とする特定信託契約の締結の勧誘をする行為</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>自己又は第三者の利益を図ることを目的として、その行う暗号資産等の信託を内容とする特定信託契約の締結の業務の対象とし、若しくは対象としようとする有価証券の売買その他の取引等に係る暗号資産等（金融商品取引法第百八十五条の二十三第一項に規定する暗号資産等をいう。以下この号並びに第五十二条の二十三第六項第二号及び第四号において同じ。）又は当該保険金信託業務を行う生命保険会社等に関する重要な情報であって顧客の暗号資産等に係る有価証券の売買その他の取引等に係る判断に影響を及ぼすと認められるもの（当該保険金信託業務を行う生命保険会社等の行う当該特定信託契約の締結の業務の全ての顧客が容易に知り得る状態に置かれている場合を除く。）を、第三者に対して伝達し、又は利用する行為（当該保険金信託業務を行う生命保険会社等の行う特定信託契約の締結の業務の適正かつ確実な遂行に必要なものを除く。）</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
           </Article>
           <Article Num="52_14">
@@ -16024,6 +16144,42 @@
                 <ItemSentence>
                   <Sentence>第一号の信託財産の取得日以後において信託財産を取得する予定がある場合においては、取得予定日、信託財産の種類及び取得にあたっての条件</Sentence>
                 </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>暗号資産等の信託にあっては、次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>暗号資産は本邦通貨又は外国通貨ではないこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>暗号資産の価値の変動を直接の原因として損失が生ずるおそれがあるときは、その旨及びその理由</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>暗号資産は、代価の弁済を受ける者の同意がある場合に限り代価の弁済のために使用することができること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>取り扱う暗号資産（暗号資産関連金融指標及び暗号資産関連有価証券に関するものを含む。）の概要及び特性（当該暗号資産が、特定の者によりその価値を保証されていない場合にあっては、その旨又は特定の者によりその価値を保証されている場合にあっては、当該者の氏名、商号若しくは名称及び当該保証の内容を含む。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>その他暗号資産の性質に関し参考となると認められる事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
             </Paragraph>
             <Paragraph Num="2">
@@ -16346,7 +16502,7 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>デリバティブ取引が行われた場合につき、取引の種類ごとに、当期末現在における取引契約残高又は取引残高及び計算期間中における取引契約金額若しくは取引金額</Sentence>
+                  <Sentence>デリバティブ取引が行われた場合には、取引の種類ごとに、当期末現在における取引契約残高又は取引残高及び計算期間中における取引契約金額若しくは取引金額</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
@@ -16363,19 +16519,19 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>不動産の売却を予定する信託の場合につき、物件ごとに、当期末現在における価格（鑑定評価額、公示価格、路線価、固定資産税評価額（地方税法（昭和二十五年法律第二百二十六号）第三百八十一条第一項又は第二項の規定により土地課税台帳又は土地補充課税台帳に登録されている価格をいう。）その他の資料に基づき合理的に算出した額をいう。）</Sentence>
+                    <Sentence>不動産の売却を予定する信託の場合には、物件ごとに、当期末現在における価格（鑑定評価額、公示価格、路線価、固定資産税評価額（地方税法（昭和二十五年法律第二百二十六号）第三百八十一条第一項又は第二項の規定により土地課税台帳又は土地補充課税台帳に登録されている価格をいう。）その他の資料に基づき合理的に算出した額をいう。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>不動産に関して賃貸借契約が締結された場合につき、物件ごとに、当期末現在における稼働率及び当該物件に関して賃貸借契約を締結した相手方の総数並びに計算期間中における全賃料収入（当該全賃料収入について、やむを得ない事情により記載できない場合には、その旨）</Sentence>
+                    <Sentence>不動産に関して賃貸借契約が締結された場合には、物件ごとに、当期末現在における稼働率及び当該物件に関して賃貸借契約を締結した相手方の総数並びに計算期間中における全賃料収入（当該全賃料収入について、やむを得ない事情により記載できない場合には、その旨）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>当該不動産の売却が行われた場合につき、計算期間中における売買金額の総額</Sentence>
+                    <Sentence>当該不動産の売却が行われた場合には、計算期間中における売買金額の総額</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -16393,7 +16549,7 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>債権の売買が行われた場合につき、計算期間中における債権の種類ごとの売買総額</Sentence>
+                    <Sentence>債権の売買が行われた場合には、計算期間中における債権の種類ごとの売買総額</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -16411,19 +16567,67 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>知的財産権に関して、設定行為により、実施権及び使用権その他の権利（以下この号において「実施権等」という。）が設定された場合につき、知的財産権ごとに、実施権等の範囲その他の実施権等の設定行為の内容に関する事項</Sentence>
+                    <Sentence>知的財産権に関して、設定行為により、実施権及び使用権その他の権利（以下この号において「実施権等」という。）が設定された場合には、知的財産権ごとに、実施権等の範囲その他の実施権等の設定行為の内容に関する事項</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>知的財産権の売却を予定する信託の場合につき、知的財産権ごとに、当期末現在における評価額</Sentence>
+                    <Sentence>知的財産権の売却を予定する信託の場合には、知的財産権ごとに、当期末現在における評価額</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence>知的財産権ごとに、計算期間中における取引の状況</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="7_2">
+                <ItemTitle>七の二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>暗号資産につき、計算期間中における売買総数及び売買総額並びに種類ごとに次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>信託財産の計算期間の直前の計算期間の末日現在における数量</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>当期末現在における数量</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>当該暗号資産の売却を予定する信託の場合には、当期末現在における暗号資産の時価総額</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="7_3">
+                <ItemTitle>七の三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>電子記録移転有価証券表示権利等につき、計算期間中における売買総数及び売買総額並びに銘柄ごとに次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>信託財産の計算期間の直前の計算期間の末日現在における数量</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>当期末現在における数量</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>当該電子記録移転有価証券表示権利等の売却を予定する信託の場合には、当期末現在における電子記録移転有価証券表示権利等の時価総額</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -16441,13 +16645,13 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>対象財産に関して権利が設定された場合につき、対象財産ごとに、当該権利の権利者の氏名又は名称その他の当該権利の内容に関する事項</Sentence>
+                    <Sentence>対象財産に関して権利が設定された場合には、対象財産ごとに、当該権利の権利者の氏名又は名称その他の当該権利の内容に関する事項</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>対象財産の売却を予定する信託の場合につき、対象財産ごとに、当期末現在における評価額</Sentence>
+                    <Sentence>対象財産の売却を予定する信託の場合には、対象財産ごとに、当期末現在における評価額</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
@@ -16631,6 +16835,44 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
+                <Sentence Function="main" Num="1">保険金信託業務を行う生命保険会社等は、前二項の規定によるもののほか、信託財産に属する暗号資産及び電子記録移転有価証券表示権利等を管理するときは、次の各号に掲げる場合の区分に応じ、当該各号に定める方法により、管理しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、顧客の利便の確保及び信託業務の円滑な遂行を図るために、その行う信託業務の状況に照らし、次の各号に定める方法以外の方法で管理することが必要な最小限度の暗号資産（当該暗号資産の数量を本邦通貨に換算した金額が、その管理する信託財産に属する暗号資産の数量を本邦通貨に換算した金額に百分の五を乗じて得た金額を超えない場合に限る。）及び電子記録移転有価証券表示権利等については、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>保険金信託業務を行う生命保険会社等が自己で管理する場合　信託財産に属する暗号資産及び電子記録移転有価証券表示権利等を表示する財産的価値を移転するために必要な情報を、常時インターネットに接続していない電子機器、電磁的記録媒体その他の記録媒体（文書その他の物を含む。）に記録して管理する方法その他これと同等の技術的安全管理措置を講じて管理する方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>保険金信託業務を行う生命保険会社等が第三者をして管理させる場合　信託財産に属する暗号資産及び電子記録移転有価証券表示権利等の保全に関して、当該保険金信託業務を行う生命保険会社等が自己で管理する場合と同等の顧客の保護が確保されていると合理的に認められる方法</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">保険金信託業務を行う生命保険会社等は、前項ただし書の規定による暗号資産と同じ種類及び数量の暗号資産（以下この項において「履行保証暗号資産」という。）を自己の暗号資産として保有し、次の各号に掲げる履行保証暗号資産の区分に応じ、当該各号に定める方法により、当該履行保証暗号資産以外の自己の暗号資産と分別して管理するものとする。</Sentence>
+                <Sentence Num="2">この場合においては、前項各号の規定を準用する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>保険金信託業務を行う生命保険会社等が自己で管理する履行保証暗号資産　履行保証暗号資産と信託財産に属する暗号資産、他の信託の信託財産に属する暗号資産及び履行保証暗号資産以外の自己の暗号資産とを明確に区分し、かつ、いずれが履行保証暗号資産であるかが直ちに判別できる状態（履行保証暗号資産の数量が自己の帳簿により直ちに判別できる状態を含む。次号において同じ。）で管理する方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>保険金信託業務を行う生命保険会社等が第三者をして管理させる履行保証暗号資産　当該第三者において、当該履行保証暗号資産とそれ以外の暗号資産とを明確に区分させ、かつ、いずれが当該履行保証暗号資産であるかが直ちに判別できる状態で管理させる方法</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
                 <Sentence>保険金信託業務を行う生命保険会社等は、信託業務の処理及び計算を明らかにするため、第一号及び第二号に掲げる帳簿書類を別表により作成し、次の各号に掲げる書類の区分に応じ、当該各号に定める期間保存しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
@@ -16735,6 +16977,42 @@
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence>保険金信託業務を行う生命保険会社等は、電気通信回線に接続している電子計算機を利用してその業務を営む場合には、顧客が当該保険金信託業務を行う生命保険会社等と他の者を誤認することを防止するための適切な措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>保険金信託業務を行う生命保険会社等は、暗号資産等の信託を行う場合（第三号については、信託財産に属する電子記録移転有価証券表示権利等を管理する場合を含む。）には、次に掲げる措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>暗号資産の特性、取引の内容その他の事情に応じ、顧客の保護を図り、及び信託業務の適正かつ確実な遂行を確保するために必要な体制を整備する措置</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>暗号資産の特性及び自己の業務体制に照らして、顧客の保護又は信託業務の適正かつ確実な遂行に支障を及ぼすおそれがあると認められる暗号資産等に係る有価証券の売買その他の取引等を取り扱わないために必要な措置</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>業務の内容及び方法に応じ、当該業務に係る電子情報処理組織の管理を十分に行うための措置</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>保険金信託業務を行う生命保険会社等が、その行う暗号資産等の信託の対象とし、若しくは対象としようとする有価証券の売買その他の取引等に係る暗号資産等又は当該保険金信託業務を行う生命保険会社等に関する重要な情報であって顧客の暗号資産等に係る有価証券の売買その他の取引等に係る判断に影響を及ぼすと認められるもの（当該保険金信託業務を行う生命保険会社等の行う暗号資産等の信託の全ての顧客が容易に知り得る状態に置かれている場合を除く。）を適切に管理するために必要な措置</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>保険金信託業務を行う生命保険会社等は、前項の規定によるもののほか、暗号資産及び電子記録移転有価証券表示権利等を表示する財産的価値を移転するために必要な情報の漏えい、滅失、毀損その他の事由に起因して、法第九十九条第八項において準用する信託業法第二十八条第三項の規定により信託財産に属する財産と固有財産及び他の信託の信託財産に属する財産とを分別して管理する信託財産に属する暗号資産、電子記録移転有価証券表示権利等で顧客に対して負担する暗号資産及び電子記録移転有価証券表示権利等の管理に関する債務の全部を履行することができない場合における当該債務の履行に関する方針（当該債務を履行するために必要な対応及びそれを実施する時期を含む。）を定めて公表し、かつ、実施するための措置を講じるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -17951,6 +18229,26 @@
               </Item>
             </Paragraph>
           </Article>
+          <Article Num="53_11_2">
+            <ArticleCaption>（暗号資産の取得等に係る情報の安全管理措置）</ArticleCaption>
+            <ArticleTitle>第五十三条の十一の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>保険会社は、その行う業務のうち、暗号資産を取得し、又は保有することとなる業務及び暗号資産に係る投資助言業務（金融商品取引法第二十八条第六項に規定する投資助言業務をいう。次条及び第五十六条の二第二項第二十六号において同じ。）について、これらの業務の内容及び方法に応じ、当該業務に係る電子情報処理組織の管理を十分に行うための措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="53_11_3">
+            <ArticleCaption>（暗号資産の取得等に係る健全性確保を図るための措置等）</ArticleCaption>
+            <ArticleTitle>第五十三条の十一の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>保険会社は、その行う業務のうち、暗号資産を取得し、又は保有することとなる業務及び暗号資産に係る投資助言業務について、暗号資産の特性、取引の内容その他の事情に応じ、保険会社の経営の健全性の確保を図り、及びこれらの業務の適正かつ確実な遂行を確保するために必要な体制を整備する措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="53_12">
             <ArticleCaption>（特定早期解約と保険契約の申込みの撤回又は解除との調整）</ArticleCaption>
             <ArticleTitle>第五十三条の十二</ArticleTitle>
@@ -18645,12 +18943,12 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>法第百六条第一項第五号に規定する内閣府令で定める業務は、金融商品取引法第三十五条第一項第一号から第十号まで及び第十三号（第一種金融商品取引業又は投資運用業を行う者の業務の範囲）に掲げる行為を行う業務並びに同条第二項第一号から第三号までに掲げる業務（同項第一号に掲げる業務にあっては、第五十二条の三第一項第一号及び第三号（同項第一号に係る部分に限る。）に掲げるもの並びに商品先物取引法第二条第二十一項（定義）に規定する商品市場における取引等の委託を受ける業務に限り、金融商品取引法第三十五条第二項第二号に掲げる業務にあっては、第五十二条の三第一項第一号及び第三号（同項第一号に係る部分に限る。）に掲げるものに限る。）のほか、次に掲げるものとする。</Sentence>
+                <Sentence>法第百六条第一項第五号に規定する内閣府令で定める業務は、金融商品取引法第三十五条第一項第一号から第十号まで、第十三号及び第十六号（第一種金融商品取引業又は投資運用業を行う者の業務の範囲）に掲げる行為を行う業務並びに同条第二項第一号から第三号までに掲げる業務（同項第一号に掲げる業務にあっては、第五十二条の三第一項第一号及び第三号（同項第一号に係る部分に限る。）に掲げるもの並びに商品先物取引法第二条第二十一項（定義）に規定する商品市場における取引等の委託を受ける業務に限り、金融商品取引法第三十五条第二項第二号に掲げる業務にあっては、第五十二条の三第一項第一号及び第三号（同項第一号に係る部分に限る。）に掲げるものに限る。）のほか、次に掲げるものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>金融商品取引法第二条第八項第七号及び第十一号から第十七号まで（定義）に掲げる行為並びに金融商品取引法施行令第一条の十二（金融商品取引業となる行為）に規定する行為を行う業務</Sentence>
+                  <Sentence>金融商品取引法第二条第八項第七号及び第十一号から第十七号まで（定義）に掲げる行為（同項第十二号、第十四号及び第十五号に掲げる行為にあっては、暗号資産の価値等（暗号資産の価値、暗号資産関連オプション（同法第百八十五条の二十三第一項に規定する暗号資産関連オプションをいう。）の対価の額又は暗号資産関連金融指標の動向をいう。次項第一号並びに次条第二項第十七号及び第二十六号において同じ。）の分析に基づく投資判断（同法第二条第八項第十一号ロに規定する投資判断をいう。次項第一号並びに次条第二項第十七号及び第二十六号において同じ。）に基づいて財産の運用を行うものを除く。）並びに金融商品取引法施行令第一条の十二各号（金融商品取引業となる行為）に掲げる行為を行う業務</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -18675,7 +18973,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>金融商品取引法第二条第八項第十一号、第十二号及び第十四号に掲げる行為並びに金融商品取引法施行令第一条の十二に規定する行為を行う業務</Sentence>
+                  <Sentence>金融商品取引法第二条第八項第十一号、第十二号及び第十四号に掲げる行為（同項第十二号及び第十四号に掲げる行為にあっては、暗号資産の価値等の分析に基づく投資判断に基づいて財産の運用を行うものを除く。）並びに金融商品取引法施行令第一条の十二第一号に掲げる行為を行う業務</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -18707,7 +19005,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>法第百六条第一項第十二号及び第十項に規定する内閣府令で定めるものは、次に掲げるものとする。</Sentence>
+                <Sentence>法第百六条第一項第十二号及び第十一項に規定する内閣府令で定めるものは、次に掲げるものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -18881,8 +19179,8 @@
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">前三項の規定にかかわらず、特定子会社がその取得した次の各号に掲げる会社（以下この項、第五十八条の二第一項第九号及び第五十八条の五第一項において「新規事業分野開拓会社等」という。）の議決権を当該各号に規定する日（以下この項において「処分基準日」という。）までに処分しないときは、当該新規事業分野開拓会社等は、処分基準日の翌日からは当該保険会社に係る法第百六条第一項第十三号及び第百七条第七項に規定する内閣府令で定める会社に該当しないものとする。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、当該処分を行えば当該保険会社又はその子会社が保有する当該新規事業分野開拓会社等の議決権の数が当該処分基準日における基礎議決権数（国内の会社（法第百七条第一項に規定する国内の会社をいう。以下この章、第七章及び第八章において同じ。）の議決権についてはその総株主等の議決権に百分の十を乗じて得た議決権の数、外国の会社の議決権についてはその総株主等の議決権に百分の五十を乗じて得た議決権の数をいう。以下この項において同じ。）を下回ることとなる場合において、当該特定子会社が当該取得の日から処分基準日までの間に当該保険会社又はその子会社の保有する当該新規事業分野開拓会社等の議決権のうち当該処分基準日における基礎議決権数を超える部分の議決権を処分したときは、この限りでない。</Sentence>
+                <Sentence Function="main" Num="1">前三項の規定にかかわらず、特定子会社がその取得した次の各号に掲げる会社（以下この項、第五十八条の三第一項第九号及び第五十八条の六第一項において「新規事業分野開拓会社等」という。）の議決権を当該各号に規定する日（以下この項において「処分基準日」という。）までに処分しないときは、当該新規事業分野開拓会社等は、処分基準日の翌日からは当該保険会社に係る法第百六条第一項第十三号及び第百七条第七項に規定する内閣府令で定める会社に該当しないものとする。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、当該処分を行えば当該保険会社又はその子会社が保有する当該新規事業分野開拓会社等の議決権の数が当該処分基準日における基礎議決権数（国内の会社（法第百七条第一項に規定する国内の会社をいう。以下この章、第八十五条第一項第七号及び第七号の三、第七章、第八章並びに第二百十一条の三十五第一項第五号において同じ。）の議決権についてはその総株主等の議決権に百分の十を乗じて得た議決権の数、外国の会社の議決権についてはその総株主等の議決権に百分の五十を乗じて得た議決権の数をいう。以下この項において同じ。）を下回ることとなる場合において、当該特定子会社が当該取得の日から処分基準日までの間に当該保険会社又はその子会社の保有する当該新規事業分野開拓会社等の議決権のうち当該処分基準日における基礎議決権数を超える部分の議決権を処分したときは、この限りでない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -18940,7 +19238,7 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>法第百六条第一項第四号の二、第十二号又は第十三号に規定する会社を子会社とする持株会社にあっては、専ら当該子会社の経営管理を行う業務及びこれに附帯する業務並びに次条第一項各号及び第二項各号（第三十四号の三から第四十五号までを除く。）に掲げる業務を営むもの</Sentence>
+                  <Sentence>法第百六条第一項第四号の二又は第十二号から第十三号の二までに規定する会社を子会社とする持株会社にあっては、専ら当該子会社の経営管理を行う業務及びこれに附帯する業務並びに次条第一項各号及び第二項各号（第三十四号の三から第四十五号までを除く。）に掲げる業務を営むもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
@@ -18965,7 +19263,7 @@
             <Paragraph Num="11">
               <ParagraphNum>１１</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>法第二条第十五項の規定は、第六項及び第七項に規定する議決権について準用する。</Sentence>
+                <Sentence>法第二条第十五項の規定は、第七項及び第八項に規定する議決権について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -19226,7 +19524,7 @@
               <Item Num="10">
                 <ItemTitle>十</ItemTitle>
                 <ItemSentence>
-                  <Sentence>主として保険持株会社、子会社対象会社（法第百六条第一項に規定する子会社対象会社をいう。第三十号及び第三十五号、次条第一項第七号並びに第二百十条の九第一項第七号において同じ。）に該当する会社若しくは保険募集人の業務又は事業者の財務に関する電子計算機のプログラムの作成若しくは販売（プログラムの販売に伴い必要となる附属機器の販売を含む。）を行う業務及び計算受託業務（第三十五号に該当するものを除く。）</Sentence>
+                  <Sentence>主として保険持株会社、子会社対象会社（法第百六条第一項に規定する子会社対象会社をいう。第三十号及び第三十五号において同じ。）に該当する会社若しくは保険募集人の業務又は事業者の財務に関する電子計算機のプログラムの作成若しくは販売（プログラムの販売に伴い必要となる附属機器の販売を含む。）を行う業務及び計算受託業務（同号に該当するものを除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="10_2">
@@ -19292,7 +19590,7 @@
               <Item Num="17">
                 <ItemTitle>十七</ItemTitle>
                 <ItemSentence>
-                  <Sentence>金融商品取引法第二条第八項第七号、第十三号及び第十五号（定義）に掲げる行為を行う業務</Sentence>
+                  <Sentence>金融商品取引法第二条第八項第七号、第十三号及び第十五号（定義）に掲げる行為（同号に掲げる行為にあっては、暗号資産の価値等の分析に基づく投資判断に基づいて財産の運用を行うものを除く。）を行う業務</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="18">
@@ -19376,7 +19674,7 @@
               <Item Num="26">
                 <ItemTitle>二十六</ItemTitle>
                 <ItemSentence>
-                  <Sentence>投資助言業務（金融商品取引法第二十八条第六項（通則）に規定する投資助言業務をいう。）又は投資一任契約に係る業務</Sentence>
+                  <Sentence>投資助言業務又は投資一任契約（暗号資産の価値等の分析に基づく投資判断の全部又は一部を一任されるものを除く。）に係る業務</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="26_2">
@@ -19740,7 +20038,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>保険会社は、子会社対象保険会社等（法第百六条第七項に規定する子会社対象保険会社等をいう。以下同じ。）を子会社とすることの認可を受けようとするときは、認可申請書に次に掲げる書類を添付して金融庁長官に提出しなければならない。</Sentence>
+                <Sentence>保険会社は、子会社対象保険会社等（法第百六条第七項に規定する子会社対象保険会社等をいい、同条第一項第十三号の二に掲げる会社（以下この条、次条、第八十五条第一項、第九十四条第一項第十号及び第十号の二、第百五条第一項第十九号の二、第百五条の六第一項第十八号の二並びに第二百四十六条第一項第九号から第九号の三までにおいて「保険業高度化等会社」という。）を除く。以下この条において同じ。）を子会社とすることについての認可を受けようとするときは、認可申請書に次に掲げる書類を添付して金融庁長官に提出しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -19756,7 +20054,7 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>最終の貸借対照表、損益計算書及び株主資本等変動計算書（相互会社にあっては、剰余金の処分又は損失の処理に関する書面及び基金等変動計算書）その他最近における業務、財産及び損益の状況を知ることができる書類</Sentence>
+                    <Sentence>最終の貸借対照表、損益計算書、株主資本等変動計算書（当該保険会社が相互会社である場合には、剰余金の処分又は損失の処理に関する書面及び基金等変動計算書）その他最近における業務、財産及び損益の状況を知ることができる書類</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
@@ -19793,18 +20091,18 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>当該保険会社及びその子会社等（法第百十条第二項に規定する子会社等をいう。以下この号及び次項において同じ。）に関する次に掲げる書類</Sentence>
+                  <Sentence>当該保険会社及びその子会社等（法第百十条第二項に規定する子会社等をいう。以下この号、次項第三号並びに次条第一項第三号並びに第二項第二号及び第四号において同じ。）に関する次に掲げる書類</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>当該保険会社及びその子会社等につき連結して記載した最終の貸借対照表、損益計算書及び株主資本等変動計算書（当該保険会社が相互会社である場合には、基金等変動計算書）その他これらの会社の最近における業務、財産及び損益の状況を知ることができる書類</Sentence>
+                    <Sentence>当該保険会社及びその子会社等につき連結して記載した最終の貸借対照表、損益計算書、株主資本等変動計算書（当該保険会社が相互会社である場合には、基金等変動計算書）その他これらの会社の最近における業務、財産及び損益の状況を知ることができる書類</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>当該認可後における当該保険会社及びその子会社等（子会社となる会社を含む。）の収支及び保険金等の支払能力の充実の状況を示す比率（法第百三十条に規定する保険金等の支払能力の充実の状況が適当であるかどうかの基準（保険会社及びその子会社等に係る同条各号に掲げる額を用いて定めたものに限る。）に係る算式により得られる比率をいう。次項第三号、第五十九条の三第一項第二号ロ（７）、第八十六条の二第二項、第九十四条第一項第八号、第百五条第一項第二十号及び第百五条の六第一項第十九号において同じ。）の見込みを記載した書類</Sentence>
+                    <Sentence>当該認可後における当該保険会社及びその子会社等（子会社等となる会社を含む。）の収支及び保険金等の支払能力の充実の状況を示す比率（法第百三十条に規定する保険金等の支払能力の充実の状況が適当であるかどうかの基準（保険会社及びその子会社等に係る同条各号に掲げる額を用いて定めたものに限る。）に係る算式により得られる比率をいう。次項第三号、次条第一項第三号ロ及び第二項第四号、第五十九条の三第一項第二号ロ（７）、第八十六条の二第二項並びに第九十四条第一項第八号において同じ。）の見込みを記載した書類</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -19828,7 +20126,7 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>最終の貸借対照表、損益計算書及び株主資本等変動計算書その他最近における業務、財産及び損益の状況を知ることができる書類</Sentence>
+                    <Sentence>最終の貸借対照表、損益計算書、株主資本等変動計算書その他最近における業務、財産及び損益の状況を知ることができる書類</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
@@ -19841,7 +20139,7 @@
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>当該認可に係る子会社対象保険会社等を子会社とすることにより、当該保険会社又はその子会社が国内の会社の議決権を合算してその基準議決権数（法第百七条第一項に規定する基準議決権数をいう。次条及び第五十八条の三において同じ。）を超えて保有することとなる場合には、当該国内の会社の名称及び業務の内容を記載した書類</Sentence>
+                  <Sentence>当該認可に係る子会社対象保険会社等を子会社とすることにより、当該保険会社又はその子会社が国内の会社の議決権を合算してその基準議決権数（法第百七条第一項に規定する基準議決権数をいう。以下この条から第五十八条の四まで、第八十五条第一項、第九十四条第一項、第百五条第一項、第百五条の六第一項及び第二百十一条の三十五第一項第五号において同じ。）を超えて保有することとなる場合には、当該国内の会社の名称及び業務の内容を記載した書類</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
@@ -19871,7 +20169,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>当該申請時において申請保険会社及びその子会社等の収支及び保険金等の支払能力の充実の状況を示す比率が良好であり、当該認可に係る子会社対象保険会社等を子会社とした後も良好に推移することが見込まれること。</Sentence>
+                  <Sentence>当該申請の時において申請保険会社及びその子会社等の収支及び保険金等の支払能力の充実の状況を示す比率が良好であり、当該認可に係る子会社対象保険会社等を子会社とした後も良好に推移することが見込まれること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
@@ -19924,7 +20222,7 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>最終の貸借対照表、損益計算書及び株主資本等変動計算書その他最近における業務、財産及び損益の状況を知ることができる書類</Sentence>
+                    <Sentence>最終の貸借対照表、損益計算書、株主資本等変動計算書その他最近における業務、財産及び損益の状況を知ることができる書類</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
@@ -19944,25 +20242,221 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第一項及び第二項の規定は、法第百六条第八項ただし書の規定による認可について準用する。</Sentence>
+                <Sentence>第一項及び第二項の規定は、法第百六条第八項ただし書の規定による認可（保険会社若しくはその子会社が合算してその基準議決権数を超えて取得し、若しくは保有することとなった保険業高度化等会社の議決権について引き続きその基準議決権数を超えて保有すること又は子会社となった外国の保険業高度化等会社を引き続き子会社とすることについての認可を除く。）について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>第一項及び第二項の規定は、法第百六条第九項の規定による認可について準用する。</Sentence>
+                <Sentence>第一項及び第二項の規定は、法第百六条第九項において準用する同条第七項の規定による認可（保険会社がその子会社（保険業高度化等会社を除く。）を保険業高度化等会社に該当する子会社とすることについての認可を除く。）について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>法第二条第十五項の規定は、第一項第五号（前二項において準用する場合を含む。）及び第三項第二号に規定する議決権について準用する。</Sentence>
+                <Sentence>法第二条第十五項の規定は、第一項第五号（前二項において準用する場合を含む。）、第三項第二号及び第四項に規定する議決権について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Num="58_2">
-            <ArticleCaption>（法第百七条第一項の規定が適用されないこととなる事由）</ArticleCaption>
+            <ArticleCaption>（保険業高度化等会社を子会社とすること等についての認可の申請等）</ArticleCaption>
             <ArticleTitle>第五十八条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>保険会社は、当該保険会社若しくはその子会社が合算して保険業高度化等会社の議決権をその基準議決権数を超えて取得し、若しくは保有すること又は外国の保険業高度化等会社を子会社とすることについての認可を受けようとするときは、認可申請書に次に掲げる書類を添付して金融庁長官に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>理由書</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該保険会社に関する次に掲げる書類</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>最終の貸借対照表、損益計算書、株主資本等変動計算書（当該保険会社が相互会社である場合には、剰余金の処分又は損失の処理に関する書面及び基金等変動計算書）その他最近における業務、財産及び損益の状況を知ることができる書類</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>当該認可後における収支の見込みを記載した書類</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>株式交換（法第九十六条の五第一項に規定する組織変更株式交換を含む。）により当該保険会社若しくはその子会社が合算して保険業高度化等会社の議決権をその基準議決権数を超えて取得し、若しくは保有する場合又は外国の保険業高度化等会社を子会社とする場合には、次に掲げる書類</Sentence>
+                  </Subitem1Sentence>
+                  <Subitem2 Num="1">
+                    <Subitem2Title>（１）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>株主総会の議事録その他必要な手続があったことを証する書類</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="2">
+                    <Subitem2Title>（２）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>株式交換契約（組織変更株式交換契約を含む。）の内容を記載した書類</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="3">
+                    <Subitem2Title>（３）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>株式交換費用を記載した書類</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該保険会社及びその子会社等に関する次に掲げる書類</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>当該保険会社及びその子会社等につき連結して記載した最終の貸借対照表、損益計算書、株主資本等変動計算書（当該保険会社が相互会社である場合には、基金等変動計算書）その他これらの会社の最近における業務、財産及び損益の状況を知ることができる書類</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>当該認可後における当該保険会社及びその子会社等（子会社等となる会社を含む。）の収支及び保険金等の支払能力の充実の状況を示す比率の見込みを記載した書類</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該認可に係る保険業高度化等会社に関する次に掲げる書類</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>名称及び主たる営業所又は事務所の位置を記載した書類</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>業務の内容及び当該業務を遂行する体制を記載した書類</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>最終の貸借対照表、損益計算書、株主資本等変動計算書その他最近における業務、財産及び損益の状況を知ることができる書類</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>役員（役員が法人であるときは、その職務を行うべき者を含む。）の役職名及び氏名又は名称を記載した書類</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該認可に係る当該保険会社若しくはその子会社が合算して保険業高度化等会社の議決権をその基準議決権数を超えて取得し、若しくは保有すること又は外国の保険業高度化等会社を子会社とすることにより、当該保険会社又はその子会社が国内の会社の議決権を合算してその基準議決権数を超えて保有することとなる場合には、当該国内の会社の名称及び業務の内容を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>その他次項の規定による審査をするため参考となるべき事項を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>金融庁長官は、前項の規定による認可の申請があったときは、次に掲げる基準に適合するかどうかを審査するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該申請をした保険会社（以下この項において「申請保険会社」という。）の資本金の額又は基金の総額が当該申請に係る保険業高度化等会社の議決権を取得し、又は保有するに足りる十分な額であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該申請に係る保険業高度化等会社に対する出資が全額毀損した場合であっても、申請保険会社及びその子会社等（当該認可により子会社等となる会社を除く。）の財産及び損益の状況が良好であることが見込まれること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>申請保険会社の最近における業務、財産及び損益の状況が良好であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該申請の時において申請保険会社及びその子会社等の収支及び保険金等の支払能力の充実の状況を示す比率が良好であり、かつ、申請保険会社若しくはその子会社が合算して当該認可に係る保険業高度化等会社についてその基準議決権数を超える議決権を取得し、若しくは保有し、又は外国の保険業高度化等会社を子会社とした後も良好に推移することが見込まれること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該認可に係る保険業高度化等会社がその業務を的確かつ公正に遂行することができること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>申請保険会社若しくはその子会社が合算して当該認可に係る保険業高度化等会社の議決権をその基準議決権数を超えて取得し、若しくは保有すること又は外国の保険業高度化等会社を子会社とすることにより、申請保険会社の行う保険業の高度化又は申請保険会社の利用者の利便の向上に資すると見込まれること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence>申請保険会社の業務の状況に照らし、申請保険会社若しくはその子会社が合算して当該認可に係る保険業高度化等会社の基準議決権数を超える議決権を取得し、若しくは保有し、又は外国の保険業高度化等会社を子会社とした後も、申請保険会社の業務の健全かつ適切な運営に支障を来す著しいおそれがないと認められること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence>申請保険会社又は当該認可に係る保険業高度化等会社の顧客に対し、申請保険会社の保険会社としての取引上の優越的地位又は当該保険業高度化等会社の業務における取引上の優越的地位を不当に利用して、申請保険会社の業務に係る取引の条件若しくは実施又は当該保険業高度化等会社の業務に係る取引の条件若しくは実施について不利益を与える行為が行われる著しいおそれがないと認められること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence>申請保険会社又は当該認可に係る保険業高度化等会社が行う取引に伴い、申請保険会社又は当該保険業高度化等会社が行う業務に係る顧客の利益が不当に害される著しいおそれがないと認められること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前二項の規定は、法第百六条第八項ただし書の規定による認可（保険会社若しくはその子会社が合算してその基準議決権数を超えて取得し、若しくは保有することとなった保険業高度化等会社の議決権について引き続きその基準議決権数を超えて保有すること又は子会社となった外国の保険業高度化等会社を引き続き子会社とすることについての認可に限る。）について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項及び第二項の規定は、法第百六条第九項において準用する同条第七項の規定による認可（保険会社がその子会社（保険業高度化等会社を除く。）を保険業高度化等会社に該当する子会社とすることについての認可に限る。）及び同条第十項の規定による認可について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>法第二条第十五項の規定は、第一項（前二項において準用する場合を含む。）、第二項第四号、第六号及び第七号並びに第三項に規定する議決権について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="58_3">
+            <ArticleCaption>（法第百七条第一項の規定が適用されないこととなる事由）</ArticleCaption>
+            <ArticleTitle>第五十八条の三</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -20066,9 +20560,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="58_3">
+          <Article Num="58_4">
             <ArticleCaption>（基準議決権数を超えて議決権を保有することについての承認の申請）</ArticleCaption>
-            <ArticleTitle>第五十八条の三</ArticleTitle>
+            <ArticleTitle>第五十八条の四</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -20112,9 +20606,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="58_4">
+          <Article Num="58_5">
             <ArticleCaption>（基準議決権数を超えて議決権を保有することができる場合）</ArticleCaption>
-            <ArticleTitle>第五十八条の四</ArticleTitle>
+            <ArticleTitle>第五十八条の五</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -20158,9 +20652,9 @@
               </Item>
             </Paragraph>
           </Article>
-          <Article Num="58_5">
+          <Article Num="58_6">
             <ArticleCaption>（特例対象会社）</ArticleCaption>
-            <ArticleTitle>第五十八条の五</ArticleTitle>
+            <ArticleTitle>第五十八条の六</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -20341,7 +20835,7 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>直近の五事業年度における主要な業務の状況を示す指標として次に掲げる事項（（１５）から（１８）までに掲げる事項については、保険金信託業務を行う場合に限る。）</Sentence>
+                    <Sentence>直近の五事業年度における主要な業務の状況を示す指標として次に掲げる事項（（１５）から（２０）までに掲げる事項については、保険金信託業務を行う場合に限る。）</Sentence>
                   </Subitem1Sentence>
                   <Subitem2 Num="1">
                     <Subitem2Title>（１）</Subitem2Title>
@@ -20400,7 +20894,7 @@
                   <Subitem2 Num="10">
                     <Subitem2Title>（１０）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>保険金等の支払能力の充実の状況を示す比率（法第百三十条の保険金等の支払能力の充実の状況が適当であるかどうかの基準（保険会社に係る同条各号に掲げる額を用いて定めたものに限る。）に係る算式により得られる比率をいう。第八十六条第二項、第百五条第一項第六号及び第百五条の六第一項第七号において同じ。）及び次条第一項第二号ロ（７）に規定する比率（保険会社及びその子会社等に係る法第百三十条各号に掲げる額が存在する場合であって、法第百十一条第二項に規定する説明書類を作成していない場合に限る。）</Sentence>
+                      <Sentence>保険金等の支払能力の充実の状況を示す比率（法第百三十条の保険金等の支払能力の充実の状況が適当であるかどうかの基準（保険会社に係る同条各号に掲げる額を用いて定めたものに限る。）に係る算式により得られる比率をいう。第八十六条第二項において同じ。）及び次条第一項第二号ロ（７）に規定する比率（保険会社及びその子会社等に係る法第百三十条各号に掲げる額が存在する場合であって、法第百十一条第二項に規定する説明書類を作成していない場合に限る。）</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="11">
@@ -20442,11 +20936,23 @@
                   <Subitem2 Num="17">
                     <Subitem2Title>（１７）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>信託勘定有価証券残高</Sentence>
+                      <Sentence>信託勘定有価証券残高（（１９）に掲げる事項を除く。）</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="18">
                     <Subitem2Title>（１８）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>信託勘定暗号資産残高及び履行保証暗号資産残高</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="19">
+                    <Subitem2Title>（１９）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>信託勘定電子記録移転有価証券表示権利等残高</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="20">
+                    <Subitem2Title>（２０）</Subitem2Title>
                     <Subitem2Sentence>
                       <Sentence>信託財産額</Sentence>
                     </Subitem2Sentence>
@@ -20566,7 +21072,7 @@
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>保険会社の直近の二事業年度における財産の状況に関する次に掲げる事項（ハに掲げる事項については、保険金信託業務を行う場合に限る。）</Sentence>
+                  <Sentence>保険会社の直近の二事業年度における財産の状況に関する次に掲げる事項（ハ及びヘ（８）に掲げる事項については、保険金信託業務を行う場合に限る。）</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -20582,8 +21088,7 @@
                   <Subitem2 Num="1">
                     <Subitem2Title>（１）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>破<Ruby>綻<Rt>たん</Rt>
-</Ruby>先債権（元本又は利息の支払の遅延が相当期間継続していることその他の事由により元本又は利息の取立て又は弁済の見込みがないものとして未収利息を計上しなかった貸付金（貸倒償却を行った部分を除く。以下「未収利息不計上貸付金」という。）のうち、法人税法施行令（昭和四十年政令第九十七号）第九十六条第一項第三号イからホまで（貸倒引当金勘定への繰入限度額）に掲げる事由又は同項第四号に規定する事由が生じているものをいう。以下同じ。）に該当する貸付金</Sentence>
+                      <Sentence>破綻先債権（元本又は利息の支払の遅延が相当期間継続していることその他の事由により元本又は利息の取立て又は弁済の見込みがないものとして未収利息を計上しなかった貸付金（貸倒償却を行った部分を除く。以下「未収利息不計上貸付金」という。）のうち、法人税法施行令（昭和四十年政令第九十七号）第九十六条第一項第三号イからホまで（貸倒引当金勘定への繰入限度額）に掲げる事由又は同項第四号に規定する事由が生じているものをいう。以下同じ。）に該当する貸付金</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="2">
@@ -20619,21 +21124,19 @@
                   <Subitem2 Num="1">
                     <Subitem2Title>（１）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>破産更生債権及びこれらに準ずる債権（破産手続開始、更生手続開始又は再生手続開始の申立て等の事由により経営破<Ruby>綻<Rt>たん</Rt>
-</Ruby>に陥っている債務者に対する債権及びこれらに準ずる債権をいう。）</Sentence>
+                      <Sentence>破産更生債権及びこれらに準ずる債権（破産手続開始、更生手続開始又は再生手続開始の申立て等の事由により経営破綻に陥っている債務者に対する債権及びこれらに準ずる債権をいう。）</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="2">
                     <Subitem2Title>（２）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>危険債権（債務者が経営破<Ruby>綻<Rt>たん</Rt>
-</Ruby>の状態には至っていないが、財政状態及び経営成績が悪化し、契約に従った債権の元本の回収及び利息の受取りができない可能性の高い債権をいう。）</Sentence>
+                      <Sentence>危険債権（債務者が経営破綻の状態には至っていないが、財政状態及び経営成績が悪化し、契約に従った債権の元本の回収及び利息の受取りができない可能性の高い債権をいう。）</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="3">
                     <Subitem2Title>（３）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>要管理債権（三カ月以上延滞貸付金（元本又は利息の支払が、約定支払日の翌日から三月以上遅延している貸付金（（１）及び（２）に掲げる債権を除く。）をいう。以下同じ。）及び条件緩和貸付金（債務者の経営再建又は支援を図ることを目的として、金利の減免、利息の支払猶予、元本の返済猶予、債権放棄その他の債務者に有利となる取決めを行った貸付金（（１）及び（２）に掲げる債権並びに三カ月以上延滞貸付金を除く。）をいう。）</Sentence>
+                      <Sentence>要管理債権（三カ月以上延滞貸付金（元本又は利息の支払が、約定支払日の翌日から三月以上遅延している貸付金（（１）及び（２）に掲げる債権を除く。）をいう。以下同じ。）及び条件緩和貸付金（債務者の経営再建又は支援を図ることを目的として、金利の減免、利息の支払猶予、元本の返済猶予、債権放棄その他の債務者に有利となる取決めを行った貸付金（（１）及び（２）に掲げる債権並びに三カ月以上延滞貸付金を除く。）をいう。）をいう。）</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="4">
@@ -20694,6 +21197,12 @@
                     <Subitem2Title>（７）</Subitem2Title>
                     <Subitem2Sentence>
                       <Sentence>金融商品取引法第二十八条第八項第三号イ若しくは第四号イに掲げる取引又は外国金融商品市場における同項第三号イに掲げる取引と類似の取引（国債証券等及び同法第二条第一項第十七号に掲げる有価証券のうち同項第一号の性質を有するものに係るものに限る。）</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="8">
+                    <Subitem2Title>（８）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>暗号資産</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                 </Subitem1>
@@ -22702,7 +23211,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>保険会社を代表する取締役、保険会社の常務に従事する取締役又は監査役（監査等委員会設置会社にあっては保険会社を代表する取締役、保険会社の常務に従事する取締役又は監査等委員（保険会社の常務に従事する取締役を除く。）、指名委員会等設置会社にあっては保険会社の常務に従事する取締役、代表執行役、執行役又は監査委員（保険会社の常務に従事する取締役を除く。）。以下この号及び次号において「役員等」という。）を選任しようとする場合又は役員等が退任しようとする場合（次号に該当する場合を除く。）</Sentence>
+                  <Sentence>保険会社を代表する取締役、保険会社の常務に従事する取締役又は監査役（監査等委員会設置会社にあっては保険会社を代表する取締役、保険会社の常務に従事する取締役又は監査等委員（保険会社の常務に従事する取締役を除く。）、指名委員会等設置会社にあっては保険会社の常務に従事する取締役、代表執行役、執行役又は監査委員（保険会社の常務に従事する取締役を除く。）。以下この号及び次号において「役員等」という。）を選任しようとする場合又は役員等が退任しようとする場合（次号に掲げる場合を除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2_2">
@@ -22714,7 +23223,7 @@
               <Item Num="2_3">
                 <ItemTitle>二の三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>会計参与を選任しようとする場合又は会計参与が退任しようとする場合（次号に該当する場合を除く。）</Sentence>
+                  <Sentence>会計参与を選任しようとする場合又は会計参与が退任しようとする場合（次号に掲げる場合を除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2_4">
@@ -22726,7 +23235,7 @@
               <Item Num="2_5">
                 <ItemTitle>二の五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>会計監査人を選任しようとする場合又は会計監査人が退任しようとする場合（次号に該当する場合を除く。）</Sentence>
+                  <Sentence>会計監査人を選任しようとする場合又は会計監査人が退任しようとする場合（次号に掲げる場合を除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2_6">
@@ -22756,13 +23265,13 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>保険会社若しくはその子会社の担保権の実行による株式若しくは持分の取得又は第五十七条第一項各号に掲げる事由により他の会社（法第百二十七条第一項第二号の規定により子会社とすることについて同号の届出をしなければならないとされるものを除く。）を子会社とした場合</Sentence>
+                  <Sentence>保険会社若しくはその子会社の担保権の実行による株式若しくは持分の取得又は第五十七条第一項各号に掲げる事由により他の会社を子会社（保険業高度化等会社にあっては、当該保険会社又はその子会社が合算してその基準議決権数を超える議決権を保有する会社）とした場合（法第百二十七条第一項第二号の規定により子会社とすることについて同号の届出をしなければならない場合を除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4_2">
                 <ItemTitle>四の二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>法第百六条第四項の規定に基づき子会社対象会社（同条第一項に規定する子会社対象会社をいう。第七号の二、第九十四条及び第二百四十六条第一項第八号の二において同じ。）以外の外国の会社を子会社としようとする場合</Sentence>
+                  <Sentence>法第百六条第四項の規定に基づき子会社対象会社（同条第一項に規定する子会社対象会社をいう。第七号の二及び第二百四十六条第一項第八号の二において同じ。）以外の外国の会社を子会社としようとする場合</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4_3">
@@ -22780,7 +23289,7 @@
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence>その子会社が名称若しくは主な業務の内容を変更し、合併し、解散し、又は業務の全部を廃止することとなった場合（法第百二十七条第一項第三号の規定により子会社でなくなったこと又は子会社対象保険会社等に該当しない子会社となったことについて同号の届出をしなければならないとされるものを除く。）</Sentence>
+                  <Sentence>その子会社が名称若しくは主な業務の内容を変更し、合併し、解散し、又は業務の全部を廃止することとなった場合（法第百二十七条第一項第三号の規定により子会社でなくなったこと又は子会社対象保険会社等（法第百六条第七項に規定する子会社対象保険会社等をいう。）に該当しない子会社となったことについて同号の届出をしなければならないとされるものを除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6_2">
@@ -22789,28 +23298,40 @@
                   <Sentence>その子会社が本店の所在地を変更した場合</Sentence>
                 </ItemSentence>
               </Item>
+              <Item Num="6_3">
+                <ItemTitle>六の三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>保険会社又はその子会社が合算してその基準議決権数を超えて保有する保険業高度化等会社の議決権のうちその基準議決権数を超える部分の議決権を保有しなくなった場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6_4">
+                <ItemTitle>六の四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>保険会社又はその子会社が合算してその基準議決権数を超えて議決権を保有する保険業高度化等会社が名称若しくは本店の所在地を変更し、合併し、解散し、又は業務の全部を廃止した場合（前三号に掲げる場合を除く。）</Sentence>
+                </ItemSentence>
+              </Item>
               <Item Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence>保険会社又はその子会社が、第五十八条の二第一項各号に掲げる事由により、国内の会社（法第百七条第一項に規定する国内の会社をいう。第八号において同じ。）の議決権を合算してその基準議決権数（同項に規定する基準議決権数をいう。以下この項において同じ。）を超えて取得し、又は保有した場合</Sentence>
+                  <Sentence>保険会社又はその子会社が、第五十八条の三第一項各号に掲げる事由により、国内の会社の議決権を合算してその基準議決権数を超えて取得し、又は保有した場合</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7_2">
                 <ItemTitle>七の二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>保険会社又はその子会社が国内の子会社対象会社の議決権を合算してその基準議決権数を超えて取得し、又は保有することとなった場合（当該子会社対象会社を子会社とすることについて法第百六条第七項（同条第九項において準用する場合を含む。）の規定により認可を受けている場合及び法第百二十七条第一項第二号の規定により届出をしなければならないとされている場合並びに第七号の四に該当する場合を除く。）</Sentence>
+                  <Sentence>保険会社又はその子会社が国内の子会社対象会社（保険業高度化等会社を除く。）の議決権を合算してその基準議決権数を超えて取得し、又は保有することとなった場合（当該子会社対象会社を子会社とすることについて法第百六条第七項（同条第九項において準用する場合を含む。）の規定により認可を受けている場合、法第百二十七条第一項第二号の規定により届出をしなければならない場合、法第百四十二条の規定により認可を受けている場合（第九十四条第一項第十号又は第十一号に掲げる書類を提出している場合に限る。）、法第百六十七条第一項の規定により認可を受けている場合（第百五条第一項第十九号又は第二十一号に掲げる書類を提出している場合に限る。）、法第百七十三条の六第一項の規定により認可を受けている場合（第百五条の六第一項第十八号又は第二十一号に掲げる書類を提出している場合に限る。）及び第七号の四に掲げる場合を除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7_3">
                 <ItemTitle>七の三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>保険会社又はその子会社が合算してその基準議決権数を超えて保有することとなった国内の会社の議決権のうちその基準議決権数を超える部分の議決権を保有しなくなった場合（第七号の五に該当する場合を除く。）</Sentence>
+                  <Sentence>保険会社又はその子会社が合算してその基準議決権数を超えて保有することとなった国内の会社の議決権のうちその基準議決権数を超える部分の議決権を保有しなくなった場合（第七号の五に掲げる場合を除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7_4">
                 <ItemTitle>七の四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>第四十八条の四各号又は第五十九条第三項各号のいずれかに掲げる者に該当する者（子会社を除く。次号及び第七号の六において特殊関係者という。）を新たに有することとなった場合</Sentence>
+                  <Sentence>第四十八条の四各号又は第五十九条第三項各号のいずれかに掲げる者に該当する者（子会社を除く。以下この号、次号及び第七号の六において「特殊関係者」という。）を新たに有することとなった場合（新たに有することとなった特殊関係者が法第百六条第七項の規定による認可に伴い保険会社又はその子会社が合算してその基準議決権数を超えて議決権を新たに取得し、又は保有する保険業高度化等会社であるときを除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7_5">
@@ -22822,7 +23343,7 @@
               <Item Num="7_6">
                 <ItemTitle>七の六</ItemTitle>
                 <ItemSentence>
-                  <Sentence>保険会社又はその子会社が合算してその基準議決権数を超えて議決権を保有する会社（当該保険会社の子会社及び外国の会社を除く。）又は保険会社の特殊関係者がその業務の内容を変更することとなった場合</Sentence>
+                  <Sentence>保険会社又はその子会社が合算してその基準議決権数を超えて議決権を保有する会社（当該保険会社の子会社及び外国の会社を除く。）又は保険会社の特殊関係者がその業務の内容を変更することとなったことを知った場合</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="8">
@@ -22913,13 +23434,13 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>法第二条第十五項の規定は、前項第七号から第七号の三まで及び第七号の六に規定する議決権について準用する。</Sentence>
+                <Sentence>法第二条第十五項の規定は、前項第四号、第六号の三から第七号の四まで及び第七号の六に規定する議決権について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>保険会社は、法第百二十七条第一項の規定による届出をしようとするときは、届出書に理由書その他の参考となるべき事項を記載した書類（第一項第二号の三に掲げる場合にあっては、次の各号に掲げる書類）を添付して金融庁長官に提出しなければならない。</Sentence>
+                <Sentence>保険会社は、法第百二十七条第一項の規定による届出をしようとするときは、届出書に理由書その他の参考となるべき事項を記載した書類（第一項第二号の七に掲げる場合にあっては、次の各号に掲げる書類）を添付して金融庁長官に提出しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -23821,7 +24342,7 @@
                 <Item Num="8">
                   <ItemTitle>八</ItemTitle>
                   <ItemSentence>
-                    <Sentence>当該事業譲渡等を行った後における保険会社が子会社等（法第九十七条の二第三項前段に規定する子会社等をいう。以下この号、第百五条及び第百五条の六において同じ。）を有する場合には、当該保険会社及び当該子会社等の収支及び保険金等の支払能力の充実の状況を示す比率の見込みを記載した書類</Sentence>
+                    <Sentence>当該事業譲渡等を行った後における保険会社が子会社等（法第九十七条の二第三項前段に規定する子会社等をいう。以下この号、第百五条第一項第二十号及び第百五条の六第一項第十九号において同じ。）を有する場合には、当該保険会社及び当該子会社等の収支及び保険金等の支払能力の充実の状況を示す比率の見込みを記載した書類</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="9">
@@ -23833,13 +24354,19 @@
                 <Item Num="10">
                   <ItemTitle>十</ItemTitle>
                   <ItemSentence>
-                    <Sentence>当該事業の譲受けにより子会社対象会社を子会社とする場合には、当該子会社対象会社に関する第五十八条第一項第四号に掲げる書類</Sentence>
+                    <Sentence>当該事業の譲受けにより子会社対象会社（法第百六条第一項に規定する子会社対象会社をいい、保険業高度化等会社を除く。以下この号及び第百五条第一項第十九号において同じ。）を子会社とする場合には、当該子会社対象会社に関する第五十八条第一項第四号に掲げる書類</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="10_2">
+                  <ItemTitle>十の二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>当該事業の譲受けにより保険会社若しくはその子会社が保険業高度化等会社の議決権を合算してその基準議決権数を超えて保有すること又は外国の保険業高度化等会社を子会社とすることとなる場合には、当該会社に関する第五十八条の二第一項第四号に掲げる書類</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="11">
                   <ItemTitle>十一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>当該事業の譲受けにより保険会社又はその子会社が国内の会社の議決権を合算してその基準議決権数を超えて保有することとなる場合には、当該国内の会社の名称及び業務の内容を記載した書類</Sentence>
+                    <Sentence>当該事業の譲受けにより保険会社又はその子会社が国内の会社の議決権を合算してその基準議決権数を超えて保有することとなる場合（第十号に規定する場合を除く。）には、当該国内の会社の名称及び業務の内容を記載した書類</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="12">
@@ -23865,7 +24392,7 @@
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>法第二条第十五項の規定は、第一項第十一号に規定する議決権について準用する。</Sentence>
+                  <Sentence>法第二条第十五項の規定は、第一項第十号の二及び第十一号に規定する議決権について準用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -27116,7 +27643,7 @@
                 <Item Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence>合併後存続する保険会社又は合併により設立される保険会社の合併後における収支及び保険金等の支払能力の充実の状況を示す比率の見込みを記載した書面</Sentence>
+                    <Sentence>合併後存続する保険会社等又は合併により設立される保険会社等の合併後における収支及び保険金等の支払能力の充実の状況を示す比率（法第百三十条（法第二百七十二条の二十八において準用する場合を含む。以下この号において同じ。）の保険金等の支払能力の充実の状況が適当であるかどうかの基準（保険会社等に係る法第百三十条各号に掲げる額を用いて定めたものに限る。）に係る算式により得られる比率をいう。第百五条の三第一項第二号ロ及び第百五条の六第一項第七号において同じ。）の見込みを記載した書面</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="7">
@@ -27233,19 +27760,25 @@
                 <Item Num="19">
                   <ItemTitle>十九</ItemTitle>
                   <ItemSentence>
-                    <Sentence>合併後存続する保険会社等又は合併により設立される保険会社等が当該合併により子会社対象会社等（保険会社にあっては法第百六条第一項に規定する子会社対象会社、少額短期保険業者にあっては少額短期保険子会社対象会社（法第二百七十二条の十四第一項に規定する内閣府令で定める業務を専ら営む会社をいう。以下同じ。）をいう。以下この号及び第百五条の六第一項第十八号において同じ。）を子会社とする場合には、当該子会社対象会社等に関する第五十八条第一項第四号又は第二百十一条の三十五第一項第四号に掲げる書類</Sentence>
+                    <Sentence>合併後存続する保険会社等又は合併により設立される保険会社等が当該合併により子会社対象会社等（保険会社にあっては子会社対象会社、少額短期保険業者にあっては少額短期保険子会社対象会社（法第二百七十二条の十四第一項に規定する内閣府令で定める業務を専ら営む会社をいう。以下同じ。）をいう。以下この号及び第百五条の六第一項第十八号において同じ。）を子会社とする場合には、当該子会社対象会社等に関する第五十八条第一項第四号又は第二百十一条の三十五第一項第四号に掲げる書類</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="19_2">
+                  <ItemTitle>十九の二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>合併後存続する保険会社若しくは合併により設立される保険会社若しくはその子会社が、当該合併により保険業高度化等会社の議決権を合算してその基準議決権数を超えて保有すること又は外国の保険業高度化等会社を子会社とすることとなる場合には、当該会社に関する第五十八条の二第一項第四号に掲げる書類</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="20">
                   <ItemTitle>二十</ItemTitle>
                   <ItemSentence>
-                    <Sentence>合併後存続する保険会社又は合併により設立される保険会社が子会社等を有する場合には、当該保険会社及び当該子会社等の収支及び保険金等の支払能力の充実の状況を示す比率の見込みを記載した書類</Sentence>
+                    <Sentence>合併後存続する保険会社等又は合併により設立される保険会社等が子会社等を有する場合には、当該保険会社及び当該子会社等の収支及び保険金等の支払能力の充実の状況を示す比率（法第百三十条（法第二百七十二条の二十八において準用する場合を含む。以下この号において同じ。）の保険金等の支払能力の充実の状況が適当であるかどうかの基準（保険会社等及びその子会社等に係る法第百三十条各号に掲げる額を用いて定めたものに限る。）に係る算式により得られる比率をいう。第百五条の六第一項第十九号において同じ。）の見込みを記載した書類</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="21">
                   <ItemTitle>二十一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>合併後存続する保険会社等又は合併により設立される保険会社等又はその子会社が、当該合併により国内の会社の議決権を合算してその基準議決権数を超えて保有することとなる場合には、当該国内の会社の名称及び業務の内容を記載した書類</Sentence>
+                    <Sentence>合併後存続する保険会社等若しくは合併により設立される保険会社等又はその子会社が、当該合併により国内の会社の議決権を合算してその基準議決権数を超えて保有することとなる場合（第十九号に規定する場合を除く。）には、当該国内の会社の名称及び業務の内容を記載した書類</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="22">
@@ -27264,7 +27797,7 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>法第二条第十五項の規定は、第一項第二十一号に規定する議決権について準用する。</Sentence>
+                  <Sentence>法第二条第十五項の規定は、第一項第十九号の二及び第二十一号に規定する議決権について準用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -27570,7 +28103,7 @@
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence>分割当事会社の直近の事業年度における保険金等の支払能力の充実の状況を示す比率（法第百三十条（法第二百七十二条の二十八において準用する場合を含む。）の保険金等の支払能力の充実の状況が適当であるかどうかの基準に係る算式により得られる比率をいう。以下ロ及び第百五条の六において同じ。）及び保険契約の承継の日に見込まれる保険金等の支払能力の充実の状況を示す比率</Sentence>
+                      <Sentence>分割当事会社の直近の事業年度における保険金等の支払能力の充実の状況を示す比率及び保険契約の承継の日に見込まれる保険金等の支払能力の充実の状況を示す比率</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="3">
@@ -28080,10 +28613,16 @@
                     <Sentence>当該会社分割により子会社対象会社等を子会社とする場合には、当該子会社対象会社等に関する第五十八条第一項第四号又は第二百十一条の三十五第一項第四号に掲げる書類</Sentence>
                   </ItemSentence>
                 </Item>
+                <Item Num="18_2">
+                  <ItemTitle>十八の二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>当該会社分割により保険会社若しくはその子会社が保険業高度化等会社の議決権を合算してその基準議決権数を超えて保有すること又は外国の保険業高度化等会社を子会社とすることとなる場合には、当該会社に関する第五十八条の二第一項第四号に掲げる書類</Sentence>
+                  </ItemSentence>
+                </Item>
                 <Item Num="19">
                   <ItemTitle>十九</ItemTitle>
                   <ItemSentence>
-                    <Sentence>当該会社分割を行った後における保険会社が子会社等を有する場合には、当該保険会社及び当該子会社等の収支及び保険金等の支払能力の充実の状況を示す比率の見込みを記載した書類</Sentence>
+                    <Sentence>当該会社分割を行った後における保険会社等が子会社等を有する場合には、当該保険会社等及び当該子会社等の収支及び保険金等の支払能力の充実の状況を示す比率の見込みを記載した書類</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="20">
@@ -28095,7 +28634,7 @@
                 <Item Num="21">
                   <ItemTitle>二十一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>当該会社分割により保険会社等又はその子会社が国内の会社の議決権を合算してその基準議決権数を超えて保有することとなる場合には、当該国内の会社の名称及び業務の内容を記載した書類</Sentence>
+                    <Sentence>当該会社分割により保険会社等又はその子会社が国内の会社の議決権を合算してその基準議決権数を超えて保有することとなる場合（第十八号に規定する場合を除く。）には、当該国内の会社の名称及び業務の内容を記載した書類</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="22">
@@ -28114,7 +28653,7 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>法第二条第十五項の規定は、第一項第二十一号に規定する議決権について準用する。</Sentence>
+                  <Sentence>法第二条第十五項の規定は、第一項第十八号の二及び第二十一号に規定する議決権について準用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
@@ -31757,7 +32296,7 @@
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1">第四十九条、第五十条、第五十二条の五から第五十三条の三の三まで、第五十三条の四（第二項を除く。）、第五十三条の六から第五十三条の十二の二まで、第五十四条の四から第五十四条の七まで及び第五十九条の七の規定は外国保険会社等について、第六十二条の規定は外国保険会社等が契約者配当を行う場合について、第六十三条の規定は外国保険会社等が公正かつ衡平な契約者配当を行うために日本において設ける勘定について、第六十六条の規定は外国保険会社等が日本において積み立てる法第百九十九条において準用する法第百十五条第一項の価格変動準備金について、第七十一条の規定は外国保険会社等が日本における保険契約を再保険に付した場合について、第七十三条の規定は外国保険会社等が日本における事業年度に係る毎決算期に積み立てなければならない支払備金について、第七十九条の規定は外国保険会社等の日本における保険計理人について、第八十二条の規定は外国保険会社等の日本における保険計理人が当該外国保険会社等の日本における代表者に提出する意見書について、それぞれ準用する。</Sentence>
-                  <Sentence Num="2">この場合において、第四十九条中「第四十七条、第四十八条の三及び第四十八条の五」とあるのは「第百三十九条及び第百四十条の三」と、第五十条中「第四十七条、第四十八条の三、第四十八条の五及び前条」とあるのは「第百三十九条及び第百四十条の三並びに第百六十条において準用する第四十九条」と、第五十三条中「保険契約者」とあるのは「日本における保険契約者」と、同条第一項中「法第百条の二」とあるのは「法第百九十九条において準用する法第百条の二」と、同項第一号中「第七十四条第三号」とあるのは「第百五十三条第三号」と、第五十三条の二中「業務」とあるのは「日本における業務」と、「顧客」とあるのは「日本における顧客」と、同条第一項第一号中「法第九十八条」とあるのは「法第百九十九条において準用する法第九十八条」と、同条第三項中「営業所又は事務所」とあるのは「日本における支店等（法第百八十五条第一項に規定する支店等をいう。以下同じ。）」と、第五十三条の三中「営業所又は事務所」とあるのは「日本における支店等」と、「顧客」とあるのは「日本における顧客」と、第五十三条の三の二中「業務」とあるのは「日本における業務」と、「顧客」とあるのは「日本における顧客」と、第五十三条の三の三中「業務」とあるのは「日本における業務」と、第五十三条の四中「特定関係者」とあるのは「特殊関係者（法第百九十四条第一項に規定する特殊関係者をいう。以下同じ。）」と、「顧客」とあるのは「日本における顧客」と、第五十三条の六中「特定関係者（第五十三条の四第二項に規定する特定関係者をいう。）」とあるのは「特殊関係者」と、「同条第三項」とあるのは「第五十三条の四第三項」と、「顧客」とあるのは「日本における顧客」と、第五十三条の七第一項中「法第九十七条、第九十八条又は第九十九条」とあるのは「法第百九十九条において準用する法第九十七条、第九十八条又は第九十九条」と、「業務」とあるのは「日本における業務」と、「顧客」とあるのは「日本における顧客」と、同条第二項中「保険であって」とあるのは「日本における保険業に係る保険であって」と、第五十三条の八中「顧客」とあるのは「日本における顧客」と、第五十三条の九中「資金需要者」とあるのは「日本における資金需要者」と、第五十三条の十中「業務」とあるのは「日本における業務」と、「顧客」とあるのは「日本における顧客」と、第五十三条の十一中「業務」とあるのは「日本における業務」と、同条第三号中「顧客」とあるのは「日本における顧客」と、同条第四号及び第五号中「保険契約者等」とあるのは「日本における保険契約者等」と、第五十三条の十二の二中「保険契約者」とあるのは「日本における保険契約者」と、第五十四条の四から第五十四条の六までの規定中「法第百条の五」とあるのは「法第百九十九条において準用する法第百条の五」と、「保険契約者」とあるのは「日本における保険契約者」と、第五十九条の七中「法第百十一条第六項」とあるのは「法第百九十九条において読み替えて準用する法第百十一条第六項」と、「当該保険会社及びその子会社等の業務」とあるのは「当該外国保険会社等の日本における業務」と、第六十二条本文中「保険契約」とあるのは「日本における保険契約」と、同条第一号中「保険契約者」とあるのは「日本における保険契約者」と、第六十三条において準用する第三十条の三第三項中「法第四条第二項第二号」とあるのは「法第百八十七条第三項第二号」と、第六十六条中「毎決算期において保有する資産」とあるのは「日本における事業年度に係る毎決算期において日本における資産」と、「帳簿価額」とあるのは「日本における事業年度に係る決算期の帳簿価額」と、第七十一条第二項中「保険契約」とあるのは「日本における保険契約」と、第七十三条第一項中「保険契約」とあるのは「日本における保険契約」と、「保険金等」とあるのは「保険金、返戻金その他の給付金」と、「毎決算期」とあるのは「日本における事業年度に係る毎決算期」と、「前条」とあるのは「第百五十二条」と、同条第二項中「法第四条第二項第四号」とあるのは「法第百八十七条第三項第四号」と、第七十九条第一項中「前条」とあるのは「第百五十七条」と、第八十二条第一項中「計算書類を承認する取締役会に」とあるのは「業務報告書の提出期限の三週間前までに」と、同項第一号中「商号又は名称」とあるのは「商号、名称又は氏名」と、同項第三号中「前条」とあるのは「第百五十九条」と、同項第四号中「又は社員に対する剰余金の分配に関する事項」とあるのは「に関する事項」と、同項第五号中「第六十四条第一項の契約者配当準備金又は第三十条の五第一項第一号の社員配当準備金」とあるのは「第百四十六条第一項の契約者配当準備金」と、同項第六号中「第七十九条の二」とあるのは「第百五十七条の二」と、同条第二項中「取締役会」とあるのは「外国保険会社等の日本における代表者」と読み替えるものとする。</Sentence>
+                  <Sentence Num="2">この場合において、第四十九条中「第四十七条、第四十八条の三及び第四十八条の五」とあるのは「第百三十九条及び第百四十条の三」と、第五十条中「第四十七条、第四十八条の三、第四十八条の五及び前条」とあるのは「第百三十九条及び第百四十条の三並びに第百六十条において準用する第四十九条」と、第五十三条中「保険契約者」とあるのは「日本における保険契約者」と、同条第一項中「法第百条の二」とあるのは「法第百九十九条において準用する法第百条の二」と、同項第一号中「第七十四条第三号」とあるのは「第百五十三条第三号」と、第五十三条の二中「業務」とあるのは「日本における業務」と、「顧客」とあるのは「日本における顧客」と、同条第一項第一号中「法第九十八条」とあるのは「法第百九十九条において準用する法第九十八条」と、同条第三項中「営業所又は事務所」とあるのは「日本における支店等（法第百八十五条第一項に規定する支店等をいう。以下同じ。）」と、第五十三条の三中「営業所又は事務所」とあるのは「日本における支店等」と、「顧客」とあるのは「日本における顧客」と、第五十三条の三の二中「業務」とあるのは「日本における業務」と、「顧客」とあるのは「日本における顧客」と、第五十三条の三の三中「業務」とあるのは「日本における業務」と、第五十三条の四中「特定関係者」とあるのは「特殊関係者（法第百九十四条第一項に規定する特殊関係者をいう。以下同じ。）」と、「顧客」とあるのは「日本における顧客」と、第五十三条の六中「特定関係者（第五十三条の四第二項に規定する特定関係者をいう。）」とあるのは「特殊関係者」と、「同条第三項」とあるのは「第五十三条の四第三項」と、「顧客」とあるのは「日本における顧客」と、第五十三条の七第一項中「法第九十七条、第九十八条又は第九十九条」とあるのは「法第百九十九条において準用する法第九十七条、第九十八条又は第九十九条」と、「業務」とあるのは「日本における業務」と、「顧客」とあるのは「日本における顧客」と、同条第二項中「保険であって」とあるのは「日本における保険業に係る保険であって」と、第五十三条の八中「顧客」とあるのは「日本における顧客」と、第五十三条の九中「資金需要者」とあるのは「日本における資金需要者」と、第五十三条の十中「業務」とあるのは「日本における業務」と、「顧客」とあるのは「日本における顧客」と、第五十三条の十一中「業務」とあるのは「日本における業務」と、同条第三号中「顧客」とあるのは「日本における顧客」と、同条第四号及び第五号中「保険契約者等」とあるのは「日本における保険契約者等」と、第五十三条の十一の二及び第五十三条の十一の三中「業務のうち」とあるのは「日本における業務のうち」と、第五十三条の十二の二中「保険契約者」とあるのは「日本における保険契約者」と、第五十四条の四から第五十四条の六までの規定中「法第百条の五」とあるのは「法第百九十九条において準用する法第百条の五」と、「保険契約者」とあるのは「日本における保険契約者」と、第五十九条の七中「法第百十一条第六項」とあるのは「法第百九十九条において読み替えて準用する法第百十一条第六項」と、「当該保険会社及びその子会社等の業務」とあるのは「当該外国保険会社等の日本における業務」と、第六十二条本文中「保険契約」とあるのは「日本における保険契約」と、同条第一号中「保険契約者」とあるのは「日本における保険契約者」と、第六十三条において準用する第三十条の三第三項中「法第四条第二項第二号」とあるのは「法第百八十七条第三項第二号」と、第六十六条中「毎決算期において保有する資産」とあるのは「日本における事業年度に係る毎決算期において日本における資産」と、「帳簿価額」とあるのは「日本における事業年度に係る決算期の帳簿価額」と、第七十一条第二項中「保険契約」とあるのは「日本における保険契約」と、第七十三条第一項中「保険契約」とあるのは「日本における保険契約」と、「保険金等」とあるのは「保険金、返戻金その他の給付金」と、「毎決算期」とあるのは「日本における事業年度に係る毎決算期」と、「前条」とあるのは「第百五十二条」と、同条第二項中「法第四条第二項第四号」とあるのは「法第百八十七条第三項第四号」と、第七十九条第一項中「前条」とあるのは「第百五十七条」と、第八十二条第一項中「計算書類を承認する取締役会に」とあるのは「業務報告書の提出期限の三週間前までに」と、同項第一号中「商号又は名称」とあるのは「商号、名称又は氏名」と、同項第三号中「前条」とあるのは「第百五十九条」と、同項第四号中「又は社員に対する剰余金の分配に関する事項」とあるのは「に関する事項」と、同項第五号中「第六十四条第一項の契約者配当準備金又は第三十条の五第一項第一号の社員配当準備金」とあるのは「第百四十六条第一項の契約者配当準備金」と、同項第六号中「第七十九条の二」とあるのは「第百五十七条の二」と、同条第二項中「取締役会」とあるのは「外国保険会社等の日本における代表者」と読み替えるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -35880,7 +36419,7 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence>信託専門会社又は法第二百七十一条の二十二第一項第十一号に規定する信託業を営む外国の会社（保険業を行う外国の会社に該当するものを除く。）を子会社とする持株会社にあっては、専ら当該子会社の経営管理を行う業務及びこれに附帯する業務並びに第五十六条の二第一項各号及び第二項各号（第三十四号の三から第四十号までを除く。）に掲げる業務を営むもの（子会社として法第百六条第一項第一号から第六号まで及び第八号から第十号までに規定する会社を有しない場合に限る。）</Sentence>
+                    <Sentence>信託専門会社又は法第二百七十一条の二十二第一項第十一号に規定する信託業を営む外国の会社（保険業を行う外国の会社に該当するものを除く。）を子会社とする持株会社にあっては、専ら当該子会社の経営管理を行う業務及びこれに附帯する業務並びに第五十六条の二第一項各号及び第二項各号（第三十四号の三から第四十号までを除く。）に掲げる業務を営むもの（子会社として法第百六条第一項第一号から第四号まで、第五号、第六号及び第八号から第十号までに規定する会社を有しない場合に限る。）</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
@@ -35979,7 +36518,7 @@
                   <Subitem1 Num="1">
                     <Subitem1Title>イ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence>当該保険持株会社及びその子会社につき連結して記載した最終の貸借対照表、損益計算書及び株主資本等変動計算書その他これらの会社の最近における業務、財産及び損益の状況を知ることができる書面</Sentence>
+                      <Sentence>当該保険持株会社及びその子会社につき連結して記載した最終の貸借対照表、損益計算書、株主資本等変動計算書その他これらの会社の最近における業務、財産及び損益の状況を知ることができる書面</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="2">
@@ -35991,7 +36530,7 @@
                   <Subitem1 Num="3">
                     <Subitem1Title>ハ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence>株式交換（法第九十六条の五第一項に規定する組織変更株式交換を含む。）により子会社対象保険会社等を子会社とする場合には、次に掲げる書類</Sentence>
+                      <Sentence>株式交換（法第九十六条の五第一項に規定する組織変更株式交換を含む。）により法第二百七十一条の二十二第一項各号に掲げる会社以外の会社を子会社とする場合には、次に掲げる書類</Sentence>
                     </Subitem1Sentence>
                     <Subitem2 Num="1">
                       <Subitem2Title>（１）</Subitem2Title>
@@ -36016,7 +36555,7 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence>当該承認の申請に係る会社の最終の貸借対照表、損益計算書及び株主資本等変動計算書その他最近における業務、財産及び損益の状況に関する事項を記載した書面</Sentence>
+                    <Sentence>当該承認の申請に係る会社の最終の貸借対照表、損益計算書、株主資本等変動計算書その他最近における業務、財産及び損益の状況に関する事項を記載した書面</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
@@ -38731,7 +39270,7 @@
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence>当該承認に係る少額短期保険子会社対象会社を子会社とすることにより、当該少額短期保険業者又はその子会社が国内の会社の議決権を合算してその基準議決権数（法第百七条第一項に規定する基準議決権数をいう。）を超えて保有することとなる場合には、当該国内の会社の名称及び業務の内容を記載した書類</Sentence>
+                    <Sentence>当該承認に係る少額短期保険子会社対象会社を子会社とすることにより、当該少額短期保険業者又はその子会社が国内の会社の議決権を合算してその基準議決権数を超えて保有することとなる場合には、当該国内の会社の名称及び業務の内容を記載した書類</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="6">
@@ -38969,7 +39508,7 @@
                     <Subitem2 Num="9">
                       <Subitem2Title>（９）</Subitem2Title>
                       <Subitem2Sentence>
-                        <Sentence>保険金等の支払能力の充実の状況を示す比率（法第二百七十二条の二十八において準用する法第百三十条の保険金等の支払能力の充実の状況が適当であるかどうかの基準（少額短期保険業者に係る同条各号に掲げる額を用いて定めたものに限る。）に係る算式により得られる比率をいう。）</Sentence>
+                        <Sentence>保険金等の支払能力の充実の状況を示す比率（法第二百七十二条の二十八において準用する法第百三十条の保険金等の支払能力の充実の状況が適当であるかどうかの基準（少額短期保険業者に係る同条各号に掲げる額を用いて定めたものに限る。）に係る算式により得られる比率をいう。第二百十一条の五十九第二項において同じ。）</Sentence>
                       </Subitem2Sentence>
                     </Subitem2>
                     <Subitem2 Num="10">
@@ -47936,7 +48475,7 @@
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence>法第百六条第七項の規定による子会社の認可</Sentence>
+                  <Sentence>法第百六条第七項（同条第九項において準用する場合を含む。）の規定による子会社又は保険業高度化等会社の認可</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence>九十日</Sentence>
@@ -47945,6 +48484,28 @@
             </Item>
             <Item Num="9_2">
               <ItemTitle>九の二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>法第百六条第八項ただし書の規定による子会社又は保険業高度化等会社の認可</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>九十日</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="9_3">
+              <ItemTitle>九の三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>法第百六条第十項の規定による保険業高度化等会社の認可</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>九十日</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="9_4">
+              <ItemTitle>九の四</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
                   <Sentence>法第百七条第二項ただし書の規定による保険会社又はその子会社による議決権の取得等の制限の承認</Sentence>
@@ -55251,23 +55812,46 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="令和二年三月三〇日内閣府令第二二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
+      <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この府令は、令和二年三月三十一日から施行する。</Sentence>
+            <Sentence WritingMode="vertical">この府令は、令和二年三月三十一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="5">
+      <Article Delete="false" Hide="false" Num="5">
         <ArticleCaption>（保険業法施行規則の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Num="1">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>第四条の規定による改正後の保険業法施行規則の規定は、施行日以後に終了する事業年度に係る会計監査報告について適用し、施行日前に終了する事業年度に係る会計監査報告については、なお従前の例による。</Sentence>
+            <Sentence WritingMode="vertical">第四条の規定による改正後の保険業法施行規則の規定は、施行日以後に終了する事業年度に係る会計監査報告について適用し、施行日前に終了する事業年度に係る会計監査報告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日内閣府令第三五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの府令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -55355,7 +55939,7 @@
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle>別表（第五十二条の二十二第三項関係）</AppdxTableTitle>
+      <AppdxTableTitle>別表（第五十二条の二十二第五項関係）</AppdxTableTitle>
       <TableStruct>
         <Table>
           <TableRow>
@@ -55507,7 +56091,7 @@
               <Sentence>二　金銭信託の受託残高</Sentence>
               <Sentence>三　元本補てん契約のある信託（信託財産の運用のため再信託された信託を含む。）の受託残高</Sentence>
               <Sentence>四　信託期間別の金銭信託の元本残高</Sentence>
-              <Sentence>五　金銭信託に係る貸出金及び有価証券の区分ごとの運用残高</Sentence>
+              <Sentence>五　金銭信託に係る貸出金、有価証券及び暗号資産の区分ごとの運用残高</Sentence>
               <Sentence>六　金銭信託に係る貸出金の科目別（証書貸付、手形貸付及び割引手形の区分をいう。）の残高</Sentence>
               <Sentence>七　金銭信託に係る貸出金の契約期間別の残高</Sentence>
               <Sentence>八　担保の種類別（有価証券、債権、商品、不動産、保証及び信用の区分をいう。）の金銭信託に係る貸出金残高</Sentence>
@@ -55515,6 +56099,7 @@
               <Sentence>十　業種別の金銭信託に係る貸出金残高及び貸出金の総額に占める割合</Sentence>
               <Sentence>十一　中小企業等（資本金三億円以下の会社若しくは常時使用する従業員が三百人以下の会社又は個人をいう。ただし、卸売業にあっては資本金一億円以下の会社若しくは常時使用する従業員が百人以下の会社又は個人を、サービス業にあっては資本金五千万円以下若しくは常時使用する従業員が百人以下の会社又は個人を、小売業及び飲食店にあっては資本金五千万円以下若しくは常時使用する従業員が五十人以下の会社又は個人をいう。）に対する金銭信託に係る貸出金残高及び貸出金の総額に占める割合</Sentence>
               <Sentence>十二　金銭信託に係る有価証券の種類別（国債、地方債、社債、株式その他の証券の区分をいう。）の残高</Sentence>
+              <Sentence>十三　暗号資産の種類別の期末残高</Sentence>
             </TableColumn>
           </TableRow>
         </Table>

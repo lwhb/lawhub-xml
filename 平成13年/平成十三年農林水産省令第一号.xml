@@ -1076,7 +1076,7 @@
                 <Item Delete="false" Hide="false" Num="9">
                   <ItemTitle>九</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">中央卸売市場を開設する者及び中央卸売市場において卸売の業務を行う者</Sentence>
+                    <Sentence WritingMode="vertical">中央卸売市場を開設する者</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -1615,13 +1615,13 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="25">
+            <Article Delete="false" Hide="false" Num="25">
               <ArticleCaption>（戦略室及び国際交渉室並びに輸出先国規制対策専門官、海域モニタリング専門官及び交渉官）</ArticleCaption>
               <ArticleTitle>第二十五条</ArticleTitle>
-              <Paragraph Num="1">
+              <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>輸出先国規制対策課に、戦略室及び国際交渉室並びに輸出先国規制対策専門官四人、交渉官七人及び海域モニタリング専門官一人を置く。</Sentence>
+                  <Sentence WritingMode="vertical">輸出先国規制対策課に、戦略室及び国際交渉室並びに輸出先国規制対策専門官四人、交渉官七人及び海域モニタリング専門官一人を置く。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -1892,7 +1892,7 @@
               <Paragraph Hide="false" Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">卸売市場室は、卸売市場の整備及び中央卸売市場の監督に関する事務（協同組合等検査に関することを除く。）をつかさどる。</Sentence>
+                  <Sentence WritingMode="vertical">卸売市場室は、中央卸売市場の監督その他卸売市場に関する事務（協同組合等検査に関することを除く。）をつかさどる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="3">
@@ -6522,7 +6522,7 @@
                   <Item Delete="false" Hide="false" Num="13">
                     <ItemTitle>十三</ItemTitle>
                     <ItemSentence>
-                      <Sentence WritingMode="vertical">卸売市場の整備及び中央卸売市場の監督に関すること。</Sentence>
+                      <Sentence WritingMode="vertical">中央卸売市場の監督その他卸売市場に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Delete="false" Hide="false" Num="14">
@@ -7764,10 +7764,10 @@
                   <ParagraphSentence>
                     <Sentence WritingMode="vertical">地域食品・連携課は、次に掲げる事務をつかさどる。</Sentence>
                   </ParagraphSentence>
-                  <Item Num="1">
+                  <Item Delete="false" Hide="false" Num="1">
                     <ItemTitle>一</ItemTitle>
                     <ItemSentence>
-                      <Sentence>農畜産物、飲食料品及び油脂の消費の増進、改善及び調整に関する事務の総括に関すること（消費・安全部の所掌に属するものを除く。）。</Sentence>
+                      <Sentence WritingMode="vertical">農畜産物、飲食料品及び油脂の消費の増進、改善及び調整に関する事務の総括に関すること（消費・安全部の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Delete="false" Hide="false" Num="2">
@@ -7855,7 +7855,7 @@
                   <Item Delete="false" Hide="false" Num="6">
                     <ItemTitle>六</ItemTitle>
                     <ItemSentence>
-                      <Sentence WritingMode="vertical">卸売市場の整備及び中央卸売市場の監督に関すること。</Sentence>
+                      <Sentence WritingMode="vertical">中央卸売市場の監督その他卸売市場に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Delete="false" Hide="false" Num="7">
@@ -8005,10 +8005,10 @@
                     <Sentence WritingMode="vertical">東北農政局、関東農政局、中国四国農政局及び九州農政局の経営・事業支援部地域食品・連携課に、それぞれ知的財産監視官一人を置く。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
-                <Paragraph Num="2">
+                <Paragraph Hide="false" Num="2">
                   <ParagraphNum>２</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence>知的財産監視官は、地方農政局の管轄区域内における特定農林水産物等の名称の保護に関する法律（平成二十六年法律第八十四号）第二条第三項に規定する地理的表示及び同法第四条第一項に規定する登録標章に関する専門の事項についての調査、連絡調整及び指導、種苗に係る表示に関する事項についての調査、連絡調整及び指導並びに種苗の利用に関する専門の事項についての連絡調整に関する事務を行う。</Sentence>
+                    <Sentence WritingMode="vertical">知的財産監視官は、地方農政局の管轄区域内における特定農林水産物等の名称の保護に関する法律（平成二十六年法律第八十四号）第二条第三項に規定する地理的表示及び同法第四条第一項に規定する登録標章に関する専門の事項についての調査、連絡調整及び指導、種苗に係る表示に関する事項についての調査、連絡調整及び指導並びに種苗の利用に関する専門の事項についての連絡調整に関する事務を行う。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -11357,10 +11357,10 @@
                     <Sentence WritingMode="vertical">保全整備専門官は、第一項の事業によって造成された施設の保全に関する事務のうち整備に関する技術上の専門の事項についての連絡調整及び指導に関する事務を行う。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
-                <Paragraph Num="15">
+                <Paragraph Hide="false" Num="15">
                   <ParagraphNum>１５</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence>用地調整官は、工事に伴う土地、工作物その他の物件及び権利の買収及び補償に関する調査及び連絡調整に関する事務を行う。</Sentence>
+                    <Sentence WritingMode="vertical">用地調整官は、工事に伴う土地、工作物その他の物件及び権利の買収及び補償に関する調査及び連絡調整に関する事務を行う。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Hide="false" Num="16">

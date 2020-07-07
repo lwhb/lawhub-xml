@@ -196,7 +196,7 @@
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第十一条に規定する電子情報処理組織を使用する方法</Sentence>
+              <Sentence WritingMode="vertical">第十三条に規定する電子情報処理組織を使用する方法</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -341,7 +341,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">法第三条第一項の届出、法第五条第一項及び第七項の申出、第四条の申出並びに第五条の報告（以下「届出等」という。）を行おうとする者は、情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。以下「情報通信技術活用法」という。）第六条第一項の規定により電子情報処理組織（厚生労働大臣、経済産業大臣及び環境大臣の指定する電子計算機（入出力装置を含む。以下同じ。）と、届出等を行おうとする者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。以下同じ。）を使用して届出等を行うときは、次に掲げる事項を届出等を行おうとする者の使用に係る電子計算機であつて厚生労働大臣、経済産業大臣及び環境大臣が定める技術的基準に適合するものから入力しなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第三条第一項の届出、法第五条第一項若しくは第七項の申出又は第四条の申出（以下「届出等」という。）を行おうとする者は、情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。以下「情報通信技術活用法」という。）第六条第一項の規定により電子情報処理組織（厚生労働大臣、経済産業大臣及び環境大臣の指定する電子計算機（入出力装置を含む。以下同じ。）と、届出等を行おうとする者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。以下同じ。）を使用して届出等を行うときは、次に掲げる事項を届出等を行おうとする者の使用に係る電子計算機であつて厚生労働大臣、経済産業大臣及び環境大臣が定める技術的基準に適合するものから入力しなければならない。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、届出等を行おうとする者が、厚生労働大臣、経済産業大臣及び環境大臣が告示で定めるところにより、第三号に掲げる事項を入力することに換えて、法令の規定に基づき添付すべきこととされている書面等を提出することを妨げない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
@@ -399,24 +399,24 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="13">
-        <ArticleCaption>（電子情報処理組織による少量新規化学物質等の確認に係る申出）</ArticleCaption>
+      <Article Num="13">
+        <ArticleCaption>（電子情報処理組織による申出等）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第六条第一項、第七条又は第九条第一項の申出を行おうとする者は、情報通信技術活用法第六条第一項の規定により電子情報処理組織を使用して申出を行うときは、厚生労働大臣、経済産業大臣及び環境大臣の定めるところにより、次に掲げる事項を申出を行おうとする者の使用に係る電子計算機であつて厚生労働大臣、経済産業大臣及び環境大臣が定める技術的基準に適合するものから入力しなければならない。</Sentence>
+            <Sentence>第五条の報告又は第六条第一項、第七条若しくは第九条第一項の申出（以下「申出等」という。）を行おうとする者は、情報通信技術活用法第六条第一項の規定により電子情報処理組織を使用して申出等を行うときは、厚生労働大臣、経済産業大臣及び環境大臣の定めるところにより、次に掲げる事項を申出等を行おうとする者の使用に係る電子計算機であつて厚生労働大臣、経済産業大臣及び環境大臣が定める技術的基準に適合するものから入力しなければならない。</Sentence>
           </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
+          <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">電子届出等様式に記録すべき事項</Sentence>
+              <Sentence>電子申出等様式（申出等を電子情報処理組織を使用して行う場合において従うこととされている様式であつて、申出等を書面等により行うときに従うこととされている様式に記載すべき事項のうち、申出等の名称、申出等を行う日付、申出等を行う相手方の名称、申出等を行う者の住所、申出等を行う者の氏名又は名称及び法人にあつては、その代表者の氏名並びに申出等を行う旨の表示を記録すべきものとして、厚生労働大臣、経済産業大臣及び環境大臣の指定する電子計算機に備えられたファイルから入手可能な様式をいう。）に記録すべき事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第六条第一項、第七条又は第九条第一項の規定により申し出るべきこととされている事項</Sentence>
+              <Sentence WritingMode="vertical">第五条の規定により報告すべきこととされている事項又は第六条第一項、第七条若しくは第九条第一項の規定により申し出るべきこととされている事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="3">
@@ -674,12 +674,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年二月二五日厚生労働省・経済産業省・環境省令第一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_001.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -688,7 +697,7 @@
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_002.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -696,7 +705,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第２（第４条第１号イ関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_003.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -704,7 +713,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第３（第４条第１号イ関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_004.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -712,7 +721,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第４（第４条第１号ロ関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_005.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -720,7 +729,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第５（第４条第１号ロ関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_006.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -728,7 +737,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第６（第４条第１号ハ関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_007.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -736,7 +745,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第７（第４条第１号ハ関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_008.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -744,7 +753,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第８（第５条第１号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_009.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -752,7 +761,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第９（第６条第１項第１号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_010.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -760,7 +769,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第１０（第７条第１号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_011.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -768,7 +777,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第１１（第８条第１号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_012.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -777,7 +786,7 @@
       <RelatedArticleNum>（第９条第１項第１号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_013.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -785,7 +794,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第１３（第１０条第１号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_014.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -793,7 +802,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第１４（第１２条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_015.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -801,7 +810,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第１５（第１６条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_016.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -809,7 +818,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第１６（第１６条第３項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_017.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -817,7 +826,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第１７（第１６条第３項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S49F03602003001_2004021704_018.pdf"/>
+          <Fig src="./pict/S49F03602003001_2006231006_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200416e80k10m06" Era="Showa" Lang="ja" LawType="Act" Num="48" Year="45">
+<Law DataInfo="200702e05k09m07" Era="Showa" Lang="ja" LawType="Act" Num="48" Year="45">
   <LawNum>昭和四十五年法律第四十八号</LawNum>
   <LawBody>
     <LawTitle>著作権法</LawTitle>
@@ -729,7 +729,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>国内において行なわれる実演</Sentence>
+                  <Sentence>国内において行われる実演</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -815,6 +815,12 @@
                     <Sentence>第九条第四号に掲げる放送において送信される実演（実演家の承諾を得て送信前に録音され、又は録画されているものを除く。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence>前各号に掲げるもののほか、視聴覚的実演に関する北京条約の締約国の国民又は当該締約国に常居所を有する者である実演家に係る実演</Sentence>
+                </ItemSentence>
               </Item>
             </Paragraph>
           </Article>
@@ -7535,7 +7541,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国及び地方公共団体は、国民が、新法第三十条第一項（新法第百二条第一項において準用する場合を含む。）に定める私的使用の目的をもって、有償著作物等（新法第百十九条第三項に規定する有償著作物等をいう。以下同じ。）の著作権又は著作隣接権を侵害する自動公衆送信（国外で行われる自動公衆送信であって、国内で行われたとしたならば著作権又は著作隣接権の侵害となるべきものを含む。）を受信して行うデジタル方式の録音又は録画を、自らその事実を知りながら行って著作権又は著作隣接権を侵害する行為（以下「特定侵害行為」という。）の防止の重要性に対する理解を深めることができるよう、特定侵害行為の防止に関する啓発その他の必要な措置を講じなければならない。</Sentence>
+            <Sentence>国及び地方公共団体は、国民が、新法第三十条第一項（新法第百二条第一項において準用する場合を含む。）に定める私的使用の目的をもって、録音録画有償著作物等（著作権法第百十九条第三項に規定する録音録画有償著作物等をいう。以下同じ。）の著作権又は著作隣接権を侵害する自動公衆送信（国外で行われる自動公衆送信であって、国内で行われたとしたならば著作権又は著作隣接権の侵害となるべきものを含む。）を受信して行うデジタル方式の録音又は録画を、自らその事実を知りながら行って著作権又は著作隣接権を侵害する行為（以下「特定侵害行為」という。）の防止の重要性に対する理解を深めることができるよう、特定侵害行為の防止に関する啓発その他の必要な措置を講じなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -7557,7 +7563,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>有償著作物等を公衆に提供し、又は提示する事業者は、特定侵害行為を防止するための措置を講じるよう努めなければならない。</Sentence>
+            <Sentence>録音録画有償著作物等を公衆に提供し、又は提示する事業者は、特定侵害行為を防止するための措置を講じるよう努めなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
