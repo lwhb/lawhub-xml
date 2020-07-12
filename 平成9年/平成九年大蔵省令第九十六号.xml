@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="096" Year="09">
+<Law DataInfo="200625e03k03m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="096" Year="09">
   <LawNum>平成九年大蔵省令第九十六号</LawNum>
   <LawBody>
     <LawTitle>内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行規則</LawTitle>
@@ -122,13 +122,13 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="3">
+        <Article Delete="false" Hide="false" Num="3">
           <ArticleCaption>（国内に住所を有しない者の確認すべき居所地等）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令（平成九年政令第三百六十三号。以下「令」という。）第三条に規定する財務省令で定める者は、金融機関の同条に規定する営業所等（以下この条において「営業所等」という。）の長が、令第三条に規定する預金若しくは貯金の口座又は勘定が開設され、又は設定される者の氏名又は名称、住所（国内に住所を有しない者にあっては、第四項に規定する場所。以下この条において同じ。）及び個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第五項に規定する個人番号をいう。以下同じ。）又は法人番号（同法第二条第十五項に規定する法人番号をいう。以下同じ。）その他の事項を記載した帳簿（その者の令第五条第一項各号に定める書類のいずれかの提示若しくはその者の署名用電子証明書等（法第三条第一項に規定する署名用電子証明書等をいう。以下この条において同じ。）の送信を受け、又は令第五条第四項の規定による確認をして作成されたものに限る。）を備えている場合における当該預金若しくは貯金の口座又は勘定が開設され、又は設定される者（その者の氏名若しくは名称、住所又は個人番号若しくは法人番号が当該帳簿に記載されているその者の氏名若しくは名称、住所又は個人番号若しくは法人番号と異なるものを除く。）とする。</Sentence>
+              <Sentence WritingMode="vertical">内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令（平成九年政令第三百六十三号。以下「令」という。）第三条に規定する財務省令で定める者は、金融機関の同条に規定する営業所等（以下この条において「営業所等」という。）の長が、令第三条に規定する預金若しくは貯金の口座又は勘定が開設され、又は設定される者の氏名又は名称、住所（国内に住所を有しない者にあっては、第四項に規定する場所。以下この条において同じ。）及び個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第五項に規定する個人番号をいう。以下同じ。）又は法人番号（同法第二条第十五項に規定する法人番号をいう。以下同じ。）その他の事項を記載した帳簿（その者の令第五条第一項各号に定める書類のいずれかの提示若しくはその者の署名用電子証明書等（法第三条第一項に規定する署名用電子証明書等をいう。以下この条において同じ。）の送信を受け、又は令第五条第四項の規定による確認をして作成されたものに限る。）を備えている場合における当該預金若しくは貯金の口座又は勘定が開設され、又は設定される者（その者の氏名若しくは名称、住所又は個人番号若しくは法人番号が当該帳簿に記載されているその者の氏名若しくは名称、住所又は個人番号若しくは法人番号と異なるものを除く。）とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -136,10 +136,10 @@
             <ParagraphSentence>
               <Sentence WritingMode="vertical">金融機関の営業所等の長が前項に規定する帳簿を作成する場合には、その者は、当該帳簿に次に掲げる事項を記載しなければならない。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
+            <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>令第五条第一項各号に定める書類のいずれかの提示若しくは署名用電子証明書等の送信をし、又は同条第四項の規定による確認を受けた者の氏名又は名称、住所及び個人番号又は法人番号</Sentence>
+                <Sentence WritingMode="vertical">令第五条第一項各号に定める書類のいずれかの提示若しくは署名用電子証明書等の送信をし、又は同条第四項の規定による確認を受けた者の氏名又は名称、住所及び個人番号又は法人番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
@@ -278,13 +278,7 @@
               <Subitem1 Delete="false" Hide="false" Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">行政手続における特定の個人を識別するための番号の利用等に関する法律第七条第一項に規定する通知カード及び住所等確認書類</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Delete="false" Hide="false" Num="3">
-                <Subitem1Title>ハ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">住民票の写し又は住民票の記載事項証明書（地方公共団体の長の住民基本台帳の氏名、住所その他の事項を証する書類をいう。次項第二号において同じ。）で、当該個人の個人番号の記載のあるもの（金融機関の営業所等の長に提示する日前六月以内に作成されたものに限る。）及び住所等確認書類で次項第一号及び第二号に掲げる書類以外のもの</Sentence>
+                  <Sentence>住民票の写し又は住民票の記載事項証明書（地方公共団体の長の住民基本台帳の氏名、住所その他の事項を証する書類をいう。次項第二号において同じ。）で、当該個人の個人番号の記載のあるもの（金融機関の営業所等の長に提示する日前六月以内に作成されたものに限る。）及び住所等確認書類で次項第一号及び第二号に掲げる書類以外のもの</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
@@ -295,7 +289,7 @@
                   <Sentence WritingMode="vertical">国内に住所を有しない個人（次号及び第四号に掲げる者を除く。）</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">住所等確認書類（次項第一号及び第二号に掲げる書類を除く。以下この号において同じ。）（個人番号を有する者にあっては、当該住所等確認書類及び行政手続における特定の個人を識別するための番号の利用等に関する法律の規定による通知カード及び個人番号カード並びに情報提供ネットワークシステムによる特定個人情報の提供等に関する省令（平成二十六年総務省令第八十五号）第十五条に規定する還付された通知カード又は同令第三十二条第一項に規定する還付された個人番号カード）</Sentence>
+                  <Sentence WritingMode="vertical">住所等確認書類（次項第一号及び第二号に掲げる書類を除く。以下この号において同じ。）（個人番号を有する者にあっては、当該住所等確認書類及び行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する省令（平成二十六年総務省令第八十五号）第三十二条第一項に規定する還付された個人番号カード）</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -519,7 +513,7 @@
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法第三条第一項に規定する国外送金等（以下「国外送金等」という。）をする法人が同項の告知書を提出する際、当該国外送金等に係る当該告知書の提出を受ける金融機関の営業所等の長が、当該告知書に記載された名称、住所及び法人番号につき、電気通信回線による登記情報の提供に関する法律（平成十一年法律第二百二十六号）第三条第二項に規定する指定法人から送信を受けた同法第二条第一項に規定する登記情報に記録された当該国外送金等をする法人の名称及び住所と同じであることの確認をした場合には、当該国外送金等をする法人は、当該金融機関の営業所等の長に、令第五条第三項の規定による前項に規定する法人確認書類の提示をしたものとみなす。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該金融機関の営業所等の長は、当該確認に係る当該告知書に当該確認をした旨を記載しておかなければならないものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該金融機関の営業所等の長は、当該告知書に当該確認をした旨を記載しておかなければならないものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="6">
@@ -559,7 +553,7 @@
               <Subitem1 Delete="false" Hide="false" Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">地方公共団体情報システム機構により電子署名（電子署名及び認証業務に関する法律（平成十二年法律第百二号）第二条第一項に規定する電子署名をいう。以下この項において同じ。）が行われたイの署名用電子証明書に係る者の個人番号及び個人識別事項（行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則（平成二十六年内閣府・総務省令第三号）第一条第一項第二号に規定する個人識別事項をいう。）に係る情報で、同令第四条第一号の規定により総務大臣が定めるもの</Sentence>
+                  <Sentence WritingMode="vertical">地方公共団体情報システム機構により電子署名（電子署名及び認証業務に関する法律（平成十二年法律第百二号）第二条第一項に規定する電子署名をいう。以下この項において同じ。）が行われたイの署名用電子証明書に係る者の個人番号及び個人識別事項（行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則（平成二十六年内閣府・総務省令第三号）第一条第二号に規定する個人識別事項をいう。）に係る情報で、同令第三条第一号の規定により総務大臣が定めるもの</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="3">
@@ -1410,14 +1404,14 @@
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Num="4">
+            <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Column Num="1">
-                  <Sentence>匿名組合契約（所得税法六十条の二第一項に規定する匿名組合契約をいう。以下この号において同じ。）の出資の持分</Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">匿名組合契約（所得税法六十条の二第一項に規定する匿名組合契約をいう。以下この号において同じ。）の出資の持分</Sentence>
                 </Column>
-                <Column Num="2">
-                  <Sentence>当該匿名組合契約の出資の持分の取得若しくは譲渡又は当該匿名組合契約に基づいて受ける利益の分配に関する事項が記載された書類</Sentence>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該匿名組合契約の出資の持分の取得若しくは譲渡又は当該匿名組合契約に基づいて受ける利益の分配に関する事項が記載された書類</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -1432,14 +1426,14 @@
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Num="6">
+            <Item Delete="false" Hide="false" Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Column Num="1">
-                  <Sentence>貸付金</Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">貸付金</Sentence>
                 </Column>
-                <Column Num="2">
-                  <Sentence>金銭の貸付け又は当該貸付金の利子の受領若しくは譲渡に関する事項が記載された書類</Sentence>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">金銭の貸付け又は当該貸付金の利子の受領若しくは譲渡に関する事項が記載された書類</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -2193,6 +2187,35 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月一一日財務省令第四六号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律（令和元年法律第十六号。以下「改正法」という。）附則第一条第六号に掲げる規定の施行の日（令和二年五月二十五日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">通知カード所持者（改正法附則第六条第一項に規定する通知カード所持者をいい、この省令の施行の日（以下「施行日」という。）以後当該通知カード所持者に係る通知カード（改正法第四条の規定による改正前の行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第七条第一項に規定する通知カードをいう。以下同じ。）に係る記載事項に変更があった者を除く。以下同じ。）が施行日以後に提示する当該通知カード所持者に係る通知カード及び租税特別措置法施行規則第十八条の十二第四項に規定する住所等確認書類に係る第一条の規定による改正前の租税特別措置法施行規則第十八条の十二第三項（同令第十八条の十五の三第二十一項（同令第十八条の十五の十第十九項において準用する場合を含む。）において準用する場合を含む。）の規定の適用については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>通知カード所持者が施行日以後に提示する当該通知カード所持者に係る通知カード及び内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行規則第四条第二項に規定する住所等確認書類に係る第三条の規定による改正前の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行規則第四条第一項の規定の適用については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="5">
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">通知カード所持者であって、施行日前に当該通知カード所持者に係る通知カードに係る記載事項に変更があったものが、改正法第四条の規定による改正前の行政手続における特定の個人を識別するための番号の利用等に関する法律第七条第四項後段（同条第五項後段において準用する場合を含む。）の規定による措置を受けていない場合には、前三項の規定は、適用しない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一（第十二条関係）　国外財産調書の記載事項</AppdxTableTitle>
       <TableStruct>
@@ -2422,7 +2445,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <FigStruct>
-                <Fig src="./pict/pict_1905221605_1912172212_2004141304_2004281004_001.pdf"/>
+                <Fig src="./pict/pict_1905221605_1912172212_2004141304_2004281004_2006241906_001.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -2756,7 +2779,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <FigStruct>
-                <Fig src="./pict/pict_1905221605_1912172212_2004141304_2004281004_002.pdf"/>
+                <Fig src="./pict/pict_1905221605_1912172212_2004141304_2004281004_2006241906_002.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>

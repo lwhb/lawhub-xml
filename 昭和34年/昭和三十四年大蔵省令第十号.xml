@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="010" Year="34">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="010" Year="34">
   <LawNum>昭和三十四年大蔵省令第十号</LawNum>
   <LawBody>
     <LawTitle>国家公務員宿舎法施行規則</LawTitle>
@@ -378,7 +378,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">各省各庁の長は、宿舎を貸与する場合においては、原則として、次の表の上欄に掲げる級等（一般職の職員の給与に関する法律（昭和二十五年法律第九十五号。第十四条第一項において「給与法」という。）別表第一イ行政職俸給表（一）の職務の級及び同法別表第十一指定職俸給表の適用を受ける職員の占める職（以下「指定職」という。）をいう。）の職務にある職員又はこれに準ずる職員に対し、それぞれ同表の下欄に掲げる規格の宿舎を貸与するものとする。</Sentence>
+              <Sentence WritingMode="vertical">各省各庁の長は、宿舎を貸与する場合においては、原則として、次の表の上欄に掲げる級等（一般職の職員の給与に関する法律（昭和二十五年法律第九十五号。第十四条第一項において「給与法」という。）別表第一イ行政職俸給表（一）の職務の級及び同法別表第十一指定職俸給表の適用を受ける職員の占める職（以下「指定職」という。）をいう。以下同じ。）の職務にある職員又はこれに準ずる職員に対し、それぞれ同表の下欄に掲げる規格の宿舎を貸与するものとする。</Sentence>
             </ParagraphSentence>
             <TableStruct>
               <Table WritingMode="vertical">
@@ -428,13 +428,13 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">独身者に対し宿舎を貸与する場合にあつては、原則として、一室を貸与するものとする。</Sentence>
+              <Sentence WritingMode="vertical">同居者を三人以上有する職員については、前項の規定にかかわらず、級等が五級、四級及び三級の者にあつては規格ｄ以下の宿舎を、二級以下の者にあつては規格ｃ以下の宿舎を貸与することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">扶養義務のある同居者を三人以上有する職員については、前二項の規定にかかわらず、第一項の級等が五級、四級及び三級の者にあつては規格ｄ以下の宿舎を、二級以下の者にあつては規格ｃ以下の宿舎を貸与することができる。</Sentence>
+              <Sentence WritingMode="vertical">各省各庁の長が宿舎の有効な利用を図るため必要があると認めるときは、前二項の規定にかかわらず、級等が二級以下の職員に対し、規格ｃの宿舎を貸与することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1685,6 +1685,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月三〇日財務省令第五四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十四条第一項及び第二項の改正規定並びに別表第三の規定は、令和三年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
@@ -6776,7 +6786,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１号様式（表紙）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S34F03401000010_1912171712_001.pdf"/>
+          <Fig src="./pict/S34F03401000010_2007061907_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6784,7 +6794,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１号様式（建設及び購入）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S34F03401000010_1912171712_002.pdf"/>
+          <Fig src="./pict/S34F03401000010_2007061907_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6792,7 +6802,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１号様式（借受）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S34F03401000010_1912171712_003.pdf"/>
+          <Fig src="./pict/S34F03401000010_2007061907_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6800,7 +6810,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２号様式（表紙）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S34F03401000010_1912171712_004.pdf"/>
+          <Fig src="./pict/S34F03401000010_2007061907_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6808,7 +6818,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S34F03401000010_1912171712_005.pdf"/>
+          <Fig src="./pict/S34F03401000010_2007061907_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6819,7 +6829,7 @@
       <AppdxStyleTitle WritingMode="vertical">第４号様式（表紙）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S34F03401000010_1912171712_006.pdf"/>
+          <Fig src="./pict/S34F03401000010_2007061907_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6827,7 +6837,7 @@
       <AppdxStyleTitle WritingMode="vertical">第４号様式（合同宿舎設置計画表）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S34F03401000010_1912171712_007.pdf"/>
+          <Fig src="./pict/S34F03401000010_2007061907_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6835,7 +6845,7 @@
       <AppdxStyleTitle WritingMode="vertical">第５号様式（表紙）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S34F03401000010_1912171712_008.pdf"/>
+          <Fig src="./pict/S34F03401000010_2007061907_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6843,7 +6853,7 @@
       <AppdxStyleTitle WritingMode="vertical">第５号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S34F03401000010_1912171712_009.pdf"/>
+          <Fig src="./pict/S34F03401000010_2007061907_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6851,7 +6861,7 @@
       <AppdxStyleTitle WritingMode="vertical">第５号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S34F03401000010_1912171712_010.pdf"/>
+          <Fig src="./pict/S34F03401000010_2007061907_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
