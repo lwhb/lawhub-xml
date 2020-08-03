@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="77" Year="07">
+<Law DataInfo="180524e01k01m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="77" Year="07">
   <LawNum>平成七年通商産業省令第七十七号</LawNum>
   <LawBody>
     <LawTitle>電気事業法施行規則</LawTitle>
@@ -12790,11 +12790,6 @@
     <AppdxStyle>
       <AppdxStyleTitle>様式第１８</AppdxStyleTitle>
       <RelatedArticleNum>（第２０条関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src=""/>
-        </Style>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第１９</AppdxStyleTitle>
@@ -13428,9 +13423,6 @@
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第５２　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第５２の２</AppdxStyleTitle>
@@ -13452,33 +13444,18 @@
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第五十四・様式第五十五　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第５６　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第５７　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第５８　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第５９　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第６０</AppdxStyleTitle>
@@ -13491,9 +13468,6 @@
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第６１　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第６１の２</AppdxStyleTitle>
@@ -13642,20 +13616,10 @@
     <AppdxStyle>
       <AppdxStyleTitle>様式第６９</AppdxStyleTitle>
       <RelatedArticleNum>（第１０８条関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src=""/>
-        </Style>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第７０</AppdxStyleTitle>
       <RelatedArticleNum>（第１１４条及び第１２０条関係）</RelatedArticleNum>
-      <StyleStruct>
-        <Style>
-          <Fig src=""/>
-        </Style>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第７１</AppdxStyleTitle>
@@ -13686,21 +13650,12 @@
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第７４　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第７５　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第７６　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第７７</AppdxStyleTitle>
@@ -13794,15 +13749,9 @@
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第８１　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第８２　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第８３</AppdxStyleTitle>
@@ -14000,27 +13949,26 @@
       <TableStruct>
         <Table>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>調査及び予測の内容</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>一　水力発電所</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）　騒音に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　騒音の諸元</Sentence>
               <Sentence>イ　建設機械の稼働の状況</Sentence>
@@ -14046,10 +13994,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）　振動に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　振動の諸元</Sentence>
               <Sentence>工事用資材等の搬出入に使用する自動車の稼働の状況</Sentence>
@@ -14062,10 +14010,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（三）　水質に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　排水の諸元</Sentence>
               <Sentence>排水の生物化学的酸素要求量又は化学的酸素要求量、窒素含有量及び<Ruby>燐<Rt>りん</Rt>
@@ -14093,10 +14041,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（四）　植物に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>国又は地方公共団体の調査により確認された自然林及び野生植物の重要な生育の場の状況</Sentence>
               <Sentence>２　調査地域</Sentence>
@@ -14107,10 +14055,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（五）　動物に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>国又は地方公共団体の調査により確認された野生動物の重要な生息の場の状況</Sentence>
               <Sentence>２　調査地域</Sentence>
@@ -14121,10 +14069,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（六）　自然保護に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　環境の保全を目的として指定された地域その他の対象の状況</Sentence>
               <Sentence>（２）　国又は地方公共団体の調査により確認された人為的な改変を受けていない自然湖岸又は河川の水際線が人工改変を受けていない河岸の状況</Sentence>
@@ -14136,19 +14084,18 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>二　火力発電所（地熱を利用するものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）　大気質に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　排ガスの諸元</Sentence>
               <Sentence>イ　硫黄酸化物、窒素酸化物及びばいじんの濃度及び排出量</Sentence>
@@ -14174,10 +14121,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）　騒音に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　騒音の諸元</Sentence>
               <Sentence>イ　建設機械及び発電所の施設の稼働の状況</Sentence>
@@ -14199,10 +14146,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（三）　振動に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　振動の諸元</Sentence>
               <Sentence>工事用資材等の搬出入に使用する自動車の稼働の状況</Sentence>
@@ -14215,10 +14162,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（四）　水質に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　排水の諸元</Sentence>
               <Sentence>イ　排水の生物化学的酸素要求量又は化学的酸素要求量、窒素含有量、<Ruby>燐<Rt>りん</Rt>
@@ -14246,10 +14193,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（五）　植物に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>国又は地方公共団体の調査により確認された自然林、藻場及び野生植物の重要な生育の場の状況</Sentence>
               <Sentence>２　調査地域</Sentence>
@@ -14260,10 +14207,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（六）　動物に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>国又は地方公共団体の調査により確認されたさんご群集及び野生動物の重要な生息の場の状況</Sentence>
               <Sentence>２　調査地域</Sentence>
@@ -14274,10 +14221,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（七）　自然保護に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　環境の保全を目的として指定された地域その他の対象の状況</Sentence>
               <Sentence>（２）　国又は地方公共団体の調査により確認された干潟、汽水湖、人為的な改変を受けていない自然海岸、自然湖岸及び河川の水際線が人工改変を受けていない河岸の状況</Sentence>
@@ -14290,19 +14237,18 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>三　火力発電所（地熱を利用するものに限る。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）　大気質に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　排ガスの諸元</Sentence>
               <Sentence>イ　硫化水素の濃度及び排出量</Sentence>
@@ -14319,10 +14265,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）　騒音に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　騒音の諸元</Sentence>
               <Sentence>イ　建設機械及び発電所の施設の稼働の状況</Sentence>
@@ -14344,10 +14290,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（三）　振動に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　振動の諸元</Sentence>
               <Sentence>工事用資材等の搬出入に使用する自動車の稼働の状況</Sentence>
@@ -14360,10 +14306,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（四）　水質に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　排水の諸元</Sentence>
               <Sentence>イ　排水の生物化学的酸素要求量又は化学的酸素要求量、窒素含有量、<Ruby>燐<Rt>りん</Rt>
@@ -14390,10 +14336,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（五）　植物に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>国又は地方公共団体の調査により確認された自然林及び野生植物の重要な生育の場の状況</Sentence>
               <Sentence>２　調査地域</Sentence>
@@ -14404,10 +14350,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（六）　動物に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>国又は地方公共団体の調査により確認された野生動物の重要な生息の場の状況</Sentence>
               <Sentence>２　調査地域</Sentence>
@@ -14418,10 +14364,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（七）　自然保護に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　環境の保全を目的として指定された地域その他の対象の状況</Sentence>
               <Sentence>（２）　国又は地方公共団体の調査により確認された人為的な改変を受けていない自然湖岸及び河川の水際線が人工改変を受けていない河岸の状況</Sentence>
@@ -14433,19 +14379,18 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>四　風力発電所</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）　騒音に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　騒音の諸元</Sentence>
               <Sentence>イ　建設機械及び発電所の施設の稼働の状況</Sentence>
@@ -14467,10 +14412,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）　振動に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　振動の諸元</Sentence>
               <Sentence>工事用資材等の搬出入に使用する自動車の稼働の状況</Sentence>
@@ -14483,10 +14428,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（三）　水質に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　排水の諸元</Sentence>
               <Sentence>排水の生物化学的酸素要求量又は化学的酸素要求量、窒素含有量、<Ruby>燐<Rt>りん</Rt>
@@ -14513,10 +14458,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（四）　植物に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>国又は地方公共団体の調査により確認された自然林、藻場及び野生植物の重要な生育の場の状況</Sentence>
               <Sentence>２　調査地域</Sentence>
@@ -14527,10 +14472,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（五）　動物に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>国又は地方公共団体の調査により確認されたさんご群集及び野生動物の重要な生息の場の状況</Sentence>
               <Sentence>２　調査地域</Sentence>
@@ -14541,10 +14486,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（六）　自然保護に関する項目</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　調査項目</Sentence>
               <Sentence>（１）　環境の保全を目的として指定された地域その他の対象の状況</Sentence>
               <Sentence>（２）　国又は地方公共団体の調査により確認された干潟、汽水湖、人為的な改変を受けていない自然海岸、自然湖岸及び河川の水際線が人工改変を受けていない河岸の状況</Sentence>
@@ -14565,24 +14510,24 @@
       <TableStruct>
         <Table>
           <TableRow>
-            <TableColumn colspan="2">
+            <TableColumn Valign="top" colspan="2">
               <Sentence>工事の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>認可を要するもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>事前届出を要するもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="3">
+            <TableColumn Valign="top" rowspan="3">
               <Sentence>発電所</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>一　設置の工事</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力二十キロワット以上の発電所の設置であって、次に掲げるもの以外のもの</Sentence>
               <Sentence>（１）　水力発電所の設置</Sentence>
               <Sentence>（２）　火力発電所の設置</Sentence>
@@ -14590,7 +14535,7 @@
               <Sentence>（４）　太陽電池発電所の設置</Sentence>
               <Sentence>（５）　風力発電所の設置</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　発電所の設置であって、次に掲げるもの</Sentence>
               <Sentence>（１）　水力発電所（小型のもの又は特定の施設内に設置されるものであって別に告示するものを除く。）の設置</Sentence>
               <Sentence>（２）　火力発電所であって汽力を原動力とするもの（小型の汽力を原動力とするものであって別に告示するものを除く。）の設置</Sentence>
@@ -14606,23 +14551,21 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>二　変更の工事</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）発電設備の設置</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>出力二十キロワット以上の発電設備の設置であって、次に掲げるもの以外のもの</Sentence>
               <Sentence>（１）　水力発電所の発電設備の設置</Sentence>
               <Sentence>（２）　火力発電所の発電設備の設置</Sentence>
@@ -14630,7 +14573,7 @@
               <Sentence>（４）　太陽電池発電所の発電設備の設置</Sentence>
               <Sentence>（５）　風力発電所の発電設備の設置</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>発電設備の設置であって、次に掲げるもの</Sentence>
               <Sentence>（１）　水力発電所の発電設備（小型のもの又は特定の施設内に設置されるものであって別に告示するものを除く。）の設置</Sentence>
               <Sentence>（２）　火力発電所の発電設備であって汽力を原動力とするもの（小型の汽力を原動力とするものであって別に告示するものを除く。）の設置</Sentence>
@@ -14645,33 +14588,29 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="19">
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top" rowspan="19">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）発電設備の設置の工事以外の変更の工事であって、次の設備に係るもの</Sentence>
               <Sentence>１　原動力設備</Sentence>
               <Sentence>（１）　水力設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>イ　ダム</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　ダムの設置</Sentence>
               <Sentence>２　ダムの改造であって、堤体の強度若しくは安定度又は洪水吐きの容量、強度若しくは安定度の変更を伴うもの</Sentence>
               <Sentence>３　洪水吐きゲート用予備動力設備の設置又は取替え（大気汚染防止法第二条第二項に規定するばい煙発生施設に該当する出力五百キロワット以上の発電設備に係るものに限る。）</Sentence>
@@ -14679,39 +14618,36 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ロ　取水設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力三万キロワット以上の発電設備に係る取水設備の設置</Sentence>
               <Sentence>２　出力十万キロワット以上の発電設備に係る取水設備の改造であって、通水容量の変更を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ハ　沈砂池</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>出力三万キロワット以上の発電設備に係る沈砂池の設置</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ニ　導水路</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力三万キロワット以上の発電設備に係る導水路の設置及び延長</Sentence>
               <Sentence>２　改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　出力三万キロワット以上の発電設備に係る圧力導水路の改造であって、次に掲げるもの</Sentence>
@@ -14721,14 +14657,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ホ　放水路</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力三万キロワット以上の発電設備に係る放水路の設置及び延長</Sentence>
               <Sentence>２　出力三万キロワット以上の発電設備に係る放水路の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　通水容量の変更を伴うもの</Sentence>
@@ -14736,38 +14671,35 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ヘ　ヘッドタンク</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>出力三万キロワット以上の発電設備に係るヘッドタンクの設置</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ト　サージタンク</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>出力三万キロワット以上の発電設備に係るサージタンクの設置</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>チ　水圧管路</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力三万キロワット以上の発電設備に係る水圧管路の設置及び延長</Sentence>
               <Sentence>２　出力三万キロワット以上の発電設備に係る水圧管路の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　管胴本体の強度の変更を伴うもの</Sentence>
@@ -14775,67 +14707,61 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>リ　水車</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力三万キロワット以上の発電設備に係る水車の設置</Sentence>
               <Sentence>２　出力三万キロワット以上の発電設備に係る水車の改造であって、二十パーセント以上の出力の変更を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ヌ　揚水式発電設備に係る揚水用のポンプ</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力三万キロワット以上の揚水式発電設備に係る揚水用のポンプの設置</Sentence>
               <Sentence>２　出力三万キロワット以上の揚水式発電設備に係る揚水用のポンプの改造であって、二十パーセント以上の入力の変更を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ル　貯水池又は調整池</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　貯水池又は調整池の設置</Sentence>
               <Sentence>２　貯水池又は調整池の改造であって、常時満水位又は最低水位の変更を伴うもの</Sentence>
               <Sentence>３　貯水池又は調整池の改造であって有効容量の変更を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（２）　火力設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>イ　蒸気タービン</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力千キロワット以上の発電設備に係る蒸気タービンの設置</Sentence>
               <Sentence>２　出力千キロワット以上の発電設備に係る蒸気タービンの改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　主蒸気止め弁の入口の圧力又は温度の変更を伴うもの</Sentence>
@@ -14845,14 +14771,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ロ　ボイラー若しくは独立過熱器（バーナーを含む。以下同じ。）又は蒸気貯蔵器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　発電設備に係るボイラー、独立過熱器又は蒸気貯蔵器の設置</Sentence>
               <Sentence>２　ボイラー、独立過熱器又は蒸気貯蔵器の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　最高使用圧力又は最高使用温度の変更を伴うもの</Sentence>
@@ -14863,26 +14788,24 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ハ　蒸気井</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>設置</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ニ　ガスタービン（空気圧縮機、ガス発生機及び燃焼器を含む。以下同じ。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力千キロワット以上の発電設備に係るガスタービンの設置</Sentence>
               <Sentence>２　出力千キロワット以上の発電設備に係るガスタービンに属するガス圧縮機の設置</Sentence>
               <Sentence>３　出力一万キロワット以上の発電設備に係るガスタービンの改造であって、次に掲げるもの</Sentence>
@@ -14893,45 +14816,40 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ホ　内燃機関</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>出力一万キロワット以上の発電設備に係る内燃機関の設置又は取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ヘ　燃料設備（内燃力発電設備に係るものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力千キロワット以上の発電設備に係る燃料設備の設置</Sentence>
               <Sentence>２　出力千キロワット以上の発電設備に係る燃料設備の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　液化ガス用燃料設備に属するものであって、ガス・液化ガス用容器（液化ガス用貯槽、液化ガス用気化器、ガスホルダー、熱交換器（ガス又は液化ガス用のものに限る。）、冷凍設備（受液器、油分離器又は凝縮器に限る。）及びその他のガス又は液化ガス用の容器をいう。以下別表第二及び別表第三において同じ。）、冷凍設備に係る冷媒ガス圧縮機（最高使用圧力が九百八十キロパスカル以上のものに限る。以下別表第二及び別表第三において同じ。）、液化ガス用ポンプ、圧送機（最高使用圧力が九百八十キロパスカル以上のものに限る。以下別表第二及び別表第三において同じ。）、ガス・液化ガス用配管（外径が百五十ミリメートル以上のガス又は液化ガスを通ずる配管をいう。以下別表第二及び別表第三において同じ。）又は導管の設置</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="5">
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top" rowspan="5">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（２）　液化ガス用燃料設備に属するものであって、ガス・液化ガス用容器若しくは配管の最高使用圧力、最高使用温度若しくは最低使用温度（通常の使用状態の温度が零度以下のものに限る。以下別表第二及び別表第三において同じ。）又は導管の最高使用圧力の変更を伴うもの</Sentence>
               <Sentence>（３）　液化ガス用燃料設備に属するものであって、低温貯槽（圧力が零キロパスカルにおける沸点が零度以下の液化ガスを温度が零度以下又は当該液化ガスの気相部における通常の使用状態での圧力が九十八キロパスカル以下の液体の状態で貯蔵する貯槽をいう。以下同じ。）に係る防液堤の容量の変更又は冷凍設備に係る冷媒ガス圧縮機、液化ガス用ポンプ若しくは圧送機の能力又は吐出圧力の変更を伴うもの</Sentence>
               <Sentence>（４）　液化ガス用燃料設備に属するガス・液化ガス用容器の胴又は安全弁に係るもの</Sentence>
@@ -14946,14 +14864,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ト　液化ガス設備（液化ガス用燃料設備を除く。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力千キロワット以上の発電設備に係る液化ガス設備の設置</Sentence>
               <Sentence>２　出力千キロワット以上の発電設備に係る液化ガス設備の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　ガス・液化ガス用容器、液化ガス用ポンプ、ガス圧縮機（最高使用圧力が九百八十キロパスカル以上のものに限る。以下別表第二及び別表第三において同じ。）、ガス・液化ガス用配管又は導管の設置</Sentence>
@@ -14967,14 +14884,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>チ　ガス化炉設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　発電設備に係るガス化炉設備の設置</Sentence>
               <Sentence>２　ガス化炉設備の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　ガス化炉用容器（ガス化炉、蒸気発生器、熱交換器その他のガス化炉用の容器の最高使用圧力が九百八十キロパスカル以上のものをいう。以下別表第二及び別表第三において同じ。）、ガス圧縮機又はガス用配管（外径が百五十ミリメートル以上のガスを通ずる配管であって、最高使用圧力が九百八十キロパスカル以上のものをいう。以下別表第二及び別表第三において同じ。）の設置</Sentence>
@@ -14988,14 +14904,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>リ　脱水素設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　発電設備に係る脱水素設備（水素化合物から触媒反応によって水素を製造する設備をいう。以下別表第二及び別表第三において同じ。）の設置</Sentence>
               <Sentence>２　発電設備に係る脱水素設備の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　脱水素設備用容器（最高使用圧力が九百八十キロパスカル以上のものに限る。以下別表第二及び別表第三において同じ。）、ガス圧縮機又はガス用配管の設置</Sentence>
@@ -15008,14 +14923,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ヌ　汽力、ガスタービン及び内燃力以外を原動力とする火力設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　設置</Sentence>
               <Sentence>２　改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　最高使用圧力、最高使用温度又は最低使用温度の変更を伴うもの</Sentence>
@@ -15024,18 +14938,16 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="2">
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top" rowspan="2">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（３）　燃料電池設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力五百キロワット以上の燃料電池設備の設置</Sentence>
               <Sentence>２　出力五百キロワット以上の燃料電池設備の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　燃料電池の設置又は改造であって二十パーセント以上の電圧若しくは出力の変更を伴うもの</Sentence>
@@ -15052,15 +14964,14 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（４）　太陽電池設備</Sentence>
               <Sentence>太陽電池</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力二千キロワット以上の太陽電池の設置</Sentence>
               <Sentence>２　出力二千キロワット以上の太陽電池の取替え</Sentence>
               <Sentence>３　出力二千キロワット以上の太陽電池の改造であって、次に掲げるもの</Sentence>
@@ -15070,19 +14981,17 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="14">
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top" rowspan="14">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（５）　風力設備</Sentence>
               <Sentence>風力機関</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力五百キロワット以上の発電設備に係る風力機関の設置</Sentence>
               <Sentence>２　出力五百キロワット以上の発電設備に係る風力機関の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　回転速度の変更又は五パーセント以上の出力の変更を伴うもの</Sentence>
@@ -15095,29 +15004,27 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>２　電気設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（１）　発電機</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　（一）中欄の発電設備に係る発電機の設置</Sentence>
               <Sentence>２　（一）中欄の発電設備に係る発電機の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　二十パーセント以上の電圧又は容量の変更を伴うもの</Sentence>
               <Sentence>（２）　周波数の変更を伴うもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　（一）下欄の発電設備（水力発電所にあっては、出力三万キロワット以上のものに限る。）に係る発電機の設置</Sentence>
               <Sentence>２　（一）下欄の発電設備（水力発電所にあっては、出力三万キロワット以上のものに限る。）に係る発電機の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　二十パーセント以上の電圧又は容量の変更を伴うもの</Sentence>
@@ -15125,16 +15032,16 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（２）　変圧器</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　（一）中欄の発電設備に係る変圧器であって電圧三十万ボルト以上かつ容量十万キロボルトアンペア以上のものの設置</Sentence>
               <Sentence>２　（一）中欄の発電設備に係る変圧器であって電圧三十万ボルト以上かつ容量十万キロボルトアンペア以上のものの改造のうち、次に掲げるもの</Sentence>
               <Sentence>（１）　二十パーセント以上の電圧又は容量の変更を伴うもの</Sentence>
               <Sentence>（２）　電圧調整装置を付加するもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　電圧十七万ボルト以上であって、容量十万キロボルトアンペア以上の変圧器（中欄に掲げるものを除く。）の設置</Sentence>
               <Sentence>２　電圧十七万ボルト以上であって、容量十万キロボルトアンペア以上の変圧器（中欄に掲げるものを除く。）の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　二十パーセント以上の電圧又は容量の変更を伴うもの</Sentence>
@@ -15143,85 +15050,80 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（３）　電圧調整器又は電圧位相調整器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　送電電圧十七万ボルト以上の発電所に係る容量一万キロボルトアンペア以上の電圧調整器又は電圧位相調整器の設置</Sentence>
               <Sentence>２　送電電圧十七万ボルト以上の発電所に係る容量一万キロボルトアンペア以上の電圧調整器又は電圧位相調整器の改造であって、二十パーセント以上の電圧又は容量の変更を伴うもの</Sentence>
               <Sentence>３　送電電圧十七万ボルト以上の発電所に係る容量一万キロボルトアンペア以上の電圧調整器又は電圧位相調整器の取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（４）　調相機</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　送電電圧十七万ボルト以上の発電所に係る容量二万キロボルトアンペア以上の調相機の設置</Sentence>
               <Sentence>２　送電電圧十七万ボルト以上の発電所に係る容量二万キロボルトアンペア以上の調相機の改造であって、二十パーセント以上の電圧又は容量の変更を伴うもの</Sentence>
               <Sentence>３　送電電圧十七万ボルト以上の発電所に係る容量二万キロボルトアンペア以上の調相機の取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（５）　電力用コンデンサー</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　送電電圧十七万ボルト以上の発電所に係る容量一万キロボルトアンペア以上の群の設置</Sentence>
               <Sentence>２　送電電圧十七万ボルト以上の発電所に係る容量一万キロボルトアンペア以上の群の改造であって、二十パーセント以上の容量の変更を伴うもの</Sentence>
               <Sentence>３　送電電圧十七万ボルト以上の発電所に係る容量一万キロボルトアンペア以上の群の取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（６）　分路リアクトル又は限流リアクトル</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　送電電圧十七万ボルト以上の発電所に係る容量一万キロボルトアンペア以上の分路リアクトル又は限流リアクトルの設置</Sentence>
               <Sentence>２　送電電圧十七万ボルト以上の発電所に係る容量一万キロボルトアンペア以上の分路リアクトル又は限流リアクトルの改造であって、二十パーセント以上の容量の変更を伴うもの</Sentence>
               <Sentence>３　送電電圧十七万ボルト以上の発電所に係る容量一万キロボルトアンペア以上の分路リアクトル又は限流リアクトルの取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（７）　周波数変換機器又は整流機器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　容量十五万キロボルトアンペア以上又は出力十五万キロワット以上の周波数変換機器又は整流機器の設置</Sentence>
               <Sentence>２　容量十五万キロボルトアンペア以上又は出力十五万キロワット以上の周波数変換機器又は整流機器の改造であって、二十パーセント以上の電圧の変更又は二十パーセント以上の容量若しくは出力の変更を伴うもの</Sentence>
               <Sentence>３　容量十五万キロボルトアンペア以上又は出力十五万キロワット以上の周波数変換機器又は整流機器の取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（８）　遮断器</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　（一）中欄の発電設備に係る送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）であって、電圧三十万ボルト以上のものの設置（ガス遮断器又はガス遮断器以外の遮断器に替え、ガス遮断器を設置する場合を除く。）</Sentence>
               <Sentence>２　（一）中欄の発電設備に係る送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）であって、電圧三十万ボルト以上のものの改造のうち、二十パーセント（ガス遮断器及び真空遮断器にあっては、三十パーセント）以上の遮断電流の変更を伴うもの</Sentence>
               <Sentence>３　（一）中欄の発電設備に係る遮断器であって、周波数低下による事故の拡大を防止するために設置するもののうち法第三十八条第四項各号に掲げる事業の用に供する電圧三十万ボルト以上のものの設置</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）であって、電圧十七万ボルト以上のもの（中欄に掲げるものを除く。）の設置（ガス遮断器又はガス遮断器以外の遮断器に替え、ガス遮断器を設置する場合を除く。）</Sentence>
               <Sentence>２　送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）であって、電圧十七万ボルト以上のものの改造のうち、二十パーセント（ガス遮断器及び真空遮断器にあっては、三十パーセント）以上の遮断電流の変更を伴うもの（中欄に掲げるものを除く。）</Sentence>
               <Sentence>３　周波数低下による事故の拡大を防止するために設置する遮断器であって、法第三十八条第四項各号に掲げる事業の用に供する電圧三十万ボルト以上のもの（中欄に掲げるものを除く。）の設置</Sentence>
@@ -15229,96 +15131,86 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（９）　逆変換装置</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>燃料電池発電所における出力五百キロワット以上の発電設備、太陽電池発電所における出力二千キロワット以上の発電設備又は風力発電所における出力五百キロワット以上の発電設備に係る逆変換装置の設置、取替え又は改造であって二十パーセント以上の電圧若しくは出力の変更を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（１０）　電力貯蔵装置</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　（一）下欄の発電設備に係る容量八万キロワットアワー以上の電力貯蔵装置の設置</Sentence>
               <Sentence>２　（一）下欄の発電設備に係る容量八万キロワットアワー以上の電力貯蔵装置の改造であって、二十パーセント以上の容量の変更を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>３　附帯設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（１）　発電所の運転を管理するための制御装置</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>水力発電所、出力千キロワット未満（内燃力を原動力とするものにあっては一万キロワット未満）の火力発電所、出力五百キロワット未満の燃料電池発電所、出力二千キロワット未満の太陽電池発電所又は出力五百キロワット未満の風力発電所以外の発電所に係る制御装置の改造であって、制御方式の変更を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>変電所</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>一　設置の工事</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>電圧十七万ボルト以上（構内以外の場所から伝送される電気を変成するために設置する変圧器その他の電気工作物の総合体であって、構内以外の場所に伝送するためのもの以外のもの（以下「受電所」という。）にあっては十万ボルト以上）の変電所の設置</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="9">
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top" rowspan="9">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>二　変更の工事であって、次の設備に係るもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）変圧器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　電圧十七万ボルト以上であって、容量十万キロボルトアンペア以上（受電所にあっては、電圧十万ボルト以上であって、容量一万キロボルトアンペア以上）の変圧器の設置</Sentence>
               <Sentence>２　電圧十七万ボルト以上であって、容量十万キロボルトアンペア以上（受電所にあっては、電圧十万ボルト以上であって、容量一万キロボルトアンペア以上）の変圧器の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　二十パーセント以上の電圧又は容量の変更を伴うもの</Sentence>
@@ -15327,84 +15219,78 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）電圧調整器又は電圧位相調整器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量一万キロボルトアンペア以上の電圧調整器又は電圧位相調整器の設置</Sentence>
               <Sentence>２　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量一万キロボルトアンペア以上の電圧調整器又は電圧位相調整器の改造であって、二十パーセント以上の電圧又は容量の変更を伴うもの</Sentence>
               <Sentence>３　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量一万キロボルトアンペア以上の電圧調整器又は電圧位相調整器の取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（三）調相機</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　電圧十七万ボルト以上の変電所に係る容量二万キロボルトアンペア以上の調相機（受電所にあっては、電圧十万ボルト以上の変電所に係る容量一万キロボルトアンペア以上の調相機）の設置</Sentence>
               <Sentence>２　電圧十七万ボルト以上の変電所に係る容量二万キロボルトアンペア以上の調相機（受電所にあっては、電圧十万ボルト以上の変電所に係る容量一万キロボルトアンペア以上の調相機）の改造であって、二十パーセント以上の電圧又は容量の変更を伴うもの</Sentence>
               <Sentence>３　電圧十七万ボルト以上の変電所に係る容量二万キロボルトアンペア以上の調相機（受電所にあっては、電圧十万ボルト以上の変電所に係る容量一万キロボルトアンペア以上の調相機）の取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（四）電力用コンデンサー</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量一万キロボルトアンペア以上の群の設置</Sentence>
               <Sentence>２　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量一万キロボルトアンペア以上の群の改造であって、二十パーセント以上の容量の変更を伴うもの</Sentence>
               <Sentence>３　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量一万キロボルトアンペア以上の群の取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（五）分路リアクトル又は限流リアクトル</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量一万キロボルトアンペア以上の分路リアクトル又は限流リアクトルの設置</Sentence>
               <Sentence>２　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量一万キロボルトアンペア以上の分路リアクトル又は限流リアクトルの改造であって、二十パーセント以上の容量の変更を伴うもの</Sentence>
               <Sentence>３　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量一万キロボルトアンペア以上の分路リアクトル又は限流リアクトルの取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（六）周波数変換機器又は整流機器（鉄道営業法、軌道法又は鉄道事業法が適用され又は準用される変電所の直流き電側のものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　容量十五万キロボルトアンペア以上又は出力十五万キロワット以上（受電所にあっては、容量十万キロボルトアンペア以上又は出力十万キロワット以上）の周波数変換機器又は整流機器の設置</Sentence>
               <Sentence>２　容量十五万キロボルトアンペア以上又は出力十五万キロワット以上（受電所にあっては、容量十万キロボルトアンペア以上又は出力十万キロワット以上）の周波数変換機器又は整流機器の改造であって、二十パーセント以上の電圧の変更又は二十パーセント以上の容量若しくは出力の変更を伴うもの</Sentence>
               <Sentence>３　容量十五万キロボルトアンペア以上又は出力十五万キロワット以上（受電所にあっては、容量十万キロボルトアンペア以上又は出力十万キロワット以上）の周波数変換機器又は整流機器の取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（七）遮断器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）であって、電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）のものの設置（ガス遮断器又はガス遮断器以外の遮断器に替え、ガス遮断器を設置する場合を除く。）</Sentence>
               <Sentence>２　送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）であって、電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）のものの改造のうち、二十パーセント（ガス遮断器及び真空遮断器にあっては、三十パーセント）以上の遮断電流の変更を伴うもの</Sentence>
               <Sentence>３　周波数低下による事故の拡大を防止するために設置する遮断器であって、法第三十八条第四項各号に掲げる事業の用に供する電圧三十万ボルト以上のものの設置</Sentence>
@@ -15412,55 +15298,50 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（八）電力貯蔵装置</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量八万キロワットアワー以上の電力貯蔵装置の設置</Sentence>
               <Sentence>２　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量八万キロワットアワー以上の電力貯蔵装置の改造であって、二十パーセント以上の容量の変更を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="4">
+            <TableColumn Valign="top" rowspan="4">
               <Sentence>送電線路（電線路と一体的に工事が行われる送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）を含む。以下この項において同じ。）</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>一　設置の工事</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>電圧十七万ボルト以上の送電線路又は電圧十七万ボルト以上の電気鉄道用送電線路（鉄道営業法、軌道法又は鉄道事業法が適用され又は準用される送電線路であって、電気鉄道の専用敷地内に設置されるものをいう。以下同じ。）の設置</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>二　変更の工事であって、次の設備に係るもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）電線路（電線路と一体的に工事が行われる送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）を含む。以下この項において同じ。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　電圧十七万ボルト以上の電線路又は電気鉄道用送電線路に属する電圧十七万ボルト以上の電線路の一キロメートル以上の延長</Sentence>
               <Sentence>２　電圧十七万ボルト以上の電線路又は電気鉄道用送電線路に属する電圧十七万ボルト以上の電線路の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　電圧の変更（昇圧に限る。）を伴うもの</Sentence>
@@ -15475,33 +15356,29 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）開閉所</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　電圧十七万ボルト以上の開閉所の設置</Sentence>
               <Sentence>２　電圧十七万ボルト以上の開閉所の改造であって、次に掲げるもの</Sentence>
               <Sentence>（１）　電圧の変更（昇圧に限る。）を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（２）　送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）の設置（ガス遮断器又はガス遮断器以外の遮断器に替え、ガス遮断器を設置する場合を除く。）</Sentence>
               <Sentence>（３）　送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）の改造であって、二十パーセント（ガス遮断器及び真空遮断器にあっては、三十パーセント）以上の遮断電流の変更を伴うもの</Sentence>
               <Sentence>（４）　周波数低下による事故の拡大を防止するための遮断器であって、法第三十八条第四項各号に掲げる事業の用に供する電圧三十万ボルト以上のもの（電気鉄道用送電線路に属するものを除く。）の設置</Sentence>
@@ -15510,83 +15387,76 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn rowspan="6">
+            <TableColumn Valign="top" rowspan="6">
               <Sentence>需要設備（鉱山保安法が適用されるものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>一　設置の工事</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>受電電圧一万ボルト以上の需要設備の設置</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>二　変更の工事であって、次の設備に係るもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）遮断器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　他の者が設置する電気工作物と電気的に接続するための遮断器（受電電圧一万ボルト以上の需要設備に属するものに限る。）であって、電圧一万ボルト以上のものの設置</Sentence>
               <Sentence>２　他の者が設置する電気工作物と電気的に接続するための遮断器（受電電圧一万ボルト以上の需要設備に属するものに限る。）であって、電圧一万ボルト以上のものの改造のうち、二十パーセント以上の遮断電流の変更を伴うもの</Sentence>
               <Sentence>３　他の者が設置する電気工作物と電気的に接続するための遮断器（受電電圧一万ボルト以上の需要設備に属するものに限る。）であって、電圧一万ボルト以上のものの取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）電力貯蔵装置</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　受電電圧一万ボルト以上の需要設備に属する電力貯蔵装置であって、容量八万キロワットアワー以上のものの設置</Sentence>
               <Sentence>２　受電電圧一万ボルト以上の需要設備に属する電力貯蔵装置であって、容量八万キロワットアワー以上のものの改造のうち、二十パーセント以上の容量の変更を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（三）（一）及び（二）の機器以外の機器（計器用変成器を除く。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　電圧一万ボルト以上の機器であって、容量一万キロボルトアンペア以上又は出力一万キロワット以上のものの設置</Sentence>
               <Sentence>２　電圧一万ボルト以上の機器であって、容量一万キロボルトアンペア以上又は出力一万キロワット以上のものの改造のうち、二十パーセント以上の電圧の変更又は二十パーセント以上の容量若しくは出力の変更を伴うもの</Sentence>
               <Sentence>３　電圧一万ボルト以上の機器であって、容量一万キロボルトアンペア以上又は出力一万キロワット以上のものの取替え</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（四）電線路</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　電圧五万ボルト以上の電線路の設置</Sentence>
               <Sentence>２　電圧十万ボルト以上の電線路の一キロメートル以上の延長</Sentence>
               <Sentence>３　電圧十万ボルト以上の電線路の改造であって、次に掲げるもの</Sentence>
@@ -15609,46 +15479,46 @@
       <TableStruct>
         <Table>
           <TableRow>
-            <TableColumn rowspan="2">
+            <TableColumn Valign="top" rowspan="2">
               <Sentence>電気工作物の種類</Sentence>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn Valign="top" colspan="2">
               <Sentence>記載すべき事項</Sentence>
             </TableColumn>
-            <TableColumn rowspan="2">
+            <TableColumn Valign="top" rowspan="2">
               <Sentence>添付書類（認可の申請に係る工事、届出に係る工事又は使用前自己確認の内容に関係あるものに限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>一般記載事項</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>設備別記載事項（認可の申請又は届出に係る工事の内容に関係あるものに限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>一　発電所</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　発電所の名称及び位置（都道府県郡市区町村字を記載すること。）</Sentence>
               <Sentence>２　発電所の出力（水力発電所の場合は、常時出力及び常時せん頭出力を付記すること。）及び周波数</Sentence>
               <Sentence>３　水力発電所の場合は、使用水量、有効落差及び理論水力（それぞれ最大、常時及び常時せん頭の別に記載すること。）</Sentence>
               <Sentence>４　特定対象事業に係るものにあっては、その特定対象事業に係る法第四十六条の十七第二項の規定による通知に係る評価書に従っている環境の保全のための措置</Sentence>
               <Sentence>５　環境影響評価法第二条第三項に規定する第二種事業（特定対象事業を除く。）に係るものにあっては、同法第四条第三項第二号（同条第四項及び同法第二十九条第二項において準用する場合を含む。）の措置がとられたものである旨</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>送電関係一覧図</Sentence>
               <Sentence>事業用電気工作物が電気の円滑な供給を確保するため技術上適切なものであることの説明書（電圧十七万ボルト以上の電力系統に係る事業用電気工作物であって、一般送配電事業の用に供されるものに係る場合に限る。）</Sentence>
               <Sentence>特定対象事業に係るものにあっては、特定対象事業実施区域内の主要工作物及び主要仮設備の配置図（水力発電所の場合は、減水区間の長さも併せて記載すること。）</Sentence>
               <Sentence>特定対象事業に係るものにあっては、その特定対象事業に係る法第四十六条の十七第二項の規定による通知に係る評価書に従っている環境の保全のための措置に関する説明書</Sentence>
               <Sentence>環境影響評価法第二条第三項に規定する第二種事業（特定対象事業を除く。）に係るものにあっては、同法第四条第三項第二号（同条第四項及び同法第二十九条第二項において準用する場合を含む。）の措置に関する説明書</Sentence>
               <Sentence>大気汚染防止法第二条第二項のばい煙発生施設を設置する場合は、ばい煙（大気汚染防止法第二条第一項に規定するものをいう。以下同じ。）に関する説明書</Sentence>
+              <Sentence>大気汚染防止法第二条第十三項の水銀排出施設を設置する場合は、水銀等（同条第十二項に規定するものをいう。以下同じ。）に関する説明書</Sentence>
               <Sentence>騒音規制法（昭和四十三年法律第九十八号）第三条第一項の規定により指定された地域内に同法第二条第一項の特定施設を設置する場合は、騒音に関する説明書</Sentence>
               <Sentence>水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設を設置する場合は、有害物質貯蔵指定施設に関する説明書</Sentence>
               <Sentence>振動規制法（昭和五十一年法律第六十四号）第三条第一項の規定により指定された地域内に同法第二条第一項の特定施設を設置する場合は、振動に関する説明書</Sentence>
@@ -15661,18 +15531,16 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）　水力設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>流量資料</Sentence>
               <Sentence>使用水量の決定に関する説明書</Sentence>
               <Sentence>有効落差、理論水力及び出力についての計算書</Sentence>
@@ -15681,14 +15549,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　ダム</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、高さ、余裕高、頂長、頂幅、越流頂標高、越流幅及び越流水深</Sentence>
               <Sentence>２　堤体の体積、最大敷幅並びに上下流面こう配又は中心角及び半径</Sentence>
               <Sentence>３　高さ十五メートル以上のダムに係る次の事項</Sentence>
@@ -15702,7 +15569,7 @@
               <Sentence>（５）　水たたきの減勢方式</Sentence>
               <Sentence>５　洪水吐き以外の放流設備の種類、主要寸法及び設置箇所の標高</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ダムの構造図</Sentence>
               <Sentence>土砂堆積量計算書</Sentence>
               <Sentence>設計洪水流量計算書</Sentence>
@@ -15716,166 +15583,152 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>２　取水設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　取水する河川又は湖沼の名称及び取水地点の位置（都道府県郡市区町村字番地を記載すること。）</Sentence>
               <Sentence>２　取水方法</Sentence>
               <Sentence>３　取水口の主要寸法及び取水口敷標高</Sentence>
               <Sentence>４　制水門の種類及び主要寸法</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>３　沈砂池</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>主要寸法</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>４　導水路</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　こう長（本水路及び支水路の別並びにトンネル、暗きょ、開きょ、水路橋、サイホン及びその他の別に記載すること。）及び圧力</Sentence>
               <Sentence>２　こう配、標準断面形及び標準断面寸法</Sentence>
               <Sentence>３　水路橋、サイホンの標準巻厚及び標準断面寸法</Sentence>
               <Sentence>４　合流そうの主要寸法</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>導水路定規図</Sentence>
               <Sentence>通水容量計算書（取水設備を含む。）</Sentence>
               <Sentence>水路橋及びサイホンの構造計算書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>５　放水路</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　放水する河川又は湖沼の名称及び放水地点の位置（都道府県郡市区町村字番地を記載すること。）</Sentence>
               <Sentence>２　こう長（それぞれトンネル、暗きょ、開きょ及びその他の別に記載すること。）及び圧力</Sentence>
               <Sentence>３　こう配、標準断面形及び標準断面寸法</Sentence>
               <Sentence>４　放水口の主要寸法及び放水口敷標高</Sentence>
               <Sentence>５　調圧水室の種類及び主要寸法</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>放水路定規図</Sentence>
               <Sentence>通水容量計算書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>６　ヘッドタンク又はサージタンク</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類及び圧力</Sentence>
               <Sentence>２　水槽の主要寸法</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>７　水圧管路</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　圧力</Sentence>
               <Sentence>２　管胴本体の長さ（本管及び条管の別に記載すること。）、最大管厚、最小管厚、最大内径、最小内径、材料、接合方法及び支持方法</Sentence>
               <Sentence>３　アンカーブロックの個数及び小支台の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>圧力計算書</Sentence>
               <Sentence>管胴本体の構造計算書</Sentence>
               <Sentence>アンカーブロックの強度及び安定度についての計算書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>８　水車</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、出力、回転速度並びにポンプ水車にあっては揚水量、揚程及び入力</Sentence>
               <Sentence>２　調速機の種類</Sentence>
               <Sentence>３　制水門又は制水弁の種類及び主要寸法</Sentence>
               <Sentence>４　吸出管の種類及び吸出高</Sentence>
               <Sentence>５　ポンプ水車の場合は、駆動装置の種類及び出力</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>９　揚水式発電所における揚水用のポンプ</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、揚水量、揚程、入力及び回転速度</Sentence>
               <Sentence>２　制水門又は制水弁の種類及び主要寸法</Sentence>
               <Sentence>３　駆動装置の種類及び出力</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１０　貯水池又は調整池</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>全容量、有効容量、サーチャージ容量、利用水深、常時満水位、最低水位、設計洪水位、サーチャージ水位、制限水位及びたん水面積</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>貯水池又は調整池の縦断図及び横断図</Sentence>
               <Sentence>水位たん水面積曲線図</Sentence>
               <Sentence>水位容量曲線図</Sentence>
@@ -15883,31 +15736,27 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）　火力設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　蒸気タービン</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、出力、主蒸気止め弁の入口の圧力及び温度、回転速度並びに被動機一体の危険速度</Sentence>
               <Sentence>２　主要な管の主要寸法及び材料</Sentence>
               <Sentence>３　調速装置及び非常調速装置の種類</Sentence>
@@ -15921,21 +15770,20 @@
               <Sentence>（２）　安全弁及び逃がし弁の種類、吹出圧力、吹出量、個数及び取付箇所</Sentence>
               <Sentence>８　蒸気タービンの基本設計方針、適用基準及び適用規格</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>蒸気タービンの構造図</Sentence>
               <Sentence>制御方法に関する説明書（蒸気タービンの振動管理に関する説明書を含む。）</Sentence>
               <Sentence>蒸気タービンに附属する管の配置の概要を明示した図面</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>２　ボイラー</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、最大蒸発量、最高使用圧力、最高使用温度、排出ガス量、ばい煙量、ばい煙濃度及び伝熱面積</Sentence>
               <Sentence>２　再熱器の通過蒸気量、最高使用圧力及び最高使用温度</Sentence>
               <Sentence>３　胴、管寄せ及び主要な管の主要寸法及び材料</Sentence>
@@ -15970,21 +15818,20 @@
               <Sentence>１５　その他燃料の燃焼用機器に係る輸送装置及び燃焼器の種類、容量及び個数並びにその他燃料の発熱量、硫黄分、窒素分及び灰分</Sentence>
               <Sentence>１６　ボイラーの基本設計方針、適用基準及び適用規格</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ボイラーの構造図</Sentence>
               <Sentence>制御方法に関する説明書</Sentence>
               <Sentence>ボイラーに附属する管の配置の概要を明示した図面</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>３　独立過熱器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、最大通過蒸気量、最高使用圧力、最高使用温度及び伝熱面積</Sentence>
               <Sentence>２　管寄せ及び主要な管の主要寸法及び材料</Sentence>
               <Sentence>３　安全弁の種類、吹出圧力、吹出量、個数及び取付箇所</Sentence>
@@ -16002,21 +15849,20 @@
               <Sentence>８　（二）２の中欄１０から１５までに準ずるもの</Sentence>
               <Sentence>９　独立過熱器の基本設計方針、適用基準及び適用規格</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>独立過熱器の構造図</Sentence>
               <Sentence>制御方法に関する説明書</Sentence>
               <Sentence>独立過熱器に附属する管の配置の概要を明示した図面</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>４　蒸気貯蔵器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、容量、最高使用圧力及び使用圧力の範囲</Sentence>
               <Sentence>２　胴の主要寸法及び材料</Sentence>
               <Sentence>３　安全弁の種類、吹出圧力、吹出量、個数及び取付箇所</Sentence>
@@ -16025,21 +15871,20 @@
               <Sentence>（２）　安全弁及び逃がし弁の種類、吹出圧力、吹出量、個数及び取付箇所</Sentence>
               <Sentence>５　蒸気貯蔵器の基本設計方針、適用基準及び適用規格</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>蒸気貯蔵器の構造図</Sentence>
               <Sentence>制御方法に関する説明書</Sentence>
               <Sentence>蒸気貯蔵器に附属する管の配置の概要を明示した図面</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>５　蒸気井</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　孔径、深さ並びに噴出蒸気の圧力、温度及び量</Sentence>
               <Sentence>２　蒸気井に附属する蒸気分離器の種類、容量、最高使用圧力、最高使用温度、主要寸法、材料及び個数</Sentence>
               <Sentence>３　蒸気井に附属する熱交換器に係る次の事項</Sentence>
@@ -16050,20 +15895,19 @@
               <Sentence>（２）　安全弁及び逃がし弁の種類、吹出圧力、吹出量、個数及び取付箇所</Sentence>
               <Sentence>５　蒸気井の基本設計方針、適用基準及び適用規格</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>蒸気井の構造図</Sentence>
               <Sentence>蒸気井に附属する管の配置の概要を明示した図面</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>６　ガスタービン（空気圧縮機、ガス発生機、燃焼器を含む。以下同じ。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、出力、入口及び出口の圧力及び温度、設計外気温度、回転速度、被動機一体の危険速度、排出ガス量、ばい煙量並びにばい煙濃度</Sentence>
               <Sentence>２　主要な管の主要寸法及び材料</Sentence>
               <Sentence>３　調速装置及び非常調速装置の種類</Sentence>
@@ -16083,21 +15927,20 @@
               <Sentence>９　（二）２の中欄１０から１５までに準ずるもの</Sentence>
               <Sentence>１０　ガスタービンの基本設計方針、適用基準及び適用規格</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ガスタービンの構造図</Sentence>
               <Sentence>制御方法に関する説明書</Sentence>
               <Sentence>ガスタービンに附属する管の配置の概要を明示した図面</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>７　内燃機関</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、出力、回転速度、燃料の種類、発熱量、硫黄分、窒素分、灰分及び使用量、排出ガス量、ばい煙量並びにばい煙濃度</Sentence>
               <Sentence>２　調速装置及び非常調速装置の種類</Sentence>
               <Sentence>３　内燃機関に附属する冷却水設備の容量</Sentence>
@@ -16111,19 +15954,18 @@
               <Sentence>（２）　ばい煙処理設備に附属する空気圧縮機、通風機、破砕機又は摩砕機の種類、容量及び個数</Sentence>
               <Sentence>７　内燃機関の基本設計方針、適用基準及び適用規格</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>燃料系統図</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>８　燃料設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　燃料運搬設備に係る次の事項</Sentence>
               <Sentence>（１）　揚炭機及び運炭機の種類、容量及び個数</Sentence>
               <Sentence>（２）　油又はガスの輸送管（液化ガス用燃料設備に属するものを除く。）であって、外径三百ミリメートル以上のものの最高使用圧力、最高使用温度、外径、厚さ及び材料</Sentence>
@@ -16150,7 +15992,7 @@
               <Sentence>７　微粉炭燃焼用機器に係る乾燥機の燃料の種類、硫黄分、窒素分、灰分、発熱量及び使用量、排出ガス量、ばい煙量、ばい煙濃度並びに煙突の出口のガスの速度、出口のガスの温度、地表上の高さ及び有効高さ</Sentence>
               <Sentence>８　微粉炭燃焼用機器に係る乾燥機に附属する空気圧縮機又は通風機の種類、容量及び個数</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>燃料系統図</Sentence>
               <Sentence>液化ガス用燃料設備に属する液化ガス用貯槽、液化ガス用気化器、ガスホルダー、冷凍設備、液化ガス用ポンプ及び圧縮機（最高使用圧力が九百八十キロパスカル毎平方センチメートル以上のものに限る。）の保安物件に対する離隔距離並びに液化ガス用貯槽及びガスホルダーのそれぞれの相互間の離隔距離に関する説明書</Sentence>
               <Sentence>制御方法に関する説明書</Sentence>
@@ -16168,33 +16010,31 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>９　ばい煙処理設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　ばい煙処理設備に係る次の事項</Sentence>
               <Sentence>（１）　種類、容量、入口及び出口におけるばい煙量、ばい煙濃度及びガスの温度、アンモニアの注入量、アンモニアの注入により発生するばいじんに係るばい煙濃度並びに個数</Sentence>
               <Sentence>（２）　廃ガス洗浄施設（石炭を燃料とする火力設備に係るものに限る。）に係る用水及び排水の系統</Sentence>
               <Sentence>２　ばい煙処理設備に附属する空気圧縮機、通風機、破砕機又は摩砕機の種類、容量及び個数</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ばい煙処理設備の構造図</Sentence>
               <Sentence>水質汚濁防止法第二条第二項の特定施設を設置する場合は、汚水等に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１０　液化ガス設備（液化ガス用燃料設備を除く。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　液化ガス用気化器の種類、能力、加熱用熱源の種類及び容量、出口の圧力及び温度、最高使用圧力（一次側及び二次側の別に記載すること。）、最高使用温度（一次側及び二次側の別に記載すること。）及び最低使用温度（一次側及び二次側の別に記載すること。）、主要寸法、材料及び個数並びに当該液化ガス用気化器の安全弁の種類、吹出圧力、吹出量、個数及び取付箇所</Sentence>
               <Sentence>２　液化ガス用貯槽の種類、容量及び個数、最高使用圧力、最高使用温度、最低使用温度、主要寸法及び材料、低温貯槽に係る保冷の形式、保冷材の種類及び充てん厚さ並びに液化ガス用貯槽に係る防液堤の容量、主要寸法及び材料並びに当該液化ガス用貯槽の安全弁の種類、吹出圧力、吹出量、個数及び取付箇所</Sentence>
               <Sentence>３　ガス圧縮機に係る８の中欄１（４）に掲げる事項に準ずるもの</Sentence>
@@ -16203,7 +16043,7 @@
               <Sentence>６　（二）２の中欄１４（４）に準ずるもの（液化ガス用気化器又は液化ガス用貯槽に係るものを除く。）</Sentence>
               <Sentence>７　（二）８の中欄１（３）に準ずるもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ガス・液化ガス系統図</Sentence>
               <Sentence>液化ガス用貯槽、液化ガス用気化器、液化ガス用ポンプ及びガス圧縮機の保安物件に対する離隔距離並びに液化ガス設備の隣接する設備に対する離隔距離に関する説明書</Sentence>
               <Sentence>液化ガス用貯槽、液化ガス用気化器及びガス圧縮機の構造図</Sentence>
@@ -16212,14 +16052,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１１　ガス化炉設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　ガス化炉に係る次の事項</Sentence>
               <Sentence>（１）　種類、最大ガス発生量、最高使用圧力及び最高使用温度</Sentence>
               <Sentence>（２）　主要寸法及び材料</Sentence>
@@ -16242,7 +16081,7 @@
               <Sentence>（２）　安全弁及び逃がし弁の種類、吹出圧力、吹出量、個数並びに取付箇所</Sentence>
               <Sentence>７　ガス化炉設備の基本設計方針、適用基準及び適用規格</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ガス化炉用容器及びガス圧縮機の構造図</Sentence>
               <Sentence>制御方法に関する説明書</Sentence>
               <Sentence>ガス化炉及びガス圧縮機の保安物件に対する離隔距離に関する説明書</Sentence>
@@ -16252,14 +16091,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１２　脱水素設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　脱水素設備（蒸発器を除く。）に係る次の事項</Sentence>
               <Sentence>（１）　種類、入口及び出口の温度、最高使用圧力（一次側及び二次側の別に記載すること。）、最高使用温度（一次側及び二次側の別に記載すること。）、主要寸法、材料並びに個数</Sentence>
               <Sentence>（２）　安全弁の種類、吹出圧力、吹出量、個数及び取付箇所</Sentence>
@@ -16272,7 +16110,7 @@
               <Sentence>（２）　安全弁及び逃がし弁の種類、吹出圧力、吹出量、個数並びに取付箇所</Sentence>
               <Sentence>５　脱水素設備の基本設計方針、適用基準及び適用規格</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>脱水素設備及びガス圧縮機の構造図</Sentence>
               <Sentence>制御方法に関する説明書</Sentence>
               <Sentence>脱水素設備の保安物件に対する離隔距離に関する説明書</Sentence>
@@ -16283,14 +16121,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１３　汽力、ガスタービン及び内燃力以外を原動力とする火力設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、出力、最高使用圧力、最高使用温度、最低使用温度、ばい煙量及びばい煙濃度</Sentence>
               <Sentence>２　容器（内径が二百ミリメートルを超えかつ長さが千ミリメートルを超えるもの及び内容積が〇・〇四立方メートルを超えるものであって、最高使用圧力が九十八キロパスカル以上のものに限る。下欄において同じ。）の種類、容量、最高使用圧力、最高使用温度、主要寸法、材料及び個数</Sentence>
               <Sentence>３　熱交換器（内径が二百ミリメートルを超えかつ長さが千ミリメートルを超えるもの及び内容積が〇・〇四立方メートルを超えるものであって、最高使用圧力が九十八キロパスカル以上のものに限る。下欄において同じ。）の種類、入口及び出口の温度、最高使用圧力（一次側及び二次側の別に記載すること。）、主要寸法、材料並びに個数</Sentence>
@@ -16298,7 +16135,7 @@
               <Sentence>５　管（外径百五十ミリメートル以上かつ最高使用圧力が九十八キロパスカル以上のものに限る。下欄において同じ。）の最高使用圧力、最高使用温度、外形、厚さ及び材料</Sentence>
               <Sentence>６　火力設備の基本設計方針、適用基準及び適用規格</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>熱精算図</Sentence>
               <Sentence>総合系統図</Sentence>
               <Sentence>構造図</Sentence>
@@ -16309,14 +16146,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（三）　燃料電池設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　燃料電池の種類、出力、電圧、電流、冷却法、台数及び保護継電装置の種類</Sentence>
               <Sentence>２　容器（内径が二百ミリメートルを超えかつ長さが千ミリメートルを超えるもの及び内容積が〇・〇四立方メートルを超えるものであって、最高使用圧力が九十八キロパスカル以上のものに限る。下欄において同じ。）の種類、容量、最高使用圧力、最高使用温度、主要寸法、材料及び個数</Sentence>
               <Sentence>３　安全弁の種類、吹出圧力、吹出量、個数及び取付箇所</Sentence>
@@ -16332,7 +16168,7 @@
               <Sentence>９　窒素ガス用ガスだめ（内径が二百ミリメートルを超えかつ長さが千ミリメートルを超えるもの及び内容積が〇・〇四立方メートルを超えるものであって、最高使用圧力が九十八キロパスカル以上のものに限る。下欄において同じ。）の種類、容量、最高使用圧力、主要寸法、材料及び個数</Sentence>
               <Sentence>１０　管（外径三百ミリメートル以上かつ最高使用圧力が九十八キロパスカル以上のものに限る。下欄において同じ。）の最高使用圧力、最高使用温度、外径、厚さ及び材料</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>発電方式に関する説明書</Sentence>
               <Sentence>総合系統図</Sentence>
               <Sentence>燃料電池並びに容器、熱交換器、改質器液体窒素用貯槽、気化器及び窒素ガス用ガスだめの構造図容器並びに熱交換器、液体窒素用貯槽、気化器及び窒素ガス用ガスだめの強度計算に関する説明書</Sentence>
@@ -16343,37 +16179,35 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（四）　太陽電池設備</Sentence>
               <Sentence>太陽電池</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>種類、出力、開放電圧、短絡電流及びモジュールの個数</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>発電方式に関する説明書</Sentence>
               <Sentence>支持物の構造図及び強度計算書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（五）　風力設備</Sentence>
               <Sentence>風力機関</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、出力、回転速度及び台数</Sentence>
               <Sentence>２　ロータの直径並びに翼の枚数及び材料</Sentence>
               <Sentence>３　調速装置及び非常調速装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>発電方式に関する説明書</Sentence>
               <Sentence>風車の構造図及び強度計算書</Sentence>
               <Sentence>支持物の構造図及び強度計算書</Sentence>
@@ -16382,222 +16216,205 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（六）　電気設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>電磁誘導電圧計算書（電圧十七万ボルト以上の電力系統に係る中性点接地装置の工事を含む場合に限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　発電機</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、容量、力率、電圧、相、周波数、回転速度、結線法及び冷却法並びに発電電動機の場合は、出力</Sentence>
               <Sentence>２　励磁装置の種類、容量、回転速度、駆動方法及び個数（常用及び予備の別に記載すること。）</Sentence>
               <Sentence>３　保護継電装置の種類</Sentence>
               <Sentence>４　原動機との連結方法</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>短絡強度計算書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>２　変圧器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（一）の中欄に準ずるもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（一）の下欄に準ずるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>３　電圧調整器又は電圧位相調整器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（二）の中欄に準ずるもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（二）の下欄に準ずるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>４　調相機</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（三）の中欄に準ずるもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（三）の下欄に準ずるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>５　電力用コンデンサー</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（四）の中欄に準ずるもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（四）の下欄に準ずるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>６　分路リアクトル又は限流リアクトル</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（五）の中欄に準ずるもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（五）の下欄に準ずるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>７　周波数変換機器又は整流機器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（六）の中欄に準ずるもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（六）の下欄に準ずるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>８　遮断器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（七）の中欄に準ずるもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（七）の下欄に準ずるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>９　逆変換装置</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、容量、電圧、電流、相、周波数、結線法及び個数</Sentence>
               <Sentence>２　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>逆変換装置の用途に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１０　電力貯蔵装置</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、容量、主要寸法、電圧、電流、個数及び用途</Sentence>
               <Sentence>２　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>電力貯蔵方式に関する説明書</Sentence>
               <Sentence>電力貯蔵装置の用途に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（七）　附帯設備</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　発電所の運転を管理するための制御装置</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>制御方式</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>制御方法に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>二　変電所</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　変電所の名称及び位置（都道府県郡市区町村字を記載すること。）</Sentence>
               <Sentence>２　変電所の出力及び周波数</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>送電関係一覧図</Sentence>
               <Sentence>事業用電気工作物が電気の円滑な供給を確保するため技術上適切なものであることの説明書（電圧十七万ボルト以上の電力系統に係る事業用電気工作物であって、一般送配電事業の用に供されるものに係る場合に限る。）</Sentence>
               <Sentence>急傾斜地崩壊危険区域内において行う制限工事に係る場合は、当該区域内の急傾斜地の崩壊の防止措置に関する説明書</Sentence>
@@ -16608,165 +16425,155 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）　変圧器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、容量、電圧（一次、二次及び三次の別に記載し、電圧調整装置を有するものの場合は、電圧調整範囲及びタップ数を付記すること。）、相、周波数、結線法、冷却法並びに電気事業の用に供するものにあっては、常用及び予備の別</Sentence>
               <Sentence>２　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>短絡強度計算書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）　電圧調整器又は電圧位相調整器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、容量、電圧（電圧調整範囲及びタップ数を付記すること。）、相、周波数、結線法及び冷却法</Sentence>
               <Sentence>２　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>設置計画についての説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（三）　調相機</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、容量（進相及び遅相の別に記載すること。）、電圧、周波数、回転速度及び冷却法</Sentence>
               <Sentence>２　励磁装置の種類及び容量</Sentence>
               <Sentence>３　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>設置計画についての説明書</Sentence>
               <Sentence>短絡強度計算書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（四）　電力用コンデンサー</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　並列用及び直列用の別、一群の容量、一群当たりの個数、電圧並びに結線法</Sentence>
               <Sentence>２　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>設置計画についての説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（五）　分路リアクトル又は限流リアクトル</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　容量、電圧、相、周波数、結線法及び冷却法</Sentence>
               <Sentence>２　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>設置計画についての説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（六）　周波数変換機器又は整流機器（鉄道営業法、軌道法又は鉄道事業法が適用され又は準用される変電所の直流き電側のものを除く。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、容量又は出力、電圧、電流、相、周波数、回転速度、結線法及び励磁法</Sentence>
               <Sentence>２　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>制御方法に関する説明書（電圧十万ボルト以上のものに係る場合に限る。）</Sentence>
               <Sentence>電波障害の防止措置に関する説明書（電圧十万ボルト以上のものに係る場合に限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（七）　遮断器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、電圧、電流、遮断電流及び遮断時間</Sentence>
               <Sentence>２　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>三相短絡容量計算書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（八）　電力貯蔵装置</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、容量、主要寸法、電圧、電流、個数及び用途</Sentence>
               <Sentence>２　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>電力貯蔵方式に関する説明書</Sentence>
               <Sentence>電力貯蔵装置の用途に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（九）　変電所の運転を管理するための制御装置</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第一号（七）１の中欄に準ずるもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第一号（七）１の下欄に準ずるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>三　送電線路（電線路と一体的に工事が行われる送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）を含む。以下この項において同じ。）</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　送電線路の名称及び区間</Sentence>
               <Sentence>２　送電線路の電圧（設計電圧と異なる場合は、設計電圧を付記すること。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>送電関係一覧図</Sentence>
               <Sentence>事業用電気工作物が電気の円滑な供給を確保するため技術上適切なものであることの説明書（電圧十七万ボルト以上の電力系統に係る事業用電気工作物であって、一般送配電事業の用に供されるものに係る場合に限る。）</Sentence>
               <Sentence>急傾斜地崩壊危険区域内において行う制限工事に係る場合は、当該区域内の急傾斜地の崩壊の防止措置に関する説明書</Sentence>
@@ -16776,14 +16583,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）　電線路（電線路と一体的に工事が行われる送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）を含む。以下この項において同じ。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　こう長（架空、地中、水底及びその他の別に記載すること。）</Sentence>
               <Sentence>２　電気方式、中性点接地方式、回線数（設計回線数と異なる場合は、設計回線数を付記すること。）及び再閉路方式</Sentence>
               <Sentence>３　電線の種類、太さ及び一回線当たりの条数</Sentence>
@@ -16794,7 +16600,7 @@
               <Sentence>８　地中電線路の布設方式</Sentence>
               <Sentence>９　遮断器に係る事項であって、第二号（七）の中欄に準ずるもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>電線路の中心線（架空、地中、水底及びその他の別を表示すること。）、経過する都道府県郡市区町村の境界及び名称並びに電線路から左右百メートル以内にある弱電流電線路、鉄道、道路、建造物その他の工作物（架空電線路以外の電線路にあっては、電線路に接近又は交さするもの）の位置を明示した縮尺五千分の一以上（市街地における架空電線路及び架空電線路以外の電線路の場合は、二千分の一以上）の地形図（架空電線路にあっては、航空障害灯、昇塔防止設備を、架空電線路以外の電線路にあっては、電線路の布設図を併せて記載すること。）</Sentence>
               <Sentence>支持物の構造図及び強度計算書（設計条件に関する説明も併せて記載すること。）</Sentence>
               <Sentence>がいしの種類、大きさ及び懸垂型のものの一連の個数の決定に関する説明書</Sentence>
@@ -16806,36 +16612,34 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）　開閉所</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　開閉所の位置（都道府県郡市区町村字を記載すること。）</Sentence>
               <Sentence>２　遮断器に係る事項であって、第二号（七）の中欄に準ずるもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>主要設備の配置の状況を明示した平面図及び断面図</Sentence>
               <Sentence>遮断器に係る第二号（七）の下欄に準ずるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>四　需要設備</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　需要設備の位置（都道府県郡市区町村字を記載し、事業場の名称を付記すること。）</Sentence>
               <Sentence>２　需要設備の最大電力及び受電電圧</Sentence>
               <Sentence>３　需要設備に直接電気を供給する発電所又は変電所の名称</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>主要設備の配置の状況及び受電点の位置を明示した平面図及び断面図</Sentence>
               <Sentence>単線結線図（接地線（計器用変成器を除く。）については、電線の種類、太さ及び接地の種類も併せて記載すること。）</Sentence>
               <Sentence>新技術の内容を十分に説明した書類</Sentence>
@@ -16843,63 +16647,59 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）　遮断器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（七）の中欄に準ずるもの</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>第二号（七）の下欄に準ずるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）　電力貯蔵装置</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　種類、容量、主要寸法、電圧、電流、個数及び用途</Sentence>
               <Sentence>２　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>電力貯蔵方式に関する説明書</Sentence>
               <Sentence>電力貯蔵装置の用途に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（三）　（一）及び（二）の機器以外の機器（計器用変成器を除く。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>電圧一万ボルト以上の機器に係る次の事項</Sentence>
               <Sentence>（１）　種類、容量又は出力、電圧、相、周波数、回転速度及び結線法</Sentence>
               <Sentence>（２）　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>短絡強度計算書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（四）　電線路</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>電圧一万ボルト以上の電線路に係る次の事項</Sentence>
               <Sentence>（１）　架空、屋側、屋上、地中及びその他の別</Sentence>
               <Sentence>（２）　電気方式及び中性点接地方式</Sentence>
@@ -16910,7 +16710,7 @@
               <Sentence>（７）　地中電線路の布設方式</Sentence>
               <Sentence>（８）　保護継電装置の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ケーブルの構造図（電圧十万ボルト以上のものに係る場合に限る。）</Sentence>
               <Sentence>支持物の構造図及び強度計算書（電圧十万ボルト以上のものに係る場合に限る。また、設計条件に関する説明も併せて記載すること。）</Sentence>
               <Sentence>地中電線路の布設図</Sentence>
@@ -16925,18 +16725,18 @@
       <TableStruct>
         <Table>
           <TableRow>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>工事の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>事前届出を要するもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>一　大気汚染防止法第二条第二項に規定するばい煙発生施設に該当する電気工作物に係る工事</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>１　水力発電所におけるダムに附属する洪水吐きゲート操作用予備動力設備の設置又は改造であって原動機の出力の変更を伴うもの</Sentence>
               <Sentence>２　ガスタービン又は内燃機関の設置又は改造であって燃料の燃焼能力若しくは燃料の種類の変更を伴うもの</Sentence>
               <Sentence>３　火力発電所における微粉炭燃焼機器に係る乾燥機の設置又は改造であって乾燥能力の変更を伴うもの</Sentence>
@@ -16947,10 +16747,10 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>二　大気汚染防止法第二条第三項に規定するばい煙処理施設に該当する電気工作物に係る工事</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>１　次に掲げる設備に附属するばい煙処理設備の設置、改造であってばい煙処理能力の変更を伴うもの又は廃止</Sentence>
               <Sentence>（１）　ボイラー</Sentence>
               <Sentence>（２）　ガスタービン</Sentence>
@@ -16974,20 +16774,28 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>三　大気汚染防止法第二条第十項に規定する一般粉じん発生施設に該当する電気工作物に係る工事</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>１　火力発電所における運炭機及び灰じん輸送装置の設置若しくは改造であって運搬能力の変更を伴うもの又はこれに係る粉じん防止設備（一般粉じん発生施設から飛散する粉じんを防止するための設備をいう。）の設置若しくは改造であって粉じん飛散防止の能力の変更を伴うもの若しくは廃止</Sentence>
               <Sentence>２　火力発電所における貯炭場若しくは灰じんの堆積場の設置若しくは改造であって堆積能力の変更を伴うもの又はこれに係る粉じん防止設備の設置若しくは改造であって粉じん飛散防止能力の変更を伴うもの若しくは廃止</Sentence>
               <Sentence>３　火力発電所における破砕機、粉砕機又は摩砕機の設置若しくは改造であって能力の変更を伴うもの又はこれに係る粉じん防止設備の設置若しくは改造であって粉じん処理能力の変更を伴うもの若しくは廃止</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>四　ダイオキシン類対策特別措置法第二条第二項に規定する特定施設に該当する電気工作物に係る工事</Sentence>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+              <Sentence>四　大気汚染防止法第二条第十三項に規定する水銀排出施設に該当する電気工作物に係る工事</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+              <Sentence>大気汚染防止法第二条第十三項に規定する水銀排出施設に該当する電気工作物の設置又は改造であって、構造、使用の方法又は水銀等の処理の方法の変更を伴うもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+              <Sentence>五　ダイオキシン類対策特別措置法第二条第二項に規定する特定施設に該当する電気工作物に係る工事</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>１　発電所における廃棄物焼却炉の設置又は改造であって焼却能力の変更を伴うもの</Sentence>
               <Sentence>２　廃棄物焼却炉から発生するガスを処理する施設のうち次に掲げるもの及び当該廃棄物焼却炉において生ずる灰の貯留施設であって汚水又は廃液を排出するものの設置又は改造であって汚水又は廃液の排出量の変更を伴うもの</Sentence>
               <Sentence>（１）　廃ガス洗浄施設</Sentence>
@@ -16995,42 +16803,42 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>五　水質汚濁防止法第二条第二項に規定する特定施設に該当する電気工作物を設置する事業場の電気工作物に係る工事</Sentence>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+              <Sentence>六　水質汚濁防止法第二条第二項に規定する特定施設に該当する電気工作物を設置する事業場の電気工作物に係る工事</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>廃ガス洗浄施設（水質汚濁防止法第二条第二項に規定する特定施設に該当するものに限る。）若しくはこれに係る設備の設置又は改造であって、構造、設備（当該廃ガス洗浄施設が同法第二条第八項に規定する有害物質使用特定施設に該当しない場合又は同法第五条第二項の規定に該当する場合を除く。）、使用の方法、汚水等の処理の方法、排出水の汚染状態若しくは量（同法第四条の五第一項に規定する指定地域内事業場に係る場合にあっては、排水系統別の汚染状態若しくは量を含む。）、同法第二条第八項に規定する特定地下浸透水の浸透の方法又は用水若しくは排水の系統の変更を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>六　水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設に該当する電気工作物を設置する事業場の電気工作物に係る工事</Sentence>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+              <Sentence>七　水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設に該当する電気工作物を設置する事業場の電気工作物に係る工事</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設に該当する電気工作物の設置又は改造であって、構造、設備、使用の方法又は当該施設において貯蔵される同法第二条第二項第一号に規定する有害物質（以下「有害物質」という。）に係る搬入若しくは搬出の系統の変更を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>七　騒音規制法第二条第一項に規定する特定施設に該当する電気工作物（同法第三条第一項の規定により指定された地域内に設置するものに限る。）を設置する事業場の電気工作物に係る工事</Sentence>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+              <Sentence>八　騒音規制法第二条第一項に規定する特定施設に該当する電気工作物（同法第三条第一項の規定により指定された地域内に設置するものに限る。）を設置する事業場の電気工作物に係る工事</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>発電所、変電所、送電線路、電力用保安通信設備、需要設備若しくはこれらの設置のための事業場における空気圧縮機、送風機、通風機、破砕機、粉砕機、摩砕機、ふるい若しくは分級機（騒音規制法第二条第一項に規定する特定施設に該当するものに限る。）の設置（特定施設の種類ごとの数を当該特定施設の種類について直近に届け出た数の二倍以内の数に増加する場合を除く。）又はこれらに係る騒音防止設備の廃止若しくは改造であって騒音防止の能力の減少を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>八　振動規制法第二条第一項に規定する特定施設に該当する電気工作物（同法第三条第一項の規定により指定された地域内に設置するものに限る。）を設置する事業場の電気工作物に係る工事</Sentence>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+              <Sentence>九　振動規制法第二条第一項に規定する特定施設に該当する電気工作物（同法第三条第一項の規定により指定された地域内に設置するものに限る。）を設置する事業場の電気工作物に係る工事</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>発電所、変電所、送電線路、電力保安用通信設備、需要設備若しくはこれらの設置のための事業場における圧縮機、破砕機、粉砕機、摩砕機、ふるい若しくは分級機（振動規制法第二条第一項に規定する特定施設に該当するものに限る。）の設置若しくは改造であって能力の変更を伴うもの又はこれらに係る振動防止設備の廃止若しくは改造であって振動防止の能力の減少を伴うもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>九　鉱山保安法第二条第二項に規定する鉱山に属する工作物（海域にあり、定置式のものに限る。）に設置する電気工作物に係る工事</Sentence>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+              <Sentence>十　鉱山保安法第二条第二項に規定する鉱山に属する工作物（海域にあり、定置式のものに限る。）に設置する電気工作物に係る工事</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
               <Sentence>内燃機関（ディーゼル発電機に限る。）の設置又は改造であって、千九百七十三年の船舶による汚染の防止のための国際条約に関する千九百七十八年の議定書によって修正された同条約附属書六第三章第十三規則１．１、１．２及び１．３並びに２．１の要件を満たすもの</Sentence>
             </TableColumn>
           </TableRow>
@@ -17043,67 +16851,63 @@
       <TableStruct>
         <Table>
           <TableRow>
-            <TableColumn rowspan="2">
+            <TableColumn Valign="top" rowspan="2">
               <Sentence>電気工作物の種類</Sentence>
             </TableColumn>
-            <TableColumn colspan="2">
+            <TableColumn Valign="top" colspan="2">
               <Sentence>記載すべき事項</Sentence>
             </TableColumn>
-            <TableColumn rowspan="2">
+            <TableColumn Valign="top" rowspan="2">
               <Sentence>添付書類（届出に係る工事の内容に関係のあるものに限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>一般記載事項</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>設備別記載事項（届出に係る工事の内容に関係のあるものに限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>一　環境関連</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>事業場の名称及び位置</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（一）　ばい煙発生施設</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　ばい煙発生施設の種類、出力又は能力及び個数</Sentence>
               <Sentence>２　伝熱面積及び有効火床面積</Sentence>
               <Sentence>３　燃料の燃焼能力（重油換算）</Sentence>
               <Sentence>４　燃料の種類、硫黄分、窒素分、灰分、発熱量及び使用量</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ばい煙に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（二）　ばい煙処理施設</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　ばい煙処理設備に係る次の事項</Sentence>
               <Sentence>（１）　種類、容量及び個数</Sentence>
               <Sentence>（２）　入口及び出口のばい煙量、ばい煙濃度及びガスの温度</Sentence>
@@ -17112,122 +16916,129 @@
               <Sentence>（１）　通風機又は圧縮機の種類、容量及び個数</Sentence>
               <Sentence>（２）　煙突の種類、出口のガスの速度及び温度、口径、地表上の高さ、有効高さ並びに個数</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ばい煙に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>（三）　粉じん発生施設</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　運炭機又は灰じん輸送装置の種類、容量及び個数</Sentence>
               <Sentence>２　貯炭場又は灰じん堆積場の面積及び容量</Sentence>
               <Sentence>３　破砕機、粉砕機又は摩砕機の種類、容量及び個数</Sentence>
               <Sentence>４　粉じん防止設備の種類型式及び個数</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>粉じんに関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（四）　ダイオキシン類対策特別措置法第二条第二項に規定する特定施設</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>（四）　水銀排出施設</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>１　水銀排出施設の種類、容量及び個数</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence>水銀等に関する説明書</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn Valign="top">
+              <Sentence>（五）　ダイオキシン類対策特別措置法第二条第二項に規定する特定施設</Sentence>
+            </TableColumn>
+            <TableColumn Valign="top">
+              <Sentence/>
+            </TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　廃棄物焼却炉に係る次の事項</Sentence>
               <Sentence>（１）　廃棄物焼却炉の種類、火床面積、焼却能力及び個数</Sentence>
               <Sentence>（２）　廃ガス洗浄施設の種類、容量及び個数</Sentence>
               <Sentence>（３）　湿式集じん施設の種類、容量及び個数</Sentence>
               <Sentence>（４）　灰の貯留施設の面積及び容量</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>ダイオキシン類に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（五）　水質汚濁防止法第二条第二項に規定する特定施設</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>（六）　水質汚濁防止法第二条第二項に規定する特定施設</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　廃ガス洗浄施設の種類、容量、個数並びに用水及び排水の系統</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>汚水等に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（六）　水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>（七）　水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　有害物質貯蔵指定施設の種類、容量及び個数並びにその施設において貯蔵される有害物質に係る搬入及び搬出の系統</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>有害物質貯蔵指定施設に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（七）　騒音発生施設</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>（八）　騒音発生施設</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　空気圧縮機、送風機、通風機、破砕機、粉砕機、摩砕機、ふるい又は分級機の種類、容量及び個数</Sentence>
               <Sentence>２　騒音防止設備の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>騒音に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（八）　振動発生施設</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>（九）　振動発生施設</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　圧縮機、破砕機、粉砕機、摩砕機、ふるい又は分級機の種類、容量及び個数</Sentence>
               <Sentence>２　振動防止設備の種類</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>振動に関する説明書</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（九）　鉱山に属する工作物（海域にあり、定置式のものに限る。）に設置する電気工作物（内燃機関であって、ディーゼル発電機に限る。）</Sentence>
+            <TableColumn Valign="top">
+              <Sentence>（十）　鉱山に属する工作物（海域にあり、定置式のものに限る。）に設置する電気工作物（内燃機関であって、ディーゼル発電機に限る。）</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>
-              </Sentence>
+            <TableColumn Valign="top">
+              <Sentence/>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>１　出力又は能力及び個数</Sentence>
               <Sentence>２　燃料の種類、硫黄分及び窒素分</Sentence>
             </TableColumn>
-            <TableColumn>
+            <TableColumn Valign="top">
               <Sentence>窒素酸化物、硫黄酸化物及び燃料油の品質に関する説明書</Sentence>
             </TableColumn>
           </TableRow>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="41" Year="34">
+<Law DataInfo="200417e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="41" Year="34">
   <LawNum>昭和三十四年政令第四十一号</LawNum>
   <LawBody>
     <LawTitle>国民健康保険の国庫負担金等の算定に関する政令</LawTitle>
@@ -1196,7 +1196,7 @@
             <Subitem1 Num="4">
               <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence>法第七十二条第三項の規定による交付金（当該都道府県内の全ての市町村に係る市町村別納付金減算額に係る部分を除く。）の額</Sentence>
+                <Sentence>法第七十二条第三項の規定による交付金（当該都道府県内の全ての市町村に係る市町村別納付金減算額に係る部分及び被保険者の健康の保持増進に係る事業に要する費用に応じて交付される部分を除く。）の額</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="5">
@@ -2279,7 +2279,7 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence>法第七十二条第一項の規定による調整交付金（当該市町村に割り当てられる部分に限る。）の額及び同条第三項の規定による交付金（当該市町村に割り当てられる部分に限る。）の額の合算額</Sentence>
+              <Sentence>法第七十二条第一項の規定による調整交付金（当該市町村に割り当てられる部分に限る。）の額及び同条第三項の規定による交付金（当該市町村に割り当てられる部分（当該市町村に被保険者の健康の保持増進に係る事業に要する費用に応じて割り当てられる部分を除く。）に限る。）の額の合算額</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="4">
@@ -4235,7 +4235,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>平成三十六年三月三十一日までの間、第一条及び第五条並びに付録第一の規定を適用する場合においては、これらの規定のうち次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+            <Sentence>令和六年三月三十一日までの間、第一条及び第五条並びに付録第一の規定を適用する場合においては、これらの規定のうち次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
             <Table>
@@ -4428,7 +4428,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>平成三十六年三月三十一日までの間、都道府県（退職被保険者等所属都道府県を除く。）について、第二条、第四条、第四条の二、第九条から第十一条まで、第十九条及び第二十条の規定を適用する場合においては、これらの規定のうち次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+            <Sentence>令和六年三月三十一日までの間、都道府県（退職被保険者等所属都道府県を除く。）について、第二条、第四条、第四条の二、第九条から第十一条まで、第十九条及び第二十条の規定を適用する場合においては、これらの規定のうち次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
             <Table>
@@ -4684,7 +4684,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>平成三十六年三月三十一日までの間、退職被保険者等所属都道府県について、附則第四条第一項の規定により読み替えられた第二条及び第四条の規定、第四条の二の規定、同項の規定により読み替えられた第九条及び第十条の規定、第十一条及び第十九条の規定並びに同項の規定により読み替えられた第二十条の規定並びに附則第三条の規定を適用する場合においては、これらの規定のうち次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+            <Sentence>令和六年三月三十一日までの間、退職被保険者等所属都道府県について、附則第四条第一項の規定により読み替えられた第二条及び第四条の規定、第四条の二の規定、同項の規定により読み替えられた第九条及び第十条の規定、第十一条及び第十九条の規定並びに同項の規定により読み替えられた第二十条の規定並びに附則第三条の規定を適用する場合においては、これらの規定のうち次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
             <Table>
@@ -5065,7 +5065,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>平成三十一年度において、附則第十三条の規定により読み替えられた第五条第一項及び第五項の規定を適用する場合においては、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+            <Sentence>令和元年度において、附則第十三条の規定により読み替えられた第五条第一項及び第五項の規定を適用する場合においては、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
             <Table>
@@ -5189,7 +5189,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>平成三十一年度において、経過的組合員を組合員とする組合について、附則第十六条の規定により読み替えられた附則第十三条の規定により読み替えられた第五条の規定を適用する場合においては、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+            <Sentence>令和元年度において、経過的組合員を組合員とする組合について、附則第十六条の規定により読み替えられた附則第十三条の規定により読み替えられた第五条の規定を適用する場合においては、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
             <Table>
@@ -5275,7 +5275,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>平成三十二年度から平成三十五年度までの各年度において、経過的組合員を組合員とする組合について、附則第十三条の規定により読み替えられた第五条の規定を適用する場合においては、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+            <Sentence>令和二年度から令和五年度までの各年度において、経過的組合員を組合員とする組合について、附則第十三条の規定により読み替えられた第五条の規定を適用する場合においては、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
             <Table>
@@ -5379,7 +5379,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>都道府県は、平成三十年四月一日から平成三十六年三月三十一日までの間、財政安定化基金を、特例事業（当該都道府県内の市町村に対し、保険料の水準の著しい上昇の抑制その他国民健康保険事業の健全な運営の確保のための資金を交付する事業をいう。以下この条において同じ。）に必要な費用に充てることができるものとする。</Sentence>
+            <Sentence>都道府県は、平成三十年四月一日から令和六年三月三十一日までの間、財政安定化基金を、特例事業（当該都道府県内の市町村に対し、保険料の水準の著しい上昇の抑制その他国民健康保険事業の健全な運営の確保のための資金を交付する事業をいう。以下この条において同じ。）に必要な費用に充てることができるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -6672,262 +6672,6 @@
           <ParagraphSentence>
             <Sentence>この政令は、平成二十年四月一日から施行する。</Sentence>
           </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="23">
-        <ArticleCaption>（老人保健拠出金等に関する国民健康保険の国庫負担金等の算定に関する政令の規定の適用）</ArticleCaption>
-        <ArticleTitle>第二十三条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>平成二十九年度において、国民健康保険の国庫負担金等の算定に関する政令附則第十三条の規定により読み替えられた同令第一条及び同令附則第十五条の規定により読み替えられた同令附則第十三条の規定により読み替えられた同令第五条（同令附則第十八条の規定により読み替えて適用する場合を含む。）の規定を適用する場合においては、これらの規定のうち次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
-          </ParagraphSentence>
-          <TableStruct>
-            <Table>
-              <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence>第一条第一項</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>国民健康保険法</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>健康保険法施行令等の一部を改正する政令（平成二十年政令第百十六号。以下「改正令」という。）附則第七条の規定により読み替えられた、国民健康保険法</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>及び高齢者医療確保法の規定による病床転換支援金等（同号において「病床転換支援金等」という。）</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>、高齢者医療確保法の規定による病床転換支援金等（同号において「病床転換支援金等」という。）及び健康保険法等の一部を改正する法律（平成十八年法律第八十三号）附則第三十八条第一項の規定によりなおその効力を有するものとされた同法第七条の規定による改正前の老人保健法（昭和五十七年法律第八十号。第五条第一項第一号ロ（１）において「平成二十年四月改正前老健法」という。）の規定による拠出金（次項第一号において「老人保健拠出金」という。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>第一条第二項第一号</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>及び病床転換支援金等</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>、病床転換支援金等及び老人保健拠出金</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>第五条第一項</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>法附則第二十二条</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>改正令附則第七条の規定により読み替えられた、法附則第二十二条</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>第五条第一項第一号ロ（１）</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>及び高齢者医療確保法の規定による病床転換支援金（第八項において「病床転換支援金」という。）</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>、高齢者医療確保法の規定による病床転換支援金（第八項において「病床転換支援金」という。）及び健康保険法等の一部を改正する法律附則第三十八条第一項の規定によりなおその効力を有するものとされた平成二十年四月改正前老健法の規定による医療費拠出金（第八項において「老人保健医療費拠出金」という。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>第五条第三項</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>法附則第二十二条</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>改正令附則第七条の規定により読み替えられた、法附則第二十二条</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>第五条第八項</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>及び病床転換支援金</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>、病床転換支援金及び老人保健医療費拠出金</Sentence>
-                </TableColumn>
-              </TableRow>
-            </Table>
-          </TableStruct>
-        </Paragraph>
-      </Article>
-      <Article Num="24">
-        <ArticleTitle>第二十四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>平成二十八年度及び平成二十九年度において、市町村（特別区を含み、退職被保険者等所属市町村を除く。）について、国民健康保険の国庫負担金等の算定に関する政令附則第十四条第一項の規定により読み替えられた同令第二条、第四条及び第四条の二の規定を適用する場合においては、これらの規定のうち次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
-          </ParagraphSentence>
-          <TableStruct>
-            <Table>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>第二条第一項</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>法附則第二十二条</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>健康保険法施行令等の一部を改正する政令（平成二十年政令第百十六号）附則第八条の規定により読み替えられた、法附則第二十二条</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>第二条第一項第二号</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>及び高齢者医療確保法の規定による病床転換支援金（第四条第二項及び第四条の二第一項において「病床転換支援金」という。）</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>、高齢者医療確保法の規定による病床転換支援金（第四条第二項及び第四条の二第一項において「病床転換支援金」という。）及び健康保険法等の一部を改正する法律（平成十八年法律第八十三号）附則第三十八条第一項の規定によりなおその効力を有するものとされた同法第七条の規定による改正前の老人保健法（昭和五十七年法律第八十号）の規定による医療費拠出金（第四条第二項及び第四条の二第一項において「老人保健医療費拠出金」という。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>第四条第二項第二号イ及び第四条の二第一項第一号ロ（１）</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>及び病床転換支援金</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>、病床転換支援金及び老人保健医療費拠出金</Sentence>
-                </TableColumn>
-              </TableRow>
-            </Table>
-          </TableStruct>
-        </Paragraph>
-      </Article>
-      <Article Num="25">
-        <ArticleTitle>第二十五条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>平成二十八年度及び平成二十九年度において、退職被保険者等所属市町村について、国民健康保険の国庫負担金等の算定に関する政令附則第十四条第二項の規定により読み替えられた、同令附則第四条の規定により読み替えられた同令第二条、第四条及び第四条の二の規定並びに同令附則第十四条第二項の規定により読み替えられた同令附則第三条の規定を適用する場合においては、これらの規定のうち次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
-          </ParagraphSentence>
-          <TableStruct>
-            <Table>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>第二条第一項</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>法附則第二十二条の規定により読み替えられた、</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>健康保険法施行令等の一部を改正する政令（平成二十年政令第百十六号。以下この項及び附則第三条において「改正令」という。）附則第九条の規定により読み替えられた、法附則第二十二条の規定により読み替えられた、</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn rowspan="3">
-                  <Sentence>第二条第一項第二号</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>及び高齢者医療確保法の規定による病床転換支援金（以下「病床転換支援金」という。）</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>、高齢者医療確保法の規定による病床転換支援金（以下「病床転換支援金」という。）及び健康保険法等の一部を改正する法律（平成十八年法律第八十三号）附則第三十八条第一項の規定によりなおその効力を有するものとされた同法第七条の規定による改正前の老人保健法（昭和五十七年法律第八十号）の規定による医療費拠出金（第四条第二項及び第四条の二第一項において「老人保健医療費拠出金」という。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>法附則第二十二条の規定により読み替えられた法</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>改正令附則第九条の規定により読み替えられた、法附則第二十二条の規定により読み替えられた法</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>病床転換支援金の額</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>病床転換支援金の額並びに改正令附則第九条の規定により読み替えられた、法附則第二十二条の規定により読み替えられた法附則第七条第一項第二号に規定する負担調整前老人保健医療費拠出金相当額（以下「負担調整前老人保健医療費拠出金相当額」という。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence>第四条第二項第二号イ及び第四条の二第一項第一号ロ（１）</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>及び病床転換支援金の納付</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>、病床転換支援金及び老人保健医療費拠出金の納付</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>病床転換支援金の額</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>病床転換支援金の額並びに負担調整前老人保健医療費拠出金相当額</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>附則第三条第一項</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>法附則第二十二条の規定により読み替えられた法附則第七条第一項の</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>改正令附則第九条の規定により読み替えられた、法附則第二十二条の規定により読み替えられた法附則第七条第一項の</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>附則第三条第一項第一号</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>法附則第二十二条</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>改正令附則第九条の規定により読み替えられた、法附則第二十二条</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn rowspan="2">
-                  <Sentence>附則第三条第一項第二号</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>法附則第二十二条</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>改正令附則第九条の規定により読み替えられた、法附則第二十二条</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>病床転換支援金の額</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>病床転換支援金の額並びに負担調整前老人保健医療費拠出金相当額</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>附則第三条第二項</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>法附則第二十二条</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>改正令附則第九条の規定により読み替えられた、法附則第二十二条</Sentence>
-                </TableColumn>
-              </TableRow>
-            </Table>
-          </TableStruct>
         </Paragraph>
       </Article>
     </SupplProvision>
@@ -8814,7 +8558,7 @@
         </Paragraph>
       </Article>
       <Article Num="3">
-        <ArticleCaption>（平成三十年度から平成三十三年度までの各年度における特別高額医療費共同事業拠出金の額の算定の特例）</ArticleCaption>
+        <ArticleCaption>（平成三十年度から令和三年度までの各年度における特別高額医療費共同事業拠出金の額の算定の特例）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
@@ -8849,7 +8593,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>平成三十一年度の特別高額医療費共同事業拠出金のうち、特別高額医療費共同事業事業費拠出金の額は、改正後国保算定政令第二十六条の規定にかかわらず、各都道府県につき、第一号に掲げる額に第二号に掲げる率を乗じて得た額を基準として、指定法人が定める。</Sentence>
+            <Sentence>令和元年度の特別高額医療費共同事業拠出金のうち、特別高額医療費共同事業事業費拠出金の額は、改正後国保算定政令第二十六条の規定にかかわらず、各都道府県につき、第一号に掲げる額に第二号に掲げる率を乗じて得た額を基準として、指定法人が定める。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -8879,7 +8623,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>平成三十二年度の特別高額医療費共同事業拠出金のうち、特別高額医療費共同事業事業費拠出金の額は、改正後国保算定政令第二十六条の規定にかかわらず、各都道府県につき、第一号に掲げる額に第二号に掲げる率を乗じて得た額を基準として、指定法人が定める。</Sentence>
+            <Sentence>令和二年度の特別高額医療費共同事業拠出金のうち、特別高額医療費共同事業事業費拠出金の額は、改正後国保算定政令第二十六条の規定にかかわらず、各都道府県につき、第一号に掲げる額に第二号に掲げる率を乗じて得た額を基準として、指定法人が定める。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -8909,7 +8653,7 @@
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>平成三十三年度の特別高額医療費共同事業拠出金のうち、特別高額医療費共同事業事業費拠出金の額は、改正後国保算定政令第二十六条の規定にかかわらず、各都道府県につき、第一号に掲げる額に第二号に掲げる率を乗じて得た額を基準として、指定法人が定める。</Sentence>
+            <Sentence>令和三年度の特別高額医療費共同事業拠出金のうち、特別高額医療費共同事業事業費拠出金の額は、改正後国保算定政令第二十六条の規定にかかわらず、各都道府県につき、第一号に掲げる額に第二号に掲げる率を乗じて得た額を基準として、指定法人が定める。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -8925,13 +8669,13 @@
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence>平成二十九年度において改正前国保法第八十一条の二第六項の規定に基づき指定法人から当該都道府県に交付した交付金の額並びに平成三十年度及び平成三十一年度において改正後国保法第八十一条の三第一項の規定に基づき指定法人から当該都道府県に交付した交付金の額の合算額の合算額</Sentence>
+                <Sentence>平成二十九年度において改正前国保法第八十一条の二第六項の規定に基づき指定法人から当該都道府県に交付した交付金の額並びに平成三十年度及び令和元年度において改正後国保法第八十一条の三第一項の規定に基づき指定法人から当該都道府県に交付した交付金の額の合算額の合算額</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence>平成二十九年度において改正前国保法第八十一条の二第六項の規定に基づき指定法人から交付した交付金の額の総額並びに平成三十年度及び平成三十一年度において改正後国保法第八十一条の三第一項の規定に基づき指定法人から交付した交付金の額の総額の合算額の合算額</Sentence>
+                <Sentence>平成二十九年度において改正前国保法第八十一条の二第六項の規定に基づき指定法人から交付した交付金の額の総額並びに平成三十年度及び令和元年度において改正後国保法第八十一条の三第一項の規定に基づき指定法人から交付した交付金の額の総額の合算額の合算額</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -8954,6 +8698,19 @@
           <Sentence>この政令の施行の日前に行われた療養に係る国民健康保険法施行令第二十九条の二の規定による高額療養費及び同令第二十九条の四の二の規定による高額介護合算療養費の支給については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年三月二二日政令第五五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、平成三十年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="平成三〇年三月二二日政令第五八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -8986,18 +8743,24 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年三月二二日政令第五五号" Extract="true">
+    <SupplProvision AmendLawNum="平成三〇年三月二六日政令第六三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>この政令は、平成三十年四月一日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、平成三十年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第一〇〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一</AppdxTableTitle>

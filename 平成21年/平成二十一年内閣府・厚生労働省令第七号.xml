@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Heisei" Lang="ja" LawType="Misc" Num="7" Year="21">
+<Law DataInfo="200515e81k80m01" Era="Heisei" Lang="ja" LawType="Misc" Num="7" Year="21">
   <LawNum>平成二十一年内閣府・厚生労働省令第七号</LawNum>
   <LawBody>
     <LawTitle>食品衛生法に基づく都道府県等食品衛生監視指導計画等に関する命令</LawTitle>
@@ -148,12 +148,41 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日内閣府・厚生労働省令第五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令は、健康増進法の一部を改正する法律（平成三十年法律第七十八号）の施行の日（令和二年四月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令の施行の際現にあるこの命令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この命令による改正後の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この命令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000028303.pdf"/>
+          <Fig src="./pict/_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -162,7 +191,7 @@
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025271.pdf"/>
+          <Fig src="./pict/_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -171,7 +200,7 @@
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3FH00000035879.pdf"/>
+          <Fig src="./pict/_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

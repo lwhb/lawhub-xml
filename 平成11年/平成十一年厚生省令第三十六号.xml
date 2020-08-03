@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="191210e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="36" Year="11">
+<Law DataInfo="200515e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="36" Year="11">
   <LawNum>平成十一年厚生省令第三十六号</LawNum>
   <LawBody>
     <LawTitle>介護保険法施行規則</LawTitle>
@@ -6708,7 +6708,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">都道府県知事は、法第六十九条の六の規定により登録を消除したときは、その理由を示して、その登録の消除に係る者、相続人、後見人又は保佐人に通知しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">都道府県知事は、法第六十九条の六の規定により登録を消除したときは、その理由を示して、その登録の消除に係る者、相続人、法定代理人又は同居の親族に通知しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -23471,6 +23471,42 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日厚生労働省令第六四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和二年七月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中介護保険法施行規則第百十三条の十四の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中介護保険法施行規則第三十四条の五の次に一条を加える改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和二年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第百四十条の四十五、第百四十条の四十七関係）</RelatedArticleNum>
@@ -24792,7 +24828,7 @@
       <RelatedArticleNum>（第二十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025063.pdf"/>
+          <Fig src="./pict/_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24801,7 +24837,7 @@
       <RelatedArticleNum>（第二十八条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025064.pdf"/>
+          <Fig src="./pict/_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24810,7 +24846,7 @@
       <RelatedArticleNum>（第八十三条の六関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025065.pdf"/>
+          <Fig src="./pict/_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24819,7 +24855,7 @@
       <RelatedArticleNum>（第百七十二条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025066.pdf"/>
+          <Fig src="./pict/_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24828,7 +24864,7 @@
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025067.pdf"/>
+          <Fig src="./pict/_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24837,7 +24873,7 @@
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025068.pdf"/>
+          <Fig src="./pict/_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24846,7 +24882,7 @@
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025069.pdf"/>
+          <Fig src="./pict/_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24855,7 +24891,7 @@
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025070.pdf"/>
+          <Fig src="./pict/_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24864,7 +24900,7 @@
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025071.pdf"/>
+          <Fig src="./pict/_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24873,7 +24909,7 @@
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025072.pdf"/>
+          <Fig src="./pict/_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24882,7 +24918,7 @@
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025073.pdf"/>
+          <Fig src="./pict/_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24891,7 +24927,7 @@
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025074.pdf"/>
+          <Fig src="./pict/_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24900,7 +24936,7 @@
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025075.pdf"/>
+          <Fig src="./pict/_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24909,7 +24945,7 @@
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025076.pdf"/>
+          <Fig src="./pict/_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24918,7 +24954,7 @@
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025077.pdf"/>
+          <Fig src="./pict/_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24927,7 +24963,7 @@
       <RelatedArticleNum>（第百六十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025078.pdf"/>
+          <Fig src="./pict/_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24936,7 +24972,7 @@
       <RelatedArticleNum>（附則第八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3FH00000036690.pdf"/>
+          <Fig src="./pict/_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24945,7 +24981,7 @@
       <RelatedArticleNum>（第百十三条の二十一関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000009736.pdf"/>
+          <Fig src="./pict/_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24954,7 +24990,7 @@
       <RelatedArticleNum>（第二十二条の二十五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000020521.pdf"/>
+          <Fig src="./pict/_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24963,7 +24999,7 @@
       <RelatedArticleNum>（第二十二条の二十五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000020522.pdf"/>
+          <Fig src="./pict/_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24972,7 +25008,7 @@
       <RelatedArticleNum>（第二十二条の三十二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000009412.pdf"/>
+          <Fig src="./pict/_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -24981,7 +25017,7 @@
       <RelatedArticleNum>（第百四十条の五十六関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3FH00000036694.pdf"/>
+          <Fig src="./pict/_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

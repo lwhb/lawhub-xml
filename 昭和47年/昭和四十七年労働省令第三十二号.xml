@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200525e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="32" Year="47">
+<Law DataInfo="200515e81k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="32" Year="47">
   <LawNum>昭和四十七年労働省令第三十二号</LawNum>
   <LawBody>
     <LawTitle>労働安全衛生規則</LawTitle>
@@ -3640,13 +3640,7 @@
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">胸高直径が七十センチメートル以上の立木の伐木、胸高直径が二十センチメートル以上で、かつ、重心が著しく偏している立木の伐木、つりきりその他特殊な方法による伐木又はかかり木でかかつている木の胸高直径が二十センチメートル以上であるものの処理の業務（第六号の二に掲げる業務を除く。）</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="8_2">
-                <ItemTitle>八の二</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">チェーンソーを用いて行う立木の伐木、かかり木の処理又は造材の業務（前号に掲げる業務を除く。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">チェーンソーを用いて行う立木の伐木、かかり木の処理又は造材の業務</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="9">
@@ -3833,7 +3827,7 @@
               <Item Num="28_2">
                 <ItemTitle>二十八の二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">加工施設（核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）第十三条第二項第二号に規定する加工施設をいう。）、再処理施設（同法第四十四条第二項第二号に規定する再処理施設をいう。）又は使用施設等（同法第五十三条第二号に規定する使用施設等（核原料物質、核燃料物質及び原子炉の規制に関する法律施行令（昭和三十二年政令第三百二十四号）第四十一条に規定する核燃料物質の使用施設等に限る。）をいう。）の管理区域（電離放射線障害防止規則（昭和四十七年労働省令第四十一号。以下「電離則」という。）第三条第一項に規定する管理区域をいう。次号において同じ。）内において核燃料物質（原子力基本法（昭和三十年法律第百八十六号）第三条第二号に規定する核燃料物質をいう。次号において同じ。）若しくは使用済燃料（核原料物質、核燃料物質及び原子炉の規制に関する法律第二条第十項に規定する使用済燃料をいう。次号において同じ。）又はこれらによつて汚染された物（原子核分裂生成物を含む。次号において同じ。）を取り扱う業務</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">加工施設（核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）第十三条第二項第二号に規定する加工施設をいう。）、再処理施設（同法第四十四条第二項第二号に規定する再処理施設をいう。）又は使用施設等（同法第五十二条第二項第十号に規定する使用施設等（核原料物質、核燃料物質及び原子炉の規制に関する法律施行令（昭和三十二年政令第三百二十四号）第四十一条に規定する核燃料物質の使用施設等に限る。）をいう。）の管理区域（電離放射線障害防止規則（昭和四十七年労働省令第四十一号。以下「電離則」という。）第三条第一項に規定する管理区域をいう。次号において同じ。）内において核燃料物質（原子力基本法（昭和三十年法律第百八十六号）第三条第二号に規定する核燃料物質をいう。次号において同じ。）若しくは使用済燃料（核原料物質、核燃料物質及び原子炉の規制に関する法律第二条第十項に規定する使用済燃料をいう。次号において同じ。）又はこれらによつて汚染された物（原子核分裂生成物を含む。次号において同じ。）を取り扱う業務</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="28_3">
@@ -15673,39 +15667,40 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">鋼材の許容座屈応力の値は、次の式により計算を行つて得た値以下とすること。</Sentence> </ItemSentence>
-                    <List>
+                    <Sentence Num="1" WritingMode="vertical">鋼材の許容座屈応力の値は、次の式により計算を行つて得た値以下とすること。</Sentence>
+</ItemSentence>
+                   <List>
 <ListSentence>
                     <Sentence Num="2" WritingMode="vertical">
                       <ArithFormula>ｌ／ｉ≦Λ</ArithFormula>の場合</Sentence>
-                      </ListSentence>
+</ListSentence>
 </List>
-                      <List>
+                   <List>
 <ListSentence>
                     <Sentence Num="3" WritingMode="vertical">
                       <ArithFormula>бｃ＝（（１－０．４（（ｌ／ｉ）／Λ）<Sup>２</Sup>）／ν）Ｆ</ArithFormula>
                     </Sentence>
-                    </ListSentence>
+</ListSentence>
 </List>
-                      <List>
+                   <List>
 <ListSentence>
                     <Sentence Num="4" WritingMode="vertical">
                       <ArithFormula>ｌ／ｉ＞Λ</ArithFormula>の場合</Sentence>
-                      </ListSentence>
+</ListSentence>
 </List>
-                      <List>
+                   <List>
 <ListSentence>
                     <Sentence Num="5" WritingMode="vertical">
                       <ArithFormula>бｃ＝（０．２９／（（ｌ／ｉ）／Λ）<Sup>２</Sup>）Ｆ</ArithFormula>
                     </Sentence>
-                    </ListSentence>
+</ListSentence>
 </List>
-                      <List>
+                   <List>
 <ListSentence>
                     <Sentence Num="6" WritingMode="vertical">（これらの式において、ｌ、ｉ、<ArithFormula>Λ</ArithFormula>、<ArithFormula>бｃ</ArithFormula>、<ArithFormula>ν</ArithFormula>及びＦは、それぞれ次の値を表すものとする。</Sentence>
-                    </ListSentence>
+</ListSentence>
 </List>
-                      <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ｌ</Sentence>
@@ -15716,9 +15711,9 @@
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
                     </Column>
-                    </ListSentence>
+</ListSentence>
 </List>
-                      <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ｉ</Sentence>
@@ -15729,9 +15724,9 @@
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
                     </Column>
-                    </ListSentence>
+</ListSentence>
 </List>
-                      <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">
@@ -15743,9 +15738,9 @@
                         <ArithFormula>限界細長比＝√（π<Sup>２</Sup>Ｅ／０．６Ｆ）</ArithFormula>
                       </Sentence>
                     </Column>
-                    </ListSentence>
+</ListSentence>
 </List>
-                      <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ただし、π</Sentence>
@@ -15753,9 +15748,9 @@
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">円周率</Sentence>
                     </Column>
-                    </ListSentence>
+</ListSentence>
 </List>
-                      <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">Ｅ</Sentence>
@@ -15766,9 +15761,9 @@
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル）</Sentence>
                     </Column>
-                    </ListSentence>
+</ListSentence>
 </List>
-                      <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">
@@ -15781,9 +15776,9 @@
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル）</Sentence>
                     </Column>
-                    </ListSentence>
+</ListSentence>
 </List>
-                      <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">
@@ -15796,9 +15791,9 @@
                         </ArithFormula>
                       </Sentence>
                     </Column>
-                    </ListSentence>
+</ListSentence>
 </List>
-                      <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">Ｆ</Sentence>
@@ -15809,7 +15804,7 @@
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル））</Sentence>
                     </Column>
-                    </ListSentence>
+</ListSentence>
 </List>
                   </Item>
                 <Item Num="4">
@@ -15901,8 +15896,8 @@
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
                     <Sentence Num="1" WritingMode="vertical">木材の繊維方向の許容座屈応力の値は、次の式により計算を行つて得た値以下とすること。</Sentence>
-                    </ItemSentence>
-                    <List>
+</ItemSentence>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">
@@ -15913,9 +15908,9 @@
                         <ArithFormula>ｆ<Sub>ｋ</Sub>＝ｆ<Sub>ｃ</Sub>（１－０．００７（ｌ<Sub>ｋ</Sub>／ｉ））</ArithFormula>
                       </Sentence>
                     </Column>
-                    </ListSentence>
+</ListSentence>
 </List>
-                    <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">
@@ -15926,11 +15921,11 @@
                         <ArithFormula>ｆ<Sub>ｋ</Sub>＝０．３ｆ<Sub>ｃ</Sub>／（ｌ<Sub>ｋ</Sub>／１００ｉ）<Sup>２</Sup>
                         </ArithFormula>
                       </Sentence>
-                      <Sentence Num="2" WritingMode="vertical">（これらの式において、ｌ<Sub>ｋ</Sub>、ｉ、ｆ<Sub>ｃ</Sub>及びｆ<Sub>ｋ</Sub>は、それぞれ次の値を表すものとする。</Sentence>
+                      <Sentence Num="2" WritingMode="vertical"> （これらの式において、ｌ<Sub>ｋ</Sub>、ｉ、ｆ<Sub>ｃ</Sub>及びｆ<Sub>ｋ</Sub>は、それぞれ次の値を表すものとする。</Sentence>
                     </Column>
-                     </ListSentence>
+</ListSentence>
 </List>
-                    <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ｌ<Sub>ｋ</Sub>
@@ -15942,9 +15937,9 @@
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
                     </Column>
-                     </ListSentence>
+</ListSentence>
 </List>
-                    <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ｉ</Sentence>
@@ -15955,9 +15950,9 @@
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">センチメートル）</Sentence>
                     </Column>
-                     </ListSentence>
+</ListSentence>
 </List>
-                    <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ｆ<Sub>ｃ</Sub>
@@ -15969,9 +15964,9 @@
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル）</Sentence>
                     </Column>
-                     </ListSentence>
+</ListSentence>
 </List>
-                    <List>
+                   <List>
 <ListSentence>
                     <Column Num="1">
                       <Sentence Num="1" WritingMode="vertical">ｆ<Sub>ｋ</Sub>
@@ -15983,9 +15978,9 @@
                     <Column Num="3">
                       <Sentence Num="1" WritingMode="vertical">ニュートン毎平方センチメートル））</Sentence>
                     </Column>
-                    </ListSentence>
+</ListSentence>
 </List>
-                </Item>
+                  </Item>
               </Paragraph>
             </Article>
             <Article Num="242">
@@ -30125,12 +30120,12 @@
         </Paragraph>
       </Article>
       <Article Num="5">
-       <ArticleTitle>第五条</ArticleTitle>
+        <ArticleTitle>第五条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">昭和六十三年十月一日から昭和六十四年九月三十日までの間における新安衛則様式第十一号及び第十二号の適用については、新安衛則様式第十一号（表面）中「
-                    <QuoteStruct>
+          <QuoteStruct>
             <Table WritingMode="vertical">
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderRight="solid">
@@ -30153,10 +30148,10 @@
                 </TableColumn>
               </TableRow>
             </Table>
-           </QuoteStruct>
+          </QuoteStruct>
           」と、新安衛則様式第十二号（１）中「
-           <QuoteStruct>
-             <Table WritingMode="vertical">
+          <QuoteStruct>
+            <Table WritingMode="vertical">
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderRight="solid">
                   <Sentence Num="1" WritingMode="vertical">二　衛生管理</Sentence>
@@ -30168,7 +30163,8 @@
                 </TableColumn>
               </TableRow>
             </Table>
-          </QuoteStruct>」とあるのは「
+          </QuoteStruct>
+          」とあるのは「
           <QuoteStruct>
             <Table WritingMode="vertical">
               <TableRow>
@@ -30177,7 +30173,8 @@
                 </TableColumn>
               </TableRow>
             </Table>
-          </QuoteStruct>」と、同様式（２）中「
+          </QuoteStruct>
+          」と、同様式（２）中「
           <QuoteStruct>
             <Table WritingMode="vertical">
               <TableRow>
@@ -30205,8 +30202,9 @@
                 </TableColumn>
               </TableRow>
             </Table>
-         </QuoteStruct>」とあるのは「
-         <QuoteStruct>
+          </QuoteStruct>
+          」とあるのは「
+          <QuoteStruct>
             <Table WritingMode="vertical">
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderRight="solid">
@@ -30225,8 +30223,8 @@
                 </TableColumn>
               </TableRow>
             </Table>
-          </QuoteStruct>」とする。
-          </Sentence>
+          </QuoteStruct>
+          」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -33728,6 +33726,54 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三日厚生労働省令第二〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和二年七月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にこの省令による改正前のそれぞれの省令（次項において「旧省令」という。）の規定によりされている報告は、この省令による改正後のそれぞれの省令の規定による報告とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある旧省令に定める様式による用紙については、合理的に必要と認められる範囲内で、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日厚生労働省令第六六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律（平成二十九年法律第十五号）の施行の日（令和二年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
@@ -43412,7 +43458,7 @@
       <RelatedArticleNum>（第２条、第４条、第７条、第１３条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025722.pdf"/>
+          <Fig src="./pict/2FH00000032210.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43429,7 +43475,7 @@
       <RelatedArticleNum>（第３４条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025730.pdf"/>
+          <Fig src="./pict/2FH00000025740.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43438,7 +43484,7 @@
       <RelatedArticleNum>（第３４条の５、第３４条の８、第３４条の１０関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025731.pdf"/>
+          <Fig src="./pict/2FH00000025739.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43465,7 +43511,7 @@
       <RelatedArticleNum>（第５２条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025723.pdf"/>
+          <Fig src="./pict/2FH00000032214.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43474,7 +43520,7 @@
       <RelatedArticleNum>（第５２条の２１関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025724.pdf"/>
+          <Fig src="./pict/2FH00000025749.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43483,7 +43529,7 @@
       <RelatedArticleNum>（第５３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025732.pdf"/>
+          <Fig src="./pict/2FH00000025741.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43492,7 +43538,7 @@
       <RelatedArticleNum>（第５４条関係）（１）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027957.pdf"/>
+          <Fig src="./pict/2FH00000032212.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43501,7 +43547,7 @@
       <RelatedArticleNum>（第５７条関係）（１）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000022846.pdf"/>
+          <Fig src="./pict/2FH00000032221.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43510,7 +43556,7 @@
       <RelatedArticleNum>（第５８条、第５９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027958.pdf"/>
+          <Fig src="./pict/2FH00000027962.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43528,7 +43574,7 @@
       <RelatedArticleNum>（第６６条の３、第６７条関係）　（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025726.pdf"/>
+          <Fig src="./pict/2FH00000025750.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43537,7 +43583,7 @@
       <RelatedArticleNum>（第６７条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025727.pdf"/>
+          <Fig src="./pict/2FH00000025751.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43636,7 +43682,7 @@
       <RelatedArticleNum>（第８７条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025735.pdf"/>
+          <Fig src="./pict/2FH00000025744.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43645,7 +43691,7 @@
       <RelatedArticleNum>（第８７条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025736.pdf"/>
+          <Fig src="./pict/2FH00000025745.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43654,7 +43700,7 @@
       <RelatedArticleNum>（第８７条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025737.pdf"/>
+          <Fig src="./pict/2FH00000025746.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43703,7 +43749,7 @@
       <RelatedArticleNum>（第９５条の６関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027959.pdf"/>
+          <Fig src="./pict/2FH00000027964.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -43721,7 +43767,7 @@
       <RelatedArticleNum>（第９７条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025729.pdf"/>
+          <Fig src="./pict/2FH00000025766.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

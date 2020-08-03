@@ -123,7 +123,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">無菌充填豆腐（食品、添加物等の規格基準（昭和三十四年厚生省告示第三百七十号第１食品の部Ｄ各条の項の豆腐に規定する無菌充填豆腐をいう。）</Sentence>
+                <Sentence WritingMode="vertical">無菌充填豆腐（食品、添加物等の規格基準（昭和三十四年厚生省告示第三百七十号）第１食品の部Ｄ各条の項の豆腐に規定する無菌充填豆腐をいう。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="3">
@@ -159,8 +159,7 @@
             <Subitem1 Delete="false" Hide="false" Num="8">
               <Subitem1Title>チ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">切り身又はむき身にした魚介類（生かき及びふぐを原材料とするふぐ加工品（軽度の<Ruby>撒<Rt>さん</Rt>
-</Ruby>塩を行ったものを除く。）を除く。）であって、生食用のもの（凍結させたものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">切り身又はむき身にした魚介類（生かき及びふぐを原材料とするふぐ加工品を除く。）であって、生食用のもの（凍結させたものを除く。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="9">
@@ -178,8 +177,7 @@
             <Subitem1 Delete="false" Hide="false" Num="11">
               <Subitem1Title>ル</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">ふぐを原材料とするふぐ加工品（軽度の<Ruby>撒<Rt>さん</Rt>
-</Ruby>塩を行ったものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">ふぐを原材料とするふぐ加工品</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="12">
@@ -374,6 +372,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この命令は、食品衛生法等の一部を改正する法律及び食品衛生法施行令及び厚生労働省組織令の一部を改正する政令の施行の日（令和二年六月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月一六日内閣府・農林水産省令第一一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この命令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

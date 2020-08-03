@@ -30,10 +30,10 @@
             <Sentence WritingMode="vertical">保護観察所に、企画調整課を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
-        <Paragraph Num="2">
+        <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>前項に掲げる課のほか、東京保護観察所及び大阪保護観察所に、それぞれ民間活動支援専門官一人、首席保護観察官二人及び首席社会復帰調整官一人を、名古屋保護観察所に、民間活動支援専門官一人、首席保護観察官一人及び首席社会復帰調整官一人を、横浜保護観察所に、民間活動支援専門官一人及び首席保護観察官一人を、福岡保護観察所に首席保護観察官一人及び首席社会復帰調整官一人を、神戸保護観察所に首席保護観察官一人を、札幌保護観察所、仙台保護観察所及び広島保護観察所に、それぞれ首席社会復帰調整官一人を置く。</Sentence>
+            <Sentence WritingMode="vertical">前項に掲げる課のほか、東京保護観察所及び大阪保護観察所に、それぞれ民間活動支援専門官一人、首席保護観察官二人及び首席社会復帰調整官一人を、横浜保護観察所及び名古屋保護観察所に、それぞれ民間活動支援専門官一人、首席保護観察官一人及び首席社会復帰調整官一人を、福岡保護観察所に首席保護観察官一人及び首席社会復帰調整官一人を、神戸保護観察所に首席保護観察官一人を、札幌保護観察所、仙台保護観察所、さいたま保護観察所、千葉保護観察所及び広島保護観察所に、それぞれ首席社会復帰調整官一人を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -120,7 +120,7 @@
           <Item Delete="false" Hide="false" Num="13">
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前各号に掲げるもののほか、保護観察所の所掌事務で他の所掌に属しないものに関すること（札幌保護観察所、仙台保護観察所及び広島保護観察所の企画調整課においては第四条第一項各号に掲げる事務を、横浜保護観察所及び神戸保護観察所の企画調整課においては第五条各号に掲げる事務を、その他の保護観察所（東京保護観察所、名古屋保護観察所、大阪保護観察所及び福岡保護観察所を除く。）の企画調整課においては第四条第一項各号及び第五条各号に掲げる事務をそれぞれ除く。）。</Sentence>
+              <Sentence WritingMode="vertical">前各号に掲げるもののほか、保護観察所の所掌事務で他の所掌に属しないものに関すること（札幌保護観察所、仙台保護観察所、さいたま保護観察所、千葉保護観察所及び広島保護観察所の企画調整課においては第四条第一項各号に掲げる事務を、神戸保護観察所の企画調整課においては第五条各号に掲げる事務を、その他の保護観察所（東京保護観察所、横浜保護観察所、名古屋保護観察所、大阪保護観察所及び福岡保護観察所を除く。）の企画調整課においては第四条第一項各号及び第五条各号に掲げる事務をそれぞれ除く。）。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -319,7 +319,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">保護観察所及びその支部を通じて統括保護観察官百六十二人以内を置く。</Sentence>
+            <Sentence WritingMode="vertical">保護観察所及びその支部を通じて統括保護観察官百七十四人以内を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -341,7 +341,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">保護観察所及びその支部を通じて統括社会復帰調整官二十七人以内を置く。</Sentence>
+            <Sentence WritingMode="vertical">保護観察所及びその支部を通じて統括社会復帰調整官三十人以内を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -509,6 +509,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成三十年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三十一年三月二十九日法務省令第二十三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成三十一年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

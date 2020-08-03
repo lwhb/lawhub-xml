@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200708e03k03m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="73" Year="25">
+<Law DataInfo="200710e03k03m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="73" Year="25">
   <LawNum>昭和二十五年農林省令第七十三号</LawNum>
   <LawBody>
     <LawTitle>植物防疫法施行規則</LawTitle>
@@ -4029,6 +4029,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月一一日農林水産省令第三五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和二年十一月十一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、別表一の改正規定中「Haplothrips nigricornis」、「Haplothrips robustus」、「Phenacoccus solenopsis」、「Helix aspersa」及び「Grapevine vein necrosis」を削る部分、別表一の二の改正規定中「、エスワティニ」、「、北マケドニア共和国」及び「、カーボベルデ」を加える部分並びに「、スワジランド」、「、マケドニア旧ユーゴスラビア共和国」及び「、カーボヴェルデ」を削る部分、別表二の改正規定中「、北マケドニア共和国」及び「、エスワティニ」を加える部分並びに「、マケドニア旧ユーゴスラビア共和国」及び「、スワジランド」を削る部分並びに別表二の二の改正規定中「、北マケドニア共和国」を加える部分及び「、マケドニア旧ユーゴスラビア共和国」を削る部分は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表一</AppdxTableTitle>
       <RelatedArticleNum>（第五条の二関係）</RelatedArticleNum>
@@ -4379,8 +4389,6 @@
               <Sentence WritingMode="vertical">Haplothrips anceps</Sentence>
               <Sentence WritingMode="vertical">Haplothrips clarisetis</Sentence>
               <Sentence WritingMode="vertical">Haplothrips froggatti</Sentence>
-              <Sentence WritingMode="vertical">Haplothrips nigricornis</Sentence>
-              <Sentence WritingMode="vertical">Haplothrips robustus</Sentence>
               <Sentence WritingMode="vertical">Haplothrips varius</Sentence>
               <Sentence WritingMode="vertical">Hedya nubiferana</Sentence>
               <Sentence WritingMode="vertical">Helicoverpa punctigera</Sentence>
@@ -4541,7 +4549,6 @@
               <Sentence WritingMode="vertical">Phenacoccus gregosus</Sentence>
               <Sentence WritingMode="vertical">Phenacoccus hakeae</Sentence>
               <Sentence WritingMode="vertical">Phenacoccus manihoti</Sentence>
-              <Sentence WritingMode="vertical">Phenacoccus solenopsis</Sentence>
               <Sentence WritingMode="vertical">Phenacoccus stelli</Sentence>
               <Sentence WritingMode="vertical">Phloeosinus cupressi</Sentence>
               <Sentence WritingMode="vertical">Phloeosinus punctatus</Sentence>
@@ -4807,7 +4814,6 @@
               <Sentence WritingMode="vertical">Cochlicella barbara</Sentence>
               <Sentence WritingMode="vertical">Deroceras reticulatum</Sentence>
               <Sentence WritingMode="vertical">Helix aperta</Sentence>
-              <Sentence WritingMode="vertical">Helix aspersa</Sentence>
               <Sentence WritingMode="vertical">Mariaella dussumieri</Sentence>
               <Sentence WritingMode="vertical">Succinea erythrophana</Sentence>
               <Sentence WritingMode="vertical">Succinea putris</Sentence>
@@ -5113,7 +5119,6 @@
               <Sentence WritingMode="vertical">Citrus impietratura</Sentence>
               <Sentence WritingMode="vertical">Elm zonate canker</Sentence>
               <Sentence WritingMode="vertical">Grapevine asteroid mosaic</Sentence>
-              <Sentence WritingMode="vertical">Grapevine vein necrosis</Sentence>
               <Sentence WritingMode="vertical">Krikon stem necrosis</Sentence>
               <Sentence WritingMode="vertical">Peach purple mosaic</Sentence>
               <Sentence WritingMode="vertical">Peach seedling chlorosis</Sentence>
@@ -5148,7 +5153,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一　インド、インドネシア、カンボジア、シンガポール、スリランカ、タイ、中華人民共和国（香港を除く。以下この表において同じ。）、ネパール、パキスタン、バングラデシュ、フィリピン、ブータン、ベトナム、香港、マレーシア、ミャンマー、モルディブ、ラオス、アラブ首長国連邦、イエメン、イラン、オマーン、ウガンダ、ケニア、ジンバブエ、スワジランド、セーシェル、タンザニア、南アフリカ共和国、アメリカ合衆国（ハワイ諸島を除く。以下この表において同じ。）、バミューダ諸島、アルゼンチン、エクアドル、エルサルバドル、ガイアナ、グアテマラ、コスタリカ、コロンビア、スリナム、ニカラグア、西インド諸島、パナマ、ブラジル、フランス領ギアナ、ベネズエラ、ベリーズ、メキシコ、オーストラリア領クリスマス島、パプアニューギニア、ハワイ諸島</Sentence>
+              <Sentence WritingMode="vertical">一　インド、インドネシア、カンボジア、シンガポール、スリランカ、タイ、中華人民共和国（香港を除く。以下この表において同じ。）、ネパール、パキスタン、バングラデシュ、フィリピン、ブータン、ベトナム、香港、マレーシア、ミャンマー、モルディブ、ラオス、アラブ首長国連邦、イエメン、イラン、オマーン、ウガンダ、エスワティニ、ケニア、ジンバブエ、セーシェル、タンザニア、南アフリカ共和国、アメリカ合衆国（ハワイ諸島を除く。以下この表において同じ。）、バミューダ諸島、アルゼンチン、エクアドル、エルサルバドル、ガイアナ、グアテマラ、コスタリカ、コロンビア、スリナム、ニカラグア、西インド諸島、パナマ、ブラジル、フランス領ギアナ、ベネズエラ、ベリーズ、メキシコ、オーストラリア領クリスマス島、パプアニューギニア、ハワイ諸島</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">アボカド、カシューナッツ、カヤ・イボレンシス、くだものとけい、げつけいじゆ、ココやし、ごれんし、ざくろ、サポジラ、しようが、パパイヤ、ばんじろう、ブクスス・センペルウィレンス、まるめろ、マンゴウ、れいし、くわ属植物、ケストルム属植物、げつきつ属植物、コーヒーノキ属植物、なし属植物、はこやなぎ属植物、バショウ属植物、ばら属植物、ばんれいし属植物、ぶどう属植物、ふよう属植物、プルメリア属植物、みかん属植物及びユーゲニア属植物の生植物（種子、果実及び地下部を除く。）であつて栽培の用に供するもの</Sentence>
@@ -5181,7 +5186,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">四　大韓民国、パキスタン、イスラエル、イラク、イラン、シリア、トルコ、ヨルダン、アイルランド、アゼルバイジャン、アルバニア、アルメニア、イタリア、ウクライナ、ウズベキスタン、英国、エストニア、オーストリア、オランダ、カザフスタン、ギリシャ、キルギス、クロアチア、コソボ、ジョージア、スイス、スウェーデン、スペイン、スロバキア、スロベニア、セルビア、タジキスタン、チェコ、デンマーク、ドイツ、トルクメニスタン、ハンガリー、フィンランド、フランス、ブルガリア、ベラルーシ、ベルギー、ポーランド、ボスニア・ヘルツェゴビナ、ポルトガル、マケドニア旧ユーゴスラビア共和国、モルドバ、モンテネグロ、ラトビア、リトアニア、ルーマニア、ロシア、エジプト、カーボヴェルデ、カナリア諸島、ガンビア、セネガル、南アフリカ共和国、モロッコ、リビア、アメリカ合衆国、カナダ、チリ、ペルー、メキシコ、オーストラリア、ニュージーランド、ハワイ諸島</Sentence>
+              <Sentence WritingMode="vertical">四　大韓民国、パキスタン、イスラエル、イラク、イラン、シリア、トルコ、ヨルダン、アイルランド、アゼルバイジャン、アルバニア、アルメニア、イタリア、ウクライナ、ウズベキスタン、英国、エストニア、オーストリア、オランダ、カザフスタン、北マケドニア共和国、ギリシャ、キルギス、クロアチア、コソボ、ジョージア、スイス、スウェーデン、スペイン、スロバキア、スロベニア、セルビア、タジキスタン、チェコ、デンマーク、ドイツ、トルクメニスタン、ハンガリー、フィンランド、フランス、ブルガリア、ベラルーシ、ベルギー、ポーランド、ボスニア・ヘルツェゴビナ、ポルトガル、モルドバ、モンテネグロ、ラトビア、リトアニア、ルーマニア、ロシア、エジプト、カーボベルデ、カナリア諸島、ガンビア、セネガル、南アフリカ共和国、モロッコ、リビア、アメリカ合衆国、カナダ、チリ、ペルー、メキシコ、オーストラリア、ニュージーランド、ハワイ諸島</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">しよくようだいおう、トマト、ほうれんそう、あぶらな属植物及びふだんそう属植物の生植物の地下部であつて栽培の用に供し得るもの</Sentence>
@@ -5236,7 +5241,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">九　インド、パキスタン、イスラエル、イラク、イラン、トルコ、レバノン、アゼルバイジャン、アルバニア、アルメニア、イタリア、ウクライナ、ウズベキスタン、オーストリア、キプロス、ギリシャ、クロアチア、コソボ、スイス、スペイン、スロベニア、セルビア、タジキスタン、ドイツ、トルクメニスタン、ハンガリー、フランス、ブルガリア、ボスニア・ヘルツェゴビナ、ポーランド、ポルトガル、マケドニア旧ユーゴスラビア共和国、マルタ、モルドバ、モンテネグロ、ルーマニア、アルジェリア、カナリア諸島、南アフリカ共和国、アメリカ合衆国、アルゼンチン、チリ、ブラジル、ペルー、オーストラリア</Sentence>
+              <Sentence WritingMode="vertical">九　インド、パキスタン、イスラエル、イラク、イラン、トルコ、レバノン、アゼルバイジャン、アルバニア、アルメニア、イタリア、ウクライナ、ウズベキスタン、オーストリア、北マケドニア共和国、キプロス、ギリシャ、クロアチア、コソボ、スイス、スペイン、スロベニア、セルビア、タジキスタン、ドイツ、トルクメニスタン、ハンガリー、フランス、ブルガリア、ボスニア・ヘルツェゴビナ、ポーランド、ポルトガル、マルタ、モルドバ、モンテネグロ、ルーマニア、アルジェリア、カナリア諸島、南アフリカ共和国、アメリカ合衆国、アルゼンチン、チリ、ブラジル、ペルー、オーストラリア</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">おふくかずら、おらんだいちご、オリーブ、せいよういとすぎ、せんにちこう、つた、とうぐわ、トマト、ひめいらくさ、ペチュニア、まるばたばこ、あかざ属植物、いちじく属植物、さくら属植物、とねりばはぜのき属植物、なす属植物、ばら属植物、ぶどう属植物、まつ属植物及びみかん属植物の生植物の地下部であつて栽培の用に供し得るもの</Sentence>
@@ -5324,7 +5329,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十七　インドネシア、台湾、中華人民共和国、フィリピン、ブータン、香港、ロシア、ウガンダ、ガーナ、ケニア、ザンビア、ジンバブエ、スワジランド、ナイジェリア、ナミビア、南アフリカ共和国、モザンビーク、アメリカ合衆国、アルゼンチン、キューバ、ブラジル、オーストラリア、ニュージーランド、バヌアツ</Sentence>
+              <Sentence WritingMode="vertical">十七　インドネシア、台湾、中華人民共和国、フィリピン、ブータン、香港、ロシア、ウガンダ、エスワティニ、ガーナ、ケニア、ザンビア、ジンバブエ、ナイジェリア、ナミビア、南アフリカ共和国、モザンビーク、アメリカ合衆国、アルゼンチン、キューバ、ブラジル、オーストラリア、ニュージーランド、バヌアツ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">からたち、シトロフォーチュネラ・ミクロカルパ、きんかん属植物及びみかん属植物の生植物（種子及び果実を除く。）であつて栽培の用に供するもの</Sentence>
@@ -5346,7 +5351,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十九　イラン、トルコ、アゼルバイジャン、アルメニア、ウクライナ、ウズベキスタン、エストニア、カザフスタン、ギリシャ、キルギス、クロアチア、コソボ、ジョージア、スペイン、スロベニア、セルビア、タジキスタン、ドイツ、トルクメニスタン、ハンガリー、ブルガリア、ベラルーシ、ベルギー、ボスニア・ヘルツェゴビナ、マケドニア旧ユーゴスラビア共和国、モルドバ、モンテネグロ、ラトビア、リトアニア、ルーマニア、ロシア、チュニジア、モーリシャス、アメリカ合衆国、カナダ、コロンビア、ブラジル、ベネズエラ、メキシコ、オーストラリア</Sentence>
+              <Sentence WritingMode="vertical">十九　イラン、トルコ、アゼルバイジャン、アルメニア、ウクライナ、ウズベキスタン、エストニア、カザフスタン、北マケドニア共和国、ギリシャ、キルギス、クロアチア、コソボ、ジョージア、スペイン、スロベニア、セルビア、タジキスタン、ドイツ、トルクメニスタン、ハンガリー、ブルガリア、ベラルーシ、ベルギー、ボスニア・ヘルツェゴビナ、モルドバ、モンテネグロ、ラトビア、リトアニア、ルーマニア、ロシア、チュニジア、モーリシャス、アメリカ合衆国、カナダ、コロンビア、ブラジル、ベネズエラ、メキシコ、オーストラリア</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">いんげんまめ、ささげ及びだいずの種子であつて栽培の用に供するもの</Sentence>
@@ -5431,7 +5436,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一　イエメン、イスラエル、イラン、サウジアラビア、シリア、トルコ、ヨルダン、レバノン、アルバニア、イタリア、オーストリア、オランダ、キプロス、ギリシャ、クロアチア、コソボ、スイス、スペイン、スロベニア、セルビア、ドイツ、ハンガリー、フランス、ベルギー、ボスニア・ヘルツェゴビナ、ポルトガル、マケドニア旧ユーゴスラビア共和国、マルタ、モンテネグロ、ロシア、アフリカ、バミューダ諸島、アルゼンチン、ウルグアイ、エクアドル、エルサルバドル、グアテマラ、コスタリカ、コロンビア、ニカラグア、西インド諸島（キューバ、ドミニカ共和国及びプエルトリコを除く。）、パナマ、パラグアイ、ブラジル、ベネズエラ、ペルー、ボリビア、ホンジュラス、オーストラリア（タスマニアを除く。）、ハワイ諸島</Sentence>
+              <Sentence WritingMode="vertical">一　イエメン、イスラエル、イラン、サウジアラビア、シリア、トルコ、ヨルダン、レバノン、アルバニア、イタリア、オーストリア、オランダ、北マケドニア共和国、キプロス、ギリシャ、クロアチア、コソボ、スイス、スペイン、スロベニア、セルビア、ドイツ、ハンガリー、フランス、ベルギー、ボスニア・ヘルツェゴビナ、ポルトガル、マルタ、モンテネグロ、ロシア、アフリカ、バミューダ諸島、アルゼンチン、ウルグアイ、エクアドル、エルサルバドル、グアテマラ、コスタリカ、コロンビア、ニカラグア、西インド諸島（キューバ、ドミニカ共和国及びプエルトリコを除く。）、パナマ、パラグアイ、ブラジル、ベネズエラ、ペルー、ボリビア、ホンジュラス、オーストラリア（タスマニアを除く。）、ハワイ諸島</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">アキー、アボカド（付表第六十、第六十四及び第七十に掲げるものを除く。）、あめだまのき、オールスパイス、オリーブ、カシューナッツ、キウイフルーツ、きばなきようちくとう、ククミス・ディプサケウス、コッキニア・ミクロフィラ、コラロカルプス・エリプチクス、ごれんし、ざくろ、ジャボチカバ、そらまめ、てりはぼく、なつめやし、ナンセ、なんようざくら、にがうり、フェイジョア、ポポー、マメーリンゴ、りゆうがん、れいし、いちじく属植物、いんげん属植物、かき属植物（付表第四十一に掲げるものを除く。）、カリッサ属植物、くるみ属植物、くわ属植物、コッコロバ属植物、コーヒーノキ属植物、すぐり属植物、すのき（こけもも）属植物、とけいそう属植物、ドビアーリス属植物、なつめ属植物、にんめんし属植物、バショウ属植物（成熟していないバナナの生果実を除く。）、パパイヤ属植物（付表第一に掲げるものを除く。）、ばんじろう属植物、ぱんのき属植物、ばんれいし属植物、ひいらぎとらのお属植物、びやくだん属植物、ふくぎ属植物、ぶどう属植物（付表第三、第五十四及び第五十九に掲げるものを除く。）、ふともも属植物、マンゴウ属植物（付表第二、第三十六、第四十三、第五十一及び第五十三に掲げるものを除く。）、もちのき属植物、ももたまな属植物、ユーゲニア属植物、わた属植物、あかてつ科植物、さぼてん科植物（付表第三十五に掲げるものを除く。）、なす科植物（付表第三及び第四十二に掲げるものを除く。）、ばら科植物（付表第三及び第三十一に掲げるものを除く。）及びみかん科植物（付表第四から第八まで、第三十九、第四十五、第五十六及び第六十五に掲げるものを除く。）の生果実</Sentence>
@@ -5442,7 +5447,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二　インド、インドネシア、カンボジア、シンガポール、スリランカ、タイ、台湾、中華人民共和国（香港を除く。以下この表において同じ。）、ネパール、パキスタン、バングラデシュ、東ティモール、フィリピン、ブータン、ブルネイ、ベトナム、香港、マレーシア、ミャンマー、ラオス、アンゴラ、ウガンダ、エチオピア、ガーナ、ガボン、カメルーン、ガンビア、ギニア、ギニアビサウ、ケニア、コートジボワール、コモロ、コンゴ共和国、コンゴ民主共和国、ザンビア、シエラレオネ、スーダン、スワジランド、赤道ギニア、セネガル、タンザニア、チャド、中央アフリカ共和国、トーゴ、ナイジェリア、ナミビア、ニジェール、ブルキナファソ、ブルンジ、ベナン、ボツワナ、マダガスカル、マヨット島、マリ、南アフリカ共和国、モザンビーク、モーリタニア、リベリア、ルワンダ、パプアニューギニア、ハワイ諸島、フランス領ポリネシア、ミクロネシア</Sentence>
+              <Sentence WritingMode="vertical">二　インド、インドネシア、カンボジア、シンガポール、スリランカ、タイ、台湾、中華人民共和国（香港を除く。以下この表において同じ。）、ネパール、パキスタン、バングラデシュ、東ティモール、フィリピン、ブータン、ブルネイ、ベトナム、香港、マレーシア、ミャンマー、ラオス、アンゴラ、ウガンダ、エスワティニ、エチオピア、ガーナ、ガボン、カメルーン、ガンビア、ギニア、ギニアビサウ、ケニア、コートジボワール、コモロ、コンゴ共和国、コンゴ民主共和国、ザンビア、シエラレオネ、スーダン、赤道ギニア、セネガル、タンザニア、チャド、中央アフリカ共和国、トーゴ、ナイジェリア、ナミビア、ニジェール、ブルキナファソ、ブルンジ、ベナン、ボツワナ、マダガスカル、マヨット島、マリ、南アフリカ共和国、モザンビーク、モーリタニア、リベリア、ルワンダ、パプアニューギニア、ハワイ諸島、フランス領ポリネシア、ミクロネシア</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">かんきつ類（付表第四、第五、第十及び第五十八に掲げるものを除く。）、アキー、アセロラ、アボカド、いちじく、いちじくぐわ、イルビンギア・ガボネンシス、いんどめてんぐ、うどんげのき、おらんだいちご、オリーブ、カシューナッツ、がじゆまる、きゆうり、きんきじゆ、グリコスミス・ペンタフィラ、くろつぐ、コルディラ・ピンナータ、ごれんし、コロシントうり（付表第六十六に掲げるものを除く。）、ざくろ、サラカやし、サントール、すいか、スクレロカリア・ビレア、せいようかぼちや（付表第六十七に掲げるものを除く。）、たいへいようぐるみ、テトラクトミア・マジュス、てりはぼく、てんじくいぬかんこ、トマト、トリファシア・トリフォリア、なし、なつめやし、なんようざくら、にがうり、ねぐろもも、ねじれふさまめのき、バッカウレア・ラケモサ、バッカウレア・ラミフロラ、パパイヤ（付表第一、第十一及び第十二に掲げるものを除く。四の項において同じ。）、パラミグニア・アンダマニカ、びわ、びんろうじゆ、フィクス・エリゴドン、フィクス・グロッスラリオイデス、フィクス・コンカティアン、ぶどう（付表第三十二及び第五十四に掲げるものを除く。）、ペポかぼちや（付表第六十八に掲げるものを除く。）、ももたまな、やまもも、ゆうがお（付表第六十九に掲げるものを除く。）、らんばい、ランブータン、りゆうがん、りんご、れいし（付表第十三、第十四及び第七十一に掲げるものを除く。）、わんぴ、あかたねのき属植物、かき属植物、カリッサ属植物、ぐみ属植物、コーヒーノキ属植物、さくら属植物、とうがらし属植物、とけいそう属植物、なす属植物、なつめ属植物（付表第六十三に掲げるものを除く。）、にんめんし属植物、ばんじろう属植物、ぱんのき属植物、ばんれいし属植物、ヒロセレウス属植物（付表第五十二及び第五十五に掲げるものを除く。四の項において同じ。）、ふくぎ属植物（付表第四十に掲げるものを除く。）、ふともも属植物、マンゴウ属植物（付表第十五から第十七まで、第三十六、第四十八、第五十、第五十七及び第六十一に掲げるものを除く。四の項において同じ。）、ユーゲニア属植物、ランサ属植物、ロリニア属植物及びあかてつ科植物の生果実並びに成熟したバナナの生果実</Sentence>
@@ -5519,7 +5524,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">九　中華人民共和国、イラク、イラン、トルコ、アゼルバイジャン、アルメニア、イタリア、ウクライナ、ウズベキスタン、英国（グレート・ブリテン及び北アイルランドに限る。以下この表において同じ。）、エストニア、オーストリア、オランダ、カザフスタン、ギリシャ、キルギス、クロアチア、コソボ、ジョージア、スイス、スペイン、スロバキア、スロベニア、セルビア、タジキスタン、チェコ、デンマーク、ドイツ、ハンガリー、フランス、ブルガリア、ベラルーシ、ベルギー、ボスニア・ヘルツェゴビナ、ポーランド、ポルトガル、マケドニア旧ユーゴスラビア共和国、モルドバ、モンテネグロ、リトアニア、ルクセンブルク、ルーマニア、ロシア、アメリカ合衆国、カナダ、メキシコ</Sentence>
+              <Sentence WritingMode="vertical">九　中華人民共和国、イラク、イラン、トルコ、アゼルバイジャン、アルメニア、イタリア、ウクライナ、ウズベキスタン、英国（グレート・ブリテン及び北アイルランドに限る。以下この表において同じ。）、エストニア、オーストリア、オランダ、カザフスタン、北マケドニア共和国、ギリシャ、キルギス、クロアチア、コソボ、ジョージア、スイス、スペイン、スロバキア、スロベニア、セルビア、タジキスタン、チェコ、デンマーク、ドイツ、ハンガリー、フランス、ブルガリア、ベラルーシ、ベルギー、ボスニア・ヘルツェゴビナ、ポーランド、ポルトガル、モルドバ、モンテネグロ、リトアニア、ルクセンブルク、ルーマニア、ロシア、アメリカ合衆国、カナダ、メキシコ</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">あざみ属植物、もうずいか属植物及びなす科植物の生茎葉</Sentence>
@@ -5599,7 +5604,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十六　イスラエル、イラン、シリア、トルコ、ヨルダン、レバノン、アイルランド、アルバニア、アルメニア、イタリア、ウクライナ、英国、オーストリア、オランダ、カザフスタン、キプロス、ギリシャ、キルギス、クロアチア、コソボ、スイス、スウェーデン、スペイン、スロバキア、スロベニア、セルビア、チェコ、デンマーク、ドイツ、ノルウェー、ハンガリー、フィンランド、フランス、ブルガリア、ベラルーシ、ベルギー、ポーランド、ボスニア・ヘルツェゴビナ、マケドニア旧ユーゴスラビア共和国、モルドバ、モンテネグロ、ラトビア、リトアニア、リヒテンシュタイン、ルーマニア、ルクセンブルク、ロシア、アルジェリア、エジプト、チュニジア、モロッコ、アメリカ合衆国、カナダ、グアテマラ、バミューダ諸島、メキシコ、ニュージーランド</Sentence>
+              <Sentence WritingMode="vertical">十六　イスラエル、イラン、シリア、トルコ、ヨルダン、レバノン、アイルランド、アルバニア、アルメニア、イタリア、ウクライナ、英国、オーストリア、オランダ、カザフスタン、北マケドニア共和国、キプロス、ギリシャ、キルギス、クロアチア、コソボ、スイス、スウェーデン、スペイン、スロバキア、スロベニア、セルビア、チェコ、デンマーク、ドイツ、ノルウェー、ハンガリー、フィンランド、フランス、ブルガリア、ベラルーシ、ベルギー、ポーランド、ボスニア・ヘルツェゴビナ、モルドバ、モンテネグロ、ラトビア、リトアニア、リヒテンシュタイン、ルーマニア、ルクセンブルク、ロシア、アルジェリア、エジプト、チュニジア、モロッコ、アメリカ合衆国、カナダ、グアテマラ、バミューダ諸島、メキシコ、ニュージーランド</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">かりん、しじみばな、せいようかりん、びわ、まるめろ、ロサ・カニナ、アロニア属植物、かなめもち属植物、クラタエゴメスピルス属植物、ざいふりぼく属植物、さんざし属植物、しやりんとう属植物、しやりんばい属植物、ストランウァエシア属植物、てんのうめ属植物、ディコトマンサス属植物、ときわさんざし属植物、ドキニア属植物、なし属植物、ななかまど属植物、ヘテロメレス属植物、ペラフィラム属植物、ぼけ属植物及びりんご属植物（付表第二十四、第二十五及び第三十一に掲げるものを除く。）の生植物（種子を除き、生果実、花及び花粉を含む。）</Sentence>
@@ -5653,7 +5658,7 @@
       <Item Delete="false" Hide="false" Num="5">
         <ItemTitle>五</ItemTitle>
         <ItemSentence>
-          <Sentence WritingMode="vertical">スワジランドから発送され、南アフリカ共和国を経由し、かつ、他の地域を経由しないで輸入されるバレンシア種、ワシントンネーブル種、トマンゴ種及びプロテア種のスウィートオレンジ、グレープフルーツ並びにクレメンティンの生果実であつて農林水産大臣が定める基準に適合しているもの</Sentence>
+          <Sentence WritingMode="vertical">エスワティニから発送され、南アフリカ共和国を経由し、かつ、他の地域を経由しないで輸入されるバレンシア種、ワシントンネーブル種、トマンゴ種及びプロテア種のスウィートオレンジ、グレープフルーツ並びにクレメンティンの生果実であつて農林水産大臣が定める基準に適合しているもの</Sentence>
         </ItemSentence>
       </Item>
       <Item Delete="false" Hide="false" Num="6">
@@ -6213,7 +6218,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十二　アイルランド、イタリア、英国（グレート・ブリテン及び北アイルランドに限る。以下この表において同じ。）、エストニア、オーストリア、クロアチア、コソボ、スイス、スウェーデン、スロバキア、スロベニア、セルビア、チェコ、デンマーク、ドイツ、ノルウェー、ハンガリー、フィンランド、フランス、ブルガリア、ベラルーシ、ベルギー、ボスニア・ヘルツェゴビナ、ポーランド、マケドニア旧ユーゴスラビア共和国、モルドバ、モンテネグロ、ラトビア、リトアニア、ルクセンブルク、ルーマニア、ロシア、アメリカ合衆国、カナダ、ニュージーランド</Sentence>
+              <Sentence WritingMode="vertical">十二　アイルランド、イタリア、英国（グレート・ブリテン及び北アイルランドに限る。以下この表において同じ。）、エストニア、オーストリア、北マケドニア共和国、クロアチア、コソボ、スイス、スウェーデン、スロバキア、スロベニア、セルビア、チェコ、デンマーク、ドイツ、ノルウェー、ハンガリー、フィンランド、フランス、ブルガリア、ベラルーシ、ベルギー、ボスニア・ヘルツェゴビナ、ポーランド、モルドバ、モンテネグロ、ラトビア、リトアニア、ルクセンブルク、ルーマニア、ロシア、アメリカ合衆国、カナダ、ニュージーランド</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">おおみのつるこけもも、せいようはつか、ひまわり、べいまつ、ヨーロッパきいちご、いちい属植物、おらんだいちご属植物、からまつ属植物、くろべ属植物、つが属植物、とうひ属植物、にしきぎ属植物、はしばみ属植物、ふだんそう属植物、まつ属植物及びもみ属植物の生植物（種子及び果実を除く。）であつて栽培の用に供するもの</Sentence>
@@ -6225,7 +6230,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十三　イラン、トルコ、アイルランド、アルバニア、アンドラ、イタリア、ウクライナ、ウズベキスタン、英国、エストニア、オーストリア、オランダ、カザフスタン、ギリシャ、クロアチア、スイス、スウェーデン、スペイン、スロバキア、スロベニア、セルビア、タジキスタン、チェコ、デンマーク、ドイツ、トルクメニスタン、ハンガリー、フランス、ブルガリア、ベラルーシ、ベルギー、ボスニア・ヘルツェゴビナ、ポーランド、ポルトガル、マケドニア旧ユーゴスラビア共和国、モルドバ、ルクセンブルク、ルーマニア、ロシア、アルジェリア、エジプト、アメリカ合衆国、カナダ、チリ、メキシコ、オーストラリア、ニュージーランド</Sentence>
+              <Sentence WritingMode="vertical">十三　イラン、トルコ、アイルランド、アルバニア、アンドラ、イタリア、ウクライナ、ウズベキスタン、英国、エストニア、オーストリア、オランダ、カザフスタン、北マケドニア共和国、ギリシャ、クロアチア、スイス、スウェーデン、スペイン、スロバキア、スロベニア、セルビア、タジキスタン、チェコ、デンマーク、ドイツ、トルクメニスタン、ハンガリー、フランス、ブルガリア、ベラルーシ、ベルギー、ボスニア・ヘルツェゴビナ、ポーランド、ポルトガル、モルドバ、ルクセンブルク、ルーマニア、ロシア、アルジェリア、エジプト、アメリカ合衆国、カナダ、チリ、メキシコ、オーストラリア、ニュージーランド</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">にれ属植物の木材</Sentence>
@@ -6285,7 +6290,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">十八　イラン、トルコ、アイルランド、アルバニア、イタリア、ウクライナ、オーストリア、オランダ、ギリシャ、クロアチア、スイス、スペイン、スロバキア、スロベニア、セルビア、チェコ、デンマーク、ドイツ、ノルウェー、ブルガリア、ベルギー、ポーランド、ポルトガル、マケドニア旧ユーゴスラビア共和国、ルーマニア、ロシア</Sentence>
+              <Sentence WritingMode="vertical">十八　イラン、トルコ、アイルランド、アルバニア、イタリア、ウクライナ、オーストリア、オランダ、北マケドニア共和国、ギリシャ、クロアチア、スイス、スペイン、スロバキア、スロベニア、セルビア、チェコ、デンマーク、ドイツ、ノルウェー、ブルガリア、ベルギー、ポーランド、ポルトガル、ルーマニア、ロシア</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">ゼルコウァ・カルピニフォリア及びにれ属植物の生植物（種子及び果実を除く。）及び木材</Sentence>
@@ -6456,7 +6461,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">三十二　インド、台湾、中華人民共和国、イスラエル、トルコ、アゼルバイジャン、イタリア、ウクライナ、英国、オランダ、クロアチア、コソボ、ジョージア、スイス、スペイン、スロベニア、セルビア、デンマーク、ドイツ、ノルウェー、ハンガリー、フランス、ポーランド、ボスニア・ヘルツェゴビナ、ポルトガル、マケドニア旧ユーゴスラビア共和国、モンテネグロ、ロシア、アメリカ合衆国、カナダ、アルゼンチン、オーストラリア</Sentence>
+              <Sentence WritingMode="vertical">三十二　インド、台湾、中華人民共和国、イスラエル、トルコ、アゼルバイジャン、イタリア、ウクライナ、英国、オランダ、北マケドニア共和国、クロアチア、コソボ、ジョージア、スイス、スペイン、スロベニア、セルビア、デンマーク、ドイツ、ノルウェー、ハンガリー、フランス、ポーランド、ボスニア・ヘルツェゴビナ、ポルトガル、モンテネグロ、ロシア、アメリカ合衆国、カナダ、アルゼンチン、オーストラリア</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">エリトラエア・ケンタウレウム、エリトラエア・ロクスバリー、ケンタウリウム・プルケルム、とるこぎきょう、ブラクストニア・インペルフォリアタ、ブラクストニア・セロティナ及びブラクストニア・ペルフォリアタの生植物（果実を除き、種子を含む。）であつて栽培の用に供するもの</Sentence>
@@ -7045,7 +7050,7 @@
       <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_001.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7054,7 +7059,7 @@
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_002.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7063,7 +7068,7 @@
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_003.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7072,7 +7077,7 @@
       <RelatedArticleNum>（第十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_004.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7081,7 +7086,7 @@
       <RelatedArticleNum>（第十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_005.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7090,7 +7095,7 @@
       <RelatedArticleNum>（第十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_006.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7099,7 +7104,7 @@
       <RelatedArticleNum>（第十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_007.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7108,7 +7113,7 @@
       <RelatedArticleNum>（第十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_008.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7117,7 +7122,7 @@
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_009.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7126,7 +7131,7 @@
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_010.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7135,7 +7140,7 @@
       <RelatedArticleNum>（第二十二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_011.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7144,7 +7149,7 @@
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_012.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7153,7 +7158,7 @@
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_013.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7161,7 +7166,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十三号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_014.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7170,7 +7175,7 @@
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_015.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7179,7 +7184,7 @@
       <RelatedArticleNum>（第二十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_016.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7188,7 +7193,7 @@
       <RelatedArticleNum>（第二十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_017.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7197,7 +7202,7 @@
       <RelatedArticleNum>（第二十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_018.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7209,7 +7214,7 @@
       <RelatedArticleNum>（第三十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_019.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7218,7 +7223,7 @@
       <RelatedArticleNum>（第三十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_020.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7227,7 +7232,7 @@
       <RelatedArticleNum>（第三十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_021.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7236,7 +7241,7 @@
       <RelatedArticleNum>（第三十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_022.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7245,7 +7250,7 @@
       <RelatedArticleNum>（第三十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_023.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7254,7 +7259,7 @@
       <RelatedArticleNum>（第三十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_024.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7263,7 +7268,7 @@
       <RelatedArticleNum>（第三十五条の三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_025.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7272,7 +7277,7 @@
       <RelatedArticleNum>（第三十五条の三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_026.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7281,7 +7286,7 @@
       <RelatedArticleNum>（第三十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_027.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7290,7 +7295,7 @@
       <RelatedArticleNum>（第三十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_028.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7299,7 +7304,7 @@
       <RelatedArticleNum>（第三十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_029.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7308,7 +7313,7 @@
       <RelatedArticleNum>（第三十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_030.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7317,7 +7322,7 @@
       <RelatedArticleNum>（第三十五条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_031.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7326,7 +7331,7 @@
       <RelatedArticleNum>（第三十五条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_032.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7335,7 +7340,7 @@
       <RelatedArticleNum>（第三十五条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_033.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7344,7 +7349,7 @@
       <RelatedArticleNum>（第三十五条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_034.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7353,7 +7358,7 @@
       <RelatedArticleNum>（第三十五条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_035.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7362,7 +7367,7 @@
       <RelatedArticleNum>（第三十五条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_036.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7371,7 +7376,7 @@
       <RelatedArticleNum>（第三十五条の八関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_037.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7380,7 +7385,7 @@
       <RelatedArticleNum>（第三十五条の八関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_038.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_038.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7389,7 +7394,7 @@
       <RelatedArticleNum>（第三十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_039.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_039.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7398,7 +7403,7 @@
       <RelatedArticleNum>（第三十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_040.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_040.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7407,7 +7412,7 @@
       <RelatedArticleNum>（第三十八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_041.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_041.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7416,7 +7421,7 @@
       <RelatedArticleNum>（第三十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_042.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_042.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7425,7 +7430,7 @@
       <RelatedArticleNum>（第四十二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_043.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_043.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7434,7 +7439,7 @@
       <RelatedArticleNum>（第四十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_044.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_044.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7443,7 +7448,7 @@
       <RelatedArticleNum>（第四十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_045.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_045.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7452,7 +7457,7 @@
       <RelatedArticleNum>（第四十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_046.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_046.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7461,7 +7466,7 @@
       <RelatedArticleNum>（第四十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_047.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_047.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7470,7 +7475,7 @@
       <RelatedArticleNum>（第四十八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_048.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_048.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7479,7 +7484,7 @@
       <RelatedArticleNum>（第四十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_049.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_049.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7488,7 +7493,7 @@
       <RelatedArticleNum>（第五十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_050.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_050.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7497,7 +7502,7 @@
       <RelatedArticleNum>（第五十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_051.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_051.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -7506,7 +7511,7 @@
       <RelatedArticleNum>（第五十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000073_2006251706_052.pdf"/>
+          <Fig src="./pict/S25F00601000073_2007091407_052.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="22" Year="30">
+<Law DataInfo="200515e81k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="22" Year="30">
   <LawNum>昭和三十年労働省令第二十二号</LawNum>
   <LawBody>
     <LawTitle>労働者災害補償保険法施行規則</LawTitle>
@@ -193,7 +193,7 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">配偶者が、学校教育法（昭和二十二年法律第二十六号）第一条に規定する学校、同法第百二十四条に規定する専修学校若しくは同法第百三十四条第一項に規定する各種学校（以下この条において「学校等」という。）に在学し、児童福祉法（昭和二十二年法律第百六十四号）第三十九条第一項に規定する保育所（次号ロにおいて「保育所」という。）若しくは就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律（平成十八年法律第七十七号）第二条第七項に規定する幼保連携型認定こども園（次号ロにおいて「幼保連携型認定こども園」という。）に通い、又は職業能力開発促進法（昭和四十四年法律第六十四号）第十五条の七第三項に規定する公共職業能力開発施設の行う職業訓練（職業能力開発総合大学校において行われるものを含む。以下この条及び次条において「職業訓練」という。）を受けている同居の子（十八歳に達する日以後の最初の三月三十一日までの間にある子に限る。）を養育すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">配偶者が、学校教育法（昭和二十二年法律第二十六号）第一条に規定する学校、同法第百二十四条に規定する専修学校若しくは同法第百三十四条第一項に規定する各種学校（以下この条において「学校等」という。）に在学し、児童福祉法（昭和二十二年法律第百六十四号）第三十九条第一項に規定する保育所（次号ロ及び第三十四条第一項において「保育所」という。）若しくは就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律（平成十八年法律第七十七号）第二条第七項に規定する幼保連携型認定こども園（次号ロ及び第三十四条第一項において「幼保連携型認定こども園」という。）に通い、又は職業能力開発促進法（昭和四十四年法律第六十四号）第十五条の七第三項に規定する公共職業能力開発施設（以下「公共職業能力開発施設」という。）の行う職業訓練（職業能力開発総合大学校において行われるものを含む。以下この条及び次条において「職業訓練」という。）を受けている同居の子（十八歳に達する日以後の最初の三月三十一日までの間にある子に限る。）を養育すること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
@@ -1808,15 +1808,15 @@
                     <Sentence Num="1" WritingMode="vertical">その月において介護に要する費用を支出して介護を受けた日がある場合（次号に規定する場合を除く。）</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">その月において介護に要する費用として支出された費用の額（その額が十六万五千百五十円を超えるときは、十六万五千百五十円とする。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その月において介護に要する費用として支出された費用の額（その額が十六万六千九百五十円を超えるときは、十六万六千九百五十円とする。）</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">その月において介護に要する費用を支出して介護を受けた日がある場合であつて介護に要する費用として支出された費用の額が七万七百九十円に満たないとき又はその月において介護に要する費用を支出して介護を受けた日がない場合であつて、親族又はこれに準ずる者による介護を受けた日があるとき。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">　七万七百九十円（支給すべき事由が生じた月において介護に要する費用として支出された額が七万七百九十円に満たない場合にあつては、当該介護に要する費用として支出された額とする。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その月において介護に要する費用を支出して介護を受けた日がある場合であつて介護に要する費用として支出された費用の額が七万二千九百九十円に満たないとき又はその月において介護に要する費用を支出して介護を受けた日がない場合であつて、親族又はこれに準ずる者による介護を受けた日があるとき。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">　七万二千九百九十円（支給すべき事由が生じた月において介護に要する費用として支出された額が七万二千九百九十円に満たない場合にあつては、当該介護に要する費用として支出された額とする。）</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1824,7 +1824,7 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前項の規定は、特定障害の程度が別表第三随時介護を要する状態の項障害の程度の欄各号のいずれかに該当する場合における介護補償給付の額について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同項中「十六万五千百五十円」とあるのは「八万二千五百八十円」と、「七万七百九十円」とあるのは「三万五千四百円」と読み替えるものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同項中「十六万六千九百五十円」とあるのは「八万三千四百八十円」と、「七万二千九百九十円」とあるのは「三万六千五百円」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2524,7 +2524,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">年金たる保険給付の受給権者は、毎年、厚生労働大臣が指定する日（次項において「指定日」という。）までに、次に掲げる事項を記載した報告書を、所轄労働基準監督署長に提出しなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、所轄労働基準監督署長があらかじめその必要がないと認めて通知したときは、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、所轄労働基準監督署長があらかじめその必要がないと認めて通知したとき又は障害補償年金若しくは傷病補償年金若しくは障害年金若しくは傷病年金の受給権者にあつては厚生労働大臣が番号利用法第二十二条第一項の規定により当該報告書と同一の内容を含む特定個人情報の提供を受けることができるときは、この限りでない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -2578,7 +2578,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">障害補償年金又は障害年金の受給権者にあつては、その住民票の写し又は戸籍の抄本（厚生労働大臣が住民基本台帳法第三十条の九の規定により当該受給権者に係る機構保存本人確認情報の提供を受けることができるときは、この限りでない。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">障害補償年金又は障害年金の受給権者にあつては、その住民票の写し又は戸籍の抄本（厚生労働大臣が住民基本台帳法第三十条の九の規定により当該受給権者に係る機構保存本人確認情報の提供を受けることができるとき又は番号利用法第二十二条第一項の規定により当該受給権者に係る特定個人情報の提供を受けることができるときは、この限りでない。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -2608,7 +2608,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">傷病補償年金又は傷病年金の受給権者にあつては、その負傷又は疾病による障害の状態に関する医師又は歯科医師の診断書</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">介護補償給付又は介護給付の受給権者にあつては、その負傷又は疾病による障害の状態及び当該障害を有することに伴う日常生活の状態に関する医師又は歯科医師の診断書</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -2617,12 +2617,6 @@
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">第一項第三号に規定する場合に該当するときは、同項の報告書には、前項の書類のほか、当該厚生年金保険の障害厚生年金等又は厚生年金保険の遺族厚生年金等の支給額を証明することができる書類を添えなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、厚生労働大臣が番号利用法第二十二条第一項の規定により当該書類と同一の内容を含む特定個人情報の提供を受けることができるときは、この限りでない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">年金たる保険給付の受給権者が、その受ける権利を有する年金たる保険給付の支給事由となる障害に関し、介護補償給付又は介護給付を受けている場合における第二項第三号の規定の適用については、同号中「状態」とあるのは、「状態及び当該障害を有することに伴う日常生活の状態」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2844,31 +2838,518 @@
       <Chapter Num="3_2">
         <ChapterTitle>第三章の二　社会復帰促進等事業</ChapterTitle>
         <Article Num="24">
-          <ArticleCaption>（法第二十九条第一項第三号に掲げる事業）</ArticleCaption>
+          <ArticleCaption>（法第二十九条第一項第一号に掲げる事業）</ArticleCaption>
           <ArticleTitle>第二十四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法第二十九条第一項第三号に掲げる事業として、時間外労働等改善助成金及び受動喫煙防止対策助成金を支給するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法第二十九条第一項第一号に掲げる事業として、義肢等補装具費の支給、外科後処置、労災はり・きゆう施術特別援護措置、アフターケア、アフターケア通院費の支給、振動障害者社会復帰援護金の支給及び頭頸部外傷症候群等に対する職能回復援護を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="25:27">
-          <ArticleTitle>第二十五条から第二十七条まで</ArticleTitle>
+        <Article Num="25">
+          <ArticleCaption>（義肢等補装具費）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+              <Sentence Num="1" WritingMode="vertical">義肢、装具、車椅子その他の身体機能を補完し、又は代替し、かつ、長期間にわたり継続して使用されるものとして厚生労働省労働基準局長が定めるものの購入又は修理に要した費用は、次に掲げる者に対して、義肢等補装具費として支給するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">障害補償給付又は障害給付の支給の決定を受けた者のうち、厚生労働省労働基準局長が定める要件を満たす者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">障害補償給付又は障害給付の支給を受けると見込まれる者のうち、厚生労働省労働基準局長が定める要件を満たす者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他前二号に掲げる者に類するものとして厚生労働省労働基準局長が定める者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">義肢等補装具費の額は、厚生労働省労働基準局長が定める基準に従つて算定した額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、義肢等補装具費の支給に関し必要な事項は、厚生労働省労働基準局長が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（外科後処置）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">外科後処置は、次に掲げる者に対して、行うものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">障害補償給付又は障害給付の支給の決定を受けた者のうち、厚生労働省労働基準局長が定める要件を満たす者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他前号に掲げる者に類するものとして厚生労働省労働基準局長が定める者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の外科後処置は、次に掲げる医療の給付を行うものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">診察</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">薬剤又は治療材料の支給</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">処置、手術その他の治療</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">病院又は診療所への入院及びその療養に伴う世話その他の看護</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他厚生労働省労働基準局長が定める処置</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の外科後処置は、法第二十九条第一項の社会復帰促進等事業として設置された病院若しくは診療所又は第十一条第一項の都道府県労働局長の指定する病院若しくは診療所若しくは薬局において行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項に定めるもののほか、外科後処置に関し必要な事項は、厚生労働省労働基準局長が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（労災はり・きゆう施術特別援護措置）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">労災はり・きゆう施術特別援護措置は、業務災害又は通勤災害により労働基準法施行規則（昭和二十二年厚生省令第二十三号）別表第一の二に掲げる疾病のうち厚生労働省労働基準局長が定める疾病にり患し、障害補償給付若しくは障害給付の支給の決定を受けた者又はそれらの支給の決定を受けると見込まれる者のうち、あん摩マツサージ指圧師、はり師、きゆう師等に関する法律（昭和二十二年法律第二百十七号）に基づくあん摩マツサージ指圧師、はり師又はきゆう師が行う施術を必要とする者として厚生労働省労働基準局長が定める者に対して行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、労災はり・きゆう施術特別援護措置に関し必要な事項は、厚生労働省労働基準局長が定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="28">
-          <ArticleCaption>（時間外労働等改善助成金）</ArticleCaption>
+          <ArticleCaption>（アフターケア）</ArticleCaption>
           <ArticleTitle>第二十八条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">時間外労働等改善助成金は、次に掲げる中小企業事業主（その資本金の額又は出資の総額が三億円（小売業又はサービス業を主たる事業とする事業主については五千万円、卸売業を主たる事業とする事業主については一億円）を超えない事業主及びその常時雇用する労働者の数が三百人（小売業を主たる事業とする事業主については五十人、卸売業又はサービス業を主たる事業とする事業主については百人）を超えない事業主をいう。以下この条及び次条において同じ。）又は中小企業事業主の団体若しくはその連合団体（以下この条において「事業主団体等」という。）に対して、支給するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">アフターケアは、次に掲げる者に対して、保健上の措置として診察、保健指導その他健康の確保に資するものとして厚生労働省労働基準局長が定める措置を行うものとし、当該者に対して健康管理手帳を交付するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">障害補償給付又は障害給付の支給の決定を受けた者のうち、厚生労働省労働基準局長が定める要件を満たす者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">障害補償給付又は障害給付の支給を受けると見込まれる者のうち、厚生労働省労働基準局長が定める要件を満たす者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他前二号に掲げる者に類するものとして厚生労働省労働基準局長が定める者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、アフターケアに関し必要な事項は、厚生労働省労働基準局長が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（アフターケア通院費）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">アフターケア通院費は、前条第一項各号に掲げる者に対して、支給するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、アフターケア通院費の支給に関し必要な事項は、厚生労働省労働基準局長が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（振動障害者社会復帰援護金）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">振動障害者社会復帰援護金は、労働基準法施行規則別表第一の二第三号３に掲げる疾病にり患し、法第十二条の八第一項第一号に規定する療養補償給付を一年以上受けていた者であつて、当該疾病が治つた者に対して、支給するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">振動障害者社会復帰援護金の支給額は、法第八条の二第一項に規定する休業給付基礎日額に、次の各号に掲げる者の区分に応じ、当該各号に定める日数を乗じて得た額とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該金額が三百万円を超える場合には、三百万円とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前項に規定する疾病が治つた日において六十五歳以上の者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">百二十日</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前項に規定する疾病が治つた日において六十五歳未満の者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">二百日</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、振動障害者社会復帰援護金の支給に関し必要な事項は、厚生労働省労働基準局長が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（頭頸部外傷症候群等に対する職能回復援護）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">頭頸部外傷症候群等に対する職能回復援護は、労働基準法施行規則別表第一の二第一号、第二号５若しくは６又は第三号に掲げる疾病のうち厚生労働省労働基準局長が定める疾病にり患し、別表第一の障害等級第十二級以上の障害補償給付又は障害給付の支給の決定を受けた者のうち、業務災害又は通勤災害が発生する前の労働に従事することが困難であり、技能の習得を必要とする者に対して行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、頭頸部外傷症候群等に対する職能回復援護に関し必要な事項は、厚生労働省労働基準局長が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（法第二十九条第一項第二号に掲げる事業）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第二十九条第一項第二号に掲げる事業として、労災就学援護費、労災就労保育援護費、休業補償特別援護金、長期家族介護者援護金及び労災療養援護金の支給を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（労災就学援護費）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">労災就学援護費は、次のいずれかに該当する者に対して、支給するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">遺族補償年金又は遺族年金を受ける権利を有する者のうち、学校教育法第一条に規定する学校（幼稚園を除く。）若しくは同法第百二十四条に規定する専修学校（一般課程にあつては、都道府県労働局長が当該課程の程度が高等課程と同等以上であると認めるものに限る。次項第三号及び第四号において同じ。）に在学している者又は公共職業能力開発施設において職業能力開発促進法施行規則（昭和四十四年労働省令第二十四号）第九条に規定する普通課程の普通職業訓練若しくは専門課程若しくは応用課程の高度職業訓練（職業能力開発総合大学校において行われるものを含む。）を受ける者（以下この項において「在学者等」という。）であつて、学資又は職業訓練に要する費用の支給を必要とする状態にあるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">遺族補償年金又は遺族年金を受ける権利を有する者のうち、労働者の死亡の当時その収入によつて生計を維持していた当該労働者の子（当該労働者の死亡の当時胎児であつた子を含む。）で現に在学者等であるものと生計を同じくしている者であつて、当該在学者等に係る学資又は職業訓練に要する費用の支給を必要とする状態にあるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">別表第一の障害等級第一級、第二級若しくは第三級の障害補償年金又は障害年金を受ける権利を有する者のうち、在学者等であつて、学資又は職業訓練に要する費用の支給を必要とする状態にあるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">障害補償年金又は障害年金を受ける権利を有する者のうち、在学者等である子と生計を同じくしている者であつて、当該在学者等に係る学資又は職業訓練に要する費用の支給を必要とする状態にあるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">傷病補償年金又は傷病年金を受ける権利を有する者のうち、在学者等である子と生計を同じくしている者であり、かつ傷病の程度が重篤な者であつて、当該在学者等に係る学資又は職業訓練に要する費用の支給を必要とする状態にあるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">労災就学援護費の額は、次の各号に掲げる者の区分に応じ、当該各号に定める額とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">小学校、義務教育学校の前期課程又は特別支援学校の小学部に在学する者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">対象者一人につき月額一万四千円</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">中学校、義務教育学校の後期課程、中等教育学校の前期課程又は特別支援学校の中学部に在学する者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">対象者一人につき月額一万八千円（ただし、通信制課程に在学する者にあつては、一人につき月額一万五千円）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">高等学校、中等教育学校の後期課程、特別支援学校の高等部、高等専門学校（第一学年から第三学年までに限る。）若しくは専修学校の高等課程若しくは一般課程に在学する者又は公共職業能力開発施設において中学校を卒業した者若しくはこれと同等以上の学力を有するものと都道府県労働基準局長が認める者を対象とする普通職業訓練若しくは職業訓練法施行規則の一部を改正する省令（昭和五十三年労働省令第三十七号）附則第二条第一項に規定する専修訓練課程の普通職業訓練を受ける者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">対象者一人につき月額一万八千円（ただし、通信による教育を行う課程に在学する者にあつては、一人につき月額一万五千円）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">大学、高等専門学校の第四学年、第五学年若しくは専攻科若しくは専修学校の専門課程に在学する者又は公共職業能力開発施設において普通職業訓練を受ける者（前号に掲げる者を除く。）若しくは高度職業訓練を受ける者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">対象者一人につき月額三万九千円（ただし、通信による教育を行う課程に在学する者にあつては、一人につき月額三万円）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、労災就学援護費の支給に関し必要な事項は、厚生労働省労働基準局長が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（労災就労保育援護費）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">労災就労保育援護費は、次のいずれかに該当する者に対して、支給するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">遺族補償年金又は遺族年金を受ける権利を有する者のうち、家庭において必要な保育を受けることが困難である乳児又は幼児（以下この項及び次項において「要保育児」という。）であり、かつ、当該要保育児と生計を同じくしている者の就労のため学校教育法第一条に規定する幼稚園、保育所又は幼保連携型認定こども園（以下この項において「幼稚園等」という。）に預けられている者であつて、保育に要する費用の援助の必要があると認められるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">遺族補償年金又は遺族年金を受ける権利を有する者のうち、労働者の死亡の当時その収入によつて生計を維持していた要保育児たる当該労働者の子（当該労働者の死亡当時胎児であつた子を含む。）と生計を同じくしている者であり、かつ、就労のため当該要保育児を幼稚園等に預けている者であつて、保育に要する費用の援助の必要があると認められるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">障害補償年金又は障害年金を受ける権利を有する者のうち、要保育児であり、かつ、当該要保育児と生計を同じくしている者の就労のため幼稚園等に預けられている者であつて、保育に要する費用の援助の必要があると認められるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">障害補償年金又は障害年金を受ける権利を有する者のうち、要保育児たる当該権利を有する者の子と生計を同じくしており、かつ、自己と生計を同じくしている者の就労のため当該要保育児を幼稚園等に預けている者であつて、保育に要する費用の援助の必要があると認められるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">障害補償年金又は障害年金を受ける権利を有する者のうち、要保育児たる当該権利を有する者の子と生計を同じくしており、かつ、自己の就労のため当該要保育児を幼稚園等に預けている者であつて、保育に要する費用の援助の必要があると認められるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">傷病補償年金又は傷病年金を受ける権利を有する者のうち、要保育児たる当該受給権者の子と生計を同じくしており、かつ、自己と生計を同じくしている者の就労のため当該要保育児を幼稚園等に預けている者であつて、保育に要する費用の援助の必要があると認められるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他前各号に掲げる者に類するものとして厚生労働省労働基準局長が定める者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">労災就労保育援護費の支給額は、要保育児一人につき、月額一万二千円とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、労災就労保育援護費の支給に関し必要な事項は、厚生労働省労働基準局長が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（休業補償特別援護金）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">休業補償特別援護金は、業務上の負傷又は疾病による療養のため労働することができないために賃金を受けない日が四日以上である労働者であつて、現に労働基準法第七十六条第一項に規定する休業補償を受けておらず、かつ、受けられる見込みのない者のうち、次のいずれかに該当する者に対して、支給するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">労働基準法施行規則別表第一の二第三号の２若しくは３、第五号又は第七号８に掲げる疾病にり患した者のうち、労働保険の保険料の徴収等に関する法律施行規則第十七条の二の表の一の項から四の項までの第三欄に掲げる事業に使用された者であつて、同表の一の項から四の項までの第四欄に掲げる者に該当するもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">疾病の発生が診断により確定したときに、当該疾病の原因となつた業務に従事した事業場が廃止され、又はその事業主の行方が知れないため、業務上の負傷又は疾病による療養のため労働することができないために賃金を受けない日の第三日目までの期間についての休業補償を請求することができない者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">休業補償特別援護金の支給額は、休業補償給付の三日分に相当する額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、休業補償特別援護金の支給に関し必要な事項は、厚生労働省労働基準局長が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（長期家族介護者援護金）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">長期家族介護者援護金は、別表第一の障害等級第一級若しくは第二級の障害補償年金若しくは障害年金又は別表第二の傷病等級第一級若しくは第二級の傷病補償年金若しくは傷病年金を受けていた期間が十年以上である者の遺族のうち、支援が必要な者として厚生労働省労働基準局長が定める要件を満たす者に対して、支給するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">長期家族介護者援護金の額は、百万円とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、長期家族介護者援護金の支給を受けることができる遺族が二人以上の場合には、百万円をその数で除して得た額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、長期家族介護者援護金の支給に関し必要な事項は、厚生労働省労働基準局長が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleCaption>（労災療養援護金）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">労災療養援護金は、労働基準法施行規則別表第一の二第一号及び第五号に規定する疾病のうち厚生労働省労働基準局長が定める疾病により、昭和三十五年三月三十一日以前に労働者災害補償保険法の一部を改正する法律（昭和三十五年法律第二十九号）の規定による改正前の法第十二条第一項第六号の規定による打切補償費の支給を受けた者であつて、当該疾病の療養のため、厚生労働省労働基準局長が定める病院又は診療所において診療を受けているもの（当該疾病について法の規定による療養補償給付を受けることができる者を除く。）に対して、支給するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">労災療養援護金の支給額は、法に基づく療養補償給付若しくは介護補償給付の額又は公害健康被害の補償等に関する法律（昭和四十八年法律第百十一号）に基づく療養手当の額を考慮して厚生労働省労働基準局長が定める額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、労災療養援護金の支給に関し必要な事項は、厚生労働省労働基準局長が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleCaption>（法第二十九条第一項第三号に掲げる事業）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第二十九条第一項第三号に掲げる事業として、働き方改革推進支援助成金及び受動喫煙防止対策助成金を支給するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39">
+          <ArticleCaption>（働き方改革推進支援助成金）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">働き方改革推進支援助成金は、次に掲げる中小企業事業主（その資本金の額又は出資の総額が三億円（小売業又はサービス業を主たる事業とする事業主については五千万円、卸売業を主たる事業とする事業主については一億円）を超えない事業主及びその常時雇用する労働者の数が三百人（小売業を主たる事業とする事業主については五十人、卸売業又はサービス業を主たる事業とする事業主については百人）を超えない事業主をいう。以下この条及び次条において同じ。）又は中小企業事業主の団体若しくはその連合団体（以下この条において「事業主団体等」という。）に対して、支給するものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2878,7 +3359,7 @@
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">次のいずれにも該当する中小企業事業主であると都道府県労働局長（（２）に規定する計画に（２）（ｉｉ）（ヘ）に掲げる措置が記載されている場合には、厚生労働大臣。（２）において同じ。）が認定したもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次のいずれにも該当する中小企業事業主であると都道府県労働局長（（２）に規定する計画に（２）（ｉｉ）（ハ）に掲げる措置が記載されている場合には、厚生労働大臣。（２）において同じ。）が認定したもの</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
                   <Subitem2Title>（１）</Subitem2Title>
@@ -2900,40 +3381,22 @@
                   <Subitem3 Num="2">
                     <Subitem3Title>（ｉｉ）</Subitem3Title>
                     <Subitem3Sentence>
-                      <Sentence Num="1" WritingMode="vertical">労働基準法第三十九条の規定による年次有給休暇の取得の促進のための措置、所定外労働の削減のための措置及び労働時間等の設定の改善のための次に掲げるいずれかの措置</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">労働基準法第三十九条の規定による年次有給休暇の取得の促進のための措置、労働時間の短縮のための措置又は労働時間等の設定の改善のための次に掲げるいずれかの措置</Sentence>
                     </Subitem3Sentence>
                     <Subitem4 Num="1">
                       <Subitem4Title>（イ）</Subitem4Title>
                       <Subitem4Sentence>
-                        <Sentence Num="1" WritingMode="vertical">労働者の多様な事情及び業務の態様に応じた労働時間の設定</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">労働時間等の設定の改善に関する特別措置法第二条第一項の健康及び福祉を確保するために必要な終業から始業までの時間の設定</Sentence>
                       </Subitem4Sentence>
                     </Subitem4>
                     <Subitem4 Num="2">
                       <Subitem4Title>（ロ）</Subitem4Title>
                       <Subitem4Sentence>
-                        <Sentence Num="1" WritingMode="vertical">労働基準法施行規則（昭和二十二年厚生省令第二十三号）第二十五条の二第一項の規定により労働者に一週間について四十四時間、一日について八時間まで労働させることができる事業であつて、一週間の所定労働時間が四十時間を超えているものにおいて、一週間の所定労働時間を短縮して四十時間以下とする措置</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">子の養育又は家族の介護を行う労働者その他の特に配慮を必要とする労働者に対する休暇の付与その他の必要な措置</Sentence>
                       </Subitem4Sentence>
                     </Subitem4>
                     <Subitem4 Num="3">
                       <Subitem4Title>（ハ）</Subitem4Title>
-                      <Subitem4Sentence>
-                        <Sentence Num="1" WritingMode="vertical">労働時間等の設定の改善に関する特別措置法第二条第一項の健康及び福祉を確保するために必要な終業から始業までの時間の設定</Sentence>
-                      </Subitem4Sentence>
-                    </Subitem4>
-                    <Subitem4 Num="4">
-                      <Subitem4Title>（ニ）</Subitem4Title>
-                      <Subitem4Sentence>
-                        <Sentence Num="1" WritingMode="vertical">子の養育又は家族の介護を行う労働者その他の特に配慮を必要とする労働者に対する休暇の付与その他の必要な措置</Sentence>
-                      </Subitem4Sentence>
-                    </Subitem4>
-                    <Subitem4 Num="5">
-                      <Subitem4Title>（ホ）</Subitem4Title>
-                      <Subitem4Sentence>
-                        <Sentence Num="1" WritingMode="vertical">在宅勤務その他の多様な就労を可能とする措置（（ヘ）に掲げる措置を除く。）</Sentence>
-                      </Subitem4Sentence>
-                    </Subitem4>
-                    <Subitem4 Num="6">
-                      <Subitem4Title>（ヘ）</Subitem4Title>
                       <Subitem4Sentence>
                         <Sentence Num="1" WritingMode="vertical">情報通信技術を活用した勤務（一週間について一日以上在宅又はその中小企業事業主が指定した事務所であつて、労働者が所属する事業場と異なる事務所で勤務を行うものに限る。）を可能とする措置</Sentence>
                       </Subitem4Sentence>
@@ -2980,9 +3443,9 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="29">
+        <Article Num="40">
           <ArticleCaption>（受動喫煙防止対策助成金）</ArticleCaption>
-          <ArticleTitle>第二十九条</ArticleTitle>
+          <ArticleTitle>第四十条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -3002,8 +3465,8 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="30:42">
-          <ArticleTitle>第三十条から第四十二条まで</ArticleTitle>
+        <Article Num="41:42">
+          <ArticleTitle>第四十一条及び第四十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -4055,7 +4518,7 @@
         <Item Num="2">
           <ItemTitle>二</ItemTitle>
           <ItemSentence>
-            <Sentence Num="1" WritingMode="vertical">障害補償年金前払一時金が支給された月後最初の障害補償年金の支払期月から一年を経過した月以後各月に支給されるべき障害補償年金の額を、百分の五にその経過した年数（当該年数に一未満の端数を生じたときは、これを切り捨てるものとする。）を乗じて得た数に一を加えた数で除して得た額の合算額</Sentence>
+            <Sentence Num="1" WritingMode="vertical">障害補償年金前払一時金が支給された月後最初の障害補償年金の支払期月から一年を経過した月以後各月に支給されるべき障害補償年金の額を、法第八条第一項に規定する算定事由発生日における法定利率にその経過した年数（当該年数に一未満の端数を生じたときは、これを切り捨てるものとする。）を乗じて得た数に一を加えた数で除して得た額の合算額</Sentence>
           </ItemSentence>
         </Item>
       </Paragraph>
@@ -4172,7 +4635,7 @@
         <Item Num="2">
           <ItemTitle>二</ItemTitle>
           <ItemSentence>
-            <Sentence Num="1" WritingMode="vertical">年金給付を支給すべき事由が生じた月後最初の年金給付の支払期月から一年を経過した月以後各月に支給されるべき年金給付の額を、百分の五にその経過した年数（当該年数に一未満の端数を生じたときは、これを切り捨てるものとする。）を乗じて得た数に一を加えた数で除して得た額の合算額</Sentence>
+            <Sentence Num="1" WritingMode="vertical">年金給付を支給すべき事由が生じた月後最初の年金給付の支払期月から一年を経過した月以後各月に支給されるべき年金給付の額を、法第八条第一項に規定する算定事由発生日における法定利率にその経過した年数（当該年数に一未満の端数を生じたときは、これを切り捨てるものとする。）を乗じて得た数に一を加えた数で除して得た額の合算額</Sentence>
           </ItemSentence>
         </Item>
       </Paragraph>
@@ -5253,8 +5716,7 @@
               </TableRow>
             </Table>
           </QuoteStruct>
-          」を削る部分及び次条から附則第四条までの規定は、昭和五十六年四月一日から施行する。
-          </Sentence>
+          」を削る部分及び次条から附則第四条までの規定は、昭和五十六年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -6416,10 +6878,12 @@
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderRight="solid">
                   <Sentence Num="1" WritingMode="vertical">１０００分の６</Sentence>
-               </TableColumn>
-</TableRow>
-</Table>
-</QuoteStruct>」を「<QuoteStruct>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </QuoteStruct>
+          」を「
+          <QuoteStruct>
             <Table WritingMode="vertical">
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderRight="solid">
@@ -6442,9 +6906,10 @@
                 <TableColumn BorderBottom="solid" BorderRight="solid">
                   <Sentence Num="1" WritingMode="vertical">１０００分の７</Sentence>
                 </TableColumn>
-</TableRow>
-</Table>
-</QuoteStruct>」に改める部分並びに第三条中労働者災害補償保険特別支給金支給規則第十七条第五号の改正規定は、同年三月三十一日から施行する。</Sentence>
+              </TableRow>
+            </Table>
+          </QuoteStruct>
+          」に改める部分並びに第三条中労働者災害補償保険特別支給金支給規則第十七条第五号の改正規定は、同年三月三十一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -7478,9 +7943,51 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日厚生労働省令第七〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中労働者災害補償保険法施行規則第二十一条の改正規定及び第四条の規定並びに附則第四条の規定は公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和二年三月以前の月に係る労働者災害補償保険法（昭和二十二年法律第五十号。以下「法」という。）による介護補償給付及び介護給付の額並びに労働者災害補償保険法等の一部を改正する法律（平成七年法律第三十五号）附則第八条の規定によりなおその効力を有するものとされる同法附則第七条の規定による改正前の炭鉱災害による一酸化炭素中毒症に関する特別措置法（昭和四十二年法律第九十二号）による介護料の金額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の日（以下「施行日」という。）前の第一条の規定による改正前の労働者災害補償保険法施行規則附則第三十項（同令附則第三十四項、第三十九項及び第四十二項において準用する場合を含む。）の規定による障害補償年金の支給停止及び同令附則第四十四項の規定による年金給付の支給停止については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日の前日までの間に支給すべき事由が生じた法の規定による保険給付及び労働者災害補償保険特別支給金支給規則（昭和四十九年労働省令第三十号）の規定による特別支給金のうち、施行日前に算定された給付基礎日額を基礎として支払われた年金たる保険給付並びに同令の規定による障害特別年金、遺族特別年金及び傷病特別年金の額（法第九条第三項に規定する支払期月（同項ただし書に規定する場合にあっては、同項ただし書の規定により支払うものとされる月）にそれぞれ支払われた額の合計額）は、労働者災害補償保険法施行規則等の一部を改正する省令（平成三十一年厚生労働省令第六十四号）附則第二条の規定を準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
-      <RelatedArticleNum>　障害等級表（第十四条、第十五条、第十八条の八関係）</RelatedArticleNum>
+      <RelatedArticleNum>　障害等級表（第十四条、第十五条、第十八条の八、第三十一条、第三十三条、第三十六条関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>

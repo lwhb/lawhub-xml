@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="102" Year="19">
+<Law DataInfo="200720e05k03m02" Era="Heisei" Lang="ja" LawType="Act" Num="102" Year="19">
   <LawNum>平成十九年法律第百二号</LawNum>
   <LawBody>
     <LawTitle>電子記録債権法</LawTitle>
@@ -3323,7 +3323,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>財務大臣は、その所掌に係る金融破綻たん処理制度及び金融危機管理に関し、電子記録債権に係る制度の企画又は立案をするため必要があると認めるときは、内閣総理大臣に対し、必要な資料の提出及び説明を求めることができる。</Sentence>
+              <Sentence>財務大臣は、その所掌に係る金融破<Ruby>綻<Rt>たん</Rt>
+</Ruby>処理制度及び金融危機管理に関し、電子記録債権に係る制度の企画又は立案をするため必要があると認めるときは、内閣総理大臣に対し、必要な資料の提出及び説明を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3625,7 +3626,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二八年六月三日法律第六二号" Type="Amend">
+    <SupplProvision AmendLawNum="平成二八年六月三日法律第六二号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

@@ -79,10 +79,10 @@
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第三十条第三項の環境省令、農林水産省令で定める事項は、次の各号に掲げるものとする。</Sentence>
           </ParagraphSentence>
-          <Item Num="1">
+          <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence>法人にあっては、その代表者の氏名</Sentence>
+              <Sentence WritingMode="vertical">法人にあっては、その代表者の氏名</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -97,10 +97,10 @@
               <Sentence WritingMode="vertical">譲渡し又は引渡しの業務の対象とする特定第一種国内希少野生動植物種</Sentence>
             </ItemSentence>
           </Item>
-          <Item Num="4">
+          <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence>特定国内種事業の届出年月日</Sentence>
+              <Sentence WritingMode="vertical">特定国内種事業の届出年月日</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -167,10 +167,10 @@
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第三十条第四項の規定による廃止の届出は、次の各号に掲げる事項を記載した届出書を提出して行うものとする。</Sentence>
           </ParagraphSentence>
-          <Item Num="1">
+          <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence>届出者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+              <Sentence WritingMode="vertical">届出者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -395,17 +395,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一七日農林水産省・環境省令第一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和元年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
-      <AppdxStyleTitle>別記様式</AppdxStyleTitle>
+      <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src=""/>
-        </Style>
-      </StyleStruct>
-      <StyleStruct>
-        <Style>
-          <Fig src="./pict/H05F03102005001-001.pdf"/>
+          <Fig src="./pict/H05F03102005001_1907301107_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

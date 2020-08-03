@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="22" Year="05">
+<Law DataInfo="200528e01k01m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="22" Year="05">
   <LawNum>平成五年大蔵省令第二十二号</LawNum>
   <LawBody>
     <LawTitle>特定有価証券の内容等の開示に関する内閣府令</LawTitle>
@@ -242,13 +242,13 @@
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">内国信託受益権（法第二条第二項第一号に掲げる権利のうち法第三条第三号ロに掲げる権利に該当するものをいう。以下同じ。）</Sentence>
+                <Sentence WritingMode="vertical">内国信託受益権（法第二条第二項第一号に掲げる権利のうち法第三条第三号イ（２）に掲げる権利に該当するもの及び金融商品取引法施行令（昭和四十年政令第三百二十一号。以下「令」という。）第二条の十三第八号に掲げる権利に該当するものをいう。以下同じ。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">外国信託受益権（法第二条第二項第二号に掲げる権利のうち法第三条第三号ロに掲げる権利に該当するものをいう。以下同じ。）</Sentence>
+                <Sentence WritingMode="vertical">外国信託受益権（法第二条第二項第二号に掲げる権利のうち法第三条第三号イ（２）に掲げる権利に該当するもの及び令第二条の十三第九号に掲げる権利に該当するものをいう。以下同じ。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -259,7 +259,7 @@
                 <Sentence WritingMode="vertical">内国有価証券投資事業権利等</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">法第二条第二項第三号及び第五号に掲げる権利のうち法第三条第三号イ又はロに掲げる権利に該当するものをいう。</Sentence>
+                <Sentence WritingMode="vertical">法第二条第二項第三号及び第五号に掲げる権利のうち法第三条第三号イ（１）又は（２）に掲げる権利に該当するものをいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -270,7 +270,29 @@
                 <Sentence WritingMode="vertical">外国有価証券投資事業権利等</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">法第二条第二項第四号及び第六号に掲げる権利のうち法第三条第三号イ又はロに掲げる権利に該当するものをいう。</Sentence>
+                <Sentence WritingMode="vertical">法第二条第二項第四号及び第六号に掲げる権利のうち法第三条第三号イ（２）に掲げる権利に該当するものをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_4">
+            <ItemTitle>五の四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">特定内国電子記録移転権利</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">令第二条の十三第十号及び第十二号に掲げる権利（法第二条第二項第五号に掲げる権利に該当するものに限る。）をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5_5">
+            <ItemTitle>五の五</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">特定外国電子記録移転権利</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">令第二条の十三第十一号及び第十二号に掲げる権利（法第二条第二項第六号に掲げる権利に該当するものに限る。）をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -281,7 +303,7 @@
                 <Sentence WritingMode="vertical">特定有価証券信託受益証券</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">金融商品取引法施行令（昭和四十年政令第三百二十一号。以下「令」という。）第二条の十三第六号及び第八条第六号に掲げる有価証券をいう。</Sentence>
+                <Sentence WritingMode="vertical">令第二条の十三第六号及び第八条第六号に掲げる有価証券をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -303,7 +325,7 @@
                 <Sentence WritingMode="vertical">内国特定有価証券</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">第二号の二、第三号イ、第三号の二、第三号の四イ、第四号イ、第四号の二イ、第四号の三イ、第五号イ及び第五号の二に掲げる有価証券並びに第六号及び第六号の二に掲げる有価証券（内国法人が発行者であるものに限る。）をいう。</Sentence>
+                <Sentence WritingMode="vertical">第二号の二、第三号イ、第三号の二、第三号の四イ、第四号イ、第四号の二イ、第四号の三イ、第五号イ、第五号の二及び第五号の四に掲げる有価証券並びに第六号及び第六号の二に掲げる有価証券（内国法人が発行者であるものに限る。）をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -314,7 +336,7 @@
                 <Sentence WritingMode="vertical">外国特定有価証券</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">第二号の三、第三号ロ、第三号の三、第三号の四ロ、第四号ロ、第四号の二ロ、第四号の三ロ、第四号の四、第五号ロ及び第五号の三に掲げる有価証券並びに第六号及び第六号の二に掲げる有価証券（外国の者が発行者であるものに限る。）をいう。</Sentence>
+                <Sentence WritingMode="vertical">第二号の三、第三号ロ、第三号の三、第三号の四ロ、第四号ロ、第四号の二ロ、第四号の三ロ、第四号の四、第五号ロ、第五号の三及び第五号の五に掲げる有価証券並びに第六号及び第六号の二に掲げる有価証券（外国の者が発行者であるものに限る。）をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -369,7 +391,7 @@
                 <Sentence WritingMode="vertical">組合等財産</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">内国有価証券投資事業権利等又は外国有価証券投資事業権利等の発行者が当該内国有価証券投資事業権利等又は当該外国有価証券投資事業権利等に係る事業のために管理、運用又は処分する財産をいう。</Sentence>
+                <Sentence WritingMode="vertical">内国有価証券投資事業権利等若しくは外国有価証券投資事業権利等又は特定内国電子記録移転権利若しくは特定外国電子記録移転権利の発行者が当該内国有価証券投資事業権利等若しくは当該外国有価証券投資事業権利等又は当該特定内国電子記録移転権利若しくは当該特定外国電子記録移転権利に係る事業のために管理、運用又は処分する財産をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -392,7 +414,7 @@
                 <Sentence WritingMode="vertical">有価証券の募集</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">法第二条第三項に規定する有価証券の募集及び法第二条の二第四項に規定する特定組織再編成発行手続をいう。</Sentence>
+                <Sentence WritingMode="vertical">法第二条第三項に規定する有価証券の募集及び法第二条の三第四項に規定する特定組織再編成発行手続をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -403,7 +425,7 @@
                 <Sentence WritingMode="vertical">有価証券の売出し</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">法第二条第四項に規定する有価証券の売出し、法第四条第二項に規定する適格機関投資家取得有価証券一般勧誘（法第二条第四項に規定する有価証券の売出しに該当するものを除く。）、法第四条第三項に規定する特定投資家等取得有価証券一般勧誘（法第二条第四項に規定する有価証券の売出しに該当するものを除く。第四条の四において同じ。）及び法第二条の二第五項に規定する特定組織再編成交付手続をいう。</Sentence>
+                <Sentence WritingMode="vertical">法第二条第四項に規定する有価証券の売出し、法第四条第二項に規定する適格機関投資家取得有価証券一般勧誘（法第二条第四項に規定する有価証券の売出しに該当するものを除く。）、法第四条第三項に規定する特定投資家等取得有価証券一般勧誘（法第二条第四項に規定する有価証券の売出しに該当するものを除く。第四条の四において同じ。）及び法第二条の三第五項に規定する特定組織再編成交付手続をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -774,7 +796,7 @@
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該特定有価証券信託受益証券に係る受託有価証券が同一種類の特定有価証券（特定有価証券の発行者が同一で、金融商品取引法第二条に規定する定義に関する内閣府令（平成五年大蔵省令第十四号。以下「定義府令」という。）第十条の二第一項各号に掲げる有価証券の区分に応じ、当該各号に定める事項が同一である特定有価証券をいい、次に掲げる全ての要件を満たすものを除く。）であること。</Sentence>
+              <Sentence WritingMode="vertical">当該特定有価証券信託受益証券に係る受託有価証券が同一種類の特定有価証券（特定有価証券の発行者が同一で、金融商品取引法第二条に規定する定義に関する内閣府令（平成五年大蔵省令第十四号。以下「定義府令」という。）第十条の二第一項各号に掲げる有価証券の区分に応じ、当該各号に定める事項が同一である特定有価証券をいい、次に掲げる要件の全てを満たすものを除く。）であること。</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -917,7 +939,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">その有価証券発行勧誘等（法第四条第二項に規定する有価証券発行勧誘等をいう。第十九条第一項及び第二十条第一項において同じ。）が適格機関投資家向け勧誘（法第二十三条の十三第一項（法第二十七条において準用する場合を含む。第十九条において同じ。）に規定する適格機関投資家向け勧誘をいう。第十九条において同じ。）に該当する特定有価証券（第四条において「適格機関投資家向け特定有価証券」という。）を発行する外国の者は、本邦内に住所を有する者であって、当該外国特定有価証券の譲渡に関する行為につき、当該外国特定有価証券の発行者を代理する権限を有するもの（同条において「発行者の代理人」という。）を定めなければならない。</Sentence>
+            <Sentence WritingMode="vertical">その有価証券発行勧誘等（法第四条第二項に規定する有価証券発行勧誘等をいう。以下同じ。）が適格機関投資家向け勧誘（法第二十三条の十三第一項（法第二十七条において準用する場合を含む。第十九条において同じ。）に規定する適格機関投資家向け勧誘をいう。第十九条において同じ。）に該当する特定有価証券（第四条において「適格機関投資家向け特定有価証券」という。）を発行する外国の者は、本邦内に住所を有する者であって、当該外国特定有価証券の譲渡に関する行為につき、当該外国特定有価証券の発行者を代理する権限を有するもの（同条において「発行者の代理人」という。）を定めなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -984,7 +1006,7 @@
                 <Sentence WritingMode="vertical">内国特定有価証券</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">申請のあった日の属する特定期間（第二十三条に規定する期間をいう。以下同じ。）の直前特定期間の末日及び直前特定期間の開始の日前二年以内に開始した特定期間（次号において「基準特定期間」という。）すべての末日において当該特定有価証券の所有者の名簿に記載され、又は記録されている者の数</Sentence>
+                <Sentence WritingMode="vertical">申請のあった日の属する特定期間（第二十三条に規定する期間をいう。以下同じ。）の直前特定期間の末日及び直前特定期間の開始の日前二年以内に開始した特定期間（次号において「基準特定期間」という。）全ての末日において当該特定有価証券の所有者の名簿に記載され、又は記録されている者の数</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -1024,6 +1046,23 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">法第四条第三項第三号に規定する内閣府令で定めるものは、定義府令第十条の二第一項各号に掲げる有価証券の区分に応じ、当該各号に定める事項が同一である特定有価証券とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4_6">
+        <ArticleCaption>（暗号資産の換算等）</ArticleCaption>
+        <ArticleTitle>第四条の六</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令の規定により作成することとされている書類中、暗号資産（資金決済に関する法律第二条第五項に規定する暗号資産をいう。以下同じ。）をもって数量を表示するものがあるときは、主要な事項について当該数量を本邦通貨に換算した金額及びその換算に当たって採用した換算の基準を付記するとともに、当該暗号資産の名称及び概要を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第二条の二及び令第一条の二十三に定めるもののほか、暗号資産は、この府令の規定の金銭又は取引に係る金銭とみなして、この府令の規定を適用する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この府令の規定により作成することとされている書類に記載する事項のうち貸借対照表、損益計算書その他の財務計算に関する書類に記載された事項に準拠するものに係る規定の金銭又は取引に係る金銭については、法第百九十三条に規定する内閣府令の定めるところによる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1171,7 +1210,7 @@
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">内国有価証券投資事業権利等</Sentence>
+                <Sentence WritingMode="vertical">内国有価証券投資事業権利等及び特定内国電子記録移転権利</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">第三号の五様式</Sentence>
@@ -1182,7 +1221,7 @@
             <ItemTitle>十四</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">外国有価証券投資事業権利等</Sentence>
+                <Sentence WritingMode="vertical">外国有価証券投資事業権利等及び特定外国電子記録移転権利</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">第三号の六様式</Sentence>
@@ -1290,7 +1329,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四条第七項に規定する内閣府令で定める場合は、次に掲げる場合とする。</Sentence>
+            <Sentence WritingMode="vertical">法第四条第七項第二号に規定する内閣府令で定める場合は、次に掲げる場合とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1313,12 +1352,12 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="8">
-        <ArticleCaption>（令第二条の十三第八号に掲げる特定有価証券）</ArticleCaption>
+        <ArticleCaption>（令第二条の十三第十三号に掲げる特定有価証券）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第二条の十三第八号に規定する内閣府令で定めるものは、次に掲げるものとする。</Sentence>
+            <Sentence WritingMode="vertical">令第二条の十三第十三号に規定する内閣府令で定めるものは、次に掲げるものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1329,7 +1368,7 @@
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">法第二条第一項第五号又は第十五号に掲げる有価証券（資産流動化法第二条第十項に規定する特定約束手形を除く。）の性質を有するもののうち、次に掲げる全ての要件を満たすもの</Sentence>
+              <Sentence WritingMode="vertical">法第二条第一項第五号又は第十五号に掲げる有価証券（資産流動化法第二条第十項に規定する特定約束手形を除く。）の性質を有するもののうち、次に掲げる要件の全てを満たすもの</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -1353,7 +1392,7 @@
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">法第二条第一項第十七号に掲げる有価証券のうち、同項第五号、第六号、第九号若しくは第十五号に掲げる有価証券の性質を有するもので第二号に掲げる全ての要件を満たすもの又は同項第四号若しくは第八号に掲げるものの性質を有するもの</Sentence>
+              <Sentence WritingMode="vertical">法第二条第一項第十七号に掲げる有価証券のうち、同項第五号、第六号、第九号若しくは第十五号に掲げる有価証券の性質を有するもので第二号に掲げる要件の全てを満たすもの又は同項第四号若しくは第八号に掲げるものの性質を有するもの</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
@@ -1365,7 +1404,7 @@
           <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">有価証券信託受益証券（令第二条の三第三号に規定する有価証券信託受益証券をいう。）のうち、第一号から第五号までに掲げる有価証券を受託有価証券とするもの</Sentence>
+              <Sentence WritingMode="vertical">有価証券信託受益証券（令第二条の三第三号に規定する有価証券信託受益証券をいう。）のうち、前各号に掲げる有価証券を受託有価証券とするもの</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="7">
@@ -1536,7 +1575,7 @@
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">内国有価証券投資事業権利等</Sentence>
+                <Sentence WritingMode="vertical">内国有価証券投資事業権利等及び特定内国電子記録移転権利</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">第六号の五様式</Sentence>
@@ -1547,7 +1586,7 @@
             <ItemTitle>十四</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">外国有価証券投資事業権利等</Sentence>
+                <Sentence WritingMode="vertical">外国有価証券投資事業権利等及び特定外国電子記録移転権利</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">第六号の六様式</Sentence>
@@ -1590,7 +1629,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第五条第五項において準用する同条第一項ただし書（法第二十七条において準用する場合を含む。以下この条において同じ。）に規定する内閣府令で定める場合は、次の各号に掲げる場合とし、法第五条第五項において準用する同条第一項ただし書、法第十三条第二項ただし書及び第二十三条の十二第七項（これらの規定を法第二十七条において準用する場合を含む。）に規定する内閣府令で定める事項は、当該各号に掲げる場合の区分に応じ当該各号に掲げる事項とする。</Sentence>
+            <Sentence WritingMode="vertical">法第五条第五項において準用する同条第一項ただし書（法第二十七条において準用する場合を含む。以下この条において同じ。）に規定する内閣府令で定める場合は、次の各号に掲げる場合とし、法第五条第五項において準用する同条第一項ただし書、法第十三条第二項ただし書及び第二十三条の十二第七項（これらの規定を法第二十七条において準用する場合を含む。）に規定する内閣府令で定める事項は、当該各号に掲げる場合の区分に応じ当該各号に定める事項とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -2135,7 +2174,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第五条第五項において準用する同条第四項各号（これらの規定を法第二十七条において準用する場合を含む。以下同じ。）に掲げる全ての要件を満たす者が、有価証券届出書を提出しようとする場合には、法第五条第五項において準用する同条第四項（法第二十七条において準用する場合を含む。第十二条第一項第三号イにおいて同じ。）の規定により、次の各号に掲げる特定有価証券の区分に応じ、当該各号に定める様式により有価証券届出書を作成することができる。</Sentence>
+            <Sentence WritingMode="vertical">法第五条第五項において準用する同条第四項各号（これらの規定を法第二十七条において準用する場合を含む。以下同じ。）に掲げる要件の全てを満たす者が、有価証券届出書を提出しようとする場合には、法第五条第五項において準用する同条第四項（法第二十七条において準用する場合を含む。第十二条第一項第三号イにおいて同じ。）の規定により、次の各号に掲げる特定有価証券の区分に応じ、当該各号に定める様式により有価証券届出書を作成することができる。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -2370,7 +2409,7 @@
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">外国資産信託流動化証券</Sentence>
+                <Sentence WritingMode="vertical">外国資産信託流動化受益証券</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">第五号の五の二様式</Sentence>
@@ -2381,7 +2420,7 @@
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">外国信託受益証券</Sentence>
+                <Sentence WritingMode="vertical">外国信託受益証券、外国信託社債券、外国信託受益権及び外国貸付債権信託受益証券</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">第六号の二の二様式</Sentence>
@@ -2403,7 +2442,7 @@
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">外国有価証券投資事業権利等</Sentence>
+                <Sentence WritingMode="vertical">外国有価証券投資事業権利等及び特定外国電子記録移転権利</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">第六号の六の二様式</Sentence>
@@ -3296,13 +3335,13 @@
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定有価証券信託受益証券（前各号に掲げる特定有価証券を受託有価証券とするものに限る。第三項第五号において同じ。）</Sentence>
+              <Sentence WritingMode="vertical">特定有価証券信託受益証券（第一号から第四号までに掲げる特定有価証券を受託有価証券とするものに限る。第三項第五号において同じ。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定預託証券（第一号から第六号までに掲げる特定有価証券に係る権利を表示するものに限る。第三項第六号において同じ。）</Sentence>
+              <Sentence WritingMode="vertical">特定預託証券（第一号から第四号までに掲げる特定有価証券に係る権利を表示するものに限る。第三項第六号において同じ。）</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -3434,6 +3473,12 @@
                 <Sentence WritingMode="vertical">当該内国特定有価証券が特定預託証券（内国法人が発行者であるものに限る。）である場合には、当該特定預託証券の発行に関して締結された預託契約その他主要な契約の契約書の写し</Sentence>
               </Subitem1Sentence>
             </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該内国特定有価証券が特定電子記録移転権利（法第二条第三項に規定する電子記録移転権利で特定有価証券に該当するものをいう。以下同じ。）である場合であって、当該特定電子記録移転権利の仕組み、調達資金の使途、調達資金を充てて行う事業の内容その他の当該特定電子記録移転権利の概要を記載した書面（目論見書を除く。）を当該特定電子記録移転権利の募集又は売出しに使用しようとするときは、当該書面</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
@@ -3454,7 +3499,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">前号ロからホまでに掲げる書類</Sentence>
+                <Sentence WritingMode="vertical">前号ロからヘまでに掲げる書類</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -3477,7 +3522,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">第一号ロからホまでに掲げる書類</Sentence>
+                <Sentence WritingMode="vertical">第一号ロからヘまでに掲げる書類</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="3">
@@ -3582,7 +3627,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">第一号ロからホまでに掲げる書類</Sentence>
+                <Sentence WritingMode="vertical">第一号ロからヘまでに掲げる書類</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="3">
@@ -3643,7 +3688,7 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">前項各号に定める書類が日本語によって記載したものでないときは、その日本語による翻訳文を付さなければならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十一条の二第二項第二号の二に規定する外国会社報告書を提出した発行者が第四号の四の二様式又は第五号様式により作成した有価証券届出書を提出する場合及び同項第五号に規定する外国会社報告書を提出した発行者が第五号の三の二様式又は第五号の三の三様式により作成した有価証券届出書を提出する場合並びに外国会社届出書を提出する場合であって前項各号に定める書類が日本語又は英語をもって記載したものでないときは、その日本語又は英語による翻訳文を付さなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前項第一号ヘに掲げる書類並びに第十一条の二第二項第二号の二に規定する外国会社報告書を提出した発行者が第四号の四の二様式又は第五号様式により作成した有価証券届出書を提出する場合、同項第五号に規定する外国会社報告書を提出した発行者が第五号の三の二様式又は第五号の三の三様式により作成した有価証券届出書を提出する場合及び外国会社届出書を提出する場合における前項各号に定める書類が日本語又は英語をもって記載したものでないときは、その日本語又は英語による翻訳文を付さなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
@@ -3676,7 +3721,7 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第十一条各号に掲げる事項で当該有価証券届出書に記載しなかったものにつき、その内容が決定したこと。</Sentence>
+              <Sentence WritingMode="vertical">第十一条各号に定める事項で当該有価証券届出書に記載しなかったものにつき、その内容が決定したこと。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -4035,7 +4080,7 @@
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">内国有価証券投資事業権利等</Sentence>
+                <Sentence WritingMode="vertical">内国有価証券投資事業権利等及び特定内国電子記録移転権利</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">第六号の五様式第一部及び第二部に掲げる事項</Sentence>
@@ -4046,7 +4091,7 @@
             <ItemTitle>十四</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">外国有価証券投資事業権利等</Sentence>
+                <Sentence WritingMode="vertical">外国有価証券投資事業権利等及び特定外国電子記録移転権利</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">次に掲げる事項</Sentence>
@@ -4128,13 +4173,13 @@
             <Subitem1 Delete="false" Hide="false" Num="4">
               <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該特定有価証券が外国通貨によって表示されるものである場合には、外国為替相場の変動により影響を受けることがある旨</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券が外国通貨又は暗号資産をもって表示されるものである場合には、外国為替相場又は暗号資産の価値の変動により影響を受けることがある旨</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="5">
               <Subitem1Title>ホ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該特定有価証券が外国貸付債権信託受益証券又は内国信託受益証券のうち外国貸付債権信託受益証券に類する性質を有するものである場合であって元本の保証が行われていない場合には、その旨</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券が外国貸付債権信託受益証券又は内国信託受益証券若しくは内国信託受益権のうち外国貸付債権信託受益証券に類する性質を有するものである場合であって元本の保証が行われていない場合には、その旨</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="6">
@@ -4220,13 +4265,13 @@
             <Subitem1 Delete="false" Hide="false" Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該特定有価証券が外国通貨によって表示されるものである場合には、外国為替相場の変動により影響を受けることがある旨</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券が外国通貨又は暗号資産をもって表示されるものである場合には、外国為替相場又は暗号資産の価値の変動により影響を受けることがある旨</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="4">
               <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該特定有価証券が外国貸付債権信託受益証券又は内国信託受益証券のうち外国貸付債権信託受益証券に類する性質を有するものである場合であって元本の保証が行われていない場合には、その旨</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券が外国貸付債権信託受益証券又は内国信託受益証券若しくは内国信託受益権のうち外国貸付債権信託受益証券に類する性質を有するものである場合であって元本の保証が行われていない場合には、その旨</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="5">
@@ -4385,13 +4430,13 @@
             <Subitem1 Delete="false" Hide="false" Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該特定有価証券が外国通貨によって表示されるものである場合には、外国為替相場の変動により影響を受けることがある旨</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券が外国通貨又は暗号資産をもって表示されるものである場合には、外国為替相場又は暗号資産の価値の変動により影響を受けることがある旨</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="4">
               <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該特定有価証券が外国貸付債権信託受益証券又は内国信託受益証券のうち外国貸付債権信託受益証券に類する性質を有するものである場合であって元本の保証が行われていない場合には、その旨</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券が外国貸付債権信託受益証券又は内国信託受益証券若しくは内国信託受益権のうち外国貸付債権信託受益証券に類する性質を有するものである場合であって元本の保証が行われていない場合には、その旨</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -4434,7 +4479,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項各号に掲げる事項は、当該届出目論見書又は届出仮目論見書の表紙その他の見やすい箇所に記載しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項各号に定める事項は、当該届出目論見書又は届出仮目論見書の表紙その他の見やすい箇所に記載しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4465,13 +4510,13 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該特定有価証券が外国通貨によって表示されるものである場合には、外国為替相場の変動に伴い影響を受けることがある旨</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券が外国通貨又は暗号資産をもって表示されるものである場合には、外国為替相場又は暗号資産の価値の変動により影響を受けることがある旨</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該特定有価証券が外国貸付債権信託受益証券又は内国信託受益証券のうち外国貸付債権信託受益証券に類する性質を有するものである場合であって元本の保証が行われていない場合には、その旨</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券が外国貸付債権信託受益証券又は内国信託受益証券若しくは内国信託受益権のうち外国貸付債権信託受益証券に類する性質を有するものである場合であって元本の保証が行われていない場合には、その旨</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -4508,7 +4553,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項各号に掲げる事項は、当該届出目論見書又は届出仮目論見書の表紙その他の見やすい箇所に記載しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項各号に定める事項は、当該届出目論見書又は届出仮目論見書の表紙その他の見やすい箇所に記載しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4762,6 +4807,12 @@
                 <Sentence WritingMode="vertical">投資法人の目的及び基本的性格並びに主要な経営指標等の推移を的確かつ簡明に説明した書面</Sentence>
               </Subitem1Sentence>
             </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券が特定電子記録移転権利である場合であって、当該特定電子記録移転権利の仕組み、調達資金の使途、調達資金を充てて行う事業の内容その他の当該特定電子記録移転権利の概要を記載した書面（目論見書を除く。）を当該特定電子記録移転権利の募集又は売出しに使用しようとするときは、当該書面</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
@@ -4776,7 +4827,7 @@
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">前号イからハまでに掲げる書類</Sentence>
+                <Sentence WritingMode="vertical">前号イからハまで及びホに掲げる書類</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
@@ -4823,7 +4874,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">第一号ロ及びハに掲げる書類</Sentence>
+                <Sentence WritingMode="vertical">第一号ロ、ハ及びホに掲げる書類</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -4840,7 +4891,7 @@
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">前号イ及びロに掲げる書類</Sentence>
+                <Sentence WritingMode="vertical">前号に定める書類</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
@@ -4892,7 +4943,7 @@
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">前号に掲げる書類</Sentence>
+                <Sentence WritingMode="vertical">前号に定める書類</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
@@ -4952,9 +5003,30 @@
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">第一項第二号及び第四号並びに前項第二号及び第四号に定める書類が日本語によって記載したものでないときは、その日本語による翻訳文を付さなければならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十一条の二第二項第二号の二に規定する外国会社報告書を提出した発行者が第十六号様式及び第十六号の三様式により作成した発行登録書を提出する場合並びに同項第五号に規定する外国会社報告書を提出した発行者が第十六号の二様式により作成した発行登録書を提出する場合であって、第一項第二号及び第四号並びに前項第二号及び第四号に定める書類が日本語又は英語によって記載したものでないときは、その日本語又は英語による翻訳文を付さなければならない。</Sentence>
+            <Sentence WritingMode="vertical">次の各号に掲げる書類には、当該各号に定める翻訳文を付さなければならない。</Sentence>
           </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一項第二号及び第四号並びに前項第二号及び第四号に定める書類（次号に掲げるものを除く。）であって日本語により記載されていないもの</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">日本語による翻訳文</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一項第一号ホに掲げる書類並びに第十一条の二第二項第二号の二に規定する外国会社報告書を提出した発行者が第十六号様式及び第十六号の三様式により作成した発行登録書を提出する場合並びに同項第五号に規定する外国会社報告書を提出した発行者が第十六号の二様式により作成した発行登録書を提出する場合における第一項第二号及び第四号並びに前項第二号及び第四号に定める書類であって日本語又は英語により記載されていないもの</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">日本語又は英語による翻訳文</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="18_3">
@@ -5225,6 +5297,28 @@
               </Column>
             </ItemSentence>
           </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">特定有価証券信託受益証券（前各号に掲げる特定有価証券を受託有価証券とするものに限る。）</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">当該特定有価証券信託受益証券に係る受託有価証券につき、前各号に掲げる特定有価証券の区分に応じ当該各号に定める様式</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">特定預託証券（第一号から第四号までに掲げる特定有価証券に係る権利を表示するものに限る。）</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">当該特定預託証券に表示される権利に係る特定有価証券につき、第一号から第四号までに掲げる特定有価証券の区分に応じ当該各号に定める様式</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="18_7">
@@ -5243,7 +5337,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">特定有価証券に係る令第三条の二の二第四号に規定する内閣府令で定めるものは、振替外債（社債等振替法第百二十七条において準用する社債等振替法第六十六条（第一号を除く。）に規定する振替外債（同条に規定する振替社債、社債等振替法第百十七条において準用する社債等振替法第六十六条（同条第一号イからニまでを除く。）に規定する振替社債、社債等振替法第百十八条において準用する社債等振替法第六十六条（同条第一号イからニまでを除く。）に規定する振替特定社債又は社債等振替法第百十六条に規定する振替投資法人債の性質を有するものに限る。）をいう。以下同じ。）のうち、次に掲げる要件のすべてに該当するもの（以下「短期外債」という。）とする。</Sentence>
+            <Sentence WritingMode="vertical">特定有価証券に係る令第三条の二の二第四号に規定する内閣府令で定めるものは、振替外債（社債等振替法第百二十七条において準用する社債等振替法第六十六条（第一号を除く。）に規定する振替外債（同条に規定する振替社債、社債等振替法第百十七条において準用する社債等振替法第六十六条（同条第一号イからニまでを除く。）に規定する振替社債、社債等振替法第百十八条において準用する社債等振替法第六十六条（同条第一号イからニまでを除く。）に規定する振替特定社債又は社債等振替法第百十六条に規定する振替投資法人債の性質を有するものに限る。）をいう。以下同じ。）のうち、次に掲げる要件の全てに該当するもの（以下「短期外債」という。）とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -5387,7 +5481,7 @@
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">前号イ及びロに掲げる書類</Sentence>
+                <Sentence WritingMode="vertical">前号に定める書類</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
@@ -5439,7 +5533,7 @@
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">前号イ及びロに掲げる書類</Sentence>
+                <Sentence WritingMode="vertical">前号に定める書類</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
@@ -5456,7 +5550,7 @@
                 <Sentence WritingMode="vertical">特定有価証券信託受益証券の発行者</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">当該特定有価証券信託受益証券に係る受託有価証券につき、前各号に掲げる特定有価証券の区分に応じ当該各号に定める書類</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券信託受益証券に係る受託有価証券につき、前各号に掲げる特定有価証券の発行者の区分に応じ当該各号に定める書類</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -5467,7 +5561,7 @@
                 <Sentence WritingMode="vertical">特定預託証券の発行者</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">当該特定預託証券に表示される権利に係る特定有価証券につき、第一号から第四号までに掲げる特定有価証券の区分に応じ当該各号に定める書類</Sentence>
+                <Sentence WritingMode="vertical">当該特定預託証券に表示される権利に係る特定有価証券につき、第一号から第四号までに掲げる特定有価証券の発行者の区分に応じ当該各号に定める書類</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -5539,6 +5633,12 @@
                 <Sentence WritingMode="vertical">投資法人の目的及び基本的性格並びに主要な経営指標等の推移を的確かつ簡明に説明した書面</Sentence>
               </Subitem1Sentence>
             </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券が特定電子記録移転権利である場合であって、当該特定電子記録移転権利の仕組み、調達資金の使途、調達資金を充てて行う事業の内容その他の当該特定電子記録移転権利の概要を記載した書面（目論見書を除く。）を当該特定電子記録移転権利の募集又は売出しに使用しようとするときは、当該書面</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
@@ -5553,7 +5653,7 @@
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">前号イ及びロに掲げる書類</Sentence>
+                <Sentence WritingMode="vertical">前号イ、ロ及びニに掲げる書類</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
@@ -5600,7 +5700,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">第一号ロに掲げる書類</Sentence>
+                <Sentence WritingMode="vertical">第一号ロ及びニに掲げる書類</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -5617,7 +5717,7 @@
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">前号イ及びロに掲げる書類</Sentence>
+                <Sentence WritingMode="vertical">前号に定める書類</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
@@ -5643,9 +5743,30 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">前項第二号及び第四号に定める書類が日本語によって記載したものでないときは、その日本語による翻訳文を付さなければならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十一条の二第二項第二号の二に規定する外国会社報告書を提出した発行者が第二十二号様式により作成した発行登録追補書類を提出する場合及び同項第五号に規定する外国会社報告書を提出した発行者が第二十二号の二様式により作成した発行登録追補書類を提出する場合であって、前項第二号及び第四号に定める書類が日本語又は英語によって記載したものでないときは、その日本語又は英語による翻訳文を付さなければならない。</Sentence>
+            <Sentence WritingMode="vertical">次の各号に掲げる書類には、当該各号に定める翻訳文を付さなければならない。</Sentence>
           </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前項第二号及び第四号に定める書類（次号に掲げるものを除く。）であって日本語により記載されていないもの</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">日本語による翻訳文</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">前項第一号ニに掲げる書類並びに第十一条の二第二項第二号の二に規定する外国会社報告書を提出した発行者が第二十二号様式により作成した発行登録追補書類を提出する場合及び同項第五号に規定する外国会社報告書を提出した発行者が第二十二号の二様式により作成した発行登録追補書類を提出する場合における前項第二号及び第四号に定める書類であって日本語又は英語により記載されていないもの</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">日本語又は英語による翻訳文</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="18_10">
@@ -5654,7 +5775,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">特定有価証券に係る法第二十三条の十二第二項において準用する法第十三条第二項本文（法第二十七条において準用する場合を含む。）に規定する内閣府令で定める事項は、次の各号に掲げる目論見書の区分に応じ、当該各号に定める事項とする。</Sentence>
+            <Sentence WritingMode="vertical">特定有価証券に係る法第二十三条の十二第二項において読み替えて準用する法第十三条第二項本文（法第二十七条において準用する場合を含む。）に規定する内閣府令で定める事項は、次の各号に掲げる目論見書の区分に応じ、当該各号に定める事項とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -5687,7 +5808,7 @@
             <Subitem1 Delete="false" Hide="false" Num="4">
               <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該特定有価証券が外国通貨をもって表示されるものである場合には、外国為替相場の変動により影響を受けることがある旨</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券が外国通貨又は暗号資産をもって表示されるものである場合には、外国為替相場又は暗号資産の価値の変動により影響を受けることがある旨</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="5">
@@ -5786,10 +5907,10 @@
             </Subitem1>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="2">
+        <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項各号に掲げる事項のうち、同項第一号ホからトまで、同項第二号ハ（同項第一号ホからトまでに掲げる事項に限る。）並びに同項第三号イ及び同号ロ（同項第一号ホからトまでに掲げる事項に限る。）に関する事項は、同項各号に掲げる目論見書の参照情報の次に、それ以外の事項は、当該各目論見書の表紙その他の見やすい箇所に記載しなければならない。</Sentence>
+            <Sentence>前項各号に定める事項のうち、同項第一号ホからトまで、同項第二号ハ（同項第一号ホからトまでに掲げる事項に限る。）並びに同項第三号イ及びロ（同項第一号ホからトまでに掲げる事項に限る。）に関する事項は、同項各号に掲げる目論見書の参照情報の次に、それ以外の事項は、当該各目論見書の表紙その他の見やすい箇所に記載しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -5799,16 +5920,27 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">特定有価証券に係る法第二十三条の十三第一項に規定する内閣府令で定める事項は、当該特定有価証券の有価証券発行勧誘等又は有価証券交付勧誘等が適格機関投資家向け勧誘に該当することにより当該有価証券発行勧誘等又は当該有価証券交付勧誘等に関し法第四条第一項の規定による届出が行われていないこと及び次の各号に掲げる場合の区分に応じ当該各号に定める事項とする。</Sentence>
+            <Sentence WritingMode="vertical">特定有価証券に係る法第二十三条の十三第一項に規定する内閣府令で定める事項は、当該特定有価証券の有価証券発行勧誘等又は有価証券交付勧誘等（法第四条第二項に規定する有価証券交付勧誘等をいう。以下同じ。）が適格機関投資家向け勧誘に該当することにより当該有価証券発行勧誘等又は当該有価証券交付勧誘等に関し法第四条第一項の規定による届出が行われていないこと及び次の各号に掲げる場合の区分に応じ当該各号に定める事項とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">当該特定有価証券の有価証券発行勧誘等に令第一条の四第一号ハに規定する条件が付されている場合</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券に係る権利を表示する財産的価値について令第一条の四第一号ハ（１）に規定する措置がとられている場合</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">当該有価証券発行勧誘等に付された条件の内容</Sentence>
+                <Sentence WritingMode="vertical">当該措置の内容</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="1_2">
+            <ItemTitle>一の二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">当該特定有価証券の有価証券発行勧誘等に令第一条の四第一号ハ（２）に規定する条件が付されている場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">当該条件の内容</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -5816,10 +5948,21 @@
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">当該特定有価証券の有価証券交付勧誘等に令第一条の七の四第一号ハに規定する条件が付されている場合</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券に係る権利を表示する財産的価値について令第一条の七の四第一号ハ（１）に規定する措置がとられている場合</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">当該有価証券交付勧誘等に付された条件の内容</Sentence>
+                <Sentence WritingMode="vertical">当該措置の内容</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2_2">
+            <ItemTitle>二の二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">当該特定有価証券の有価証券交付勧誘等に令第一条の七の四第一号ハ（２）に規定する条件が付されている場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">当該条件の内容</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -5912,10 +6055,16 @@
               <Sentence WritingMode="vertical">当該特定投資家向け取得勧誘又は当該特定投資家向け売付け勧誘等に係る特定有価証券が特定投資家向け有価証券に該当し、又は該当することとなること。</Sentence>
             </ItemSentence>
           </Item>
+          <Item Delete="false" Hide="false" Num="2_2">
+            <ItemTitle>二の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該特定有価証券に係る権利を表示する財産的価値について令第一条の五の二第二項第一号ロ（１）若しくは第二号ロ（１）若しくは定義府令第十二条第一項第一号ロ（１）又は令第一条の八の二第一号ロ（１）若しくは第二号ロ（１）若しくは定義府令第十三条の六第一号ロ（１）に規定する措置がとられている場合には、その内容</Sentence>
+            </ItemSentence>
+          </Item>
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該特定投資家向け取得勧誘又は当該特定投資家向け売付け勧誘等に、それぞれ令第一条の五の二第二項第一号ロ若しくは第二号ロ若しくは定義府令第十二条第一号ロ（１）若しくは（２）又は令第一条の八の二第一号ロ若しくは第二号ロ若しくは定義府令第十三条の六第一号ロに規定する条件が付されている場合には、その内容</Sentence>
+              <Sentence WritingMode="vertical">当該特定投資家向け取得勧誘又は当該特定投資家向け売付け勧誘等に、それぞれ令第一条の五の二第二項第一号ロ（２）若しくは第二号ロ（２）若しくは定義府令第十二条第一項第一号ロ（２）（ⅰ）若しくは（ⅱ）又は令第一条の八の二第一号ロ（２）若しくは第二号ロ（２）若しくは定義府令第十三条の六第一号ロ（２）に規定する条件が付されている場合には、その内容</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
@@ -5957,7 +6106,7 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該有価証券交付勧誘等が第四条の四に掲げる場合に該当するものとして行われる場合には、その旨</Sentence>
+              <Sentence WritingMode="vertical">当該有価証券交付勧誘等が第四条の四に定める場合に該当するものとして行われる場合には、その旨</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
@@ -5986,7 +6135,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">特定有価証券に係る法第二十三条の十三第四項（法第二十七条において準用する場合を含む。以下この条において同じ。）に規定する内閣府令で定める事項は、当該特定有価証券の有価証券発行勧誘等又は有価証券交付勧誘等が少人数向け勧誘（法第二十三条の十三第四項に規定する少人数向け勧誘をいう。）に該当することにより当該有価証券発行勧誘等又は有価証券交付勧誘等に関し法第四条第一項の規定による届出が行われていないこと及び次の各号に掲げる場合の区分に応じ、当該各号に定める事項とする。</Sentence>
+            <Sentence WritingMode="vertical">特定有価証券に係る法第二十三条の十三第四項（法第二十七条において準用する場合を含む。以下この条において同じ。）に規定する内閣府令で定める事項は、当該特定有価証券の有価証券発行勧誘等又は有価証券交付勧誘等が少人数向け勧誘（法第二十三条の十三第四項に規定する少人数向け勧誘をいう。）に該当することにより当該有価証券発行勧誘等又は有価証券交付勧誘等に関し法第四条第一項の規定による届出が行われていないこと及び次の各号に掲げる場合の区分に応じ当該各号に定める事項とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -6014,7 +6163,7 @@
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">当該特定有価証券が第一条第五号から第五号の三までのいずれかに掲げる特定有価証券である場合</Sentence>
+                <Sentence WritingMode="vertical">当該特定有価証券が第一条第五号から第五号の三までのいずれかに掲げる特定有価証券（特定電子記録移転権利に該当するものを除く。）である場合</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">当該特定有価証券が法第二条第二項各号に掲げる権利であること</Sentence>
@@ -6183,7 +6332,7 @@
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">内国有価証券投資事業権利等</Sentence>
+                <Sentence WritingMode="vertical">内国有価証券投資事業権利等及び特定内国電子記録移転権利</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">第九号の五様式</Sentence>
@@ -6194,7 +6343,7 @@
             <ItemTitle>十四</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">外国有価証券投資事業権利等</Sentence>
+                <Sentence WritingMode="vertical">外国有価証券投資事業権利等及び特定外国電子記録移転権利</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">第九号の六様式</Sentence>
@@ -6283,7 +6432,7 @@
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">内国投資証券、外国投資証券、資産流動化証券、抵当証券等、内国有価証券投資事業権利等及び外国有価証券投資事業権利等並びに特定有価証券信託受益証券でこれらの特定有価証券（内国有価証券投資事業権利等及び外国有価証券投資事業権利等を除く。）を受託有価証券とするもの又は特定預託証券でこれらの特定有価証券（内国有価証券投資事業権利等及び外国有価証券投資事業権利等を除く。）に係る権利を表示するもの</Sentence>
+                <Sentence WritingMode="vertical">内国投資証券、外国投資証券、資産流動化証券、抵当証券等、内国有価証券投資事業権利等、外国有価証券投資事業権利等、特定内国電子記録移転権利及び特定外国電子記録移転権利並びに特定有価証券信託受益証券でこれらの特定有価証券（内国有価証券投資事業権利等、外国有価証券投資事業権利等、特定内国電子記録移転権利及び特定外国電子記録移転権利を除く。）を受託有価証券とするもの又は特定預託証券でこれらの特定有価証券（内国有価証券投資事業権利等、外国有価証券投資事業権利等、特定内国電子記録移転権利及び特定外国電子記録移転権利を除く。）に係る権利を表示するもの</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">当該特定有価証券の発行者の事業年度</Sentence>
@@ -6309,7 +6458,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十四条第五項において準用する同条第一項各号（法第二十七条において準用する場合を含む。第二十四条の二第一項及び第二十六条において同じ。）に掲げる有価証券の発行者である内国特定有価証券の発行者が法第二十四条第五項において準用する同条第一項本文に規定する承認を受けようとする場合には、次の各号に掲げる事項を記載した承認申請書を、関東財務局長に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第二十四条第五項において準用する同条第一項各号（法第二十七条において準用する場合を含む。次条第一項及び第二十六条において同じ。）に掲げる有価証券の発行者である内国特定有価証券の発行者が法第二十四条第五項において準用する同条第一項本文に規定する承認を受けようとする場合には、次の各号に掲げる事項を記載した承認申請書を、関東財務局長に提出しなければならない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -6655,7 +6804,7 @@
               <Subitem1Title>ヌ</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">内国有価証券投資事業権利等（法第二条第二項第三号に掲げる権利に該当するものに限る。）</Sentence>
+                  <Sentence WritingMode="vertical">内国有価証券投資事業権利等（法第二条第二項第三号に掲げる権利に該当するものに限る。）及び特定内国電子記録移転権利（令第二条の十三第十号に掲げる権利に該当するものに限る。）</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
                   <Sentence WritingMode="vertical">申請時又は基準特定期間の末日において当該特定有価証券の所有者である社員として定款に記載され、又は記録されている者の数</Sentence>
@@ -6666,7 +6815,7 @@
               <Subitem1Title>ル</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">内国有価証券投資事業権利等（法第二条第二項第五号に掲げる権利に該当するものに限る。）</Sentence>
+                  <Sentence WritingMode="vertical">内国有価証券投資事業権利等（法第二条第二項第五号に掲げる権利に該当するものに限る。）及び特定内国電子記録移転権利（令第二条の十三第十二号に掲げる権利に該当するものに限る。）</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
                   <Sentence WritingMode="vertical">申請時又は基準特定期間の末日において当該特定有価証券の発行者の有する当該特定有価証券の所有者の名簿に記載され、又は記録されている者の数</Sentence>
@@ -7124,7 +7273,7 @@
             <ItemTitle>十四</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">内国有価証券投資事業権利等の発行者</Sentence>
+                <Sentence WritingMode="vertical">内国有価証券投資事業権利等及び特定内国電子記録移転権利の発行者</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">定款、約款、規約若しくは組合契約書又はこれらに準ずる書類</Sentence>
@@ -7135,7 +7284,7 @@
             <ItemTitle>十五</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">外国有価証券投資事業権利等の発行者</Sentence>
+                <Sentence WritingMode="vertical">外国有価証券投資事業権利等及び特定外国電子記録移転権利の発行者</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">次に掲げる書類</Sentence>
@@ -8422,7 +8571,7 @@
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">内国有価証券投資事業権利等</Sentence>
+                <Sentence WritingMode="vertical">内国有価証券投資事業権利等及び特定内国電子記録移転権利</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">第十二号の五様式</Sentence>
@@ -8433,7 +8582,7 @@
             <ItemTitle>十四</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">外国有価証券投資事業権利等</Sentence>
+                <Sentence WritingMode="vertical">外国有価証券投資事業権利等及び特定外国電子記録移転権利</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">第十二号の六様式</Sentence>
@@ -9733,7 +9882,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第二項各号に規定する方法のうち目論見書提供者が使用するもの</Sentence>
+              <Sentence WritingMode="vertical">第二項各号に掲げる方法のうち目論見書提供者が使用するもの</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -9757,13 +9906,13 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十七条の三十の九第二項において法第二十七条の三十の九第一項を準用する場合の内閣府令で定める場合は、同条第二項に規定する書面に記載すべき事項（以下この条において「記載事項」という。）を提供しようとする者（以下この条において「文書交付者」という。）において、第五項で定めるところにより、あらかじめ、書面の交付を受けるべき者（以下この条において「文書被交付者」という。）に対し、次項各号に掲げる方法（以下この条において「電磁的方法」という。）の種類及び内容を示し、電磁的方法又は電話その他の方法により同意を得ている場合とする。</Sentence>
+            <Sentence WritingMode="vertical">法第二十七条の三十の九第二項において準用する同条第一項に規定する内閣府令で定める場合は、同条第二項に規定する書面に記載すべき事項（以下この条において「記載事項」という。）を提供しようとする者（以下この条において「文書交付者」という。）において、第五項で定めるところにより、あらかじめ、書面の交付を受けるべき者（以下この条において「文書被交付者」という。）に対し、次項各号に掲げる方法（以下この条において「電磁的方法」という。）の種類及び内容を示し、電磁的方法又は電話その他の方法により同意を得ている場合とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十七条の三十の九第二項において同条第一項を準用する場合の内閣府令で定める方法は、次に掲げる方法とする。</Sentence>
+            <Sentence WritingMode="vertical">法第二十七条の三十の九第二項において準用する同条第一項に規定する内閣府令で定める方法は、次に掲げる方法とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -9810,7 +9959,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第二項各号に規定する方法のうち文書交付者が使用するもの</Sentence>
+              <Sentence WritingMode="vertical">第二項各号に掲げる方法のうち文書交付者が使用するもの</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -9834,13 +9983,13 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第三十九条第一項第一号及び同条第五項第一号に規定する内閣府令で定めるものは、内国投資信託受益証券、内国投資証券、内国資産流動化証券、内国資産信託流動化受益証券、内国信託受益証券、内国信託社債券、内国抵当証券、内国信託受益権、内国有価証券投資事業権利等、特定有価証券信託受益証券（発行者が内国会社（令第三十九条第一項に規定する内国会社をいう。以下この条及び次条において同じ。）である場合に限る。）又は特定預託証券（発行者が内国会社である場合に限る。）に係る有価証券通知書又は発行登録通知書とする。</Sentence>
+            <Sentence WritingMode="vertical">令第三十九条第一項第一号及び第五項第一号に規定する内閣府令で定めるものは、内国投資信託受益証券、内国投資証券、内国資産流動化証券、内国資産信託流動化受益証券、内国信託受益証券、内国信託社債券、内国抵当証券、内国信託受益権、内国有価証券投資事業権利等、特定内国電子記録移転権利、特定有価証券信託受益証券（発行者が内国会社（令第三十九条第一項に規定する内国会社をいう。以下この条及び次条において同じ。）である場合に限る。）又は特定預託証券（発行者が内国会社である場合に限る。）に係る有価証券通知書又は発行登録通知書とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第三十九条第二項各号列記以外の部分に規定する内閣府令で定めるものは、内国投資信託受益証券、内国投資証券、内国資産流動化証券、内国資産信託流動化受益証券、内国信託受益証券、内国信託社債券、内国抵当証券、内国信託受益権、内国有価証券投資事業権利等、特定有価証券信託受益証券及び特定預託証券の発行者である内国会社（これらの有価証券を発行する場合に限るものとする。）とする。</Sentence>
+            <Sentence WritingMode="vertical">令第三十九条第二項各号列記以外の部分に規定する内閣府令で定めるものは、内国投資信託受益証券、内国投資証券、内国資産流動化証券、内国資産信託流動化受益証券、内国信託受益証券、内国信託社債券、内国抵当証券、内国信託受益権、内国有価証券投資事業権利等、特定内国電子記録移転権利、特定有価証券信託受益証券及び特定預託証券の発行者である内国会社（これらの有価証券を発行する場合に限るものとする。）とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -11380,6 +11529,29 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日内閣府令第三五号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの府令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和二年四月一七日内閣府令第三七号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
@@ -11393,7 +11565,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_001.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11401,7 +11573,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_002.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11409,7 +11581,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_003.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11417,7 +11589,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_004.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11425,7 +11597,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_005.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11433,7 +11605,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_006.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11441,7 +11613,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二号の四様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_007.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11449,7 +11621,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二号の五様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_008.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11457,7 +11629,7 @@
       <AppdxStyleTitle WritingMode="vertical">第三号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_009.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11465,7 +11637,7 @@
       <AppdxStyleTitle WritingMode="vertical">第三号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_010.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11473,7 +11645,7 @@
       <AppdxStyleTitle WritingMode="vertical">第三号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_011.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11481,7 +11653,7 @@
       <AppdxStyleTitle WritingMode="vertical">第三号の四様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_012.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11489,7 +11661,7 @@
       <AppdxStyleTitle WritingMode="vertical">第三号の五様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_013.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11497,7 +11669,7 @@
       <AppdxStyleTitle WritingMode="vertical">第三号の六様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_014.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11505,7 +11677,7 @@
       <AppdxStyleTitle WritingMode="vertical">第四号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_015.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11513,7 +11685,7 @@
       <AppdxStyleTitle WritingMode="vertical">第四号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_016.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11521,7 +11693,7 @@
       <AppdxStyleTitle WritingMode="vertical">第四号の二の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_017.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11529,7 +11701,7 @@
       <AppdxStyleTitle WritingMode="vertical">第四号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_018.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11537,7 +11709,7 @@
       <AppdxStyleTitle WritingMode="vertical">第四号の三の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_019.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11545,7 +11717,7 @@
       <AppdxStyleTitle WritingMode="vertical">第四号の三の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_020.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11553,7 +11725,7 @@
       <AppdxStyleTitle WritingMode="vertical">第四号の四様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_021.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11561,7 +11733,7 @@
       <AppdxStyleTitle WritingMode="vertical">第四号の四の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_022.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11569,7 +11741,7 @@
       <AppdxStyleTitle WritingMode="vertical">第四号の四の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_023.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11577,7 +11749,7 @@
       <AppdxStyleTitle WritingMode="vertical">第五号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_024.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11585,7 +11757,7 @@
       <AppdxStyleTitle WritingMode="vertical">第五号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_025.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11593,7 +11765,7 @@
       <AppdxStyleTitle WritingMode="vertical">第五号の二の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_026.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11601,7 +11773,7 @@
       <AppdxStyleTitle WritingMode="vertical">第五号の二の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_027.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11609,7 +11781,7 @@
       <AppdxStyleTitle WritingMode="vertical">第五号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_028.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11617,7 +11789,7 @@
       <AppdxStyleTitle WritingMode="vertical">第五号の三の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_029.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11625,7 +11797,7 @@
       <AppdxStyleTitle WritingMode="vertical">第五号の三の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_030.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11633,7 +11805,7 @@
       <AppdxStyleTitle WritingMode="vertical">第五号の三の四様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_031.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11641,7 +11813,7 @@
       <AppdxStyleTitle WritingMode="vertical">第五号の四様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_032.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11649,7 +11821,7 @@
       <AppdxStyleTitle WritingMode="vertical">第五号の五様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_033.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11657,7 +11829,7 @@
       <AppdxStyleTitle WritingMode="vertical">第五号の五の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_034.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11665,7 +11837,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_035.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11673,7 +11845,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_036.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11681,7 +11853,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号の二の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_037.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11689,7 +11861,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_038.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_038.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11697,7 +11869,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号の四様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_039.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_039.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11705,7 +11877,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号の四の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_040.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_040.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11713,7 +11885,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号の五様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_041.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_041.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11721,7 +11893,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号の六様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_042.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_042.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11729,7 +11901,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号の六の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_043.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_043.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11737,7 +11909,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号の七様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_044.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_044.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11745,7 +11917,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号の八様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_045.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_045.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11753,7 +11925,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号の九様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_046.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_046.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11761,7 +11933,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号の十様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_047.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_047.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11769,7 +11941,7 @@
       <AppdxStyleTitle WritingMode="vertical">第七号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_048.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_048.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11777,7 +11949,7 @@
       <AppdxStyleTitle WritingMode="vertical">第七号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_049.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_049.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11785,7 +11957,7 @@
       <AppdxStyleTitle WritingMode="vertical">第七号の二の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_050.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_050.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11793,7 +11965,7 @@
       <AppdxStyleTitle WritingMode="vertical">第七号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_051.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_051.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11801,7 +11973,7 @@
       <AppdxStyleTitle WritingMode="vertical">第八号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_052.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_052.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11809,7 +11981,7 @@
       <AppdxStyleTitle WritingMode="vertical">第八号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_053.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_053.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11817,7 +11989,7 @@
       <AppdxStyleTitle WritingMode="vertical">第八号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_054.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_054.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11825,7 +11997,7 @@
       <AppdxStyleTitle WritingMode="vertical">第八号の四様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_055.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_055.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11833,7 +12005,7 @@
       <AppdxStyleTitle WritingMode="vertical">第八号の五様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_056.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_056.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11841,7 +12013,7 @@
       <AppdxStyleTitle WritingMode="vertical">第九号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_057.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_057.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11849,7 +12021,7 @@
       <AppdxStyleTitle WritingMode="vertical">第九号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_058.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_058.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11857,7 +12029,7 @@
       <AppdxStyleTitle WritingMode="vertical">第九号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_059.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_059.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11865,7 +12037,7 @@
       <AppdxStyleTitle WritingMode="vertical">第九号の四様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_060.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_060.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11873,7 +12045,7 @@
       <AppdxStyleTitle WritingMode="vertical">第九号の五様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_061.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_061.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11881,7 +12053,7 @@
       <AppdxStyleTitle WritingMode="vertical">第九号の六様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_062.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_062.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11889,7 +12061,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_063.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_063.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11897,7 +12069,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_064.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_064.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11905,7 +12077,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十号の二の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_065.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_065.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11913,7 +12085,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_066.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_066.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11921,7 +12093,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十一号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_067.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_067.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11929,7 +12101,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十一号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_068.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_068.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11937,7 +12109,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十一号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_069.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_069.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11945,7 +12117,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十一号の四様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_070.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_070.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11953,7 +12125,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十一号の五様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_071.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_071.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11961,7 +12133,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十二号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_072.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_072.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11969,7 +12141,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十二号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_073.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_073.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11977,7 +12149,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十二号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_074.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_074.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11985,7 +12157,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十二号の四様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_075.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_075.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11993,7 +12165,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十二号の五様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_076.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_076.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12001,7 +12173,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十二号の六様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_077.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_077.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12009,7 +12181,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十三号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_078.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_078.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12017,7 +12189,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十三号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_079.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_079.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12028,7 +12200,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十五号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_080.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_080.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12036,7 +12208,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十五号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_081.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_081.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12044,7 +12216,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十五号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_082.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_082.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12052,7 +12224,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十六号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_083.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_083.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12060,7 +12232,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十六号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_084.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_084.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12068,7 +12240,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十六号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_085.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_085.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12076,7 +12248,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十七号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_086.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_086.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12084,7 +12256,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十七号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_087.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_087.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12092,7 +12264,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十八号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_088.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_088.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12100,7 +12272,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十八号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_089.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_089.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12108,7 +12280,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十九号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_090.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_090.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12116,7 +12288,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十九号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_091.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_091.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12124,7 +12296,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_092.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_092.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12132,7 +12304,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_093.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_093.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12140,7 +12312,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十一号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_094.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_094.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12148,7 +12320,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十一号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_095.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_095.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12156,7 +12328,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十二号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_096.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_096.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12164,7 +12336,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十二号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_097.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_097.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12172,7 +12344,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十三号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_098.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_098.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12180,7 +12352,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十三号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_099.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_099.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12188,7 +12360,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十四号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_100.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_100.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12196,7 +12368,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十四号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_101.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_101.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12204,7 +12376,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十五号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_102.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_102.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12212,7 +12384,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十五号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_103.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_103.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12220,7 +12392,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十五号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_104.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_104.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12228,7 +12400,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十六号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03401000022_2005181605_105.pdf"/>
+          <Fig src="./pict/H05F03401000022_2006181306_105.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

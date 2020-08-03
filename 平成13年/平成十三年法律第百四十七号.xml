@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="147" Year="13">
+<Law DataInfo="191216e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="147" Year="13">
   <LawNum>平成十三年法律第百四十七号</LawNum>
   <LawBody>
     <LawTitle>地方公共団体の議会の議員及び長の選挙に係る電磁的記録式投票機を用いて行う投票方法等の特例に関する法律</LawTitle>
@@ -558,7 +558,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">平成三十二年三月三十一日までの間における第十四条第二項の規定の適用については、同項中「又は第二百六十一条第三項」とあるのは「若しくは第二百六十一条第三項又は市町村の合併の特例に関する法律（平成十六年法律第五十九号）第四条第十四項若しくは第五条第二十一項」と、「同法第八十五条第二項又は第二百六十二条第二項」とあるのは「地方自治法第八十五条第二項若しくは第二百六十二条第二項又は市町村の合併の特例に関する法律第五条第三十三項」とする。</Sentence>
+            <Sentence WritingMode="vertical">十二年三月三十一日までの間における第十四条第二項の規定の適用については、同項中「又は第二百六十一条第三項」とあるのは「若しくは第二百六十一条第三項又は市町村の合併の特例に関する法律（平成十六年法律第五十九号）第四条第十四項若しくは第五条第二十一項」と、「同法第八十五条第二項又は第二百六十二条第二項」とあるのは「地方自治法第八十五条第二項若しくは第二百六十二条第二項又は市町村の合併の特例に関する法律第五条第三十三項」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -806,14 +806,109 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成三〇年七月二五日法律第七五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
+      <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+<SupplProvision AmendLawNum="令和二年三月三一日法律第一一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（国民健康保険法及び地方公共団体の議会の議員及び長の選挙に係る電磁的記録式投票機を用いて行う投票方法等の特例に関する法律の一部改正）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">次に掲げる法律の規定中「平成三十二年三月三十一日」を「令和十二年三月三十一日」に改める。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国民健康保険法（昭和三十三年法律第百九十二号）附則第二十三条</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">地方公共団体の議会の議員及び長の選挙に係る電磁的記録式投票機を用いて行う投票方法等の特例に関する法律（平成十三年法律第百四十七号）附則第三条</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（地方公務員法及び地方自治法の一部を改正する法律の一部改正）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">地方公務員法及び地方自治法の一部を改正する法律（平成二十九年法律第二十九号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第一条中「平成三十二年四月一日」を「令和二年四月一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第十九条（見出しを含む。）中「附則第二条第一項ただし書の規定によりなおその効力を有するものとされた同法」を削る。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（地方自治法等の一部を改正する法律の一部改正）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">地方自治法等の一部を改正する法律（平成二十九年法律第五十四号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">第四条の見出しを削り、同条の前に見出しとして「（市町村の合併の特例に関する法律の一部改正）」を付する。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">第五条の見出しを削り、同条中「附則第二条第一項ただし書の規定によりなおその効力を有するものとされた同法」を削る。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第一条中「平成三十二年四月一日」を「令和二年四月一日」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第二条第六項中「附則第二条第一項ただし書の規定によりなおその効力を有するものとされた同法」を削る。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第五条の見出しを削り、同条の前に見出しとして「（市町村の合併の特例に関する法律の一部改正に伴う経過措置）」を付する。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第六条の見出しを削り、同条中「附則第二条第一項ただし書の規定によりなおその効力を有するものとされた同法」を削る。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
         </Paragraph>
       </Article>
     </SupplProvision>

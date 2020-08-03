@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="124" Year="27">
+<Law DataInfo="200424e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="124" Year="27">
   <LawNum>昭和二十七年政令第百二十四号</LawNum>
   <LawBody>
     <LawTitle>日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う所得税法等の臨時特例に関する法律施行令</LawTitle>
@@ -22,6 +22,12 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>法第七条第二項に規定する政令で定めるところにより証明がされたものでない場合は、同条第一項に規定する事業者が、法第二条第二項に規定する合衆国軍隊（以下「合衆国軍隊」という。）の権限ある官憲の発給する証明書で当該課税資産の譲渡等（法第七条第一項に規定する課税資産の譲渡等をいう。以下この項において同じ。）が法第七条第一項各号に規定する用途に供されたものであることを証明するものを当該課税資産の譲渡等を行つた日の属する課税期間（消費税法（昭和六十三年法律第百八号）第十九条に規定する課税期間をいう。）の末日の翌日から二月（清算中の法人について残余財産が確定した場合には、一月）を経過した日から七年間、納税地又はその取引に係る事務所、事業所その他これらに準ずるものの所在地に保存しない場合とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>消費税法第四十五条の二第一項又は第二項の規定の適用がある場合における前項の規定の適用については、同項中「経過した日」とあるのは、「経過した日（消費税法第四十五条の二第一項又は第二項の規定の適用がある場合には、当該課税期間に係るこれらの規定に規定する消費税申告書の提出期限の翌日）」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -261,6 +267,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この政令は、平成三十一年一月七日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

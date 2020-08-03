@@ -3370,6 +3370,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+<SupplProvision AmendLawNum="令和二年六月二四日国土交通省令第五九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
@@ -8773,12 +8782,13 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="9">
-              <Sentence WritingMode="vertical">青海信号所（北緯三十五度三十六分五十六秒東経百三十九度四十六分三十三秒）</Sentence>
+            <TableColumn BorderBottom="dotted" BorderLeft="dotted" BorderRight="dotted" BorderTop="dotted" rowspan="9">
+              <Sentence WritingMode="vertical">青海信号所（北緯三十五度三十六分五十六秒東経百三十九度四十六分三十三秒）　</Sentence>
+              <Sentence WritingMode="vertical">青海第二信号所（北緯三十五度三十六分四十六秒東経百三十九度四十六分二十八秒）</Sentence>
               <Sentence WritingMode="vertical">晴海信号所（北緯三十五度三十八分四十七秒東経百三十九度四十六分二十一秒）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">青海信号所の二百五度及び三百四度方向に面する信号板並びに晴海信号所の八十二度、百九十二度及び三百二度方向に面する信号板による。</Sentence>
+              <Sentence WritingMode="vertical">青海信号所の二百五度及び三百四度方向に面する信号板、青海第二信号所の三百十度方向に面する信号版並びに晴海信号所の八十二度、百九十二度及び三百二度方向に面する信号板による。</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="5" Year="17">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="5" Year="17">
   <LawNum>平成十七年財務省令第五号</LawNum>
   <LawBody>
     <LawTitle>電子情報処理組織を使用して処理する場合における保管金取扱規程等の特例に関する省令</LawTitle>
@@ -28,7 +28,7 @@
       </TOCChapter>
       <TOCChapter Delete="false" Num="6">
         <ChapterTitle>第六章　日本銀行の歳入金等の受入に関する特別取扱手続の特例</ChapterTitle>
-        <ArticleRange>（第二十七条）</ArticleRange>
+        <ArticleRange>（第二十七条・第二十七条の二）</ArticleRange>
       </TOCChapter>
       <TOCChapter Delete="false" Num="7">
         <ChapterTitle>第七章　雑則</ChapterTitle>
@@ -167,12 +167,22 @@
       <Chapter Delete="false" Hide="false" Num="3">
         <ChapterTitle>第三章　保管金払込事務等取扱規程の特例</ChapterTitle>
         <Article Delete="false" Hide="false" Num="10">
-          <ArticleCaption>（保管金提出者の振込み）</ArticleCaption>
+          <ArticleCaption>（保管金の払込み）</ArticleCaption>
           <ArticleTitle>第十条</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">取扱官庁は、保管金を提出する者に対し、保管金の提出に関する手続において得られた納付情報により、現金を日本銀行（代理店又は歳入代理店（特別手続第一条に規定する歳入代理店をいう。第二十七条において同じ。）に限る。第二十一条において同じ。）に振り込ませることができる。</Sentence>
+              <Sentence WritingMode="vertical">取扱官庁は、日本銀行（代理店又は歳入代理店（特別手続第一条に規定する歳入代理店をいう。第二十七条及び第二十七条の二において同じ。）に限る。第十条の二、第二十一条及び第二十一条の二において同じ。）に保管金（供託法（明治三十二年法律第十五号）第一条の規定により保管する供託金に限る。以下この条及び第二十一条において同じ。）の払込みをしようとするときは、保管金の払込みに関する手続において得られた納付情報により、現金を日本銀行に払い込むことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10_2">
+          <ArticleCaption>（保管金提出者の振込み）</ArticleCaption>
+          <ArticleTitle>第十条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">取扱官庁は、保管金を提出する者に対し、保管金の提出に関する手続において得られた納付情報により、現金を日本銀行に振り込ませることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -356,7 +366,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">払込規程第四条、第六条、第八条の三及び第九条の規定は、取扱官庁がこの章の規定により行う保管金の保管に関する事務の取扱いについては、適用しない。</Sentence>
+              <Sentence WritingMode="vertical">払込規程第三条、第四条、第六条、第八条の三及び第九条の規定は、取扱官庁がこの章の規定により行う保管金の保管に関する事務の取扱いについては、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -429,12 +439,23 @@
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="21">
-          <ArticleCaption>（保管金提出者から保管金の振込みを受けた場合の手続）</ArticleCaption>
+          <ArticleCaption>（取扱官庁から保管金の払込みを受けた場合の手続）</ArticleCaption>
           <ArticleTitle>第二十一条</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">日本銀行は、第十条の規定により保管金を提出する者から現金の振込みを受けたときは、領収済通知情報については取扱官庁に、収納に係る記録については日本銀行本店に、それぞれ送信しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">日本銀行は、第十条の規定により歳入歳出外現金出納官吏から現金の払込みを受けたときは、領収済通知情報については取扱官庁に、収納に係る記録については日本銀行本店に、それぞれ送信しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">日本銀行本店は、収納に係る記録の送信を受けたときは、取扱官庁の保管金に受け入れるための手続をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="21_2">
+          <ArticleCaption>（保管金提出者から保管金の振込みを受けた場合の手続）</ArticleCaption>
+          <ArticleTitle>第二十一条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">日本銀行は、第十条の二の規定により保管金を提出する者から現金の振込みを受けたときは、領収済通知情報については取扱官庁に、収納に係る記録については日本銀行本店に、それぞれ送信しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">日本銀行本店は、収納に係る記録の送信を受けたときは、取扱官庁の保管金に受け入れるための手続をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -496,13 +517,13 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26">
+        <Article Num="26">
           <ArticleCaption>（国庫金規程の規定の適用除外）</ArticleCaption>
           <ArticleTitle>第二十六条</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
+          <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">国庫金規程第四十二条の三及び第四十二条の六の規定は、日本銀行がこの章の規定により行う事務の取扱いについては、適用しない。</Sentence>
+              <Sentence>国庫金規程第四十二条の二、第四十二条の三及び第四十二条の六の規定は、日本銀行がこの章の規定により行う事務の取扱いについては、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -515,7 +536,16 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">日本銀行歳入代理店が第十条の規定により現金の振込みを受ける場合の特別手続第一条第一項第三号の規定の適用については、同号中「受ける場合に限る」とあるのは、「受ける場合及び電子情報処理組織を使用して処理する場合における保管金取扱規程等の特例に関する省令（平成十七年財務省令第五号）第十条の規定により振込みを受ける場合に限る」とする。</Sentence>
+              <Sentence WritingMode="vertical">日本銀行歳入代理店が第十条の規定により現金の払込みを受ける場合の特別手続第一条第一項第三号の規定の適用については、同号中「受ける場合に限る」とあるのは、「受ける場合及び電子情報処理組織を使用して処理する場合における保管金取扱規程等の特例に関する省令（平成十七年財務省令第五号）第十条の規定により払込みを受ける場合に限る」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="27_2">
+          <ArticleTitle>第二十七条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">日本銀行歳入代理店が第十条の二の規定により現金の振込みを受ける場合の特別手続第一条第一項第三号の規定の適用については、同号中「受ける場合に限る」とあるのは、「受ける場合及び電子情報処理組織を使用して処理する場合における保管金取扱規程等の特例に関する省令（平成十七年財務省令第五号）第十条の二の規定により振込みを受ける場合に限る」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -649,11 +679,20 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二五日財務省令第九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">別紙第１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/H17F14001000005_1911142211_001.pdf"/>
+          <Fig src="./pict/H17F14001000005_2007081807_001.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -661,7 +700,7 @@
       <AppdxFormatTitle WritingMode="vertical">別紙第２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/H17F14001000005_1911142211_002.pdf"/>
+          <Fig src="./pict/H17F14001000005_2007081807_002.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -669,7 +708,7 @@
       <AppdxFormatTitle WritingMode="vertical">別紙第３号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/H17F14001000005_1911142211_003.pdf"/>
+          <Fig src="./pict/H17F14001000005_2007081807_003.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -677,7 +716,7 @@
       <AppdxFormatTitle WritingMode="vertical">別紙第４号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/H17F14001000005_1911142211_004.pdf"/>
+          <Fig src="./pict/H17F14001000005_2007081807_004.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -685,7 +724,7 @@
       <AppdxFormatTitle WritingMode="vertical">別紙第５号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/H17F14001000005_1911142211_005.pdf"/>
+          <Fig src="./pict/H17F14001000005_2007081807_005.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -693,7 +732,7 @@
       <AppdxFormatTitle WritingMode="vertical">別紙第６号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/H17F14001000005_1911142211_006.pdf"/>
+          <Fig src="./pict/H17F14001000005_2007081807_006.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -701,7 +740,7 @@
       <AppdxFormatTitle WritingMode="vertical">別紙第７号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/H17F14001000005_1911142211_007.pdf"/>
+          <Fig src="./pict/H17F14001000005_2007081807_007.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -709,7 +748,7 @@
       <AppdxFormatTitle WritingMode="vertical">別紙第８号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/H17F14001000005_1911142211_008.pdf"/>
+          <Fig src="./pict/H17F14001000005_2007081807_008.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -717,7 +756,7 @@
       <AppdxFormatTitle WritingMode="vertical">別紙第９号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/H17F14001000005_1911142211_009.pdf"/>
+          <Fig src="./pict/H17F14001000005_2007081807_009.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -725,7 +764,7 @@
       <AppdxFormatTitle WritingMode="vertical">別紙第１０号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/H17F14001000005_1911142211_010.pdf"/>
+          <Fig src="./pict/H17F14001000005_2007081807_010.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>

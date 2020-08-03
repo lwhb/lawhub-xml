@@ -843,6 +843,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月三〇日人事院規則九―四九―五四" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二条、第三条関係）</RelatedArticleNum>
@@ -1734,7 +1743,7 @@
           <Subitem1Title>一</Subitem1Title>
           <Subitem1Sentence>
             <Column LineBreak="false" Num="1">
-              <Sentence WritingMode="vertical">消費者庁消費者行政新未来創造オフィス担当室</Sentence>
+              <Sentence WritingMode="vertical">消費者庁新未来創造戦略本部</Sentence>
             </Column>
             <Column LineBreak="false" Num="2">
               <Sentence WritingMode="vertical">平成二十九年七月十四日</Sentence>

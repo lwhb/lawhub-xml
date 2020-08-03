@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="190426e04k03m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="268" Year="27">
+<Law DataInfo="200420e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="268" Year="27">
   <LawNum>平成二十七年政令第二百六十八号</LawNum>
   <LawBody>
     <LawTitle>電気事業法等の一部を改正する法律附則第九条第一項の託送供給等約款の認可の申請の期限等を定める政令</LawTitle>
@@ -31,7 +31,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">改正法附則第十六条第三項の規定によりなおその効力を有するものとされる改正法第一条の規定による改正前の電気事業法（昭和三十九年法律第百七十号。以下「旧電気事業法」という。）の規定のうち次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</Sentence>
+            <Sentence WritingMode="vertical">改正法附則第十六条第四項の規定によりなおその効力を有するものとされる改正法第一条の規定による改正前の電気事業法（昭和三十九年法律第百七十号。以下「旧電気事業法」という。）の規定のうち次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
             <Table WritingMode="vertical">
@@ -73,7 +73,7 @@
                   <Sentence WritingMode="vertical">供給区域、供給の相手方たる一般電気事業者又は供給地点</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">旧供給区域（改正法附則第十六条第一項に規定する旧供給区域をいう。以下同じ。）</Sentence>
+                  <Sentence WritingMode="vertical">指定旧供給区域（改正法附則第十六条第一項に規定する指定旧供給区域をいう。以下同じ。）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -92,7 +92,7 @@
                   <Sentence WritingMode="vertical">供給区域、供給の相手方たる一般電気事業者又は供給地点</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">旧供給区域</Sentence>
+                  <Sentence WritingMode="vertical">指定旧供給区域</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -204,7 +204,7 @@
                   <Sentence WritingMode="vertical">は、第三条第一項の許可</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">（改正法の施行の日前に旧電気事業法第八条第一項の許可であつて供給区域の増加に係るものを受けた場合であつて、当該許可に係るその増加する供給区域であつて旧供給区域である区域において特定小売供給を開始しないときを除く。）は、改正法第一条の規定による改正後の電気事業法（以下「新電気事業法」という。）第二条の二の登録</Sentence>
+                  <Sentence WritingMode="vertical">（改正法の施行の日前に旧電気事業法第八条第一項の許可であつて供給区域の増加に係るものを受けた場合であつて、当該許可に係るその増加する供給区域であつて指定旧供給区域である区域において特定小売供給を開始しないときを除く。）は、改正法第一条の規定による改正後の電気事業法（以下「新電気事業法」という。）第二条の二の登録</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -269,7 +269,7 @@
                   <Sentence WritingMode="vertical">において、その増加する供給の相手方たる一般電気事業者に対し、又はその増加する供給地点において事業</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">であつて旧供給区域である区域において特定小売供給を開始しないとき、又は改正法附則第十七条第一項の許可を受けたみなし小売電気事業者が同条第三項の規定により指定した期間内にその増加する旧供給区域内において特定小売供給</Sentence>
+                  <Sentence WritingMode="vertical">であつて指定旧供給区域である区域において特定小売供給を開始しないとき、又は改正法附則第十七条第一項の許可を受けたみなし小売電気事業者が同条第三項の規定により指定した期間内にその増加する指定旧供給区域内において特定小売供給</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -280,7 +280,7 @@
                   <Sentence WritingMode="vertical">供給区域</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">旧供給区域</Sentence>
+                  <Sentence WritingMode="vertical">指定旧供給区域</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -644,7 +644,7 @@
                   <Sentence WritingMode="vertical">供給区域</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">旧供給区域</Sentence>
+                  <Sentence WritingMode="vertical">指定旧供給区域</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -745,7 +745,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">改正法附則第二十三条第一項の政令で定める日は、平成三十三年三月三十一日とする。</Sentence>
+            <Sentence WritingMode="vertical">改正法附則第二十三条第一項の政令で定める日は、令和三年三月三十一日とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1265,7 +1265,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">改正法附則第二十五条の十第一項の政令で定める規定は、改正法附則第十六条第三項の規定によりなおその効力を有するものとされた旧電気事業法第十九条第五項及び第十項、第二十条、第二十一条第一項、第二十三条第一項及び第三項、第三十四条第一項並びに第三十四条の二第一項の規定、改正法附則第十八条第一項及び第二項並びに第十九条の規定、改正法附則第二十三条第三項の規定によりなおその効力を有するものとされた旧電気事業法第二十四条第三項及び第四項並びに第三十四条第一項の規定並びに改正法附則第二十五条第二項の規定とする。</Sentence>
+            <Sentence WritingMode="vertical">改正法附則第二十五条の十第一項の政令で定める規定は、改正法附則第十六条第四項の規定によりなおその効力を有するものとされた旧電気事業法第十九条第五項及び第十項、第二十条、第二十一条第一項、第二十三条第一項及び第三項、第三十四条第一項並びに第三十四条の二第一項の規定、改正法附則第十八条第一項及び第二項並びに第十九条の規定、改正法附則第二十三条第三項の規定によりなおその効力を有するものとされた旧電気事業法第二十四条第三項及び第四項並びに第三十四条第一項の規定並びに改正法附則第二十五条第二項の規定とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -1294,7 +1294,7 @@
                   <Sentence WritingMode="vertical">一　改正法附則第二十一条、第二十五条の二第一項及び第二十五条の三第一項の規定に基づく権限</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">旧供給区域を管轄する経済産業局長</Sentence>
+                  <Sentence WritingMode="vertical">指定旧供給区域を管轄する経済産業局長</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -1331,6 +1331,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一三〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

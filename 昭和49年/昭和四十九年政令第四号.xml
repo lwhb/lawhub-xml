@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="4" Year="49">
+<Law DataInfo="200622e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="4" Year="49">
   <LawNum>昭和四十九年政令第四号</LawNum>
   <LawBody>
     <LawTitle>国民生活安定緊急措置法施行令</LawTitle>
@@ -11,17 +11,29 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国民生活安定緊急措置法（以下「法」という。）第二十六条第一項の政令で指定する生活関連物資等は、衛生マスクとする。</Sentence>
+            <Sentence>国民生活安定緊急措置法（以下「法」という。）第二十六条第一項の政令で指定する生活関連物資等は、次のとおりとする。</Sentence>
           </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>衛生マスク</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>消毒等用アルコール（アルコール（これを含む製剤を含む。）（医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号）第二条第一項に規定する医薬品及び同条第二項に規定する医薬部外品以外のものにあつては、アルコール分（温度十五度の時において原容量百分中に含有するエチルアルコールの容量をいう。）が六十度以上のものに限る。）であつて、消毒等（消毒、殺菌その他これらに類する行為をいう。）に使用されることが目的とされているもの（これを染み込ませた脱脂綿、紙、不織布その他の材料を含む。）をいう。）</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Num="2">
-        <ArticleCaption>（衛生マスクの転売の禁止）</ArticleCaption>
+        <ArticleCaption>（特定生活関連物資等の転売の禁止）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>衛生マスクを不特定の相手方に対し売り渡す者から衛生マスクの購入をした者は、当該購入をした衛生マスクの譲渡（不特定又は多数の者に対し、当該衛生マスクの売買契約の締結の申込み又は誘引をして行うものであつて、当該衛生マスクの購入価格を超える価格によるものに限る。）をしてはならない。</Sentence>
+            <Sentence>前条各号に掲げる生活関連物資等（以下この条において「特定生活関連物資等」という。）を不特定の相手方に対し売り渡す者から特定生活関連物資等の購入をした者は、当該購入をした特定生活関連物資等の譲渡（不特定又は多数の者に対し、当該特定生活関連物資等の売買契約の締結の申込み又は誘引をして行うものであつて、当該特定生活関連物資等の購入価格を超える価格によるものに限る。）をしてはならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -571,6 +583,23 @@
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence>改正後の第二条の規定は、同条に規定する譲渡のうちこの政令の施行の日前に締結された売買契約によるものについては、適用しない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月二二日政令第一七三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令は、公布の日から起算して四日を経過した日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>改正後の第二条の規定（改正後の第一条第二号に係る部分に限る。）は、改正後の第二条に規定する譲渡のうちこの政令の施行の日前に締結された売買契約によるものについては、適用しない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

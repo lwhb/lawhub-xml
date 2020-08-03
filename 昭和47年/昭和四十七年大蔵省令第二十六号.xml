@@ -404,7 +404,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">その有価証券発行勧誘等（法第四条第二項に規定する有価証券発行勧誘等をいう。以下同じ。）が適格機関投資家向け勧誘（法第二十三条の十三第一項に規定する適格機関投資家向け勧誘をいう。以下同じ。）に該当する外国債等の発行者は、本邦内に住所を有する者であつて、当該有価証券の譲渡に関する行為につき、当該外国債等の発行者を代理する権限を有するもの（次条において「発行者の代理人」という。）を定めなければならない。</Sentence>
+            <Sentence WritingMode="vertical">その有価証券発行勧誘等（法第四条第二項に規定する有価証券発行勧誘等をいう。以下同じ。）が適格機関投資家向け勧誘（法第二十三条の十三第一項に規定する適格機関投資家向け勧誘をいう。以下同じ。）に該当する外国債等の発行者は、本邦内に住所を有する者であつて、当該有価証券の譲渡に関する行為につき、当該外国債等の発行者を代理する権限を有するもの（第一条の四において「発行者の代理人」という。）を定めなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -498,6 +498,23 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Delete="false" Hide="false" Num="1_9">
+        <ArticleCaption>（暗号資産の換算等）</ArticleCaption>
+        <ArticleTitle>第一条の九</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令の規定により作成することとされている書類中、暗号資産（資金決済に関する法律（平成二十一年法律第五十九号）第二条第五項に規定する暗号資産をいう。以下同じ。）をもつて数量を表示するものがあるときは、主要な事項について当該数量を本邦通貨に換算した金額及びその換算に当たつて採用した換算の基準を付記するとともに、当該暗号資産の名称及び概要を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第二条の二及び令第一条の二十三に定めるもののほか、暗号資産は、この府令の規定の金銭又は取引に係る金銭とみなして、この府令の規定を適用する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この府令の規定により作成することとされている書類に記載する事項のうち貸借対照表、損益計算書その他の財務計算に関する書類に記載された事項に準拠するものに係る規定の金銭又は取引に係る金銭については、法第百九十三条に規定する内閣府令の定めるところによる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（有価証券通知書）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
@@ -579,7 +596,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四条第七項に規定する内閣府令で定める場合は、当該有価証券が外国債等である場合には次に掲げる場合とする。</Sentence>
+            <Sentence WritingMode="vertical">法第四条第七項第二号に規定する内閣府令で定める場合は、当該有価証券が外国債等である場合には次に掲げる場合とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -596,7 +613,7 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該外国債等が法第二十七条において準用する法第二十四条第一項第一号又は第二号に掲げる有価証券に該当する場合で、法第二十七条において準用する法第二十四条第三項の規定により、当該外国債等が法第二十七条において準用する法第二十四条第一項第一号又は第二号に掲げる有価証券に該当することとなつた日の属する事業年度の直前事業年度に係る有価証券報告書が関東財務局長に提出されている場合</Sentence>
+              <Sentence WritingMode="vertical">当該外国債等が法第二十七条において準用する法第二十四条第一項第一号又は第二号に掲げる有価証券に該当する場合で、法第二十七条において準用する法第二十四条第三項の規定により、当該外国債等が法第二十七条において準用する法第二十四条第一項第一号又は第二号に掲げる有価証券に該当することとなつた日の属する会計年度等の直前会計年度等に係る有価証券報告書が関東財務局長に提出されている場合</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -613,7 +630,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">外国債等の発行者は、有価証券の募集又は売出しに関し、発行登録書又は発行登録追補書類（これらに係る訂正発行登録書を含む。）を提出する場合には、本邦内に住所を有する者であつて、当該発行登録又は当該発行登録追補書類の提出に関する一切の行為につき、当該発行者を代理する権限を有するものを定めなければならない。</Sentence>
+            <Sentence WritingMode="vertical">外国債等の発行者は、有価証券の募集又は売出しに関し、発行登録書又は発行登録追補書類（これらに係る訂正発行登録書を含む。）を提出する場合には、本邦内に住所を有する者であつて、当該発行登録書又は当該発行登録追補書類の提出に関する一切の行為につき、当該発行者を代理する権限を有するものを定めなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
@@ -639,12 +656,17 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十七条において準用する法第五条第一項ただし書に規定する内閣府令で定める場合は、次の各号に掲げる場合とし、同項ただし書並びに法第十三条第二項ただし書及び第二十三条の十二第七項に規定する内閣府令で定める事項は、次の各号に掲げる場合の区分に応じ、当該各号に定める事項とする。</Sentence>
+            <Sentence WritingMode="vertical">法第二十七条において準用する法第五条第一項ただし書に規定する内閣府令で定める場合は、次の各号に掲げる場合とし、同項ただし書並びに法第十三条第二項ただし書及び第二十三条の十二第七項に規定する内閣府令で定める事項は、当該各号に掲げる場合の区分に応じ当該各号に定める事項とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該有価証券の発行価格の決定前に募集を行う必要がある場合</Sentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">当該有価証券の発行価格の決定前に募集を行う必要がある場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">次に掲げる事項</Sentence>
+              </Column>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -692,7 +714,12 @@
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該有価証券の売出価格の決定前に売出しを行う必要がある場合</Sentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">当該有価証券の売出価格の決定前に売出しを行う必要がある場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">次に掲げる事項</Sentence>
+              </Column>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -765,7 +792,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十七条において準用する法第五条第四項各号に掲げるすべての要件を満たす外国債等の発行者が、有価証券届出書を提出しようとする場合には、同項の規定により、第二号の三様式により有価証券届出書を作成することができる。</Sentence>
+            <Sentence WritingMode="vertical">法第二十七条において準用する法第五条第四項各号に掲げる要件の全てを満たす外国債等の発行者が、有価証券届出書を提出しようとする場合には、同項の規定により、第二号の三様式により有価証券届出書を作成することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -1038,7 +1065,7 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">第六条各号に掲げる事項で当該有価証券届出書に記載しなかつたものにつきその内容が決定したこと。</Sentence>
+              <Sentence WritingMode="vertical">第六条各号に定める事項で当該有価証券届出書に記載しなかつたものにつきその内容が決定したこと。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -1049,7 +1076,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十七条において準用する法第七条第二項において準用する法第五条第六項に規定する内閣府令で定める場合は、届出書提出外国者が訂正届出書に代えて外国において開示（同項に規定する外国において開示をいう。以下同じ。）が行われている当該訂正届出書に類する書類であつて英語で記載されたもの（次条第一項において「外国者訂正届出書」という。）を提出することを、その用語、様式及び作成方法に照らし、金融庁長官が公益又は投資者保護に欠けることがないものとして認める場合とする。</Sentence>
+            <Sentence WritingMode="vertical">法第二十七条において準用する法第七条第二項において準用する法第五条第六項に規定する内閣府令で定める場合は、届出書提出外国者が訂正届出書に代えて外国において開示（同項第二号に規定する外国において開示をいう。以下同じ。）が行われている当該訂正届出書に類する書類であつて英語で記載されたもの（次条第一項において「外国者訂正届出書」という。）を提出することを、その用語、様式及び作成方法に照らし、金融庁長官が公益又は投資者保護に欠けることがないものとして認める場合とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1166,7 +1193,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該外国債等が外国通貨をもつて表示されるものである場合には、外国為替相場の変動により影響を受けることがある旨</Sentence>
+                <Sentence WritingMode="vertical">当該外国債等が外国通貨又は暗号資産をもつて表示されるものである場合には、外国為替相場又は暗号資産の価値の変動により影響を受けることがある旨</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="3">
@@ -1209,7 +1236,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項各号に掲げる事項は、届出目論見書又は届出仮目論見書の表紙その他の見やすい箇所に記載しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項各号に定める事項は、届出目論見書又は届出仮目論見書の表紙その他の見やすい箇所に記載しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1240,7 +1267,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該外国債等が外国通貨をもつて表示されるものである場合には、外国為替相場の変動により影響を受けることがある旨</Sentence>
+                <Sentence WritingMode="vertical">当該外国債等が外国通貨又は暗号資産をもつて表示されるものである場合には、外国為替相場又は暗号資産の価値の変動により影響を受けることがある旨</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="3">
@@ -1283,7 +1310,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項各号に掲げる事項は、届出目論見書又は届出仮目論見書の表紙その他の見やすい箇所に記載しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項各号に定める事項は、届出目論見書又は届出仮目論見書の表紙その他の見やすい箇所に記載しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1360,7 +1387,7 @@
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該発行登録書において参照すべき旨記載された有価証券報告書の提出日以後次の各号に掲げる事情が生じた場合（次の各号に規定する重要な事実の内容を記載した半期報告書、臨時報告書又は訂正報告書が当該発行登録書の参照書類に含まれている場合を除く。）における当該重要な事実の内容を記載した書類</Sentence>
+              <Sentence WritingMode="vertical">当該発行登録書において参照すべき旨記載された有価証券報告書の提出日以後次のイ又はロに掲げる事情が生じた場合（当該イ又はロに規定する重要な事実の内容を記載した半期報告書、臨時報告書又は訂正報告書が当該発行登録書の参照書類に含まれている場合を除く。）における当該重要な事実の内容を記載した書類</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -1524,7 +1551,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十七条において準用する法第二十三条の八第四項の規定により外国債等の発行者が提出する発行登録通知書は、第十号様式により作成し、関東財務局長に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第二十七条において準用する法第二十三条の八第四項において準用する法第四条第六項の規定により外国債等の発行者が提出する発行登録通知書は、第十号様式により作成し、関東財務局長に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -1582,7 +1609,7 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該発行登録追補書類において参照すべき旨記載された有価証券報告書の提出日以後次の各号に掲げる事情が生じた場合（次の各号に規定する重要な事実の内容を記載した半期報告書、臨時報告書又は訂正報告書が当該発行登録追補書類の参照書類に含まれている場合を除く。）における当該重要な事実の内容を記載した書類</Sentence>
+              <Sentence WritingMode="vertical">当該発行登録追補書類において参照すべき旨記載された有価証券報告書の提出日以後次のイ又はロに掲げる事情が生じた場合（当該イ又はロに規定する重要な事実の内容を記載した半期報告書、臨時報告書又は訂正報告書が当該発行登録追補書類の参照書類に含まれている場合を除く。）における当該重要な事実の内容を記載した書類</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -1657,7 +1684,7 @@
             <Subitem1 Delete="false" Hide="false" Num="4">
               <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該外国債等が外国通貨をもつて表示されるものである場合には、外国為替相場の変動により影響を受けることがある旨</Sentence>
+                <Sentence WritingMode="vertical">当該外国債等が外国通貨又は暗号資産をもつて表示されるものである場合には、外国為替相場又は暗号資産の価値の変動により影響を受けることがある旨</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="5">
@@ -1669,16 +1696,16 @@
             <Subitem1 Delete="false" Hide="false" Num="6">
               <Subitem1Title>ヘ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該発行登録書又は当該訂正発行登録書において参照すべき旨記載された有価証券報告書のうち、直近のものの提出日以後次の（イ）又は（ロ）に掲げる事情が生じた場合（当該（イ）又は（ロ）に規定する重要な事実の内容を記載した半期報告書、臨時報告書又は訂正報告書が当該発行登録書の参照書類に含まれている場合又は当該訂正発行登録書において参照すべき旨記載されている場合を除く。）における当該重要な事実の内容</Sentence>
+                <Sentence WritingMode="vertical">当該発行登録書又は当該訂正発行登録書において参照すべき旨記載された有価証券報告書のうち、直近のものの提出日以後次の（１）又は（２）に掲げる事情が生じた場合（当該（１）又は（２）に規定する重要な事実の内容を記載した半期報告書、臨時報告書又は訂正報告書が当該発行登録書の参照書類に含まれている場合又は当該訂正発行登録書において参照すべき旨記載されている場合を除く。）における当該重要な事実の内容</Sentence>
               </Subitem1Sentence>
               <Subitem2 Delete="false" Hide="false" Num="1">
-                <Subitem2Title>（イ）</Subitem2Title>
+                <Subitem2Title>（１）</Subitem2Title>
                 <Subitem2Sentence>
                   <Sentence WritingMode="vertical">当該提出日前に発生した当該有価証券報告書に記載すべき重要な事実で、当該書類を提出する時にはその内容を記載することができなかつたものにつき、記載することができる状態になつたこと。</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
               <Subitem2 Delete="false" Hide="false" Num="2">
-                <Subitem2Title>（ロ）</Subitem2Title>
+                <Subitem2Title>（２）</Subitem2Title>
                 <Subitem2Sentence>
                   <Sentence WritingMode="vertical">当該有価証券報告書に記載すべき事項に関し重要な事実が発生したこと。</Sentence>
                 </Subitem2Sentence>
@@ -1759,7 +1786,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項各号に掲げる事項のうち、同項第一号ホからトまで（同項第二号又は第三号において引用する場合を含む。）に関する事項及び同項第三号イに関する事項は、同項各号に掲げる目論見書の参照情報の次に、それ以外の事項は、当該各目論見書の表紙又はその他の見やすい箇所に記載しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項各号に定める事項のうち、同項第一号ホからトまで（同項第二号又は第三号において引用する場合を含む。）に関する事項及び同項第三号イに関する事項は、同項各号に掲げる目論見書の参照情報の次に、それ以外の事項は、当該各目論見書の表紙又はその他の見やすい箇所に記載しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1769,16 +1796,27 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十七条において準用する法第二十三条の十三第一項に規定する内閣府令で定める事項は、有価証券発行勧誘等又は有価証券交付勧誘等が適格機関投資家向け勧誘に該当することにより当該有価証券発行勧誘等又は当該有価証券交付勧誘等に関し法第四条第一項の規定による届出が行われていないこと及び次の各号に掲げる場合の区分に応じ当該各号に定める事項とする。</Sentence>
+            <Sentence WritingMode="vertical">法第二十七条において準用する法第二十三条の十三第一項に規定する内閣府令で定める事項は、有価証券発行勧誘等又は有価証券交付勧誘等（法第四条第二項に規定する有価証券交付勧誘等をいう。以下同じ。）が適格機関投資家向け勧誘に該当することにより当該有価証券発行勧誘等又は当該有価証券交付勧誘等に関し法第四条第一項の規定による届出が行われていないこと及び次の各号に掲げる場合の区分に応じ当該各号に定める事項とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">当該有価証券発行勧誘等に令第一条の四第一号ハに規定する条件が付されている場合</Sentence>
+                <Sentence WritingMode="vertical">当該有価証券に係る権利を表示する財産的価値について令第一条の四第一号ハ（１）に規定する措置がとられている場合</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">当該有価証券発行勧誘等に付された条件の内容</Sentence>
+                <Sentence WritingMode="vertical">当該措置の内容</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="1_2">
+            <ItemTitle>一の二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">当該有価証券の有価証券発行勧誘等に令第一条の四第一号ハ（２）に規定する条件が付されている場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">当該条件の内容</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -1786,10 +1824,21 @@
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">当該有価証券交付勧誘等に令第一条の七の四第一号ハに規定する条件が付されている場合</Sentence>
+                <Sentence WritingMode="vertical">当該有価証券に係る権利を表示する財産的価値について令第一条の七の四第一号ハ（１）に規定する措置がとられている場合</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">当該有価証券交付勧誘等に付された条件の内容</Sentence>
+                <Sentence WritingMode="vertical">当該措置の内容</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2_2">
+            <ItemTitle>二の二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">当該有価証券の有価証券交付勧誘等に令第一条の七の四第一号ハ（２）に規定する条件が付されている場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">当該条件の内容</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -1882,16 +1931,22 @@
               <Sentence WritingMode="vertical">当該特定投資家向け取得勧誘又は当該特定投資家向け売付け勧誘等に係る外国債等が特定投資家向け有価証券に該当し、又は該当することとなること。</Sentence>
             </ItemSentence>
           </Item>
+          <Item Delete="false" Hide="false" Num="2_2">
+            <ItemTitle>二の二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">当該有価証券に係る権利を表示する財産的価値について令第一条の五の二第二項第一号ロ（１）若しくは第二号ロ（１）若しくは定義府令第十二条第一項第一号ロ（１）又は令第一条の八の二第一号ロ（１）若しくは第二号ロ（１）若しくは定義府令第十三条の六第一号ロ（１）に規定する措置がとられている場合には、その内容</Sentence>
+            </ItemSentence>
+          </Item>
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該特定投資家向け取得勧誘又は当該特定投資家向け売付け勧誘等に、それぞれ令第一条の五の二第二項第一号ロ若しくは第二号ロ若しくは定義府令第十二条第一号ロ（１）若しくは（２）又は令第一条の八の二第一号ロ若しくは第二号ロ若しくは定義府令第十三条の六第一号ロに規定する条件が付されている場合には、その内容</Sentence>
+              <Sentence WritingMode="vertical">当該特定投資家向け取得勧誘又は当該特定投資家向け売付け勧誘等に、それぞれ令第一条の五の二第二項第一号ロ（２）若しくは第二号ロ（２）若しくは定義府令第十二条第一項第一号ロ（２）（ⅰ）若しくは（ⅱ）又は令第一条の八の二第一号ロ（２）若しくは第二号ロ（２）若しくは定義府令第十三条の六第一号ロ（２）に規定する条件が付されている場合には、その内容</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">当該特定投資家向け取得勧誘又は当該特定投資家向け売付け勧誘等に係る外国債等の有価証券交付勧誘等（法第四条第二項に規定する有価証券交付勧誘等をいう。次項及び次条第一項において同じ。）について、法第四条第三項、第五項及び第六項の適用があること。</Sentence>
+              <Sentence WritingMode="vertical">当該特定投資家向け取得勧誘又は当該特定投資家向け売付け勧誘等に係る外国債等の有価証券交付勧誘等について、法第四条第三項、第五項及び第六項の適用があること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
@@ -2157,13 +2212,13 @@
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項に規定する数は、申請時又は申請のあつた日の属する会計年度の直前会計年度又は事業年度の直前事業年度の末日において当該外国債等の保管の委託を受けている金融商品取引業者又は登録金融機関（法第二条第十一項に規定する登録金融機関をいう。）の有する当該外国債等の所有者の名簿に記載され、又は記録されている者（非居住者を除く。）の数により算定するものとする。</Sentence>
+            <Sentence WritingMode="vertical">前項に規定する数は、申請時又は申請のあつた日の属する会計年度等の直前会計年度等の末日において当該外国債等の保管の委託を受けている金融商品取引業者又は登録金融機関（法第二条第十一項に規定する登録金融機関をいう。）の有する当該外国債等の所有者の名簿に記載され、又は記録されている者（非居住者を除く。）の数により算定するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第四条第三項に規定する内閣府令で定める期間は、四年とし、同項に規定する内閣府令で定める書類は、当該提出に係る事業年度の末日における当該外国債等の所有者の名簿の写しとする。</Sentence>
+            <Sentence WritingMode="vertical">令第四条第三項に規定する内閣府令で定める期間は、四年とし、同項に規定する内閣府令で定める書類は、当該提出に係る会計年度等の末日における当該外国債等の所有者の名簿の写しとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="6">
@@ -2800,13 +2855,13 @@
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、閲覧に供している記載事項を書面により交付する場合、目論見書被提供者の同意（第一項に規定する方法による同意をいう。）を得て前項第一号イ若しくはロ若しくは第二号に掲げる方法により交付する場合又は目論見書被提供者による当該記載事項に係る消去の指図がある場合は、当該記載事項を消去することができる。</Sentence>
               </Subitem1Sentence>
               <Subitem2 Delete="false" Hide="false" Num="1">
-                <Subitem2Title>（イ）</Subitem2Title>
+                <Subitem2Title>（１）</Subitem2Title>
                 <Subitem2Sentence>
                   <Sentence WritingMode="vertical">前項第一号ハに掲げる方法については、目論見書被提供者ファイルに記録された記載事項</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
               <Subitem2 Delete="false" Hide="false" Num="2">
-                <Subitem2Title>（ロ）</Subitem2Title>
+                <Subitem2Title>（２）</Subitem2Title>
                 <Subitem2Sentence>
                   <Sentence WritingMode="vertical">前項第一号ニに掲げる方法については、閲覧ファイルに記録された記載事項</Sentence>
                 </Subitem2Sentence>
@@ -3832,6 +3887,29 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日内閣府令第三五号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの府令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和二年四月一七日内閣府令第三七号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
@@ -3845,7 +3923,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_001.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3853,7 +3931,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_002.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3861,7 +3939,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_003.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3869,7 +3947,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二号の三様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_004.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3877,7 +3955,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二号の四様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_005.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3885,7 +3963,7 @@
       <AppdxStyleTitle WritingMode="vertical">第三号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_006.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3893,7 +3971,7 @@
       <AppdxStyleTitle WritingMode="vertical">第四号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_007.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3901,7 +3979,7 @@
       <AppdxStyleTitle WritingMode="vertical">第四号の二様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_008.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3909,7 +3987,7 @@
       <AppdxStyleTitle WritingMode="vertical">第五号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_009.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3917,7 +3995,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_010.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3925,7 +4003,7 @@
       <AppdxStyleTitle WritingMode="vertical">第七号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_011.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3933,7 +4011,7 @@
       <AppdxStyleTitle WritingMode="vertical">第八号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_012.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3941,7 +4019,7 @@
       <AppdxStyleTitle WritingMode="vertical">第九号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_013.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3949,7 +4027,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十号様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S47F03401000026_2005181005_014.pdf"/>
+          <Fig src="./pict/S47F03401000026_2006181006_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

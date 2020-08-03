@@ -446,7 +446,7 @@
             <Subitem1 Delete="false" Hide="false" Num="4">
               <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">有機農産物（日本農林規格等に関する法律施行令（昭和二十六年政令第二百九十一号。以下「令」という。）第十七条第一号に規定する農産物をいう。以下同じ。）若しくは有機畜産物の生産行程管理者（法第十条第二項に規定する生産行程管理者をいう。以下同じ。）、小分け業者（法第十一条第一項に規定する小分け業者をいう。以下同じ。）、外国生産行程管理者若しくは外国小分け業者又は輸入業者（法第十二条第一項に規定する輸入業者をいう。以下同じ。）に係る認証にあっては、登録認証機関又は登録外国認証機関が当該認証ごとに付す番号（以下「認証番号」という。）</Sentence>
+                <Sentence WritingMode="vertical">有機農産物（日本農林規格等に関する法律施行令（昭和二十六年政令第二百九十一号。以下「令」という。）第十七条第一号に規定する農産物をいう。以下同じ。）若しくは有機畜産物（令第十七条第二号に規定する畜産物をいう。以下同じ。）の生産行程管理者（法第十条第二項に規定する生産行程管理者をいう。以下同じ。）、小分け業者（法第十一条第一項に規定する小分け業者をいう。以下同じ。）、外国生産行程管理者若しくは外国小分け業者又は輸入業者（法第十二条第一項に規定する輸入業者をいう。以下同じ。）に係る認証にあっては、登録認証機関又は登録外国認証機関が当該認証ごとに付す番号（以下「認証番号」という。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -822,8 +822,20 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十二条第二項の農林水産省令で定める国は、有機農産物及び有機農産物加工食品（令第十七条第二号に規定する飲食料品をいう。以下同じ。）について、アメリカ合衆国、アルゼンチン、英国、オーストラリア、カナダ、スイス及びニュージーランド並びに欧州連合の加盟国とする。</Sentence>
+            <Sentence WritingMode="vertical">法第十二条第二項の農林水産省令で定める国は、次のとおりとする。</Sentence>
           </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">有機農産物及び有機加工食品（令第十七条第三号に規定する飲食料品をいう。以下同じ。）のうち、専ら同条第一号に掲げる農産物を原料又は材料として製造し、又は加工したものにあっては、アメリカ合衆国、アルゼンチン、英国、オーストラリア、カナダ、スイス及びニュージーランド並びに欧州連合の加盟国</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">有機畜産物及び有機加工食品（前号に規定するものを除く。）にあっては、アメリカ合衆国、オーストラリア、カナダ及びスイス</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="38">
@@ -2474,7 +2486,7 @@
                   <Sentence WritingMode="vertical">有機農産物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一　農林水産大臣が定める物質（当該有機農産物が第三十七条に規定する国から輸入された農林物資である場合にあっては、当該国の格付の制度において使用し、又は混入することが認められている物質）以外の薬剤、添加物その他の物質が使用され、又は混入すること。</Sentence>
+                  <Sentence WritingMode="vertical">一　農林水産大臣が定める物質（当該有機農産物が外国で生産された農林物資（法第十二条第一項に規定する証明書又はその写しが添付されているものに限る。以下「外国産農林物資」という。）である場合にあっては、当該外国の格付の制度において使用することが認められている物質）以外の薬剤、添加物その他の物質が使用され、又は混入すること。</Sentence>
                   <Sentence WritingMode="vertical">二　上欄に掲げる農林物資以外の農林物資と混合すること。</Sentence>
                 </TableColumn>
               </TableRow>
@@ -2483,7 +2495,7 @@
                   <Sentence WritingMode="vertical">有機加工食品</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一　農林水産大臣が定める物質（当該有機加工食品が第三十七条に規定する国から輸入された農林物資である場合にあっては、当該国の格付の制度において使用し、又は混入することが認められている物質）以外の薬剤、添加物その他の物質が使用され、又は混入すること。</Sentence>
+                  <Sentence WritingMode="vertical">一　農林水産大臣が定める物質（当該有機加工食品が外国産農林物資である場合にあっては、当該外国の格付の制度において使用することが認められている物質）以外の薬剤、添加物その他の物質が使用され、又は混入すること。</Sentence>
                   <Sentence WritingMode="vertical">二　上欄に掲げる農林物資以外の農林物資と混合すること。</Sentence>
                 </TableColumn>
               </TableRow>
@@ -2501,7 +2513,7 @@
                   <Sentence WritingMode="vertical">有機畜産物</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一　農林水産大臣が定める物質以外の薬剤、添加物その他の物質が使用され、又は混入すること。</Sentence>
+                  <Sentence WritingMode="vertical">一　農林水産大臣が定める物質（当該有機畜産物が外国産農林物資である場合にあっては、当該外国の格付の制度において使用することが認められている物質）以外の薬剤、添加物その他の物質が使用され、又は混入すること。</Sentence>
                   <Sentence WritingMode="vertical">二　上欄に掲げる農林物資以外の農林物資と混合すること。</Sentence>
                 </TableColumn>
               </TableRow>
@@ -4407,6 +4419,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月一六日農林水産省令第五四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年七月十六日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxNote>
       <AppdxNoteTitle WritingMode="vertical">別記</AppdxNoteTitle>
     </AppdxNote>
@@ -4415,7 +4436,7 @@
       <RelatedArticleNum>（第三十九条、第四十三条、第五十九条及び第六十二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_001.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4423,7 +4444,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第二号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_002.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4432,7 +4453,7 @@
       <RelatedArticleNum>（第四十四条及び第六十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_003.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4441,7 +4462,7 @@
       <RelatedArticleNum>（第四十五条及び第六十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_004.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4450,7 +4471,7 @@
       <RelatedArticleNum>（第四十七条第一項及び第六十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_005.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4459,7 +4480,7 @@
       <RelatedArticleNum>（第四十七条第二項及び第六十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_006.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4468,7 +4489,7 @@
       <RelatedArticleNum>（第四十七条第三項及び第六十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_007.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4477,7 +4498,7 @@
       <RelatedArticleNum>（第四十七条第四項及び第六十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_008.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4486,7 +4507,7 @@
       <RelatedArticleNum>（第四十七条第五項及び第六十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_009.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4495,7 +4516,7 @@
       <RelatedArticleNum>（第四十八条及び第六十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_010.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4504,7 +4525,7 @@
       <RelatedArticleNum>（第四十九条第一項及び第二項並びに第六十八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_011.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4513,7 +4534,7 @@
       <RelatedArticleNum>（第五十条及び第六十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_012.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4522,7 +4543,7 @@
       <RelatedArticleNum>（第七十二条の五、第七十二条の八、第七十二条の十三及び第七十二条の十六関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_013.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4530,7 +4551,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第十三号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_014.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4539,7 +4560,7 @@
       <RelatedArticleNum>（第七十二条の九及び第七十二条の十七関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_015.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4548,7 +4569,7 @@
       <RelatedArticleNum>（第七十二条の十及び第七十二条の十八関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_016.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4557,7 +4578,7 @@
       <RelatedArticleNum>（第七十二条の十一及び第七十二条の十九関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_017.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4566,7 +4587,7 @@
       <RelatedArticleNum>（第七十二条の十二及び第七十二条の二十関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_018.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4575,7 +4596,7 @@
       <RelatedArticleNum>（第七十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_019.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4584,7 +4605,7 @@
       <RelatedArticleNum>（第七十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S25F00601000062_2002061302_020.pdf"/>
+          <Fig src="./pict/S25F00601000062_2007171307_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

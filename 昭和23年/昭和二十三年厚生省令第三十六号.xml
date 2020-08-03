@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="36" Year="23">
+<Law DataInfo="200515e81k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="36" Year="23">
   <LawNum>昭和二十三年厚生省令第三十六号</LawNum>
   <LawBody>
     <LawTitle>予防接種法施行規則</LawTitle>
@@ -568,6 +568,17 @@
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderRight="solid">
                   <Sentence Num="1" WritingMode="vertical">四月</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">髄膜炎（ＢＣＧによるものに限る。）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderRight="solid">
+                  <Sentence Num="1" WritingMode="vertical">予防接種との関連性が高いと医師が認める期間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -3212,12 +3223,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二六日厚生労働省令第四二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第四条第二項第一号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000004684.pdf"/>
+          <Fig src="./pict/_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3226,7 +3246,7 @@
       <RelatedArticleNum>（第四条第二項第二号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000004685.pdf"/>
+          <Fig src="./pict/_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

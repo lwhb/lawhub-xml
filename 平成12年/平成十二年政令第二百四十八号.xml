@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200417e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="248" Year="12">
+<Law DataInfo="200713e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="248" Year="12">
   <LawNum>平成十二年政令第二百四十八号</LawNum>
   <LawBody>
     <LawTitle>法務省組織令</LawTitle>
@@ -1481,6 +1481,12 @@
                   </Item>
                   <Item Num="5">
                     <ItemTitle>五</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>法務局における遺言書の保管等に関する法律（平成三十年法律第七十三号）に定める遺言書の保管に関すること。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="6">
+                    <ItemTitle>六</ItemTitle>
                     <ItemSentence>
                       <Sentence>非訟事件に関すること。</Sentence>
                     </ItemSentence>
@@ -4801,12 +4807,13 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年三月三〇日政令第八〇号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第八〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence Num="1">この政令は、令和二年四月一日から施行する。</Sentence>
+          <Sentence Function="main" Num="1">この政令は、令和二年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第二十六条の改正規定は、法務局における遺言書の保管等に関する法律（平成三十年法律第七十三号）の施行の日（令和二年七月十日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

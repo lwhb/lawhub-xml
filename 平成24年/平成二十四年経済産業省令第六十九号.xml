@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="69" Year="24">
+<Law DataInfo="200716e80k10m02" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="69" Year="24">
   <LawNum>平成二十四年経済産業省令第六十九号</LawNum>
   <LawBody>
     <LawTitle>原子力発電工作物の保安に関する命令</LawTitle>
@@ -1472,7 +1472,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第百七条第八項の証明書は、様式第二十一によるものとする。</Sentence>
+            <Sentence WritingMode="vertical">法第百七条第九項の証明書は、様式第二十一によるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1565,12 +1565,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日経済産業省・原子力規制委員会規則第一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この命令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_001.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1579,7 +1588,7 @@
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_002.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1588,7 +1597,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_003.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1597,7 +1606,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_004.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1606,7 +1615,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_005.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1615,7 +1624,7 @@
       <RelatedArticleNum>（第１１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_006.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1624,7 +1633,7 @@
       <RelatedArticleNum>（第１２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_007.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1633,7 +1642,7 @@
       <RelatedArticleNum>（第１４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_008.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1642,7 +1651,7 @@
       <RelatedArticleNum>（第１９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_009.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1651,7 +1660,7 @@
       <RelatedArticleNum>（第２２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_010.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1663,7 +1672,7 @@
       <RelatedArticleNum>（第４８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_011.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1675,7 +1684,7 @@
       <RelatedArticleNum>（第６８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_012.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1684,7 +1693,7 @@
       <RelatedArticleNum>（第６８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_013.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1693,7 +1702,7 @@
       <RelatedArticleNum>（第６８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_014.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1702,7 +1711,7 @@
       <RelatedArticleNum>（第６９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H24F15001000069_2006012106_015.pdf"/>
+          <Fig src="./pict/H24F15001000069_2007171507_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2331,6 +2340,7 @@
               <Sentence WritingMode="vertical">特定対象事業に係るものにあっては、特定対象事業実施区域内の主要工作物及び主要仮設備の配置図</Sentence>
               <Sentence WritingMode="vertical">特定対象事業に係るものにあっては、その特定対象事業に係る法第四十六条の十七第二項の規定による通知に係る評価書に従っている環境の保全のための措置に関する説明書</Sentence>
               <Sentence WritingMode="vertical">大気汚染防止法第二条第二項のばい煙発生施設を設置する場合は、ばい煙に関する説明書</Sentence>
+              <Sentence WritingMode="vertical">大気汚染防止法第二条第十三項の水銀排出施設を設置する場合は、水銀等（同条第十二項に規定するものをいう。以下同じ。）に関する説明書</Sentence>
               <Sentence WritingMode="vertical">騒音規制法（昭和四十三年法律第九十八号）第三条第一項の規定により指定された地域内に同法第二条第一項の特定施設を設置する場合は、騒音に関する説明書</Sentence>
               <Sentence WritingMode="vertical">水質汚濁防止法（昭和四十五年法律第百三十八号）第五条第三項に規定する有害物質貯蔵指定施設を設置する場合は、有害物質貯蔵指定施設に関する説明書</Sentence>
               <Sentence WritingMode="vertical">振動規制法（昭和五十一年法律第六十四号）第三条第一項の規定により指定された地域内に同法第二条第一項の特定施設を設置する場合は、振動に関する説明書</Sentence>
@@ -3524,7 +3534,15 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">三　ダイオキシン類対策特別措置法第二条第二項に規定する特定施設に該当する電気工作物に係る工事</Sentence>
+              <Sentence WritingMode="vertical">三　大気汚染防止法第二条第十三項に規定する水銀排出施設に該当する電気工作物に係る工事</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">大気汚染防止法第二条第十三項に規定する水銀排出施設に該当する電気工作物の設置又は改造であって、構造、使用の方法又は水銀等の処理の方法の変更を伴うもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">四　ダイオキシン類対策特別措置法第二条第二項に規定する特定施設に該当する電気工作物に係る工事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　発電所における廃棄物焼却炉の設置又は改造であって焼却能力の変更を伴うもの</Sentence>
@@ -3535,7 +3553,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">四　水質汚濁防止法第二条第二項に規定する特定施設に該当する電気工作物を設置する事業場の電気工作物に係る工事</Sentence>
+              <Sentence WritingMode="vertical">五　水質汚濁防止法第二条第二項に規定する特定施設に該当する電気工作物を設置する事業場の電気工作物に係る工事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">廃ガス洗浄施設（水質汚濁防止法第二条第二項に規定する特定施設に該当するものに限る。）若しくはこれに係る設備の設置又は改造であって、構造、設備（当該廃ガス洗浄施設が同法第二条第八項に規定する有害物質使用特定施設に該当しない場合又は同法第五条第二項の規定に該当する場合を除く。）、使用の方法、汚水等の処理の方法、排出水の汚染状態若しくは量（同法第四条の五第一項に規定する指定地域内事業場に係る場合にあっては、排水系統別の汚染状態若しくは量を含む。）、同法第二条第八項に規定する特定地下浸透水の浸透の方法又は用水若しくは排水の系統の変更を伴うもの</Sentence>
@@ -3543,7 +3561,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">五　水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設に該当する電気工作物を設置する事業場の電気工作物に係る工事</Sentence>
+              <Sentence WritingMode="vertical">六　水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設に該当する電気工作物を設置する事業場の電気工作物に係る工事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設に該当する電気工作物の設置又は改造であって、構造、設備、使用の方法又は当該施設において貯蔵される同法第二条第二項第一号に規定する有害物質（以下「有害物質」という。）に係る搬入若しくは搬出の系統の変更を伴うもの</Sentence>
@@ -3551,7 +3569,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">六　騒音規制法第二条第一項に規定する特定施設に該当する電気工作物（同法第三条第一項の規定により指定された地域内に設置するものに限る。）を設置する事業場の電気工作物に係る工事</Sentence>
+              <Sentence WritingMode="vertical">七　騒音規制法第二条第一項に規定する特定施設に該当する電気工作物（同法第三条第一項の規定により指定された地域内に設置するものに限る。）を設置する事業場の電気工作物に係る工事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">発電所、電力保安用通信設備若しくはこれらの設置のための事業場における空気圧縮機、送風機、通風機、破砕機、粉砕機若しくは摩砕機（騒音規制法第二条第一項に規定する特定施設に該当するものに限る。）の設置（特定施設の種類ごとの数を当該特定施設の種類について直近に届け出た数の二倍以内の数に増加する場合を除く。）又はこれらに係る騒音防止設備の廃止若しくは改造であって騒音防止の能力の減少を伴うもの</Sentence>
@@ -3559,7 +3577,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">七　振動規制法第二条第一項に規定する特定施設に該当する電気工作物（同法第三条第一項の規定により指定された地域内に設置するものに限る。）を設置する事業場の電気工作物に係る工事</Sentence>
+              <Sentence WritingMode="vertical">八　振動規制法第二条第一項に規定する特定施設に該当する電気工作物（同法第三条第一項の規定により指定された地域内に設置するものに限る。）を設置する事業場の電気工作物に係る工事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">発電所、電力保安用通信設備若しくはこれらの設置のための事業場における圧縮機、破砕機、粉砕機若しくは摩砕機（振動規制法第二条第一項に規定する特定施設に該当するものに限る。）の設置若しくは改造であって能力の変更を伴うもの又はこれらに係る振動防止設備の廃止若しくは改造であって振動防止の能力の減少を伴うもの</Sentence>
@@ -3600,12 +3618,10 @@
               <Sentence WritingMode="vertical">事業場の名称及び位置</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3613,8 +3629,7 @@
               <Sentence WritingMode="vertical">（一）　ばい煙発生施設</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　ばい煙発生施設の種類、出力又は能力及び個数</Sentence>
@@ -3631,8 +3646,7 @@
               <Sentence WritingMode="vertical">（二）　ばい煙処理施設</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　ばい煙処理設備に係る次の事項</Sentence>
@@ -3649,11 +3663,24 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">（三）　ダイオキシン類対策特別措置法第二条第二項に規定する特定施設</Sentence>
+              <Sentence WritingMode="vertical">（三）　水銀排出施設</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　水銀排出施設の種類、容量及び個数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">水銀等に関する説明書</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">（四）　ダイオキシン類対策特別措置法第二条第二項に規定する特定施設</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　廃棄物焼却炉に係る次の事項</Sentence>
@@ -3668,11 +3695,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">（四）　水質汚濁防止法第二条第二項に規定する特定施設</Sentence>
+              <Sentence WritingMode="vertical">（五）　水質汚濁防止法第二条第二項に規定する特定施設</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　廃ガス洗浄施設の種類、容量、個数並びに用水及び排水の系統</Sentence>
@@ -3683,11 +3709,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">（五）　水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設</Sentence>
+              <Sentence WritingMode="vertical">（六）　水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　有害物質貯蔵指定施設の種類、容量及び個数並びにその施設において貯蔵される有害物質に係る搬入及び搬出の系統</Sentence>
@@ -3698,11 +3723,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">（六）　騒音発生施設</Sentence>
+              <Sentence WritingMode="vertical">（七）　騒音発生施設</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　空気圧縮機、送風機、通風機、破砕機、粉砕機又は摩砕機の種類、容量及び個数</Sentence>
@@ -3714,11 +3738,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">（七）　振動発生施設</Sentence>
+              <Sentence WritingMode="vertical">（八）　振動発生施設</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">１　圧縮機、破砕機、粉砕機又は摩砕機の種類、容量及び個数</Sentence>

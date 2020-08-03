@@ -215,7 +215,7 @@
             </TOCSubsection>
             <TOCSubsection Delete="false" Num="4">
               <SubsectionTitle>第四款　事業報告等の株主への提供</SubsectionTitle>
-              <ArticleRange>（第百三十三条）</ArticleRange>
+              <ArticleRange>（第百三十三条・第百三十三条の二）</ArticleRange>
             </TOCSubsection>
           </TOCSection>
         </TOCChapter>
@@ -12602,6 +12602,7 @@
             <Subsection Delete="false" Hide="false" Num="4">
               <SubsectionTitle>第四款　事業報告等の株主への提供</SubsectionTitle>
               <Article Delete="false" Hide="false" Num="133">
+                <ArticleCaption>（事業報告等の提供）</ArticleCaption>
                 <ArticleTitle>第百三十三条</ArticleTitle>
                 <Paragraph Hide="false" Num="1">
                   <ParagraphNum/>
@@ -12762,6 +12763,47 @@
                   <ParagraphNum>７</ParagraphNum>
                   <ParagraphSentence>
                     <Sentence WritingMode="vertical">第三項の規定は、同項各号に掲げる事項に係る情報についても、電磁的方法により株主が提供を受けることができる状態に置く措置をとることを妨げるものではない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Delete="false" Hide="false" Num="133_2">
+                <ArticleCaption>（事業報告等の提供の特則）</ArticleCaption>
+                <ArticleTitle>第百三十三条の二</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">前条第三項の規定にかかわらず、株式会社の取締役が定時株主総会の招集の手続を行う場合において、提供事業報告（同条第一項に規定する提供事業報告をいう。以下この条において同じ。）に表示すべき事項（次に掲げるものを除く。以下この条において同じ。）に係る情報を、定時株主総会に係る招集通知（法第二百九十九条第二項又は第三項の規定による通知をいう。以下この条において同じ。）を発出する時から定時株主総会の日から三箇月が経過する日までの間、継続して電磁的方法により株主が提供を受けることができる状態に置く措置（第二百二十二条第一項第一号ロに掲げる方法のうち、インターネットに接続された自動公衆送信装置を使用する方法によって行われるものに限る。）をとるときにおける前条第二項の規定の適用については、当該事項につき同項各号に掲げる場合の区分に応じ、当該各号に定める方法により株主に対して提供したものとみなす。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同条第三項の措置をとる旨の定款の定めがある場合に限る。</Sentence>
+                  </ParagraphSentence>
+                  <Item Delete="false" Hide="false" Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Sentence WritingMode="vertical">第百二十条第一項第五号及び第七号並びに第百二十一条第一号、第二号及び第四号から第六号までに掲げる事項並びに第百二十四条第二項の規定により事業報告に表示すべき事項</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Delete="false" Hide="false" Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Sentence WritingMode="vertical">事業報告に表示すべき事項（前号に掲げるものを除く。）につきこの項の措置をとることについて監査役、監査等委員会又は監査委員会が異議を述べている場合における当該事項</Sentence>
+                    </ItemSentence>
+                  </Item>
+                </Paragraph>
+                <Paragraph Hide="false" Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">前項の場合には、取締役は、同項の措置をとるために使用する自動公衆送信装置のうち当該措置をとるための用に供する部分をインターネットにおいて識別するための文字、記号その他の符号又はこれらの結合であって、情報の提供を受ける者がその使用に係る電子計算機に入力することによって当該情報の内容を閲覧し、当該電子計算機に備えられたファイルに当該情報を記録することができるものを株主に対して通知しなければならない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="3">
+                  <ParagraphNum>３</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">第一項の規定により提供事業報告に表示すべき事項が株主に対して前条第二項各号に定める方法により提供したものとみなされる場合において、監査役、監査等委員会又は監査委員会が、現に株主に対して提供される事業報告が監査報告を作成するに際して監査をした事業報告の一部であることを株主に対して通知すべき旨を取締役に請求したときは、取締役は、その旨を株主に対して通知しなければならない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="4">
+                  <ParagraphNum>４</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">取締役は、提供事業報告に表示すべき事項（前条第三項の事業報告に表示すべき事項を除く。）に係る情報について第一項の措置をとる場合には、株主の利益を不当に害することがないよう特に配慮しなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -21011,6 +21053,30 @@
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この省令による改正後の会社計算規則（以下「新会社計算規則」という。）の規定は、平成三十年四月一日以後開始する事業年度に係る計算書類及び連結計算書類について適用し、同日前に開始する事業年度に係るものについては、なお従前の例による。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同年三月三十一日以後最初に終了する事業年度に係るものについては、新会社計算規則の規定を適用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月一五日法務省令第三七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（失効）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令による改正後の会社法施行規則の目次（この省令により改めた部分に限る。）並びに第百三十三条（この省令により加えた部分に限る。）及び第百三十三条の二の規定並びにこの省令による改正後の会社計算規則の目次（この省令により改めた部分に限る。）及び第百三十三条の二の規定は、この省令の施行の日から起算して六月を経過した日に、その効力を失う。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同日前に招集の手続が開始された定時株主総会に係る提供事業報告（会社法施行規則第百三十三条第一項に規定する提供事業報告をいう。）及び提供計算書類（会社計算規則第百三十三条第一項に規定する提供計算書類をいう。）の提供については、これらの規定は、なおその効力を有する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

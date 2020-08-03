@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="20" Year="13">
+<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="20" Year="13">
   <LawNum>平成十三年国土交通省令第二十号</LawNum>
   <LawBody>
     <LawTitle>国土地理院組織規則</LawTitle>
@@ -86,18 +86,34 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="3_4">
-        <ArticleCaption>（防災企画調整官）</ArticleCaption>
+        <ArticleCaption>（統括測量・防災官）</ArticleCaption>
         <ArticleTitle>第三条の四</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国土地理院に、防災企画調整官一人を置く。</Sentence>
+            <Sentence WritingMode="vertical">国土地理院に、統括測量・防災官一人を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">防災企画調整官は、命を受けて、国土地理院の所掌事務に関する防災に関する重要事項に係るものを整理する。</Sentence>
+            <Sentence WritingMode="vertical">統括測量・防災官は、命を受けて、国土地理院の所掌事務に関する測量及び防災に関する重要事項に係るものを統括する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3_5">
+        <ArticleCaption>（地理普及広報官）</ArticleCaption>
+        <ArticleTitle>第三条の五</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">国土地理院に、地理普及広報官一人を置く。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">地理普及広報官は、命を受けて、国土地理院の所掌事務に関する地理に関する情報の普及及び広報に関する重要事項についての企画及び立案並びに調整に関する事務をつかさどる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -152,7 +168,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">測量法（昭和二十四年法律第百八十八号）の施行に関する事務のうち、同法第六章に規定するもの以外のものに関すること（他の所掌に属するものを除く。）。</Sentence>
+              <Sentence WritingMode="vertical">測量法（昭和二十四年法律第百八十八号。第六章を除く。）の施行に関すること（他の所掌に属するものを除く。）。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -388,11 +404,16 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">総務部に、次の五課及び二室を置く。</Sentence>
+            <Sentence WritingMode="vertical">総務部に、次の六課及び一室を置く。</Sentence>
           </ParagraphSentence>
           <List>
             <ListSentence>
               <Sentence WritingMode="vertical">総務課</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence WritingMode="vertical">政策課</Sentence>
             </ListSentence>
           </List>
           <List>
@@ -420,11 +441,6 @@
               <Sentence WritingMode="vertical">広報広聴室</Sentence>
             </ListSentence>
           </List>
-          <List>
-            <ListSentence>
-              <Sentence WritingMode="vertical">政策調整室</Sentence>
-            </ListSentence>
-          </List>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="12">
@@ -438,7 +454,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">測量法の施行に関する事務のうち、同法第六章に規定するもの以外のものに関すること（他の所掌に属するものを除く。）。</Sentence>
+              <Sentence WritingMode="vertical">測量士及び測量士補の登録並びに測量士試験及び測量士補試験の実施に関すること（企画部の所掌に属するものを除く。）。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -456,43 +472,65 @@
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">国土地理院の所掌事務に関する法令案の作成に関すること。</Sentence>
+              <Sentence WritingMode="vertical">公文書類の審査及び進達に関すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">公文書類の審査及び進達に関すること。</Sentence>
+              <Sentence WritingMode="vertical">院長の官印及び院印の保管に関すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">院長の官印及び院印の保管に関すること。</Sentence>
+              <Sentence WritingMode="vertical">渉外に関すること（企画部及び地理地殻活動研究センターの所掌に属するものを除く。）。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">渉外に関すること（企画部及び地理地殻活動研究センターの所掌に属するものを除く。）。</Sentence>
+              <Sentence WritingMode="vertical">図書の収集、整理、保存及び利用に関すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">図書の収集、整理、保存及び利用に関すること。</Sentence>
+              <Sentence WritingMode="vertical">庁内の管理に関すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">庁内の管理に関すること。</Sentence>
+              <Sentence WritingMode="vertical">前各号に掲げるもののほか、国土地理院の所掌事務で他の所掌に属しないものに関すること。</Sentence>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="10">
-            <ItemTitle>十</ItemTitle>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="12_2">
+        <ArticleCaption>（政策課の所掌事務）</ArticleCaption>
+        <ArticleTitle>第十二条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">政策課は、次に掲げる事務をつかさどる。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前各号に掲げるもののほか、国土地理院の所掌事務で他の所掌に属しないものに関すること。</Sentence>
+              <Sentence WritingMode="vertical">測量法（第六章を除く。）の施行に関すること（他の所掌に属するものを除く。）。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国土地理院の所掌事務に関する法令案の作成に関すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国土地理院の所掌事務に関する総合的な政策の企画及び立案並びに国土地理院の所掌事務に関する政策に関する事務の調整に関すること。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -635,16 +673,6 @@
               <Sentence WritingMode="vertical">測量及び地図に関する相談に関すること。</Sentence>
             </ItemSentence>
           </Item>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="17_2">
-        <ArticleCaption>（政策調整室の所掌事務）</ArticleCaption>
-        <ArticleTitle>第十七条の二</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">政策調整室は、国土地理院の所掌事務に関する総合的な政策の企画及び立案並びに国土地理院の所掌事務に関する政策に関する事務の調整に関する事務をつかさどる。</Sentence>
-          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="18">
@@ -1352,7 +1380,7 @@
           <Item Delete="false" Hide="false" Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">測量法の施行に関する事務のうち、基本測量及び公共測量の測量成果の複製及び使用の承認に関すること。</Sentence>
+              <Sentence WritingMode="vertical">基本測量及び公共測量の測量成果の複製及び使用の承認に関すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="10">
@@ -1557,7 +1585,7 @@
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">測量法の施行に関する事務のうち、基本測量及び公共測量の測量成果の複製及び使用の承認に関すること。</Sentence>
+              <Sentence WritingMode="vertical">基本測量及び公共測量の測量成果の複製及び使用の承認に関すること。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -1810,6 +1838,22 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Delete="false" Hide="false" Num="46_2">
+        <ArticleCaption>（空間情報技術活用推進官）</ArticleCaption>
+        <ArticleTitle>第四十六条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">基本図情報部に、空間情報技術活用推進官一人を置く。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">空間情報技術活用推進官は、命を受けて、基本図、写真地図、基盤地図情報その他の基本図情報の応用技術に関する調査及び研究に関する重要事項についての企画及び立案並びに調整に関する事務をつかさどる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Delete="false" Hide="false" Num="47">
         <ArticleCaption>（基本図情報部に置く課等）</ArticleCaption>
         <ArticleTitle>第四十七条</ArticleTitle>
@@ -1897,7 +1941,7 @@
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">基本図、写真地図、基盤地図情報その他の基本図情報の応用技術に関する調査及び研究の企画及び立案並びに調整に関すること。</Sentence>
+              <Sentence WritingMode="vertical">基本図、写真地図、基盤地図情報その他の基本図情報の応用技術に関する調査及び研究の企画及び立案並びに調整に関すること（空間情報技術活用推進官の所掌に属するものを除く。）。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="8">
@@ -1971,7 +2015,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">基本図の編集に関すること。</Sentence>
+              <Sentence WritingMode="vertical">基本図及び小縮尺図の編集に関すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -1983,7 +2027,7 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">基本図の成果の刊行に関すること。</Sentence>
+              <Sentence WritingMode="vertical">基本図及び小縮尺図の成果の刊行に関すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
@@ -2103,7 +2147,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">基本図、写真地図、基盤地図情報その他の基本図情報の応用技術に関する調査及び研究を行うこと（管理課の所掌に属するものを除く。）。</Sentence>
+              <Sentence WritingMode="vertical">基本図、写真地図、基盤地図情報その他の基本図情報の応用技術に関する調査及び研究を行うこと（管理課及び空間情報技術活用推進官の所掌に属するものを除く。）。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -2243,8 +2287,24 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="54_2">
-        <ArticleCaption>（防災地理情報活用推進官）</ArticleCaption>
+        <ArticleCaption>（防災地理教育推進官）</ArticleCaption>
         <ArticleTitle>第五十四条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">応用地理部に、防災地理教育推進官一人を置く。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">防災地理教育推進官は、命を受けて、応用地理部の所掌事務に関する防災教育の支援の推進に関する重要事項についての企画及び立案並びに調整に関する事務をつかさどる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="54_3">
+        <ArticleCaption>（防災地理情報活用推進官）</ArticleCaption>
+        <ArticleTitle>第五十四条の三</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -2884,7 +2944,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国土地理院に、建設専門官五人以内を置く。</Sentence>
+            <Sentence WritingMode="vertical">国土地理院に、建設専門官四人以内を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -2900,7 +2960,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国土地理院に、専門調査官十一人以内を置く。</Sentence>
+            <Sentence WritingMode="vertical">国土地理院に、専門調査官九人以内を置く。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -3311,6 +3371,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成三十一年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日国土交通省令第三〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

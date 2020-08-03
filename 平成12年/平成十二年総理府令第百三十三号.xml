@@ -504,7 +504,7 @@
                 <Subitem1 Delete="false" Hide="false" Num="8">
                   <Subitem1Title>チ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>その他の資産であって、一年内に現金化することができると認められるもの</Sentence>
+                    <Sentence WritingMode="vertical">その他の資産であって、一年内に現金化することができると認められるもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -609,7 +609,7 @@
                 <Subitem1 Delete="false" Hide="false" Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>繰延税金資産</Sentence>
+                    <Sentence WritingMode="vertical">繰延税金資産</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Delete="false" Hide="false" Num="4">
@@ -705,13 +705,13 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="17">
+          <Article Delete="false" Hide="false" Num="17">
             <ArticleCaption>（繰延税金資産等の表示）</ArticleCaption>
             <ArticleTitle>第十七条</ArticleTitle>
-            <Paragraph Num="1">
+            <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>繰延税金資産の金額及び繰延税金負債の金額については、その差額のみを繰延税金資産又は繰延税金負債として固定資産又は固定負債に表示しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">繰延税金資産の金額及び繰延税金負債の金額については、その差額のみを繰延税金資産又は繰延税金負債として固定資産又は固定負債に表示しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -795,7 +795,7 @@
                 <Subitem1 Delete="false" Hide="false" Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>資産除去債務のうち、一年内に履行されると認められるもの</Sentence>
+                    <Sentence WritingMode="vertical">資産除去債務のうち、一年内に履行されると認められるもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Delete="false" Hide="false" Num="7">
@@ -830,7 +830,7 @@
                 <Subitem1 Delete="false" Hide="false" Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>繰延税金負債</Sentence>
+                    <Sentence WritingMode="vertical">繰延税金負債</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Delete="false" Hide="false" Num="4">
@@ -2205,7 +2205,7 @@
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">デリバティブ取引（法第二条第六項に規定するデリバティブ取引をいう。以下同じ。）の契約額等及び時価の状況表</Sentence>
+                  <Sentence WritingMode="vertical">デリバティブ取引（令第三条第二号に規定するデリバティブ取引をいう。以下同じ。）の契約額等及び時価の状況表</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="4">
@@ -4521,11 +4521,34 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日内閣府令第三五号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの府令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号（第５７条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H12F03101000133-001.pdf"/>
+          <Fig src="./pict/H12F03101000133_2007161607_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4533,7 +4556,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２号（第５８条第１項第２２号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H12F03101000133-002.pdf"/>
+          <Fig src="./pict/H12F03101000133_2007161607_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

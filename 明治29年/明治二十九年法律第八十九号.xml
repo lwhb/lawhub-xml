@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="190731e01k01m01" Era="Meiji" Lang="ja" LawType="Act" Num="89" Year="29">
+<Law DataInfo="180829e01k01m01" Era="Meiji" Lang="ja" LawType="Act" Num="89" Year="29">
   <LawNum>明治二十九年法律第八十九号</LawNum>
   <LawBody>
     <LawTitle>民法</LawTitle>
@@ -2590,8 +2590,7 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1">第一項の規定にかかわらず、行為の時に意思能力を有しなかった者は、その行為によって現に利益を受けている限度において、返還の義務を負う。</Sentence>
-                  <Sentence Num="2">行為の時に制限行為能力者であった者についても、同様とする。</Sentence>
+                  <Sentence>第一項の規定にかかわらず、行為の時に意思能力を有しなかった者は、その行為によって現に利益を受けている限度において、返還の義務を負う。行為の時に制限行為能力者であった者についても、同様とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -3056,7 +3055,7 @@
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence>民事執行法第百九十六条に規定する財産開示手続又は同法第二百四条に規定する第三者からの情報取得手続</Sentence>
+                    <Sentence>民事執行法第百九十六条に規定する財産開示手続</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -7709,8 +7708,7 @@
                   <Paragraph Num="2">
                     <ParagraphNum>２</ParagraphNum>
                     <ParagraphSentence>
-                      <Sentence Num="1">債権者は、転得者に対する詐害行為取消請求において、債務者がした行為の取消しとともに、転得者が転得した財産の返還を請求することができる。</Sentence>
-                      <Sentence Num="2">転得者がその財産の返還をすることが困難であるときは、債権者は、その価額の償還を請求することができる。</Sentence>
+                      <Sentence>債権者は、転得者に対する詐害行為取消請求において、債務者がした行為の取消しとともに、転得者が転得した財産の返還を請求することができる。転得者がその財産の返還をすることが困難であるときは、債権者は、その価額の償還を請求することができる。</Sentence>
                     </ParagraphSentence>
                   </Paragraph>
                 </Article>
@@ -7860,8 +7858,7 @@
                   <Paragraph Num="1">
                     <ParagraphNum/>
                     <ParagraphSentence>
-                      <Sentence Num="1">詐害行為取消請求に係る訴えは、債務者が債権者を害することを知って行為をしたことを債権者が知った時から二年を経過したときは、提起することができない。</Sentence>
-                      <Sentence Num="2">行為の時から十年を経過したときも、同様とする。</Sentence>
+                      <Sentence>詐害行為取消請求に係る訴えは、債務者が債権者を害することを知って行為をしたことを債権者が知った時から二年を経過したときは、提起することができない。行為の時から十年を経過したときも、同様とする。</Sentence>
                     </ParagraphSentence>
                   </Paragraph>
                 </Article>
@@ -15388,19 +15385,8 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>第八百十七条の二に規定する請求の時に十五歳に達している者は、養子となることができない。特別養子縁組が成立するまでに十八歳に達した者についても、同様とする。</Sentence>
-                  </ParagraphSentence>
-                </Paragraph>
-                <Paragraph Num="2">
-                  <ParagraphNum>２</ParagraphNum>
-                  <ParagraphSentence>
-                    <Sentence>前項前段の規定は、養子となる者が十五歳に達する前から引き続き養親となる者に監護されている場合において、十五歳に達するまでに第八百十七条の二に規定する請求がされなかったことについてやむを得ない事由があるときは、適用しない。</Sentence>
-                  </ParagraphSentence>
-                </Paragraph>
-                <Paragraph Num="3">
-                  <ParagraphNum>３</ParagraphNum>
-                  <ParagraphSentence>
-                    <Sentence>養子となる者が十五歳に達している場合においては、特別養子縁組の成立には、その者の同意がなければならない。</Sentence>
+                    <Sentence Function="main" Num="1">第八百十七条の二に規定する請求の時に六歳に達している者は、養子となることができない。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、その者が八歳未満であって六歳に達する前から引き続き養親となる者に監護されている場合は、この限りでない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -21216,6 +21202,12 @@
           <Sentence>この法律は、会社法の施行の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>前項の規定にかかわらず、第四十五条の認可の申請が第百十六条第一項の規定によりされたものである場合には、第一項の申請書には、内閣府令で定める書類の添付を省略することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一八年六月二日法律第五〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -22030,10 +22022,16 @@
         </Paragraph>
       </Article>
       <Article Num="36">
-        <ArticleCaption>（遺言執行者の報酬に関する経過措置）</ArticleCaption>
+        <ArticleCaption>（遺言執行者の復任権及び報酬に関する経過措置）</ArticleCaption>
         <ArticleTitle>第三十六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日前に遺言執行者となった者の旧法第千十六条第二項において準用する旧法第百五条に規定する責任については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence>施行日前に遺言執行者となった者の報酬については、新法第千十八条第二項において準用する新法第六百四十八条第三項及び第六百四十八条の二の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
@@ -22237,83 +22235,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年五月一七日法律第二号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence>附則第二十条の規定</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence>公布の日</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence>略</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence>附則第九条の規定</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence>この法律の施行の日（以下「施行日」という。）又は前号に定める日のいずれか遅い日</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-      <Article Num="20">
-        <ArticleCaption>（政令への委任）</ArticleCaption>
-        <ArticleTitle>第二十条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和元年六月一四日法律第三四号">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphCaption>（施行期日）</ParagraphCaption>
-        <ParagraphNum>１</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
-          <Sentence Function="proviso" Num="2">ただし、附則第三項の規定は、公布の日から施行する。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-      <Paragraph Num="2">
-        <ParagraphCaption>（経過措置）</ParagraphCaption>
-        <ParagraphNum>２</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence>この法律の施行の際現に係属している特別養子縁組の成立の審判事件に関する養子となる者の年齢についての要件及び当該審判事件の手続については、なお従前の例による。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
-      <Paragraph Num="3">
-        <ParagraphCaption>（政令への委任）</ParagraphCaption>
-        <ParagraphNum>３</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence>前項に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

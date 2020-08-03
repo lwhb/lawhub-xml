@@ -245,7 +245,8 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第五条第二項の規定による届出は、毎年度六月三十日までに、様式第一による届出書を提出して行わなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第五条第二項の規定による届出は、毎年度六月三十日までに、様式第一による届出書を提出して行わなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他やむを得ない事由により当該期限までに提出して行うことが困難であるときは、財務大臣、文部科学大臣、厚生労働大臣、農林水産大臣、経済産業大臣、国土交通大臣、環境大臣及び防衛大臣が当該事由を勘案して定める期限までに提出して行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -311,13 +312,15 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第六条第一項の請求は、毎年度六月三十日までに、様式第一の届出書と併せて、様式第二による請求書及び当該請求書別紙に定める事項についての事実を証する書類を提出して行わなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第六条第一項の請求は、毎年度六月三十日までに、様式第一の届出書と併せて、様式第二による請求書及び当該請求書別紙に定める事項についての事実を証する書類を提出して行わなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他やむを得ない事由により当該期限までに提出して行うことが困難であるときは、財務大臣、文部科学大臣、厚生労働大臣、農林水産大臣、経済産業大臣、国土交通大臣、環境大臣及び防衛大臣が当該事由を勘案して定める期限までに提出して行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第六条第八項の請求は、毎年度六月三十日までに、様式第三による請求書及び当該請求書別紙に定める事項についての事実を証する書類を提出して行わなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第六条第八項の請求は、毎年度六月三十日までに、様式第三による請求書及び当該請求書別紙に定める事項についての事実を証する書類を提出して行わなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他やむを得ない事由により当該期限までに提出して行うことが困難であるときは、財務大臣、文部科学大臣、厚生労働大臣、農林水産大臣、経済産業大臣、国土交通大臣、環境大臣及び防衛大臣が当該事由を勘案して定める期限までに提出して行わなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
@@ -577,6 +580,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省・防衛省令第一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
@@ -702,7 +714,7 @@
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H13F10008120001_2001281501_001.pdf"/>
+          <Fig src="./pict/H13F10008120001_2007021007_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -711,7 +723,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H13F10008120001_2001281501_002.pdf"/>
+          <Fig src="./pict/H13F10008120001_2007021007_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -720,7 +732,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H13F10008120001_2001281501_003.pdf"/>
+          <Fig src="./pict/H13F10008120001_2007021007_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -729,7 +741,7 @@
       <RelatedArticleNum>（第１２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H13F10008120001_2001281501_004.pdf"/>
+          <Fig src="./pict/H13F10008120001_2007021007_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -738,7 +750,7 @@
       <RelatedArticleNum>（第１２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H13F10008120001_2001281501_005.pdf"/>
+          <Fig src="./pict/H13F10008120001_2007021007_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -747,7 +759,7 @@
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H13F10008120001_2001281501_006.pdf"/>
+          <Fig src="./pict/H13F10008120001_2007021007_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

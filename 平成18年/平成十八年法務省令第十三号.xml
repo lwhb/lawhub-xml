@@ -184,7 +184,7 @@
         <PartTitle>第五編　計算書類の株主への提供及び承認の特則に関する要件</PartTitle>
         <TOCChapter Delete="false" Num="1">
           <ChapterTitle>第一章　計算書類等の株主への提供</ChapterTitle>
-          <ArticleRange>（第百三十三条・第百三十四条）</ArticleRange>
+          <ArticleRange>（第百三十三条―第百三十四条）</ArticleRange>
         </TOCChapter>
         <TOCChapter Delete="false" Num="2">
           <ChapterTitle>第二章　計算書類等の承認の特則に関する要件</ChapterTitle>
@@ -7874,7 +7874,8 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">金融商品に関する注記は、次に掲げるもの（重要性の乏しいものを除く。）とする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">金融商品に関する注記は、次に掲げるもの（重要性の乏しいものを除く。）とする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、法第四百四十四条第三項に規定する株式会社以外の株式会社にあっては、第三号に掲げる事項を省略することができる。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -7886,6 +7887,13 @@
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
                   <Sentence WritingMode="vertical">金融商品の時価等に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">金融商品の時価の適切な区分ごとの内訳等に関する事項
+</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -9569,6 +9577,71 @@
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">第四項の規定は、提供計算書類に表示すべき事項のうち株主資本等変動計算書又は個別注記表に係るもの以外のものに係る情報についても、電磁的方法により株主が提供を受けることができる状態に置く措置をとることを妨げるものではない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="133_2">
+            <ArticleCaption>（計算書類等の提供の特則）</ArticleCaption>
+            <ArticleTitle>第百三十三条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前条第四項の規定にかかわらず、株式会社の取締役が定時株主総会の招集の手続を行う場合において、提供計算書類（同条第一項に規定する提供計算書類をいう。以下この条において同じ。）に表示すべき事項に係る情報を、定時株主総会に係る招集通知を発出する時から定時株主総会の日から三箇月が経過する日までの間、継続して電磁的方法により株主が提供を受けることができる状態に置く措置（会社法施行規則第二百二十二条第一項第一号ロに掲げる方法のうち、インターネットに接続された自動公衆送信装置を使用する方法によって行われるものに限る。）をとるときにおける前条第二項の規定の適用については、当該事項につき同項各号に掲げる場合の区分に応じ、当該各号に定める方法により株主に対して提供したものとみなす。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号のいずれにも該当する場合に限る。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前条第四項の措置をとる旨の定款の定めがあること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">提供計算書類及びその附属明細書（第五号において「提供計算書類等」という。）についての会計監査報告の内容に第百二十六条第一項第二号イに定める事項が含まれていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前号の会計監査報告に係る監査役、監査役会、監査等委員会又は監査委員会の監査報告（監査役会設置会社にあっては、第百二十八条第一項の規定により作成した監査役会の監査報告に限る。）の内容として会計監査人の監査の方法又は結果を相当でないと認める意見がないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第百二十八条第二項後段、第百二十八条の二第一項後段又は第百二十九条第一項後段の規定により第二号の会計監査報告に係る監査役会、監査等委員会又は監査委員会の監査報告に付記された内容が前号の意見でないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">提供計算書類等が第百三十二条第三項の規定により監査を受けたものとみなされたものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">取締役会を設置していること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の場合には、取締役は、同項の措置をとるために使用する自動公衆送信装置のうち当該措置をとるための用に供する部分をインターネットにおいて識別するための文字、記号その他の符号又はこれらの結合であって、情報の提供を受ける者がその使用に係る電子計算機に入力することによって当該情報の内容を閲覧し、当該電子計算機に備えられたファイルに当該情報を記録することができるものを株主に対して通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第一項の規定により提供計算書類に表示すべき事項が株主に対して前条第二項各号に定める方法により提供したものとみなされる場合において、監査役、会計監査人、監査等委員会又は監査委員会が、現に株主に対して提供された計算書類が監査報告又は会計監査報告を作成するに際して監査をした計算書類の一部であることを株主に対して通知すべき旨を取締役に請求したときは、取締役は、その旨を株主に対して通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">取締役は、提供計算書類に表示すべき事項（前条第四項の提供計算書類に表示すべき事項を除く。）に係る情報について第一項の措置をとる場合には、株主の利益を不当に害することがないよう特に配慮しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -12890,6 +12963,54 @@
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この省令による改正後の会社計算規則（以下「新会社計算規則」という。）の規定は、令和二年三月三十一日以後に終了する事業年度に係る計算関係書類についての会計監査報告について適用し、同日前に終了する事業年度に係る計算関係書類についての会計監査報告については、なお従前の例による。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、連結財務諸表の用語、様式及び作成方法に関する規則（昭和五十一年大蔵省令第二十八号。以下「連結財務諸表規則」という。）第九十三条に規定する国際会計基準に基づいて作成した連結財務諸表を米国証券取引委員会に登録している連結財務諸表規則第一条の二に規定する指定国際会計基準特定会社又は米国預託証券の発行等に関して要請されている用語、様式及び作成方法により作成した連結財務諸表を米国証券取引委員会に登録している連結財務諸表規則第二条第一号に規定する連結財務諸表提出会社の令和元年十二月三十一日以後に終了する事業年度に係る連結計算書類についての会計監査報告については、新会社計算規則の規定（新会社計算規則第百二十六条第一項第二号ロの規定を除く。）を適用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法務省令第二七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令による改正後の会社計算規則（以下「新会社計算規則」という。）の規定は、令和三年四月一日以後に開始する事業年度に係る計算書類及び連結計算書類について適用し、同日前に開始する事業年度に係るものについては、なお従前の例による。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、令和二年三月三十一日以後に終了する事業年度に係るものについては、新会社計算規則の規定を適用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月一五日法務省令第三七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（失効）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令による改正後の会社法施行規則の目次（この省令により改めた部分に限る。）並びに第百三十三条（この省令により加えた部分に限る。）及び第百三十三条の二の規定並びにこの省令による改正後の会社計算規則の目次（この省令により改めた部分に限る。）及び第百三十三条の二の規定は、この省令の施行の日から起算して六月を経過した日に、その効力を失う。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同日前に招集の手続が開始された定時株主総会に係る提供事業報告（会社法施行規則第百三十三条第一項に規定する提供事業報告をいう。）及び提供計算書類（会社計算規則第百三十三条第一項に規定する提供計算書類をいう。）の提供については、これらの規定は、なおその効力を有する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

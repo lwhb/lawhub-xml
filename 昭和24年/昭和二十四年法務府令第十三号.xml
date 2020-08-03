@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="13" Year="24">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="13" Year="24">
   <LawNum>昭和二十四年法務府令第十三号</LawNum>
   <LawBody>
     <LawTitle>登記事務委任規則</LawTitle>
@@ -13368,6 +13368,26 @@
         <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、平成三十一年四月一日から施行する。</Sentence>
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条の規定は、平成三十一年四月二十二日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法務省令第二五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和二年五月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条の規定は同月十二日から、第三条の規定は同月十三日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一八日法務省令第四〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和二年七月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条の規定は同月七日から、第三条の規定は同月八日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

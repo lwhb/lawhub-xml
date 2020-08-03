@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="180824e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="025" Year="30">
+<Law DataInfo="200508e01k01m02" Era="Heisei" Lang="ja" LawType="Act" Num="025" Year="30">
   <LawNum>平成三十年法律第二十五号</LawNum>
   <LawBody>
     <LawTitle>生産性向上特別措置法</LawTitle>
@@ -1207,12 +1207,11 @@
             </Paragraph>
           </Article>
           <Article Num="29">
-            <ArticleCaption>（課税の特例）</ArticleCaption>
             <ArticleTitle>第二十九条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>認定革新的データ産業活用計画に従って実施される革新的データ産業活用（生産性の向上に特に資するものとして主務大臣が定める基準に適合することについて主務大臣の確認を受けたものに限る。）を行う認定革新的データ産業活用事業者が、当該革新的データ産業活用の用に供するために取得し、又は製作した機械及び装置、器具及び備品並びにソフトウェアについては、租税特別措置法（昭和三十二年法律第二十六号）で定めるところにより、課税の特例の適用があるものとする。</Sentence>
+                <Sentence>削除</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1984,6 +1983,39 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="171">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="172">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>

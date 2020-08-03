@@ -15304,7 +15304,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年三月二五日内閣府令第一四号" Extract="true" Type="Amend">
+    <SupplProvision AmendLawNum="令和二年三月二五日内閣府令第一四号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -15317,6 +15317,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令による改正後の貸金業法施行規則別紙様式第八号、別紙様式第八号の二及び別紙様式第八号の三の規定は、当該規定の施行の日以後に終了する事業年度に係る事業報告書（貸金業法第二十四条の六の九の規定による事業報告書をいう。以下この条において同じ。）について適用し、同日前に終了する事業年度に係る事業報告書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxTable Num="0">
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
@@ -15326,7 +15336,7 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <FigStruct>
-                <Fig src="./pict/S58F03401000040_2006251906_001.jpg"/>
+                <Fig src="./pict/S58F03401000040_2007141007_001.jpg"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -15392,7 +15402,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号（第１条の５関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_002.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15400,7 +15410,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号の２（第４条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_003.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15408,7 +15418,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１号の３（第８条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_004.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15416,7 +15426,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２号（第４条、第８条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_005.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15424,7 +15434,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２号の２</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_006.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15432,7 +15442,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第３号（第４条第３項第７号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_007.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15440,7 +15450,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第３号の２（第４条、第８条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_008.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15448,7 +15458,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_009.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15456,7 +15466,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号の２（第４条第３項第１５号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_010.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15464,7 +15474,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号の２の２（第４条第３項第１６号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_011.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15472,7 +15482,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号の３（第４条の２第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_012.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15480,7 +15490,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号の４（第４条の３第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_013.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15488,7 +15498,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号の５（第４条の３第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_014.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15496,7 +15506,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第４号の６（第６条第２項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_015.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15504,7 +15514,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第５号（第７条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_016.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15512,7 +15522,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第６号（第１０条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_017.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15520,7 +15530,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第６号の２（第１０条の９の２関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_018.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15528,7 +15538,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第７号（第２０条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_019.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15536,7 +15546,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第８号（第２６条の２９関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_020.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15544,7 +15554,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第８号の２（第２６条の２９の２関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_021.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15552,7 +15562,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第８号の３（第２６条の２９の２関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_022.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15560,7 +15570,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第９号（第２６条の３２関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_023.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15568,7 +15578,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１０号（第２６条の５１関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_024.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15576,7 +15586,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１１号（第２６条の５２関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_025.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15584,7 +15594,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１２号（第２６条の５２関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_026.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15592,7 +15602,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１３号（第２６条の５４関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_027.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15600,7 +15610,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１４号（第２６条の５５関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_028.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15608,7 +15618,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１５号（第２６条の６０関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_029.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15616,7 +15626,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１６号（第２６条の６３関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_030.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15624,7 +15634,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１７号（第２６条の７１関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_031.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15632,7 +15642,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１８号（第３０条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_032.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15640,7 +15650,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第１９号（第３０条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_033.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15648,7 +15658,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２０号（第３０条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_034.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15657,7 +15667,7 @@
       <RelatedArticleNum>（第３０条の１１関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_035.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15665,7 +15675,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第２２号（第３０条の３０関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03401000040_2006251906_036.pdf"/>
+          <Fig src="./pict/S58F03401000040_2007141007_036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="213" Year="26">
+<Law DataInfo="200417e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="213" Year="26">
   <LawNum>平成二十六年政令第二百十三号</LawNum>
   <LawBody>
     <LawTitle>子ども・子育て支援法施行令</LawTitle>
@@ -1952,7 +1952,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第六十六条の三第一項の政令で定める割合は、千分の百四とする。</Sentence>
+            <Sentence>法第六十六条の三第一項の政令で定める割合は、千分の百三十六・七とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2037,12 +2037,12 @@
         </Paragraph>
       </Article>
       <Article Num="27">
-        <ArticleCaption>（法第七十条の政令で定める拠出金率）</ArticleCaption>
+        <ArticleCaption>（法第七十条第二項の政令で定める拠出金率）</ArticleCaption>
         <ArticleTitle>第二十七条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第七十条第二項の拠出金率は、千分の三・四とする。</Sentence>
+            <Sentence>法第七十条第二項の拠出金率は、千分の三・六とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3381,6 +3381,23 @@
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence>この政令の施行前に行われた子ども・子育て支援法の一部を改正する法律による改正前の子ども・子育て支援法（平成二十四年法律第六十五号。以下この項において「旧法」という。）第二十七条第一項に規定する特定教育・保育、旧法第二十八条第一項第二号に規定する特別利用保育、同項第三号に規定する特別利用教育、旧法第二十九条第一項に規定する特定地域型保育、旧法第三十条第一項第二号に規定する特別利用地域型保育、同項第三号に規定する特定利用地域型保育及び同項第四号に規定する特例保育については、第一条の規定による改正後の子ども・子育て支援法施行令第四条から第六条まで及び第九条から第十四条まで並びに附則第十二条の規定にかかわらず、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第九五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令による改正後の第二十七条の規定は、令和二年四月以後の月分の拠出金の徴収について適用し、同年三月以前の月分の拠出金の徴収については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

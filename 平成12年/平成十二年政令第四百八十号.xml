@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="480" Year="12">
+<Law DataInfo="200605e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="480" Year="12">
   <LawNum>平成十二年政令第四百八十号</LawNum>
   <LawBody>
     <LawTitle>投資信託及び投資法人に関する法律施行令</LawTitle>
@@ -84,7 +84,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>デリバティブ取引に係る権利</Sentence>
+                <Sentence>デリバティブ取引（暗号資産（資金決済に関する法律（平成二十一年法律第五十九号）第二条第五項に規定する暗号資産をいう。第十九条第五項第二号において同じ。）及び暗号資産関連金融指標（金融商品取引法（昭和二十三年法律第二十五号）第百八十五条の二十二第一項第一号に規定する暗号資産関連金融指標をいう。第十号ハ及び第十九条第五項第二号において同じ。）に係るものを除く。第十号ハ及びニ、第百十七条第四号並びに第百二十五条第一項第二号において同じ。）に係る権利</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -149,7 +149,7 @@
               <Subitem1 Num="3">
                 <Subitem1Title>ハ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>当事者が元本として定めた金額について当事者の一方が相手方と取り決めた商品の価格若しくは商品指数（商品先物取引法第二条第二項に規定する商品指数をいう。以下同じ。）の約定した期間における変化率に基づいて金銭を支払い、相手方が当事者の一方と取り決めた商品の価格、商品指数若しくは金融指標（金融商品取引法（昭和二十三年法律第二十五号）第二条第二十五項に規定する金融指標をいう。）の約定した期間における変化率に基づいて金銭を支払うことを相互に約する取引（これらの金銭の支払とあわせて当該元本として定めた金額に相当する金銭又は商品を授受することを約するものを含む。）又はこれに類似する取引（デリバティブ取引並びにイ及びロに掲げる取引に該当するものを除く。）</Sentence>
+                  <Sentence>当事者が元本として定めた金額について当事者の一方が相手方と取り決めた商品の価格若しくは商品指数（商品先物取引法第二条第二項に規定する商品指数をいう。以下同じ。）の約定した期間における変化率に基づいて金銭を支払い、相手方が当事者の一方と取り決めた商品の価格、商品指数若しくは金融指標（金融商品取引法第二条第二十五項に規定する金融指標をいい、暗号資産関連金融指標を除く。）の約定した期間における変化率に基づいて金銭を支払うことを相互に約する取引（これらの金銭の支払とあわせて当該元本として定めた金額に相当する金銭又は商品を授受することを約するものを含む。）又はこれに類似する取引（デリバティブ取引並びにイ及びロに掲げる取引に該当するものを除く。）</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="4">
@@ -634,13 +634,13 @@
                   <Sentence>弁護士にあっては、次に掲げる者</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
-                  <Subitem2Title>（1）</Subitem2Title>
+                  <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>当該投資信託委託会社又は当該受託会社の役員（役員が法人であるときは、その社員。以下この条、第二十八条及び第百二十四条において同じ。）又は使用人</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
-                  <Subitem2Title>（2）</Subitem2Title>
+                  <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>弁護士法（昭和二十四年法律第二百五号）の規定により、法第十一条第二項の規定による調査に係る業務をすることができない者</Sentence>
                   </Subitem2Sentence>
@@ -652,13 +652,13 @@
                   <Sentence>弁護士法人にあっては、次に掲げる者</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
-                  <Subitem2Title>（1）</Subitem2Title>
+                  <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence>その社員のうちにイ（1）に掲げる者があるもの</Sentence>
+                    <Sentence>その社員のうちにイ（１）に掲げる者があるもの</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
-                  <Subitem2Title>（2）</Subitem2Title>
+                  <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>弁護士法の規定により、法第十一条第二項の規定による調査に係る業務をすることができない者</Sentence>
                   </Subitem2Sentence>
@@ -676,13 +676,13 @@
                   <Sentence>公認会計士にあっては、次に掲げる者</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
-                  <Subitem2Title>（1）</Subitem2Title>
+                  <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>当該投資信託委託会社又は当該受託会社の役員又は使用人</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
-                  <Subitem2Title>（2）</Subitem2Title>
+                  <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>公認会計士法の規定により、法第十一条第二項の規定による調査に係る業務をすることができない者</Sentence>
                   </Subitem2Sentence>
@@ -694,19 +694,19 @@
                   <Sentence>監査法人にあっては、次に掲げる者</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
-                  <Subitem2Title>（1）</Subitem2Title>
+                  <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>当該投資信託委託会社又は当該受託会社の会計参与</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
-                  <Subitem2Title>（2）</Subitem2Title>
+                  <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence>その社員のうちにイ（1）に掲げる者があるもの</Sentence>
+                    <Sentence>その社員のうちにイ（１）に掲げる者があるもの</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="3">
-                  <Subitem2Title>（3）</Subitem2Title>
+                  <Subitem2Title>（３）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>公認会計士法の規定により、法第十一条第二項の規定による調査に係る業務をすることができない者</Sentence>
                   </Subitem2Sentence>
@@ -822,7 +822,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>金融商品取引法第二条第二十二項に規定する店頭デリバティブ取引</Sentence>
+                <Sentence>金融商品取引法第二条第二十二項に規定する店頭デリバティブ取引（暗号資産及び暗号資産関連金融指標に係るものを除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -1275,13 +1275,13 @@
                   <Sentence>弁護士にあっては、次に掲げる者</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
-                  <Subitem2Title>（1）</Subitem2Title>
+                  <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>当該信託会社等の役員又は使用人</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
-                  <Subitem2Title>（2）</Subitem2Title>
+                  <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>弁護士法の規定により、法第五十四条第一項において準用する法第十一条第二項の規定による調査に係る業務をすることができない者</Sentence>
                   </Subitem2Sentence>
@@ -1293,13 +1293,13 @@
                   <Sentence>弁護士法人にあっては、次に掲げる者</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
-                  <Subitem2Title>（1）</Subitem2Title>
+                  <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence>その社員のうちにイ（1）に掲げる者があるもの</Sentence>
+                    <Sentence>その社員のうちにイ（１）に掲げる者があるもの</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
-                  <Subitem2Title>（2）</Subitem2Title>
+                  <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>弁護士法の規定により、法第五十四条第一項において準用する法第十一条第二項の規定による調査に係る業務をすることができない者</Sentence>
                   </Subitem2Sentence>
@@ -1317,13 +1317,13 @@
                   <Sentence>公認会計士にあっては、次に掲げる者</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
-                  <Subitem2Title>（1）</Subitem2Title>
+                  <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>当該信託会社等の役員又は使用人</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
-                  <Subitem2Title>（2）</Subitem2Title>
+                  <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>公認会計士法の規定により、法第五十四条第一項において準用する法第十一条第二項の規定による調査に係る業務をすることができない者</Sentence>
                   </Subitem2Sentence>
@@ -1335,19 +1335,19 @@
                   <Sentence>監査法人にあっては、次に掲げる者</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
-                  <Subitem2Title>（1）</Subitem2Title>
+                  <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>当該信託会社等の会計参与</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
-                  <Subitem2Title>（2）</Subitem2Title>
+                  <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence>その社員のうちにイ（1）に掲げる者があるもの</Sentence>
+                    <Sentence>その社員のうちにイ（１）に掲げる者があるもの</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="3">
-                  <Subitem2Title>（3）</Subitem2Title>
+                  <Subitem2Title>（３）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>公認会計士法の規定により、法第五十四条第一項において準用する法第十一条第二項の規定による調査に係る業務をすることができない者</Sentence>
                   </Subitem2Sentence>
@@ -12112,13 +12112,13 @@
                   <Sentence>弁護士にあっては、次に掲げる者</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
-                  <Subitem2Title>（1）</Subitem2Title>
+                  <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>当該投資法人又はその資産運用会社若しくは資産保管会社の役員又は使用人</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
-                  <Subitem2Title>（2）</Subitem2Title>
+                  <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>弁護士法の規定により、法第二百一条第二項の規定による調査に係る業務をすることができない者</Sentence>
                   </Subitem2Sentence>
@@ -12130,13 +12130,13 @@
                   <Sentence>弁護士法人にあっては、次に掲げる者</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
-                  <Subitem2Title>（1）</Subitem2Title>
+                  <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence>その社員のうちにイ（1）に掲げる者があるもの</Sentence>
+                    <Sentence>その社員のうちにイ（１）に掲げる者があるもの</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
-                  <Subitem2Title>（2）</Subitem2Title>
+                  <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>弁護士法の規定により、法第二百一条第二項の規定による調査に係る業務をすることができない者</Sentence>
                   </Subitem2Sentence>
@@ -12154,13 +12154,13 @@
                   <Sentence>公認会計士にあっては、次に掲げる者</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
-                  <Subitem2Title>（1）</Subitem2Title>
+                  <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>当該投資法人又はその資産運用会社若しくは資産保管会社の役員又は使用人</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
-                  <Subitem2Title>（2）</Subitem2Title>
+                  <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>公認会計士法の規定により、法第二百一条第二項の規定による調査に係る業務をすることができない者</Sentence>
                   </Subitem2Sentence>
@@ -12172,19 +12172,19 @@
                   <Sentence>監査法人にあっては、次に掲げる者</Sentence>
                 </Subitem1Sentence>
                 <Subitem2 Num="1">
-                  <Subitem2Title>（1）</Subitem2Title>
+                  <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>当該投資法人の資産運用会社又は資産保管会社の会計参与</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
-                  <Subitem2Title>（2）</Subitem2Title>
+                  <Subitem2Title>（２）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence>その社員のうちにイ（1）に掲げる者があるもの</Sentence>
+                    <Sentence>その社員のうちにイ（１）に掲げる者があるもの</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="3">
-                  <Subitem2Title>（3）</Subitem2Title>
+                  <Subitem2Title>（３）</Subitem2Title>
                   <Subitem2Sentence>
                     <Sentence>公認会計士法の規定により、法第二百一条第二項の規定による調査に係る業務をすることができない者</Sentence>
                   </Subitem2Sentence>
@@ -14516,6 +14516,29 @@
           <Sentence>この政令は、金融商品取引法の一部を改正する法律の施行の日（平成三十年四月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日政令第一四二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

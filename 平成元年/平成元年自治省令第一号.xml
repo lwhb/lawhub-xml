@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="191211e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="01">
+<Law DataInfo="200729e03k03m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="01">
   <LawNum>平成元年自治省令第一号</LawNum>
   <LawBody>
     <LawTitle>危険物の試験及び性状に関する省令</LawTitle>
@@ -11,7 +11,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">粉粒状の物品は、目開きが二ミリメートルの網ふるい（日本産業規格（産業標準化法（昭和二十四年法律第百八十五号）第二十条第一項の日本産業規格をいう。以下同じ。）Ｚ八八〇一（一九八七）「標準ふるい」に規定する網ふるいをいう。以下同じ。）を回転させながら毎分百六十回の打振を与えてふるった場合に、当該網ふるいを三十分間で通過するものが十パーセント以上のものとする。</Sentence>
+            <Sentence WritingMode="vertical">粉粒状の物品は、目開きが二ミリメートルの網ふるい（日本産業規格（産業標準化法（昭和二十四年法律第百八十五号）第二十条第一項の日本産業規格をいう。以下同じ。）Ｚ八八〇一－一に規定する網ふるいをいう。以下同じ。）を回転させながら毎分百六十回の打振を与えてふるった場合に、当該網ふるいを三十分間で通過するものが十パーセント以上のものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -172,12 +172,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-<SupplProvision AmendLawNum="令和元年六月二八日総務省令第一九号" Type="Amend">
+    <SupplProvision AmendLawNum="令和元年六月二八日総務省令第一九号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月一五日総務省令第四〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年五月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -470,13 +479,13 @@
             <Subitem3 Delete="false" Hide="false" Num="1">
               <Subitem3Title>（1）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence WritingMode="vertical">鋼製の円柱（材質が日本産業規格Ｇ四八〇五（一九七〇）「高炭素クロム軸受鋼鋼材」に規定するもので、直径及び高さがいずれも十二ミリメートルの円柱。以下同じ。）の上に赤りん（乾燥用シリカゲルを入れたデシケータ中に温度二十度で二十四時間以上保存されているもの）五ミリグラムを載せ、その上に標準物質（乾燥用シリカゲルを入れたデシケータ中に温度二十度で二十四時間以上保存されているもの）五ミリグラムを載せる。</Sentence>
+                <Sentence WritingMode="vertical">鋼製の円柱（材質が日本産業規格Ｇ四八〇五に規定するもので、直径及び高さがいずれも十二ミリメートルの円柱。以下同じ。）の上に赤りん（乾燥用シリカゲルを入れたデシケータ中に温度二十度で二十四時間以上保存されているもの）五ミリグラムを載せ、その上に標準物質（乾燥用シリカゲルを入れたデシケータ中に温度二十度で二十四時間以上保存されているもの）五ミリグラムを載せる。</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Delete="false" Hide="false" Num="2">
               <Subitem3Title>（2）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence WritingMode="vertical">鋼球（材質が日本産業規格Ｇ四八〇五（一九七〇）「高炭素クロム軸受鋼鋼材」に規定するもので、直径が四十ミリメートルの球）を混合物の上に直接落下させて、爆発するか否かを観察する。</Sentence>
+                <Sentence WritingMode="vertical">鋼球（材質が日本産業規格Ｇ四八〇五に規定するもので、直径が四十ミリメートルの球）を混合物の上に直接落下させて、爆発するか否かを観察する。</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Delete="false" Hide="false" Num="3">
@@ -575,7 +584,7 @@
             <Subitem3 Delete="false" Hide="false" Num="2">
               <Subitem3Title>（2）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence WritingMode="vertical">鋼球（材質が日本産業規格Ｇ四八〇五（一九七〇）「高炭素クロム軸受鋼鋼材」に規定するもので、直径が七ミリメートルの球）を混合物の上部の鋼製の円柱の上に落下させて、爆発するか否かを観察する。</Sentence>
+                <Sentence WritingMode="vertical">鋼球（材質が日本産業規格Ｇ四八〇五に規定するもので、直径が七ミリメートルの球）を混合物の上部の鋼製の円柱の上に落下させて、爆発するか否かを観察する。</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Delete="false" Hide="false" Num="3">
@@ -639,26 +648,26 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>イ</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">鉄管は、下ふた（材質が日本産業規格Ｇ三四五四（一九八四）「圧力配管用炭素鋼鋼管」に規定するもので、外径六十ミリメートル、高さ三十八ミリメートル、底の厚さ六ミリメートルのもの）を溶接して取り付けた鋼管（材質が日本産業規格Ｇ三四五四（一九八四）「圧力配管用炭素鋼鋼管」に規定するもので、外径六十ミリメートル、厚さ五ミリメートル、長さ五百ミリメートルの継目無鋼管）とし、これにプラスチック製の袋を入れる。</Sentence>
+              <Sentence WritingMode="vertical">鉄管は、下ふた（材質が日本産業規格Ｇ三四五四に規定するもので、外径六十ミリメートル、高さ三十八ミリメートル、底の厚さ六ミリメートルのもの）を溶接して取り付けた鋼管（材質が日本産業規格Ｇ三四五四に規定するもので、外径六十ミリメートル、厚さ五ミリメートル、長さ五百ミリメートルの継目無鋼管）とし、これにプラスチック製の袋を入れる。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>ロ</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence Num="1" WritingMode="vertical">試験物品（乾燥用シリカゲルを入れたデシケータ中に温度二十度で二十四時間以上保存されているもの）とセルロース粉（乾燥用シリカゲルを入れたデシケータ中に温度二十度で二十四時間以上保存されているもの）とを重量比で三対一に混合し、イの袋に均一になるように充てんし、五十グラムの伝爆薬（トリメチレントリニトロアミンとワックスとを重量比十九対一に混合したものを百五十メガパスカルの圧力で、直径三十ミリメートル、高さ四十五ミリメートルの円柱状（中央に六号電気雷管（日本産業規格Ｋ四八〇七（一九八一）「電気雷管」に規定する電気雷管。以下同じ。）を挿入する穴が開いているもの）に圧縮成型したもの）を挿入する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">試験物品（乾燥用シリカゲルを入れたデシケータ中に温度二十度で二十四時間以上保存されているもの）とセルロース粉（乾燥用シリカゲルを入れたデシケータ中に温度二十度で二十四時間以上保存されているもの）とを重量比で三対一に混合し、イの袋に均一になるように充てんし、五十グラムの伝爆薬（トリメチレントリニトロアミンとワックスとを重量比十九対一に混合したものを百五十メガパスカルの圧力で、直径三十ミリメートル、高さ四十五ミリメートルの円柱状（中央に電気雷管（日本産業規格Ｋ四八〇六に規定する電気雷管。以下同じ。）を挿入する穴が開いているもの）に圧縮成型したもの）を挿入する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、試験に供するのに不適当な形状の試験物品にあっては、適当な大きさに分割したものを用いるものとする。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
             <Subitem2Title>ハ</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">中央に六号電気雷管を装着するための孔が開いているねじ止めの上ふた（材質が日本産業規格Ｇ五七〇二（一九七八）「黒心可鍛鋳鉄品」に規定するＦＣＭＢ28で、外径七十五ミリメートル、高さ三十五ミリメートル、上部の厚さ七ミリメートルのもの）を鉄管に取り付ける。</Sentence>
+              <Sentence WritingMode="vertical">中央に電気雷管を装着するための孔が開いているねじ止めの上ふた（材質が日本産業規格Ｇ五七〇五に規定するＦＣＭＢ275-5で、外径七十五ミリメートル、高さ三十五ミリメートル、上部の厚さ七ミリメートルのもの）を鉄管に取り付ける。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="4">
             <Subitem2Title>ニ</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">上ふたの孔から伝爆薬の穴に六号電気雷管を挿入する。</Sentence>
+              <Sentence WritingMode="vertical">上ふたの孔から伝爆薬の穴に電気雷管を挿入する。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="5">
@@ -732,11 +741,11 @@
         <Subitem1 Delete="false" Hide="false" Num="1">
           <Subitem1Title>一</Subitem1Title>
           <Subitem1Sentence>
-            <Column LineBreak="true" Num="1">
+            <Column LineBreak="false" Num="1">
               <Sentence WritingMode="vertical">装置</Sentence>
             </Column>
             <Column LineBreak="false" Num="2">
-              <Sentence WritingMode="vertical">装置は、セタ密閉式引火点測定器とする。</Sentence>
+              <Sentence WritingMode="vertical">装置は、セタ密閉式引火点測定器（日本産業規格K二二六五ー二に規定する迅速平衡密閉法引火点試験器をいう。以下同じ。）とする。</Sentence>
             </Column>
           </Subitem1Sentence>
         </Subitem1>
@@ -759,11 +768,8 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>イ</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">図に示す試料カップを設定温度（試験物品が引火するか否かを確認する温度。以下同じ。）まで加熱又は冷却し、試料カップの温度を設定温度にし、試験物品（設定温度が常温より低い温度の場合には、設定温度まで冷却したもの）二グラムを試料カップに入れ、直ちにふた及び開閉器を閉じる。</Sentence>
+              <Sentence WritingMode="vertical">試料カップを設定温度（試験物品が引火するか否かを確認する温度。以下同じ。）まで加熱又は冷却し、試料カップの温度を設定温度にし、試験物品（設定温度が常温より低い温度の場合には、設定温度まで冷却したもの）二グラムを試料カップに入れ、直ちにふた及び開閉器を閉じる。</Sentence>
             </Subitem2Sentence>
-            <FigStruct>
-              <Fig src="./pict/H01F04301000001-001.jpg"/>
-            </FigStruct>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
             <Subitem2Title>ロ</Subitem2Title>
@@ -824,7 +830,7 @@
             <Subitem3 Delete="false" Hide="false" Num="1">
               <Subitem3Title>（1）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence WritingMode="vertical">試験物品（粉末（三百マイクロメートルの網ふるいを通過するものが十パーセント以上存するもの）の試験物品にあっては、当該網ふるいを通過するもの（（2）において「粉末の試験物品」という。））一立方センチメートルを、直ちに直径七十ミリメートルの磁器（日本産業規格Ｒ一三〇五（一九八〇）「化学分析用磁器カッセロール」に規定するカップとする。以下同じ。）の上に置いた直径九十ミリメートルのろ紙（日本産業規格Ｐ三八〇一（一九七六）「ろ紙（化学分析用）」に規定する定量分析用のろ紙で、乾燥用シリカゲルを入れたデシケータ中に温度二十度で二十四時間以上保存されているもの。以下同じ。）の中央に置き、十分以内に自然発火するか否かを観察する。</Sentence>
+                <Sentence WritingMode="vertical">試験物品（粉末（三百マイクロメートルの網ふるいを通過するものが十パーセント以上存するもの）の試験物品にあっては、当該網ふるいを通過するもの（（2）において「粉末の試験物品」という。））一立方センチメートルを、直ちに直径七十ミリメートルの磁器カッセロールの上に置いた直径九十ミリメートルのろ紙（日本産業規格Ｐ三八〇一に規定する定量分析用のろ紙で、乾燥用シリカゲルを入れたデシケータ中に温度二十度で二十四時間以上保存されているもの。以下同じ。）の中央に置き、十分以内に自然発火するか否かを観察する。</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Delete="false" Hide="false" Num="2">
@@ -922,11 +928,11 @@
         <Subitem1 Delete="false" Hide="false" Num="1">
           <Subitem1Title>一</Subitem1Title>
           <Subitem1Sentence>
-            <Column LineBreak="true" Num="1">
+            <Column LineBreak="false" Num="1">
               <Sentence WritingMode="vertical">装置</Sentence>
             </Column>
             <Column LineBreak="false" Num="2">
-              <Sentence WritingMode="vertical">装置は、日本産業規格Ｋ二二六五（一九八〇）「原油及び石油製品引火点試験方法」四・二・二に規定するタグ密閉式引火点試験器とする。</Sentence>
+              <Sentence WritingMode="vertical">装置は、日本産業規格Ｋ二二六五－一に規定するタグ密閉法引火点試験器とする。</Sentence>
             </Column>
           </Subitem1Sentence>
         </Subitem1>
@@ -1033,11 +1039,11 @@
         <Subitem1 Delete="false" Hide="false" Num="1">
           <Subitem1Title>一</Subitem1Title>
           <Subitem1Sentence>
-            <Column LineBreak="true" Num="1">
+            <Column LineBreak="false" Num="1">
               <Sentence WritingMode="vertical">装置</Sentence>
             </Column>
             <Column LineBreak="false" Num="2">
-              <Sentence WritingMode="vertical">装置は、日本産業規格Ｋ二二六五（一九八〇）「原油及び石油製品引火点試験方法」四・四・二に規定するクリーブランド開放式引火点試験器とする。</Sentence>
+              <Sentence WritingMode="vertical">装置は、日本産業規格Ｋ二二六五－四に規定するクリーブランド開放法引火点試験器とする。</Sentence>
             </Column>
           </Subitem1Sentence>
         </Subitem1>
@@ -1140,7 +1146,7 @@
           <Subitem2 Delete="false" Hide="false" Num="1">
             <Subitem2Title>イ</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence WritingMode="vertical">別表第六の図に示す試料カップを設定温度まで加熱又は冷却し、試料カップの温度を設定温度にし、試験物品（設定温度が常温より低い温度の場合には、設定温度まで冷却したもの）二ミリリットルを試料カップに入れ、直ちにふた及び開閉器を閉じる。</Sentence>
+              <Sentence WritingMode="vertical">試料カップを設定温度まで加熱又は冷却し、試料カップの温度を設定温度にし、試験物品（設定温度が常温より低い温度の場合には、設定温度まで冷却したもの）二ミリリットルを試料カップに入れ、直ちにふた及び開閉器を閉じる。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -1392,7 +1398,7 @@
             <Subitem3 Delete="false" Hide="false" Num="1">
               <Subitem3Title>（1）</Subitem3Title>
               <Subitem3Sentence>
-                <Sentence WritingMode="vertical">外径百二十ミリメートルの平底蒸発皿（日本産業規格Ｒ一三〇二（一九八〇）「化学分析用磁器蒸発ざら」に規定するもの）の上に、木粉（温度百五度で四時間乾燥し、乾燥用シリカゲルを入れたデシケータ中に温度二十度で二十四時間以上保存されているもの。ロ（1）において同じ。）十五グラムを高さと底面の直径の比が一対一・七五となるように円錐形にたい積させ、これを一時間放置する。</Sentence>
+                <Sentence WritingMode="vertical">外径百二十ミリメートルの平底蒸発皿（日本産業規格Ｒ一三〇二に規定するもの）の上に、木粉（温度百五度で四時間乾燥し、乾燥用シリカゲルを入れたデシケータ中に温度二十度で二十四時間以上保存されているもの。ロ（1）において同じ。）十五グラムを高さと底面の直径の比が一対一・七五となるように円錐形にたい積させ、これを一時間放置する。</Sentence>
               </Subitem3Sentence>
             </Subitem3>
             <Subitem3 Delete="false" Hide="false" Num="2">

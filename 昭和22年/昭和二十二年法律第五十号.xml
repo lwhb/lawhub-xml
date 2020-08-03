@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="50" Year="22">
+<Law DataInfo="200417e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="50" Year="22">
   <LawNum>昭和二十二年法律第五十号</LawNum>
   <LawBody>
     <LawTitle>労働者災害補償保険法</LawTitle>
@@ -230,7 +230,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">一月から三月まで、四月から六月まで、七月から九月まで及び十月から十二月までの各区分による期間（以下この条において「四半期」という。）ごとの平均給与額（厚生労働省において作成する毎月勤労統計における毎月きまつて支給する給与の額を基礎として厚生労働省令で定めるところにより算定した労働者一人当たりの給与の一箇月平均額をいう。以下この号において同じ。）が、算定事由発生日の属する四半期（この号の規定により算定した額（以下この号において「改定日額」という。）を休業給付基礎日額とすることとされている場合にあつては、当該改定日額を休業補償給付等の額の算定の基礎として用いるべき最初の四半期の前々四半期）の平均給与額の百分の百十を超え、又は百分の九十を下るに至つた場合において、その上昇し、又は低下するに至つた四半期の翌々四半期に属する最初の日以後に支給すべき事由が生じた休業補償給付等については、その上昇し、又は低下した比率を基準として厚生労働大臣が定める率を前条の規定により給付基礎日額として算定した額（改定日額を休業給付基礎日額とすることとされている場合にあつては、当該改定日額）に乗じて得た額を休業給付基礎日額とする。</Sentence>
+                  <Sentence WritingMode="vertical">一月から三月まで、四月から六月まで、七月から九月まで及び十月から十二月までの各区分による期間（以下この条及び第四十二条第二項において「四半期」という。）ごとの平均給与額（厚生労働省において作成する毎月勤労統計における毎月きまつて支給する給与の額を基礎として厚生労働省令で定めるところにより算定した労働者一人当たりの給与の一箇月平均額をいう。以下この号において同じ。）が、算定事由発生日の属する四半期（この号の規定により算定した額（以下この号において「改定日額」という。）を休業給付基礎日額とすることとされている場合にあつては、当該改定日額を休業補償給付等の額の算定の基礎として用いるべき最初の四半期の前々四半期）の平均給与額の百分の百十を超え、又は百分の九十を下るに至つた場合において、その上昇し、又は低下するに至つた四半期の翌々四半期に属する最初の日以後に支給すべき事由が生じた休業補償給付等については、その上昇し、又は低下した比率を基準として厚生労働大臣が定める率を前条の規定により給付基礎日額として算定した額（改定日額を休業給付基礎日額とすることとされている場合にあつては、当該改定日額）に乗じて得た額を休業給付基礎日額とする。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1731,6 +1731,12 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">療養補償給付、休業補償給付、葬祭料、介護補償給付、療養給付、休業給付、葬祭給付、介護給付及び二次健康診断等給付を受ける権利は、これらを行使することができる時から二年を経過したとき、障害補償給付、遺族補償給付、障害給付及び遺族給付を受ける権利は、これらを行使することができる時から五年を経過したときは、時効によつて消滅する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>○２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第八条の二第一項第二号の規定による四半期ごとの平均給与額又は第八条の三第一項第二号の規定による年度の平均給与額が修正されたことにより、第八条の二第一項第二号、第八条の三第一項第二号又は第十六条の六第二項（第二十条の六第三項若しくは第二十二条の四第三項において準用する場合又は第五十八条第一項、第六十条の二第一項若しくは第六十一条第一項の規定によりその例によることとされる場合を含む。）に規定する厚生労働大臣が定める率を厚生労働大臣が、第八条第二項に規定する政府が算定する額を政府がそれぞれ変更した場合において、当該変更に伴いその額が再び算定された保険給付があるときは、当該保険給付に係る第十一条の規定による未支給の保険給付の支給を受ける権利については、会計法（昭和二十二年法律第三十五号）第三十一条第一項の規定を適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4874,7 +4880,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前条の規定による改正後の労働者災害補償保険法別表第一第三号の規定の適用については、同号中「規定する場合」とあるのは、「規定する場合及び当該同一の事由により厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律（平成十三年法律第百一号）附則第二十五条第四項第二号又は第三号に掲げる特例障害共済年金又は特例遺族共済年金が支給される場合」とする。</Sentence>
+            <Sentence WritingMode="vertical">労働者災害補償保険法別表第一第三号の規定の適用については、同号中「規定する場合」とあるのは、「規定する場合及び当該同一の事由により厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律（平成十三年法律第百一号。以下この号において「平成十三年統合法」という。）附則第三十条第一項に規定する特例一時金（厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律（平成三十年法律第三十一号）による改正前の平成十三年統合法附則第二十五条第四項第二号又は第三号に掲げる特例障害共済年金又は特例遺族共済年金に係るものに限る。）が支給される場合」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -5735,14 +5741,127 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号" Extract="true">
+    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence>この法律は、民法改正法の施行の日から施行する。</Sentence>
+          <Sentence Function="main" Num="1">この法律は、民法改正法の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第百三条の二、第百三条の三、第二百六十七条の二、第二百六十七条の三及び第三百六十二条の規定は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年五月二五日法律第三一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、附則第七条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日前にした行為及びこの附則の規定によりなお従前の例によることとされる場合における施行日以後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中雇用保険法第十九条第一項の改正規定、同法第三十六条の見出しを削る改正規定並びに同法第四十八条及び第五十四条の改正規定並びに同法附則第四条、第五条、第十条及び第十一条の二第一項の改正規定並びに附則第十条、第二十六条及び第二十八条から第三十二条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中雇用保険法第三十七条の見出しを削る改正規定及び同条第八項の改正規定、第二条の規定（労働者災害補償保険法第八条の二第一項第二号の改正規定及び同法第四十二条に一項を加える改正規定を除く。）並びに第四条中労働保険の保険料の徴収等に関する法律第十二条第二項及び第三項、第十四条第一項並びに第十四条の二第一項の改正規定並びに附則第六条第一項及び第二項、第七条並びに第十二条の規定、附則第十三条中厚生年金保険法（昭和二十九年法律第百十五号）第五十六条第三号の改正規定並びに附則第十七条、第二十一条、第二十二条及び第二十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（労働者災害補償保険法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>施行日から第三号施行日の前日までの間における改正後労災保険法第四十二条第二項の規定の適用については、同項中「第二十条の六第三項若しくは第二十二条の四第三項」とあるのは「第二十二条の四第三項」と、「、第六十条の二第一項若しくは第六十一条第一項」とあるのは「若しくは第六十一条第一項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一（第十四条、第十五条、第十五条の二、第十六条の三、第十八条、第十八条の二、第二十二条の三、第二十二条の四、第二十三条関係）</AppdxTableTitle>

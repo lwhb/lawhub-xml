@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="203" Year="11">
+<Law DataInfo="190121e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="203" Year="11">
   <LawNum>平成十一年法律第二百三号</LawNum>
   <LawBody>
     <LawTitle>国立研究開発法人産業技術総合研究所法</LawTitle>
@@ -15,7 +15,7 @@
       </TOCChapter>
       <TOCChapter Delete="false" Num="3">
         <ChapterTitle>第三章　業務等</ChapterTitle>
-        <ArticleRange>（第十一条・第十二条）</ArticleRange>
+        <ArticleRange>（第十一条―第十二条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Delete="false" Num="4">
         <ChapterTitle>第四章　雑則</ChapterTitle>
@@ -243,7 +243,7 @@
             <Item Delete="false" Hide="false" Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">研究開発システムの改革の推進等による研究開発能力の強化及び研究開発等の効率的推進等に関する法律（平成二十年法律第六十三号）第四十三条の二の規定による出資（金銭の出資を除く。）並びに人的及び技術的援助を行うこと。</Sentence>
+                <Sentence WritingMode="vertical">科学技術・イノベーション創出の活性化に関する法律（平成二十年法律第六十三号）第三十四条の六第一項の規定による出資並びに人的及び技術的援助のうち政令で定めるものを行うこと。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="7">
@@ -260,13 +260,23 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="11_2">
+          <ArticleCaption>（株式等の取得及び保有）</ArticleCaption>
+          <ArticleTitle>第十一条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>研究所は、科学技術・イノベーション創出の活性化に関する法律第三十四条の五第一項及び第二項の規定による株式又は新株予約権の取得及び保有を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Delete="false" Hide="false" Num="12">
           <ArticleCaption>（積立金の処分）</ArticleCaption>
           <ArticleTitle>第十二条</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">研究所は、通則法第三十五条の四第二項第一号に規定する中長期目標の期間（以下この項において「中長期目標の期間」という。）の最後の事業年度に係る通則法第四十四条第一項又は第二項の規定による整理を行った後、同条第一項の規定による積立金があるときは、その額に相当する金額のうち経済産業大臣の承認を受けた金額を、当該中長期目標の期間の次の中長期目標の期間に係る通則法第三十五条の五第一項の認可を受けた中長期計画（同項後段の規定による変更の認可を受けたときは、その変更後のもの）の定めるところにより、当該次の中長期目標の期間における前条に規定する業務の財源に充てることができる。</Sentence>
+              <Sentence WritingMode="vertical">研究所は、通則法第三十五条の四第二項第一号に規定する中長期目標の期間（以下この項において「中長期目標の期間」という。）の最後の事業年度に係る通則法第四十四条第一項又は第二項の規定による整理を行った後、同条第一項の規定による積立金があるときは、その額に相当する金額のうち経済産業大臣の承認を受けた金額を、当該中長期目標の期間の次の中長期目標の期間に係る通則法第三十五条の五第一項の認可を受けた中長期計画（同項後段の規定による変更の認可を受けたときは、その変更後のもの）の定めるところにより、当該次の中長期目標の期間における第十一条に規定する業務の財源に充てることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -692,6 +702,29 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">附則第三条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令（人事院の所掌する事項については、人事院規則）で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年一二月一四日法律第九四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="35">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
