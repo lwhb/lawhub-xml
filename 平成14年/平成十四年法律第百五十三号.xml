@@ -30,7 +30,7 @@
           </TOCSubsection>
           <TOCSubsection Num="2">
             <SubsectionTitle>第二款　利用者証明検証者に対する利用者証明用電子証明書失効情報等の提供</SubsectionTitle>
-            <ArticleRange>（第三十六条―第三十八条）</ArticleRange>
+            <ArticleRange>（第三十六条―第三十八条の三）</ArticleRange>
           </TOCSubsection>
         </TOCSection>
         <TOCSection Num="3">
@@ -132,7 +132,7 @@
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>住所地市町村長は、前項の規定により署名利用者確認をしたときは、総務省令で定めるところにより、当該申請者の署名利用者符号及びこれと対応する署名利用者検証符号を作成し、これらを当該申請者の個人番号カード（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードをいう。第二十二条第四項において同じ。）その他の総務省令で定める電磁的記録媒体（電磁的記録に係る記録媒体をいう。以下同じ。）に記録するものとする。</Sentence>
+                  <Sentence>住所地市町村長は、前項の規定により署名利用者確認をしたときは、総務省令で定めるところにより、当該申請者の署名利用者符号及びこれと対応する署名利用者検証符号を作成し、これらを当該申請者の個人番号カード（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードをいう。第二十二条第四項及び第三十八条の二第一項において同じ。）その他の総務省令で定める電磁的記録媒体（電磁的記録に係る記録媒体をいう。以下同じ。）に記録するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="5">
@@ -463,7 +463,7 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence>認定を受けた者が第三十八条、第五十一条第一項又は第五十三条の規定に違反したとき。</Sentence>
+                    <Sentence>認定を受けた者が第三十八条、第五十一条第一項又は第五十三条第一項の規定に違反したとき。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
@@ -511,7 +511,7 @@
                 <Item Num="11">
                   <ItemTitle>十一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>第五十一条第一項に規定する受領した利用者証明用電子証明書失効情報等の電子計算機処理等に関する事務（認定を受けた者の委託（二以上の段階にわたる委託を含む。）を受けて行うものを含む。）に従事している者又は従事していた者が第五十七条の規定に違反したとき。</Sentence>
+                    <Sentence>第五十一条第一項に規定する受領した利用者証明用電子証明書失効情報等の電子計算機処理等に関する事務（認定を受けた者の委託（二以上の段階にわたる委託を含む。）を受けて行うものを含む。）に従事している者又は従事していた者が第五十七条第一項の規定に違反したとき。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -679,6 +679,12 @@
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>署名検証者は、前項の規定による確認を行うに当たり、署名利用者本人が電子署名を行ったことの確認を当該電子署名に用いられた署名利用者符号が当該署名利用者のものであることを示すための措置として総務省令で定めるものを当該署名利用者に求める方法により行わなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence>署名検証者は、署名利用者から通知された署名用電子証明書に記録された署名利用者検証符号を、当該署名用電子証明書とともに通知された情報について行われている電子署名が当該署名利用者検証符号に対応する署名利用者符号を用いて行われていることの確認以外の目的に利用してはならない。</Sentence>
                 </ParagraphSentence>
@@ -1045,7 +1051,7 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>利用者証明検証者が次条、第五十一条第一項又は第五十三条の規定に違反したとき。</Sentence>
+                    <Sentence>利用者証明検証者が次条、第五十一条第一項又は第五十三条第一項の規定に違反したとき。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
@@ -1069,7 +1075,7 @@
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence>第五十一条第一項に規定する受領した利用者証明用電子証明書失効情報等の電子計算機処理等に関する事務（利用者証明検証者の委託（二以上の段階にわたる委託を含む。）を受けて行うものを含む。）に従事している者又は従事していた者が第五十七条の規定に違反したとき。</Sentence>
+                    <Sentence>第五十一条第一項に規定する受領した利用者証明用電子証明書失効情報等の電子計算機処理等に関する事務（利用者証明検証者の委託（二以上の段階にわたる委託を含む。）を受けて行うものを含む。）に従事している者又は従事していた者が第五十七条第一項の規定に違反したとき。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="6">
@@ -1092,7 +1098,166 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
+                  <Sentence>利用者証明検証者は、前項の規定による確認を行うに当たり、利用者証明利用者本人が電子利用者証明を行ったことの確認を当該電子利用者証明に用いられた利用者証明利用者符号が当該利用者証明利用者のものであることを示すための措置として総務省令で定めるものを当該利用者証明利用者に求める方法により行わなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
                   <Sentence>利用者証明検証者は、利用者証明利用者から通知された利用者証明用電子証明書に記録された利用者証明利用者検証符号を、当該利用者証明用電子証明書の通知に係る電子利用者証明が当該利用者証明利用者検証符号に対応する利用者証明利用者符号を用いて行われていることの確認以外の目的に利用してはならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="38_2">
+              <ArticleCaption>（特定利用者証明検証者による利用者証明利用者本人が電子利用者証明を行ったことの確認）</ArticleCaption>
+              <ArticleTitle>第三十八条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>利用者証明検証者は、前条第二項の規定にかかわらず、総務大臣の認可を受けて、利用者証明利用者本人が電子利用者証明を行ったことの確認を当該利用者証明利用者の個人番号カードに表示され、かつ、記録された当該利用者証明利用者の写真を用いる方法であって総務省令で定めるものにより行うことができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>利用者証明検証者は、前項の認可を受けようとするときは、総務省令で定めるところにより、次に掲げる事項を記載した申請書に総務省令で定める書類を添付して、総務大臣に提出しなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>申請に係る確認の実施に関する計画</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>申請に係る確認の業務の用に供する設備の概要</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>総務大臣は、第一項の認可の申請が次の各号のいずれにも適合していると認めるときは、同項の認可をしなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>申請に係る確認の実施に関する計画が適正なものであり、かつ、第一項の認可の申請を行う者が当該計画を確実に遂行することができること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>申請に係る確認の業務の用に供する設備が総務省令で定める基準に適合するものであること。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1">第一項の認可を受けた者（以下「特定利用者証明検証者」という。）は、第二項第二号又は第三号に掲げる事項の変更（総務省令で定める軽微な変更を除く。）をするときは、総務大臣の認可を受けなければならない。</Sentence>
+                  <Sentence Num="2">この場合においては、前二項の規定を準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>特定利用者証明検証者は、前項の総務省令で定める軽微な変更をしたときは、遅滞なく、その旨を総務大臣に届け出なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>総務大臣は、次の各号のいずれかに該当するときは、第一項の認可を取り消すことができる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>特定利用者証明検証者が第三項各号のいずれかに適合しなくなったとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>特定利用者証明検証者が第四項の規定に違反したとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>電子署名及び認証業務に関する法律第七条第一項又は第十四条第一項の規定により特定利用者証明検証者に係る同法第四条第一項の認定がその効力を失い、又は取り消されたとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>第十七条第二項又は第三項の規定により特定利用者証明検証者に係る同条第一項第五号又は第六号の認定がその効力を失い、又は取り消されたとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>特定利用者証明検証者が第五十一条第三項又は第五十三条第二項の規定に違反したとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="6">
+                  <ItemTitle>六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>特定利用者証明検証者から次条第一項に規定する特定利用者証明検証者証明符号の電子計算機処理等の委託（二以上の段階にわたる委託を含む。）を受けた者が第五十一条第四項において準用する同条第三項の規定に違反したとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="7">
+                  <ItemTitle>七</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>特定利用者証明検証者若しくはその役員若しくは職員又はこれらの者であった者が第五十五条第三項において準用する同条第一項の規定に違反したとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="8">
+                  <ItemTitle>八</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>特定利用者証明検証者から次条第一項に規定する特定利用者証明検証者証明符号の電子計算機処理等の委託（二以上の段階にわたる委託を含む。）を受けた者若しくはその役員若しくは職員又はこれらの者であった者が第五十五条第三項において準用する同条第二項の規定に違反したとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="9">
+                  <ItemTitle>九</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>次条第一項に規定する特定利用者証明検証者証明符号の電子計算機処理等に関する事務（特定利用者証明検証者の委託（二以上の段階にわたる委託を含む。）を受けて行うものを含む。）に従事している者又は従事していた者が第五十七条第二項において準用する同条第一項の規定に違反したとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="10">
+                  <ItemTitle>十</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>第一項の規定により認可を受けて行う確認に関する事務（特定利用者証明検証者の委託（二以上の段階にわたる委託を含む。）を受けて行うものを含む。）に従事している者又は従事していた者が第五十七条第三項の規定に違反したとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Num="38_3">
+              <ArticleCaption>（特定利用者証明検証者証明符号）</ArticleCaption>
+              <ArticleTitle>第三十八条の三</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>特定利用者証明検証者は、機構に対し、特定利用者証明検証者であることを示す符号（以下「特定利用者証明検証者証明符号」という。）の提供を求めることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>機構は、特定利用者証明検証者から前項の求めがあったときは、総務省令で定めるところにより、特定利用者証明検証者証明符号の提供を行うものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>機構及び特定利用者証明検証者は、前項の規定により機構が特定利用者証明検証者証明符号の提供を行うに当たって合意しておくべきものとして総務省令で定める事項について、あらかじめ、取決めを締結しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1133,7 +1298,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>機構は、毎年少なくとも一回、第十八条第一項から第三項までの規定による保存期間に係る署名用電子証明書失効情報、保存期間に係る署名用電子証明書失効情報ファイル及び対応証明書の発行の番号の提供の状況並びに第三十七条第一項及び第二項の規定による保存期間に係る利用者証明用電子証明書失効情報及び保存期間に係る利用者証明用電子証明書失効情報ファイルの提供の状況について、総務省令で定めるところにより、報告書を作成し、これを公表するものとする。</Sentence>
+                <Sentence>機構は、毎年少なくとも一回、第十八条第一項から第三項までの規定による保存期間に係る署名用電子証明書失効情報、保存期間に係る署名用電子証明書失効情報ファイル及び対応証明書の発行の番号の提供の状況並びに第三十七条第一項及び第二項の規定による保存期間に係る利用者証明用電子証明書失効情報及び保存期間に係る利用者証明用電子証明書失効情報ファイル並びに特定利用者証明検証者証明符号の提供の状況について、総務省令で定めるところにより、報告書を作成し、これを公表するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1179,7 +1344,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>機構が署名用電子証明書発行記録、署名用電子証明書失効情報及び署名用電子証明書失効情報ファイル並びに利用者証明用電子証明書発行記録、利用者証明用電子証明書失効情報及び利用者証明用電子証明書失効情報ファイル（以下「認証業務情報」という。）の電子計算機処理等を行うに当たっては、機構は、当該認証業務情報の漏えい、滅失及び毀損の防止その他の当該認証業務情報の適切な管理のために必要な措置を講じなければならない。</Sentence>
+              <Sentence>機構が署名用電子証明書発行記録、署名用電子証明書失効情報及び署名用電子証明書失効情報ファイル並びに利用者証明用電子証明書発行記録、利用者証明用電子証明書失効情報及び利用者証明用電子証明書失効情報ファイル並びに特定利用者証明検証者証明符号（以下「認証業務情報」という。）の電子計算機処理等を行うに当たっては、機構は、当該認証業務情報の漏えい、滅失及び毀損の防止その他の当該認証業務情報の適切な管理のために必要な措置を講じなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1243,6 +1408,12 @@
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
                 <Sentence>認証業務情報の利用につき当該認証業務情報に係る本人が同意した事務を機構が遂行する場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence>第三十八条の三第二項の規定により特定利用者証明検証者証明符号を提供する場合</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1334,7 +1505,7 @@
           </Paragraph>
         </Article>
         <Article Num="51">
-          <ArticleCaption>（利用者証明検証者による受領した利用者証明用電子証明書失効情報等の安全確保等）</ArticleCaption>
+          <ArticleCaption>（利用者証明検証者等による受領した利用者証明用電子証明書失効情報等の安全確保等）</ArticleCaption>
           <ArticleTitle>第五十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -1346,6 +1517,18 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence>前項の規定は、利用者証明検証者から受領した利用者証明用電子証明書失効情報等の電子計算機処理等の委託（二以上の段階にわたる委託を含む。）を受けた者が受託した業務を行う場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特定利用者証明検証者が特定利用者証明検証者証明符号の電子計算機処理等を行うに当たっては、当該特定利用者証明検証者は、当該特定利用者証明検証者証明符号の漏えい、滅失及び毀損の防止その他の当該特定利用者証明検証者証明符号の適切な管理のために必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定は、特定利用者証明検証者から特定利用者証明検証者証明符号の電子計算機処理等の委託（二以上の段階にわたる委託を含む。）を受けた者が受託した業務を行う場合について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1378,12 +1561,18 @@
           </Paragraph>
         </Article>
         <Article Num="53">
-          <ArticleCaption>（利用者証明検証者の受領した利用者証明用電子証明書失効情報等の利用及び提供の制限）</ArticleCaption>
+          <ArticleCaption>（利用者証明検証者の受領した利用者証明用電子証明書失効情報等の利用及び提供の制限等）</ArticleCaption>
           <ArticleTitle>第五十三条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>利用者証明検証者は、第三十八条第一項の規定により利用者証明用電子証明書が効力を失っていないことの確認をするため必要な範囲内で、受領した利用者証明用電子証明書失効情報等を利用するものとし、受領した利用者証明用電子証明書失効情報等の全部又は一部を当該確認以外の目的のために利用し、又は提供してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特定利用者証明検証者は、第三十八条の二第一項の規定により認可を受けて行う確認に必要な範囲内で、特定利用者証明検証者証明符号を利用するものとし、特定利用者証明検証者証明符号を当該確認以外の目的のために利用し、又は提供してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1411,7 +1600,7 @@
           </Paragraph>
         </Article>
         <Article Num="55">
-          <ArticleCaption>（利用者証明検証者の職員等の秘密保持義務等）</ArticleCaption>
+          <ArticleCaption>（利用者証明検証者の職員等の秘密保持義務）</ArticleCaption>
           <ArticleTitle>第五十五条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -1423,6 +1612,13 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence>利用者証明検証者から受領した利用者証明用電子証明書失効情報等の電子計算機処理等の委託（二以上の段階にわたる委託を含む。）を受けた者若しくはその役員若しくは職員又はこれらの者であった者は、その委託された業務に関して知り得た受領した利用者証明用電子証明書失効情報等に関する秘密又は受領した利用者証明用電子証明書失効情報等の電子計算機処理等に関する秘密を漏らしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">前二項の規定は、特定利用者証明検証者について準用する。</Sentence>
+              <Sentence Num="2">この場合において、前二項中「受領した利用者証明用電子証明書失効情報等」とあるのは、「特定利用者証明検証者証明符号」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1444,12 +1640,25 @@
           </Paragraph>
         </Article>
         <Article Num="57">
-          <ArticleCaption>（受領した利用者証明用電子証明書失効情報等に係る利用者証明検証者等の義務）</ArticleCaption>
+          <ArticleCaption>（受領した利用者証明用電子証明書失効情報等に係る利用者証明検証者等の義務等）</ArticleCaption>
           <ArticleTitle>第五十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>受領した利用者証明用電子証明書失効情報等の電子計算機処理等に関する事務（利用者証明検証者の委託（二以上の段階にわたる委託を含む。）を受けて行うものを含む。）に従事している者又は従事していた者は、その事務に関して知り得た事項をみだりに他人に知らせ、又は不当な目的に使用してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">前項の規定は、特定利用者証明検証者について準用する。</Sentence>
+              <Sentence Num="2">この場合において、同項中「受領した利用者証明用電子証明書失効情報等」とあるのは、「特定利用者証明検証者証明符号」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第三十八条の二第一項の規定により認可を受けて行う確認に関する事務（特定利用者証明検証者の委託（二以上の段階にわたる委託を含む。）を受けて行うものを含む。）に従事している者又は従事していた者は、その事務に関して知り得た事項をみだりに他人に知らせ、又は不当な目的に使用してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1584,7 +1793,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>総務大臣は、この法律の施行に必要な限度において、第十七条第一項第五号又は第六号の認定を受けた者に対し、その業務の実施の状況に関し必要な報告を求めることができる。</Sentence>
+              <Sentence>総務大臣は、この法律の施行に必要な限度において、第十七条第一項第五号又は第六号の認定を受けた者及び特定利用者証明検証者に対し、その業務の実施の状況に関し必要な報告を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1642,6 +1851,12 @@
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
                 <Sentence>第三十七条第二項の規定による保存期間に係る利用者証明用電子証明書失効情報ファイルの提供に係る事務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence>第三十八条の三第二項の規定による特定利用者証明検証者証明符号の提供に係る事務</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1738,7 +1953,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>第四十七条、第四十八条、第五十四条第一項（同条第三項において準用する場合を含む。）若しくは第二項（同条第三項において準用する場合を含む。）又は第五十五条の規定に違反して秘密を漏らした者は、二年以下の懲役又は百万円以下の罰金に処する。</Sentence>
+              <Sentence>第四十七条、第四十八条、第五十四条第一項（同条第三項において準用する場合を含む。）若しくは第二項（同条第三項において準用する場合を含む。）又は第五十五条第一項（同条第三項において準用する場合を含む。）若しくは第二項（同条第三項において準用する場合を含む。）の規定に違反して秘密を漏らした者は、二年以下の懲役又は百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1786,7 +2001,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>第六十六条第一項の規定による報告を求められて、報告をせず、又は虚偽の報告をした第十七条第一項第五号又は第六号の認定を受けた者は、三十万円以下の罰金に処する。</Sentence>
+              <Sentence>第六十六条第一項の規定による報告を求められて、報告をせず、又は虚偽の報告をした第十七条第一項第五号若しくは第六号の認定を受けた者又は特定利用者証明検証者は、三十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">

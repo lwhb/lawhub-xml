@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="191210e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="151" Year="19">
+<Law DataInfo="200515e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="151" Year="19">
   <LawNum>平成十九年厚生労働省令第百五十一号</LawNum>
   <LawBody>
     <LawTitle>厚生年金保険の保険給付及び保険料の納付の特例等に関する法律施行規則</LawTitle>
@@ -1756,12 +1756,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日厚生労働省令第五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第十九条の二十三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025094.pdf"/>
+          <Fig src="./pict/_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1770,7 +1779,7 @@
       <RelatedArticleNum>（第十九条の二十四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027952.pdf"/>
+          <Fig src="./pict/_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1779,7 +1788,7 @@
       <RelatedArticleNum>（第十九条の二十五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000028915.pdf"/>
+          <Fig src="./pict/_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1788,7 +1797,7 @@
       <RelatedArticleNum>（第十九条の二十六関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025100.pdf"/>
+          <Fig src="./pict/_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1797,7 +1806,7 @@
       <RelatedArticleNum>（第十九条の二十九関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000028917.pdf"/>
+          <Fig src="./pict/_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1806,7 +1815,7 @@
       <RelatedArticleNum>（第十九条の三十一関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000028918.pdf"/>
+          <Fig src="./pict/_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1820,7 +1829,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和十五年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">二二・〇八九</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二二・一一二</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1828,7 +1837,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和十六年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">二一・三〇八</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二一・三三〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1836,7 +1845,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和十七年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">二〇・五五四</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二〇・五七五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1844,7 +1853,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和十八年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一九・八二五</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一九・八四五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1852,7 +1861,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和十九年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一九・一二〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一九・一四一</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1860,7 +1869,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和二十年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一八・四四〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一八・四五九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1868,7 +1877,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和二十一年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一七・七八三</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一七・八〇一</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1876,7 +1885,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和二十二年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一七・一四七</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一七・一六六</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1884,7 +1893,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和二十三年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一六・五三四</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一六・五五一</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1892,7 +1901,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和二十四年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一五・九四一</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一五・九五八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1900,7 +1909,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和二十五年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一五・三六八</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一五・三八四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1908,7 +1917,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和二十六年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一四・八一四</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一四・八三〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1916,7 +1925,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和二十七年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一四・二八〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一四・二九五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1924,7 +1933,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和二十八年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一三・七六三</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一三・七七八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1932,7 +1941,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和二十九年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一三・二六四</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一三・二七八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1940,7 +1949,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和三十年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一二・五二〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一二・五三四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1948,7 +1957,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和三十一年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一一・八一五</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一一・八二八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1956,7 +1965,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和三十二年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一一・一四七</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一一・一五九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1964,7 +1973,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和三十三年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一〇・五一四</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一〇・五二五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1972,7 +1981,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和三十四年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">九・九一四</Sentence>
+              <Sentence Num="1" WritingMode="vertical">九・九二五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1980,7 +1989,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和三十五年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">九・三四五</Sentence>
+              <Sentence Num="1" WritingMode="vertical">九・三五五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1988,7 +1997,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和三十六年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">八・八〇五</Sentence>
+              <Sentence Num="1" WritingMode="vertical">八・八一五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -1996,7 +2005,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和三十七年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">八・二九四</Sentence>
+              <Sentence Num="1" WritingMode="vertical">八・三〇四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2004,7 +2013,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和三十八年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">七・八一〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">七・八一九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2012,7 +2021,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和三十九年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">七・三五〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">七・三五九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2020,7 +2029,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和四十年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">六・九一五</Sentence>
+              <Sentence Num="1" WritingMode="vertical">六・九二三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2028,7 +2037,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和四十一年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">六・五〇二</Sentence>
+              <Sentence Num="1" WritingMode="vertical">六・五一〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2036,7 +2045,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和四十二年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">六・一一一</Sentence>
+              <Sentence Num="1" WritingMode="vertical">六・一一八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2044,7 +2053,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和四十三年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">五・七四一</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五・七四七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2052,7 +2061,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和四十四年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">五・三八九</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五・三九六</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2060,7 +2069,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和四十五年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">五・〇五六</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五・〇六二</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2068,7 +2077,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和四十六年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">四・七四〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">四・七四六</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2076,7 +2085,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和四十七年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">四・四四一</Sentence>
+              <Sentence Num="1" WritingMode="vertical">四・四四七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2084,7 +2093,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和四十八年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">四・一五七</Sentence>
+              <Sentence Num="1" WritingMode="vertical">四・一六三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2092,7 +2101,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和四十九年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三・八八九</Sentence>
+              <Sentence Num="1" WritingMode="vertical">三・八九三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2100,7 +2109,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和五十年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三・六三四</Sentence>
+              <Sentence Num="1" WritingMode="vertical">三・六三八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2108,7 +2117,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和五十一年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三・三九二</Sentence>
+              <Sentence Num="1" WritingMode="vertical">三・三九七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2116,7 +2125,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和五十二年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三・一六三</Sentence>
+              <Sentence Num="1" WritingMode="vertical">三・一六七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2124,7 +2133,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和五十三年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">二・九四六</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二・九五〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2132,7 +2141,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和五十四年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">二・七四〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二・七四四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2140,7 +2149,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和五十五年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">二・五四五</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二・五四九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2148,7 +2157,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和五十六年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">二・三六一</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二・三六四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2156,7 +2165,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和五十七年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">二・一八五</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二・一八九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2164,7 +2173,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和五十八年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">二・〇一九</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二・〇二二</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2172,7 +2181,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和五十九年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一・八六二</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一・八六五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2180,7 +2189,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和六十年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一・七一三</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一・七一五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2188,7 +2197,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和六十一年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一・五七一</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一・五七四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2196,7 +2205,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和六十二年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一・四三七</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一・四四〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2204,7 +2213,7 @@
               <Sentence Num="1" WritingMode="vertical">昭和六十三年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一・三一〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一・三一三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2212,7 +2221,7 @@
               <Sentence Num="1" WritingMode="vertical">平成元年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一・一九〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一・一九二</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2220,7 +2229,7 @@
               <Sentence Num="1" WritingMode="vertical">平成二年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一・〇七六</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一・〇七八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2228,7 +2237,7 @@
               <Sentence Num="1" WritingMode="vertical">平成三年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・九六七</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・九六九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2236,7 +2245,7 @@
               <Sentence Num="1" WritingMode="vertical">平成四年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・八六五</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・八六七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2244,7 +2253,7 @@
               <Sentence Num="1" WritingMode="vertical">平成五年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・七六八</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・七六九</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2252,7 +2261,7 @@
               <Sentence Num="1" WritingMode="vertical">平成六年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・六七五</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・六七七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2260,7 +2269,7 @@
               <Sentence Num="1" WritingMode="vertical">平成七年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・五八八</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・五九〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2268,7 +2277,7 @@
               <Sentence Num="1" WritingMode="vertical">平成八年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・五〇五</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・五〇七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2276,7 +2285,7 @@
               <Sentence Num="1" WritingMode="vertical">平成九年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・四二七</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・四二八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2284,7 +2293,7 @@
               <Sentence Num="1" WritingMode="vertical">平成十年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・三五二</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・三五四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2292,7 +2301,7 @@
               <Sentence Num="1" WritingMode="vertical">平成十一年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・三〇〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・三〇二</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2300,7 +2309,7 @@
               <Sentence Num="1" WritingMode="vertical">平成十二年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・二五〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・二五二</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2308,7 +2317,7 @@
               <Sentence Num="1" WritingMode="vertical">平成十三年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・二〇二</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・二〇四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2316,7 +2325,7 @@
               <Sentence Num="1" WritingMode="vertical">平成十四年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・一五六</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・一五七</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2324,7 +2333,7 @@
               <Sentence Num="1" WritingMode="vertical">平成十五年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・一三九</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・一四〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2332,7 +2341,7 @@
               <Sentence Num="1" WritingMode="vertical">平成十六年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・一二三</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・一二四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2340,7 +2349,7 @@
               <Sentence Num="1" WritingMode="vertical">平成十七年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・一〇三</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・一〇五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2348,7 +2357,7 @@
               <Sentence Num="1" WritingMode="vertical">平成十八年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・〇八五</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・〇八六</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2356,7 +2365,7 @@
               <Sentence Num="1" WritingMode="vertical">平成十九年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・〇六九</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・〇七〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2364,7 +2373,7 @@
               <Sentence Num="1" WritingMode="vertical">平成二十年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・〇五四</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・〇五五</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2372,7 +2381,7 @@
               <Sentence Num="1" WritingMode="vertical">平成二十一年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・〇四二</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・〇四三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2380,7 +2389,7 @@
               <Sentence Num="1" WritingMode="vertical">平成二十二年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・〇二九</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・〇三〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2388,7 +2397,7 @@
               <Sentence Num="1" WritingMode="vertical">平成二十三年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・〇二〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・〇二一</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2396,7 +2405,7 @@
               <Sentence Num="1" WritingMode="vertical">平成二十四年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・〇一三</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・〇一四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2404,7 +2413,7 @@
               <Sentence Num="1" WritingMode="vertical">平成二十五年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・〇〇七</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・〇〇八</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2412,7 +2421,7 @@
               <Sentence Num="1" WritingMode="vertical">平成二十六年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・〇〇三</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・〇〇四</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2420,12 +2429,20 @@
               <Sentence Num="1" WritingMode="vertical">平成二十七年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">〇・〇〇二</Sentence>
+              <Sentence Num="1" WritingMode="vertical">〇・〇〇三</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">平成二十八年度</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">〇・〇〇二</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">平成二十九年度</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">〇・〇〇一</Sentence>

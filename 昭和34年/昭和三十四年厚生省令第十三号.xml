@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="013" Year="34">
+<Law DataInfo="200804e03k03m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="013" Year="34">
   <LawNum>昭和三十四年厚生省令第十三号</LawNum>
   <LawBody>
     <LawTitle>国民公園、千鳥ケ淵戦没者墓苑並びに戦後強制抑留及び引揚死没者慰霊碑苑地管理規則</LawTitle>
@@ -21,7 +21,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国民公園、墓苑及び慰霊碑苑地内においては、次の各号に掲げる行為は、環境大臣の許可を受けなければしてはならない。</Sentence>
+            <Sentence WritingMode="vertical">国民公園、墓苑及び慰霊碑苑地内においては、次に掲げる行為は、環境大臣の許可を受けなければしてはならない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -62,7 +62,7 @@
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">別に定める施設を使用すること。</Sentence>
+              <Sentence WritingMode="vertical">施設を使用すること。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -83,7 +83,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国民公園、墓苑及び慰霊碑苑地内においては、次の各号に掲げる行為をしてはならない。</Sentence>
+            <Sentence WritingMode="vertical">国民公園、墓苑及び慰霊碑苑地内においては、次に掲げる行為をしてはならない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -198,106 +198,57 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国民公園、墓苑及び慰霊碑苑地内の施設で別に定めるものを使用しようとする者は、使用料を国に納めなければならない。</Sentence>
+            <Sentence WritingMode="vertical">国民公園、墓苑及び慰霊碑苑地内の施設の使用について第二条の許可を受けた者は、施設の使用の目的及び態様に応じて公正妥当な使用料を国に納めなければならない。 </Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">新宿御苑に入園しようとする者は、入園料を国に納めなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">新宿御苑に入園しようとする者又は別に定める国民公園の施設を利用しようとする者は、環境大臣の定める区分に応じ、あらかじめ入園料又は施設利用料を国に納めなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次項に規定する入園券又は施設利用券を購入した場合は、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前二項の使用料及び入園料は、別に定める。</Sentence>
+            <Sentence WritingMode="vertical">環境大臣は、入園券又は施設利用券の発売に伴う収入の国への納付に関する事務を適正かつ確実に実施することができると認められる者を指定し、入園券又は施設利用券を発売させることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第二項の入園料及び施設利用料並びに前項の入園券及び施設利用券の発売金額その他入園料及び施設利用料等の徴収に関し必要な事項は、国民公園ごとに、別に定める</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="8">
-        <ArticleCaption>（フレキシブルディスクによる手続）</ArticleCaption>
+        <ArticleCaption>（光ディスクによる手続）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第三条の規定による許可申請書の提出については、当該許可申請書に記載すべきこととされている事項を記録したフレキシブルディスク及び別記様式第二のフレキシブルディスク提出書を提出することによつて行うことができる。</Sentence>
+            <Sentence WritingMode="vertical">第三条の規定による許可申請書の提出については、当該許可申請書に記載すべきこととされている事項を記録した光ディスク及び別記様式第二の光ディスク提出書を提出することによって行うことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="9">
-        <ArticleCaption>（フレキシブルディスクの構造）</ArticleCaption>
+        <ArticleCaption>（光ディスクの構造）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前条のフレキシブルディスクは、次の各号のいずれかに該当するものでなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前条の光ディスクは、次の各号のいずれかに該当するものでなければならない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">日本工業規格Ｘ六二二一に適合する九十ミリメートルフレキシブルディスクカートリッジ</Sentence>
+              <Sentence WritingMode="vertical">日本産業規格Ｘ〇六〇六及びＸ六二八二又はＸ〇六〇六及び六二八三に適合する直径百二十ミリメートルの光ディスク</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">日本工業規格Ｘ六二二三に適合する九十ミリメートルフレキシブルディスクカートリッジ</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="10">
-        <ArticleCaption>（フレキシブルディスクへの記録方式）</ArticleCaption>
-        <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">第八条の規定によるフレキシブルディスクへの記録は、次に掲げる方式に従つてしなければならない。</Sentence>
-          </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">トラックフォーマットについては、前条第一号のフレキシブルディスクに記録する場合にあつては日本工業規格Ｘ六二二二、同条第二号のフレキシブルディスクに記録する場合にあつては日本工業規格Ｘ六二二五</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">ボリューム及びファイル構成については、日本工業規格Ｘ〇六〇五</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">文字の符号化表現については、日本工業規格Ｘ〇二〇八附属書一</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">第八条の規定によるフレキシブルディスクへの記録は、日本工業規格Ｘ〇二〇一及びＸ〇二〇八による図形文字並びに日本工業規格Ｘ〇二一一による制御文字のうち「復帰」及び「改行」を用いてしなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="11">
-        <ArticleCaption>（フレキシブルディスクにはり付ける書面）</ArticleCaption>
-        <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">第八条のフレキシブルディスクには、日本工業規格Ｘ六二二一又はＸ六二二三によるラベル領域に、次に掲げる事項を記載した書面をはり付けなければならない。</Sentence>
-          </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">申請者の氏名又は名称</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">申請年月日</Sentence>
+              <Sentence WritingMode="vertical">日本産業規格Ｘ〇六〇九又はＸ〇六一一及びＸ六二四八又はＸ六二四九に適合する直径百二十ミリメートルの光ディスク</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -399,12 +350,30 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日環境省令第九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月一日環境省令第一三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S34F03601000013_1907111307_001.pdf"/>
+          <Fig src="./pict/S34F03601000013_2008032308_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -413,7 +382,7 @@
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S34F03601000013_1907111307_002.pdf"/>
+          <Fig src="./pict/S34F03601000013_2008032308_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

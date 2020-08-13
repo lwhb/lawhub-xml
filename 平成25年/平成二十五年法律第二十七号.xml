@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200717e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="27" Year="25">
+<Law DataInfo="200731e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="27" Year="25">
   <LawNum>平成二十五年法律第二十七号</LawNum>
   <LawBody>
     <LawTitle>行政手続における特定の個人を識別するための番号の利用等に関する法律</LawTitle>
@@ -4635,6 +4635,58 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月五日法律第四〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和四年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中国民年金法第八十七条第三項の改正規定、第四条中厚生年金保険法第百条の三の改正規定、同法第百条の十第一項の改正規定（同項第十号の改正規定を除く。）及び同法附則第二十三条の二第一項の改正規定、第六条の規定、第十一条の規定（第五号に掲げる改正規定を除く。）、第十二条の規定（第六号に掲げる改正規定を除く。）、第十三条の規定（同号に掲げる改正規定を除く。）、第二十条中確定給付企業年金法第三十六条第二項第一号の改正規定、第二十一条中確定拠出年金法第四十八条の三、第七十三条及び第八十九条第一項第三号の改正規定、第二十四条中公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律附則第三十八条第三項の表改正後確定拠出年金法第四十八条の二の項及び第四十条第八項の改正規定、第二十九条中健康保険法附則第五条の四、第五条の六及び第五条の七の改正規定、次条第二項から第五項まで及び附則第十二条の規定、附則第四十二条中国民年金法等の一部を改正する法律（昭和六十年法律第三十四号。次号及び附則第四十二条から第四十五条までにおいて「昭和六十年国民年金等改正法」という。）附則第二十条及び第六十四条の改正規定、附則第五十五条中被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律（平成二十四年法律第六十三号。以下「平成二十四年一元化法」という。）附則第二十三条第三項、第三十六条第六項、第六十条第六項及び第八十五条の改正規定、附則第五十六条の規定、附則第九十五条中行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）別表第二の百七の項の改正規定並びに附則第九十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2:9">
+            <ItemTitle>二から九まで</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第九十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>戸籍法の一部を改正する法律（令和元年法律第十七号）附則第一条第五号に定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="97">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第九十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一（第九条関係）</AppdxTableTitle>
       <TableStruct>
@@ -8346,7 +8398,7 @@
               <Sentence>市町村長</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>地方税関係情報であって主務省令で定めるもの</Sentence>
+              <Sentence>地方税関係情報又は住民票関係情報であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="180723e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="091" Year="18">
+<Law DataInfo="200622e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="091" Year="18">
   <LawNum>平成十八年法律第九十一号</LawNum>
   <LawBody>
     <LawTitle>高齢者、障害者等の移動等の円滑化の促進に関する法律</LawTitle>
@@ -54,7 +54,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>この法律は、高齢者、障害者等の自立した日常生活及び社会生活を確保することの重要性にかんがみ、公共交通機関の旅客施設及び車両等、道路、路外駐車場、公園施設並びに建築物の構造及び設備を改善するための措置、一定の地区における旅客施設、建築物等及びこれらの間の経路を構成する道路、駅前広場、通路その他の施設の一体的な整備を推進するための措置その他の措置を講ずることにより、高齢者、障害者等の移動上及び施設の利用上の利便性及び安全性の向上の促進を図り、もって公共の福祉の増進に資することを目的とする。</Sentence>
+              <Sentence>この法律は、高齢者、障害者等の自立した日常生活及び社会生活を確保することの重要性に鑑み、公共交通機関の旅客施設及び車両等、道路、路外駐車場、公園施設並びに建築物の構造及び設備を改善するための措置、一定の地区における旅客施設、建築物等及びこれらの間の経路を構成する道路、駅前広場、通路その他の施設の一体的な整備を推進するための措置、移動等円滑化に関する国民の理解の増進及び協力の確保を図るための措置その他の措置を講ずることにより、高齢者、障害者等の移動上及び施設の利用上の利便性及び安全性の向上の促進を図り、もって公共の福祉の増進に資することを目的とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -434,7 +434,7 @@
                   <Sentence>特定事業</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>公共交通特定事業、道路特定事業、路外駐車場特定事業、都市公園特定事業、建築物特定事業及び交通安全特定事業をいう。</Sentence>
+                  <Sentence>公共交通特定事業、道路特定事業、路外駐車場特定事業、都市公園特定事業、建築物特定事業、交通安全特定事業及び教育啓発特定事業をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -558,6 +558,29 @@
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
+            <Item Num="29">
+              <ItemTitle>二十九</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>教育啓発特定事業</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>市町村又は施設設置管理者（第三十六条の二において「市町村等」という。）が実施する次に掲げる事業をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>移動等円滑化の促進に関する児童、生徒又は学生の理解を深めるために学校と連携して行う教育活動の実施に関する事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>移動等円滑化の促進に関する住民その他の関係者の理解の増進又は移動等円滑化の実施に関するこれらの者の協力の確保のために必要な啓発活動の実施に関する事業（イに掲げる事業を除く。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
           </Paragraph>
         </Article>
       </Chapter>
@@ -615,7 +638,13 @@
               <Subitem1 Num="4">
                 <Subitem1Title>ニ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>イからハまでに掲げるもののほか、移動等円滑化促進地区における移動等円滑化の促進のために必要な事項</Sentence>
+                  <Sentence>移動等円滑化の促進に関する住民その他の関係者の理解の増進及び移動等円滑化の実施に関するこれらの者の協力の確保に関する基本的な事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>イからニまでに掲げるもののほか、移動等円滑化促進地区における移動等円滑化の促進のために必要な事項</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
@@ -657,6 +686,18 @@
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>移動等円滑化の促進に関する国民の理解の増進及び移動等円滑化の実施に関する国民の協力の確保に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>移動等円滑化に関する情報提供に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
               <ItemSentence>
                 <Sentence>移動等円滑化の促進のための施策に関する基本的な事項その他移動等円滑化の促進に関する事項</Sentence>
               </ItemSentence>
@@ -1423,7 +1464,13 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>前二号に掲げるもののほか、移動等円滑化促進地区における移動等円滑化の促進のために必要な事項</Sentence>
+                <Sentence>移動等円滑化の促進に関する住民その他の関係者の理解の増進及び移動等円滑化の実施に関するこれらの者の協力の確保に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>前三号に掲げるもののほか、移動等円滑化促進地区における移動等円滑化の促進のために必要な事項</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2280,6 +2327,52 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="36_2">
+          <ArticleCaption>（教育啓発特定事業の実施）</ArticleCaption>
+          <ArticleTitle>第三十六条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第二十五条第一項の規定により基本構想が作成されたときは、関係する市町村等は、単独で又は共同して、当該基本構想に即して教育啓発特定事業を実施するための計画（以下この条において「教育啓発特定事業計画」という。）を作成し、これに基づき、当該教育啓発特定事業を実施するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>教育啓発特定事業計画においては、実施しようとする教育啓発特定事業について次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>教育啓発特定事業の内容及び実施予定期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>その他教育啓発特定事業の実施に際し配慮すべき重要事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>市町村等は、教育啓発特定事業計画を定めようとするときは、あらかじめ、関係する市町村及び施設設置管理者（第二条第二十九号イに掲げる事業について定めようとする場合にあっては、関係する市町村、施設設置管理者及び学校）の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>市町村等は、教育啓発特定事業計画を定めたときは、遅滞なく、これを関係する市町村及び施設設置管理者（第二条第二十九号イに掲げる事業について定めた場合にあっては、関係する市町村、施設設置管理者及び学校）に送付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前二項の規定は、教育啓発特定事業計画の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="37">
           <ArticleCaption>（生活関連施設又は一般交通用施設の整備等）</ArticleCaption>
           <ArticleTitle>第三十七条</ArticleTitle>
@@ -2302,13 +2395,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>市町村は、第二十八条第一項の公共交通特定事業、第三十三条第一項の路外駐車場特定事業、第三十四条第一項の都市公園特定事業（公園管理者が実施すべきものを除く。）又は第三十五条第一項の建築物特定事業（国又は地方公共団体が実施すべきものを除く。）（以下この条において「公共交通特定事業等」と総称する。）が実施されていないと認めるときは、当該公共交通特定事業等を実施すべき者に対し、その実施を要請することができる。</Sentence>
+              <Sentence>市町村は、第二十八条第一項の公共交通特定事業、第三十三条第一項の路外駐車場特定事業、第三十四条第一項の都市公園特定事業（公園管理者が実施すべきものを除く。）又は第三十五条第一項の建築物特定事業若しくは第三十六条の二第一項の教育啓発特定事業（いずれも国又は地方公共団体が実施すべきものを除く。）（以下この条において「公共交通特定事業等」と総称する。）が実施されていないと認めるときは、当該公共交通特定事業等を実施すべき者に対し、その実施を要請することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>市町村は、前項の規定による要請を受けた者が当該要請に応じないときは、その旨を主務大臣等（公共交通特定事業にあっては主務大臣、路外駐車場特定事業にあっては知事等、都市公園特定事業にあっては公園管理者、建築物特定事業にあっては所管行政庁。以下この条において同じ。）に通知することができる。</Sentence>
+              <Sentence>市町村は、前項の規定による要請を受けた者が当該要請に応じないときは、その旨を主務大臣等（公共交通特定事業又は教育啓発特定事業にあっては主務大臣、路外駐車場特定事業にあっては知事等、都市公園特定事業にあっては公園管理者、建築物特定事業にあっては所管行政庁。以下この条において同じ。）に通知することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -2711,8 +2804,18 @@
       <Chapter Num="6">
         <ChapterTitle>第六章　雑則</ChapterTitle>
         <Article Num="52">
-          <ArticleCaption>（資金の確保等）</ArticleCaption>
+          <ArticleCaption>（国の援助）</ArticleCaption>
           <ArticleTitle>第五十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、地方公共団体が移動等円滑化の促進に関する施策を円滑に実施することができるよう、地方公共団体に対し、助言、指導その他の必要な援助を行うよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="52_2">
+          <ArticleCaption>（資金の確保等）</ArticleCaption>
+          <ArticleTitle>第五十二条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2722,13 +2825,29 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>国は、移動等円滑化に関する情報提供の確保並びに研究開発の推進及びその成果の普及に努めなければならない。</Sentence>
+              <Sentence>国は、移動等円滑化に関する研究開発の推進及びその成果の普及に努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="52_2">
+        <Article Num="52_3">
+          <ArticleCaption>（情報提供の確保）</ArticleCaption>
+          <ArticleTitle>第五十二条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、移動等円滑化に関する情報提供の確保に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国は、前項の情報提供の確保を行うに当たっては、生活の本拠の周辺地域以外の場所における移動等円滑化が高齢者、障害者等の自立した日常生活及び社会生活を確保する上で重要な役割を果たすことに鑑み、これらの者による観光施設その他の施設の円滑な利用のために必要と認める用具の備付けその他のこれらの施設における移動等円滑化に関する措置に係る情報が適切に提供されるよう、必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="52_4">
           <ArticleCaption>（移動等円滑化の進展の状況に関する評価）</ArticleCaption>
-          <ArticleTitle>第五十二条の二</ArticleTitle>
+          <ArticleTitle>第五十二条の四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2788,13 +2907,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>第三条第一項、第三項及び第四項における主務大臣は、同条第二項第二号に掲げる事項については国土交通大臣とし、その他の事項については国土交通大臣、国家公安委員会及び総務大臣とする。</Sentence>
+              <Sentence>第三条第一項、第三項及び第四項における主務大臣は、同条第二項第二号に掲げる事項については国土交通大臣とし、その他の事項については国土交通大臣、国家公安委員会、総務大臣及び文部科学大臣とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>第九条、第九条の二第一項、第九条の三から第九条の五まで、第九条の七、第二十二条の二第一項及び第二項（これらの規定を同条第五項において読み替えて準用する第十八条第二項において準用する場合を含む。）、第二十四条、第二十四条の六第四項及び第五項、第二十九条第一項、第二項（同条第四項において準用する場合を含む。）、第三項及び第五項、第三十二条第三項、第三十八条第二項、前条第一項並びに次条における主務大臣は国土交通大臣とし、第二十四条の二第七項及び第八項（これらの規定を同条第十項並びに第二十五条第十項及び第十一項において準用する場合を含む。）における主務大臣は国土交通大臣、国家公安委員会及び総務大臣とする。</Sentence>
+              <Sentence>第九条、第九条の二第一項、第九条の三から第九条の五まで、第九条の七、第二十二条の二第一項及び第二項（これらの規定を同条第五項において読み替えて準用する第十八条第二項において準用する場合を含む。）、第二十四条、第二十四条の六第四項及び第五項、第二十九条第一項、第二項（同条第四項において準用する場合を含む。）、第三項及び第五項、第三十二条第三項、第三十八条第二項、前条第一項並びに次条における主務大臣は国土交通大臣とし、第二十四条の二第七項及び第八項（これらの規定を同条第十項並びに第二十五条第十項及び第十一項において準用する場合を含む。）における主務大臣は国土交通大臣、国家公安委員会、総務大臣及び文部科学大臣とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -3521,6 +3640,40 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月二〇日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第一条並びに次条第一項及び附則第三条の規定は、公布の日から起算して一月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第一条の規定の施行の際現に同条の規定による改正前の高齢者、障害者等の移動等の円滑化の促進に関する法律第二十四条の二第一項の規定により定められている移動等円滑化促進方針には、当該移動等円滑化促進方針が第一条の規定の施行後最初に変更されるまでの間は、同条の規定による改正後の高齢者、障害者等の移動等の円滑化の促進に関する法律第二十四条の二第二項の規定にかかわらず、同項第三号に掲げる事項を定めないことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>

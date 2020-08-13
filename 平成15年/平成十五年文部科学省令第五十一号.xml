@@ -1334,6 +1334,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Delete="false" Hide="false" Num="1_4">
+        <ArticleCaption>（新型コロナウイルス感染症の発生又はまん延に起因するやむを得ない理由がある場合における災害共済給付契約の契約締結期限の延長）</ArticleCaption>
+        <ArticleTitle>第一条の四</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令附則第一条の四の規定により支払期限が延長された学校の設置者に係る第二十七条に規定する契約締結期限は、同条の規定にかかわらず、令附則第一条の四の規定により延長された支払期限とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Delete="false" Hide="false" Num="2">
         <ArticleCaption>（成立の際の会計処理の特例）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
@@ -1413,7 +1423,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法附則第八条第一項各号に掲げる施設の災害共済給付については、第十七条第二項、第十九条から第二十五条まで、第二十七条、第二十八条並びに附則第一条の二及び第一条の三の規定を準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法附則第八条第一項各号に掲げる施設の災害共済給付については、第十七条第二項、第十九条から第二十五条まで、第二十七条、第二十八条及び附則第一条の二から第一条の四までの規定を準用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、第二十七条中「第六条第二号」とあるのは「附則第五条第三項において準用する令第六条第二号」と、「五月三十一日」とあるのは「五月三十一日（同月二日から当該年度の末日までの間に経営を開始する法附則第八条第一項各号に掲げる施設（当該施設の設置者が当該施設の管理下における児童について新たに災害共済給付契約を締結するものに限る。）にあっては、その経営を開始した日の属する月の翌月の末日）」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -1979,6 +1989,15 @@
           </Item>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月一三日文部科学省令第一九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
