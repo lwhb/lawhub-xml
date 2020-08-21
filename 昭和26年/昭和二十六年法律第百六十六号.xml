@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200326e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="166" Year="26">
+<Law DataInfo="200605e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="166" Year="26">
   <LawNum>昭和二十六年法律第百六十六号</LawNum>
   <LawBody>
     <LawTitle>家畜伝染病予防法</LawTitle>
@@ -27,7 +27,7 @@
       </TOCChapter>
       <TOCChapter Num="6">
         <ChapterTitle>第六章　雑則</ChapterTitle>
-        <ArticleRange>（第四十七条―第六十二条の六）</ArticleRange>
+        <ArticleRange>（第四十七条―第六十二条の五）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="7">
         <ChapterTitle>第七章　罰則</ChapterTitle>
@@ -314,6 +314,54 @@
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence>農林水産大臣は、第一項の政令の制定又は改廃の立案をしようとするときは、食料・農業・農村政策審議会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2_2">
+          <ArticleCaption>（家畜の所有者の責務）</ArticleCaption>
+          <ArticleTitle>第二条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>家畜の所有者は、その飼養している家畜につき家畜の伝染性疾病の発生を予防し、当該家畜に起因する家畜の伝染性疾病のまん延を防止することについて第一義的責任を有していることを自覚し、家畜の伝染性疾病の発生の予防及びまん延の防止のために、必要な知識及び技術の習得に努めるとともに、家畜の飼養に係る衛生管理その他の措置を適切に実施するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2_3">
+          <ArticleCaption>（国及び地方公共団体の責務）</ArticleCaption>
+          <ArticleTitle>第二条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、最新の科学的知見並びに家畜の伝染性疾病の我が国及び外国における発生の状況及び動向を踏まえ、家畜の伝染性疾病の発生の予防及びまん延の防止に関する施策を総合的に策定し、及び実施するとともに、地方公共団体における家畜の伝染性疾病の発生の予防及びまん延の防止のための措置の適切な実施を確保するために必要な助言その他の措置並びに輸出入検疫の適切な実施に必要な措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>都道府県は、その区域内における家畜の飼養に係る衛生管理の状況並びに家畜の伝染性疾病の発生の状況及び動向その他の地域の実情に応じ、国及び市町村と連携を図りながら、家畜の伝染性疾病の発生の予防及びまん延の防止のための措置を適切に講ずるために必要な体制の整備を図りつつ、これらの措置を一体的かつ効果的に実施するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>市町村は、国及び都道府県の施策に協力して、家畜の伝染性疾病の発生の予防及びまん延の防止に資する措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国及び地方公共団体は、協議会の開催等により、家畜の伝染性疾病に関する正しい知識の普及のための広報活動その他の家畜の伝染性疾病の発生の予防及びまん延の防止に関する施策の実施について相互に連携するとともに、地域における家畜の伝染性疾病の発生の予防及びまん延の防止に寄与するものである家畜の所有者又はその組織する団体が行う家畜の伝染性疾病の発生の予防のための自主的措置を助長するため、これらの者に対し、必要な助言及び指導を行うよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2_4">
+          <ArticleCaption>（関連事業者の責務）</ArticleCaption>
+          <ArticleTitle>第二条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>複数の畜舎及びその敷地に出入りする者、家畜を集合させる催物の開催者又は家畜の集合する施設の所有者その他の畜産業に関連する事業を行う者は、その事業活動に関し、家畜の伝染性疾病の病原体の拡散を防止するための措置を講ずるよう努めるとともに、国及び地方公共団体が実施する家畜の伝染性疾病の発生の予防及びまん延の防止のための施策に協力するよう努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2747,24 +2795,8 @@
           </Paragraph>
         </Article>
         <Article Num="62_2">
-          <ArticleCaption>（予防のための自主的措置）</ArticleCaption>
-          <ArticleTitle>第六十二条の二</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence>家畜の所有者は、その飼養している家畜につき家畜の伝染性疾病の発生を予防し、当該家畜に起因する家畜の伝染性疾病のまん延を防止することについて重要な責任を有していることを自覚し、家畜の伝染性疾病の予防のために必要な消毒その他の措置を適切に実施するように努めなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>国及び地方公共団体は、家畜の所有者又はその組織する団体が行なう家畜の伝染性疾病の予防のための自主的措置を助長するため、これらの者に対し、必要な助言及び指導を行なうように努めるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="62_3">
           <ArticleCaption>（厚生労働大臣及び環境大臣との関係）</ArticleCaption>
-          <ArticleTitle>第六十二条の三</ArticleTitle>
+          <ArticleTitle>第六十二条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2802,9 +2834,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="62_4">
+        <Article Num="62_3">
           <ArticleCaption>（連絡及び協力）</ArticleCaption>
-          <ArticleTitle>第六十二条の四</ArticleTitle>
+          <ArticleTitle>第六十二条の三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2812,9 +2844,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="62_5">
+        <Article Num="62_4">
           <ArticleCaption>（事務の区分）</ArticleCaption>
-          <ArticleTitle>第六十二条の五</ArticleTitle>
+          <ArticleTitle>第六十二条の四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2822,9 +2854,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="62_6">
+        <Article Num="62_5">
           <ArticleCaption>（経過措置）</ArticleCaption>
-          <ArticleTitle>第六十二条の六</ArticleTitle>
+          <ArticleTitle>第六十二条の五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5002,6 +5034,79 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律の施行の日から起算して二十日を経過する日までの間における新法附則第五条第二項の規定の適用については、同項中「この法律の規定」とあるのは、「この法律の規定（第六十三条第三号を除く。）」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日法律第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>目次の改正規定（「第六十二条の六」を「第六十二条の五」に改める部分に限る。）、第二条の次に三条を加える改正規定及び第六十二条の二を削り、第六十二条の三を第六十二条の二とし、第六十二条の四から第六十二条の六までを一条ずつ繰り上げる改正規定並びに附則第三条及び第七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第十二条の三の次に三条を加える改正規定（第十二条の三の三及び第十二条の三の四に係る部分に限る。）、第十二条の五の改正規定（「ときは」の下に「、飼養衛生管理指導等計画に即して」を加える部分に限る。）、第十二条の六第一項及び第二項の改正規定（「ときは」の下に「、飼養衛生管理指導等計画に即して」を加える部分に限る。）並びに第十二条の七の改正規定（「前二条の規定により都道府県知事がとつた措置」を「飼養衛生管理指導等計画」に改める部分に限る。）並びに附則第四条第三項の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三十一条の改正規定、第四十六条第一項の改正規定（「同条第二項」を「同条第三項」に改める部分に限る。）、第四十七条の改正規定（「第三十一条第一項」の下に「若しくは第二項」を加える部分に限る。）並びに第六十条第一項及び第六十一条の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和三年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（準備行為）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>農林水産大臣は、新法第三条の二第一項に規定する特定家畜伝染病防疫指針を作成するため、施行日前においても、食料・農業・農村政策審議会の意見を聴くとともに、都道府県知事の意見を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>農林水産大臣は、新法第十二条の三の三第一項に規定する飼養衛生管理指導等指針を策定するため、附則第一条第二号に掲げる規定の施行の日（次条第三項において「一部施行日」という。）前においても、食料・農業・農村政策審議会の意見を聴くことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

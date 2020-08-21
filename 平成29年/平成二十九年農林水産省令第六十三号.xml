@@ -1482,7 +1482,7 @@
                 <Item Delete="false" Hide="false" Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">骨折、は行若しくは両眼失明又は牛白血病、伝達性海綿状脳症その他農林水産大臣が指定する疾病若しくは不慮の傷害であって、治癒の見込みのないものによって使用価値を失ったとき。</Sentence>
+                    <Sentence WritingMode="vertical">骨折、は行若しくは両眼失明又は牛伝染性リンパ腫、伝達性海綿状脳症その他農林水産大臣が指定する疾病若しくは不慮の傷害であって、治癒の見込みのないものによって使用価値を失ったとき。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Delete="false" Hide="false" Num="4">
@@ -3002,7 +3002,7 @@
                 <Item Delete="false" Hide="false" Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">当該廃用に係る家畜が牛白血病又は伝達性海綿状脳症にかかっていることを知らずにと殺し、又は譲り渡したことにつき、重大な過失がないこと。</Sentence>
+                    <Sentence WritingMode="vertical">当該廃用に係る家畜が牛伝染性リンパ腫又は伝達性海綿状脳症にかかっていることを知らずにと殺し、又は譲り渡したことにつき、重大な過失がないこと。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -9489,6 +9489,51 @@
           <Sentence WritingMode="vertical">この省令による改正後の農業保険法施行規則第百五十三条、第百五十五条、第百五十六条、第百五十七条及び第百五十九条の規定は、この省令の施行の日以後に共済責任期間が開始する園芸施設共済の共済関係、当該共済関係に係る保険関係及び当該保険関係に係る再保険関係から適用するものとし、同日前に共済責任期間が開始する園芸施設共済の共済関係、当該共済関係に係る保険関係及び当該保険関係に係る再保険関係については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月二四日農林水産省令第四四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、家畜伝染病予防法の一部を改正する法律の施行の日（令和二年七月一日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中家畜伝染病予防法施行規則第二十一条の次に三条を加える改正規定（同令第二十一条の三第一項第三号及び第二十一条の四に係る部分に限る。）は同法附則第一条第二号に掲げる規定の施行の日（令和三年四月一日）から、第一条中同令第十三条の改正規定（「第三十一条第二項」を「第三十一条第三項」に改める部分に限る。）、同令第十四条の改正規定、同令第四十条に一項を加える改正規定、同令別記様式第十号の改正規定（「第３１条第２項」を「第３１条第３項」に改める部分に限る。）及び同令別記様式第四十九号の改正規定（「第三十一条第一項」の下に「若しくは第二項」を加える部分に限る。）並びに第四条の規定は令和三年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行前にされたこの省令による改正前のそれぞれの省令に規定する牛ウイルス性下痢・粘膜病、牛白血病、牛丘疹しん性口炎、トリパノソーマ病、トリコモナス病、馬モルビリウイルス肺炎、トキソプラズマ病、山羊関節炎・脳脊髄炎、豚エンテロウイルス性脳脊髄炎、伝染性気管支炎、伝染性喉頭気管炎、鶏結核病、鶏マイコプラズマ病、ロイコチトゾーン病、あひる肝炎、兎うさウぎ　イルス性出血病、バロア病又はノゼマ病に係る処分、手続その他の行為は、それぞれこの省令による改正後のそれぞれの省令に規定する牛ウイルス性下痢、牛伝染性リンパ腫、牛丘疹しん性口内炎、トリパノソーマ症、トリコモナス症、ヘンドラウイルス感染症、トキソプラズマ症、山羊関節炎・脳炎、豚テシオウイルス性脳脊髄炎、鶏伝染性気管支炎、鶏伝染性喉頭気管炎、鳥結核、鳥マイコプラズマ症、ロイコチトゾーン症、あひるウイルス性肝炎、兎うさぎ出血病、バロア症又はノゼマ症に係る処分、手続その他の行為としてされたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行前にされた第二条の規定による改正前の家畜改良増殖法施行規則に規定するブルセラ病に係る処分、手続その他の行為は、同条の規定による改正後の家畜改良増殖法施行規則に規定するブルセラ症に係る処分、手続その他の行為としてされたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行の際現にある第一条の規定による改正前の家畜伝染病予防法施行規則の様式（次項において「旧様式」という。）により使用されている書類は、同条の規定による改正後の家畜伝染病予防法施行規則の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

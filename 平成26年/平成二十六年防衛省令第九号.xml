@@ -845,7 +845,7 @@
                 <Sentence WritingMode="vertical"/>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                <Sentence WritingMode="vertical">十四　航空団、航空警戒管制団、輸送航空隊、飛行教育団、航空教育隊及び飛行開発実験団</Sentence>
+                <Sentence WritingMode="vertical">十四　航空団、航空警戒管制団、警戒航空団、航空救難団、航空戦術教導団、輸送航空隊、飛行教育団、航空教育隊及び飛行開発実験団</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                 <Sentence WritingMode="vertical">五十七　この項第二欄第十四号に掲げる部局又は機関等に置かれる司令部又は群の所掌事務を分掌する班の長の属する職制上の段階</Sentence>
@@ -2592,10 +2592,10 @@
                 <Sentence WritingMode="vertical">八　学校、教育訓練研究本部、補給統制本部及び海上自衛隊補給本部</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                <Sentence WritingMode="vertical">二十五　教育訓練研究本部の部の長の指揮監督を受け、特定の重要な事項に関する研究を行う官職の属する職制上の段階</Sentence>
+                <Sentence WritingMode="vertical">二十五　削除</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                <Sentence WritingMode="vertical">分析企画官</Sentence>
+                <Sentence WritingMode="vertical"/>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -3429,6 +3429,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成三十一年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日防衛省令第三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
