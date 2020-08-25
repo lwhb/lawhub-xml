@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="180727e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="214" Year="25">
+<Law DataInfo="200605e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="214" Year="25">
   <LawNum>昭和二十五年法律第二百十四号</LawNum>
   <LawBody>
     <LawTitle>文化財保護法</LawTitle>
@@ -457,13 +457,13 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Delete="false" Hide="false" Num="33">
+            <Article Num="33">
               <ArticleCaption>（滅失、き損等）</ArticleCaption>
               <ArticleTitle>第三十三条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">重要文化財の全部又は一部が滅失し、若しくはき損し、又はこれを亡失し、若しくは盗み取られたときは、所有者（管理責任者又は管理団体がある場合は、その者）は、文部科学省令の定める事項を記載した書面をもつて、その事実を知つた日から十日以内に文化庁長官に届け出なければならない。</Sentence>
+                  <Sentence>重要文化財の全部又は一部が滅失し、若しくはき損し、又はこれを亡失し、若しくは盗み取られたときは、所有者（管理責任者又は管理団体がある場合は、その者）は、文部科学省令の定める事項を記載した書面をもつて、その事実を知つた日から十日以内に文化庁長官に届け出なければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -530,13 +530,13 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Delete="false" Hide="false" Num="36">
+            <Article Num="36">
               <ArticleCaption>（管理に関する命令又は勧告）</ArticleCaption>
               <ArticleTitle>第三十六条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">重要文化財を管理する者が不適任なため又は管理が適当でないため重要文化財が滅失し、き損し、又は盗み取られる虞があると認めるときは、文化庁長官は、所有者、管理責任者又は管理団体に対し、重要文化財の管理をする者の選任又は変更、管理方法の改善、防火施設その他の保存施設の設置その他管理に関し必要な措置を命じ、又は勧告することができる。</Sentence>
+                  <Sentence>重要文化財を管理する者が不適任なため又は管理が適当でないため重要文化財が滅失し、き損し、又は盗み取られる虞があると認めるときは、文化庁長官は、所有者、管理責任者又は管理団体に対し、重要文化財の管理をする者の選任又は変更、管理方法の改善、防火施設その他の保存施設の設置その他管理に関し必要な措置を命じ、又は勧告することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -552,19 +552,19 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Delete="false" Hide="false" Num="37">
+            <Article Num="37">
               <ArticleCaption>（修理に関する命令又は勧告）</ArticleCaption>
               <ArticleTitle>第三十七条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">文化庁長官は、国宝がき損している場合において、その保存のため必要があると認めるときは、所有者又は管理団体に対し、その修理について必要な命令又は勧告をすることができる。</Sentence>
+                  <Sentence>文化庁長官は、国宝がき損している場合において、その保存のため必要があると認めるときは、所有者又は管理団体に対し、その修理について必要な命令又は勧告をすることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Hide="false" Num="2">
+              <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">文化庁長官は、国宝以外の重要文化財がき損している場合において、その保存のため必要があると認めるときは、所有者又は管理団体に対し、その修理について必要な勧告をすることができる。</Sentence>
+                  <Sentence>文化庁長官は、国宝以外の重要文化財がき損している場合において、その保存のため必要があると認めるときは、所有者又は管理団体に対し、その修理について必要な勧告をすることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
@@ -580,13 +580,13 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Delete="false" Hide="false" Num="38">
+            <Article Num="38">
               <ArticleCaption>（文化庁長官による国宝の修理等の施行）</ArticleCaption>
               <ArticleTitle>第三十八条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">文化庁長官は、左の各号の一に該当する場合においては、国宝につき自ら修理を行い、又は滅失、き損若しくは盗難の防止の措置をすることができる。</Sentence>
+                  <Sentence>文化庁長官は、左の各号の一に該当する場合においては、国宝につき自ら修理を行い、又は滅失、き損若しくは盗難の防止の措置をすることができる。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -594,10 +594,10 @@
                     <Sentence>所有者、管理責任者又は管理団体が前二条の規定による命令に従わないとき。</Sentence>
                   </ItemSentence>
                 </Item>
-                <Item Delete="false" Hide="false" Num="2">
+                <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">国宝がき損している場合又は滅失し、き損し、若しくは盗み取られる虞がある場合において、所有者、管理責任者又は管理団体に修理又は滅失、き損若しくは盗難の防止の措置をさせることが適当でないと認められるとき。</Sentence>
+                    <Sentence>国宝がき損している場合又は滅失し、き損し、若しくは盗み取られる虞がある場合において、所有者、管理責任者又は管理団体に修理又は滅失、き損若しくは盗難の防止の措置をさせることが適当でないと認められるとき。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -679,13 +679,13 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Delete="false" Hide="false" Num="42">
+            <Article Num="42">
               <ArticleCaption>（補助等に係る重要文化財譲渡の場合の納付金）</ArticleCaption>
               <ArticleTitle>第四十二条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">国が修理又は滅失、き損若しくは盗難の防止の措置（以下この条において、「修理等」という。）につき第三十五条第一項の規定により補助金を交付し、又は第三十六条第二項、第三十七条第三項若しくは第四十条第一項の規定により費用を負担した重要文化財のその当時における所有者又はその相続人、受遺者若しくは受贈者（第二次以下の相続人、受遺者又は受贈者を含む。以下この条において同じ。）（以下この条において、「所有者等」という。）は、補助又は費用負担に係る修理等が行われた後当該重要文化財を有償で譲り渡した場合においては、当該補助金又は負担金の額（第四十条第一項の規定による負担金については、同条第二項の規定により所有者から徴収した部分を控除した額をいう。以下この条において同じ。）の合計額から当該修理等が行われた後重要文化財の修理等のため自己の費した金額を控除して得た金額（以下この条において、「納付金額」という。）を、文部科学省令の定めるところにより国庫に納付しなければならない。</Sentence>
+                  <Sentence>国が修理又は滅失、き損若しくは盗難の防止の措置（以下この条において、「修理等」という。）につき第三十五条第一項の規定により補助金を交付し、又は第三十六条第二項、第三十七条第三項若しくは第四十条第一項の規定により費用を負担した重要文化財のその当時における所有者又はその相続人、受遺者若しくは受贈者（第二次以下の相続人、受遺者又は受贈者を含む。以下この条において同じ。）（以下この条において、「所有者等」という。）は、補助又は費用負担に係る修理等が行われた後当該重要文化財を有償で譲り渡した場合においては、当該補助金又は負担金の額（第四十条第一項の規定による負担金については、同条第二項の規定により所有者から徴収した部分を控除した額をいう。以下この条において同じ。）の合計額から当該修理等が行われた後重要文化財の修理等のため自己の費した金額を控除して得た金額（以下この条において、「納付金額」という。）を、文部科学省令の定めるところにより国庫に納付しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -1406,7 +1406,7 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1">文部科学大臣は、前項の規定による登録をしようとするときは、あらかじめ、関係地方公共団体の意見を聴くものとする。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、当該登録をしようとする有形文化財が第百八十三条の五第一項の規定による登録の提案に係るものであるときは、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、当該登録をしようとする有形文化財が第百八十三条の五第一項の規定又は文化観光拠点施設を中核とした地域における文化観光の推進に関する法律（令和二年法律第十八号）第十六条第一項の規定による登録の提案に係るものであるときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -7472,6 +7472,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月一七日法律第一八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律は、公布の日から起算して一月を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

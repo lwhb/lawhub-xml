@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="191005e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="23" Year="19">
+<Law DataInfo="200731e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="23" Year="19">
   <LawNum>平成十九年法律第二十三号</LawNum>
   <LawBody>
     <LawTitle>特別会計に関する法律</LawTitle>
@@ -3431,35 +3431,47 @@
                 <Subitem1 Num="5">
                   <Subitem1Title>ホ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>雇用安定資金からの受入金</Sentence>
+                    <Sentence>育児休業給付資金からの受入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>積立金から生ずる収入</Sentence>
+                    <Sentence>雇用安定資金からの受入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="7">
                   <Subitem1Title>ト</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>雇用安定資金から生ずる収入</Sentence>
+                    <Sentence>積立金から生ずる収入</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="8">
                   <Subitem1Title>チ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>一時借入金の借換えによる収入金</Sentence>
+                    <Sentence>育児休業給付資金から生ずる収入</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="9">
                   <Subitem1Title>リ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>中小企業退職金共済法（昭和三十四年法律第百六十号）第七十五条第二項、独立行政法人高齢・障害・求職者雇用支援機構法（平成十四年法律第百六十五号）第十七条第二項及び独立行政法人労働政策研究・研修機構法第十四条第三項の規定による納付金</Sentence>
+                    <Sentence>雇用安定資金から生ずる収入</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="10">
                   <Subitem1Title>ヌ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>一時借入金の借換えによる収入金</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="11">
+                  <Subitem1Title>ル</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>中小企業退職金共済法（昭和三十四年法律第百六十号）第七十五条第二項、独立行政法人高齢・障害・求職者雇用支援機構法（平成十四年法律第百六十五号）第十七条第二項及び独立行政法人労働政策研究・研修機構法第十四条第三項の規定による納付金</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="12">
+                  <Subitem1Title>ヲ</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence>附属雑収入</Sentence>
                   </Subitem1Sentence>
@@ -3473,7 +3485,7 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>雇用保険事業の失業等給付費、雇用安定事業費及び能力開発事業費</Sentence>
+                    <Sentence>雇用保険事業の失業等給付費、育児休業給付費、雇用安定事業費及び能力開発事業費</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
@@ -3491,29 +3503,35 @@
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>雇用安定資金への繰入金</Sentence>
+                    <Sentence>育児休業給付資金への繰入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
                   <Subitem1Title>ホ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>一時借入金の利子</Sentence>
+                    <Sentence>雇用安定資金への繰入金</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>借り換えた一時借入金の償還金及び利子</Sentence>
+                    <Sentence>一時借入金の利子</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="7">
                   <Subitem1Title>ト</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>雇用保険事業の業務取扱費（次項第二号ニに掲げる業務取扱費を除く。）</Sentence>
+                    <Sentence>借り換えた一時借入金の償還金及び利子</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="8">
                   <Subitem1Title>チ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>雇用保険事業の業務取扱費（次項第二号ニに掲げる業務取扱費を除く。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="9">
+                  <Subitem1Title>リ</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence>附属諸費</Sentence>
                   </Subitem1Sentence>
@@ -3621,7 +3639,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>雇用勘定における一般会計からの繰入対象経費は、雇用保険法第六十六条及び第六十七条に規定する求職者給付並びに同法第六十六条に規定する雇用継続給付並びに同法第六十四条に規定する事業（以下「就職支援法事業」という。）に要する費用並びに雇用保険事業の事務の執行に要する経費で国庫が負担するものとする。</Sentence>
+                <Sentence>雇用勘定における一般会計からの繰入対象経費は、雇用保険法第六十六条及び第六十七条に規定する求職者給付、同法第六十六条に規定する雇用継続給付及び育児休業給付並びに同法第六十四条に規定する事業（以下「就職支援法事業」という。）に要する費用並びに雇用保険事業の事務の執行に要する経費で国庫が負担するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3675,7 +3693,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>雇用勘定において、毎会計年度の歳入額（雇用安定事業及び能力開発事業（雇用保険法第六十三条に規定するものに限る。以下この項において同じ。）に係る歳入額（次条第三項及び第四項において「二事業費充当歳入額」という。）を控除した残りの額とする。）から当該年度の歳出額（雇用安定事業及び能力開発事業に係る歳出額（同条第三項及び第四項において「二事業費充当歳出額」という。）を控除した残りの額とする。）を控除して残余がある場合には、当該残余のうち、雇用保険事業の失業等給付費（就職支援法事業に要する費用を含む。第五項において同じ。）に充てるために必要な金額を、積立金として積み立てるものとする。</Sentence>
+                <Sentence>雇用勘定において、毎会計年度の歳入額（育児休業給付に係る歳入額（次条第三項及び第四項において「育児休業給付費充当歳入額」という。）並びに雇用安定事業及び能力開発事業（雇用保険法第六十三条に規定するものに限る。以下この項において同じ。）に係る歳入額（第百四条第三項及び第四項において「二事業費充当歳入額」という。）の合計額を控除した残りの額とする。）から当該年度の歳出額（育児休業給付に係る歳出額（次条第三項及び第四項において「育児休業給付費充当歳出額」という。）並びに雇用安定事業及び能力開発事業に係る歳出額（第百四条第三項及び第四項において「二事業費充当歳出額」という。）の合計額を控除した残りの額とする。）を控除して残余がある場合には、当該残余のうち、雇用保険事業の失業等給付費（就職支援法事業に要する費用を含む。第五項において同じ。）に充てるために必要な金額を、積立金として積み立てるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -3688,6 +3706,46 @@
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence>労災勘定又は雇用勘定の積立金は、労災保険事業の保険給付費及び社会復帰促進等事業費又は雇用保険事業の失業等給付費並びに第百二条第三項の規定による当該各勘定からの徴収勘定への繰入金（労働保険料の返還金の財源に充てるための額に相当する額の繰入金に限る。）を支弁するために必要がある場合には、予算で定める金額を限り、当該各勘定の歳入に繰り入れることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="103_2">
+            <ArticleCaption>（育児休業給付資金）</ArticleCaption>
+            <ArticleTitle>第百三条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>雇用勘定に育児休業給付資金を置き、同勘定からの繰入金及び第三項の規定による組入金をもってこれに充てる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の雇用勘定からの繰入金は、予算で定めるところにより、繰り入れるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>雇用勘定において、毎会計年度の育児休業給付費充当歳入額から当該年度の育児休業給付費充当歳出額を控除して残余がある場合には、当該残余のうち、育児休業給付費に充てるために必要な金額を、育児休業給付資金に組み入れるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>雇用勘定において、毎会計年度の育児休業給付費充当歳入額から当該年度の育児休業給付費充当歳出額を控除して不足がある場合その他政令で定める場合には、政令で定めるところにより、育児休業給付資金から補足するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>育児休業給付資金は、育児休業給付費及び第百二条第三項の規定による雇用勘定からの徴収勘定への繰入金（労働保険料の返還金の財源に充てるための額に相当する額の繰入金に限る。）を支弁するために必要がある場合には、予算で定めるところにより、使用することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>育児休業給付資金の受払いは、財務大臣の定めるところにより、雇用勘定の歳入歳出外として経理するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3775,7 +3833,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>労災勘定又は雇用勘定においては、当該各勘定の積立金又は雇用安定資金に属する現金をそれぞれ繰り替えて使用することができる。</Sentence>
+                <Sentence>労災勘定又は雇用勘定においては、当該各勘定の積立金、育児休業給付資金又は雇用安定資金に属する現金をそれぞれ繰り替えて使用することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -7007,7 +7065,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>交付税特別会計において、平成三十一年度から平成六十三年度までの各年度において、地方交付税交付金を支弁するために必要がある場合には、第十三条第一項の規定にかかわらず、平成三十一年度にあっては三十一兆千百七十二億九千五百四十万八千円を、平成三十二年度から平成三十六年度までの各年度にあっては三十一兆千百七十二億九千五百四十万八千円から次の表の上欄に掲げる当該年度までの各年度に応ずる同表の下欄に定める額を順次控除して得た金額を、平成三十七年度から平成六十三年度までの各年度にあっては二十七兆六千百七十二億九千五百四十万八千円から毎年度一兆円を順次控除して得た金額を限り、予算で定めるところにより、交付税特別会計の負担において、借入金をすることができる。</Sentence>
+            <Sentence>交付税特別会計において、令和二年度から令和三十三年度までの各年度において、地方交付税交付金を支弁するために必要がある場合には、第十三条第一項の規定にかかわらず、令和二年度にあっては三十兆七千百二十二億九千五百四十万八千円を、令和三年度から令和六年度までの各年度にあっては三十兆七千百二十二億九千五百四十万八千円から次の表の上欄に掲げる当該年度までの各年度に応ずる同表の下欄に定める額を順次控除して得た金額を、令和七年度から令和三十三年度までの各年度にあっては二十七兆七千百二十二億九千五百四十万八千円から毎年度一兆円を順次控除して得た金額を限り、予算で定めるところにより、交付税特別会計の負担において、借入金をすることができる。</Sentence>
           </ParagraphSentence>
           <TableStruct>
             <Table>
@@ -7021,15 +7079,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>平成三十二年度</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>五千億円</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>平成三十三年度</Sentence>
+                  <Sentence>令和三年度</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>六千億円</Sentence>
@@ -7037,7 +7087,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>平成三十四年度</Sentence>
+                  <Sentence>令和四年度</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>七千億円</Sentence>
@@ -7045,7 +7095,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>平成三十五年度</Sentence>
+                  <Sentence>令和五年度</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>八千億円</Sentence>
@@ -7053,7 +7103,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>平成三十六年度</Sentence>
+                  <Sentence>令和六年度</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>九千億円</Sentence>
@@ -7065,47 +7115,11 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>交付税特別会計において、平成三十一年度から平成四十三年度までの各年度において、森林環境譲与税譲与金を支弁するために必要がある場合には、第十三条第一項の規定にかかわらず、平成三十一年度にあっては二百億円を、平成三十二年度にあっては四百億円を、平成三十三年度にあっては六百億円を、平成三十四年度にあっては九百億円を、平成三十五年度及び平成三十六年度にあっては千二百億円を、平成三十七年度から平成四十年度までの各年度にあっては千二百億円から毎年度二百億円を順次控除して得た金額を、平成四十一年度から平成四十三年度までの各年度にあっては四百億円から毎年度百億円を順次控除して得た金額を限り、予算で定めるところにより、交付税特別会計の負担において、借入金をすることができる。</Sentence>
+            <Sentence>前項の規定による借入金は、一年内に償還しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>交付税特別会計において、平成三十一年度から平成三十五年度までの各年度において、次に掲げる償還金又は利子の支払に充てるために必要がある場合には、第十三条第一項の規定にかかわらず、これらの支払に充てるために必要な額に相当する金額を限り、予算で定めるところにより、交付税特別会計の負担において、借入金をすることができる。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence>前項の規定による借入金の利子</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence>第十五条第一項の規定による一時借入金（森林環境譲与税譲与金に係るものに限る。）の利子</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence>前二号に掲げる利子並びにこの号に掲げる償還金及び利子の支払に充てるためのこの項の規定による借入金の償還金及び利子</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-        <Paragraph Num="4">
-          <ParagraphNum>４</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>交付税特別会計において、平成三十六年度から平成四十三年度までの各年度において、前項の規定による借入金の償還金の支払に充てるために必要がある場合には、第十三条第一項の規定にかかわらず、平成三十六年度にあっては前項の規定による平成三十五年度における借入金で当該年度の末日においてその償還が完了していないものの額に相当する金額（以下この項において「利子支払費用相当額」という。）を、平成三十七年度から平成四十年度までの各年度にあっては利子支払費用相当額から毎年度利子支払費用相当額の六分の一に相当する金額を順次控除して得た金額を、平成四十一年度から平成四十三年度までの各年度にあっては利子支払費用相当額の三分の一に相当する金額から毎年度利子支払費用相当額の十二分の一に相当する金額を順次控除して得た金額を限り、予算で定めるところにより、交付税特別会計の負担において、借入金をすることができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="5">
-          <ParagraphNum>５</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>前各項の規定による借入金は、一年内に償還しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="6">
-          <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
             <Sentence>第一項の規定による借入金の利子の支払に充てるために必要がある場合には、第六条の規定にかかわらず、予算で定める金額を限り、一般会計から交付税特別会計に繰り入れることができる。</Sentence>
           </ParagraphSentence>
@@ -7117,7 +7131,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>平成三十一年度に限り、第十五条第一項の規定による一時借入金（森林環境譲与税譲与金に係るものを除く。）の利子の支払に充てるために必要がある場合には、第六条の規定にかかわらず、予算で定める金額を限り、一般会計から交付税特別会計に繰り入れることができる。</Sentence>
+            <Sentence>令和二年度に限り、第十五条第一項の規定による一時借入金（森林環境譲与税譲与金に係るものを除く。）の利子の支払に充てるために必要がある場合には、第六条の規定にかかわらず、予算で定める金額を限り、一般会計から交付税特別会計に繰り入れることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -7127,19 +7141,19 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>平成三十一年度における第二十四条の規定による一般会計からの繰入金の額は、同条の規定により算定した額に地方交付税法附則第四条第二号に掲げる額を加算した額に百七十二億円を加算した額から同条第六号に掲げる額を減額した額とする。</Sentence>
+            <Sentence>令和二年度における第二十四条の規定による一般会計からの繰入金の額は、同条の規定により算定した額に地方交付税法附則第四条第二号に掲げる額を加算した額に二千五百億円を加算した額から同条第六号に掲げる額を減額した額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>平成三十二年度以降の各年度における第二十四条の規定による一般会計からの繰入金の額は、当分の間、同条の規定により算定した額に百五十四億円を加算した額とする。</Sentence>
+            <Sentence>令和三年度以降の各年度における第二十四条の規定による一般会計からの繰入金の額は、当分の間、同条の規定により算定した額に百五十四億円を加算した額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>平成三十二年度から平成四十四年度までの各年度における第二十四条の規定による一般会計からの繰入金の額は、平成三十二年度及び平成三十三年度にあっては前項の規定により算定した額に第一号に掲げる額を加算した額から第二号に掲げる額を減額した額とし、平成三十四年度から平成三十八年度までの各年度にあっては同項の規定により算定した額に第一号に掲げる額を加算した額から第三号に掲げる額を減額した額とし、平成三十九年度から平成四十二年度までの各年度にあっては同項の規定により算定した額に第一号に掲げる額を加算した額から第四号に掲げる額を減額した額とし、平成四十三年度及び平成四十四年度にあっては同項の規定により算定した額に第一号に掲げる額を加算した額とする。</Sentence>
+            <Sentence>令和三年度から令和十四年度までの各年度における第二十四条の規定による一般会計からの繰入金の額は、令和三年度にあっては前項の規定により算定した額に第一号に掲げる額を加算した額から第二号に掲げる額を減額した額とし、令和四年度から令和八年度までの各年度にあっては同項の規定により算定した額に第一号に掲げる額を加算した額から第三号に掲げる額を減額した額とし、令和九年度から令和十二年度までの各年度にあっては同項の規定により算定した額に第一号に掲げる額を加算した額から第四号に掲げる額を減額した額とし、令和十三年度及び令和十四年度にあっては同項の規定により算定した額に第一号に掲げる額を加算した額とする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -7158,15 +7172,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>平成三十二年度</Sentence>
-                  </TableColumn>
-                  <TableColumn>
-                    <Sentence>二千五百三十三億円</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn>
-                    <Sentence>平成三十三年度</Sentence>
+                    <Sentence>令和三年度</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>二千九十二億円</Sentence>
@@ -7174,7 +7180,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>平成三十四年度</Sentence>
+                    <Sentence>令和四年度</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>千六百五十六億円</Sentence>
@@ -7182,7 +7188,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>平成三十五年度</Sentence>
+                    <Sentence>令和五年度</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>千二百十七億円</Sentence>
@@ -7190,7 +7196,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>平成三十六年度</Sentence>
+                    <Sentence>令和六年度</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>八百三十四億円</Sentence>
@@ -7198,7 +7204,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>平成三十七年度</Sentence>
+                    <Sentence>令和七年度</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>七百七十五億円</Sentence>
@@ -7206,7 +7212,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>平成三十八年度</Sentence>
+                    <Sentence>令和八年度</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>五百三十五億円</Sentence>
@@ -7214,7 +7220,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>平成三十九年度</Sentence>
+                    <Sentence>令和九年度</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>百三十四億円</Sentence>
@@ -7222,7 +7228,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>平成四十年度</Sentence>
+                    <Sentence>令和十年度</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>四十一億円</Sentence>
@@ -7230,7 +7236,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>平成四十一年度</Sentence>
+                    <Sentence>令和十一年度</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>十四億円</Sentence>
@@ -7238,7 +7244,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>平成四十二年度</Sentence>
+                    <Sentence>令和十二年度</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>七億円</Sentence>
@@ -7246,7 +7252,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>平成四十三年度</Sentence>
+                    <Sentence>令和十三年度</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>三億円</Sentence>
@@ -7254,7 +7260,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>平成四十四年度</Sentence>
+                    <Sentence>令和十四年度</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>三億円</Sentence>
@@ -7267,10 +7273,10 @@
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence>地方交付税法附則第四条の二第四項の規定により平成三十二年度及び平成三十三年度の交付税の総額から減額する金額</Sentence>
+                <Sentence>地方交付税法附則第四条の二第四項の規定により令和三年度分の交付税の総額から減額する金額</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>二千三百五十四億八千四百四十万円</Sentence>
+                <Sentence>三千四億四千二百四十八万二千円</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -7278,10 +7284,10 @@
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence>地方交付税法附則第四条の二第四項の規定により平成三十四年度から平成三十八年度までの各年度分の交付税の総額から減額する金額</Sentence>
+                <Sentence>地方交付税法附則第四条の二第四項の規定により令和四年度から令和八年度までの各年度分の交付税の総額から減額する金額</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>千八百十一億千九百万円</Sentence>
+                <Sentence>二千四百六十億七千七百八万二千円</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -7289,10 +7295,10 @@
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence>地方交付税法附則第四条の二第四項の規定により平成三十九年度から平成四十二年度までの各年度分の交付税の総額から減額する金額</Sentence>
+                <Sentence>地方交付税法附則第四条の二第四項の規定により令和九年度から令和十二年度までの各年度分の交付税の総額から減額する金額</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>九百八十三億八千二百五十万円</Sentence>
+                <Sentence>千六百三十三億四千五十八万二千円</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -7316,7 +7322,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>平成三十一年度においては、地方公共団体金融機構法（平成十九年法律第六十四号）附則第十四条の規定に基づき公庫債権金利変動準備金の一部を財政投融資特別会計の投資勘定に帰属させるものとし、当該帰属させた額を、予算で定めるところにより、財政投融資特別会計の投資勘定から交付税特別会計に繰り入れるものとする。</Sentence>
+            <Sentence>令和二年度から令和六年度までの各年度においては、地方公共団体金融機構法（平成十九年法律第六十四号）附則第十四条の規定に基づき公庫債権金利変動準備金の一部を財政投融資特別会計の投資勘定に帰属させるものとし、各年度における森林環境譲与税譲与金を支弁し、又は地方税法等の一部を改正する法律（令和二年法律第五号）附則第三十二条の規定による改正前の附則第四条第二項の規定による借入金の償還金及び利子の支払に充てるため、当該帰属させた額を、予算で定めるところにより、財政投融資特別会計の投資勘定から交付税特別会計に繰り入れるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -7326,7 +7332,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>第二十三条の規定によるほか、附則第四条第一項から第四項までの規定による借入金又は同条第六項、附則第五条若しくは前条第一項若しくは第二項の規定による一般会計からの繰入金はそれぞれその借入れをした年度又はその繰入れをした年度における交付税特別会計の歳入とし、地方特例交付金等の地方財政の特別措置に関する法律による地方特例交付金、道路交通法附則第十六条第一項の規定による交通安全対策特別交付金、同法第百二十九条第四項の規定による返還金、同法第百二十七条第一項後段に規定する通告書の送付に要する費用に相当する額として都道府県に支出する支出金、過誤納に係る反則金等の返還金又は附則第四条第一項から第四項までの規定による借入金の償還金及び利子はその支出をした年度における交付税特別会計の歳出とする。</Sentence>
+            <Sentence>第二十三条の規定によるほか、附則第四条第一項の規定による借入金又は同条第三項、附則第五条若しくは前条第一項若しくは第二項の規定による一般会計からの繰入金はそれぞれその借入れをした年度又はその繰入れをした年度における交付税特別会計の歳入とし、地方特例交付金等の地方財政の特別措置に関する法律による地方特例交付金、道路交通法附則第十六条第一項の規定による交通安全対策特別交付金、同法第百二十九条第四項の規定による返還金、同法第百二十七条第一項後段に規定する通告書の送付に要する費用に相当する額として都道府県に支出する支出金、過誤納に係る反則金等の返還金又は附則第四条第一項の規定による借入金の償還金及び利子はその支出をした年度における交付税特別会計の歳出とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -7352,17 +7358,26 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>郵政民営化法（平成十七年法律第九十七号）第三十八条第五項の規定により政府に無償譲渡された日本郵政株式会社の株式の総数の三分の二に当たる株式は、国債の償還に充てるべき資金の充実に資するため、一般会計から無償で国債整理基金特別会計に所属替をするものとする。</Sentence>
+            <Sentence>郵政民営化法（平成十七年法律第九十七号）第三十八条第五項の規定により政府に無償譲渡された日本郵政株式会社（次条において「会社」という。）の株式の総数の三分の二に当たる株式は、国債の償還に充てるべき資金の充実に資するため、一般会計から無償で国債整理基金特別会計に所属替をするものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="12_3">
-        <ArticleCaption>（財政投融資特別会計の繰入れ並びに歳入及び歳出の特例）</ArticleCaption>
         <ArticleTitle>第十二条の三</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>附則第十条第三項に規定するもののほか、平成三十年度から平成三十五年度までの間においては、地方公共団体金融機構法附則第十四条の規定に基づき公庫債権金利変動準備金の一部を財政投融資特別会計の投資勘定に帰属させるものとし、民間資金等の活用による公共施設等の整備等の促進に関する法律（平成十一年法律第百十七号）附則第四条第一項に規定する繰上償還を行おうとする旨の申出がなかったとした場合に同会計の財政融資資金勘定において生じていたと見込まれる運用利殖金に相当する額を補塡するため、当該帰属させた額を、予算で定めるところにより、同会計の投資勘定から財政融資資金勘定に繰り入れることができる。</Sentence>
+            <Sentence>一般会計に所属する会社の株式のうち、会社の発行済株式の総数の三分の一を超えて保有するために必要な数を上回る数に相当する数の株式は、国債の償還に充てるべき資金の充実に資するため、一般会計から無償で国債整理基金特別会計に所属替をするものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12_4">
+        <ArticleCaption>（財政投融資特別会計の繰入れ並びに歳入及び歳出の特例）</ArticleCaption>
+        <ArticleTitle>第十二条の四</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第十条第三項に規定するもののほか、平成三十年度から令和五年度までの間においては、地方公共団体金融機構法附則第十四条の規定に基づき公庫債権金利変動準備金の一部を財政投融資特別会計の投資勘定に帰属させるものとし、民間資金等の活用による公共施設等の整備等の促進に関する法律（平成十一年法律第百十七号）附則第四条第一項に規定する繰上償還を行おうとする旨の申出がなかったとした場合に同会計の財政融資資金勘定において生じていたと見込まれる運用利殖金に相当する額を補塡するため、当該帰属させた額を、予算で定めるところにより、同会計の投資勘定から財政融資資金勘定に繰り入れることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -7430,7 +7445,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>独立行政法人高齢・障害・求職者雇用支援機構法附則第五条第四項又は第七項の規定による国庫への納付が行われる会計年度における第九十九条第二項第一号リの規定の適用については、同号リ中「第十七条第二項及び」とあるのは、「第十七条第二項並びに同法附則第五条第四項及び第七項並びに」とする。</Sentence>
+            <Sentence>独立行政法人高齢・障害・求職者雇用支援機構法附則第五条第四項又は第七項の規定による国庫への納付が行われる会計年度における第九十九条第二項第一号ルの規定の適用については、同号ル中「第十七条第二項及び」とあるのは、「第十七条第二項並びに同法附則第五条第四項及び第七項並びに」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -7440,7 +7455,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>平成二十九年度から平成三十一年度までの各年度における第百二条第二項の規定の適用については、同項中「第十二条第四項」とあるのは「附則第十一条第一項の規定により読み替えて適用する徴収法第十二条第四項」と、「同条第五項又は第八項」とあるのは「徴収法附則第十一条第二項の規定により読み替えて適用する徴収法第十二条第五項又は徴収法第十二条第八項」とする。</Sentence>
+            <Sentence>平成二十九年度から令和三年度までの各年度における第百二条第二項の規定の適用については、同項中「第十二条第四項」とあるのは「附則第十一条第一項の規定により読み替えて適用する徴収法第十二条第四項」と、「同条第五項又は第八項」とあるのは「徴収法附則第十一条第二項の規定により読み替えて適用する徴収法第十二条第五項又は徴収法第十二条第八項」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -7479,7 +7494,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>平成二十九年度から平成三十一年度までの各年度における第百五条の規定の適用については、同条中「第六十六条及び第六十七条」とあるのは、「附則第十四条第一項及び同条第三項の規定により読み替えて適用する同法第六十六条第六項」とする。</Sentence>
+            <Sentence>平成二十九年度から令和三年度までの各年度における第百五条の規定の適用については、同条中「第六十六条及び第六十七条」とあるのは、「附則第十四条第一項及び同条第三項の規定により読み替えて適用する同法第六十六条第六項」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -18491,10 +18506,10 @@
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence>附則第三条、第四条及び第二十五条の規定</Sentence>
+                <Sentence Num="1">附則第三条、第四条及び第二十五条の規定</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>公布の日（次号において「公布日」という。）</Sentence>
+                <Sentence Num="1">公布の日（次号において「公布日」という。）</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -18790,6 +18805,133 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律は、平成三十二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年二月五日法律第一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="33">
+        <ArticleCaption>（特別会計に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前条の規定による改正前の特別会計に関する法律（次項において「旧特別会計法」という。）に基づく交付税及び譲与税配付金特別会計の令和元年度の収入及び支出並びに同年度以前の年度の決算に関しては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>旧特別会計法附則第四条第二項の規定による借入金の同条第五項に規定する償還期限については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（特別会計に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第二条の規定による改正後の特別会計に関する法律の規定は、令和二年度の予算から適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:3">
+            <ItemTitle>一～三</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中雇用保険法第六十二条第一項第三号及び第六十六条第三項第一号イの改正規定並びに同条第四項の改正規定（「前項第三号」を「前項第四号」に改める部分を除く。）、第三条の規定、第四条中労働保険の保険料の徴収等に関する法律第十二条第一項第一号及び第九項の改正規定、同項を同条第十項とし、同条第八項の次に一項を加える改正規定並びに同条に一項を加える改正規定並びに同法附則第十一条第二項の改正規定、第五条の規定並びに第六条中特別会計に関する法律第百二条第二項の改正規定及び同法附則第十九条の二の改正規定（「令和元年度」を「令和三年度」に改める部分を除く。）並びに附則第九条第二項及び第十一条第一項の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和三年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（特別会計に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第六条の規定（附則第一条第四号に掲げる改正規定を除く。）による改正後の特別会計に関する法律の規定は、令和二年度の予算から適用し、令和元年度の収入及び支出並びに同年度以前の年度の決算に関しては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第三条中福島復興再生特別措置法第四十八条の二第一項の改正規定、同法第四十八条の三第七項の改正規定、同法第四十八条の五第三項の改正規定、同法第四十八条の六第一項の改正規定、同法第四十八条の八（見出しを含む。）の改正規定、同法第四十八条の十第三項の改正規定、同法第四十八条の十二の改正規定、同法第五十条の改正規定、同法第五十三条の改正規定、同法第五十九条の次に一条を加える改正規定、同法第七十六条の見出しを削り、同条の前に見出しを付する改正規定、同条の改正規定、同条の次に一条を加える改正規定、同法第八十条の改正規定、同法第八十八条の次に一条を加える改正規定並びに同法第六章中第八十九条の次に節名及び十二条を加える改正規定（十二条を加える部分に限る。）、第四条中東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法第七十二条第三項に一号を加える改正規定、第五条中特別会計に関する法律附則第十二条の二の見出しを削り、同条の前に見出しを付する改正規定、同条の改正規定、同法附則第十二条の三を同法附則第十二条の四とする改正規定及び同法附則第十二条の二の次に一条を加える改正規定並びに附則第九条、第十条、第十八条、第十九条及び第二十五条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

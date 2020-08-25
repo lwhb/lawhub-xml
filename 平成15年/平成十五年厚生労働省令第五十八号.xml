@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200221e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="58" Year="15">
+<Law DataInfo="200515e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="58" Year="15">
   <LawNum>平成十五年厚生労働省令第五十八号</LawNum>
   <LawBody>
     <LawTitle>厚生労働省関係構造改革特別区域法施行規則</LawTitle>
@@ -46,13 +46,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法第三十条第一項の規定による認可を受けようとする選定事業者である法人（法第三十条第一項に規定する選定事業者である法人をいう。）は、老人福祉法施行規則（昭和三十八年厚生省令第二十八号）第二条第一項各号（第四号を除く。）に掲げる事項及び資産の状況を記載した申請書を施設を設置しようとする地の都道府県知事（地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市（以下この項において「指定都市」という。）及び同法第二百五十二条の二十二第一項の中核市（以下この項において「中核市」という。）においては、当該指定都市又は中核市の長。次項において同じ。）に提出しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法第三十条第一項の規定による認可を受けようとする選定事業者である法人（法第三十条第一項に規定する選定事業者である法人をいう。）は、老人福祉法施行規則（昭和三十八年厚生省令第二十八号）第二条第一項各号（第三号を除く。）に掲げる事項及び資産の状況を記載した申請書を施設を設置しようとする地の都道府県知事（地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市（以下この項において「指定都市」という。）及び同法第二百五十二条の二十二第一項の中核市（以下この項において「中核市」という。）においては、当該指定都市又は中核市の長。次項において同じ。）に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の申請書には、老人福祉法施行規則第三条第二項各号に掲げる書類及び法第三十条第二項各号に掲げる基準によって当該申請を審査するために都道府県知事が必要と認める書類を添えなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の申請書には、申請者の登記事項証明書及び法第三十条第二項各号に掲げる基準によって当該申請を審査するために都道府県知事が必要と認める書類を添えなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -268,12 +268,25 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日厚生労働省令第六四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和二年七月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle Num="0">
       <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
       <RelatedArticleNum>（第三条第二項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027865.pdf"/>
+          <Fig src="./pict/_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

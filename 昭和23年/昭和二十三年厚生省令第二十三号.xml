@@ -96,6 +96,70 @@
             </Item>
           </Paragraph>
         </Article>
+        <Article Num="2_2">
+          <ArticleTitle>第二条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">法第八条第一項の規定による届出をしようとする者は、次に掲げる事項（指定成分等含有食品が、人の健康に被害を生じさせるおそれがある場合の届出にあつては、第四号から第七号までを除く。）を記載した届出書を都道府県知事、保健所を設置する市の市長又は特別区の区長（以下「都道府県知事等」という。）に提出することによつて行うものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、健康被害を受けた者がその情報の提供を拒否していることその他の事情により、当該者の情報を得ることが困難なときは、第四号から第七号までに掲げる事項の記載を要しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">指定成分等含有食品が人の健康に被害を生じ、又は生じさせるおそれがある旨の情報を得た日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">指定成分等含有食品の製品名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">指定成分等の含有量</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">健康被害を受けた者の性別、年齢、指定成分等含有食品の摂取状況及び健康被害に係る症状</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">健康被害を受けた者が医療機関を受診している場合は、当該医療機関の名称及び所在地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号の医療機関における診断結果</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">指定成分等含有食品の摂取時に使用していた医薬品等がある場合は、当該医薬品等の名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>○２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第八条第一項の届出は、指定成分等含有食品の表示内容に責任を有する者を通じて行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="3">
           <ArticleTitle>第三条</ArticleTitle>
           <Paragraph Num="1">
@@ -3174,7 +3238,7 @@
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">法第五十八条第三項の規定により都道府県知事、保健所を設置する市の市長又は特別区の区長（以下この条及び次条において「都道府県知事等」という。）が厚生労働大臣に直ちに報告を行つた食中毒事件</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第五十八条第三項の規定により都道府県知事等が厚生労働大臣に直ちに報告を行つた食中毒事件</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">様式第十四号による食中毒事件票及び食中毒事件詳報</Sentence>
@@ -6159,6 +6223,16 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二七日厚生労働省令第五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、食品衛生法等の一部を改正する法律（平成三十年法律第四十六号）の施行の日（令和二年六月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

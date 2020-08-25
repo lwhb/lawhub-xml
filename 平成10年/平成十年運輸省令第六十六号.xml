@@ -297,10 +297,10 @@
 </Ruby>引自動車を除く。）に備えるものを除く。）</Sentence>
             </ItemSentence>
           </Item>
-          <Item Num="6">
+          <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence>法第四十一条第一項第六号の燃料装置のうち自動車との側面衝突時の燃料タンク及び燃料タンク取付装置、同号の電気装置のうち自動車との側面衝突時の感電防止装置並びに同項第七号の車枠及び車体のうち自動車との側面衝突時の乗員保護装置（電力により作動する原動機を有する自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被牽けん引自動車を除く。）に備えるものに限る。）</Sentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第六号の燃料装置のうち自動車との側面衝突時の燃料タンク及び燃料タンク取付装置、同号の電気装置のうち自動車との側面衝突時の感電防止装置並びに同項第七号の車枠及び車体のうち自動車との側面衝突時の乗員保護装置（電力により作動する原動機を有する自動車（二輪自動車、側車付二輪自動車、三輪自動車、大型特殊自動車及び被牽けん引自動車を除く。）に備えるものに限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="6_2">
@@ -1343,7 +1343,7 @@
                   <Sentence WritingMode="vertical">十三の二　第二条第十二号の二の座席</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第八十号第三改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第八十号第四改訂版</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -1415,13 +1415,20 @@
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">十五の四　第二条第十九号の前照灯</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence WritingMode="vertical">第九十八号第二改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百十二号第二改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百十三号第三改訂版</Sentence>
                   <Sentence WritingMode="vertical">第百四十九号</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">十五の五　第二条第十九号の二の前照灯</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">第百二十三号第二改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百四十九号</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -1441,7 +1448,8 @@
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">十八　第二条第二十二号の前部霧灯</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence WritingMode="vertical">第十九号第五改訂版</Sentence>
                   <Sentence WritingMode="vertical">第百四十九号</Sentence>
                 </TableColumn>
               </TableRow>
@@ -1449,12 +1457,18 @@
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">十八の二　第二条第二十二号の二の側方照射灯</Sentence>
                 </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">第百十九号第二改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百四十九号</Sentence>
+                </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">十九　第二条第二十三号の車幅灯</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="13">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="3">
+                  <Sentence WritingMode="vertical">第七号第三改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第五十号改訂版</Sentence>
                   <Sentence WritingMode="vertical">第百四十八号</Sentence>
                 </TableColumn>
               </TableRow>
@@ -1472,6 +1486,10 @@
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">二十二　第二条第二十六号の補助制動灯</Sentence>
                 </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
+                  <Sentence WritingMode="vertical">第七号第三改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百四十八号</Sentence>
+                </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
@@ -1487,30 +1505,55 @@
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">二十四の二　第二条第二十八号の二の昼間走行灯</Sentence>
                 </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">第八十七号改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百四十八号</Sentence>
+                </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">二十五　第二条第二十九号の側方灯</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">第九十一号改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百四十八号</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">二十五の二　第二条第二十九号の二の番号灯</Sentence>
                 </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">第四号改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第五十号改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百四十八号</Sentence>
+                </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">二十六　第二条第三十号の後部霧灯</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">第三十八号改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百四十八号</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">二十七　第二条第三十一号の駐車灯</Sentence>
                 </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">第七十七号改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百四十八号</Sentence>
+                </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">二十八　第二条第三十二号の後退灯</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <Sentence WritingMode="vertical">第二十三号改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百四十八号</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -1522,7 +1565,8 @@
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">二十九　第二条第三十三号の前部反射器</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="5">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="3">
+                  <Sentence WritingMode="vertical">第三号第三改訂版</Sentence>
                   <Sentence WritingMode="vertical">第百五十号</Sentence>
                 </TableColumn>
               </TableRow>
@@ -1540,10 +1584,18 @@
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">三十一の二　第二条第三十六号の大型後部反射器</Sentence>
                 </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">第七十号第二改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百五十号</Sentence>
+                </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">三十一の三　第二条第三十六号の二の再帰反射材</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">第百四号改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第百五十号</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -1564,6 +1616,7 @@
                   <Sentence WritingMode="vertical">三十四　第二条第四十号の停止表示器材</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence WritingMode="vertical">第二十七号第五改訂版</Sentence>
                   <Sentence WritingMode="vertical">第百五十号</Sentence>
                 </TableColumn>
               </TableRow>
@@ -1613,6 +1666,8 @@
                   <Sentence WritingMode="vertical">三十五　第二条第四十一号の方向指示器</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence WritingMode="vertical">第六号第二改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第五十号改訂版</Sentence>
                   <Sentence WritingMode="vertical">第百四十八号</Sentence>
                 </TableColumn>
               </TableRow>
@@ -3039,12 +3094,35 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月二九日国土交通省令第五三号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、令和二年五月二十九日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（装置型式指定規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一条の規定による改正前の装置型式指定規則第五条の表第十三号の二下欄に掲げる規則に基づき行われた認定（令和三年八月三十一日以前に行われたものに限る。）は、令和四年八月三十一日までは、この省令による改正後の装置型式指定規則第五条の表第十三号の二下欄に掲げる規則に基づき行われた認定とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第一号様式　（装置型式指定申請書）</AppdxStyleTitle>
       <RelatedArticleNum>（第四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2005281005_001.pdf"/>
+          <Fig src="./pict/H10F03901000066_2008191708_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3053,7 +3131,7 @@
       <RelatedArticleNum>（第四条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2005281005_002.pdf"/>
+          <Fig src="./pict/H10F03901000066_2008191708_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3062,7 +3140,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2005281005_003.jpg"/>
+          <Fig src="./pict/H10F03901000066_2008191708_003.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3071,7 +3149,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2005281005_004.pdf"/>
+          <Fig src="./pict/H10F03901000066_2008191708_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3080,7 +3158,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2005281005_005.jpg"/>
+          <Fig src="./pict/H10F03901000066_2008191708_005.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3089,7 +3167,7 @@
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2005281005_006.pdf"/>
+          <Fig src="./pict/H10F03901000066_2008191708_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3097,7 +3175,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号様式　（証票）（第十四条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2005281005_007.pdf"/>
+          <Fig src="./pict/H10F03901000066_2008191708_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

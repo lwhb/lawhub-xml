@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="33" Year="33">
+<Law DataInfo="200605e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="33" Year="33">
   <LawNum>昭和三十三年政令第三十三号</LawNum>
   <LawBody>
     <LawTitle>銃砲刀剣類所持等取締法施行令</LawTitle>
@@ -504,7 +504,7 @@
           <Item Num="11">
             <ItemTitle>十一</ItemTitle>
             <ItemSentence>
-              <Sentence>金融商品取引法（昭和二十三年法律第二十五号）第百九十七条第一項第五号（同法第百五十八条に係る部分に限る。）、第百九十七条の三又は第百九十八条の三（同法第三十八条の二第一号（同法第六十六条の十五において準用する場合を含む。）に係る部分に限る。）に規定する罪</Sentence>
+              <Sentence>金融商品取引法（昭和二十三年法律第二十五号）第百九十七条第一項第五号（同法第百五十八条に係る部分に限る。）若しくは第六号（同法第百八十五条の二十三第一項に係る部分に限る。）、第百九十七条の二第十三号（同法第百五十八条に係る部分に限る。）、第百九十七条の三又は第百九十八条の三（同法第三十八条の二第一号（同法第六十六条の十五において準用する場合を含む。）に係る部分に限る。）に規定する罪</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="12">
@@ -885,10 +885,10 @@
                   <Sentence>猟銃の操作</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence Num="1">一　猟銃の保持その他猟銃の基本的な取扱い</Sentence>
-                  <Sentence Num="2">二　猟銃の点検</Sentence>
-                  <Sentence Num="3">三　実包の装てん及び抜出しその他実包の取扱い</Sentence>
-                  <Sentence Num="4">四　射撃の姿勢及び動作</Sentence>
+                  <Sentence>一　猟銃の保持その他猟銃の基本的な取扱い</Sentence>
+                  <Sentence>二　猟銃の点検</Sentence>
+                  <Sentence>三　実包の装てん及び抜出しその他実包の取扱い</Sentence>
+                  <Sentence>四　射撃の姿勢及び動作</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -896,8 +896,8 @@
                   <Sentence>猟銃の射撃</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence Num="1">一　散弾銃による場合にあつては、飛しようする標的に対する射撃</Sentence>
-                  <Sentence Num="2">二　ライフル銃による場合にあつては、固定されている標的に対する射撃</Sentence>
+                  <Sentence>一　散弾銃による場合にあつては、飛しようする標的に対する射撃</Sentence>
+                  <Sentence>二　ライフル銃による場合にあつては、固定されている標的に対する射撃</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -945,10 +945,10 @@
                   <Sentence>猟銃の操作</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence Num="1">一　猟銃の保持その他猟銃の基本的な取扱い</Sentence>
-                  <Sentence Num="2">二　猟銃の点検</Sentence>
-                  <Sentence Num="3">三　実包の装てん及び抜出しその他実包の取扱い</Sentence>
-                  <Sentence Num="4">四　射撃の姿勢及び動作</Sentence>
+                  <Sentence>一　猟銃の保持その他猟銃の基本的な取扱い</Sentence>
+                  <Sentence>二　猟銃の点検</Sentence>
+                  <Sentence>三　実包の装てん及び抜出しその他実包の取扱い</Sentence>
+                  <Sentence>四　射撃の姿勢及び動作</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -956,8 +956,8 @@
                   <Sentence>猟銃の射撃</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence Num="1">一　散弾銃による場合にあつては、飛しようする標的に対する射撃</Sentence>
-                  <Sentence Num="2">二　散弾銃以外の猟銃による場合にあつては、固定されている標的に対する射撃</Sentence>
+                  <Sentence>一　散弾銃による場合にあつては、飛しようする標的に対する射撃</Sentence>
+                  <Sentence>二　散弾銃以外の猟銃による場合にあつては、固定されている標的に対する射撃</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -1459,9 +1459,9 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence Num="1">一　法第四条第一項第一号若しくは第二号に規定する銃砲又は同項第六号に規定する刀剣類</Sentence>
-                  <Sentence Num="2">二　法第十四条に規定する美術品若しくは骨とう品として価値のある火縄式銃砲等の古式銃砲又は美術品として価値のある刀剣類</Sentence>
-                  <Sentence Num="3">三　法第二十二条に規定する刃物</Sentence>
+                  <Sentence>一　法第四条第一項第一号若しくは第二号に規定する銃砲又は同項第六号に規定する刀剣類</Sentence>
+                  <Sentence>二　法第十四条に規定する美術品若しくは骨とう品として価値のある火縄式銃砲等の古式銃砲又は美術品として価値のある刀剣類</Sentence>
+                  <Sentence>三　法第二十二条に規定する刃物</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>都道府県</Sentence>
@@ -2373,6 +2373,39 @@
           <Sentence Function="proviso" Num="2">ただし、第三条の規定（銃砲刀剣類所持等取締法施行令第四条第一項第一号の改正規定、同令第五条第一号の改正規定（「国民体育大会」を「国民スポーツ大会」に改める部分に限る。）、同令第十一条第一項の改正規定、同令第十三条第一項の改正規定及び同令第二十八条第一項第一号の改正規定（「国民体育大会」を「国民スポーツ大会」に改める部分に限る。）を除く。）及び第四条の規定（文部科学省組織令第八十八条第二号の改正規定を除く。）は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日政令第一四二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（銃砲刀剣類所持等取締法施行令の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令の施行の時において第六条の規定による改正後の銃砲刀剣類所持等取締法施行令第十二条第二項（第十一号（新金融商品取引法第百九十七条の二第十三号（新金融商品取引法第百五十八条に係る部分に限る。）に係る部分に限る。）に係る部分に限る。）の規定により銃砲刀剣類所持等取締法（昭和三十三年法律第六号）第五条の二第二項第三号に掲げる者に該当することとなる者に対する同法第十一条第一項（第四号に係る部分に限る。）の規定による許可の取消し又は同法第十一条の三第一項（第三号に係る部分に限る。）の規定による年少射撃資格の認定の取消しについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

@@ -14,7 +14,7 @@
         <ArticleRange>（第四条―第十二条の七）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="3">
-        <ChapterTitle>第三章　家畜伝染病のまん延の防止</ChapterTitle>
+        <ChapterTitle>第三章　家畜の伝染性疾病のまん延の防止</ChapterTitle>
         <ArticleRange>（第十三条―第三十五条の二）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="4">
@@ -31,7 +31,7 @@
       </TOCChapter>
       <TOCChapter Num="7">
         <ChapterTitle>第七章　罰則</ChapterTitle>
-        <ArticleRange>（第六十三条―第六十九条）</ArticleRange>
+        <ArticleRange>（第六十三条―第七十二条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -111,7 +111,8 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>六　水胞性口炎</Sentence>
+                    <Sentence>六　水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>性口内炎</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>牛、馬、豚</Sentence>
@@ -145,7 +146,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>十　ブルセラ病</Sentence>
+                    <Sentence>十　ブルセラ症</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>牛、めん羊、山羊、豚</Sentence>
@@ -153,7 +154,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>十一　結核病</Sentence>
+                    <Sentence>十一　結核</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>牛、山羊</Sentence>
@@ -169,7 +170,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>十三　ピロプラズマ病（農林水産省令で定める病原体によるものに限る。以下同じ。）</Sentence>
+                    <Sentence>十三　ピロプラズマ症（農林水産省令で定める病原体によるものに限る。以下同じ。）</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>牛、馬</Sentence>
@@ -177,7 +178,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>十四　アナプラズマ病（農林水産省令で定める病原体によるものに限る。以下同じ。）</Sentence>
+                    <Sentence>十四　アナプラズマ症（農林水産省令で定める病原体によるものに限る。以下同じ。）</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>牛</Sentence>
@@ -244,7 +245,8 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>二十二　豚水胞病</Sentence>
+                    <Sentence>二十二　豚水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>病</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>豚</Sentence>
@@ -276,7 +278,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>二十六　ニユーカツスル病（病原性が高いものとして農林水産省令で定めるものに限る。以下同じ。）</Sentence>
+                    <Sentence>二十六　ニューカッスル病（病原性が高いものとして農林水産省令で定めるものに限る。以下同じ。）</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>鶏、あひる、うずら</Sentence>
@@ -284,7 +286,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn>
-                    <Sentence>二十七　家きんサルモネラ感染症（農林水産省令で定める病原体によるものに限る。以下同じ。）</Sentence>
+                    <Sentence>二十七　家きんサルモネラ症（農林水産省令で定める病原体によるものに限る。以下同じ。）</Sentence>
                   </TableColumn>
                   <TableColumn>
                     <Sentence>鶏、あひる、うずら</Sentence>
@@ -381,19 +383,45 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>農林水産大臣は、家畜伝染病のうち、特に総合的に発生の予防及びまん延の防止のための措置を講ずる必要があるものとして農林水産省令で定めるものについて、家畜が患畜又は疑似患畜であるかどうかを判定するために必要な検査、当該家畜伝染病の発生を予防し、又はそのまん延を防止するために必要な消毒及び家畜等の移動の制限その他当該家畜伝染病に応じて必要となる措置を総合的に実施するための指針（以下この条において「特定家畜伝染病防疫指針」という。）を作成し、公表するものとする。</Sentence>
+              <Sentence>農林水産大臣は、家畜伝染病のうち、牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt>
+</Ruby>疫、豚熱、アフリカ豚熱、高病原性鳥インフルエンザ及び低病原性鳥インフルエンザその他特に総合的に発生の予防及びまん延の防止のための措置を講ずる必要があるものとして農林水産省令で定めるもの（以下この条において「特定家畜伝染病」という。）について、次に掲げる事項を内容とする指針（以下この条において「特定家畜伝染病防疫指針」という。）を作成し、公表するものとする。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>特定家畜伝染病の発生の予防及びまん延（当該特定家畜伝染病が牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt>
+</Ruby>疫、豚熱、アフリカ豚熱、高病原性鳥インフルエンザ又は低病原性鳥インフルエンザである場合にあつては、家畜以外の動物における当該伝染性疾病のまん延による当該伝染性疾病の病原体の拡散を含む。以下この条において同じ。）の防止のための措置に関する基本的な方針</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>家畜が患畜又は疑似患畜であるかどうかを判定するために必要な検査に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>消毒、家畜等の移動の制限その他特定家畜伝染病の発生を予防し、又はそのまん延を防止するために必要な措置に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>前三号に掲げるもののほか、特定家畜伝染病に応じて必要となる措置の総合的な実施に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>農林水産大臣は、前項に規定するもののほか、同項の農林水産省令で定める家畜伝染病のまん延を防止するため緊急の必要があるときは、家畜の種類並びに地域及び期間を指定し、当該家畜伝染病について、その発生の状況に応じて必要となる措置を緊急に実施するための指針（次項において「特定家畜伝染病緊急防疫指針」という。）を作成し、公表するものとする。</Sentence>
+              <Sentence>農林水産大臣は、前項に規定するもののほか、特定家畜伝染病のまん延を防止するため緊急の必要があるときは、家畜の種類並びに地域及び期間を指定し、当該特定家畜伝染病について、その発生の状況に応じて必要となる措置を緊急に実施するための指針（次項において「特定家畜伝染病緊急防疫指針」という。）を作成し、公表するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1">都道府県知事、家畜防疫員及び市町村長は、特定家畜伝染病防疫指針及び特定家畜伝染病緊急防疫指針に基づき、この法律の規定による家畜伝染病の発生の予防及びまん延の防止のための措置を講ずるものとする。</Sentence>
+              <Sentence Num="1">都道府県知事、家畜防疫員及び市町村長は、特定家畜伝染病防疫指針及び特定家畜伝染病緊急防疫指針に基づき、この法律の規定による特定家畜伝染病の発生の予防及びまん延の防止のための措置を講ずるものとする。</Sentence>
               <Sentence Num="2">この場合において、都道府県知事は、必要があると認めるときは、市町村長に対し、当該措置の実施に関し、協力を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -406,7 +434,7 @@
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>農林水産大臣は、二以上の都道府県の区域にわたり第一項の農林水産省令で定める家畜伝染病がまん延し、又はまん延するおそれがあるときは、都道府県知事に対し、第三項の措置の実施に関し、都道府県の区域を超えた広域的な見地からの助言その他の援助を行うものとする。</Sentence>
+              <Sentence>農林水産大臣は、二以上の都道府県の区域にわたり特定家畜伝染病がまん延し、又はまん延するおそれがあるときは、都道府県知事に対し、第三項の措置の実施に関し、都道府県の区域を超えた広域的な見地からの助言その他の援助を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
@@ -644,24 +672,24 @@
           </Paragraph>
         </Article>
         <Article Num="8_2">
-          <ArticleCaption>（消毒設備の設置等の義務）</ArticleCaption>
+          <ArticleCaption>（衛生管理区域における消毒設備の設置等の義務）</ArticleCaption>
           <ArticleTitle>第八条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>政令で定める家畜の所有者は、農林水産省令の定めるところにより、畜舎その他の農林水産省令で定める施設及びその敷地（農林水産省令で定める敷地を除く。）の出入口付近に、特定疾病又は監視伝染病の発生を予防するために必要な消毒をする設備を設置しなければならない。</Sentence>
+              <Sentence>政令で定める家畜の所有者は、農林水産省令の定めるところにより、衛生管理区域（畜舎その他の農林水産省令で定める施設及びその敷地（農林水産省令で定める敷地を除く。）をいう。以下同じ。）の出入口付近に、特定疾病又は監視伝染病の発生を予防するために必要な消毒をする設備を設置しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前項の設備が設置されている同項の施設に入る者は、農林水産省令の定めるところにより、あらかじめ、当該設備を利用して、自らその身体を消毒するとともに、当該施設に持ち込む物品であつて農林水産省令で定めるものを消毒しなければならない。</Sentence>
+              <Sentence>前項の設備が設置されている衛生管理区域に出入りする者は、農林水産省令の定めるところにより、あらかじめ、当該設備を利用して、その身体を消毒するとともに、当該衛生管理区域に持ち込み、又は当該衛生管理区域から持ち出す物品であつて農林水産省令で定めるものを消毒しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>第一項の設備が設置されている同項の施設の敷地に車両を入れる者は、農林水産省令の定めるところにより、あらかじめ、当該設備を利用して、当該車両を消毒しなければならない。</Sentence>
+              <Sentence>第一項の設備が設置されている衛生管理区域に車両を入れ、又は当該衛生管理区域から車両を出す者は、農林水産省令の定めるところにより、あらかじめ、当該設備を利用して、当該車両を消毒しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -681,7 +709,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>都道府県知事は、家畜以外の動物が第二条第一項の表の上欄に掲げる伝染性疾病にかかつていることが発見された場合において、当該伝染性疾病が当該動物から家畜に伝染するおそれが高いと認めるときは、家畜伝染病の発生を予防するため必要な限度において、当該動物がいた場所又はその死体があつた場所その他当該伝染性疾病の病原体により汚染し、又は汚染したおそれがある場所又は物品を当該都道府県の職員に消毒させることができる。</Sentence>
+              <Sentence>都道府県知事は、家畜以外の動物が第二条第一項の表の上欄に掲げる伝染性疾病にかかつていることが発見された場合（当該動物が牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt>
+</Ruby>疫、豚熱、アフリカ豚熱、高病原性鳥インフルエンザ又は低病原性鳥インフルエンザにかかつていることが発見された場合にあつては、当該動物がいた場所又はその死体があつた場所の周辺に衛生管理区域がある場合に限る。）において、同表の上欄に掲げる伝染性疾病が当該動物から家畜に伝染するおそれが高いと認めるときは、家畜伝染病の発生を予防するため必要な限度において、当該動物がいた場所又はその死体があつた場所その他当該伝染性疾病の病原体により汚染し、又は汚染したおそれがある場所又は物品を当該都道府県の職員に消毒させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -694,7 +723,7 @@
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence>都道府県知事又は市町村長は、家畜以外の動物が牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt>
-</Ruby>疫、豚熱、アフリカ豚熱、高病原性鳥インフルエンザ又は低病原性鳥インフルエンザにかかつていることが発見された場合において、当該伝染性疾病の病原体による家畜伝染病の発生を予防するため緊急の必要があるときは、政令で定める手続に従い、七十二時間を超えない範囲内において期間を定め、当該動物がいた場所又はその死体があつた場所（これに隣接して当該伝染性疾病の病原体により汚染し、又は汚染したおそれがある場所を含む。）とその他の場所との通行を制限し、又は遮断することができる。</Sentence>
+</Ruby>疫、豚熱、アフリカ豚熱、高病原性鳥インフルエンザ又は低病原性鳥インフルエンザにかかつていることが発見された場合（当該動物がいた場所又はその死体があつた場所の周辺に衛生管理区域がある場合に限る。）において、当該伝染性疾病の病原体による家畜伝染病の発生を予防するため緊急の必要があるときは、政令で定める手続に従い、七十二時間を超えない範囲内において期間を定め、当該動物がいた場所又はその死体があつた場所（これに隣接して当該伝染性疾病の病原体により汚染し、又は汚染したおそれがある場所を含む。）とその他の場所との通行を制限し、又は遮断することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -747,19 +776,90 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>飼養衛生管理基準が定められた家畜の所有者は、当該飼養衛生管理基準に定めるところにより、当該家畜の飼養に係る衛生管理を行わなければならない。</Sentence>
+              <Sentence>飼養衛生管理基準は、次に掲げる事項について定めるものとする。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該家畜の飼養に係る衛生管理の方法に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>衛生管理区域への家畜の伝染性疾病の病原体の侵入の防止の方法に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>衛生管理区域内における家畜の伝染性疾病の病原体による汚染の拡大の防止の方法に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>衛生管理区域外への家畜の伝染性疾病の病原体の拡散の防止の方法に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>前各号に掲げるもののほか、当該家畜の飼養に係る衛生管理の方法に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>農林水産大臣は、少なくとも五年ごとに飼養衛生管理基準に再検討を加え、必要があると認めるときは、これを改正するものとする。</Sentence>
+              <Sentence>飼養衛生管理基準が定められた家畜の所有者は、当該飼養衛生管理基準に定めるところにより、当該家畜の飼養に係る衛生管理を行わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
+              <Sentence>農林水産大臣は、少なくとも五年ごとに飼養衛生管理基準に再検討を加え、必要があると認めるときは、これを改正するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
               <Sentence>農林水産大臣は、飼養衛生管理基準を設定し、改正し、又は廃止しようとするときは、食料・農業・農村政策審議会の意見を聴くとともに、都道府県知事の意見を求めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_3_2">
+          <ArticleCaption>（飼養衛生管理者）</ArticleCaption>
+          <ArticleTitle>第十二条の三の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">飼養衛生管理基準が定められた家畜の所有者は、当該家畜の飼養に係る衛生管理を適正に行うため、農林水産省令で定めるところにより、衛生管理区域ごとに、次に掲げる業務を行う飼養衛生管理者を選任しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、当該家畜の所有者が自ら飼養衛生管理者となる衛生管理区域については、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>衛生管理区域において当該家畜の飼養を行う者その他当該衛生管理区域に出入りする者（以下この項において「従事者等」という。）を管理すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>従事者等に対して当該飼養衛生管理基準の周知を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>従事者等に対して当該家畜の飼養に係る衛生管理を適正に行うために必要な教育及び訓練を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の家畜の所有者は、飼養衛生管理者について、農林水産省令で定めるところにより、必要な研修を受けさせる等同項各号に掲げる業務を行うために必要な知識及び技術の習得及び向上を図るよう努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -785,23 +885,29 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>都道府県知事は、飼養衛生管理基準が定められた家畜の飼養に係る衛生管理が適正に行われることを確保するため必要があるときは、当該家畜の所有者に対し、当該飼養衛生管理基準に定めるところにより当該家畜の飼養に係る衛生管理が行われるよう必要な指導及び助言をすることができる。</Sentence>
+              <Sentence>都道府県知事は、飼養衛生管理基準が定められた家畜の飼養に係る衛生管理が適正に行われることを確保するため必要があるときは、改善すべき事項を記載した文書の提示その他の農林水産省令で定める方法により、当該家畜の所有者に対し、当該飼養衛生管理基準に定めるところにより当該家畜の飼養に係る衛生管理が行われるよう必要な指導及び助言をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="12_6">
-          <ArticleCaption>（勧告及び命令）</ArticleCaption>
+          <ArticleCaption>（勧告等）</ArticleCaption>
           <ArticleTitle>第十二条の六</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>都道府県知事は、前条の指導又は助言をした場合において、家畜の所有者がなお飼養衛生管理基準を遵守していないと認めるときは、その者に対し、期限を定めて、家畜の飼養に係る衛生管理の方法を改善すべきことを勧告することができる。</Sentence>
+              <Sentence>都道府県知事は、前条の指導又は助言をした場合において、家畜の所有者がなお飼養衛生管理基準を遵守していないと認めるときは、改善すべき事項を記載した文書の提示その他の農林水産省令で定める方法により、その者に対し、期限を定めて、家畜の飼養に係る衛生管理の方法を改善すべきことを勧告することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>都道府県知事は、前項の規定による勧告を受けた者がその勧告に従わないときは、その者に対し、期限を定めて、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+              <Sentence>都道府県知事は、前項の規定による勧告を受けた者がその勧告に従わないときは、改善すべき事項を記載した文書の提示その他の農林水産省令で定める方法により、その者に対し、期限を定めて、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>都道府県知事は、前項の規定による命令を受けた者が、正当な理由がなくてその命令に従わなかつたときは、その旨を公表することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -811,13 +917,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>農林水産大臣は、毎年、飼養衛生管理基準が定められた家畜の飼養に係る衛生管理の状況、前二条の規定により都道府県知事がとつた措置の実施状況及び家畜防疫員の確保の状況について都道府県ごとに整理し、これらをインターネットの利用その他の適切な方法により公表するものとする。</Sentence>
+              <Sentence>農林水産大臣は、飼養衛生管理基準が定められた家畜の飼養に係る衛生管理の状況、前二条の規定により都道府県知事がとつた措置の実施状況及び家畜防疫員の確保の状況を、農林水産省令で定めるところにより、インターネットの利用その他の適切な方法により公表するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
       </Chapter>
       <Chapter Num="3">
-        <ChapterTitle>第三章　家畜伝染病のまん延の防止</ChapterTitle>
+        <ChapterTitle>第三章　家畜の伝染性疾病のまん延の防止</ChapterTitle>
         <Article Num="13">
           <ArticleCaption>（患畜等の届出義務）</ArticleCaption>
           <ArticleTitle>第十三条</ArticleTitle>
@@ -982,18 +1088,22 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>流行性脳炎、狂犬病、水胞性口炎、リフトバレー熱、炭<Ruby>疽<Rt>そ</Rt>
-</Ruby>、出血性敗血症、ブルセラ病、結核病、ヨーネ病、ピロプラズマ病、アナプラズマ病、伝達性海綿状脳症、鼻<Ruby>疽<Rt>そ</Rt>
+                <Sentence>流行性脳炎、狂犬病、水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>性口内炎、リフトバレー熱、炭<Ruby>疽<Rt>そ</Rt>
+</Ruby>、出血性敗血症、ブルセラ症、結核、ヨーネ病、ピロプラズマ症、アナプラズマ症、伝達性海綿状脳症、鼻<Ruby>疽<Rt>そ</Rt>
 </Ruby>、馬伝染性貧血、アフリカ馬疫、小反<Ruby>芻<Rt>すう</Rt>
-</Ruby>獣疫、豚水胞病、家きんコレラ、ニユーカツスル病又は家きんサルモネラ感染症の患畜</Sentence>
+</Ruby>獣疫、豚水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>病、家きんコレラ、ニューカッスル病又は家きんサルモネラ症の患畜</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>牛肺疫、水胞性口炎、リフトバレー熱、出血性敗血症、伝達性海綿状脳症、鼻<Ruby>疽<Rt>そ</Rt>
+                <Sentence>牛肺疫、水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>性口内炎、リフトバレー熱、出血性敗血症、伝達性海綿状脳症、鼻<Ruby>疽<Rt>そ</Rt>
 </Ruby>、アフリカ馬疫、小反<Ruby>芻<Rt>すう</Rt>
-</Ruby>獣疫、豚水胞病、家きんコレラ又はニューカッスル病の疑似患畜</Sentence>
+</Ruby>獣疫、豚水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>病、家きんコレラ又はニューカッスル病の疑似患畜</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1010,22 +1120,23 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>農林水産大臣は、口<Ruby>蹄<Rt>てい</Rt>
-</Ruby>疫がまん延し、又はまん延するおそれがある場合において、この章（この条の規定に係る部分を除く。）の規定により講じられる措置のみによつてはそのまん延の防止が困難であり、かつ、その急速かつ広範囲なまん延を防止するため、口<Ruby>蹄<Rt>てい</Rt>
-</Ruby>疫の患畜及び疑似患畜（以下この項において「患畜等」という。）以外の家畜であつてもこれを殺すことがやむを得ないと認めるときは、患畜等以外の家畜を殺す必要がある地域を指定地域として、また、当該指定地域において殺す必要がある家畜（患畜等を除く。）を指定家畜として、それぞれ指定することができる。</Sentence>
+              <Sentence>農林水産大臣は、家畜において口<Ruby>蹄<Rt>てい</Rt>
+</Ruby>疫又はアフリカ豚熱がまん延し、又はまん延するおそれがある場合（家畜以外の動物が当該伝染性疾病にかかつていることが発見された場合であつて、当該動物から家畜に伝染することにより家畜において当該伝染性疾病がまん延するおそれがあるときを含む。）において、この章（この条の規定に係る部分を除く。）の規定により講じられる措置のみによつてはそのまん延の防止が困難であり、かつ、その急速かつ広範囲なまん延を防止するため、当該伝染性疾病の患畜及び疑似患畜（以下この項において「患畜等」という。）以外の家畜であつてもこれを殺すことがやむを得ないと認めるときは、患畜等以外の家畜を殺す必要がある地域を指定地域として、また、当該指定地域において殺す必要がある家畜（患畜等を除く。）を指定家畜として、それぞれ指定することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前項の指定地域（以下この条において「指定地域」という。）及び同項の指定家畜（以下「指定家畜」という。）の指定は、口<Ruby>蹄<Rt>てい</Rt>
-</Ruby>疫の急速かつ広範囲なまん延を防止するため必要な最小限度の範囲に限つてするものとする。</Sentence>
+              <Sentence Num="1">前項の指定地域（以下この条において「指定地域」という。）及び同項の指定家畜（以下「指定家畜」という。）の指定は、口<Ruby>蹄<Rt>てい</Rt>
+</Ruby>疫又はアフリカ豚熱の急速かつ広範囲なまん延を防止するため必要な最小限度の範囲に限つてするものとする。</Sentence>
+              <Sentence Num="2">この場合において、家畜以外の動物が当該伝染性疾病にかかつていることが発見された場合における指定地域及び指定家畜の指定の範囲は、当該動物がいた場所又はその死体があつた場所の周辺における当該動物の生息の状況、当該動物における当該伝染性疾病のまん延による当該伝染性疾病の病原体の拡散の状況、これらの場所の周辺における家畜の飼養に係る衛生管理の状況その他の事情を考慮して定めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>農林水産大臣は、指定地域及び指定家畜の指定をしようとするときは、当該指定地域を管轄する都道府県知事の意見を聴かなければならない。</Sentence>
+              <Sentence>農林水産大臣は、指定地域及び指定家畜の指定をしようとするときは、当該指定地域を管轄する都道府県知事（家畜以外の動物が口<Ruby>蹄<Rt>てい</Rt>
+</Ruby>疫又はアフリカ豚熱にかかつていることが発見された場合において指定地域及び指定家畜の指定をしようとするときは、当該都道府県知事及び食料・農業・農村政策審議会）の意見を聴かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -1108,16 +1219,18 @@
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Sentence>牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt>
-</Ruby>疫、狂犬病、水胞性口炎、リフトバレー熱、炭<Ruby>疽<Rt>そ</Rt>
+</Ruby>疫、狂犬病、水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>性口内炎、リフトバレー熱、炭<Ruby>疽<Rt>そ</Rt>
 </Ruby>、出血性敗血症、伝達性海綿状脳症、鼻<Ruby>疽<Rt>そ</Rt>
 </Ruby>、アフリカ馬疫、小反<Ruby>芻<Rt>すう</Rt>
-</Ruby>獣疫、豚熱、アフリカ豚熱、豚水胞病、家きんコレラ、高病原性鳥インフルエンザ、低病原性鳥インフルエンザ又はニユーカツスル病の患畜又は疑似患畜の死体</Sentence>
+</Ruby>獣疫、豚熱、アフリカ豚熱、豚水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>病、家きんコレラ、高病原性鳥インフルエンザ、低病原性鳥インフルエンザ又はニューカッスル病の患畜又は疑似患畜の死体</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>流行性脳炎、ブルセラ病、結核病、ヨーネ病、馬伝染性貧血又は家きんサルモネラ感染症の患畜又は疑似患畜の死体（と畜場において殺したものを除く。）</Sentence>
+                <Sentence>流行性脳炎、ブルセラ症、結核、ヨーネ病、馬伝染性貧血又は家きんサルモネラ症の患畜又は疑似患畜の死体（と畜場において殺したものを除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -1181,13 +1294,13 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">家畜伝染病の病原体により汚染し、又は汚染したおそれがある物品の所有者（当該物品が鉄道、軌道、自動車、船舶又は航空機により運送中のものである場合には、当該物品の所有者又は運送業者。以下この条において同じ。）は、家畜防疫員が農林水産省令で定める基準に基づいてする指示に従い、遅滞なく、当該物品を焼却し、埋却し、又は消毒しなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、家きんサルモネラ感染症の病原体により汚染し、又は汚染したおそれがある物品その他農林水産省令で定める物品は、指示を待たないで焼却し、埋却し、又は消毒することを妨げない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、家きんサルモネラ症の病原体により汚染し、又は汚染したおそれがある物品その他農林水産省令で定める物品は、指示を待たないで焼却し、埋却し、又は消毒することを妨げない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前項の物品（同項ただし書の物品を除く。）の所有者は、同項の指示があるまでは、当該物品を焼却し、埋却し、又は消毒してはならず、また、家畜防疫員の許可を受けなければ、これを他の場所に移し、使用し、又は洗じようしてはならない。</Sentence>
+              <Sentence>前項の物品（同項ただし書の物品を除く。）の所有者は、同項の指示があるまでは、当該物品を焼却し、埋却し、又は消毒してはならず、また、家畜防疫員の許可を受けなければ、これを他の場所に移し、使用し、又は洗浄してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -1220,26 +1333,26 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">患畜若しくは疑似患畜又はこれらの死体の所在した畜舎、船舶、車両その他これに準ずる施設（以下「要消毒畜舎等」という。）は、家畜防疫員が農林水産省令で定める基準に基づいてする指示に従い、その所有者が消毒しなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、家きんサルモネラ感染症の患畜若しくは疑似患畜又はこれらの死体の所在した施設その他農林水産省令で定める施設は、指示を待たないで、消毒することを妨げない。</Sentence>
+              <Sentence Function="main" Num="1">要消毒畜舎等（患畜若しくは疑似患畜又はこれらの死体の所在した畜舎、船舶、車両その他これに準ずる施設及びその敷地（農林水産省令で定める敷地を除く。）をいう。以下同じ。）は、家畜防疫員が農林水産省令で定める基準に基づいてする指示に従い、その所有者が消毒しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、要消毒畜舎等のうち、家きんサルモネラ症に係るものその他農林水産省令で定めるものは、指示を待たないで、消毒することを妨げない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>要消毒畜舎等の所有者は、前項ただし書の場合を除き、家畜防疫員の指示があるまでは、当該要消毒畜舎等を消毒してはならない。</Sentence>
+              <Sentence>要消毒畜舎等（前項ただし書に規定するものを除く。）の所有者は、家畜防疫員の指示があるまでは、当該要消毒畜舎等を消毒してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>家畜防疫員は、家畜伝染病のまん延を防止するため必要があるときは、要消毒畜舎等（第一項ただし書の施設を除く。）について、同項の指示に代えて、自らこれを消毒することができる。</Sentence>
+              <Sentence>家畜防疫員は、家畜伝染病のまん延を防止するため必要があるときは、要消毒畜舎等（第一項ただし書に規定するものを除く。）について、同項の指示に代えて、自らこれを消毒することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>要消毒畜舎等の所有者は、第一項の規定による消毒が終了するまでの間、農林水産省令の定めるところにより、当該要消毒畜舎等及びその敷地（農林水産省令で定める敷地を除く。）の出入口付近に、家畜伝染病のまん延を防止するために必要な消毒をする設備を設置しなければならない。</Sentence>
+              <Sentence>要消毒畜舎等の所有者は、第一項の規定による消毒が終了するまでの間、農林水産省令の定めるところにより、当該要消毒畜舎等の出入口付近に、家畜伝染病のまん延を防止するために必要な消毒をする設備を設置しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -1251,7 +1364,30 @@
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>第四項の設備が設置されている要消毒畜舎等の敷地から車両を出す者は、農林水産省令の定めるところにより、あらかじめ、当該設備を利用して、当該車両を消毒しなければならない。</Sentence>
+              <Sentence>第四項の設備が設置されている要消毒畜舎等に車両を入れ、又は当該要消毒畜舎等から車両を出す者は、農林水産省令の定めるところにより、あらかじめ、当該設備を利用して、当該車両を消毒しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25_2">
+          <ArticleCaption>（伝染性疾病の病原体により汚染された衛生管理区域周辺以外の場所の消毒等）</ArticleCaption>
+          <ArticleTitle>第二十五条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>都道府県知事は、家畜以外の動物における牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt>
+</Ruby>疫、豚熱、アフリカ豚熱、高病原性鳥インフルエンザ又は低病原性鳥インフルエンザのまん延による当該伝染性疾病の病原体の拡散を防止するため必要がある場合（当該伝染性疾病にかかつていることが発見された当該動物がいた場所又はその死体があつた場所の周辺に衛生管理区域がある場合を除く。）には、当該動物における当該伝染性疾病のまん延による当該伝染性疾病の病原体の拡散を防止するため必要な限度において、当該伝染性疾病にかかつていることが発見された当該動物がいた場所又はその死体があつた場所その他当該伝染性疾病の病原体により汚染し、又は汚染したおそれがある場所又は物品を当該都道府県の職員に消毒させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>都道府県知事は、前項の規定による消毒をする場所の付近を通行する者に対し、家畜以外の動物における同項に規定する伝染性疾病のまん延による当該伝染性疾病の病原体の拡散を防止するため必要な限度において、その身体又はその場所の付近を通過させる車両の消毒を受けるよう求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>都道府県知事又は市町村長は、家畜以外の動物における第一項に規定する伝染性疾病のまん延による当該伝染性疾病の病原体の拡散を防止するため緊急の必要があると認める場合（当該伝染性疾病にかかつていることが発見された当該動物がいた場所又はその死体があつた場所の周辺に衛生管理区域がある場合を除く。）には、政令で定める手続に従い、当該動物における当該伝染性疾病のまん延による当該伝染性疾病の病原体の拡散を防止するため必要な限度において、相当の期間を定め、当該伝染性疾病にかかつていることが発見された当該動物がいた場所又はその死体があつた場所（これに隣接して当該伝染性疾病の病原体により汚染し、又は汚染したおそれがある場所を含む。）とその他の場所との通行を制限し、又は遮断することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1261,7 +1397,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>都道府県知事は、家畜伝染病のまん延を防止するため必要があるときは、家畜伝染病の病原体により汚染し、又は汚染したおそれがある物品の所在した倉庫、船舶、車両その他これに準ずる施設（要消毒畜舎等を除く。以下「要消毒倉庫等」という。）の所有者に期限を定めて当該要消毒倉庫等を消毒すべき旨を命ずることができる。</Sentence>
+              <Sentence>都道府県知事は、家畜伝染病のまん延（家畜以外の動物における牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt>
+</Ruby>疫、豚熱、アフリカ豚熱、高病原性鳥インフルエンザ又は低病原性鳥インフルエンザのまん延による当該伝染性疾病の病原体の拡散を含む。以下この章において同じ。）を防止するため必要があるときは、要消毒倉庫等（家畜伝染病の病原体により汚染し、又は汚染したおそれがある物品の所在した倉庫、船舶、車両その他これに準ずる施設及びその敷地（農林水産省令で定める敷地を除く。）をいい、要消毒畜舎等を除く。以下同じ。）の所有者に期限を定めて当該要消毒倉庫等を消毒すべき旨を命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1279,7 +1416,7 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>要消毒倉庫等の所有者は、第一項の規定による命令に従つてすべき消毒が終了するまでの間、農林水産省令の定めるところにより、当該要消毒倉庫等及びその敷地（農林水産省令で定める敷地を除く。）の出入口付近に、家畜伝染病のまん延を防止するために必要な消毒をする設備を設置しなければならない。</Sentence>
+              <Sentence>要消毒倉庫等の所有者は、第一項の規定による命令に従つてすべき消毒が終了するまでの間、農林水産省令の定めるところにより、当該要消毒倉庫等の出入口付近に、家畜伝染病のまん延を防止するために必要な消毒をする設備を設置しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -1291,7 +1428,7 @@
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>第四項の設備が設置されている要消毒倉庫等の敷地から車両を出す者は、農林水産省令の定めるところにより、あらかじめ、当該設備を利用して、当該車両を消毒しなければならない。</Sentence>
+              <Sentence>第四項の設備が設置されている要消毒倉庫等に車両を入れ、又は当該要消毒倉庫等から車両を出す者は、農林水産省令の定めるところにより、あらかじめ、当該設備を利用して、当該車両を消毒しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1311,13 +1448,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>家畜伝染病の病原体に触れ、又は触れたおそれがある者は、遅滞なく、自らその身体を消毒しなければならない。</Sentence>
+              <Sentence>家畜伝染病の病原体に触れ、又は触れたおそれがある者は、遅滞なく、その身体を消毒しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>第二十五条第四項の設備が設置されている要消毒畜舎等又は第二十六条第四項の設備が設置されている要消毒倉庫等から出る者は、農林水産省令の定めるところにより、あらかじめ、これらの設備を利用して、前項の規定による消毒をしなければならない。</Sentence>
+              <Sentence>第二十五条第四項の設備が設置されている要消毒畜舎等又は第二十六条第四項の設備が設置されている要消毒倉庫等に出入りする者は、農林水産省令の定めるところにより、あらかじめ、これらの設備を利用して、前項の規定による消毒をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1333,7 +1470,8 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前項の設備は、家畜伝染病の急速かつ広範囲なまん延を防止するため特に必要があると都道府県知事が認める場合に設置するものとする。</Sentence>
+              <Sentence>前項の設備は、家畜伝染病の急速かつ広範囲なまん延（家畜以外の動物における牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt>
+</Ruby>疫、豚熱、アフリカ豚熱、高病原性鳥インフルエンザ又は低病原性鳥インフルエンザの急速かつ広範囲なまん延による当該伝染性疾病の病原体の拡散を含む。）を防止するため特に必要があると都道府県知事が認める場合に設置するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -1385,13 +1523,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>都道府県知事は、家畜伝染病のまん延を防止するため必要があるときは、規則を定め、一定種類の家畜、その死体又は家畜伝染病の病原体をひろげるおそれがある物品の当該都道府県の区域内での移動、当該都道府県内への移入又は当該都道府県外への移出を禁止し、又は制限することができる。</Sentence>
+              <Sentence>都道府県知事は、家畜伝染病のまん延を防止するため必要があるときは、規則を定め、一定種類の家畜、その死体又は家畜伝染病の病原体を拡散するおそれがある物品の当該都道府県の区域内での移動、当該都道府県内への移入又は当該都道府県外への移出を禁止し、又は制限することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>農林水産大臣は、家畜伝染病のまん延を防止するため必要があるときは、農林水産省令の定めるところにより、区域を指定し、一定種類の家畜、その死体又は家畜伝染病の病原体をひろげるおそれがある物品の当該区域外への移出を禁止し、又は制限することができる。</Sentence>
+              <Sentence>農林水産大臣は、家畜伝染病のまん延を防止するため必要があるときは、農林水産省令の定めるところにより、区域を指定し、一定種類の家畜、その死体又は家畜伝染病の病原体を拡散するおそれがある物品の当該区域外への移出を禁止し、又は制限することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1412,6 +1550,38 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence>都道府県知事は、家畜伝染病のまん延を防止するため必要があるときは、規則を定め、一定種類の家畜の放牧、種付、と畜場以外の場所におけると殺又はふ卵を停止し、又は制限することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34_2">
+          <ArticleCaption>（勧告等）</ArticleCaption>
+          <ArticleTitle>第三十四条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>都道府県知事は、家畜伝染病のまん延を防止するため必要がある場合において、飼養衛生管理基準が定められた家畜の所有者が当該飼養衛生管理基準（第十二条の三第二項第三号及び第四号に掲げる事項に係る基準に限る。）を遵守していないと認めるときは、改善すべき事項を記載した文書の提示その他の農林水産省令で定める方法により、その者に対し、期限を定めて、同項第三号又は第四号に規定する方法について改善すべきことを勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>都道府県知事は、前項の規定による勧告を受けた者がその勧告に従わないときは、改善すべき事項を記載した文書の提示その他の農林水産省令で定める方法により、その者に対し、期限を定めて、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>都道府県知事は、前項の規定による命令を受けた者が、正当な理由がなくてその命令に従わなかつたときは、その旨を公表することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34_3">
+          <ArticleCaption>（資料の提出）</ArticleCaption>
+          <ArticleTitle>第三十四条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>農林水産大臣は、家畜伝染病のまん延を防止するため必要があるときは、都道府県知事に対し、第十二条の四第一項の規定による報告に係る資料の提出を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1513,7 +1683,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>次に掲げる物であつて農林水産大臣の指定するもの（以下「指定検疫物」という。）は、輸出国の政府機関により発行され、かつ、その検疫の結果監視伝染病の病原体をひろげるおそれがないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものでなければ、輸入してはならない。</Sentence>
+              <Sentence>次に掲げる物であつて農林水産大臣の指定するもの（以下「指定検疫物」という。）は、輸出国の政府機関により発行され、かつ、その検疫の結果監視伝染病の病原体を拡散するおそれがないことを確かめ、又は信ずる旨を記載した検査証明書又はその写しを添付してあるものでなければ、輸入してはならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1530,7 +1700,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>前二号に掲げる物を除き、監視伝染病の病原体をひろげるおそれがある敷料その他これに準ずる物</Sentence>
+                <Sentence>前二号に掲げる物を除き、監視伝染病の病原体を拡散するおそれがある敷料その他これに準ずる物</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1603,27 +1773,33 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">指定検疫物を輸入した者は、遅滞なくその旨を動物検疫所に届け出て、その物につき、原状のままで、家畜防疫官から第三十六条及び第三十七条の規定の違反の有無並びに監視伝染病の病原体をひろげるおそれの有無についての検査を受けなければならない。</Sentence>
+              <Sentence Function="main" Num="1">指定検疫物を輸入した者は、遅滞なくその旨を動物検疫所に届け出て、その物につき、原状のままで、家畜防疫官から第三十六条及び第三十七条の規定の違反の有無並びに監視伝染病の病原体を拡散するおそれの有無についての検査を受けなければならない。</Sentence>
               <Sentence Function="proviso" Num="2">ただし、既に次条の規定により検査を受け、かつ、第四十四条の規定による輸入検疫証明書の交付を受けた物及び郵便物として輸入した物については、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>家畜防疫官は、指定検疫物以外の物が監視伝染病の病原体により汚染し、又は汚染しているおそれがあるときは、輸入後遅滞なくその物につき、検査を行うことができる。</Sentence>
+              <Sentence>家畜防疫官は、指定検疫物以外の物が監視伝染病の病原体により汚染し、又は汚染しているおそれがあるときは、輸入後遅滞なくその物（以下「要検査物」という。）につき、検査を行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">第一項の規定による検査は、動物検疫所又は第三十八条の規定により指定された港若しくは飛行場内の家畜防疫官が指定した場所で行う。</Sentence>
-              <Sentence Function="proviso" Num="2">但し、特別の事由があるときは、農林水産大臣の指定するその他の場所で検査を行うことができる。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、特別の事由があるときは、農林水産大臣の指定するその他の場所で検査を行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>家畜防疫官は、監視伝染病の病原体のひろがるのを防止するため必要があるときは、第一項の検査を受ける者に対し指定検疫物を前項の場所に送致するための順路その他の方法を指示することができる。</Sentence>
+              <Sentence>家畜防疫官は、監視伝染病の病原体の拡散を防止するため必要があるときは、第一項の検査を受ける者に対し指定検疫物を前項の場所に送致するための順路その他の方法を指示することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>家畜防疫官は、外国から入港した船舶又は航空機に乗つて来た者（第四十六条の二第一項において「入国者」という。）に対して、その携帯品（第一項若しくは第二項又は次条の検査を受けた物を除く。第四十六条の二第一項において同じ。）のうちに指定検疫物又は要検査物が含まれているかどうかを判断するため、必要な質問を行うとともに、必要な限度において、当該携帯品の検査を行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1632,7 +1808,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>家畜防疫官は、輸入される指定検疫物又は輸入されるその他の物であつて監視伝染病の病原体により汚染し、若しくは汚染しているおそれがあるものにつき、船舶又は航空機内で輸入に先だつて検査を行うことができる。</Sentence>
+              <Sentence>家畜防疫官は、輸入される指定検疫物又は要検査物につき、船舶又は航空機内で輸入に先だつて検査を行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1691,13 +1867,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>家畜防疫官は、第四十条から前条までの規定による検査の結果、指定検疫物が監視伝染病の病原体をひろげるおそれがないと認められるときは、農林水産省令の定めるところにより、輸入検疫証明書を交付し、かつ、指定検疫物にらく印、いれずみその他の標識を付さなければならない。</Sentence>
+              <Sentence>家畜防疫官は、第四十条から前条までの規定による検査の結果、指定検疫物が監視伝染病の病原体を拡散するおそれがないと認められるときは、農林水産省令の定めるところにより、輸入検疫証明書を交付し、かつ、指定検疫物にらく印、いれずみその他の標識を付さなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>家畜防疫官は、第四十条第二項又は第四十一条の規定による検査を受けた指定検疫物以外の物について、輸入検疫証明書を請求されたときは、これを交付しなければならない。</Sentence>
+              <Sentence>家畜防疫官は、第四十条第二項又は第四十一条の規定による検査を受けた要検査物について、輸入検疫証明書を請求されたときは、これを交付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -1718,7 +1894,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>輸入国政府がその輸入に当たり、家畜の伝染性疾病の病原体をひろげるおそれの有無についての輸出国の検査証明を必要としている動物その他の物</Sentence>
+                <Sentence>輸入国政府がその輸入に当たり、家畜の伝染性疾病の病原体を拡散するおそれの有無についての輸出国の検査証明を必要としている動物その他の物</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -1737,13 +1913,19 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>家畜防疫官は、第一項の規定による検査の結果、その物が家畜の伝染性疾病の病原体をひろげるおそれがないと認められるときは、農林水産省令の定めるところにより、輸出検疫証明書を交付しなければならない。</Sentence>
+              <Sentence>家畜防疫官は、第一項の規定による検査の結果、その物が家畜の伝染性疾病の病原体を拡散するおそれがないと認められるときは、農林水産省令の定めるところにより、輸出検疫証明書を交付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence>家畜防疫官は、国際動物検疫上、必要があるときは、前項の規定による輸出検疫証明書の交付を受けた物について再検査を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>家畜防疫官は、本邦から出国する者（第四十六条の二第二項において「出国者」という。）に対して、その携帯品（第一項又は前項の検査を受けた物を除く。同条第二項において同じ。）のうちに第一項各号に掲げる物が含まれているかどうかを判断するため、必要な質問を行うとともに、必要な限度において、当該携帯品の検査を行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1753,7 +1935,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>第四十条第一項若しくは第二項、第四十一条、第四十二条第二項、第四十三条第二項若しくは第五項又は前条第一項若しくは第四項の規定による検査において、その検査に係る物が家畜伝染病の病原体により汚染し、汚染しているおそれがあり、又は汚染するおそれがあると認められた場合における第六条第一項、第七条、第八条、第十四条から第十七条まで、第十八条から第二十一条まで、第二十三条から第二十六条まで、第二十九条及び第三十一条第一項並びに同条第二項において準用する第七条及び第八条の規定の適用については、これらの規定中「都道府県知事」（第十五条の場合にあつては「都道府県知事又は市町村長」）とあるのは「動物検疫所長」と、「家畜防疫員」とあるのは「家畜防疫官」と読み替えるものとする。</Sentence>
+              <Sentence>第四十条第一項若しくは第二項、第四十一条、第四十二条第二項、第四十三条第二項若しくは第五項又は前条第一項若しくは第四項の規定による検査において、その検査に係る物が家畜伝染病の病原体により汚染し、汚染しているおそれがあり、又は汚染するおそれがあると認められた場合における第六条第一項、第七条、第八条、第十四条から第十七条まで、第十八条から第二十一条まで、第二十三条から第二十五条まで、第二十六条、第二十九条及び第三十一条第一項並びに同条第二項において準用する第七条及び第八条の規定の適用については、これらの規定中「都道府県知事」（第十五条の場合にあつては「都道府県知事又は市町村長」）とあるのは「動物検疫所長」と、「家畜防疫員」とあるのは「家畜防疫官」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1769,24 +1951,36 @@
               <Sentence Function="proviso" Num="2">ただし、当該新疾病が家畜の伝染性疾病でないと認められる場合は、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>家畜防疫官は、第一項の検査の結果、その検査に係る物品の輸入又は輸出について第三十六条、第三十七条第一項、第三十八条、第四十条第一項、第四十二条第一項又は前条第一項の規定に違反している事実があると認めるときは、農林水産省令で定める基準に基づき、当該物品を廃棄することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
         </Article>
         <Article Num="46_2">
-          <ArticleCaption>（入国者に対する質問等）</ArticleCaption>
+          <ArticleCaption>（入国者及び出国者に対する質問等）</ArticleCaption>
           <ArticleTitle>第四十六条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>家畜防疫官は、外国から入港した船舶又は航空機に乗つて来た者（次条において「入国者」という。）に対して、その携帯品（第四十条第一項若しくは第二項又は第四十一条の検査を受けた物を除く。以下同じ。）のうちに要消毒物品（監視伝染病が現に発生している外国の地域において使用された物品であつて家畜防疫官がその消毒をすることが必要であると認めるものをいう。次条において同じ。）が含まれているかどうかを判断するため、必要な質問を行うとともに、必要な限度において、当該携帯品の検査を行うことができる。</Sentence>
+              <Sentence>家畜防疫官は、入国者に対して、その携帯品のうちに要消毒物品（監視伝染病が現に発生している地域において使用された物品であつて家畜防疫官がその消毒をすることが必要であると認めるものをいう。次項及び次条において同じ。）が含まれているかどうかを判断するため、必要な質問を行うとともに、必要な限度において、当該携帯品の検査を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>家畜防疫官は、出国者に対して、その携帯品のうちに要消毒物品が含まれているかどうかを判断するため、必要な質問を行うとともに、必要な限度において、当該携帯品の検査を行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="46_3">
-          <ArticleCaption>（入国者の携帯品の消毒）</ArticleCaption>
+          <ArticleCaption>（入国者及び出国者の携帯品の消毒）</ArticleCaption>
           <ArticleTitle>第四十六条の三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>家畜防疫官は、前条の検査の結果、入国者の携帯品のうちに要消毒物品が含まれていたときは、必要な限度において、当該要消毒物品を消毒することができる。</Sentence>
+              <Sentence>家畜防疫官は、前条第一項又は第二項の規定による検査の結果、これらの検査に係る携帯品のうちに要消毒物品が含まれていたときは、必要な限度において、当該要消毒物品を消毒することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1796,7 +1990,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>動物検疫所長は、前二条の規定による事務を円滑に行うため必要があると認めるときは、外国から入港した船舶若しくは航空機の所有者若しくは長（長に代わつてその職務を行う者があるときは、その者）又は港若しくは飛行場の管理者（次項において「船舶の所有者等」という。）に対し、第四十六条の二の質問に関する書類の配布、検疫の手続に関する情報の提供その他必要な協力を求めることができる。</Sentence>
+              <Sentence>動物検疫所長は、この章の規定による事務を円滑に行うため必要があると認めるときは、船舶若しくは航空機の所有者若しくは長（長に代わつてその職務を行う者があるときは、その者）又は港若しくは飛行場の管理者（次項において「船舶の所有者等」という。）に対し、第四十六条の二第一項又は第二項の質問に関する書類の配布、検疫の手続に関する情報の提供その他必要な協力を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -2364,7 +2558,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>農林水産大臣は、家畜の伝染性疾病の発生又はまん延により、畜産に重大な影響を及ぼすおそれがあるときは、都道府県知事に対し、第六条第一項、第九条、第十七条、第十七条の二第五項若しくは第六項、第二十六条第一項、第三項若しくは第五項、第二十八条の二第一項、第三十条、第三十一条第一項、第三十二条第一項、第三十三条若しくは第三十四条の規定による措置を実施し、又は家畜防疫員に第十六条第三項の規定による措置を実施させるべき旨を指示することができる。</Sentence>
+              <Sentence>農林水産大臣は、家畜の伝染性疾病の発生又はまん延により、畜産に重大な影響を及ぼすおそれがあるときは、都道府県知事に対し、第六条第一項、第九条、第十五条、第十七条、第十七条の二第五項若しくは第六項、第二十五条の二、第二十六条第一項、第三項若しくは第五項、第二十八条の二第一項、第三十条、第三十一条第一項、第三十二条第一項若しくは第三十三条から第三十四条の二までの規定による措置を実施し、又は家畜防疫員に第十六条第三項の規定による措置を実施させるべき旨を指示することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2433,7 +2627,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>家畜防疫官又は家畜防疫員は、家畜の伝染性疾病を予防するため必要があるときは、競馬場、家畜市場、家畜共進会場等家畜の集合する場所、畜舎、化製場若しくは死亡獣畜取扱場、と畜場、倉庫、船舶、車両、航空機又は家畜の伝染性疾病の病原体により汚染し、若しくは汚染したおそれがあるその他の場所に立ち入つて動物その他の物を検査し、関係者に質問し、又は検査のため必要な限度において、動物の血液、乳汁等を採取し、若しくは動物の死体その他の物を集取することができる。</Sentence>
+              <Sentence>家畜防疫官又は家畜防疫員は、家畜の伝染性疾病を予防するため必要があるときは、競馬場、家畜市場、家畜共進会場等家畜の集合する場所、衛生管理区域、化製場若しくは死亡獣畜取扱場、と畜場、倉庫、船舶、車両、航空機又は家畜の伝染性疾病の病原体により汚染し、若しくは汚染したおそれがあるその他の場所に立ち入つて動物その他の物を検査し、関係者に質問し、又は検査のため必要な限度において、動物の血液、乳汁等を採取し、若しくは動物の死体その他の物を集取することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -2591,7 +2785,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>ブルセラ病、結核病、ヨーネ病又は馬伝染性貧血にかかつたため第十七条の規定により殺された患畜にあつては、同条の命令があつた時における当該家畜の評価額（その額が家畜の種類ごとに前号の政令で定める額を超えるときは、当該政令で定める額とする。）の五分の四</Sentence>
+                <Sentence>ブルセラ症、結核、ヨーネ病又は馬伝染性貧血にかかつたため第十七条の規定により殺された患畜にあつては、同条の命令があつた時における当該家畜の評価額（その額が家畜の種類ごとに前号の政令で定める額を超えるときは、当該政令で定める額とする。）の五分の四</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -2872,42 +3066,36 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>次の各号のいずれかに該当する者は、三年以下の懲役又は百万円以下の罰金に処する。</Sentence>
+              <Sentence>次の各号のいずれかに該当する場合には、当該違反行為をした者は、三年以下の懲役又は三百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>第十三条第一項（第六十二条第一項において準用する場合を含む。）の規定に違反した獣医師又は所有者</Sentence>
+                <Sentence>第十三条第一項又は第十三条の二第一項（これらの規定を第六十二条第一項において準用する場合を含む。）の獣医師又は所有者がこれらの規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>第十六条第一項、第三十六条第一項、第三十七条第一項、第三十八条又は第四十五条第一項（第三十六条第一項及び第三十七条第一項については、第六十二条第一項において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence>第十六条第一項、第三十六条第一項、第三十七条第一項、第三十八条又は第四十五条第一項（第三十六条第一項及び第三十七条第一項については、第六十二条第一項において準用する場合を含む。）の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>第十七条第一項又は第十七条の二第五項の規定による命令に違反した者</Sentence>
+                <Sentence>第十七条第一項又は第十七条の二第五項の規定による命令に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence>第三十六条第三項（第六十二条第一項において準用する場合を含む。）の規定による条件に違反した者</Sentence>
+                <Sentence>第三十六条第三項（第六十二条第一項において準用する場合を含む。）の規定による条件に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>第四十条第一項（第六十二条第一項において準用する場合を含む。）の規定に違反して検査を受けず、又は検査を受けるに当たつて不正行為をした者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="6">
-              <ItemTitle>六</ItemTitle>
-              <ItemSentence>
-                <Sentence>第四十六条の五第一項又は第四十六条の十の規定に違反した者</Sentence>
+                <Sentence>第四十条第一項（第六十二条第一項において準用する場合を含む。）の規定に違反して検査を受けず、又は検査を受けるに当たつて不正行為をしたとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2917,44 +3105,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>次の各号のいずれかに該当する者は、一年以下の懲役又は五十万円以下の罰金に処する。</Sentence>
+              <Sentence>第四十六条の五第一項又は第四十六条の十の規定に違反した場合には、当該違反行為をした者は、三年以下の懲役又は百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence>第十一条、第十二条、第十三条の二第一項、第十四条第一項、第十六条第二項、第二十一条第一項若しくは第三項、第五十条又は第五十六条第二項（第十三条の二第一項、第十四条第一項及び第五十六条第二項については、第六十二条第一項において準用する場合を含む。）の規定に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence>第三十二条又は第三十三条（これらの規定を第六十二条第一項において準用する場合を含む。）の規定による禁止、停止又は制限に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence>第三十六条の二第一項、第四十六条の八第一項、第四十六条の十一第一項、第四十六条の十三第一項又は第四十六条の十八第一項（第四十六条の二十第二項において読み替えて準用する場合を含む。）の規定に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence>第四十六条の十八第三項（第四十六条の二十第二項において読み替えて準用する場合を含む。）の規定による命令に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence>第五十一条第二項の規定による検査若しくは集取を拒み、妨げ、若しくは忌避し、又は同項の規定による質問に対し陳述をせず、若しくは虚偽の陳述をした者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="6">
-              <ItemTitle>六</ItemTitle>
-              <ItemSentence>
-                <Sentence>第五十二条第二項の規定による報告をせず、又は虚偽の報告をした者</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
         </Article>
         <Article Num="65">
@@ -2962,24 +3114,48 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>次の各号のいずれかに該当する者は、五十万円以下の罰金に処する。</Sentence>
+              <Sentence>次の各号のいずれかに該当する場合には、当該違反行為をした者は、一年以下の懲役又は五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>第四十六条の六第三項（第四十六条の八第四項において準用する場合を含む。）の規定による条件に違反した者</Sentence>
+                <Sentence>第十一条、第十二条、第十四条第一項、第十六条第二項、第二十一条第一項若しくは第三項、第五十条又は第五十六条第二項（第十四条第一項及び第五十六条第二項については、第六十二条第一項において準用する場合を含む。）の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>第四十六条の十一第二項又は第四十六条の十九第一項の規定に違反した者</Sentence>
+                <Sentence>第三十二条又は第三十三条（これらの規定を第六十二条第一項において準用する場合を含む。）の規定による禁止、停止又は制限に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>第四十六条の十一第四項、第四十六条の十六第二項（第四十六条の二十第一項において読み替えて準用する場合を含む。）又は第四十六条の十七第二項（第四十六条の二十第二項において読み替えて準用する場合を含む。）の規定による命令に違反した者</Sentence>
+                <Sentence>第三十六条の二第一項の規定による届出をしないで、又は虚偽の届出をして、家畜の伝染性疾病の病原体であつて既に知られているもののうち、監視伝染病の病原体以外のものを輸入したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条の八第一項、第四十六条の十一第一項、第四十六条の十三第一項又は第四十六条の十八第一項（第四十六条の二十第二項において読み替えて準用する場合を含む。）の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条の十八第三項（第四十六条の二十第二項において読み替えて準用する場合を含む。）の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>第五十一条第二項の規定による検査若しくは集取を拒み、妨げ、若しくは忌避し、又は同項の規定による質問に対し陳述をせず、若しくは虚偽の陳述をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence>第五十二条第二項の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2989,104 +3165,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>次の各号のいずれかに該当する者は、三十万円以下の罰金に処する。</Sentence>
+              <Sentence>第十二条の六第二項又は第三十四条の二第二項（第六十二条第一項において準用する場合を含む。）の規定による命令に違反した場合には、当該違反行為をした者は、百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence>第八条の二、第十八条、第二十一条第二項、第二十三条第一項、第二十四条、第二十五条第一項、第四項若しくは第六項、第二十六条第四項若しくは第六項、第二十八条第二項又は第二十八条の二第一項（第八条の二、第十八条、第二十三条第一項、第二十四条、第二十五条第一項、第四項及び第六項、第二十六条第四項及び第六項、第二十八条第二項並びに第二十八条の二第一項については、第六十二条第一項において準用する場合を含む。）の規定に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence>第四条の二第三項若しくは第五項、第五条第一項、第六条第一項、第九条、第十二条の六第二項、第二十六条第一項又は第三十条（第五条第一項、第六条第一項、第九条、第二十六条第一項及び第三十条については、第六十二条第一項において準用する場合を含む。）の規定による命令に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence>第十四条第二項若しくは第三項、第十九条、第二十六条第二項又は第四十条第四項（これらの規定を第六十二条第一項において準用する場合を含む。）の規定による指示（第十四条第二項の規定による指示については、同項の措置をとるべき旨の指示に限る。）に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence>第十五条（第六十二条第一項において準用する場合を含む。）の規定による通行の制限又は遮断に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence>第二十条第一項（第六十二条第一項において準用する場合を含む。）の規定による剖検又は殺処分を拒み、妨げ、又は忌避した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="6">
-              <ItemTitle>六</ItemTitle>
-              <ItemSentence>
-                <Sentence>第二十九条（第六十二条第一項において準用する場合を含む。）の規定による標識を付することを拒み、妨げ、又は忌避した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="7">
-              <ItemTitle>七</ItemTitle>
-              <ItemSentence>
-                <Sentence>第三十一条第一項（第六十二条第一項において準用する場合を含む。）の規定による検査、注射、薬浴又は投薬を拒み、妨げ、又は忌避した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="8">
-              <ItemTitle>八</ItemTitle>
-              <ItemSentence>
-                <Sentence>第三十四条（第六十二条第一項において準用する場合を含む。）の規定による停止又は制限に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="9">
-              <ItemTitle>九</ItemTitle>
-              <ItemSentence>
-                <Sentence>第四十条第二項（第六十二条第一項において準用する場合を含む。）の規定による検査を拒み、妨げ、又は忌避した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="10">
-              <ItemTitle>十</ItemTitle>
-              <ItemSentence>
-                <Sentence>第四十二条第二項又は第四十三条第五項（これらの規定を第六十二条第一項において準用する場合を含む。）の規定による検査を受けず、又は検査を受けるに当たつて不正行為をした者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="11">
-              <ItemTitle>十一</ItemTitle>
-              <ItemSentence>
-                <Sentence>第四十六条第二項又は第三項の規定による命令に違反し、又はこれらの規定による隔離、注射、薬浴、投薬若しくは消毒を拒み、妨げ、若しくは忌避した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="12">
-              <ItemTitle>十二</ItemTitle>
-              <ItemSentence>
-                <Sentence>第四十六条の二（第六十二条第一項において準用する場合を含む。以下この号において同じ。）の規定による質問に対し陳述をせず、若しくは虚偽の陳述をし、又は第四十六条の二の規定による検査を拒み、妨げ、若しくは忌避した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="13">
-              <ItemTitle>十三</ItemTitle>
-              <ItemSentence>
-                <Sentence>第四十六条の三（第六十二条第一項において準用する場合を含む。）の規定による消毒を拒み、妨げ、又は忌避した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="14">
-              <ItemTitle>十四</ItemTitle>
-              <ItemSentence>
-                <Sentence>第四十六条の八第二項、第四十六条の十四、第四十六条の十五（第四十六条の二十第一項において読み替えて準用する場合を含む。）、第四十六条の十八第二項（第四十六条の二十第二項において準用する場合を含む。）又は第四十六条の十九第二項の規定に違反した者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="15">
-              <ItemTitle>十五</ItemTitle>
-              <ItemSentence>
-                <Sentence>第五十一条第一項の規定による検査、採取若しくは集取を拒み、妨げ、若しくは忌避し、又は同項の規定による質問に対し陳述をせず、若しくは虚偽の陳述をした者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="16">
-              <ItemTitle>十六</ItemTitle>
-              <ItemSentence>
-                <Sentence>第五十二条第一項の規定による報告をせず、又は虚偽の報告をした者</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
         </Article>
         <Article Num="67">
@@ -3094,12 +3174,205 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、第六十三条から前条までの違反行為をしたときは、行為者を罰するほか、その法人又は人に対して各本条の罰金刑を科する。</Sentence>
+              <Sentence>次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条の六第三項（第四十六条の八第四項において準用する場合を含む。）の規定による条件に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条の十一第二項の規定による届出をしないで、又は虚偽の届出をして、同項に規定する滅菌譲渡をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条の十一第四項、第四十六条の十六第二項（第四十六条の二十第一項において読み替えて準用する場合を含む。）又は第四十六条の十七第二項（第四十六条の二十第二項において読み替えて準用する場合を含む。）の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条の十九第一項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="68">
           <ArticleTitle>第六十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>次の各号のいずれかに該当する場合には、当該違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四条の二第三項若しくは第五項、第五条第一項、第六条第一項、第九条、第二十六条第一項又は第三十条（第五条第一項、第六条第一項、第九条、第二十六条第一項及び第三十条については、第六十二条第一項において準用する場合を含む。）の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第八条の二、第二十一条第二項、第二十三条第一項、第二十四条、第二十五条第一項、第四項若しくは第六項、第二十六条第四項若しくは第六項、第二十八条第二項又は第二十八条の二第一項（第八条の二、第二十三条第一項、第二十四条、第二十五条第一項、第四項及び第六項、第二十六条第四項及び第六項、第二十八条第二項並びに第二十八条の二第一項については、第六十二条第一項において準用する場合を含む。）の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十条第三項、第十五条又は第二十五条の二第三項（これらの規定を第六十二条第一項において準用する場合を含む。）の規定による通行の制限又は遮断に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十四条第二項若しくは第三項、第十九条、第二十六条第二項又は第四十条第四項（これらの規定を第六十二条第一項において準用する場合を含む。）の規定による指示（第十四条第二項の規定による指示については、同項の措置をとるべき旨の指示に限る。）に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十八条（第六十二条第一項において準用する場合を含む。）の規定による届出をしないで、第十八条に規定する家畜を殺したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>第二十条第一項（第六十二条第一項において準用する場合を含む。）の規定による剖検又は殺処分を拒み、妨げ、又は忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence>第二十九条（第六十二条第一項において準用する場合を含む。）の規定による標識を付することを拒み、妨げ、又は忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence>第三十一条第一項（第六十二条第一項において準用する場合を含む。）の規定による検査、注射、薬浴又は投薬を拒み、妨げ、又は忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence>第三十四条（第六十二条第一項において準用する場合を含む。）の規定による停止又は制限に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十条第二項（第六十二条第一項において準用する場合を含む。）の規定による検査を拒み、妨げ、又は忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十条第五項、第四十五条第五項若しくは第四十六条の二第一項若しくは第二項（これらの規定を第六十二条第一項において準用する場合を含む。）の規定による質問に対し陳述をせず、若しくは虚偽の陳述をし、又はこれらの規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十二条第二項又は第四十三条第五項（これらの規定を第六十二条第一項において準用する場合を含む。）の規定による検査を受けず、又は検査を受けるに当たつて不正行為をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条第二項又は第三項の規定による命令に違反し、又はこれらの規定による隔離、注射、薬浴、投薬若しくは消毒を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条第四項（第六十二条第一項において準用する場合を含む。）の規定による処分を拒み、妨げ、又は忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="15">
+              <ItemTitle>十五</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条の三（第六十二条第一項において準用する場合を含む。）の規定による消毒を拒み、妨げ、又は忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="16">
+              <ItemTitle>十六</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条の八第二項の規定による届出をしないで、又は虚偽の届出をして、同条第一項ただし書に規定する変更をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="17">
+              <ItemTitle>十七</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条の十四又は第四十六条の十五（第四十六条の二十第一項において読み替えて準用する場合を含む。）の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="18">
+              <ItemTitle>十八</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条の十八第二項（第四十六条の二十第二項において準用する場合を含む。）又は第四十六条の十九第二項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="19">
+              <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence>第五十一条第一項の規定による検査、採取若しくは集取を拒み、妨げ、若しくは忌避し、又は同項の規定による質問に対し陳述をせず、若しくは虚偽の陳述をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="20">
+              <ItemTitle>二十</ItemTitle>
+              <ItemSentence>
+                <Sentence>第五十二条第一項の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="69">
+          <ArticleTitle>第六十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、次の各号に掲げる規定の違反行為をしたときは、行為者を罰するほか、その法人に対して当該各号に定める罰金刑を、その人に対して各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第六十三条</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>五千万円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第六十四条から前条まで</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>各本条の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="70">
+          <ArticleTitle>第七十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第十二条の四第一項の規定による報告をせず、又は虚偽の報告をした者は、三十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="71">
+          <ArticleTitle>第七十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -3108,13 +3381,13 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>第十二条の四第一項の規定に違反した者</Sentence>
+                <Sentence>第四十六条の十二第一項の規定による届出をしないで、同項に規定する家畜伝染病病原体の所持を開始した者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>第四十六条の十二第一項又は第四十六条の十三第二項の規定に違反した者</Sentence>
+                <Sentence>第四十六条の十三第二項の規定による届出をせず、又は虚偽の届出をした者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -3125,13 +3398,25 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="69">
-          <ArticleTitle>第六十九条</ArticleTitle>
+        <Article Num="72">
+          <ArticleTitle>第七十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>第四十六条の八第三項又は第四十六条の十二第二項の規定に違反した者は、五万円以下の過料に処する。</Sentence>
+              <Sentence>次の各号のいずれかに該当する者は、五万円以下の過料に処する。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条の八第三項の規定による届出をせず、又は虚偽の届出をした者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十六条の十二第二項の規定による届出をしなかつた者</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
       </Chapter>
@@ -3165,643 +3450,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>旧法又はこれに基づく命令の規定によつてした行政庁、家畜検疫官吏又は家畜防疫委員の処分その他の行為は、それぞれこの法律又はこの法律に基づく命令の相当規定により行政庁、家畜防疫官又は家畜防疫員のしたものとみなす。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="5">
-        <ArticleCaption>（アフリカ豚熱に関する特例）</ArticleCaption>
-        <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>農林水産大臣は、当分の間、アフリカ豚熱がまん延し、又はまん延するおそれがある場合（家畜以外の動物がアフリカ豚熱にかかつていることが発見された場合であつて、当該動物から家畜に伝染することにより家畜においてアフリカ豚熱がまん延するおそれがあるときを含む。）において、第三章（次項の規定により読み替えて適用される第十七条の二の規定に係る部分を除き、第三項の規定により読み替えて適用される場合を含む。）並びに次条及び附則第七条の規定により講じられる措置のみによつてはそのまん延の防止が困難であり、かつ、その急速かつ広範囲なまん延を防止するため、アフリカ豚熱の患畜及び疑似患畜（以下この項において「患畜等」という。）以外の家畜であつてもこれを殺すことがやむを得ないと認めるときは、患畜等以外の家畜を殺す必要がある地域を附則第五条指定地域として、また、当該附則第五条指定地域において殺す必要がある家畜（患畜等を除く。）を附則第五条指定家畜として、それぞれ指定することができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1">前項の附則第五条指定地域（以下この項において単に「附則第五条指定地域」という。）及び前項の附則第五条指定家畜（以下この項において単に「附則第五条指定家畜」という。）については、附則第五条指定地域及び附則第五条指定家畜の指定を第十七条の二第一項の指定地域及び指定家畜の指定と、附則第五条指定地域を同項の指定地域と、附則第五条指定家畜を指定家畜と、それぞれみなして、この法律の規定を適用する。</Sentence>
-            <Sentence Num="2">この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
-          </ParagraphSentence>
-          <TableStruct>
-            <Table>
-              <TableRow>
-                <TableColumn Valign="top" rowspan="2">
-                  <Sentence>第十七条の二第二項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>口<Ruby>蹄<Rt>てい</Rt>
-</Ruby>疫</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>アフリカ豚熱</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>ものとする</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>ものとする。この場合において、家畜以外の動物がアフリカ豚熱にかかつていることが発見された場合における指定地域及び指定家畜の指定の範囲は、当該動物がいた場所又はその死体があつた場所の周辺における当該動物の生息の状況、当該動物におけるアフリカ豚熱のまん延によるその病原体の拡散の状況、これらの場所の周辺における家畜の飼養に係る衛生管理の状況その他の事情を考慮して定めるものとする</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第十七条の二第三項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>都道府県知事</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>都道府県知事（家畜以外の動物がアフリカ豚熱にかかつていることが発見された場合において指定地域及び指定家畜の指定をしようとするときは、当該指定地域を管轄する都道府県知事及び食料・農業・農村政策審議会）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第十七条の二第八項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>附則第五条第二項の規定により読み替えて適用される第三項</Sentence>
-                </TableColumn>
-              </TableRow>
-            </Table>
-          </TableStruct>
-        </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>アフリカ豚熱に係る次の表の上欄に掲げる規定の適用については、当分の間、これらの規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
-          </ParagraphSentence>
-          <TableStruct>
-            <Table>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三条</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>及び第五十八条から第六十条の二まで</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>、第五十八条（附則第五条第三項の規定により読み替えて適用される場合を含む。）、第五十九条、第六十条（同項の規定により読み替えて適用される場合を含む。）及び第六十条の二</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三条の二第一項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>まん延を</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>まん延（家畜以外の動物におけるアフリカ豚熱のまん延によるその病原体の拡散を含む。）を</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三条の二第二項、第二十六条第二項、第二十八条の二第二項、第三十一条第二項及び第五十八条第五項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>前項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>前項（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三条の二第二項及び第二十六条第五項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>同項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>前項</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三条の二第二項、第二十六条第一項、第二項及び第四項、第二十八条の二第一項、第三十条、第三十一条第一項並びに第三十二条から第三十五条まで</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>まん延</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>まん延（家畜以外の動物におけるアフリカ豚熱のまん延によるその病原体の拡散を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三条の二第三項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>防止</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>防止（家畜以外の動物におけるアフリカ豚熱のまん延によるその病原体の拡散の防止を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top" rowspan="2">
-                  <Sentence>第三条の二第四項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>次項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>次項（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>前項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>前項（同条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三条の二第五項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>とき</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>とき（家畜以外の動物におけるアフリカ豚熱のまん延によりその病原体が拡散し、又は拡散するおそれがあるときを含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三条の二第五項及び第二十六条第五項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三項（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top" rowspan="2">
-                  <Sentence>第二十六条第一項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>ときは、</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>ときは、要消毒倉庫等（</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>以下「要消毒倉庫等」という</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>）及びその敷地（農林水産省令で定める敷地を除く。）をいう。以下同じ</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第二十六条第三項及び第四項、第二十八条の二第三項並びに第五十八条第四項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第一項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第一項（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第二十六条第四項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>要消毒倉庫等及びその敷地（農林水産省令で定める敷地を除く。）</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>要消毒倉庫等</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第二十六条第五項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>前項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>前項（同条第三項の規定により読み替えて適用される場合を含む。以下この項において同じ。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top" rowspan="2">
-                  <Sentence>第二十六条第六項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第四項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第四項（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>の敷地</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>に車両を入れ、又は当該要消毒倉庫等</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top" rowspan="2">
-                  <Sentence>第二十八条第二項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第二十六条第四項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第二十六条第四項（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>から出る</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>に出入りする</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第二十八条の二第二項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>まん延</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>まん延（家畜以外の動物におけるアフリカ豚熱の急速かつ広範囲なまん延によるその病原体の拡散を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三十五条</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>この章</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>この章（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top" rowspan="2">
-                  <Sentence>第四十六条第一項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第二十六条まで</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第二十五条まで、第二十六条（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三十一条第一項並びに同条第二項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三十一条第一項（附則第五条第三項の規定により読み替えて適用される場合を含む。）並びに第三十一条第二項（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第四十七条</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三十四条</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三十四条（第二十六条第一項、第三項及び第五項、第二十八条の二第一項、第三十条、第三十一条第一項、第三十二条第一項、第三十三条並びに第三十四条については、附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top" rowspan="2">
-                  <Sentence>第四十八条</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>前条</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>前条（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三章</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三章（同項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top" rowspan="3">
-                  <Sentence>第五十二条の三</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第二十六条第二項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第二十六条第二項（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第四十八条</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第四十八条（これらの規定が附則第五条第三項の規定により読み替えて適用される場合を含む。以下この条において同じ。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第十七条の二第五項又は第二十六条第一項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第十七条の二第五項又は第二十六条第一項（附則第五条第三項の規定により読み替えて適用される場合を含む。以下この条において同じ。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第五十八条第一項第四号</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三十一条第一項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三十一条第一項（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top" rowspan="2">
-                  <Sentence>第五十八条第三項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>前二項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第一項（附則第五条第三項の規定により読み替えて適用される場合を含む。）及び前項</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第一項第四号</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第一項第四号（同条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第六十条第一項第二号</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第五十八条第五項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第五十八条第五項（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top" rowspan="3">
-                  <Sentence>第六十条第二項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三十二条</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三十二条（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三十三条</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三十三条（同項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第三十四条</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三十四条（同項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top" rowspan="2">
-                  <Sentence>第六十一条</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三十一条第二項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第三十一条第二項（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第五項、第三十条、第三十一条第一項</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>第五項（同条第一項、第三項及び第五項については、附則第五条第三項の規定により読み替えて適用される場合を含む。）、第三十条（同項の規定により読み替えて適用される場合を含む。）、第三十一条第一項（附則第五条第三項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第六十四条第二号</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>場合</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>場合及びこれらの規定が附則第五条第三項の規定により読み替えて適用される場合</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第六十六条第一号及び第二号</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>ついては、</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>ついては</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第六十六条第一号</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>含む</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>含み、第二十六条第四項及び第六項、第二十八条第二項並びに第二十八条の二第一項については附則第五条第三項の規定により読み替えて適用される場合を含む</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第六十六条第二号</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>含む</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>含み、第二十六条第一項及び第三十条については附則第五条第三項の規定により読み替えて適用される場合を含む</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第六十六条第三号</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>含む</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>含み、第二十六条第二項については附則第五条第三項の規定により読み替えて適用される場合を含む</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第六十六条第七号及び第八号</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>場合</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>場合及び附則第五条第三項の規定により読み替えて適用される場合</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn Valign="top">
-                  <Sentence>第六十七条</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>から前条まで</Sentence>
-                </TableColumn>
-                <TableColumn Valign="top">
-                  <Sentence>、第六十四条（附則第五条第三項の規定により読み替えて適用される場合を含む。）、第六十五条及び前条（同項の規定により読み替えて適用される場合を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-            </Table>
-          </TableStruct>
-        </Paragraph>
-        <Paragraph Num="4">
-          <ParagraphNum>４</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>前項の規定により第五十八条第一項の規定を読み替えて適用する場合における農業保険法（昭和二十二年法律第百八十五号）第九十八条第一項の規定の適用については、同項第二号中「第四号」とあるのは「第四号（同法附則第五条第三項の規定により読み替えて適用される場合を含む。）」と、「同条第二項」とあるのは「同法第五十八条第二項」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="6">
-        <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>都道府県知事は、当分の間、家畜以外の動物におけるアフリカ豚熱のまん延によるその病原体の拡散を防止するため必要がある場合には、その必要な限度において、家畜以外の動物であつてアフリカ豚熱にかかつていることが発見されたものがいた場所又はその死体があつた場所その他アフリカ豚熱の病原体により汚染し、又は汚染したおそれがある場所又は物品を当該都道府県の職員に消毒させることができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>都道府県知事は、前項の規定による消毒をする場所の付近を通行する者に対し、家畜以外の動物におけるアフリカ豚熱のまん延によるその病原体の拡散を防止するため必要な限度において、その身体又はその場所の付近を通過させる車両の消毒を受けるよう求めることができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>都道府県知事又は市町村長は、当分の間、家畜以外の動物におけるアフリカ豚熱のまん延によるその病原体の拡散を防止するため緊急の必要があると認める場合には、その必要な限度において、相当の期間を定め、家畜以外の動物であつてアフリカ豚熱にかかつていることが発見されたものがいた場所又はその死体があつた場所（これに隣接してアフリカ豚熱の病原体により汚染し、又は汚染したおそれがある場所を含む。）とその他の場所との通行を制限し、又は遮断することができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="4">
-          <ParagraphNum>４</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>都道府県知事又は市町村長は、前項の規定により通行を制限し、又は遮断しようとするときは、あらかじめ、通行が制限され、又は遮断されるべき場所を管轄する警察署長にその旨を通報するとともに、市町村長にあつては都道府県知事にその旨を報告しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="5">
-          <ParagraphNum>５</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>前項の場合において、同項に規定する場所に鉄道若しくは軌道が敷設されているとき又は当該場所の全部若しくは一部が港若しくは飛行場の区域の全部若しくは一部であるときは、同項の通報前にこれらの施設を管理する者に協議しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="6">
-          <ParagraphNum>６</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>第三項の規定による通行の制限又は遮断は、適当な場所にその旨及び理由その他農林水産省令で定める事項を掲示し、かつ、制限し、又は遮断すべき場所への通路に綱を張り、夜間は赤色灯又は黄色灯をつけ、その他その場所とその他の場所とを明確に識別できる方法により行わなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="7">
-        <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>都道府県知事は、当分の間、家畜におけるアフリカ豚熱のまん延（家畜以外の動物におけるアフリカ豚熱のまん延によるその病原体の拡散を含む。）を防止するため必要がある場合において、飼養衛生管理基準が定められた家畜の所有者が当該飼養衛生管理基準（衛生管理区域（第八条の二第一項に規定する施設及びその敷地をいう。以下この項において同じ。）内におけるアフリカ豚熱の病原体による汚染の拡大の防止の方法及び衛生管理区域外へのアフリカ豚熱の病原体の拡散の防止の方法に係る部分に限る。）を遵守していないと認めるときは、改善すべき事項を記載した文書の提示その他の農林水産省令で定める方法により、その者に対し、期限を定めて、衛生管理区域内におけるアフリカ豚熱の病原体による汚染の拡大の防止の方法又は衛生管理区域外へのアフリカ豚熱の病原体の拡散の防止の方法を改善すべきことを勧告することができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>都道府県知事は、前項の規定による勧告を受けた者がその勧告に従わないときは、改善すべき事項を記載した文書の提示その他の農林水産省令で定める方法により、その者に対し、期限を定めて、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="8">
-        <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>附則第六条第一項から第三項まで及び前条の規定による措置には、第三十五条及び第四十七条の規定を準用する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="9">
-        <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>附則第五条第三項の規定により読み替えて適用される第二十六条、第二十八条の二及び第三十条から第三十五条まで並びに附則第六条及び第七条並びに前条において準用する第三十五条の規定により地方公共団体が処理することとされている事務は、地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="10">
-        <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>次の各号のいずれかに該当する者は、三十万円以下の罰金に処する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence>附則第六条第三項の規定による通行の制限又は遮断に違反した者</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence>附則第七条第二項の規定による命令に違反した者</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、前項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して同項の刑を科する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -5084,6 +4732,18 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="2">
+        <ArticleCaption>（家畜の伝染性疾病の名称の変更に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行の日（以下「施行日」という。）前にされたこの法律による改正前の家畜伝染病予防法（以下「旧法」という。）第二条第一項の表六の項に規定する水胞性口炎、同表十の項に規定するブルセラ病、同表十一の項に規定する結核病、同表十三の項に規定するピロプラズマ病、同表十四の項に規定するアナプラズマ病、同表二十二の項に規定する豚水胞病又は同表二十七の項に規定する家きんサルモネラ感染症に係る処分、手続その他の行為は、それぞれこの法律による改正後の家畜伝染病予防法（以下「新法」という。）第二条第一項の表六の項に規定する水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>性口内炎、同表十の項に規定するブルセラ症、同表十一の項に規定する結核、同表十三の項に規定するピロプラズマ症、同表十四の項に規定するアナプラズマ症、同表二十二の項に規定する豚水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>病又は同表二十七の項に規定する家きんサルモネラ症に係る処分、手続その他の行為としてされたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="3">
         <ArticleCaption>（準備行為）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
@@ -5100,6 +4760,42 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="4">
+        <ArticleCaption>（命令に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第十二条の六第二項の改正規定（「ときは」の下に「、飼養衛生管理指導等計画に即して」を加える部分を除く。）による改正後の家畜伝染病予防法第十二条の六第二項の規定は、施行日以後にされる同項の規定による命令について適用し、施行日前にされた同改正規定による改正前の同法第十二条の六第二項の規定による命令については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>新法第十二条の六第三項の規定は、施行日以後にされる同条第二項の規定による命令について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（アフリカ豚熱に関する特例の削除に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>施行日前にされた旧法附則第五条から第九条までの規定又はこれらの規定に基づく命令の規定に基づく行政庁の処分その他の行為については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条第二号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="7">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
@@ -5107,6 +4803,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後五年を経過した場合において、この法律による改正後の規定の施行の状況を勘案し、必要があると認めるときは、当該規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

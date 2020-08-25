@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="77" Year="03">
+<Law DataInfo="200127e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="77" Year="03">
   <LawNum>平成三年法律第七十七号</LawNum>
   <LawBody>
     <LawTitle>暴力団員による不当な行為の防止等に関する法律</LawTitle>
@@ -4099,6 +4099,29 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月四日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="38">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為及びこの法律の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
@@ -4231,8 +4254,7 @@
       <Item Delete="false" Hide="false" Num="22">
         <ItemTitle>二十二</ItemTitle>
         <ItemSentence>
-          <Sentence WritingMode="vertical">覚<Ruby>せ<Rt>ヽ</Rt>い<Rt>ヽ</Rt>
-</Ruby>剤取締法（昭和二十六年法律第二百五十二号）第八章に規定する罪</Sentence>
+          <Sentence WritingMode="vertical">覚醒剤取締法（昭和二十六年法律第二百五十二号）第八章に規定する罪</Sentence>
         </ItemSentence>
       </Item>
       <Item Delete="false" Hide="false" Num="23">

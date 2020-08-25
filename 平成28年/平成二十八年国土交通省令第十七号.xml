@@ -179,16 +179,24 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="3">
-              <Sentence WritingMode="vertical">十の二　保安基準第八条第六項に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical">十の二　保安基準第八条第六項に係る試験（次号に掲げる試験を除く。）</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence WritingMode="vertical">十八万七千円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="3">
-              <Sentence WritingMode="vertical">十の三　保安基準第八条第七項に係る試験</Sentence>
+              <Sentence WritingMode="vertical">十の三　保安基準第八条第六項に係る試験（圧縮水素ガス（水素ガスを主成分とする高圧ガスをいう。）を燃料とする自動車に係る試験に限る。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="2">
+              <Sentence WritingMode="vertical">二十七万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="3">
+              <Sentence WritingMode="vertical">十の四　保安基準第八条第七項に係る試験</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="2">
               <Sentence WritingMode="vertical">三十五万二千円</Sentence>
@@ -1506,7 +1514,7 @@
               <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="2">
-              <Sentence WritingMode="vertical">第十号の二及び第十号の三</Sentence>
+              <Sentence WritingMode="vertical">第十号の二及び第十号の四</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
               <Sentence WritingMode="vertical">三十五万二千円</Sentence>
@@ -1520,7 +1528,7 @@
               <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="2">
-              <Sentence WritingMode="vertical">第十号の二、第十号の三及び第七十七号</Sentence>
+              <Sentence WritingMode="vertical">第十号の二、第十号の四及び第七十七号</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
               <Sentence WritingMode="vertical">三十五万二千円</Sentence>
@@ -1700,11 +1708,25 @@
             </TableColumn>
           </TableRow>
           <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">第十号の三</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
+              <Sentence WritingMode="vertical">三十五万二千円</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
               <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">第十号の三</Sentence>
+              <Sentence WritingMode="vertical">第十号の四</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="2">
               <Sentence WritingMode="vertical">四十七万七千円</Sentence>
@@ -1767,7 +1789,7 @@
               <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">第十号の二及び第十号の三</Sentence>
+              <Sentence WritingMode="vertical">第十号の二及び第十号の四</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="2">
               <Sentence WritingMode="vertical">四十七万七千円</Sentence>
@@ -1781,7 +1803,7 @@
               <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">第十号の二、第十号の三及び第七十七号</Sentence>
+              <Sentence WritingMode="vertical">第十号の二、第十号の四及び第七十七号</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="2">
               <Sentence WritingMode="vertical">四十七万七千円</Sentence>
@@ -3293,6 +3315,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、道路運送車両法の一部を改正する法律の施行の日（令和二年四月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月一日国土交通省令第四一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
