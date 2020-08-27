@@ -1477,19 +1477,19 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">液化石油ガス保安規則第七十八条第四項において準用する同令第七十七条第二項から第四項までに規定する特定施設の保安検査を行う者としての指定</Sentence>
+                <Sentence WritingMode="vertical">液化石油ガス保安規則第七十八条第四項において準用する同令第七十七条第二項及び第四項から第七項までに規定する特定施設の保安検査を行う者としての指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">一般高圧ガス保安規則第八十条第四項において準用する同令第七十九条第二項から第四項までに規定する特定施設の保安検査を行う者としての指定</Sentence>
+                <Sentence WritingMode="vertical">一般高圧ガス保安規則第八十条第四項において準用する同令第七十九条第二項及び第四項から第七項までに規定する特定施設の保安検査を行う者としての指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">コンビナート等保安規則第三十五条第四項において準用する同令第三十四条第二項から第四項までに規定する特定施設の保安検査を行う者としての指定</Sentence>
+                <Sentence WritingMode="vertical">コンビナート等保安規則第三十五条第四項において準用する同令第三十四条第二項及び第四項から第七項までに規定する特定施設の保安検査を行う者としての指定</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="5">
@@ -4658,6 +4658,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月二六日経済産業省令第六〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

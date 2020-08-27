@@ -31,10 +31,10 @@
                   <Sentence WritingMode="vertical">本省</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一九、四九七人</Sentence>
+                  <Sentence WritingMode="vertical">一九、五一四人</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">うち、二七人は、一般職の職員の定員とする。</Sentence>
+                  <Sentence WritingMode="vertical">うち、二六人は、一般職の職員の定員とする。</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -42,7 +42,7 @@
                   <Sentence WritingMode="vertical">防衛装備庁</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一、四〇六人</Sentence>
+                  <Sentence WritingMode="vertical">一、四一〇人</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical"/>
@@ -53,7 +53,7 @@
                   <Sentence WritingMode="vertical">合計</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">二〇、九〇三人</Sentence>
+                  <Sentence WritingMode="vertical">二〇、九二四人</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical"/>
@@ -134,6 +134,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、平成三十一年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日防衛省令第三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

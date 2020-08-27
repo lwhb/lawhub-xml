@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200508e01k01m02" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="298" Year="12">
+<Law DataInfo="200731e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="298" Year="12">
   <LawNum>平成十二年政令第二百九十八号</LawNum>
   <LawBody>
     <LawTitle>国土審議会令</LawTitle>
@@ -252,7 +252,7 @@
                   <Sentence>土地政策分科会</Sentence>
                 </TableColumn>
                 <TableColumn>
-                  <Sentence>国土交通省土地・建設産業局総務課</Sentence>
+                  <Sentence>国土交通省不動産・建設経済局土地政策課</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -610,6 +610,19 @@
           <Sentence Function="proviso" Num="2">ただし、第一条の規定（国土審議会令第二条第一項の表土地政策分科会の項中「同条第六項」を「同条第七項」に改める部分を除く。）及び第三条の規定は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一九日政令第一九二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、令和二年七月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
