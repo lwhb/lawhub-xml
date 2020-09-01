@@ -4233,13 +4233,13 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">自衛官任用一時金の額は、十七万六千円とする。</Sentence>
+            <Sentence WritingMode="vertical">自衛官任用一時金の額は、二十二万千円とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">自衛官任用一時金は、自衛官候補生から引き続いて自衛官となつた日の属する月の翌月に支給する。</Sentence>
+            <Sentence WritingMode="vertical">自衛官任用一時金は、自衛官候補生から引き続いて自衛官となつた日の属する月又はその翌月に支給する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -18159,6 +18159,41 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月三日政令第二一五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この政令は、令和二年八月二十八日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この政令の施行の日（次項において「施行日」という。）の前日において二等陸士、二等海士若しくは二等空士である自衛官又は自衛官候補生として在職していた者に対する自衛官任用一時金の額については、この政令による改正後の防衛省の職員の給与等に関する法律施行令（以下「新防衛省職員給与令」という。）第十九条の二第一項の規定にかかわらず、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日の前日において陸士長、海士長若しくは空士長、一等陸士、一等海士若しくは一等空士若しくは二等陸士、二等海士若しくは二等空士である自衛官又は自衛官候補生として在職していた者に対する昇任又は降任の場合における号俸の決定基準については、新防衛省職員給与令別表第一ロの表及び別表第一の二ロの表の規定にかかわらず、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項に定めるもののほか、新防衛省職員給与令別表第一ロの表及び別表第一の二ロの表の規定の適用に関し必要な事項は、防衛大臣が定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一（第六条の六関係）</AppdxTableTitle>
       <Item Delete="false" Hide="false" Num="イ">
@@ -19854,7 +19889,7 @@
                 <Sentence WritingMode="vertical">８</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１</Sentence>
+                <Sentence WritingMode="vertical">２</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -19907,7 +19942,7 @@
                 <Sentence WritingMode="vertical">９</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１</Sentence>
+                <Sentence WritingMode="vertical">３</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -19960,7 +19995,7 @@
                 <Sentence WritingMode="vertical">１０</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">３</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -20013,7 +20048,7 @@
                 <Sentence WritingMode="vertical">１１</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">４</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -20066,7 +20101,7 @@
                 <Sentence WritingMode="vertical">１２</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">４</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -20119,7 +20154,7 @@
                 <Sentence WritingMode="vertical">１３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">５</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -20169,10 +20204,10 @@
                 <Sentence WritingMode="vertical">６</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">１３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">６</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -20222,10 +20257,10 @@
                 <Sentence WritingMode="vertical">７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">１４</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">７</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -20275,10 +20310,10 @@
                 <Sentence WritingMode="vertical">８</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">１４</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">８</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -20328,10 +20363,10 @@
                 <Sentence WritingMode="vertical">９</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">１５</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">９</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -20696,7 +20731,7 @@
                 <Sentence WritingMode="vertical">１６</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１６</Sentence>
+                <Sentence WritingMode="vertical">１５</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -20749,7 +20784,7 @@
                 <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１７</Sentence>
+                <Sentence WritingMode="vertical">１６</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -20802,7 +20837,7 @@
                 <Sentence WritingMode="vertical">１８</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１８</Sentence>
+                <Sentence WritingMode="vertical">１６</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -20855,7 +20890,7 @@
                 <Sentence WritingMode="vertical">１９</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１９</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -20908,7 +20943,7 @@
                 <Sentence WritingMode="vertical">２０</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２０</Sentence>
+                <Sentence WritingMode="vertical">１８</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -20961,7 +20996,7 @@
                 <Sentence WritingMode="vertical">２１</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２１</Sentence>
+                <Sentence WritingMode="vertical">１９</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -21014,7 +21049,7 @@
                 <Sentence WritingMode="vertical">２２</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２２</Sentence>
+                <Sentence WritingMode="vertical">１９</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -21067,7 +21102,7 @@
                 <Sentence WritingMode="vertical">２３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２３</Sentence>
+                <Sentence WritingMode="vertical">２０</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -21120,7 +21155,7 @@
                 <Sentence WritingMode="vertical">２４</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２４</Sentence>
+                <Sentence WritingMode="vertical">２１</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -21173,7 +21208,7 @@
                 <Sentence WritingMode="vertical">２５</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２５</Sentence>
+                <Sentence WritingMode="vertical">２１</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -27904,7 +27939,7 @@
                 <Sentence WritingMode="vertical">１</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">７</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -27957,7 +27992,7 @@
                 <Sentence WritingMode="vertical">１</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">８</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28010,7 +28045,7 @@
                 <Sentence WritingMode="vertical">１</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">１０</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28063,7 +28098,7 @@
                 <Sentence WritingMode="vertical">２</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">１２</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28116,7 +28151,7 @@
                 <Sentence WritingMode="vertical">３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">１３</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28169,7 +28204,7 @@
                 <Sentence WritingMode="vertical">４</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">１４</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28222,7 +28257,7 @@
                 <Sentence WritingMode="vertical">５</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">１５</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28275,7 +28310,7 @@
                 <Sentence WritingMode="vertical">７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">１６</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28328,7 +28363,7 @@
                 <Sentence WritingMode="vertical">８</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28381,7 +28416,7 @@
                 <Sentence WritingMode="vertical">１０</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28434,7 +28469,7 @@
                 <Sentence WritingMode="vertical">１１</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28487,7 +28522,7 @@
                 <Sentence WritingMode="vertical">１２</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28537,10 +28572,10 @@
                 <Sentence WritingMode="vertical">２１</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１４</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">９</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28590,10 +28625,10 @@
                 <Sentence WritingMode="vertical">２２</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１６</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28640,13 +28675,13 @@
                 <Sentence WritingMode="vertical">２１</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２３</Sentence>
+                <Sentence WritingMode="vertical">２４</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28693,13 +28728,13 @@
                 <Sentence WritingMode="vertical">２２</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２４</Sentence>
+                <Sentence WritingMode="vertical">２６</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28746,13 +28781,13 @@
                 <Sentence WritingMode="vertical">２３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２５</Sentence>
+                <Sentence WritingMode="vertical">２７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical"/>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -28799,10 +28834,10 @@
                 <Sentence WritingMode="vertical">２４</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２６</Sentence>
+                <Sentence WritingMode="vertical">２８</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -28852,10 +28887,10 @@
                 <Sentence WritingMode="vertical">２５</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２７</Sentence>
+                <Sentence WritingMode="vertical">３０</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -28905,10 +28940,10 @@
                 <Sentence WritingMode="vertical">２６</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２８</Sentence>
+                <Sentence WritingMode="vertical">３１</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -28958,10 +28993,10 @@
                 <Sentence WritingMode="vertical">２８</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">２９</Sentence>
+                <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -29011,10 +29046,10 @@
                 <Sentence WritingMode="vertical">２９</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">３０</Sentence>
+                <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -29064,10 +29099,10 @@
                 <Sentence WritingMode="vertical">３０</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">３１</Sentence>
+                <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -29117,10 +29152,10 @@
                 <Sentence WritingMode="vertical">３１</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">３２</Sentence>
+                <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -29173,7 +29208,7 @@
                 <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -29226,7 +29261,7 @@
                 <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -29279,7 +29314,7 @@
                 <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -29332,7 +29367,7 @@
                 <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -29385,7 +29420,7 @@
                 <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -29438,7 +29473,7 @@
                 <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -29491,7 +29526,7 @@
                 <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -29544,7 +29579,7 @@
                 <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>
@@ -29597,7 +29632,7 @@
                 <Sentence WritingMode="vertical">３３</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                <Sentence WritingMode="vertical">１３</Sentence>
+                <Sentence WritingMode="vertical">１７</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                 <Sentence WritingMode="vertical"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200508e01k01m02" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="59" Year="27">
+<Law DataInfo="200731e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="59" Year="27">
   <LawNum>昭和二十七年政令第五十九号</LawNum>
   <LawBody>
     <LawTitle>国土調査法施行令</LawTitle>
@@ -219,12 +219,7 @@
               </List>
               <List>
                 <ListSentence>
-                  <Sentence>市街地にあつては、街区の形状並びに不動産登記法（平成十六年法律第百二十三号）第十四条第一項の地図又は同条第四項の地図に準ずる図面に表示された土地の区画又は位置及び形状を構成する点（以下このイにおいて「登記所備付け地図等に表示された土地の区画等を構成する点」という。）のうち当該街区の形状に係るものの現地における位置</Sentence>
-                </ListSentence>
-              </List>
-              <List>
-                <ListSentence>
-                  <Sentence>市街地以外の地域にあつては、登記所備付け地図等に表示された土地の区画等を構成する点のうち三筆以上の土地の境を構成するものの現地における位置</Sentence>
+                  <Sentence>街区の形状、地形、植生、地盤の変動その他の事項であつて、土地の境界の測量の基礎となるものとして国土交通省令で定めるもの</Sentence>
                 </ListSentence>
               </List>
             </Subitem1>
@@ -1646,6 +1641,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日政令第一八三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1">この政令は、土地基本法等の一部を改正する法律附則第一項第三号に掲げる規定の施行の日（令和二年九月二十九日）から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、第一条中国土調査法施行令第二条第一項第四号イの改正規定は、同年六月十五日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一　座標系の区分等</AppdxTableTitle>
       <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
@@ -2387,7 +2392,7 @@
       <RelatedArticleNum>（第二十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27SE059_2005191105_001.pdf"/>
+          <Fig src="./pict/S27SE059_2008261608_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
