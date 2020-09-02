@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e04k09m02" Era="Showa" Lang="ja" LawType="Act" Num="162" Year="31">
+<Law DataInfo="200828e05k07m03" Era="Showa" Lang="ja" LawType="Act" Num="162" Year="31">
   <LawNum>昭和三十一年法律第百六十二号</LawNum>
   <LawBody>
     <LawTitle>地方教育行政の組織及び運営に関する法律</LawTitle>
@@ -3377,7 +3377,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律は、平成三十二年四月一日から施行する。</Sentence>
+            <Sentence>この法律は、令和二年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3456,6 +3456,19 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>

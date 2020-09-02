@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200824e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="52" Year="19">
+<Law DataInfo="200811e01k01m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="52" Year="19">
   <LawNum>平成十九年内閣府令第五十二号</LawNum>
   <LawBody>
     <LawTitle>金融商品取引業等に関する内閣府令</LawTitle>
@@ -3664,7 +3664,7 @@
                   <ListSentence>
                     <Sentence>
                       <ArithFormula>
-                        <Fig src="./pict/H19F10001000052_2005071505_001.jpg"/>
+                        <Fig src="./pict/H19F10001000052_2008181408_001.jpg"/>
                       </ArithFormula>
                     </Sentence>
                   </ListSentence>
@@ -6627,6 +6627,36 @@
                 <ParagraphSentence>
                   <Sentence>法第三十五条の三の規定により金融商品取引業者等（親会社（法第五十七条の二第八項に規定する親会社をいう。以下この項において同じ。）が外国会社である者のうち金融庁長官が指定する者に限る。）が整備しなければならない業務管理体制は、第一項の要件のほか、金融庁長官が定めるところにより、親会社との間において、業務の継続的な実施を確保するための措置がとられていることとする。</Sentence>
                 </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="7">
+                <ParagraphNum>７</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>法第三十五条の三の規定により金融商品取引業者等（取引所金融商品市場における有価証券の売買若しくは市場デリバティブ取引（当該取引所金融商品市場を開設する金融商品取引所の業務規程で定める売買立会又は立会によらないものに限る。）又はこれらの取引の委託の取次ぎ（有価証券等清算取次ぎを除く。）であって社内取引システム（当該金融商品取引業者等その他の者が、電子情報処理組織を使用して、同時に多数の者を一方の当事者又は各当事者として、当該有価証券の売買若しくは市場デリバティブ取引の価格その他の取引の条件の決定又はこれに類似する行為を行うものをいい、令第二十六条の二の二第七項に規定する私設取引システムを除く。以下この項及び第百五十八条第五項において同じ。）を使用して行うものを業として行う者に限る。）が整備しなければならない業務管理体制は、第一項の要件のほか、次に掲げる要件を満たさなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>その使用する社内取引システム（当該金融商品取引業者等が開設するものを除く。）の運営の状況を把握するための措置がとられていること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>その使用する社内取引システムに関し、顧客に対して、次に掲げる事項について、当該顧客の知識、経験、財産の状況及び当該有価証券の売買又は市場デリバティブ取引を行う目的を踏まえた適切な説明を行うための措置がとられていること。</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence>当該社内取引システムを使用する場合の条件</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence>当該社内取引システムを開設する者、取引の条件の決定に参加できる者、取引の条件の決定方法その他の当該社内取引システムの運営に関する情報</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
               </Paragraph>
             </Article>
             <Article Num="70_3">
@@ -10068,7 +10098,7 @@
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence>次に掲げる場合にあっては、当該金融商品取引契約が成立し、又は当該受渡しを行った日の属する報告対象期間（一年を三月以下の期間ごとに区分した期間（直近に取引残高報告書を作成した日から一年間当該金融商品取引契約が成立しておらず、又は当該受渡しを行っていない場合であって、金銭又は有価証券、商品（寄託された商品に関して発行された証券又は証書を含む。）の残高があるときにあっては、一年又は一年を一年未満の期間ごとに区分した期間）をいう。以下同じ。）の末日ごと</Sentence>
+                      <Sentence>次に掲げる場合にあっては、当該金融商品取引契約が成立し、又は当該受渡しを行った日の属する報告対象期間（一年を三月以下の期間ごとに区分した期間（直近に取引残高報告書を作成した日から一年間当該金融商品取引契約が成立しておらず、又は当該受渡しを行っていない場合であって、金銭又は有価証券の残高があるときにあっては、一年又は一年を一年未満の期間ごとに区分した期間）をいう。以下同じ。）の末日ごと</Sentence>
                     </Subitem1Sentence>
                     <Subitem2 Num="1">
                       <Subitem2Title>（１）</Subitem2Title>
@@ -21453,6 +21483,36 @@
                 <ParagraphSentence>
                   <Sentence Num="1">高速取引行為に関する第一項の注文伝票については、第二項第三号及び第四号並びに前項第六号の規定は適用せず、第三百三十八条第六項及び第七項の規定を準用する。</Sentence>
                   <Sentence Num="2">この場合において、同項中「次に掲げるところにより」とあるのは、「高速取引行為に関するものであることが判別できるようにし、かつ、次に掲げるところにより」と読み替えるものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>第一項及び第三項の規定によるもののほか、社内取引システムを使用して行う第七十条の二第七項に規定する取次ぎ（取引所金融商品市場等（取引所金融商品市場又は令第二十六条の二の二第七項に規定する私設取引システムをいう。第三号において同じ。）における価格（価格に相当する事項を含む。以下この項において同じ。）と比較して当該価格と同一又はそれよりも有利な価格で行うことを主たる目的としないものを除く。）に関する第一項の注文伝票には、次に掲げる事項を記載しなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>当該社内取引システムの名称</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>当該社内取引システムにおいて決定された価格及びその時刻</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>当該社内取引システムの使用に際して比較した取引所金融商品市場等及び社内取引システムにおける価格並びにその時刻</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence>第二項及び第三項の規定によるもののほか、前項に規定する取次ぎに関する第一項の注文伝票は、当該取次ぎに関するものであることが判別できるようにしなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -47521,7 +47581,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>金融商品取引業等に関する内閣府令第百二十三条第十三項の規定の適用については、同項中「一兆千億円」とあるのは、施行日から平成二十九年八月三十一日までの間は「四百二十兆円」と、同年九月一日から平成三十年八月三十一日までの間は「三百十五兆円」と、同年九月一日から令和元年八月三十一日までの間は「二百十兆円」と、同年九月一日から令和二年八月三十一日までの間は「百五兆円」と、同年九月一日から令和三年八月三十一日までの間は「七兆円」とする。</Sentence>
+            <Sentence>金融商品取引業等に関する内閣府令第百二十三条第十三項の規定の適用については、同項中「一兆千億円」とあるのは、施行日から平成二十九年八月三十一日までの間は「四百二十兆円」と、同年九月一日から平成三十年八月三十一日までの間は「三百十五兆円」と、同年九月一日から令和元年八月三十一日までの間は「二百十兆円」と、同年九月一日から令和三年八月三十一日までの間は「百五兆円」と、同年九月一日から令和四年八月三十一日までの間は「七兆円」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -47917,6 +47977,41 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月二八日内閣府令第三八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この府令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一九日内閣府令第四八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この府令は、令和二年九月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この府令による改正後の金融商品取引業等に関する内閣府令第百五十八条第五項及び第六項の規定は、この府令の施行の日から起算して一年を経過する日までの間は、適用しない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月二五日内閣府令第四九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この府令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表（第百二十五条の八関係）</AppdxTableTitle>
       <TableStruct>
@@ -47955,7 +48050,7 @@
       <AppdxStyleTitle>別紙様式第一号（第五条、第二十条第一項、第二十二条第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_002.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -47963,7 +48058,7 @@
       <AppdxStyleTitle>別紙様式第一号の二（第九条、第三百二十九条第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_003.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -47971,7 +48066,7 @@
       <AppdxStyleTitle>別紙様式第二号（第二十五条第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_004.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -47979,7 +48074,7 @@
       <AppdxStyleTitle>別紙様式第三号（第二十七条第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_005.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -47987,7 +48082,7 @@
       <AppdxStyleTitle>別紙様式第四号（第二十七条第二項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_006.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -47995,7 +48090,7 @@
       <AppdxStyleTitle>別紙様式第五号（第二十七条第二項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_007.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48003,7 +48098,7 @@
       <AppdxStyleTitle>別紙様式第六号（第二十七条第四項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_008.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48011,7 +48106,7 @@
       <AppdxStyleTitle>別紙様式第七号（第二十七条第四項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_009.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48019,7 +48114,7 @@
       <AppdxStyleTitle>別紙様式第八号（第三十六条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_010.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48027,7 +48122,7 @@
       <AppdxStyleTitle>別紙様式第八号の二（第三十八条の二関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_011.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48035,7 +48130,7 @@
       <AppdxStyleTitle>別紙様式第八号の三（第三十八条の五関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_012.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48043,7 +48138,7 @@
       <AppdxStyleTitle>別紙様式第九号（第四十三条、第五十一条第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_013.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48051,7 +48146,7 @@
       <AppdxStyleTitle>別紙様式第十号（第七十一条第一号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_014.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48059,7 +48154,7 @@
       <AppdxStyleTitle>別紙様式第十一号（第七十一条第二号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_015.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48067,7 +48162,7 @@
       <AppdxStyleTitle>別紙様式第十二号（第百七十二条第一項、第百八十二条第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_016.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48075,7 +48170,7 @@
       <AppdxStyleTitle>別紙様式第十三号（第百七十三条第一号、第百八十八条第一号、第百九十五条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_017.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48083,7 +48178,7 @@
       <AppdxStyleTitle>別紙様式第十四号（第百七十三条第二号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_018.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48091,7 +48186,7 @@
       <AppdxStyleTitle>別紙様式第十五号（第百七十九条第三項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_019.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48099,7 +48194,7 @@
       <AppdxStyleTitle>別紙様式第十五号の二（第百八十三条第一項、第二項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_020.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48107,7 +48202,7 @@
       <AppdxStyleTitle>別紙様式第十六号（第百八十七条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_021.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48115,7 +48210,7 @@
       <AppdxStyleTitle>別紙様式第十七号（第百八十八条第二号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_022.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48123,7 +48218,7 @@
       <AppdxStyleTitle>別紙様式第十七号の二（第二百八条の五第一号、第二百八条の十第一項第一号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_023.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48131,7 +48226,7 @@
       <AppdxStyleTitle>別紙様式第十七号の三（第二百八条の五第二号、第二百八条の十第一項第二号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_024.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48139,7 +48234,7 @@
       <AppdxStyleTitle>別紙様式第十七号の四（第二百八条の十二第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_025.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48147,7 +48242,7 @@
       <AppdxStyleTitle>別紙様式第十七号の五（第二百八条の二十三第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_026.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48155,7 +48250,7 @@
       <AppdxStyleTitle>別紙様式第十七号の六（第二百八条の二十五第一項第一号関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_027.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48163,7 +48258,7 @@
       <AppdxStyleTitle>別紙様式第十八号（第二百十八条、第二百二十二条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_028.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48171,7 +48266,7 @@
       <AppdxStyleTitle>別紙様式第十九号（第二百二十六条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_029.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48179,7 +48274,7 @@
       <AppdxStyleTitle>別紙様式第十九号の二（第二百三十二条の二、第二百三十二条の七関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_030.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48187,7 +48282,7 @@
       <AppdxStyleTitle>別紙様式第十九号の三（第二百三十二条の十一関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_031.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48195,7 +48290,7 @@
       <AppdxStyleTitle>別紙様式第二十号（第二百三十六条、第二百三十九条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_032.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48203,7 +48298,7 @@
       <AppdxStyleTitle>別紙様式第二十号の二（第二百三十八条の四、第二百三十八条の五関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_033.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48211,7 +48306,7 @@
       <AppdxStyleTitle>別紙様式第二十一号（第二百四十四条、第二百四十四条の二関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_034.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48219,7 +48314,7 @@
       <AppdxStyleTitle>別紙様式第二十一号の二（第二百四十六条の三関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_035.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48227,7 +48322,7 @@
       <AppdxStyleTitle>別紙様式第二十一号の三（第二百四十六条の五関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_036.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48235,7 +48330,7 @@
       <AppdxStyleTitle>別紙様式第二十二号（第二百四十九条、第二百八十九条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_037.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48243,7 +48338,7 @@
       <AppdxStyleTitle>別紙様式第二十三号（第二百五十二条第一項、第二百九十二条第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_038.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_038.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48251,7 +48346,7 @@
       <AppdxStyleTitle>別紙様式第二十四号（第二百五十七条、第二百六十三条第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_039.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_039.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48259,7 +48354,7 @@
       <AppdxStyleTitle>別紙様式第二十五号（第二百六十五条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_040.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_040.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48267,7 +48362,7 @@
       <AppdxStyleTitle>別紙様式第二十六号（第二百八十四条第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_041.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_041.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48275,7 +48370,7 @@
       <AppdxStyleTitle>別紙様式第二十七号（第二百九十六条、第三百四条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_042.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_042.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48283,7 +48378,7 @@
       <AppdxStyleTitle>別紙様式第二十八号（第三百十六条第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_043.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_043.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48291,7 +48386,7 @@
       <AppdxStyleTitle>別紙様式第二十九号（第三百二十六条第一項、第三百三十四条第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_044.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_044.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -48299,7 +48394,7 @@
       <AppdxStyleTitle>別紙様式第三十号（第三百三十九条第一項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H19F10001000052_2005071505_045.pdf"/>
+          <Fig src="./pict/H19F10001000052_2008181408_045.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="063" Year="29">
+<Law DataInfo="200820e03k09m03" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="063" Year="29">
   <LawNum>平成二十九年農林水産省令第六十三号</LawNum>
   <LawBody>
     <LawTitle>農業保険法施行規則</LawTitle>
@@ -5099,7 +5099,7 @@
                 <Item Delete="false" Hide="false" Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">共済価額が、第百五十九条の規定により申し出た金額以下であること。</Sentence>
+                    <Sentence WritingMode="vertical">共済価額が、第百五十九条第一項の規定により申し出た金額以下であること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Delete="false" Hide="false" Num="2">
@@ -5171,6 +5171,18 @@
                   <Sentence WritingMode="vertical">法第百五十九条第一項の共済金額は、同項の共済価額の百分の四十に相当する金額を下回らず、当該共済価額の百分の八十に相当する金額を超えない範囲内において、組合員又は共済資格者が申し出た金額とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
+              <Paragraph Hide="false" Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">組合員又は共済資格者は、前項の規定により法第百五十九条第一項の共済価額の百分の八十に相当する金額を申し出た場合には、前項の規定にかかわらず、当該金額に、当該共済価額（施設内農作物に係るものを除く。）の百分の十又は百分の二十に相当する金額のうち組合員又は共済資格者が申し出た金額を加えて得た金額を法第百五十九条第一項の共済金額とする旨の特約をすることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">組合員又は共済資格者は、前項の規定により特約をするに当たっては、第一項の規定による申出と同時にしなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="156">
               <ArticleCaption>（共済価額）</ArticleCaption>
@@ -5233,7 +5245,7 @@
                   <Subitem1 Delete="false" Hide="false" Num="1">
                     <Subitem1Title>イ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence WritingMode="vertical">特定園芸施設（被覆材を除く。）の再建築価額及び附帯施設の再取得価額（当該附帯施設と同一の構造、材質、用途、規模、型及び能力を有するものを取得するのに要する費用に相当する金額をいう。）にそれぞれ農林水産大臣が定める率を乗じて得た金額の合計金額</Sentence>
+                      <Sentence WritingMode="vertical">特定園芸施設（被覆材を除く。）の再建築価額及び附帯施設の再取得価額（当該附帯施設と同一の構造、材質、用途、規模、型及び能力を有するものを取得するのに要する費用に相当する金額をいう。）の合計金額</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Delete="false" Hide="false" Num="2">
@@ -5247,7 +5259,7 @@
               <Paragraph Hide="false" Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">前項の申出は、法第百五十七条第一項の規定による申込みと同時に、当該申込みに係る園芸施設共済の共済関係の全てについてしなければならない。</Sentence>
+                  <Sentence WritingMode="vertical">前項の申出は、法第百五十七条第一項の規定による申込みと同時にしなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -5384,17 +5396,23 @@
                 <Item Delete="false" Hide="false" Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">第百五十九条の規定により申し出た金額の別</Sentence>
+                    <Sentence WritingMode="vertical">第百五十九条第一項の規定により申し出た金額の別</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Delete="false" Hide="false" Num="7">
                   <ItemTitle>七</ItemTitle>
                   <ItemSentence>
-                    <Sentence WritingMode="vertical">特定園芸施設の骨格の主要部分に係るパイプの強度の別</Sentence>
+                    <Sentence WritingMode="vertical">第百五十九条第二項の規定による特約の有無の別</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Delete="false" Hide="false" Num="8">
                   <ItemTitle>八</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">特定園芸施設の骨格の主要部分に係るパイプの強度の別</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="9">
+                  <ItemTitle>九</ItemTitle>
                   <ItemSentence>
                     <Sentence WritingMode="vertical">園芸施設共済に付することの集団による申込みの有無の別</Sentence>
                   </ItemSentence>
@@ -5461,6 +5479,19 @@
                     <Sentence WritingMode="vertical">百万円</Sentence>
                   </ItemSentence>
                 </Item>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">組合員又は共済資格者は、前項の規定により同項第一号に掲げる金額を申し出た場合には、同項の規定にかかわらず、法第百六十一条第一項の農林水産省令で定める金額を一万円とする旨の特約をすることができる。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、共済価額の二十分の一に相当する金額が一万円に満たないときは、この限りでない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">組合員又は共済資格者は、前項の規定により特約をするに当たっては、第一項の規定による申出と同時にしなければならない。</Sentence>
+                </ParagraphSentence>
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="160">

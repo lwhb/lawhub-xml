@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="298" Year="54">
+<Law DataInfo="200731e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="298" Year="54">
   <LawNum>昭和五十四年政令第二百九十八号</LawNum>
   <LawBody>
     <LawTitle>土地家屋調査士法施行令</LawTitle>
@@ -179,7 +179,7 @@
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence>独立行政法人都市再生機構法（平成十五年法律第百号）第十一条第一項第一号から第十六号まで、第二項第一号、第二号及び第四号から第六号まで並びに第三項の事業</Sentence>
+                <Sentence>独立行政法人都市再生機構法（平成十五年法律第百号）第十一条第一項第一号から第十六号まで、第二項第一号、第二号及び第五号から第七号まで並びに第三項の事業</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence>独立行政法人都市再生機構（土地区画整理法第三条第一項、都市再開発法第二条の二第一項又は密集市街地における防災街区の整備の促進に関する法律第百十九条第一項の規定による施行者である場合を除く。）</Sentence>
@@ -655,6 +655,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この政令は、地域再生法の一部を改正する法律の施行の日（令和二年一月五日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月二四日政令第一九九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

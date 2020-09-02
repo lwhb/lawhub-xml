@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200417e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="50" Year="22">
+<Law DataInfo="200626e80k10m02" Era="Showa" Lang="ja" LawType="Act" Num="50" Year="22">
   <LawNum>昭和二十二年法律第五十号</LawNum>
   <LawBody>
     <LawTitle>労働者災害補償保険法</LawTitle>
@@ -19,9 +19,13 @@
           <SectionTitle>第一節　通則</SectionTitle>
           <ArticleRange>（第七条―第十二条の七）</ArticleRange>
         </TOCSection>
-        <TOCSection Delete="false" Num="2">
+        <TOCSection Num="2">
           <SectionTitle>第二節　業務災害に関する保険給付</SectionTitle>
           <ArticleRange>（第十二条の八―第二十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2_2">
+          <SectionTitle>第二節の二　複数業務要因災害に関する保険給付</SectionTitle>
+          <ArticleRange>（第二十条の二―第二十条の十）</ArticleRange>
         </TOCSection>
         <TOCSection Delete="false" Num="3">
           <SectionTitle>第三節　通勤災害に関する保険給付</SectionTitle>
@@ -68,7 +72,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">労働者災害補償保険は、業務上の事由又は通勤による労働者の負傷、疾病、障害、死亡等に対して迅速かつ公正な保護をするため、必要な保険給付を行い、あわせて、業務上の事由又は通勤により負傷し、又は疾病にかかつた労働者の社会復帰の促進、当該労働者及びその遺族の援護、労働者の安全及び衛生の確保等を図り、もつて労働者の福祉の増進に寄与することを目的とする。</Sentence>
+              <Sentence WritingMode="vertical">労働者災害補償保険は、業務上の事由、事業主が同一人でない二以上の事業に使用される労働者（以下「複数事業労働者」という。）の二以上の事業の業務を要因とする事由又は通勤による労働者の負傷、疾病、障害、死亡等に対して迅速かつ公正な保護をするため、必要な保険給付を行い、あわせて、業務上の事由、複数事業労働者の二以上の事業の業務を要因とする事由又は通勤により負傷し、又は疾病にかかつた労働者の社会復帰の促進、当該労働者及びその遺族の援護、労働者の安全及び衛生の確保等を図り、もつて労働者の福祉の増進に寄与することを目的とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -86,7 +90,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">労働者災害補償保険は、第一条の目的を達成するため、業務上の事由又は通勤による労働者の負傷、疾病、障害、死亡等に関して保険給付を行うほか、社会復帰促進等事業を行うことができる。</Sentence>
+              <Sentence WritingMode="vertical">労働者災害補償保険は、第一条の目的を達成するため、業務上の事由、複数事業労働者の二以上の事業の業務を要因とする事由又は通勤による労働者の負傷、疾病、障害、死亡等に関して保険給付を行うほか、社会復帰促進等事業を行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -153,14 +157,20 @@
                   <Sentence WritingMode="vertical">労働者の業務上の負傷、疾病、障害又は死亡（以下「業務災害」という。）に関する保険給付</Sentence>
                 </ItemSentence>
               </Item>
-              <Item Delete="false" Hide="false" Num="2">
+              <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">労働者の通勤による負傷、疾病、障害又は死亡（以下「通勤災害」という。）に関する保険給付</Sentence>
+                  <Sentence>複数事業労働者（これに類する者として厚生労働省令で定めるものを含む。以下同じ。）の二以上の事業の業務を要因とする負傷、疾病、障害又は死亡（以下「複数業務要因災害」という。）に関する保険給付（前号に掲げるものを除く。以下同じ。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">労働者の通勤による負傷、疾病、障害又は死亡（以下「通勤災害」という。）に関する保険給付</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
                 <ItemSentence>
                   <Sentence WritingMode="vertical">二次健康診断等給付</Sentence>
                 </ItemSentence>
@@ -169,7 +179,7 @@
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>○２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項第二号の通勤とは、労働者が、就業に関し、次に掲げる移動を、合理的な経路及び方法により行うことをいい、業務の性質を有するものを除くものとする。</Sentence>
+                <Sentence WritingMode="vertical">前項第三号の通勤とは、労働者が、就業に関し、次に掲げる移動を、合理的な経路及び方法により行うことをいい、業務の性質を有するものを除くものとする。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -193,7 +203,7 @@
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>○３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">労働者が、前項各号に掲げる移動の経路を逸脱し、又は同項各号に掲げる移動を中断した場合においては、当該逸脱又は中断の間及びその後の同項各号に掲げる移動は、第一項第二号の通勤としない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">労働者が、前項各号に掲げる移動の経路を逸脱し、又は同項各号に掲げる移動を中断した場合においては、当該逸脱又は中断の間及びその後の同項各号に掲げる移動は、第一項第三号の通勤としない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該逸脱又は中断が、日常生活上必要な行為であつて厚生労働省令で定めるものをやむを得ない事由により行うための最小限度のものである場合は、当該逸脱又は中断の間を除き、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -204,7 +214,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">給付基礎日額は、労働基準法第十二条の平均賃金に相当する額とする。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項の平均賃金を算定すべき事由の発生した日は、前条第一項第一号及び第二号に規定する負傷若しくは死亡の原因である事故が発生した日又は診断によつて同項第一号及び第二号に規定する疾病の発生が確定した日（以下「算定事由発生日」という。）とする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項の平均賃金を算定すべき事由の発生した日は、前条第一項第一号から第三号までに規定する負傷若しくは死亡の原因である事故が発生した日又は診断によつて同項第一号から第三号までに規定する疾病の発生が確定した日（以下「算定事由発生日」という。）とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -213,13 +223,19 @@
                 <Sentence WritingMode="vertical">労働基準法第十二条の平均賃金に相当する額を給付基礎日額とすることが適当でないと認められるときは、前項の規定にかかわらず、厚生労働省令で定めるところによつて政府が算定する額を給付基礎日額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>○３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前二項の規定にかかわらず、複数事業労働者の業務上の事由、複数事業労働者の二以上の事業の業務を要因とする事由又は複数事業労働者の通勤による負傷、疾病、障害又は死亡により、当該複数事業労働者、その遺族その他厚生労働省令で定める者に対して保険給付を行う場合における給付基礎日額は、前二項に定めるところにより当該複数事業労働者を使用する事業ごとに算定した給付基礎日額に相当する額を合算した額を基礎として、厚生労働省令で定めるところによつて政府が算定する額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="8_2">
             <ArticleTitle>第八条の二</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">休業補償給付又は休業給付（以下この条において「休業補償給付等」という。）の額の算定の基礎として用いる給付基礎日額（以下この条において「休業給付基礎日額」という。）については、次に定めるところによる。</Sentence>
+                <Sentence WritingMode="vertical">休業補償給付、複数事業労働者休業給付又は休業給付（以下この条において「休業補償給付等」という。）の額の算定の基礎として用いる給付基礎日額（以下この条において「休業給付基礎日額」という。）については、次に定めるところによる。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -300,7 +316,7 @@
               <ParagraphNum>○２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前条第二項から第四項までの規定は、年金給付基礎日額について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同条第二項中「前項」とあるのは「次条第一項」と、同項第一号中「休業補償給付等」とあるのは「年金たる保険給付」と、「支給すべき事由が生じた日」とあるのは「支給すべき月」と、「四半期の初日（次号」とあるのは「年度の八月一日（当該月が四月から七月までの月に該当する場合にあつては、当該年度の前年度の八月一日。以下この項」と、「年齢の」とあるのは「年齢（遺族補償年金又は遺族年金を支給すべき場合にあつては、当該支給をすべき事由に係る労働者の死亡がなかつたものとして計算した場合に得られる当該労働者の基準日における年齢。次号において同じ。）の」と、同項第二号中「休業補償給付等」とあるのは「年金たる保険給付」と読み替えるものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第二項中「休業補償給付等を支給すべき事由が生じた日が当該休業補償給付等に係る療養を開始した日から起算して一年六箇月を経過した日以後の日である」とあるのは「年金たる保険給付を支給すべき事由がある」と、「前項」とあるのは「次条第一項」と、「休業給付基礎日額」とあるのは「年金給付基礎日額」と、同項第一号中「休業補償給付等」とあるのは「年金たる保険給付」と、「支給すべき事由が生じた日」とあるのは「支給すべき月」と、「四半期の初日（次号」とあるのは「年度の八月一日（当該月が四月から七月までの月に該当する場合にあつては、当該年度の前年度の八月一日。以下この項」と、「年齢の」とあるのは「年齢（遺族補償年金、複数事業労働者遺族年金又は遺族年金を支給すべき場合にあつては、当該支給をすべき事由に係る労働者の死亡がなかつたものとして計算した場合に得られる当該労働者の基準日における年齢。次号において同じ。）の」と、同項第二号中「休業補償給付等」とあるのは「年金たる保険給付」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -309,7 +325,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前条第一項の規定は、障害補償一時金若しくは遺族補償一時金又は障害一時金若しくは遺族一時金の額の算定の基礎として用いる給付基礎日額について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の規定は、障害補償一時金若しくは遺族補償一時金、複数事業労働者障害一時金若しくは複数事業労働者遺族一時金又は障害一時金若しくは遺族一時金の額の算定の基礎として用いる給付基礎日額について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、同項中「の分として支給する」とあるのは「に支給すべき事由が生じた」と、「支給すべき月」とあるのは「支給すべき事由が生じた月」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -360,7 +376,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">この法律に基づく保険給付を受ける権利を有する者が死亡した場合において、その死亡した者に支給すべき保険給付でまだその者に支給しなかつたものがあるときは、その者の配偶者（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にあつた者を含む。以下同じ。）、子、父母、孫、祖父母又は兄弟姉妹であつて、その者の死亡の当時その者と生計を同じくしていたもの（遺族補償年金については当該遺族補償年金を受けることができる他の遺族、遺族年金については当該遺族年金を受けることができる他の遺族）は、自己の名で、その未支給の保険給付の支給を請求することができる。</Sentence>
+                <Sentence WritingMode="vertical">この法律に基づく保険給付を受ける権利を有する者が死亡した場合において、その死亡した者に支給すべき保険給付でまだその者に支給しなかつたものがあるときは、その者の配偶者（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にあつた者を含む。以下同じ。）、子、父母、孫、祖父母又は兄弟姉妹であつて、その者の死亡の当時その者と生計を同じくしていたもの（遺族補償年金については当該遺族補償年金を受けることができる他の遺族、複数事業労働者遺族年金については当該複数事業労働者遺族年金を受けることができる他の遺族、遺族年金については当該遺族年金を受けることができる他の遺族）は、自己の名で、その未支給の保険給付の支給を請求することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -372,7 +388,7 @@
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>○３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">未支給の保険給付を受けるべき者の順位は、第一項に規定する順序（遺族補償年金については第十六条の二第三項に、遺族年金については第二十二条の四第三項において準用する第十六条の二第三項に規定する順序）による。</Sentence>
+                <Sentence WritingMode="vertical">未支給の保険給付を受けるべき者の順位は、第一項に規定する順序（遺族補償年金については第十六条の二第三項に、複数事業労働者遺族年金については第二十条の六第三項において準用する第十六条の二第三項に、遺族年金については第二十二条の四第三項において準用する第十六条の二第三項に規定する順序）による。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="4">
@@ -394,14 +410,14 @@
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>○２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">同一の業務上の事由又は通勤による負傷又は疾病（以下この条において「同一の傷病」という。）に関し、年金たる保険給付（遺族補償年金及び遺族年金を除く。以下この項において「乙年金」という。）を受ける権利を有する労働者が他の年金たる保険給付（遺族補償年金及び遺族年金を除く。以下この項において「甲年金」という。）を受ける権利を有することとなり、かつ、乙年金を受ける権利が消滅した場合において、その消滅した月の翌月以後の分として乙年金が支払われたときは、その支払われた乙年金は、甲年金の内払とみなす。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">同一の傷病に関し、年金たる保険給付（遺族補償年金及び遺族年金を除く。）を受ける権利を有する労働者が休業補償給付若しくは休業給付又は障害補償一時金若しくは障害一時金を受ける権利を有することとなり、かつ、当該年金たる保険給付を受ける権利が消滅した場合において、その消滅した月の翌月以後の分として当該年金たる保険給付が支払われたときも、同様とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">同一の業務上の事由、複数事業労働者の二以上の事業の業務を要因とする事由又は通勤による負傷又は疾病（以下この条において「同一の傷病」という。）に関し、年金たる保険給付（遺族補償年金、複数事業労働者遺族年金及び遺族年金を除く。以下この項において「乙年金」という。）を受ける権利を有する労働者が他の年金たる保険給付（遺族補償年金、複数事業労働者遺族年金及び遺族年金を除く。以下この項において「甲年金」という。）を受ける権利を有することとなり、かつ、乙年金を受ける権利が消滅した場合において、その消滅した月の翌月以後の分として乙年金が支払われたときは、その支払われた乙年金は、甲年金の内払とみなす。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">同一の傷病に関し、年金たる保険給付（遺族補償年金、複数事業労働者遺族年金及び遺族年金を除く。）を受ける権利を有する労働者が休業補償給付、複数事業労働者休業給付若しくは休業給付又は障害補償一時金、複数事業労働者障害一時金若しくは障害一時金を受ける権利を有することとなり、かつ、当該年金たる保険給付を受ける権利が消滅した場合において、その消滅した月の翌月以後の分として当該年金たる保険給付が支払われたときも、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>○３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">同一の傷病に関し、休業補償給付又は休業給付を受けている労働者が障害補償給付若しくは傷病補償年金又は障害給付若しくは傷病年金を受ける権利を有することとなり、かつ、休業補償給付又は休業給付を行わないこととなつた場合において、その後も休業補償給付又は休業給付が支払われたときは、その支払われた休業補償給付又は休業給付は、当該障害補償給付若しくは傷病補償年金又は障害給付若しくは傷病年金の内払とみなす。</Sentence>
+                <Sentence WritingMode="vertical">同一の傷病に関し、休業補償給付、複数事業労働者休業給付又は休業給付を受けている労働者が障害補償給付若しくは傷病補償年金、複数事業労働者障害給付若しくは複数事業労働者傷病年金又は障害給付若しくは傷病年金を受ける権利を有することとなり、かつ、休業補償給付、複数事業労働者休業給付又は休業給付を行わないこととなつた場合において、その後も休業補償給付、複数事業労働者休業給付又は休業給付が支払われたときは、その支払われた休業補償給付、複数事業労働者休業給付又は休業給付は、当該障害補償給付若しくは傷病補償年金、複数事業労働者障害給付若しくは複数事業労働者傷病年金又は障害給付若しくは傷病年金の内払とみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -664,7 +680,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">休業補償給付は、労働者が業務上の負傷又は疾病による療養のため労働することができないために賃金を受けない日の第四日目から支給するものとし、その額は、一日につき給付基礎日額の百分の六十に相当する額とする。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、労働者が業務上の負傷又は疾病による療養のため所定労働時間のうちその一部分についてのみ労働する日に係る休業補償給付の額は、給付基礎日額（第八条の二第二項第二号に定める額（以下この項において「最高限度額」という。）を給付基礎日額とすることとされている場合にあつては、同号の規定の適用がないものとした場合における給付基礎日額）から当該労働に対して支払われる賃金の額を控除して得た額（当該控除して得た額が最高限度額を超える場合にあつては、最高限度額に相当する額）の百分の六十に相当する額とする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、労働者が業務上の負傷又は疾病による療養のため所定労働時間のうちその一部分についてのみ労働する日若しくは賃金が支払われる休暇（以下この項において「部分算定日」という。）又は複数事業労働者の部分算定日に係る休業補償給付の額は、給付基礎日額（第八条の二第二項第二号に定める額（以下この項において「最高限度額」という。）を給付基礎日額とすることとされている場合にあつては、同号の規定の適用がないものとした場合における給付基礎日額）から部分算定日に対して支払われる賃金の額を控除して得た額（当該控除して得た額が最高限度額を超える場合にあつては、最高限度額に相当する額）の百分の六十に相当する額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -1060,6 +1076,216 @@
             </Paragraph>
           </Article>
         </Section>
+        <Section Num="2_2">
+          <SectionTitle>第二節の二　複数業務要因災害に関する保険給付</SectionTitle>
+          <Article Num="20_2">
+            <ArticleTitle>第二十条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>第七条第一項第二号の複数業務要因災害に関する保険給付は、次に掲げる保険給付とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>複数事業労働者療養給付</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>複数事業労働者休業給付</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>複数事業労働者障害給付</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence>複数事業労働者遺族給付</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence>複数事業労働者葬祭給付</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>複数事業労働者傷病年金</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence>複数事業労働者介護給付</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="20_3">
+            <ArticleTitle>第二十条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>複数事業労働者療養給付は、複数事業労働者がその従事する二以上の事業の業務を要因として負傷し、又は疾病（厚生労働省令で定めるものに限る。以下この節において同じ。）にかかつた場合に、当該複数事業労働者に対し、その請求に基づいて行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>○２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十三条の規定は、複数事業労働者療養給付について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20_4">
+            <ArticleTitle>第二十条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>複数事業労働者休業給付は、複数事業労働者がその従事する二以上の事業の業務を要因とする負傷又は疾病による療養のため労働することができないために賃金を受けない場合に、当該複数事業労働者に対し、その請求に基づいて行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>○２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十四条及び第十四条の二の規定は、複数事業労働者休業給付について準用する。この場合において、第十四条第一項中「労働者が業務上の」とあるのは「複数事業労働者がその従事する二以上の事業の業務を要因とする」と、同条第二項中「別表第一第一号から第三号までに規定する場合に応じ、それぞれ同表第一号から第三号までの政令で定める率のうち傷病補償年金について定める率」とあるのは「第二十条の八第二項において準用する別表第一第一号から第三号までに規定する場合に応じ、それぞれ同表第一号から第三号までの政令で定める率のうち複数事業労働者傷病年金について定める率」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20_5">
+            <ArticleTitle>第二十条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>複数事業労働者障害給付は、複数事業労働者がその従事する二以上の事業の業務を要因として負傷し、又は疾病にかかり、治つたとき身体に障害が存する場合に、当該複数事業労働者に対し、その請求に基づいて行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>○２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>複数事業労働者障害給付は、第十五条第一項の厚生労働省令で定める障害等級に応じ、複数事業労働者障害年金又は複数事業労働者障害一時金とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>○３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十五条第二項及び第十五条の二並びに別表第一（障害補償年金に係る部分に限る。）及び別表第二（障害補償一時金に係る部分に限る。）の規定は、複数事業労働者障害給付について準用する。この場合において、これらの規定中「障害補償年金」とあるのは「複数事業労働者障害年金」と、「障害補償一時金」とあるのは「複数事業労働者障害一時金」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20_6">
+            <ArticleTitle>第二十条の六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>複数事業労働者遺族給付は、複数事業労働者がその従事する二以上の事業の業務を要因として死亡した場合に、当該複数事業労働者の遺族に対し、その請求に基づいて行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>○２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>複数事業労働者遺族給付は、複数事業労働者遺族年金又は複数事業労働者遺族一時金とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>○３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十六条の二から第十六条の九まで並びに別表第一（遺族補償年金に係る部分に限る。）及び別表第二（遺族補償一時金に係る部分に限る。）の規定は、複数事業労働者遺族給付について準用する。この場合において、これらの規定中「遺族補償年金」とあるのは「複数事業労働者遺族年金」と、「遺族補償一時金」とあるのは「複数事業労働者遺族一時金」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20_7">
+            <ArticleTitle>第二十条の七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>複数事業労働者葬祭給付は、複数事業労働者がその従事する二以上の事業の業務を要因として死亡した場合に、葬祭を行う者に対し、その請求に基づいて行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>○２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十七条の規定は、複数事業労働者葬祭給付について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20_8">
+            <ArticleTitle>第二十条の八</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>複数事業労働者傷病年金は、複数事業労働者がその従事する二以上の事業の業務を要因として負傷し、又は疾病にかかつた場合に、当該負傷又は疾病に係る療養の開始後一年六箇月を経過した日において次の各号のいずれにも該当するとき、又は同日後次の各号のいずれにも該当することとなつたときに、その状態が継続している間、当該複数事業労働者に対して支給する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該負傷又は疾病が治つていないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>当該負傷又は疾病による障害の程度が第十二条の八第三項第二号の厚生労働省令で定める傷病等級に該当すること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>○２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十八条、第十八条の二及び別表第一（傷病補償年金に係る部分に限る。）の規定は、複数事業労働者傷病年金について準用する。この場合において、第十八条第二項中「休業補償給付」とあるのは「複数事業労働者休業給付」と、同表中「傷病補償年金」とあるのは「複数事業労働者傷病年金」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20_9">
+            <ArticleTitle>第二十条の九</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>複数事業労働者介護給付は、複数事業労働者障害年金又は複数事業労働者傷病年金を受ける権利を有する複数事業労働者が、その受ける権利を有する複数事業労働者障害年金又は複数事業労働者傷病年金の支給事由となる障害であつて第十二条の八第四項の厚生労働省令で定める程度のものにより、常時又は随時介護を要する状態にあり、かつ、常時又は随時介護を受けているときに、当該介護を受けている間（次に掲げる間を除く。）、当該複数事業労働者に対し、その請求に基づいて行う。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>障害者支援施設に入所している間（生活介護を受けている場合に限る。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第十二条の八第四項第二号の厚生労働大臣が定める施設に入所している間</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>病院又は診療所に入院している間</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>○２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第十九条の二の規定は、複数事業労働者介護給付について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20_10">
+            <ArticleTitle>第二十条の十</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>この節に定めるもののほか、複数業務要因災害に関する保険給付について必要な事項は、厚生労働省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
         <Section Delete="false" Hide="false" Num="3">
           <SectionTitle>第三節　通勤災害に関する保険給付</SectionTitle>
           <Article Delete="false" Hide="false" Num="21">
@@ -1067,7 +1293,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">第七条第一項第二号の通勤災害に関する保険給付は、次に掲げる保険給付とする。</Sentence>
+                <Sentence WritingMode="vertical">第七条第一項第三号の通勤災害に関する保険給付は、次に掲げる保険給付とする。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -1118,7 +1344,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">療養給付は、労働者が通勤（第七条第一項第二号の通勤をいう。以下同じ。）により負傷し、又は疾病（厚生労働省令で定めるものに限る。以下この節において同じ。）にかかつた場合に、当該労働者に対し、その請求に基づいて行なう。</Sentence>
+                <Sentence WritingMode="vertical">療養給付は、労働者が通勤（第七条第一項第三号の通勤をいう。以下同じ。）により負傷し、又は疾病（厚生労働省令で定めるものに限る。以下この節において同じ。）にかかつた場合に、当該労働者に対し、その請求に基づいて行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -1347,7 +1573,7 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">療養に関する施設及びリハビリテーションに関する施設の設置及び運営その他業務災害及び通勤災害を被つた労働者（次号において「被災労働者」という。）の円滑な社会復帰を促進するために必要な事業</Sentence>
+                <Sentence WritingMode="vertical">療養に関する施設及びリハビリテーションに関する施設の設置及び運営その他業務災害、複数業務要因災害及び通勤災害を被つた労働者（次号において「被災労働者」という。）の円滑な社会復帰を促進するために必要な事業</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
@@ -1393,7 +1619,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">政府は、次の各号のいずれかに該当する事故について保険給付を行つたときは、厚生労働省令で定めるところにより、業務災害に関する保険給付にあつては労働基準法の規定による災害補償の価額の限度又は船員法の規定による災害補償のうち労働基準法の規定による災害補償に相当する災害補償の価額の限度で、通勤災害に関する保険給付にあつては通勤災害を業務災害とみなした場合に支給されるべき業務災害に関する保険給付に相当する同法の規定による災害補償の価額の限度で、その保険給付に要した費用に相当する金額の全部又は一部を事業主から徴収することができる。</Sentence>
+              <Sentence WritingMode="vertical">政府は、次の各号のいずれかに該当する事故について保険給付を行つたときは、厚生労働省令で定めるところにより、業務災害に関する保険給付にあつては労働基準法の規定による災害補償の価額の限度又は船員法の規定による災害補償のうち労働基準法の規定による災害補償に相当する災害補償の価額の限度で、複数業務要因災害に関する保険給付にあつては複数業務要因災害を業務災害とみなした場合に支給されるべき業務災害に関する保険給付に相当する同法の規定による災害補償の価額（当該複数業務要因災害に係る事業ごとに算定した額に限る。）の限度で、通勤災害に関する保険給付にあつては通勤災害を業務災害とみなした場合に支給されるべき業務災害に関する保険給付に相当する同法の規定による災害補償の価額の限度で、その保険給付に要した費用に相当する金額の全部又は一部を事業主から徴収することができる。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1451,7 +1677,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">次の各号に掲げる者（第二号、第四号及び第五号に掲げる者にあつては、労働者である者を除く。）の業務災害及び通勤災害に関しては、この章に定めるところによる。</Sentence>
+              <Sentence WritingMode="vertical">次の各号に掲げる者（第二号、第四号及び第五号に掲げる者にあつては、労働者である者を除く。）の業務災害、複数業務要因災害及び通勤災害に関しては、この章に定めるところによる。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1486,13 +1712,13 @@
             <Item Delete="false" Hide="false" Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">この法律の施行地外の地域のうち開発途上にある地域に対する技術協力の実施の事業（事業の期間が予定される事業を除く。）を行う団体が、当該団体の業務の実施のため、当該開発途上にある地域（業務災害及び通勤災害に関する保護制度の状況その他の事情を考慮して厚生労働省令で定める国の地域を除く。）において行われる事業に従事させるために派遣する者</Sentence>
+                <Sentence WritingMode="vertical">この法律の施行地外の地域のうち開発途上にある地域に対する技術協力の実施の事業（事業の期間が予定される事業を除く。）を行う団体が、当該団体の業務の実施のため、当該開発途上にある地域（業務災害、複数業務要因災害及び通勤災害に関する保護制度の状況その他の事情を考慮して厚生労働省令で定める国の地域を除く。）において行われる事業に従事させるために派遣する者</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">この法律の施行地内において事業（事業の期間が予定される事業を除く。）を行う事業主が、この法律の施行地外の地域（業務災害及び通勤災害に関する保護制度の状況その他の事情を考慮して厚生労働省令で定める国の地域を除く。）において行われる事業に従事させるために派遣する者（当該事業が特定事業に該当しないときは、当該事業に使用される労働者として派遣する者に限る。）</Sentence>
+                <Sentence WritingMode="vertical">この法律の施行地内において事業（事業の期間が予定される事業を除く。）を行う事業主が、この法律の施行地外の地域（業務災害、複数業務要因災害及び通勤災害に関する保護制度の状況その他の事情を考慮して厚生労働省令で定める国の地域を除く。）において行われる事業に従事させるために派遣する者（当該事業が特定事業に該当しないときは、当該事業に使用される労働者として派遣する者に限る。）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1502,7 +1728,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前条第一号の事業主が、同号及び同条第二号に掲げる者を包括して当該事業について成立する保険関係に基づきこの保険による業務災害及び通勤災害に関する保険給付を受けることができる者とすることにつき申請をし、政府の承認があつたときは、第三章第一節から第三節まで及び第三章の二の規定の適用については、次に定めるところによる。</Sentence>
+              <Sentence WritingMode="vertical">前条第一号の事業主が、同号及び同条第二号に掲げる者を包括して当該事業について成立する保険関係に基づきこの保険による業務災害、複数業務要因災害及び通勤災害に関する保険給付を受けることができる者とすることにつき申請をし、政府の承認があつたときは、第三章第一節から第三節まで及び第三章の二の規定の適用については、次に定めるところによる。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1555,7 +1781,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第三十三条第三号に掲げる者の団体又は同条第五号に掲げる者の団体が、当該団体の構成員である同条第三号に掲げる者及びその者に係る同条第四号に掲げる者又は当該団体の構成員である同条第五号に掲げる者の業務災害及び通勤災害（これらの者のうち、住居と就業の場所との間の往復の状況等を考慮して厚生労働省令で定める者にあつては、業務災害に限る。）に関してこの保険の適用を受けることにつき申請をし、政府の承認があつたときは、第三章第一節から第三節まで（当該厚生労働省令で定める者にあつては、同章第一節及び第二節）、第三章の二及び徴収法第二章から第六章までの規定の適用については、次に定めるところによる。</Sentence>
+              <Sentence WritingMode="vertical">第三十三条第三号に掲げる者の団体又は同条第五号に掲げる者の団体が、当該団体の構成員である同条第三号に掲げる者及びその者に係る同条第四号に掲げる者又は当該団体の構成員である同条第五号に掲げる者の業務災害、複数業務要因災害及び通勤災害（これらの者のうち、住居と就業の場所との間の往復の状況等を考慮して厚生労働省令で定める者にあつては、業務災害及び複数業務要因災害に限る。）に関してこの保険の適用を受けることにつき申請をし、政府の承認があつたときは、第三章第一節から第三節まで（当該厚生労働省令で定める者にあつては、同章第一節から第二節の二まで）、第三章の二及び徴収法第二章から第六章までの規定の適用については、次に定めるところによる。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1585,7 +1811,7 @@
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">前条第一項第二号の規定は、第三十三条第三号から第五号までに掲げる者に係る業務災害に関する保険給付の事由について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において同条第五号に掲げる者に関しては、前条第一項第二号中「業務上」とあるのは「当該作業により」と、「当該事業」とあるのは「当該作業」と読み替えるものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同号に掲げる者に関しては、前条第一項第二号中「業務上」とあるのは「当該作業により」と、「当該事業」とあるのは「当該作業」と読み替えるものとする。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="6">
@@ -1632,7 +1858,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第三十三条第六号の団体又は同条第七号の事業主が、同条第六号又は第七号に掲げる者を、当該団体又は当該事業主がこの法律の施行地内において行う事業（事業の期間が予定される事業を除く。）についての保険関係に基づきこの保険による業務災害及び通勤災害に関する保険給付を受けることができる者とすることにつき申請をし、政府の承認があつたときは、第三章第一節から第三節まで及び第三章の二の規定の適用については、次に定めるところによる。</Sentence>
+              <Sentence WritingMode="vertical">第三十三条第六号の団体又は同条第七号の事業主が、同条第六号又は第七号に掲げる者を、当該団体又は当該事業主がこの法律の施行地内において行う事業（事業の期間が予定される事業を除く。）についての保険関係に基づきこの保険による業務災害、複数業務要因災害及び通勤災害に関する保険給付を受けることができる者とすることにつき申請をし、政府の承認があつたときは、第三章第一節から第三節まで及び第三章の二の規定の適用については、次に定めるところによる。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1667,7 +1893,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">この章に定めるもののほか、第三十三条各号に掲げる者の業務災害及び通勤災害に関し必要な事項は、厚生労働省令で定める。</Sentence>
+              <Sentence WritingMode="vertical">この章に定めるもののほか、第三十三条各号に掲げる者の業務災害、複数業務要因災害及び通勤災害に関し必要な事項は、厚生労働省令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1730,7 +1956,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">療養補償給付、休業補償給付、葬祭料、介護補償給付、療養給付、休業給付、葬祭給付、介護給付及び二次健康診断等給付を受ける権利は、これらを行使することができる時から二年を経過したとき、障害補償給付、遺族補償給付、障害給付及び遺族給付を受ける権利は、これらを行使することができる時から五年を経過したときは、時効によつて消滅する。</Sentence>
+              <Sentence WritingMode="vertical">療養補償給付、休業補償給付、葬祭料、介護補償給付、複数事業労働者療養給付、複数事業労働者休業給付、複数事業労働者葬祭給付、複数事業労働者介護給付、療養給付、休業給付、葬祭給付、介護給付及び二次健康診断等給付を受ける権利は、これらを行使することができる時から二年を経過したとき、障害補償給付、遺族補償給付、複数事業労働者障害給付、複数事業労働者遺族給付、障害給付及び遺族給付を受ける権利は、これらを行使することができる時から五年を経過したときは、時効によつて消滅する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1790,7 +2016,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">行政庁は、保険給付に関して必要があると認めるときは、保険給付を受け、又は受けようとする者（遺族補償年金又は遺族年金の額の算定の基礎となる者を含む。）に対し、その指定する医師の診断を受けるべきことを命ずることができる。</Sentence>
+              <Sentence WritingMode="vertical">行政庁は、保険給付に関して必要があると認めるときは、保険給付を受け、又は受けようとする者（遺族補償年金、複数事業労働者遺族年金又は遺族年金の額の算定の基礎となる者を含む。）に対し、その指定する医師の診断を受けるべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1829,7 +2055,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">行政庁は、保険給付に関して必要があると認めるときは、厚生労働省令で定めるところによつて、保険給付を受け、又は受けようとする者（遺族補償年金又は遺族年金の額の算定の基礎となる者を含む。）の診療を担当した医師その他の者に対して、その行つた診療に関する事項について、報告若しくは診療録、帳簿書類その他の物件の提示を命じ、又は当該職員に、これらの物件を検査させることができる。</Sentence>
+              <Sentence WritingMode="vertical">行政庁は、保険給付に関して必要があると認めるときは、厚生労働省令で定めるところによつて、保険給付を受け、又は受けようとする者（遺族補償年金、複数事業労働者遺族年金又は遺族年金の額の算定の基礎となる者を含む。）の診療を担当した医師その他の者に対して、その行つた診療に関する事項について、報告若しくは診療録、帳簿書類その他の物件の提示を命じ、又は当該職員に、これらの物件を検査させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -2217,6 +2443,72 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+
+      <Article Num="60_2">
+        <ArticleTitle>第六十条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、当分の間、複数事業労働者障害年金を受ける権利を有する者が死亡した場合において、その者に支給された当該複数事業労働者障害年金の額（当該複数事業労働者障害年金のうち当該死亡した日の属する年度（当該死亡した日の属する月が四月から七月までの月に該当する場合にあつては、その前年度。以下この項において同じ。）の七月以前の分として支給された複数事業労働者障害年金にあつては、厚生労働省令で定めるところにより第十六条の六第二項の規定の例により算定して得た額）及び当該複数事業労働者障害年金に係る複数事業労働者障害年金前払一時金の額（当該複数事業労働者障害年金前払一時金を支給すべき事由が当該死亡した日の属する年度の七月以前に生じたものである場合にあつては、厚生労働省令で定めるところにより同項の規定による遺族補償年金の額の算定の方法に準じ算定して得た額）の合計額が第五十八条第一項の表の上欄に掲げる当該複数事業労働者障害年金に係る障害等級に応じ、それぞれ同表の下欄に掲げる額（当該死亡した日が算定事由発生日の属する年度の翌々年度の八月一日以後の日である場合にあつては、厚生労働省令で定めるところにより第八条の四において準用する第八条の三第一項の規定の例により算定して得た額を同表の給付基礎日額とした場合に得られる額）に満たないときは、その者の遺族に対し、その請求に基づき、保険給付として、その差額に相当する額の複数事業労働者障害年金差額一時金を支給する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>○２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第十六条の三第二項、第十六条の九第一項及び第二項並びに第五十八条第二項及び第三項の規定は、複数事業労働者障害年金差額一時金について準用する。この場合において、第十六条の三第二項中「前項」とあるのは「第六十条の二第一項」と、「別表第一」とあるのは「同項」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="60_3">
+        <ArticleTitle>第六十条の三</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、当分の間、複数事業労働者がその従事する二以上の事業の業務を要因として負傷し、又は疾病にかかり、治つたとき身体に障害が存する場合における当該障害に関しては、複数事業労働者障害年金を受ける権利を有する者に対し、その請求に基づき、保険給付として、複数事業労働者障害年金前払一時金を支給する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>○２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>複数事業労働者障害年金前払一時金の額は、第五十八条第一項の表の上欄に掲げる当該複数事業労働者障害年金に係る障害等級に応じ、第五十九条第二項に規定する厚生労働省令で定める額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>○３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第五十九条第三項、第四項及び第六項の規定は、複数事業労働者障害年金前払一時金について準用する。</Sentence>
+            <Sentence Num="2">この場合において、同条第三項及び第六項中「障害補償年金」とあるのは、「複数事業労働者障害年金」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="60_4">
+        <ArticleTitle>第六十条の四</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、当分の間、複数事業労働者がその従事する二以上の事業の業務を要因として死亡した場合における当該死亡に関しては、複数事業労働者遺族年金を受ける権利を有する遺族に対し、その請求に基づき、保険給付として、複数事業労働者遺族年金前払一時金を支給する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>○２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>複数事業労働者遺族年金前払一時金の額は、第六十条第二項に規定する厚生労働省令で定める額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>○３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>複数事業労働者遺族年金前払一時金が支給された場合における第二十条の六第三項の規定により読み替えられた第十六条の六の規定の適用については、同条第一項第二号中「複数事業労働者遺族年金の額」とあるのは、「複数事業労働者遺族年金の額及び複数事業労働者遺族年金前払一時金の額（当該複数事業労働者遺族年金前払一時金を支給すべき事由が当該権利が消滅した日の属する年度（当該権利が消滅した日の属する月が四月から七月までの月に該当する場合にあつては、その前年度）の七月以前に生じたものである場合にあつては、厚生労働省令で定めるところにより次項の規定による複数事業労働者遺族年金の額の算定の方法に準じ算定して得た額）」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>○４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第六十条第三項、第五項及び第七項の規定は、複数事業労働者遺族年金前払一時金について準用する。</Sentence>
+            <Sentence Num="2">この場合において、同条第三項中「遺族補償年金は」とあるのは「複数事業労働者遺族年金は」と、同条第七項中「遺族補償年金の」とあるのは「複数事業労働者遺族年金の」と、「当該遺族補償年金」とあるのは「当該複数事業労働者遺族年金」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Delete="false" Hide="false" Num="61">
         <ArticleTitle>第六十一条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
@@ -2288,7 +2580,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">労働者又はその遺族が障害補償年金若しくは遺族補償年金又は障害年金若しくは遺族年金（以下この条において「年金給付」という。）を受けるべき場合（当該年金給付を受ける権利を有することとなつた時に、当該年金給付に係る障害補償年金前払一時金若しくは遺族補償年金前払一時金又は障害年金前払一時金若しくは遺族年金前払一時金（以下この条において「前払一時金給付」という。）を請求することができる場合に限る。）であつて、同一の事由について、当該労働者を使用している事業主又は使用していた事業主から民法その他の法律による損害賠償（以下単に「損害賠償」といい、当該年金給付によつて塡補される損害を塡補する部分に限る。）を受けることができるときは、当該損害賠償については、当分の間、次に定めるところによるものとする。</Sentence>
+            <Sentence WritingMode="vertical">労働者又はその遺族が障害補償年金若しくは遺族補償年金、複数事業労働者障害年金若しくは複数事業労働者遺族年金又は障害年金若しくは遺族年金（以下この条において「年金給付」という。）を受けるべき場合（当該年金給付を受ける権利を有することとなつた時に、当該年金給付に係る障害補償年金前払一時金若しくは遺族補償年金前払一時金、複数事業労働者障害年金前払一時金若しくは複数事業労働者遺族年金前払一時金又は障害年金前払一時金若しくは遺族年金前払一時金（以下この条において「前払一時金給付」という。）を請求することができる場合に限る。）であつて、同一の事由について、当該労働者を使用している事業主又は使用していた事業主から民法その他の法律による損害賠償（以下単に「損害賠償」といい、当該年金給付によつて塡補される損害を塡補する部分に限る。）を受けることができるときは、当該損害賠償については、当分の間、次に定めるところによるものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -2306,7 +2598,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>○２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">労働者又はその遺族が、当該労働者を使用している事業主又は使用していた事業主から損害賠償を受けることができる場合であつて、保険給付を受けるべきときに、同一の事由について、損害賠償（当該保険給付によつててん補される損害をてん補する部分に限る。）を受けたときは、政府は、労働政策審議会の議を経て厚生労働大臣が定める基準により、その価額の限度で、保険給付をしないことができる。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">労働者又はその遺族が、当該労働者を使用している事業主又は使用していた事業主から損害賠償を受けることができる場合であつて、保険給付を受けるべきときに、同一の事由について、損害賠償（当該保険給付によつて塡補される損害を塡補する部分に限る。）を受けたときは、政府は、労働政策審議会の議を経て厚生労働大臣が定める基準により、その価額の限度で、保険給付をしないことができる。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前項に規定する年金給付を受けるべき場合において、次に掲げる保険給付については、この限りでない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
@@ -2318,7 +2610,7 @@
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">障害補償年金差額一時金及び第十六条の六第一項第二号の場合に支給される遺族補償一時金並びに障害年金差額一時金及び第二十二条の四第三項において読み替えて準用する第十六条の六第一項第二号の場合に支給される遺族一時金</Sentence>
+              <Sentence WritingMode="vertical">障害補償年金差額一時金及び第十六条の六第一項第二号の場合に支給される遺族補償一時金、複数事業労働者障害年金差額一時金及び第二十条の六第三項において読み替えて準用する第十六条の六第一項第二号の場合に支給される複数事業労働者遺族一時金並びに障害年金差額一時金及び第二十二条の四第三項において読み替えて準用する第十六条の六第一項第二号の場合に支給される遺族一時金</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="3">
@@ -5832,13 +6124,37 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence/>
+            <Sentence>第二条の規定による改正後の労働者災害補償保険法（以下「改正後労災保険法」という。）の規定は、改正後労災保険法第七条第一項第二号に規定する要因により、附則第一条第三号に掲げる規定の施行の日（以下「第三号施行日」という。）以後に発生する負傷、疾病、障害又は死亡に対する改正後労災保険法第七条第一項第二号に掲げる保険給付について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項に定めるもののほか、改正後労災保険法第八条第三項及び第十四条第一項（労働者災害補償保険法第二十二条の二第二項において準用する場合を含む。）の規定は、第三号施行日以後に発生する負傷、疾病、障害又は死亡に対する労働者災害補償保険法第七条第一項第一号及び改正後労災保険法第七条第一項第三号に掲げる保険給付について適用し、第三号施行日前に発生した負傷、疾病、障害又は死亡に対するこれらの規定に掲げる保険給付については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence>施行日から第三号施行日の前日までの間における改正後労災保険法第四十二条第二項の規定の適用については、同項中「第二十条の六第三項若しくは第二十二条の四第三項」とあるのは「第二十二条の四第三項」と、「、第六十条の二第一項若しくは第六十一条第一項」とあるのは「若しくは第六十一条第一項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（複数事業労働者遺族年金に関する特例）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">複数事業労働者（改正後労災保険法第七条第一項第二号に規定する複数事業労働者をいう。以下この項において同じ。）の夫（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にあった者を含む。）、父母、祖父母及び兄弟姉妹であって、複数事業労働者の二以上の事業の業務を要因とする死亡の当時、その収入によって生計を維持し、かつ、五十五歳以上六十歳未満であったもの（改正後労災保険法第二十条の六第三項において準用する労働者災害補償保険法第十六条の二第一項第四号に規定する者であって、改正後労災保険法第二十条の六第三項において準用する労働者災害補償保険法第十六条の四第一項第六号に該当しないものを除く。）は、改正後労災保険法第二十条の六第三項において準用する労働者災害補償保険法第十六条の二第一項の規定にかかわらず、当分の間、改正後労災保険法の規定による複数事業労働者遺族年金を受けることができる遺族とする。</Sentence>
+            <Sentence Num="2">この場合において、改正後労災保険法第二十条の六第三項において準用する労働者災害補償保険法第十六条の四第二項中「前項各号の一」とあるのは「前項各号の一（第六号を除く。）」と、改正後労災保険法別表第一の遺族補償年金の項中「遺族補償年金を受けることができる遺族」とあるのは「複数事業労働者遺族年金を受けることができる遺族（雇用保険法等の一部を改正する法律（令和二年法律第十四号）附則第七条第一項に規定する遺族であつて六十歳未満であるものを除く。）」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">労働者災害補償保険法の一部を改正する法律（昭和四十年法律第百三十号）附則第四十三条第二項及び第三項の規定は、前項に規定する遺族について準用する。</Sentence>
+            <Sentence Num="2">この場合において、同条第二項中「遺族補償年金」とあるのは「複数事業労働者遺族年金」と、同条第三項中「遺族補償年金」とあるのは「複数事業労働者遺族年金」と、同項ただし書中「第六十条」とあるのは「第六十条の四」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -5864,7 +6180,7 @@
       </Article>
     </SupplProvision>
     <AppdxTable>
-      <AppdxTableTitle WritingMode="vertical">別表第一（第十四条、第十五条、第十五条の二、第十六条の三、第十八条、第十八条の二、第二十二条の三、第二十二条の四、第二十三条関係）</AppdxTableTitle>
+      <AppdxTableTitle WritingMode="vertical">別表第一（第十四条、第十五条、第十五条の二、第十六条の三、第十八条、第十八条の二、第二十条の五、第二十条の六、第二十条の八、第二十二条の三、第二十二条の四、第二十三条関係）</AppdxTableTitle>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -5926,7 +6242,7 @@
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
-      <AppdxTableTitle WritingMode="vertical">別表第二（第十五条、第十五条の二、第十六条の八、第二十二条の三、第二十二条の四関係）</AppdxTableTitle>
+      <AppdxTableTitle WritingMode="vertical">別表第二（第十五条、第十五条の二、第十六条の八、第二十条の五、第二十条の六、第二十二条の三、第二十二条の四関係）</AppdxTableTitle>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>

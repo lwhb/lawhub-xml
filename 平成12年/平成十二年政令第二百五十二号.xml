@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200803e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="252" Year="12">
+<Law DataInfo="200410e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="252" Year="12">
   <LawNum>平成十二年政令第二百五十二号</LawNum>
   <LawBody>
     <LawTitle>厚生労働省組織令</LawTitle>
@@ -326,6 +326,12 @@
                 <Item Num="20">
                   <ItemTitle>二十</ItemTitle>
                   <ItemSentence>
+                    <Sentence>医薬品等行政評価・監視委員会の庶務に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="21">
+                  <ItemTitle>二十一</ItemTitle>
+                  <ItemSentence>
                     <Sentence>前各号に掲げるもののほか、厚生労働省の所掌事務で他の所掌に属しないものに関すること。</Sentence>
                   </ItemSentence>
                 </Item>
@@ -536,13 +542,13 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence>医薬品、医薬部外品、化粧品、医療機器その他衛生用品及び再生医療等製品の品質、有効性及び安全性の確保に関すること。</Sentence>
+                    <Sentence>医薬品、医薬部外品、化粧品、医療機器その他衛生用品及び再生医療等製品の品質、有効性及び安全性の確保に関すること（大臣官房の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence>医薬品、医薬部外品、化粧品、医療機器及び再生医療等製品の使用による保健衛生上の危害の発生又は拡大の防止に関すること。</Sentence>
+                    <Sentence>医薬品、医薬部外品、化粧品、医療機器及び再生医療等製品の使用による保健衛生上の危害の発生又は拡大の防止に関すること（大臣官房の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
@@ -2190,17 +2196,23 @@
                   <Item Num="3">
                     <ItemTitle>三</ItemTitle>
                     <ItemSentence>
-                      <Sentence>厚生労働省の所掌事務に係る災害対策に関する事務の総括に関すること。</Sentence>
+                      <Sentence>医薬品等行政評価・監視委員会の庶務に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="4">
                     <ItemTitle>四</ItemTitle>
                     <ItemSentence>
-                      <Sentence>国立医薬品食品衛生研究所、国立保健医療科学院、国立社会保障・人口問題研究所及び国立感染症研究所の組織及び運営一般に関すること。</Sentence>
+                      <Sentence>厚生労働省の所掌事務に係る災害対策に関する事務の総括に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="5">
                     <ItemTitle>五</ItemTitle>
+                    <ItemSentence>
+                      <Sentence>国立医薬品食品衛生研究所、国立保健医療科学院、国立社会保障・人口問題研究所及び国立感染症研究所の組織及び運営一般に関すること。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="6">
+                    <ItemTitle>六</ItemTitle>
                     <ItemSentence>
                       <Sentence>国立研究開発法人医薬基盤・健康・栄養研究所の組織及び運営一般に関すること。</Sentence>
                     </ItemSentence>
@@ -10429,6 +10441,16 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この政令は、女性の職業生活における活躍の推進に関する法律等の一部を改正する法律の施行の日（令和二年六月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二三日政令第五六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令は、医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律（令和元年法律第六十三号）の施行の日（令和二年九月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

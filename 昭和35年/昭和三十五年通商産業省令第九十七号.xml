@@ -390,7 +390,7 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">前項の申請は、その申請に係る当該養成施設の所在地を管轄する産業保安監督部長（産業保安監督部の支部長及び中部近畿産業保安監督部北陸産業保安監督署長を含む。次条第三項において同じ。）を経由してしなければならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該申請を行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号。次条第三項において「情報通信技術利用法」という。）第三条第一項の規定により行う場合は、この限りでない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該申請を情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。次条第三項において「情報通信技術活用法」という。）第六条第一項の規定により行う場合は、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -455,7 +455,7 @@
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">前二項の届出は、当該届出に係る当該養成施設の所在地を管轄する産業保安監督部長を経由してしなければならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該届出を情報通信技術利用法第三条第一項の規定により行う場合は、この限りでない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該届出を情報通信技術活用法第六条第一項の規定により行う場合は、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2588,12 +2588,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一三日経済産業省令第四九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第３条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_001.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_001.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2602,7 +2611,7 @@
       <RelatedArticleNum>（第３条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_002.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_002.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2611,7 +2620,7 @@
       <RelatedArticleNum>（第３条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_003.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_003.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2620,7 +2629,7 @@
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_004.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_004.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2629,7 +2638,7 @@
       <RelatedArticleNum>（第５条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_005.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_005.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2638,7 +2647,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_006.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_006.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2647,7 +2656,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_007.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_007.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2656,7 +2665,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_008.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_008.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2665,7 +2674,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_009.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_009.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2674,7 +2683,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_010.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_010.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2683,7 +2692,7 @@
       <RelatedArticleNum>（第９条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_011.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_011.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2692,7 +2701,7 @@
       <RelatedArticleNum>（第９条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_012.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_012.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2701,7 +2710,7 @@
       <RelatedArticleNum>（第９条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_013.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_013.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2710,7 +2719,7 @@
       <RelatedArticleNum>（第９条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_014.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_014.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2719,7 +2728,7 @@
       <RelatedArticleNum>（第９条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_015.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_015.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2728,7 +2737,7 @@
       <RelatedArticleNum>（第９条の１０関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_016.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_016.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2737,7 +2746,7 @@
       <RelatedArticleNum>（第９条の１２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_017.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_017.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2746,7 +2755,7 @@
       <RelatedArticleNum>（第９条の１３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_018.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_018.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2755,7 +2764,7 @@
       <RelatedArticleNum>（第９条の１４）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_019.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_019.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2764,7 +2773,7 @@
       <RelatedArticleNum>（第９条の１６）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_020.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_020.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2773,7 +2782,7 @@
       <RelatedArticleNum>（第９条の１６）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_021.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_021.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2782,7 +2791,7 @@
       <RelatedArticleNum>（第９条の１７）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_022.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_022.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2791,7 +2800,7 @@
       <RelatedArticleNum>（第９条の１８）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_023.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_023.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2800,7 +2809,7 @@
       <RelatedArticleNum>（第９条の１９）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_024.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_024.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2809,7 +2818,7 @@
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_025.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_025.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2818,7 +2827,7 @@
       <RelatedArticleNum>（第１３条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_026.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_026.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2827,7 +2836,7 @@
       <RelatedArticleNum>（第１３条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_027.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_027.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2836,7 +2845,7 @@
       <RelatedArticleNum>（第１３条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_028.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_028.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2845,7 +2854,7 @@
       <RelatedArticleNum>（第１３条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_029.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_029.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2854,7 +2863,7 @@
       <RelatedArticleNum>（第１３条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_030.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_030.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2863,7 +2872,7 @@
       <RelatedArticleNum>（第１３条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_031.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_031.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2872,7 +2881,7 @@
       <RelatedArticleNum>（第１３条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_032.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_032.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2881,7 +2890,7 @@
       <RelatedArticleNum>（第１３条の８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_033.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_033.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2890,7 +2899,7 @@
       <RelatedArticleNum>（第１３条の９関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_034.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_034.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2899,7 +2908,7 @@
       <RelatedArticleNum>（第１３条の１０関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_035.jpg"/>
+          <Fig src="./pict/3JH00000227016_1905151705_2007292007_2008131508_2008141808_2008241608_035.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -140,18 +140,18 @@
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="3">
-          <ArticleCaption>（標本葉たばこの設定）</ArticleCaption>
+          <ArticleCaption>（標本葉たばこ等の設定）</ArticleCaption>
           <ArticleTitle>第三条</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">会社は、毎年、法第三条第五項に規定する買入れに際しての葉たばこの品位の決定の基準となる種類別及び品位別の葉たばこ（以下この条及び次条において「標本葉たばこ」という。）を設定する。</Sentence>
+              <Sentence WritingMode="vertical">会社は、毎年、法第三条第五項に規定する買入れに際しての葉たばこの品位の決定の基準となる種類別及び品位別の葉たばこ又は模造葉たばこ（葉たばこ以外の物で作られ、かつ、葉たばこに著しく類似する外観を有する物をいう。以下この条において同じ。）（以下この条及び次条において「標本葉たばこ等」という。）を設定する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">標本葉たばこを決定するため、会社とたばこ耕作組合法（昭和三十三年法律第百三十五号）第二条に規定するたばこ耕作組合中央会（以下この条及び第五条において「中央会」という。）は、共同して、標本委員会を置く。</Sentence>
+              <Sentence WritingMode="vertical">標本葉たばこ等を決定するため、会社とたばこ耕作組合法（昭和三十三年法律第百三十五号）第二条に規定するたばこ耕作組合中央会（以下この条及び第五条において「中央会」という。）は、共同して、標本委員会を置く。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3">
@@ -175,13 +175,13 @@
           <Paragraph Hide="false" Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">標本葉たばこは、標本委員会が標本葉たばこの候補となるべき葉たばこから選定し、決定する。</Sentence>
+              <Sentence WritingMode="vertical">標本葉たばこ等は、標本委員会が標本葉たばこ等の候補となるべき葉たばこ又は模造葉たばこから選定し、決定する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">標本葉たばこの候補となるべき葉たばこは、当該標本葉たばこに係る区域の地方委員が協議して調製する。</Sentence>
+              <Sentence WritingMode="vertical">標本葉たばこ等の候補となるべき葉たばこ又は模造葉たばこは、当該標本葉たばこ等に係る区域の地方委員が協議して調製する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="8">
@@ -197,7 +197,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">会社は、法第三条第四項に規定する買入れに際しては、標本葉たばこを基準として、葉たばこの鑑定技術を有する会社の職員二名により、買い入れようとする葉たばこの鑑定を行う。</Sentence>
+              <Sentence WritingMode="vertical">会社は、法第三条第四項に規定する買入れに際しては、標本葉たばこ等を基準として、葉たばこの鑑定技術を有する会社の職員二名により、買い入れようとする葉たばこの鑑定を行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -1416,63 +1416,13 @@
             <Item Delete="false" Hide="false" Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">令和元年十月一日から令和二年六月三十日までの間に消費者が小売販売業者から製造たばこを法第三十三条第一項又は第二項の規定による認可に係る小売定価（以下この条において「小売定価」という。）により購入することに伴い、当該消費者に対し、当該小売販売業者その他の小売販売業者の負担により財産上の利益が提供され、かつ、当該財産上の利益の提供に要する費用に対し、令和元年度及び令和二年度の一般会計予算におけるキャッシュレス・消費者還元事業費補助金（以下この条において「補助金」という。）を財源とする補助を受ける場合であつて、小売定価又は小売定価からこれに含まれる消費税額及び地方消費税額の合計額に相当する額を控除した残額に対する当該財産上の利益の割合が、次に掲げる場合の区分に応じそれぞれ次に定める割合であるとき。</Sentence>
+                <Sentence WritingMode="vertical">令和二年九月一日から令和三年三月三十一日までの間に、消費者が小売販売業者から製造たばこを法第三十三条第一項又は第二項の規定による認可に係る小売定価（以下この号において「小売定価」という。）により購入することに伴い、当該消費者に対し、当該小売販売業者その他の小売販売業者の負担により財産上の利益が提供され、かつ、当該財産上の利益の提供に要する費用に対し、令和二年度の一般会計予算におけるマイナポイント事業費補助金（以下この号において「マイナポイント補助金」という。）を財源とする補助を受ける場合であつて、小売定価又は小売定価からこれに含まれる消費税額及び地方消費税額の合計額に相当する額を控除した残額（以下この号において「小売定価等」という。）に対する当該財産上の利益の割合が百分の二十五（小売定価等に対する、マイナポイント補助金による補助を受けて既に当該消費者に対して提供した財産上の利益の総額と五千円との差額の割合が百分の二十五より少ない場合にあつては、その割合）であるとき。</Sentence>
               </ItemSentence>
-              <Subitem1 Delete="false" Hide="false" Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Column LineBreak="false" Num="1">
-                    <Sentence WritingMode="vertical">小売定価又は小売定価からこれに含まれる消費税額及び地方消費税額の合計額に相当する額を控除した残額の百分の五に相当する財産上の利益の提供に対し、補助金を財源とする補助を受ける場合</Sentence>
-                  </Column>
-                  <Column LineBreak="false" Num="2">
-                    <Sentence WritingMode="vertical">百分の五</Sentence>
-                  </Column>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Delete="false" Hide="false" Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Column LineBreak="false" Num="1">
-                    <Sentence WritingMode="vertical">小売定価又は小売定価からこれに含まれる消費税額及び地方消費税額の合計額に相当する額を控除した残額の百分の二に相当する財産上の利益の提供に対し、補助金を財源とする補助を受ける場合</Sentence>
-                  </Column>
-                  <Column LineBreak="false" Num="2">
-                    <Sentence WritingMode="vertical">百分の二</Sentence>
-                  </Column>
-                </Subitem1Sentence>
-              </Subitem1>
             </Item>
             <Item Delete="false" Hide="false" Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">令和元年十月一日から令和二年六月三十日までの間に補助金を財源とする補助を受ける場合に用いられる決済手段を用いて消費者が小売販売業者から製造たばこを小売定価により購入することに伴い、補助金を財源とする補助を受けないものの、当該消費者に対し、当該小売販売業者その他の小売販売業者の負担により財産上の利益（補助金を財源とする補助を受ける場合に用いられる消費者還元の方法及び利用方法によるものに限る。以下この号及び次号において同じ。）が提供される場合であつて、小売定価又は小売定価からこれに含まれる消費税額及び地方消費税額の合計額に相当する額を控除した残額に対する当該財産上の利益の割合が、次に掲げる場合の区分に応じそれぞれ次に定める割合であるとき。</Sentence>
-              </ItemSentence>
-              <Subitem1 Delete="false" Hide="false" Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Column LineBreak="false" Num="1">
-                    <Sentence WritingMode="vertical">小売定価又は小売定価からこれに含まれる消費税額及び地方消費税額の合計額に相当する額を控除した残額の百分の五に相当する財産上の利益の提供に対し、補助金を財源とする補助を受けるために必要な要件を当該小売販売業者が満たす場合</Sentence>
-                  </Column>
-                  <Column LineBreak="false" Num="2">
-                    <Sentence WritingMode="vertical">百分の五</Sentence>
-                  </Column>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Delete="false" Hide="false" Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Column LineBreak="false" Num="1">
-                    <Sentence WritingMode="vertical">イ以外の場合</Sentence>
-                  </Column>
-                  <Column LineBreak="false" Num="2">
-                    <Sentence WritingMode="vertical">百分の二</Sentence>
-                  </Column>
-                </Subitem1Sentence>
-              </Subitem1>
-            </Item>
-            <Item Delete="false" Hide="false" Num="8">
-              <ItemTitle>八</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">前二号に定める財産上の利益が、製造たばこの購入代金の支払いに即時に充てられる場合。</Sentence>
+                <Sentence WritingMode="vertical">前号に定める財産上の利益が、製造たばこの購入代金の支払いに即時に充てられる場合</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2391,6 +2341,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月一八日財務省令第六二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年九月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一（第三十六条、第三十六条の二関係）</AppdxTableTitle>
       <TableStruct>
@@ -2574,7 +2533,7 @@
       <RelatedArticleNum>（第９条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_001.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2583,7 +2542,7 @@
       <RelatedArticleNum>（第１０条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_002.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2592,7 +2551,7 @@
       <RelatedArticleNum>（第１１条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_003.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2601,7 +2560,7 @@
       <RelatedArticleNum>（第１１条第１項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_004.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2610,7 +2569,7 @@
       <RelatedArticleNum>（第１１条第１項第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_005.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2619,7 +2578,7 @@
       <RelatedArticleNum>（第１１条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_006.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2628,7 +2587,7 @@
       <RelatedArticleNum>（第１２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_007.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2637,7 +2596,7 @@
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_008.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2646,7 +2605,7 @@
       <RelatedArticleNum>（第１５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_009.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2655,7 +2614,7 @@
       <RelatedArticleNum>（第１６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_010.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2664,7 +2623,7 @@
       <RelatedArticleNum>（第１６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_011.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2673,7 +2632,7 @@
       <RelatedArticleNum>（第１６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_012.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2682,7 +2641,7 @@
       <RelatedArticleNum>（第１６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_013.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2691,7 +2650,7 @@
       <RelatedArticleNum>（第１６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_014.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2700,7 +2659,7 @@
       <RelatedArticleNum>（第１６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_015.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2709,7 +2668,7 @@
       <RelatedArticleNum>（第１６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_016.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2718,7 +2677,7 @@
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_017.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2727,7 +2686,7 @@
       <RelatedArticleNum>（第１９条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_018.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2736,7 +2695,7 @@
       <RelatedArticleNum>（第１９条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_019.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2745,7 +2704,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_020.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2754,7 +2713,7 @@
       <RelatedArticleNum>（第２４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_021.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2763,7 +2722,7 @@
       <RelatedArticleNum>（第２５条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_022.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2772,7 +2731,7 @@
       <RelatedArticleNum>（第２５条第１項第２号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_023.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2781,7 +2740,7 @@
       <RelatedArticleNum>（第２５条第１項第３号関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_024.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2790,7 +2749,7 @@
       <RelatedArticleNum>（第２５条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_025.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2799,7 +2758,7 @@
       <RelatedArticleNum>（第２７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_026.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2808,7 +2767,7 @@
       <RelatedArticleNum>（第２８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_027.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2817,7 +2776,7 @@
       <RelatedArticleNum>（第２９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_028.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2826,7 +2785,7 @@
       <RelatedArticleNum>（第２９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_029.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2835,7 +2794,7 @@
       <RelatedArticleNum>（第３０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_030.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2844,7 +2803,7 @@
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_031.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2853,7 +2812,7 @@
       <RelatedArticleNum>（第３２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_032.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2862,7 +2821,7 @@
       <RelatedArticleNum>（第３８条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S60F03401000005_2004281104_033.pdf"/>
+          <Fig src="./pict/S60F03401000005_2008261508_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

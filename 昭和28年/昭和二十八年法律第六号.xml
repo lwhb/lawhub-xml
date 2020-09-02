@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200824e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="6" Year="28">
+<Law DataInfo="200529e03k09m03" Era="Showa" Lang="ja" LawType="Act" Num="6" Year="28">
   <LawNum>昭和二十八年法律第六号</LawNum>
   <LawBody>
     <LawTitle>酒税法</LawTitle>
@@ -815,7 +815,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号）第六十九条第四項（立入検査等）の規定により収去される酒類</Sentence>
+                <Sentence>医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号）第六十九条第四項及び第五項（立入検査等）の規定により収去される酒類</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -7425,6 +7425,63 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月四日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第十二条及び第三十九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第二条の規定、第四条（覚<Ruby>せ<Rt>ヽ</Rt>い<Rt>ヽ</Rt>
+</Ruby>剤取締法第九条第一項第二号の改正規定に限る。）の規定及び第六条の規定並びに次条、附則第五条、第六条、第八条、第十一条第二項、第十六条及び第二十条の規定、附則第二十二条（自衛隊法（昭和二十九年法律第百六十五号）第百十五条の五第二項の改正規定に限る。）の規定並びに附則第二十三条、第二十八条、第三十一条、第三十四条及び第三十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="38">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為及びこの法律の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="39">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

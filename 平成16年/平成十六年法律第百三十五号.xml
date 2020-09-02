@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200803e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="135" Year="16">
+<Law DataInfo="200127e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="135" Year="16">
   <LawNum>平成十六年法律第百三十五号</LawNum>
   <LawBody>
     <LawTitle>国立研究開発法人医薬基盤・健康・栄養研究所法</LawTitle>
@@ -108,7 +108,7 @@
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>この法律において「希少疾病用医薬品」とは、医薬品医療機器等法第二条第十六項に規定する希少疾病用医薬品を、「希少疾病用医療機器」とは、同項に規定する希少疾病用医療機器を、「希少疾病用再生医療等製品」とは、同項に規定する希少疾病用再生医療等製品をいう。</Sentence>
+              <Sentence>この法律において「希少疾病用医薬品」とは、医薬品医療機器等法第二条第十六項に規定する希少疾病用医薬品を、「希少疾病用医療機器」とは、同項に規定する希少疾病用医療機器を、「希少疾病用再生医療等製品」とは、同項に規定する希少疾病用再生医療等製品を、「特定用途医薬品」とは、同項に規定する特定用途医薬品を、「特定用途医療機器」とは、同項に規定する特定用途医療機器を、「特定用途再生医療等製品」とは、同項に規定する特定用途再生医療等製品をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -312,7 +312,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>希少疾病用医薬品、希少疾病用医療機器及び希少疾病用再生医療等製品に関する試験研究に関し、必要な資金に充てるための助成金を交付し、並びに指導及び助言を行うこと（厚生労働省の所管する他の独立行政法人の業務に属するものを除く。）。</Sentence>
+                <Sentence>希少疾病用医薬品、希少疾病用医療機器及び希少疾病用再生医療等製品並びにその用途に係る対象者の数が医薬品医療機器等法第七十七条の三の厚生労働省令で定める人数に達しない特定用途医薬品、特定用途医療機器及び特定用途再生医療等製品に関する試験研究に関し、必要な資金に充てるための助成金を交付し、並びに指導及び助言を行うこと（厚生労働省の所管する他の独立行政法人の業務に属するものを除く。）。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -404,7 +404,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>研究所は、業務方法書で定めるところにより、第十五条第一項第二号の助成金の交付を受けた者であって、当該助成金に係る希少疾病用医薬品、希少疾病用医療機器又は希少疾病用再生医療等製品に関する試験研究を行った者又はその承継人（以下この条において「試験研究実施者等」という。）から、当該希少疾病用医薬品、希少疾病用医療機器又は希少疾病用再生医療等製品の利用により試験研究実施者等が得た収入又は利益の一部を同号に掲げる業務及びこれに附帯する業務に充てるための納付金として徴収することができる。</Sentence>
+              <Sentence>研究所は、業務方法書で定めるところにより、第十五条第一項第二号の助成金の交付を受けた者であって、当該助成金に係る希少疾病用医薬品、希少疾病用医療機器若しくは希少疾病用再生医療等製品又は特定用途医薬品、特定用途医療機器若しくは特定用途再生医療等製品に関する試験研究を行った者又はその承継人（以下この条において「試験研究実施者等」という。）から、当該希少疾病用医薬品、希少疾病用医療機器若しくは希少疾病用再生医療等製品又は特定用途医薬品、特定用途医療機器若しくは特定用途再生医療等製品の利用により試験研究実施者等が得た収入又は利益の一部を同号に掲げる業務及びこれに附帯する業務に充てるための納付金として徴収することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1555,6 +1555,51 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月四日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第十二条及び第三十九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="38">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為及びこの法律の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="39">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
