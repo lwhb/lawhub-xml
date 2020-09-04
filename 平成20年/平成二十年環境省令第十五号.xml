@@ -168,12 +168,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日環境省令第九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F18001000015_1906041606_001.pdf"/>
+          <Fig src="./pict/H20F18001000015_2006031706_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -182,7 +191,7 @@
       <RelatedArticleNum>（第２条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F18001000015_1906041606_002.pdf"/>
+          <Fig src="./pict/H20F18001000015_2006031706_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -191,7 +200,7 @@
       <RelatedArticleNum>（第３条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F18001000015_1906041606_003.pdf"/>
+          <Fig src="./pict/H20F18001000015_2006031706_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -200,7 +209,7 @@
       <RelatedArticleNum>（第３条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F18001000015_1906041606_004.pdf"/>
+          <Fig src="./pict/H20F18001000015_2006031706_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -209,7 +218,7 @@
       <RelatedArticleNum>（第５条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F18001000015_1906041606_005.pdf"/>
+          <Fig src="./pict/H20F18001000015_2006031706_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -218,7 +227,7 @@
       <RelatedArticleNum>（第５条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F18001000015_1906041606_006.pdf"/>
+          <Fig src="./pict/H20F18001000015_2006031706_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -227,7 +236,7 @@
       <RelatedArticleNum>（第６条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F18001000015_1906041606_007.pdf"/>
+          <Fig src="./pict/H20F18001000015_2006031706_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -236,7 +245,7 @@
       <RelatedArticleNum>（第６条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H20F18001000015_1906041606_008.pdf"/>
+          <Fig src="./pict/H20F18001000015_2006031706_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

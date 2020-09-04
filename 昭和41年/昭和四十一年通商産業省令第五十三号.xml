@@ -82,7 +82,7 @@
       </TOCChapter>
       <TOCChapter Delete="false" Num="14">
         <ChapterTitle>第十四章　雑則</ChapterTitle>
-        <ArticleRange>（第九十五条―第百三条）</ArticleRange>
+        <ArticleRange>（第九十五条―第百四条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -3139,7 +3139,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">製造設備が圧縮水素スタンド（当該圧縮水素スタンド内の圧縮水素及び液化水素の常陽圧力が八十二メガパスカル以下のものに限る。以下第十一条及び第十二条のニを除き同じ。）である製造施設における法第八条第一号の経済産業省令で定める技術上の基準は、次の各号に掲げるものとする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">製造設備が圧縮水素スタンド（当該圧縮水素スタンド内の圧縮水素及び液化水素の常陽圧力が八十二メガパスカル以下のものに限り、顧客に自ら圧縮水素の充填に係る行為をさせるものを除く。以下この条において同じ。）である製造施設における法第八条第一号の経済産業省令で定める技術上の基準は、次の各号に掲げるものとする。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次項各号に掲げる基準に適合しているものについては、この限りでなく、また、製造設備の冷却の用に供する冷凍設備にあつては、冷凍保安規則に規定する技術上の基準によることができる。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
@@ -3711,6 +3711,181 @@
               </Item>
             </Paragraph>
           </Article>
+          <Article Delete="false" Hide="false" Num="7_4">
+            <ArticleCaption>（顧客に自ら圧縮水素の充填に係る行為をさせる圧縮水素スタンドに係る技術上の基準）</ArticleCaption>
+            <ArticleTitle>第七条の四</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">製造設備が圧縮水素スタンド（当該圧縮水素スタンド内の圧縮水素及び液化水素の常用圧力が八十二メガパスカル以下のものであつて、顧客に自ら圧縮水素の充填に係る行為をさせるものに限る。以下この条において同じ。）である製造施設における法第八条第一号の経済産業省令で定める技術上の基準は、次の各号に掲げるものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次項各号に掲げる基準に適合しているものについては、この限りでなく、また、製造設備の冷却の用に供する冷凍設備にあつては、冷凍保安規則に規定する技術上の基準によることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第六条第一項第一号、第二号、第五号から第十九号まで、第二十一号、第二十二号、第二十四号から第二十七号まで、第三十二号及び第三十八号から第四十二号まで、前条第一項第一号の二から第六号まで及び第八号から第十八号まで並びに前条第二項第六号、第十号から第二十三号まで、第二十五号、第三十三号ヘ、第三十五号及び第三十七号の基準に適合すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">圧縮水素スタンドの運転中において、当該圧縮水素スタンド内の監視を行うために必要な設備を備えた事務所等（以下「監視所」という。）を設けること。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">また、当該監視所は、次に掲げる基準に適合すること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第六条第一項第五号、第十八号、第十九号、第二十一号、第二十五号、第二十七号、第三十二号及び第三十九号、前条第一項第一号の二、第三号から第五号まで、第十号、第十一号、第十七号及び第十八号、前条第二項第六号、第十号から第十号の三まで、第十五号から第二十号まで、第二十二号、第二十三号及び第三十五号並びに本項第三号の規定により設けた設備又は措置の運転状況を監視する措置を講ずること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第六条第一項第五号、第二十一号、第二十五号、第二十七号、第三十二号及び第三十九号、前条第一項第一号の二、第三号から第五号まで、第十号、第十一号、第十七号及び第十八号並びに前条第二項第六号、第十号の三、第十五号から第二十号まで、第二十二号、第二十三号及び第三十五号の規定により設けた設備又は措置の異常時に警報を発する措置を講ずること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第六条第一項第五号、第二十五号、第三十二号及び第三十九号、前条第一項第三号から第五号まで、第十七号、第十八号並びに前条第二項第六号、第十五号、第十九号、第二十号及び第二十二号の規定により設けた遮断措置、温度の上昇を防止するための装置及び製造設備の運転を自動的に停止する装置等は、火災又はその他緊急のときに速やかに操作できる措置を講ずること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">圧縮水素スタンド内及び顧客による充填に係る行為を目視により確認できる措置を講ずること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">顧客に対し必要な指示を行うための措置を講ずること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="6">
+                  <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">製造施設が危険な状態になつたときに、必要に応じ付近の住民に退避するよう警告するための措置を講ずること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">通信の遮断により、前号イからハまでのいずれかの機能が失われたときは、製造設備の運転を自動的に停止するための措置を講ずること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">ディスペンサーの周囲の地盤面には、充填する車両の充填口を考慮した当該車両の停止位置を表示すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">ディスペンサーには、見やすい箇所に当該ディスペンサーの操作方法を表示すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">ディスペンサーには、人体に蓄積された静電気を除去する措置を講ずること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">充填用のノズルには、圧縮水素を燃料として使用する車両に固定した燃料装置用容器と適切に接続されたことを顧客が容易に確認することができる措置を講ずること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">充填用のノズルは、圧縮水素を燃料として使用する車両に固定した燃料装置用容器に圧縮水素を供給している間は当該燃料装置用容器から外れない構造とすること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">充填用のノズルには、凍結しないための措置を講ずること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">ディスペンサーには、誤発進を防止するため、充填が終了した後に、顧客による充填用のノズルの収納が確実に行われるようにするための措置を講ずること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">製造設備が圧縮水素スタンドである製造施設に係る前項ただし書きの基準は、次の各号に掲げるものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、製造設備の冷却の用に供する冷凍設備にあつては、冷凍保安規則に規定する技術上の基準によることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第六条第一項第一号、第六号から第十四号まで、第十六号から第十九号まで、第二十一号、第二十二号、第二十四号から第二十七号まで、第三十二号、第三十八号及び第四十一号、前条第一項第一号の二から第一号の四まで、第十七号及び第十八号、前条第二項第一号の二から第三十七号まで並びに前項第三号から第十号までの基準に適合すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">監視所は、前項第二号ニからヘまでに掲げる基準のほか、次に掲げる基準に適合すること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第六条第一項第十八号、第十九号、第二十一号、第二十五号、第二十七号及び第三十二号、前条第一項第一号の二、第十七号及び第十八号、前条第二項第一号の二、第五号から第八号まで、第十号から第十号の三まで、第十五号から第二十号まで、第二十二号、第二十三号、第二十七号、第二十八号、第三十三号ハ及び第三十五号並びに前項第三号の規定により設けた設備又は措置の運転状況を監視する措置を講ずること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第六条第一項第二十一号、第二十五号、第二十七号及び第三十二号、前条第一項第一号の二、第十七号及び第十八号並びに前条第二項第一号の二、第五号から第八号まで、第十号の三、第十五号から第二十号まで、第二十二号、第二十三号、第二十七号、第二十八号及び第三十五号の規定により設けた設備又は措置の異常時に警報を発する措置を講ずること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">第六条第一項第二十五号及び第三十二号、前条第一項第十七号及び第十八号並びに前条第二項第一号の二、第五号から第八号まで、第十五号、第十九号、第二十号及び第二十二号の規定により設けた遮断措置、温度の上昇を防止するための装置及び製造設備の運転を自動的に停止する装置等は、火災又はその他緊急のときに速やかに操作できる措置を講ずること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">製造設備が圧縮水素スタンドである製造施設における法第八条第二号の経済産業省令で定める技術上の基準は、次の各号に掲げるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第六条第二項第一号イ及びハ、第二号イ、ハ、ヌ及びル、第四号から第六号まで並びに第八号並びに前条第三項第三号、第四号、第六号並びに第七号の基準に適合すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第六条第二項第四号の規定により行う点検は、直接目視により行うこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">圧縮水素スタンドの運転中は、監視所において圧縮水素スタンド内及び顧客による充填に係る行為の監視並びに顧客に対する必要な指示を適切に行うこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">圧縮水素スタンドの運転を管理する電子計算機は、当該圧縮水素スタンドに危険が生じるおそれがないよう、サイバーセキュリティ（サイバーセキュリティ基本法（平成二十六年法律第百四号）第二条に規定するサイバーセキュリティをいう。）を確保すること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
           <Article Delete="false" Hide="false" Num="8">
             <ArticleCaption>（移動式製造設備に係る技術上の基準）</ArticleCaption>
             <ArticleTitle>第八条</ArticleTitle>
@@ -3836,7 +4011,7 @@
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">製造設備が移動式製造設備（第六条の二第二項の規定に適合するコールド・エバポレータ又は前条第二項の圧縮水素スタンドの液化水素の貯槽に液化ガスを充填するものに限る。以下この条において同じ。）である製造施設における法第八条第一号の経済産業省令で定める技術上の基準は、第一項の規定によるほか、次の各号に掲げるものとする。</Sentence>
+                <Sentence WritingMode="vertical">製造設備が移動式製造設備（第六条の二第二項の規定に適合するコールド・エバポレータ又は第七条の三第二項、前条第二項、第十一条第一項第五号（第七条の三第二項の基準を準用する場合に限る。）若しくは第十二条の二第二項の圧縮水素スタンドの液化水素の貯槽に液化ガスを充填するものに限る。以下この条において同じ。）である製造施設における法第八条第一号の経済産業省令で定める技術上の基準は、第一項の規定によるほか、次の各号に掲げるものとする。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -4036,7 +4211,7 @@
                 <Subitem1 Delete="false" Hide="false" Num="5">
                   <Subitem1Title>ホ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">第七条第二項の規定に基づき設置された圧縮天然ガススタンド内、第七条の二第一項の規定に基づき設置された液化天然ガススタンド内、第七条の三第二項の規定に基づき設置された圧縮水素スタンド内又は液化石油ガス保安規則第八条第一項の規定に基づき設置された液化石油ガススタンド内で圧縮水素を燃料として使用する車両に固定した容器に、移動式圧縮水素スタンドから圧縮水素を充填するときは、当該移動式圧縮水素スタンドの外面から敷地境界に対し第二種設備距離（製造設備の常用の圧力が四十メガパスカルを超え八十二メガパスカル以下の場合にあつては八メートル、製造設備の常用の圧力が四十メガパスカル以下の場合にあつては六メートル）以上の距離を有し、又はこれと同等以上の措置を講じられていることを確認すること。</Sentence>
+                    <Sentence WritingMode="vertical">第七条第二項の規定に基づき設置された圧縮天然ガススタンド内、第七条の二第一項の規定に基づき設置された液化天然ガススタンド内、第七条の三第二項、第七条の四第二項、第十一条第一項第五号（第七条の三第二項の基準を準用する場合に限る。）及び第十二条の二第二項の規定に基づき設置された圧縮水素スタンド内、液化石油ガス保安規則第八条第一項の規定に基づき設置された液化石油ガススタンド内、コンビナート等保安規則第六条の規定に基づき設置された特定液化石油ガススタンド内、同規則第七条第二項の規定に基づき設置された圧縮天然ガススタンド内、同規則第七条の二第一項の規定に基づき設置された液化天然ガススタンド内又は同規則第七条の三第二項の規定に基づき設置された圧縮水素スタンド内で圧縮水素を燃料として使用する車両に固定した容器に、移動式圧縮水素スタンドから圧縮水素を充填するときは、当該移動式圧縮水素スタンドの外面から敷地境界に対し第二種設備距離（製造設備の常用の圧力が四十メガパスカルを超え八十二メガパスカル以下の場合にあつては八メートル、製造設備の常用の圧力が四十メガパスカル以下の場合にあつては六メートル）以上の距離を有し、又はこれと同等以上の措置を講じられていることを確認すること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Delete="false" Hide="false" Num="6">
@@ -5822,7 +5997,7 @@
                 <Subitem2 Delete="false" Hide="false" Num="3">
                   <Subitem2Title>（ハ）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence WritingMode="vertical">第七条の三第二項の圧縮水素スタンドの液化水素の貯槽に充填する液化水素</Sentence>
+                    <Sentence WritingMode="vertical">第七条の三第二項、第七条の四第二項、第十一条第一項第五号（第七条の三第二項の基準を準用する場合に限る。）及び第十二条の二第二項の圧縮水素スタンド並びにコンビナート等保安規則第七条の三第二項の圧縮水素スタンドの液化水素の貯槽に充填する液化水素</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
               </Subitem1>
@@ -7101,7 +7276,7 @@
             <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">処理能力が二十五万立方メートル未満の事業所において、又は移動式圧縮水素スタンドにより、専ら常用の圧力が八十二メガパスカル以下の圧縮水素を燃料として使用する車両に固定された容器に圧縮水素を充填する者であつて、次のいずれかに該当する者にその製造に係る保安について監督させるもの</Sentence>
+                <Sentence WritingMode="vertical">処理能力が二十五万立方メートル未満の圧縮水素スタンド又は移動式圧縮水素スタンド（当該圧縮水素スタンド内又は当該移動式圧縮水素スタンド内の圧縮水素及び液化水素の常用圧力が八十二メガパスカル以下のものに限る。）により、圧縮水素を製造する者であつて、次のいずれか（第七条の四第一項又は同条第二項の圧縮水素スタンドにあつては次のイに限る。）に該当する者にその製造に係る保安について監督させるもの</Sentence>
               </ItemSentence>
               <Subitem1 Delete="false" Hide="false" Num="1">
                 <Subitem1Title>イ</Subitem1Title>
@@ -7976,7 +8151,7 @@
               <Item Delete="false" Hide="false" Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">製造設備が定置式製造設備（第六条第一項第三号、第六号、第九号、第二十三号、第三十一号、第三十八号、第三十九号並びに第四十二号ヘ及びヌに掲げる基準（特定不活性ガスに係るものに限る。）に係るものに限る。）、コールド・エバポレータ、圧縮天然ガススタンド（第七条第一項第二号後段並びに同条第二項第四号及び第五号に掲げる基準に係るものに限る。）、液化天然ガススタンド（第七条の二第一項第五号及び第六号に掲げる基準に係るものに限る。）、圧縮水素スタンド（第七条の三第一項第十四号、第十六号及び第十八号（第七条の三第二項第一号において準用する場合を含む。）並びに同条第二項第三十号及び第三十四号に掲げる基準（液化水素昇圧ポンプ及びこれに接続される送ガス蒸発器に係るものに限る。）に係るものに限る。）、移動式製造設備（第八条第一項第四号に掲げる基準（特定不活性ガスに係るものに限る。）又は同条第三項に掲げる基準に係るものに限る。）及び移動式圧縮水素スタンドである製造施設において、別表第三に定める方法を用いる場合</Sentence>
+                  <Sentence WritingMode="vertical">製造設備が定置式製造設備（第六条第一項第三号、第六号、第九号、第二十三号、第三十一号、第三十八号、第三十九号並びに第四十二号ヘ及びヌに掲げる基準（特定不活性ガスに係るものに限る。）に係るものに限る。）、コールド・エバポレータ、圧縮天然ガススタンド（第七条第一項第二号後段並びに同条第二項第四号及び第五号に掲げる基準に係るものに限る。）、液化天然ガススタンド（第七条の二第一項第五号及び第六号に掲げる基準に係るものに限る。）、圧縮水素スタンド（第七条の三第一項第十四号及び第十六号（第七条の四第一項第一号において準用する場合を含む。）、第七条の三第一項第十八号（同条第二項第一号、第七条の四第一項第一号及び同条第二項第一号において準用する場合を含む。）並びに第七条の三第二項第三十号及び第三十四号（第七条の四第二項第一号において準用する場合を含む。）に掲げる基準（液化水素昇圧ポンプ及びこれに接続される送ガス蒸発器に係るものに限る。）並びに第七条の四第一項第二号イ、ロ及びハ並びに同号ニ、ホ及びヘ（同条第二項第二号において準用する場合を含む。）並びに同条第一項第三号から第十号まで（同条第二項第一号において準用する場合を含む。）並びに同項第二号イ、ロ及びハに掲げる基準に係るものに限る。）、移動式製造設備（第八条第一項第四号に掲げる基準（特定不活性ガスに係るものに限る。）又は同条第三項に掲げる基準に係るものに限る。）及び移動式圧縮水素スタンドである製造施設において、別表第三に定める方法を用いる場合</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -11621,12 +11796,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-<SupplProvision AmendLawNum="令和二年六月二六日経済産業省令第六〇号" Type="Amend">
+    <SupplProvision AmendLawNum="令和二年六月二六日経済産業省令第六〇号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+<SupplProvision AmendLawNum="令和二年八月六日経済産業省令第六六号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年八月七日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -12709,7 +12893,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">５　製造設備が圧縮水素スタンドである製造施設の場合</Sentence>
+              <Sentence WritingMode="vertical">５　製造設備が第七条の三第一項の圧縮水素スタンドである製造施設の場合</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical"/>
@@ -13367,7 +13551,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">６　製造設備が移動式製造設備（移動式圧縮水素スタンドを除く。）である製造施設の場合</Sentence>
+              <Sentence WritingMode="vertical">5の2　製造設備が第七条の四第一項の圧縮水素スタンドである製造施設の場合</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical"/>
@@ -13375,10 +13559,228 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一　第七条の四第一項第一号で準用する第六条第一項各号の検査項目のうち、第一項第一号、第二号、第五号から第二十号まで、第二十二号、第二十三号、第二十五号から第二十八号まで、第三十三号及び第三十八号から第四十九号までに掲げるもの</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一　第一項第一号、第二号、第五号から第二十号まで、第二十二号、第二十三号、第二十五号から第二十八号まで、第三十三号及び第三十八号から第四十九号までに掲げる完成検査の方法により検査を行う。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二　第七条の四第一項第一号で準用する第七条の三第一項各号の検査項目のうち、前項第一号の二から第七号まで及び第九号から第十六号の六までに掲げるもの</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二　前項第一号の二から第七号まで及び第九号から第十六号の六までに掲げる完成検査の方法により検査を行う。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三　第七条の四第一項第一号で準用する第七条の三第二項各号の検査項目のうち、前項第二十三号、第二十八号から第二十八号の四まで、第二十九号の二から第四十一号まで、第四十三号、第五十六号、第六十号及び第六十三号に掲げるもの</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三　前項第二十三号、第二十八号から第二十八号の四まで、第二十九号の二から第四十一号まで、第四十三号、第五十六号、第六十号及び第六十三号に掲げる完成検査の方法により検査を行う。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">四　第七条の四第一項第二号イの設備又は措置の運転状況を監視する措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">四　監視所に講じた運転状況を監視する措置の状況を目視又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">五　第七条の四第一項第二号ロの設備又は措置の異常時に警報を発する措置</Sentence>
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">五　監視所に講じた異常時に警報を発する措置の状況を目視又は記録により検査し当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">六　第七条の四第一項第二号ハの火災又はその他緊急のときに速やかに操作できる措置</Sentence>
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">六　監視所に講じた火災又はその他緊急のときに速やかに操作できる措置の状況を目視又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">七　第七条の四第一項第二号ニの目視により確認できる措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">七　監視所に講じた目視により確認できる措置の状況を目視又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">八　第七条の四第一項第二号ホの顧客に対し必要な指示を行うための措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">八　監視所に講じた顧客に対し必要な指示を行うための措置の状況を目視又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">九　第七条の四第一項第二号ヘの必要に応じ付近の住民に退避するよう警告するための措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">九　監視所に講じた必要に応じ付近の住民に退避するよう警告するための措置の状況を目視又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十　第七条の四第一項第三号の製造設備の運転を自動的に停止するための措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十　監視所に講じた機能が失われたときに製造設備の運転を自動的に停止するための措置の状況を図面又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十一　第七条の四第一項第四号の車両の停止位置の表示</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十一　ディスペンサーの周囲の地盤面に講じた車両の停止位置の表示の状況を目視により検査し、必要に応じ図面又は記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二　第七条の四第一項第五号のディスペンサーの操作方法の表示</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二　ディスペンサーに講じたディスペンサーの操作方法の表示の状況を目視により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十三　第七条の四第一項第六号の人体に蓄積された静電気を除去する措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十三　ディスペンサーに講じた人体に蓄積された静電気を除去する措置の状況を目視によるほか、記録等により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十四　第七条の四第一項第七号の容器と適切に接続されたことを顧客が容易に確認することができる措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十四　充填用のノズルに講じた容器と適切に接続されたことを顧客が容易に確認することができる措置の状況を目視及び図面により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十五　第七条の四第一項第八号の充填用のノズルが外れない構造</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十五　充填用のノズルに講じた容器に圧縮水素を供給している間は、容器から外れない構造の状況を目視及び図面又は記録により検査し、当該構造の機能を実際に使用して検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十六　第七条の四第一項第九号の充填用のノズルの凍結しないための措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十六　充填用のノズルの凍結しないための措置の状況を目視及び図面又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十七　第七条の四第一項第十号の顧客による充填用のノズルの収納が確実に行われるようにするための措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十七　ディスペンサーに講じた顧客による充填用のノズルの収納が確実に行われるようにするための措置の状況を目視及び図面又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十八　第七条の四第二項第一号で準用する第六条第一項各号の検査項目のうち、第一項第一号、第六号から第十四号まで、第十六号から第二十号まで、第二十二号、第二十三号、第二十五号から第二十八号まで、第三十三号、第三十八号及び第四十一号に掲げるもの</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十八　第一項第一号、第六号から第十四号まで、第十六号から第二十号まで、第二十二号、第二十三号、第二十五号から第二十八号まで、第三十三号、第三十八号及び第四十一号に掲げる完成検査の方法により検査を行う。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十九　第七条の四第二項第一号で準用する第七条の三第一項各号の検査項目のうち、前項第一号の二から第一号の四まで、第十六号の五及び第十六号の六に掲げるもの</Sentence>
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十九　前項第一号の二から第一号の四まで、第十六号の五及び第十六号の六に掲げる完成検査の方法により検査を行う。</Sentence>
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十　第七条の四第二項第一号で準用する第七条の三第二項各号の検査項目のうち、前項第十七号の三から第六十三号までに掲げるもの</Sentence>
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十　前項第十七号の三から第六十三号までに掲げる完成検査の方法により検査を行う。</Sentence>
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十一　第七条の四第二項第一号で準用する同条第一項各号の検査項目のうち、第十号から第十七号までに掲げるもの</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十一　第十号から第十七号に掲げる完成検査の方法により検査を行う。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十二　第七条の四第二項第二号で準用する同条第一項第二号の検査項目のうち、第七号から第九号までに掲げるもの</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十二　第七号から第九号までに掲げる完成検査の方法により検査を行う。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十三　第七条の四第二項第二号イの設備又は措置の運転状況を監視する措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十三　監視所に講じた運転状況を監視する措置の状況を目視又はその記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十四　第七条の四第二項第二号ロの設備又は措置の異常時に警報を発する措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十四　監視所に講じた異常時に警報を発する措置の状況を目視又はその記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十五　第七条の四第二項第二号ハの火災又はその他緊急のときに速やかに操作できる措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十五　監視所に講じた火災又はその他緊急のときに速やかに操作できる措置の状況を目視又はその記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">６　製造設備が移動式製造設備（移動式圧縮水素スタンドを除く。）である製造施設の場合</Sentence>
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">一　第八条第一項第一号の製造施設の付近の引火性物質等の状況</Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">一　製造施設の周辺について、引火性又は発火性物質の有無を目視により検査する。</Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14086,7 +14488,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">３　製造設備が圧縮水素スタンドである製造施設の場合</Sentence>
+              <Sentence WritingMode="vertical">３　製造設備が第七条の三第一項の圧縮水素スタンドである製造施設の場合</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical"/>
@@ -14094,7 +14496,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一　第七条の三第一項第十四号の常用の圧力が高い液化水素昇圧ポンプに接続される送ガス蒸発器から常用の圧力が低い蓄圧器に圧縮水素が流入することを防止するための措置</Sentence>
+              <Sentence WritingMode="vertical">一　第七条の三第一項第十四号の常用の圧力が高い液化水素昇圧ポンプに接続される送ガス蒸発器から常用の圧力が低い蓄圧器に圧縮水素が流入することを防止するための措置（第七条の四第一項第一号で準用するものを含む。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">一　常用の圧力が高い液化水素昇圧ポンプに接続される送ガス蒸発器から常用の圧力が低い蓄圧器に圧縮水素が流入することを防止するために配管に講じた措置の状況を目視により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
@@ -14102,7 +14504,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二　第七条の三第一項第十六号の同号ロの設備と圧縮ガスを容器に充填する場所等との間の障壁</Sentence>
+              <Sentence WritingMode="vertical">二　第七条の三第一項第十六号の同号ロの設備と圧縮ガスを容器に充填する場所等との間の障壁（第七条の四第一項第一号で準用するものを含む。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">二　液化水素昇圧ポンプ及び液化水素昇圧ポンプに接続される送ガス蒸発器と十メガパスカル以上の圧力を有する圧縮ガスを充填する場所又は当該ガスの充填容器の容器置場との間に設置された障壁の設置状況を目視及び図面により検査する。</Sentence>
@@ -14110,7 +14512,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">三　第七条の三第一項第十八号の液化水素昇圧ポンプに講じた爆発、漏えい、損傷等を防止するための措置（第七条の三第二項第一号で準用するものを含む。）</Sentence>
+              <Sentence WritingMode="vertical">三　第七条の三第一項第十八号の液化水素昇圧ポンプに講じた爆発、漏えい、損傷等を防止するための措置（第七条の三第二項第一号、第七条の四第一項第一号及び同条第二項第一号で準用するものを含む。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">三　液化水素昇圧ポンプに講じた爆発、漏えい、損傷等を防止するための措置の状況を目視によるほか、図面又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
@@ -14118,7 +14520,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">四　第七条の三第二項第三十号の液化水素昇圧ポンプ及び送ガス蒸発器とディスペンサーとの間の障壁等</Sentence>
+              <Sentence WritingMode="vertical">四　第七条の三第二項第三十号の液化水素昇圧ポンプ及び送ガス蒸発器とディスペンサーとの間の障壁等（第七条の四第二項第一号で準用するものを含む。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">四　液化水素昇圧ポンプ及び送ガス蒸発器とディスペンサーとの間に設置された障壁の設置状況を目視及び図面により検査する。</Sentence>
@@ -14126,7 +14528,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">五　第七条の三第二項第三十四号の常用の圧力が高い液化水素昇圧ポンプに接続される送ガス蒸発器から常用の圧力が低い蓄圧器に圧縮水素が流入することを防止するための措置</Sentence>
+              <Sentence WritingMode="vertical">五　第七条の三第二項第三十四号の常用の圧力が高い液化水素昇圧ポンプに接続される送ガス蒸発器から常用の圧力が低い蓄圧器に圧縮水素が流入することを防止するための措置（第七条の四第二項第一号で準用するものを含む。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">五　常用の圧力が高い液化水素昇圧ポンプに接続される送ガス蒸発器から常用の圧力が低い蓄圧器に圧縮水素が流入することを防止するために配管に講じた措置の状況を目視により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
@@ -14134,7 +14536,151 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">３の２　製造設備が移動式製造設備である製造施設</Sentence>
+              <Sentence WritingMode="vertical">3の2　製造設備が第七条の四第一項の圧縮水素スタンドである製造施設の場合</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一　第七条の四第一項第二号イの設備又は措置の運転状況を監視する措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一　監視所に講じた運転状況を監視する措置の状況を目視又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二　第七条の四第一項第二号ロの設備又は措置の異常時に警報を発する措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二　監視所に講じた異常時に警報を発する措置の状況を目視又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三　第七条の四第一項第二号ハの火災又はその他緊急のときに速やかに操作できる措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三　監視所に講じた火災又はその他緊急のときに速やかに操作できる措置の状況を目視又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">四　第七条の四第一項第二号ニの目視により確認できる措置（同条第二項第二号で準用するものを含む。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">四　監視所に講じた目視により確認できる措置の状況を目視又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">五　第七条の四第一項第二号ホの顧客に対し必要な指示を行うための措置（同条第二項第二号で準用するものを含む。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">五　監視所に講じた顧客に対し必要な指示を行うための措置の状況を目視又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">六　第七条の四第一項第二号ヘの必要に応じ付近の住民に退避するよう警告するための措置（同条第二項第二号で準用するものを含む。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">六　監視所に講じた必要に応じ付近の住民に退避するよう警告するための措置の状況を目視又は記録により検査し当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">七　第七条の四第一項第三号の製造設備の運転を自動的に停止するための措置（同条第二項第一号で準用するものを含む。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">七　監視所に講じた機能が失われたときに製造設備の運転を自動的に停止するための措置の状況を図面又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">八　第七条の四第一項第四号の車両の停止位置の表示（同条第二項第一号で準用するものを含む。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">八　ディスペンサーの周囲の地盤面に講じた車両の停止位置の表示の状況及び維持管理状況を目視により検査し、必要に応じ図面又は記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">九　第七条の四第一項第五号のディスペンサーの操作方法の表示（同条第二項第一号で準用するものを含む。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">九　ディスペンサーに講じたディスペンサーの操作方法の表示及び維持管理状況を目視により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十　第七条の四第一項第六号の人体に蓄積された静電気を除去する措置（同条第二項第一号で準用するものを含む。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十　ディスペンサーに講じた人体に蓄積された静電気を除去する措置の状況を目視によるほか、記録等により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十一　第七条の四第一項第七号の容器と適切に接続されたことを顧客が容易に確認することができる措置（同条第二項第一号で準用するものを含む。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十一　充填用のノズルに講じた容器と適切に接続されたことを顧客が容易に確認することができる措置の状況を目視及び図面により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二　第七条の四第一項第八号の充填用のノズルが外れない構造（同条第二項第一号で準用するものを含む。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二　充填用のノズルに講じた容器に圧縮水素を供給している間は、容器から外れない構造の状況を目視及び図面により検査し、当該構造の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十三　第七条の四第一項第九号の充填用のノズルの凍結しないための措置（同条第二項第一号で準用するものを含む。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十三　充填用のノズルの凍結しないための措置の状況を目視及び図面又は記録により検査し、当該措置の機能を実際に使用して検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十四　第七条の四第一項第十号の顧客による充填用のノズルの収納が確実に行われるようにするための措置（同条第二項第一号で準用するものを含む。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十四　ディスペンサーに講じた顧客による充填用のノズルの収納が確実に行われるようにするための措置の状況及び維持管理状況を目視及び図面又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十五　第七条の四第二項第二号イの設備又は措置の運転状況を監視する措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十五　監視所に講じた運転状況を監視する措置の状況を目視又はその記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十六　第七条の四第二項第二号ロの設備又は措置の異常時に警報を発する措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十六　監視所に講じた異常時に警報を発する措置の状況を目視又は記録により検査し、当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十七　第七条の四第二項第二号ハの火災又はその他緊急のときに速やかに操作できる措置</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十七　監視所に講じた火災又はその他緊急のときに速やかに操作できる措置の状況を目視又は記録により検査し当該措置の機能を作動試験又はその記録により検査する。</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３の３　製造設備が移動式製造設備である製造施設</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical"/>

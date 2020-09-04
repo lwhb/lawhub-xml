@@ -2025,11 +2025,20 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二一日文部科学省令第五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記第１号様式　（用紙の大きさは日本工業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S30F03501000024-001.pdf"/>
+          <Fig src="./pict/S30F03501000024_2008261208_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2037,7 +2046,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記第２号様式　（用紙の大きさは日本工業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S30F03501000024-002.pdf"/>
+          <Fig src="./pict/S30F03501000024_2008261208_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2045,7 +2054,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記第３号様式　（用紙の大きさは日本工業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S30F03501000024-003.pdf"/>
+          <Fig src="./pict/S30F03501000024_2008261208_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2053,7 +2062,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記第４号様式　（用紙の大きさは日本工業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S30F03501000024-004.pdf"/>
+          <Fig src="./pict/S30F03501000024_2008261208_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2061,7 +2070,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記第５号様式　（用紙の大きさは日本工業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S30F03501000024-005.pdf"/>
+          <Fig src="./pict/S30F03501000024_2008261208_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2069,7 +2078,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記第６号様式　（用紙の大きさは日本工業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S30F03501000024-006.pdf"/>
+          <Fig src="./pict/S30F03501000024_2008261208_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2077,7 +2086,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記第７号様式　（用紙の大きさは日本工業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S30F03501000024-007.pdf"/>
+          <Fig src="./pict/S30F03501000024_2008261208_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2085,7 +2094,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記第８号様式　（用紙の大きさは日本工業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S30F03501000024-008.pdf"/>
+          <Fig src="./pict/S30F03501000024_2008261208_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2093,7 +2102,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記第９号様式　（用紙の大きさは日本工業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S30F03501000024-009.pdf"/>
+          <Fig src="./pict/S30F03501000024_2008261208_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

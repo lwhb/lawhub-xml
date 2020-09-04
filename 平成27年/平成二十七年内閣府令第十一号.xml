@@ -136,8 +136,7 @@
               <Subitem1Title>ト</Subitem1Title>
               <Subitem1Sentence>
                 <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">ふぐを原材料とするふぐ加工品（軽度の<Ruby>撒<Rt>さん</Rt>
-</Ruby>塩を行ったものを除く。）</Sentence>
+                  <Sentence WritingMode="vertical">ふぐを原材料とするふぐ加工品</Sentence>
                 </Column>
                 <Column LineBreak="false" Num="2">
                   <Sentence WritingMode="vertical">生食用であるかないかの別（冷凍食品のうち、切り身にしたふぐを凍結させたものに限る。）</Sentence>
@@ -743,8 +742,7 @@
             <Subitem1 Delete="false" Hide="false" Num="8">
               <Subitem1Title>チ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">切り身又はむき身にした魚介類（生かき及びふぐを原材料とするふぐ加工品（軽度の<Ruby>撒<Rt>さん</Rt>
-</Ruby>塩を行ったものを除く。）を除く。）であって、生食用のもの（凍結させたものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">切り身又はむき身にした魚介類（生かき及びふぐを原材料とするふぐ加工品を除く。）であって、生食用のもの（凍結させたものを除く。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="9">
@@ -762,8 +760,7 @@
             <Subitem1 Delete="false" Hide="false" Num="11">
               <Subitem1Title>ル</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">ふぐを原材料とするふぐ加工品（軽度の<Ruby>撒<Rt>さん</Rt>
-</Ruby>塩を行ったものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">ふぐを原材料とするふぐ加工品</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="12">
@@ -1028,13 +1025,26 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="令和二年三月二七日内閣府令第二〇号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
+      <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
+        <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この府令は、食品衛生法等の一部を改正する法律及び食品衛生法施行令及び厚生労働省組織令の一部を改正する政令の施行の日（令和二年六月一日）から施行する。</Sentence>
+            <Sentence WritingMode="vertical">この府令は、食品衛生法等の一部を改正する法律及び食品衛生法施行令及び厚生労働省組織令の一部を改正する政令の施行の日（令和二年六月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月一六日内閣府令第五二号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、日本農林規格等に関する法律施行令の一部を改正する政令の施行の日（令和二年七月十六日）から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1044,7 +1054,7 @@
       <RelatedArticleNum>（第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H27F10001000011_2005201705_001.pdf"/>
+          <Fig src="./pict/H27F10001000011_2008171508_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1053,7 +1063,7 @@
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H27F10001000011_2005201705_002.pdf"/>
+          <Fig src="./pict/H27F10001000011_2008171508_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
