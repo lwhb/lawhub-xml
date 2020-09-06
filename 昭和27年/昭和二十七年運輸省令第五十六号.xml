@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200618e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="056" Year="27">
+<Law DataInfo="200903e05k09m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="056" Year="27">
   <LawNum>昭和二十七年運輸省令第五十六号</LawNum>
   <LawBody>
     <LawTitle>航空法施行規則</LawTitle>
@@ -50,13 +50,13 @@
       </TOCChapter>
       <TOCChapter Delete="false" Num="6">
         <ChapterTitle>第六章　航空機の運航</ChapterTitle>
-        <ArticleRange>（第百三十三条―第二百九条の四）</ArticleRange>
+        <ArticleRange>（第百三十三条―第二百九条の二）</ArticleRange>
       </TOCChapter>
       <TOCChapter Delete="false" Num="7">
         <ChapterTitle>第七章　航空運送事業等</ChapterTitle>
         <TOCSection Delete="false" Num="1">
           <SectionTitle>第一節　航空運送事業</SectionTitle>
-          <ArticleRange>（第二百十条―第二百二十六条の二）</ArticleRange>
+          <ArticleRange>（第二百十条―第二百二十六条の五）</ArticleRange>
         </TOCSection>
         <TOCSection Delete="false" Num="2">
           <SectionTitle>第二節　航空機使用事業</SectionTitle>
@@ -69,7 +69,7 @@
       </TOCChapter>
       <TOCChapter Delete="false" Num="9">
         <ChapterTitle>第九章　無人航空機</ChapterTitle>
-        <ArticleRange>（第二百三十六条―第二百三十六条の八）</ArticleRange>
+        <ArticleRange>（第二百三十六条―第二百三十六条の十）</ArticleRange>
       </TOCChapter>
       <TOCChapter Delete="false" Num="10">
         <ChapterTitle>第十章　雑則</ChapterTitle>
@@ -1458,14 +1458,13 @@
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">禁<Ruby>錮<Rt>こ</Rt>
-</Ruby>以上の刑に処せられて、その執行を終わり、又は執行を受けることがなくなつた日から二年を経過しない者</Sentence>
+                  <Sentence WritingMode="vertical">禁錮以上の刑に処せられて、その執行を終わり、又は執行を受けることがなくなつた日から二年を経過しない者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">成年被後見人又は被保佐人</Sentence>
+                  <Sentence WritingMode="vertical">精神の機能の障害により耐空検査員の業務を適正に行うに当たつて必要な認知、判断及び意思疎通を適切に行うことができない者</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1499,7 +1498,7 @@
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の申請書には、写真（申請前六月以内に、脱帽、上半身を写した台紙にはらないもの（縦三センチメートル、横二・四センチメートル）で、裏面に氏名を記載したもの。この章中以下同じ。）二葉及び次に掲げる書類を添えなければならない。</Sentence>
+                <Sentence WritingMode="vertical">前項の申請書には、写真（申請前六月以内に、脱帽、上半身を写した台紙にはらないもの（縦三センチメートル、横二・四センチメートル）で、裏面に氏名を記載したもの。以下この章において同じ。）二葉及び次に掲げる書類を添えなければならない。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -1510,21 +1509,21 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">後見登記等に関する法律（平成十一年法律第百五十二号）第十条第一項に規定する登記事項証明書</Sentence>
+                  <Sentence WritingMode="vertical">履歴書</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">履歴書</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="4">
-                <ItemTitle>四</ItemTitle>
-                <ItemSentence>
                   <Sentence WritingMode="vertical">第十六条の四第二号の経験を有することを証明する書類</Sentence>
                 </ItemSentence>
               </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国土交通大臣は、申請者に対し、前項に規定するもののほか、必要と認める書面を提出させることができる。</Sentence>
+              </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="16_8">
@@ -1567,6 +1566,17 @@
                   <Sentence WritingMode="vertical">再交付を申請する事由</Sentence>
                 </ItemSentence>
               </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16_9_2">
+            <ArticleCaption>（精神の機能の障害により認知等を適切に行うことができない状態となつた場合の届出）</ArticleCaption>
+            <ArticleTitle>第十六条の九の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">耐空検査員又はその法定代理人若しくは同居の親族は、当該耐空検査員が精神の機能の障害を有することにより認知、判断及び意思疎通を適切に行うことができない状態となつたときは、国土交通大臣に届け出なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、病名、障害の程度、病因、病後の経過、治癒の見込みその他参考となる所見を記載した医師の診断書を添付しなければならない。</Sentence>
+              </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="16_10">
@@ -3304,7 +3314,7 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="39">
-            <ArticleCaption>（業務の実施に関する事項及び業務規程の認可の申請）</ArticleCaption>
+            <ArticleCaption>（業務の実施に関する事項等）</ArticleCaption>
             <ArticleTitle>第三十九条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
@@ -3364,6 +3374,54 @@
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
                   <Sentence WritingMode="vertical">前号の業務規程が次条の技術上の基準に適合していることを説明する書類</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第二十条第二項の国土交通省令で定める軽微な変更は、次のとおりとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第一項第二号に掲げる事項のうち業務に用いる施設の機能に支障を及ぼすおそれがないと国土交通大臣が認める事項の変更</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第一項第三号に掲げる事項のうち業務の実施に影響を及ぼすおそれがないと国土交通大臣が認める事項の変更</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前二号に掲げるもののほか、誤記の訂正、法令の制定又は改廃に伴い当然必要とされる形式的な変更その他の業務規程に記載されている内容の実質的な変更を伴わない変更</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第二十条第四項の規定により業務規程の変更の届出をしようとする者は、次に掲げる事項を記載した業務規程変更届出書を国土交通大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">氏名又は名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">変更した事項（新旧の対照を明示すること。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">実施日</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -5120,7 +5178,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第三十一条第一項の指定は、指定航空身体検査医が次の各号の一に該当するときは、効力を失う。</Sentence>
+              <Sentence WritingMode="vertical">法第三十一条第一項の指定は、指定航空身体検査医が次の各号のいずれかに該当するときは、効力を失う。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -5143,7 +5201,7 @@
             <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">医師法（昭和二十三年法律第二百一号）第七条第二項の規定により医師の免許が取り消されたとき。</Sentence>
+                <Sentence WritingMode="vertical">医師法（昭和二十三年法律第二百一号）第七条第一項の規定により医師の免許が取り消されたとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -5161,7 +5219,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">医師法第七条第二項の規定により医業の停止処分を受けたとき。</Sentence>
+                <Sentence WritingMode="vertical">医師法第七条第一項の規定により医業の停止処分を受けたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -6797,7 +6855,7 @@
                           </TableColumn>
                           <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                             <Sentence WritingMode="vertical">二三メートル（精密進入用滑走路である場合にあつては、三〇メートル）以上</Sentence>
-                            </TableColumn>
+                          </TableColumn>
                           <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                             <Sentence WritingMode="vertical">三〇メートル以上</Sentence>
                           </TableColumn>
@@ -6819,10 +6877,10 @@
                             <Sentence WritingMode="vertical"/>
                           </TableColumn>
                           <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">四五メートル以上</Sentence>
+                            <Sentence WritingMode="vertical">四五メートル以上</Sentence>
                           </TableColumn>
                           <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">四五メートル以上</Sentence>
+                            <Sentence WritingMode="vertical">四五メートル以上</Sentence>
                           </TableColumn>
                         </TableRow>
                         <TableRow>
@@ -6974,7 +7032,7 @@
                         <TableRow>
                           <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                             <Sentence WritingMode="vertical">非計器着陸用滑走路（計器着陸用滑走路以外の滑走路をいう。以下同じ。）</Sentence>
-                            </TableColumn>
+                          </TableColumn>
                           <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                             <Sentence WritingMode="vertical">三〇メートル以上</Sentence>
                           </TableColumn>
@@ -7260,7 +7318,7 @@
                           <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                             <Sentence WritingMode="vertical">Ｅ</Sentence>
                           </TableColumn>
-                            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                          <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                             <Sentence WritingMode="vertical">Ｆ</Sentence>
                           </TableColumn>
                         </TableRow>
@@ -20976,7 +21034,7 @@
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第九十九条の規定により国土交通大臣が提供する情報（以下「航空情報」という。）</Sentence>
+                <Sentence WritingMode="vertical">法第九十九条第一項の規定により国土交通大臣が提供する情報（以下「航空情報」という。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="4">
@@ -24455,183 +24513,6 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="209_3">
-          <ArticleCaption>（飛行に影響を及ぼすおそれのある行為）</ArticleCaption>
-          <ArticleTitle>第二百九条の三</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第九十九条の二第一項の航空機の飛行に影響を及ぼすおそれのある行為で国土交通省令で定めるものは、次の各号に掲げる行為とする。</Sentence>
-            </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">ロケット、花火、ロックーンその他の物件を法第九十九条の二第一項の空域（当該空域が管制圏又は情報圏である場合にあつては、次に掲げる空域に限る。）に打ちあげること。</Sentence>
-              </ItemSentence>
-              <Subitem1 Delete="false" Hide="false" Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">進入表面、転移表面若しくは水平表面又は法第五十六条第一項の規定により国土交通大臣が指定した延長進入表面、円錐表面若しくは外側水平表面の上空の空域</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Delete="false" Hide="false" Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第三十八条第一項の規定が適用されない飛行場（自衛隊の設置する飛行場を除く。以下同じ。）の周辺の空域であつて、航空機の離陸及び着陸の安全を確保するために必要なものとして国土交通大臣が告示で定める空域</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Delete="false" Hide="false" Num="3">
-                <Subitem1Title>ハ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">イ及びロに掲げる空域以外の空域であつて、地表又は水面から百五十メートル以上の高さの空域</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-            </Item>
-            <Item Delete="false" Hide="false" Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">気球（<Ruby>玩<Rt>がん</Rt>
-</Ruby>具用のもの及びこれに類する構造のものを除く。）を前号の空域に放し、又は浮揚させること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">凧を第一号の空域に揚げること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">模型航空機（無人航空機を除く。次条において同じ。）を第一号の空域で飛行させること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">可視光線であるレーザー光を第一号の空域を飛行する航空機に向かつて照射すること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="6">
-              <ItemTitle>六</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">航空機の集団飛行を第一号の空域で行うこと。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="7">
-              <ItemTitle>七</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">ハンググライダー又はパラグライダーの飛行を第一号の空域で行うこと。</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Hide="false" Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第九十九条の二第一項ただし書の許可を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。</Sentence>
-            </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">氏名、住所及び連絡場所</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">当該行為を行う目的</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">当該行為の内容並びに当該行為を行う日時及び場所</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">その他参考となる事項</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-        </Article>
-        <Article Delete="false" Hide="false" Num="209_4">
-          <ArticleTitle>第二百九条の四</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第九十九条の二第二項の航空機の飛行に影響を及ぼすおそれのある行為で国土交通省令で定めるものは、次の各号に掲げる行為とする。</Sentence>
-            </ParagraphSentence>
-            <Item Delete="false" Hide="false" Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">ロケット、花火、ロックーンその他の物件を法第九十九条の二第二項の空域のうち次に掲げる空域に打ちあげること。</Sentence>
-              </ItemSentence>
-              <Subitem1 Delete="false" Hide="false" Num="1">
-                <Subitem1Title>イ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">進入表面、転移表面若しくは水平表面又は法第五十六条第一項の規定により国土交通大臣が指定した延長進入表面、円錐表面若しくは外側水平表面の上空の空域</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Delete="false" Hide="false" Num="2">
-                <Subitem1Title>ロ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第三十八条第一項の規定が適用されない飛行場の周辺の空域であつて、航空機の離陸及び着陸の安全を確保するために必要なものとして国土交通大臣が告示で定める空域</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Delete="false" Hide="false" Num="3">
-                <Subitem1Title>ハ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">イ及びロに掲げる空域以外の空域であつて、航空路内の地表又は水面から百五十メートル以上の高さの空域</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-              <Subitem1 Delete="false" Hide="false" Num="4">
-                <Subitem1Title>ニ</Subitem1Title>
-                <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">イからハまでに掲げる空域以外の空域であつて、地表又は水面から二百五十メートル以上の高さの空域</Sentence>
-                </Subitem1Sentence>
-              </Subitem1>
-            </Item>
-            <Item Delete="false" Hide="false" Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">気球（<Ruby>玩<Rt>がん</Rt>
-</Ruby>具用のもの及びこれに類する構造のものを除く。）を前号の空域に放し、又は浮揚させること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">凧を第一号の空域に揚げること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">模型航空機を第一号の空域で飛行させること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">航空機の集団飛行を第一号の空域で行うこと。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="6">
-              <ItemTitle>六</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">ハンググライダー又はパラグライダーの飛行を第一号イ及びロの空域で行うこと。</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Hide="false" Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項の行為を行おうとする者は、あらかじめ、前条第二項第一号、第三号及び第四号に掲げる事項を国土交通大臣に通報しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
       </Chapter>
       <Chapter Delete="false" Hide="false" Num="7">
         <ChapterTitle>第七章　航空運送事業等</ChapterTitle>
@@ -25170,7 +25051,7 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="213">
-            <ArticleCaption>（運航規程及び整備規程の認可申請）</ArticleCaption>
+            <ArticleCaption>（運航規程及び整備規程の認可申請等）</ArticleCaption>
             <ArticleTitle>第二百十三条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
@@ -25193,6 +25074,90 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Sentence WritingMode="vertical">変更の認可の申請の場合は、変更を必要とする理由</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第百四条第一項第一号の国土交通省令で定める変更は、次のとおりとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">機体並びに装備品、部品及び救急用具（次条において「装備品等」という。）の製造者等の作成する運航又は整備に関する技術的資料に準拠した変更</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前号に掲げるもののほか、航空機の運航の安全に影響を及ぼすおそれの少ないものとして国土交通大臣が認める事項の変更（第四項各号に掲げるものを除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第百四条第三項の規定により運航規程又は整備規程の変更の届出をしようとする者は、次に掲げる事項を記載した運航規程変更事前届出書又は整備規程変更事前届出書を国土交通大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">氏名又は名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">変更しようとする事項（新旧の対照を明示すること。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">実施予定日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第百四条第一項第二号の国土交通省令で定める軽微な変更は、次のとおりとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">運航又は整備に関する職務を実施する組織の名称の変更であつて、その職務の範囲及び内容の変更を伴わないもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前号に掲げるもののほか、誤記の訂正、法令の制定又は改廃に伴い当然必要とされる形式的な変更その他の運航規程又は整備規程に記載されている内容の実質的な変更を伴わない変更</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第百四条第四項の規定により運航規程又は整備規程の軽微な変更の届出をしようとする者は、次に掲げる事項を記載した運航規程変更事後届出書又は整備規程変更事後届出書を国土交通大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">氏名又は名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">変更した事項（新旧の対照を明示すること。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">実施日</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -25268,7 +25233,7 @@
                       <Sentence WritingMode="vertical">ト　離陸し、又は着陸することができる最低の気象状態</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">使用が予想されるすべての空港等について、航空機の型式、当該空港等の特性、航空保安施設の状況並びに操縦者の知識及び経験に適応して定められていること。</Sentence>
+                      <Sentence WritingMode="vertical">使用が予想される全ての空港等について、航空機の型式、当該空港等の特性、航空保安施設の状況並びに操縦者の知識及び経験に適応して定められていること。</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -25306,7 +25271,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">ヲ　装備品、部品及び救急用具（以下「装備品等」という。）が正常でない場合における航空機の運用許容基準</Sentence>
+                      <Sentence WritingMode="vertical">ヲ　装備品等が正常でない場合における航空機の運用許容基準</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">当該装備品等に代替して機能する装備品等がある場合、当該航行に当該装備品等が不要である場合等当該航空機の航行の安全を害さない範囲内で定められていること。</Sentence>
@@ -27389,19 +27354,25 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">進入表面、転移表面若しくは水平表面又は法第五十六条第一項の規定により国土交通大臣が指定した延長進入表面、円錐表面若しくは外側水平表面の上空の空域</Sentence>
+                <Sentence WritingMode="vertical">航空機の離陸及び着陸が頻繁に実施される空港等で安全かつ円滑な航空交通の確保を図る必要があるものとして国土交通大臣が告示で定めるものの周辺の空域であつて、当該空港等及びその上空の空域における航空交通の安全を確保するために必要なものとして国土交通大臣が告示で定める空域</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第三十八条第一項の規定が適用されない飛行場の周辺の空域であつて、航空機の離陸及び着陸の安全を確保するために必要なものとして国土交通大臣が告示で定める空域</Sentence>
+                <Sentence WritingMode="vertical">前号に掲げる空港等以外の空港等の周辺の空域であつて、進入表面、転移表面若しくは水平表面又は法第五十六条第一項の規定により国土交通大臣が指定した延長進入表面、円錐表面若しくは外側水平表面の上空の空域</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">前二号に掲げる空域以外の空域であつて、地表又は水面から百五十メートル以上の高さの空域</Sentence>
+                <Sentence WritingMode="vertical">法第三十八条第一項の規定が適用されない飛行場（自衛隊の設置する飛行場を除く。以下同じ。）の周辺の空域であつて、航空機の離陸及び着陸の安全を確保するために必要なものとして国土交通大臣が告示で定める空域</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前三号に掲げる空域以外の空域であつて、地表又は水面から百五十メートル以上の高さの空域</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -27479,7 +27450,37 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第百三十二条の二第三号の国土交通省令で定める距離は、三十メートルとする。</Sentence>
+              <Sentence WritingMode="vertical">法第百三十二条の二第二号の規定により無人航空機を飛行させる者が確認しなければならない事項は、次に掲げるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該無人航空機の状況</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該無人航空機を飛行させる空域及びその周囲の状況</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該飛行に必要な気象情報</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">燃料の搭載量又はバッテリーの残量</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">無人航空機を飛行させる者は、前項第一号に掲げる事項を確認する場合において、当該無人航空機の外部点検及び作動点検を行わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -27488,20 +27489,64 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第百九十四条第一項の規定は、法第百三十二条の二第五号の国土交通省令で定める物件について準用する。</Sentence>
+              <Sentence WritingMode="vertical">法第百三十二条の二第三号の国土交通省令で定める方法は、次の各号に掲げる方法とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">無人航空機の飛行経路上及びその周辺の空域において飛行中の航空機を確認した場合であつて、衝突のおそれがあると認められるときは、無人航空機を地上に降下させることその他適当な方法を講じること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">無人航空機の飛行経路上及びその周辺の空域において飛行中の他の無人航空機を確認したときは、次に掲げる方法により飛行させること。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（平成二十八年法律第九号）第十条第二項（第三項において準用する場合を含む。）の規定による措置その他法律に基づいて国又は地方公共団体が人又は物件に対する危険を防止するためやむを得ずに行う措置については、この限りでない。</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">当該他の無人航空機との間に安全な間隔を確保して飛行させること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">イの方法によることができない場合であつて、衝突のおそれがあると認められるときは、無人航空機を地上に降下させることその他適当な方法を講じること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="236_6">
+          <ArticleCaption>（飛行の方法）</ArticleCaption>
+          <ArticleTitle>第二百三十六条の六</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百三十二条の二第七号の国土交通省令で定める距離は、三十メートルとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="236_7">
+          <ArticleTitle>第二百三十六条の七</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第百九十四条第一項の規定は、法第百三十二条の二第九号の国土交通省令で定める物件について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、第百九十四条第一項第八号中「航空機」とあるのは、「無人航空機」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項の規定にかかわらず、無人航空機の飛行のため当該無人航空機で輸送する物件は、法第百三十二条の二第五号の国土交通省令で定める物件に含まれないものとする。</Sentence>
+              <Sentence WritingMode="vertical">前項の規定にかかわらず、無人航空機の飛行のため当該無人航空機で輸送する物件は、法第百三十二条の二第九号の国土交通省令で定める物件に含まれないものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="236_6">
+        <Article Delete="false" Hide="false" Num="236_8">
           <ArticleCaption>（飛行の方法によらない飛行の承認）</ArticleCaption>
-          <ArticleTitle>第二百三十六条の六</ArticleTitle>
+          <ArticleTitle>第二百三十六条の八</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -27528,7 +27573,7 @@
             <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第百三十二条の二各号に掲げる方法によらずに飛行させる理由</Sentence>
+                <Sentence WritingMode="vertical">法第百三十二条の二第五号から第十号までに掲げる方法によらずに飛行させる理由</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="5">
@@ -27557,9 +27602,9 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="236_7">
+        <Article Delete="false" Hide="false" Num="236_9">
           <ArticleCaption>（捜索又は救助のための特例）</ArticleCaption>
-          <ArticleTitle>第二百三十六条の七</ArticleTitle>
+          <ArticleTitle>第二百三十六条の九</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -27567,8 +27612,8 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="236_8">
-          <ArticleTitle>第二百三十六条の八</ArticleTitle>
+        <Article Delete="false" Hide="false" Num="236_10">
+          <ArticleTitle>第二百三十六条の十</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -28001,8 +28046,210 @@
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="239_2">
-          <ArticleCaption>（ＯＣＲに用いる申請書等）</ArticleCaption>
+          <ArticleCaption>（飛行に影響を及ぼすおそれのある行為）</ArticleCaption>
           <ArticleTitle>第二百三十九条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百三十四条の三第一項の航空機の飛行に影響を及ぼすおそれのある行為で国土交通省令で定めるものは、次の各号に掲げる行為とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">ロケット、花火、ロックーンその他の物件を法第百三十四条の三第一項の空域（当該空域が管制圏又は情報圏である場合にあつては、次に掲げる空域に限る。）に打ち上げること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">進入表面、転移表面若しくは水平表面又は法第五十六条第一項の規定により国土交通大臣が指定した延長進入表面、円錐表面若しくは外側水平表面の上空の空域</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第三十八条第一項の規定が適用されない飛行場の周辺の空域であつて、航空機の離陸及び着陸の安全を確保するために必要なものとして国土交通大臣が告示で定める空域</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">イ及びロに掲げる空域以外の空域であつて、地表又は水面から百五十メートル以上の高さの空域</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">気球（玩具用のもの及びこれに類する構造のものを除く。）を前号の空域に放し、又は浮揚させること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">凧を第一号の空域に揚げること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">模型航空機（無人航空機を除く。次条において同じ。）を第一号の空域で飛行させること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">可視光線であるレーザー光を第一号の空域を飛行する航空機に向かつて照射すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">航空機の集団飛行を第一号の空域で行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">ハンググライダー又はパラグライダーの飛行を第一号の空域で行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百三十四条の三第一項ただし書の許可を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">氏名、住所及び連絡場所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該行為を行う目的</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">当該行為の内容並びに当該行為を行う日時及び場所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">その他参考となる事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="239_3">
+          <ArticleTitle>第二百三十九条の三</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百三十四条の三第二項の航空機の飛行に影響を及ぼすおそれのある行為で国土交通省令で定めるものは、次の各号に掲げる行為とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">ロケット、花火、ロックーンその他の物件を法第百三十四条の三第二項の空域のうち次に掲げる空域に打ち上げること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">進入表面、転移表面若しくは水平表面又は法第五十六条第一項の規定により国土交通大臣が指定した延長進入表面、円錐表面若しくは外側水平表面の上空の空域</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第三十八条第一項の規定が適用されない飛行場の周辺の空域であつて、航空機の離陸及び着陸の安全を確保するために必要なものとして国土交通大臣が告示で定める空域</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">イ及びロに掲げる空域以外の空域であつて、航空路内の地表又は水面から百五十メートル以上の高さの空域</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">イからハまでに掲げる空域以外の空域であつて、地表又は水面から二百五十メートル以上の高さの空域</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">気球（玩具用のもの及びこれに類する構造のものを除く。）を前号の空域に放し、又は浮揚させること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">凧を第一号の空域に揚げること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">模型航空機を第一号の空域で飛行させること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">航空機の集団飛行を第一号の空域で行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">ハンググライダー又はパラグライダーの飛行を第一号イ及びロの空域で行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の行為を行おうとする者は、あらかじめ、前条第二項第一号、第三号及び第四号に掲げる事項を国土交通大臣に通報しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="239_4">
+          <ArticleTitle>第二百三十九条の四</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第百三十四条の三第三項の国土交通省令で定めるものは、次に掲げるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">無人航空機に向かつて花火を打ち上げ、又は石、ガラス瓶、金属片その他無人航空機を損傷するおそれのある物件を投げ、若しくは発射すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">無人航空機の飛行を妨害するおそれのある電波を発射すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">無人航空機の遠隔操作又は自動操縦を妨げること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="239_5">
+          <ArticleCaption>（ＯＣＲに用いる申請書等）</ArticleCaption>
+          <ArticleTitle>第二百三十九条の五</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -28022,13 +28269,13 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="239_3">
+        <Article Delete="false" Hide="false" Num="239_6">
           <ArticleCaption>（ＯＣＲ申請書等による申請等に係る手数料の納付方法）</ArticleCaption>
-          <ArticleTitle>第二百三十九条の三</ArticleTitle>
+          <ArticleTitle>第二百三十九条の六</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">ＯＣＲ申請書等による申請又は申込みに係る手数料は、当該手数料の額に相当する額の収入印紙を納付書（第三十一号様式）にはつて納めなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">ＯＣＲ申請書等による申請又は申込みに係る手数料は、当該手数料の額に相当する額の収入印紙を納付書（第三十一号様式）に貼つて納めなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して当該申請又は申込みをする場合において、当該申請又は申込みを行つたことにより得られた納付情報により納めるときは、現金をもつてすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -28099,6 +28346,12 @@
               <ItemTitle>六の三</ItemTitle>
               <ItemSentence>
                 <Sentence WritingMode="vertical">法第二十条第二項の規定による認可（初めて認可を申請する認定事業場に係るものを除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6_4">
+              <ItemTitle>六の四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第二十条第四項の規定による届出の受理</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="7">
@@ -28422,13 +28675,7 @@
             <Item Delete="false" Hide="false" Num="36">
               <ItemTitle>三十六</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第九十九条の二第一項ただし書の規定による許可</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="36_2">
-              <ItemTitle>三十六の二</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">法第九十九条の二第二項の規定による通報の受理</Sentence>
+                <Sentence WritingMode="vertical">削除</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="37">
@@ -28481,131 +28728,143 @@
               <Subitem1 Delete="false" Hide="false" Num="8">
                 <Subitem1Title>チ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百五条第一項の規定による届出の受理</Sentence>
+                  <Sentence WritingMode="vertical">法第百四条第三項の規定による届出の受理</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="9">
                 <Subitem1Title>リ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百五条第二項の規定による権限</Sentence>
+                  <Sentence WritingMode="vertical">法第百四条第四項の規定による届出の受理</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="10">
                 <Subitem1Title>ヌ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百五条第三項の規定による認可</Sentence>
+                  <Sentence WritingMode="vertical">法第百五条第一項の規定による届出の受理</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="11">
                 <Subitem1Title>ル</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百六条第一項の規定による認可</Sentence>
+                  <Sentence WritingMode="vertical">法第百五条第二項の規定による権限</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="12">
                 <Subitem1Title>ヲ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百七条の二第一項の規定による届出の受理</Sentence>
+                  <Sentence WritingMode="vertical">法第百五条第三項の規定による認可</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="13">
                 <Subitem1Title>ワ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百七条の二第二項の規定による届出の受理</Sentence>
+                  <Sentence WritingMode="vertical">法第百六条第一項の規定による認可</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="14">
                 <Subitem1Title>カ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百七条の二第三項の規定による届出の受理</Sentence>
+                  <Sentence WritingMode="vertical">法第百七条の二第一項の規定による届出の受理</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="15">
                 <Subitem1Title>ヨ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百七条の二第四項の規定による届出の受理</Sentence>
+                  <Sentence WritingMode="vertical">法第百七条の二第二項の規定による届出の受理</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="16">
                 <Subitem1Title>タ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百八条第二項の規定による権限</Sentence>
+                  <Sentence WritingMode="vertical">法第百七条の二第三項の規定による届出の受理</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="17">
                 <Subitem1Title>レ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百九条第一項の規定による認可</Sentence>
+                  <Sentence WritingMode="vertical">法第百七条の二第四項の規定による届出の受理</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="18">
                 <Subitem1Title>ソ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百九条第三項の規定による届出の受理</Sentence>
+                  <Sentence WritingMode="vertical">法第百八条第二項の規定による権限</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="19">
                 <Subitem1Title>ツ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百九条第四項の規定による届出の受理</Sentence>
+                  <Sentence WritingMode="vertical">法第百九条第一項の規定による認可</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="20">
                 <Subitem1Title>ネ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百十一条の四の規定による報告の受理</Sentence>
+                  <Sentence WritingMode="vertical">法第百九条第三項の規定による届出の受理</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="21">
                 <Subitem1Title>ナ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百十二条の規定による権限</Sentence>
+                  <Sentence WritingMode="vertical">法第百九条第四項の規定による届出の受理</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="22">
                 <Subitem1Title>ラ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百十三条の二第一項の規定による許可</Sentence>
+                  <Sentence WritingMode="vertical">法第百十一条の四の規定による報告の受理</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="23">
                 <Subitem1Title>ム</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百十三条の二第三項の規定による権限</Sentence>
+                  <Sentence WritingMode="vertical">法第百十二条の規定による権限</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="24">
                 <Subitem1Title>ウ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百十四条第一項の規定による認可</Sentence>
+                  <Sentence WritingMode="vertical">法第百十三条の二第一項の規定による許可</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="25">
                 <Subitem1Title>ヰ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百十五条第一項の規定による認可</Sentence>
+                  <Sentence WritingMode="vertical">法第百十三条の二第三項の規定による権限</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="26">
                 <Subitem1Title>ノ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百十六条第二項の規定による認可</Sentence>
+                  <Sentence WritingMode="vertical">法第百十四条第一項の規定による認可</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="27">
                 <Subitem1Title>オ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百十八条の規定による届出の受理</Sentence>
+                  <Sentence WritingMode="vertical">法第百十五条第一項の規定による認可</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="28">
                 <Subitem1Title>ク</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">法第百十九条の規定による権限</Sentence>
+                  <Sentence WritingMode="vertical">法第百十六条第二項の規定による認可</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="29">
                 <Subitem1Title>ヤ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第百十八条の規定による届出の受理</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="30">
+                <Subitem1Title>マ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第百十九条の規定による権限</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="31">
+                <Subitem1Title>ケ</Subitem1Title>
                 <Subitem1Sentence>
                   <Sentence WritingMode="vertical">法第百二十五条第一項の規定による権限</Sentence>
                 </Subitem1Sentence>
@@ -28722,13 +28981,13 @@
             <Item Delete="false" Hide="false" Num="42">
               <ItemTitle>四十二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">削除</Sentence>
+                <Sentence WritingMode="vertical">法第百三十四条の三第一項ただし書の規定による許可</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="43">
               <ItemTitle>四十三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">削除</Sentence>
+                <Sentence WritingMode="vertical">法第百三十四条の三第二項の規定による通報の受理</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="44">
@@ -28974,7 +29233,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第二十条第五項の規定による権限</Sentence>
+                <Sentence WritingMode="vertical">法第二十条第六項の規定による権限</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -28998,7 +29257,7 @@
             <Item Delete="false" Hide="false" Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第九十九条の規定による権限（第二百四十二条の二第一項第十一号に掲げるものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">法第九十九条第一項の規定による権限（第二百四十二条の二第一項第十一号に掲げるものを除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="7">
@@ -29014,8 +29273,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">地方航空局長は、前条第一項第八号及び第二十号の権限、同項第二十四号の二の権限（無線電話及び航空交通管制用自動応答装置に係るものに限る。）、同項第二十五号の権限（航空運送事業の用に供する航空機に係るもの及び船舶又は構築物において離陸し、又は着陸しようとする回転翼航空機に係るものを除く。）、同項第二十七号の権限（航空運送事業の用に供する航空機、計器飛行方式により、又は夜間において飛行しようとする航空機及び物件を機体の外に装着し、つり下げ、又は<Ruby>曳<Rt>えい</Rt>
-</Ruby>航して運送しようとする回転翼航空機に係るものを除く。）、同項第二十七号の二及び第二十九号の権限、同項第三十一号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の試験をする飛行を行おうとする航空機に係るものに限る。）、同項第三十二号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の操縦の練習のための飛行を行おうとする航空機に係るものに限る。）、同項第三十六号の権限（管制圏及びこれに接続する進入管制区内の特別管制空域並びに情報圏に係る行為を行おうとする者に係るものに限る。）、同項第三十六号の二、第三十七号オ及び第三十七号の十一の権限、同項第四十号の二の権限（法第百三十二条第一号の空域における飛行に係るものに限る。）並びに同項第四十一号及び第六十四号の二ニの権限を空港事務所長に行わせるものとする。</Sentence>
+              <Sentence WritingMode="vertical">地方航空局長は、前条第一項第八号及び第二十号の権限、同項第二十四号の二の権限（無線電話及び航空交通管制用自動応答装置に係るものに限る。）、同項第二十五号の権限（航空運送事業の用に供する航空機に係るもの及び船舶又は構築物において離陸し、又は着陸しようとする回転翼航空機に係るものを除く。）、同項第二十七号の権限（航空運送事業の用に供する航空機、計器飛行方式により、又は夜間において飛行しようとする航空機及び物件を機体の外に装着し、つり下げ、又は曳航して運送しようとする回転翼航空機に係るものを除く。）、同項第二十七号の二及び第二十九号の権限、同項第三十一号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の試験をする飛行を行おうとする航空機に係るものに限る。）、同項第三十二号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の操縦の練習のための飛行を行おうとする航空機に係るものに限る。）、同項第三十七号ヤ及び第三十七号の十一の権限、同項第四十号の二の権限（法第百三十二条第一号の空域における飛行に係るものに限る。）、同項第四十一号の権限、同項第四十二号の権限（管制圏及びこれに接続する進入管制区内の特別管制空域並びに情報圏に係る行為を行おうとする者に係るものに限る。）並びに同項第四十三号及び第六十四号の二ニの権限を空港事務所長に行わせるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -29095,7 +29353,7 @@
               <Table WritingMode="vertical">
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">一　第二百四十条第一項第一号、第三号、第三号の二、第五号から第六号の三まで、第九号から第十九号まで、第二十一号から第二十四号まで、第四十四号から第四十六号まで、第五十三号、第五十四号、第五十六号及び第六十号の権限並びに同項第六十五号の権限（第二百三十八条の表十の項、十一の項及び十二の項に係る届出の受理に係るものを除く。）</Sentence>
+                    <Sentence WritingMode="vertical">一　第二百四十条第一項第一号、第三号、第三号の二、第五号から第六号の四まで、第九号から第十九号まで、第二十一号から第二十四号まで、第四十四号から第四十六号まで、第五十三号、第五十四号、第五十六号及び第六十号の権限並びに同項第六十五号の権限（第二百三十八条の表十の項、十一の項及び十二の項に係る届出の受理に係るものを除く。）</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence WritingMode="vertical">当該事業場、空港等、航空保安施設又は物件の所在地を管轄区域とする地方航空局長</Sentence>
@@ -29103,8 +29361,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">二　第二百四十条第一項第二号、第四号及び第七号の権限、同項第二十四号の二の権限（無線電話及び航空交通管制用自動応答装置に係るものを除く。）、同項第二十四号の三及び第二十四号の五の権限、同項第二十五号の権限（航空運送事業の用に供する航空機に係るもの及び船舶又は構築物において離陸し、又は着陸しようとする回転翼航空機に係るものに限る。）、同項第二十六号の権限、同項第二十七号の権限（航空運送事業の用に供する航空機、計器飛行方式により、又は夜間において飛行しようとする航空機及び物件を機体の外に装着し、つり下げ、又は<Ruby>曳<Rt>えい</Rt>
-</Ruby>航して運送しようとする回転翼航空機に係るものに限る。）、同項第二十八号及び第三十号の権限、同項第三十一号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の試験をする飛行を行おうとする航空機に係るものを除く。）、同項第三十二号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の操縦の練習のための飛行を行おうとする航空機に係るものを除く。）、同項第三十六号の権限（管制圏及びこれに接続する進入管制区内の特別管制空域並びに情報圏に係る行為を行おうとする者に係るものを除く。）、同項第四十号の権限、同項第四十号の二の権限（法第百三十二条第二号の空域における飛行に係るものに限る。）並びに同項第四十号の三及び第六十四号の権限</Sentence>
+                    <Sentence WritingMode="vertical">二　第二百四十条第一項第二号、第四号及び第七号の権限、同項第二十四号の二の権限（無線電話及び航空交通管制用自動応答装置に係るものを除く。）、同項第二十四号の三及び第二十四号の五の権限、同項第二十五号の権限（航空運送事業の用に供する航空機に係るもの及び船舶又は構築物において離陸し、又は着陸しようとする回転翼航空機に係るものに限る。）、同項第二十六号の権限、同項第二十七号の権限（航空運送事業の用に供する航空機、計器飛行方式により、又は夜間において飛行しようとする航空機及び物件を機体の外に装着し、つり下げ、又は曳航して運送しようとする回転翼航空機に係るものに限る。）、同項第二十八号及び第三十号の権限、同項第三十一号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の試験をする飛行を行おうとする航空機に係るものを除く。）、同項第三十二号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の操縦の練習のための飛行を行おうとする航空機に係るものを除く。）、同項第四十号の権限、同項第四十号の二の権限（法第百三十二条第二号の空域における飛行に係るものに限る。）、同項第四十号の三の権限、同項第四十二号の権限（管制圏及びこれに接続する進入管制区内の特別管制空域並びに情報圏に係る行為を行おうとする者に係るものを除く。）並びに同項第六十四号の権限</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence WritingMode="vertical">当該許可又は承認を必要とする行為を行おうとする場所を管轄区域とする地方航空局長</Sentence>
@@ -29152,8 +29409,8 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">八　第二百四十条第一項第二十四号の二の権限（無線電話及び航空交通管制用自動応答装置に係るものに限る。）、同項第二十五号の権限（航空運送事業の用に供する航空機に係るもの及び船舶又は構築物において離陸し、又は着陸しようとする回転翼航空機に係るものを除く。）、同項第二十七号の権限（航空運送事業の用に供する航空機、計器飛行方式により、又は夜間において飛行しようとする航空機及び物件を機体の外に装着し、つり下げ、又は<Ruby>曳<Rt>えい</Rt>
-</Ruby>航して運送しようとする回転翼航空機に係るものを除く。）、同項第二十七号の二及び第二十九号の権限、同項第三十一号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の試験をする飛行を行おうとする航空機に係るものに限る。）、同項第三十二号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の操縦の練習のための飛行を行おうとする航空機に係るものに限る。）、同項第三十六号の権限（管制圏及びこれに接続する進入管制区内の特別管制空域並びに情報圏に係る行為を行おうとする者に係るものに限る。）、同項第三十六号の二の権限並びに同項第四十号の二の権限（法第百三十二条第一号の空域における飛行に係るものに限る。）</Sentence>
+                    <Sentence WritingMode="vertical">八　第二百四十条第一項第二十四号の二の権限（無線電話及び航空交通管制用自動応答装置に係るものに限る。）、同項第二十五号の権限（航空運送事業の用に供する航空機に係るもの及び船舶又は構築物において離陸し、又は着陸しようとする回転翼航空機に係るものを除く。）、同項第二十七号の権限（航空運送事業の用に供する航空機、計器飛行方式により、又は夜間において飛行しようとする航空機及び物件を機体の外に装着し、つり下げ、又は曳航して運送しようとする回転翼航空機に係るものを除く。）、同項第二十七号の二及び第二十九号の権限、同項第三十一号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の試験をする飛行を行おうとする航空機に係るものに限る。）、同項第三十二号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の操縦の練習のための飛行を行おうとする航空機に係るものに限る。）、同項第四十号の二の権限（法第百三十二条第一号の空域における飛行に係るものに限る。）、同項第四十二号の権限（管制圏及びこれに接続する進入管制区内の特別管制空域並びに情報圏に係る行為を行おうとする者に係るものに限る。）並びに同項第四十三号の権限
+</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence WritingMode="vertical">当該許可、届出又は通報を必要とする行為を行おうとする場所を管轄区域とする空港事務所長</Sentence>
@@ -29257,7 +29514,7 @@
             <Item Delete="false" Hide="false" Num="11">
               <ItemTitle>十一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第九十九条の規定による権限（航空路管制業務又は進入管制業務に関連して無線電話により行う航空情報の提供に関するものに限る。）</Sentence>
+                <Sentence WritingMode="vertical">法第九十九条第一項の規定による権限（航空路管制業務又は進入管制業務に関連して無線電話により行う航空情報の提供に関するものに限る。）</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -29310,7 +29567,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">三　法第七十九条、法第八十一条、法第八十二条の二、法第八十九条、法第九十条、法第九十一条第一項、法第九十二条第一項及び法第九十九条の二第一項並びにこれらの規定に係るこの省令の規定による申請等</Sentence>
+                    <Sentence WritingMode="vertical">三　法第七十九条、法第八十一条、法第八十二条の二、法第八十九条、法第九十条、法第九十一条第一項、法第九十二条第一項及び法第百三十四条の三第一項並びにこれらの規定に係るこの省令の規定による申請等</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence WritingMode="vertical">当該申請等を必要とする行為を行おうとする場所を管轄区域とする空港事務所長又は当該場所の最寄りの空港出張所長</Sentence>
@@ -29360,7 +29617,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">二　法第九十九条の二第二項及び法第百三十二条の規定による申請等</Sentence>
+                    <Sentence WritingMode="vertical">二　法第百三十二条及び法第百三十四条の三第二項の規定による申請等</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence WritingMode="vertical">最寄りの空港事務所長又は空港出張所長</Sentence>
@@ -31052,7 +31309,7 @@
       <RelatedArticleNum>（附則第５項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-100.pdf"/>
+          <Fig src="./pict/S27F03901000056-019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -33015,7 +33272,7 @@
       <RelatedArticleNum>（附則第六項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-101.pdf"/>
+          <Fig src="./pict/S27F03901000056-020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -33713,7 +33970,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記第１号様式（附則第２条関係）（日本工業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-001.pdf"/>
+          <Fig src="./pict/S27F03901000056-021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -33722,7 +33979,7 @@
       <RelatedArticleNum>（附則第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-002.pdf"/>
+          <Fig src="./pict/S27F03901000056-022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -33730,7 +33987,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記第３号様式（附則第２条関係）（日本工業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-003.pdf"/>
+          <Fig src="./pict/S27F03901000056-023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -33738,7 +33995,7 @@
       <AppdxStyleTitle WritingMode="vertical">別記第４号様式（附則第２条関係）（日本工業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-004.pdf"/>
+          <Fig src="./pict/S27F03901000056-024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -33747,7 +34004,7 @@
       <RelatedArticleNum>（附則第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-005.pdf"/>
+          <Fig src="./pict/S27F03901000056-025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -34278,6 +34535,81 @@
           <Sentence WritingMode="vertical">この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年八月二三日国土交通省令第二九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、航空法及び運輸安全委員会設置法の一部を改正する法律附則第一条第二号の施行の日（令和元年九月十八日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行の際現に交付されているこの省令による改正前の航空法施行規則（以下「旧規則」という。）第三十号様式による検査員の証票は、この省令による改正後の航空法施行規則（以下「新規則」という。）第三十号様式による検査員の証票とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">旧規則第三十一号様式による納付書については、新規則第三十一号様式にかかわらず、当分の間、なおこれを使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年九月一三日国土交通省令第三四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律（以下「整備法」という。）の施行の日（令和元年九月十四日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第四条及び第二十三条（建築士法に基づく中央指定登録機関等に関する省令第十二条第一号及び第十三条の改正規定に限る。）の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">整備法附則第一条第三号に掲げる規定の施行の日（令和元年十二月一日）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第十一条、第二十四条及び第二十六条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">整備法附則第一条第二号に掲げる規定の施行の日（令和元年十二月十四日）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（行政庁の行為等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行の日前に、この省令による改正前の海難審判法施行規則、ボート、モーター、選手、審判員及び検査員登録規則及び航空法施行規則（欠格条項を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一　削除</AppdxTableTitle>
@@ -36065,7 +36397,7 @@
           <Sentence WritingMode="vertical">飛行場名標識</Sentence>
         </ItemSentence>
         <FigStruct>
-          <Fig src="./pict/S27F03901000056-019.jpg"/>
+          <Fig src="./pict/S27F03901000056-026.jpg"/>
           <Remarks>
             <RemarksLabel LineBreak="true">備考</RemarksLabel>
             <Item Delete="false" Hide="false" Num="1">
@@ -36095,11 +36427,11 @@
           </Subitem1Sentence>
           <FigStruct>
             <FigStructTitle>イ</FigStructTitle>
-            <Fig src="./pict/S27F03901000056-020.jpg"/>
+            <Fig src="./pict/S27F03901000056-027.jpg"/>
           </FigStruct>
           <FigStruct>
             <FigStructTitle>ロ</FigStructTitle>
-            <Fig src="./pict/S27F03901000056-021.jpg"/>
+            <Fig src="./pict/S27F03901000056-028.jpg"/>
             <Remarks>
               <RemarksLabel LineBreak="false">備考</RemarksLabel>
               <Item Delete="false" Hide="false" Num="1">
@@ -36123,7 +36455,7 @@
             <Sentence WritingMode="vertical">水上空港等又は水上ヘリポートの場合</Sentence>
           </Subitem1Sentence>
           <FigStruct>
-            <Fig src="./pict/S27F03901000056-022.jpg"/>
+            <Fig src="./pict/S27F03901000056-029.jpg"/>
             <Remarks>
               <RemarksLabel LineBreak="false">備考</RemarksLabel>
               <Item Delete="false" Hide="false" Num="1">
@@ -36164,7 +36496,7 @@
               <Sentence WritingMode="vertical">幅が三十メートル以上の滑走路の場合</Sentence>
             </Subitem2Sentence>
             <FigStruct>
-              <Fig src="./pict/S27F03901000056-023.jpg"/>
+              <Fig src="./pict/S27F03901000056-030.jpg"/>
             </FigStruct>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -36173,7 +36505,7 @@
               <Sentence WritingMode="vertical">幅が三十メートル未満の滑走路の場合</Sentence>
             </Subitem2Sentence>
             <FigStruct>
-              <Fig src="./pict/S27F03901000056-024.jpg"/>
+              <Fig src="./pict/S27F03901000056-031.jpg"/>
             </FigStruct>
           </Subitem2>
         </Subitem1>
@@ -36188,7 +36520,7 @@
               <Sentence WritingMode="vertical">幅が三十メートル以上の滑走路の場合</Sentence>
             </Subitem2Sentence>
             <FigStruct>
-              <Fig src="./pict/S27F03901000056-025.jpg"/>
+              <Fig src="./pict/S27F03901000056-032.jpg"/>
             </FigStruct>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -36197,7 +36529,7 @@
               <Sentence WritingMode="vertical">幅が三十メートル未満の滑走路の場合</Sentence>
             </Subitem2Sentence>
             <FigStruct>
-              <Fig src="./pict/S27F03901000056-026.jpg"/>
+              <Fig src="./pict/S27F03901000056-033.jpg"/>
               <Remarks>
                 <RemarksLabel LineBreak="false">備考</RemarksLabel>
                 <Item Delete="false" Hide="false" Num="1">
@@ -36225,7 +36557,7 @@
                     <Sentence WritingMode="vertical">平行滑走路における指示標識は、次の例による。</Sentence>
                   </ItemSentence>
                   <FigStruct>
-                    <Fig src="./pict/S27F03901000056-027.jpg"/>
+                    <Fig src="./pict/S27F03901000056-034.jpg"/>
                   </FigStruct>
                 </Item>
                 <Item Delete="false" Hide="false" Num="5">
@@ -36260,7 +36592,7 @@
                     <Sentence WritingMode="vertical">指示標識の数字及び文字の書体は次図のとおりとし、寸法は次図に示すもの以上とする。</Sentence>
                   </ItemSentence>
                   <FigStruct>
-                    <Fig src="./pict/S27F03901000056-028.jpg"/>
+                    <Fig src="./pict/S27F03901000056-035.jpg"/>
                   </FigStruct>
                 </Item>
                 <Item Delete="false" Hide="false" Num="7">
@@ -36342,7 +36674,7 @@
           <Sentence WritingMode="vertical">移設滑走路進入端標識</Sentence>
         </ItemSentence>
         <FigStruct>
-          <Fig src="./pict/S27F03901000056-048.jpg"/>
+          <Fig src="./pict/S27F03901000056-036.jpg"/>
           <Remarks>
             <RemarksLabel LineBreak="true">備考</RemarksLabel>
             <Sentence WritingMode="vertical">色彩は、明瞭な一色とすること。</Sentence>
@@ -36365,7 +36697,7 @@
               <Sentence WritingMode="vertical">長さが二千四百メートル以上の滑走路の場合</Sentence>
             </Subitem2Sentence>
             <FigStruct>
-              <Fig src="./pict/S27F03901000056-029.jpg"/>
+              <Fig src="./pict/S27F03901000056-037.jpg"/>
             </FigStruct>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -36374,7 +36706,7 @@
               <Sentence WritingMode="vertical">長さが千五百メートル以上二千四百メートル未満の滑走路の場合</Sentence>
             </Subitem2Sentence>
             <FigStruct>
-              <Fig src="./pict/S27F03901000056-030.jpg"/>
+              <Fig src="./pict/S27F03901000056-038.jpg"/>
             </FigStruct>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="3">
@@ -36383,7 +36715,7 @@
               <Sentence WritingMode="vertical">長さが千二百メートル以上千五百メートル未満の滑走路の場合</Sentence>
             </Subitem2Sentence>
             <FigStruct>
-              <Fig src="./pict/S27F03901000056-031.jpg"/>
+              <Fig src="./pict/S27F03901000056-039.jpg"/>
             </FigStruct>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="4">
@@ -36397,7 +36729,7 @@
                 <Sentence WritingMode="vertical">精密進入用滑走路の場合</Sentence>
               </Subitem3Sentence>
               <FigStruct>
-                <Fig src="./pict/S27F03901000056-032.jpg"/>
+                <Fig src="./pict/S27F03901000056-040.jpg"/>
               </FigStruct>
             </Subitem3>
             <Subitem3 Delete="false" Hide="false" Num="2">
@@ -36406,7 +36738,7 @@
                 <Sentence WritingMode="vertical">非精密進入用滑走路の場合</Sentence>
               </Subitem3Sentence>
               <FigStruct>
-                <Fig src="./pict/S27F03901000056-033.jpg"/>
+                <Fig src="./pict/S27F03901000056-041.jpg"/>
               </FigStruct>
             </Subitem3>
           </Subitem2>
@@ -36416,7 +36748,7 @@
               <Sentence WritingMode="vertical">長さが九百メートル未満の計器着陸用滑走路の場合</Sentence>
             </Subitem2Sentence>
             <FigStruct>
-              <Fig src="./pict/S27F03901000056-034.jpg"/>
+              <Fig src="./pict/S27F03901000056-042.jpg"/>
             </FigStruct>
           </Subitem2>
         </Subitem1>
@@ -36426,7 +36758,7 @@
             <Sentence WritingMode="vertical">陸上ヘリポートの場合</Sentence>
           </Subitem1Sentence>
           <FigStruct>
-            <Fig src="./pict/S27F03901000056-035.jpg"/>
+            <Fig src="./pict/S27F03901000056-043.jpg"/>
             <Remarks>
               <RemarksLabel LineBreak="false">備考</RemarksLabel>
               <Sentence WritingMode="vertical">色彩は、明瞭な一色とすること。</Sentence>
@@ -36450,7 +36782,7 @@
               <Sentence WritingMode="vertical">幅が三十メートル以上の滑走路の場合</Sentence>
             </Subitem2Sentence>
             <FigStruct>
-              <Fig src="./pict/S27F03901000056-036.jpg"/>
+              <Fig src="./pict/S27F03901000056-044.jpg"/>
             </FigStruct>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -36459,7 +36791,7 @@
               <Sentence WritingMode="vertical">幅が三十メートル未満の滑走路の場合</Sentence>
             </Subitem2Sentence>
             <FigStruct>
-              <Fig src="./pict/S27F03901000056-037.jpg"/>
+              <Fig src="./pict/S27F03901000056-045.jpg"/>
               <Remarks>
                 <RemarksLabel LineBreak="false">備考</RemarksLabel>
                 <Sentence WritingMode="vertical">色彩は、明瞭な一色とすること。</Sentence>
@@ -36473,7 +36805,7 @@
             <Sentence WritingMode="vertical">舗装されていない滑走路の場合</Sentence>
           </Subitem1Sentence>
           <FigStruct>
-            <Fig src="./pict/S27F03901000056-038.jpg"/>
+            <Fig src="./pict/S27F03901000056-046.jpg"/>
             <Remarks>
               <RemarksLabel LineBreak="true">備考</RemarksLabel>
               <Item Delete="false" Hide="false" Num="1">
@@ -36505,7 +36837,7 @@
           <Sentence WritingMode="vertical">積雪離着陸区域標識</Sentence>
         </ItemSentence>
         <FigStruct>
-          <Fig src="./pict/S27F03901000056-039.jpg"/>
+          <Fig src="./pict/S27F03901000056-047.jpg"/>
           <Remarks>
             <RemarksLabel LineBreak="true">備考</RemarksLabel>
             <Item Delete="false" Hide="false" Num="1">
@@ -36528,13 +36860,13 @@
         <ItemSentence>
           <Sentence WritingMode="vertical">過走帯標識</Sentence>
         </ItemSentence>
-          <FigStruct>
-            <Fig src="./pict/S27F03901000056-040.jpg"/>
-            <Remarks>
-              <RemarksLabel LineBreak="false">備考</RemarksLabel>
-              <Sentence WritingMode="vertical">色彩は、黄色とすること。</Sentence>
-            </Remarks>
-          </FigStruct>
+        <FigStruct>
+          <Fig src="./pict/S27F03901000056-048.jpg"/>
+          <Remarks>
+            <RemarksLabel LineBreak="false">備考</RemarksLabel>
+            <Sentence WritingMode="vertical">色彩は、黄色とすること。</Sentence>
+          </Remarks>
+        </FigStruct>
       </Item>
       <Item Delete="false" Hide="false" Num="9">
         <ItemTitle>９</ItemTitle>
@@ -36542,7 +36874,7 @@
           <Sentence WritingMode="vertical">誘導路中心線標識</Sentence>
         </ItemSentence>
         <FigStruct>
-          <Fig src="./pict/S27F03901000056-042.jpg"/>
+          <Fig src="./pict/S27F03901000056-049.jpg"/>
           <Remarks>
             <RemarksLabel LineBreak="false">備考</RemarksLabel>
             <Sentence WritingMode="vertical">色彩は、黄色とすること。</Sentence>
@@ -36560,7 +36892,7 @@
             <Sentence WritingMode="vertical">少なくとも一方向においてカテゴリー一精密進入用滑走路の場合（次号に規定する場合を除く。）</Sentence>
           </Subitem1Sentence>
           <FigStruct>
-            <Fig src="./pict/S27F03901000056-043.jpg"/>
+            <Fig src="./pict/S27F03901000056-050.jpg"/>
           </FigStruct>
         </Subitem1>
         <Subitem1 Delete="false" Hide="false" Num="2">
@@ -36574,7 +36906,7 @@
               <Sentence WritingMode="vertical">滑走路に接続する誘導路上に一基のみ設置する場合</Sentence>
             </Subitem2Sentence>
             <FigStruct>
-              <Fig src="./pict/S27F03901000056-044.jpg"/>
+              <Fig src="./pict/S27F03901000056-051.jpg"/>
             </FigStruct>
           </Subitem2>
           <Subitem2 Delete="false" Hide="false" Num="2">
@@ -36583,7 +36915,7 @@
               <Sentence WritingMode="vertical">滑走路に接続する誘導路上に二基設置する場合</Sentence>
             </Subitem2Sentence>
             <FigStruct>
-              <Fig src="./pict/S27F03901000056-045.jpg"/>
+              <Fig src="./pict/S27F03901000056-052.jpg"/>
             </FigStruct>
           </Subitem2>
         </Subitem1>
@@ -36593,7 +36925,7 @@
             <Sentence WritingMode="vertical">第一号及び第二号以外の滑走路の場合</Sentence>
           </Subitem1Sentence>
           <FigStruct>
-            <Fig src="./pict/S27F03901000056-046.jpg"/>
+            <Fig src="./pict/S27F03901000056-053.jpg"/>
             <Remarks>
               <RemarksLabel LineBreak="false">備考</RemarksLabel>
               <Sentence WritingMode="vertical">色彩は、黄色とすること。</Sentence>
@@ -36607,7 +36939,7 @@
           <Sentence WritingMode="vertical">停止位置案内標識</Sentence>
         </ItemSentence>
         <FigStruct>
-          <Fig src="./pict/S27F03901000056-047.jpg"/>
+          <Fig src="./pict/S27F03901000056-054.jpg"/>
           <Remarks>
             <RemarksLabel LineBreak="true">備考</RemarksLabel>
             <Item Delete="false" Hide="false" Num="1">
@@ -36675,7 +37007,7 @@
             <Sentence WritingMode="vertical">舗装された誘導路の場合</Sentence>
           </Subitem1Sentence>
           <FigStruct>
-            <Fig src="./pict/S27F03901000056-048.jpg"/>
+            <Fig src="./pict/S27F03901000056-055.jpg"/>
             <Remarks>
               <RemarksLabel LineBreak="false">備考</RemarksLabel>
               <Sentence WritingMode="vertical">色彩は、黄色とすること。</Sentence>
@@ -36688,7 +37020,7 @@
             <Sentence WritingMode="vertical">舗装されていない誘導路の場合</Sentence>
           </Subitem1Sentence>
           <FigStruct>
-            <Fig src="./pict/S27F03901000056-049.jpg"/>
+            <Fig src="./pict/S27F03901000056-056.jpg"/>
             <Remarks>
               <RemarksLabel LineBreak="true">備考</RemarksLabel>
               <Item Delete="false" Hide="false" Num="1">
@@ -36719,7 +37051,7 @@
           <Sentence WritingMode="vertical">風向指示器</Sentence>
         </ItemSentence>
         <FigStruct>
-          <Fig src="./pict/S27F03901000056-050.jpg"/>
+          <Fig src="./pict/S27F03901000056-057.jpg"/>
           <Remarks>
             <RemarksLabel LineBreak="true">備考</RemarksLabel>
             <Item Delete="false" Hide="false" Num="1">
@@ -36765,7 +37097,7 @@
       <AppdxStyleTitle WritingMode="vertical">第３号様式　（第７条関係）（日本産業規格Ａ５）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-006.pdf"/>
+          <Fig src="./pict/S27F03901000056-058.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36773,7 +37105,7 @@
       <AppdxStyleTitle WritingMode="vertical">第４号様式　（第９条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-007.pdf"/>
+          <Fig src="./pict/S27F03901000056-059.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36797,7 +37129,7 @@
       <AppdxStyleTitle WritingMode="vertical">第７号様式（第１２条の２関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-008.pdf"/>
+          <Fig src="./pict/S27F03901000056-060.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36805,7 +37137,7 @@
       <AppdxStyleTitle WritingMode="vertical">第７号の２様式（第１４条の２関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-009.pdf"/>
+          <Fig src="./pict/S27F03901000056-061.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36813,7 +37145,7 @@
       <AppdxStyleTitle WritingMode="vertical">第７号の３様式（第１４条の２関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-010.pdf"/>
+          <Fig src="./pict/S27F03901000056-062.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36821,7 +37153,7 @@
       <AppdxStyleTitle WritingMode="vertical">第８号様式（第１６条関係）（日本産業規格Ａ５）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-011.pdf"/>
+          <Fig src="./pict/S27F03901000056-063.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36829,7 +37161,7 @@
       <AppdxStyleTitle WritingMode="vertical">第８号の２様式（第１６条の２関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-012.pdf"/>
+          <Fig src="./pict/S27F03901000056-064.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36838,7 +37170,7 @@
       <RelatedArticleNum>（第16条の８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-013.pdf"/>
+          <Fig src="./pict/S27F03901000056-065.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36846,7 +37178,7 @@
       <AppdxStyleTitle WritingMode="vertical">第９号様式（第１７条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-014.pdf"/>
+          <Fig src="./pict/S27F03901000056-066.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36854,7 +37186,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１０号様式（第１９条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-015.pdf"/>
+          <Fig src="./pict/S27F03901000056-067.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36862,7 +37194,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１１号様式（第２０条関係）（日本産業規格Ａ）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-016.pdf"/>
+          <Fig src="./pict/S27F03901000056-068.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36870,7 +37202,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１１号の２様式（第２３条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-017.pdf"/>
+          <Fig src="./pict/S27F03901000056-069.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36878,7 +37210,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１１号の３様式（第２３条の３関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-018.pdf"/>
+          <Fig src="./pict/S27F03901000056-070.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36886,7 +37218,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１１号の４様式（第２３条の４関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-019.pdf"/>
+          <Fig src="./pict/S27F03901000056-071.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36894,7 +37226,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１２号様式（第２５条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-020.pdf"/>
+          <Fig src="./pict/S27F03901000056-072.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36902,7 +37234,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１３号様式（第２８条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-021.pdf"/>
+          <Fig src="./pict/S27F03901000056-073.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36910,7 +37242,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１４号様式（第３０条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-022.pdf"/>
+          <Fig src="./pict/S27F03901000056-074.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36918,7 +37250,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１５号様式（第３０条関係）（日本産業規格Ａ８）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-023.pdf"/>
+          <Fig src="./pict/S27F03901000056-075.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36927,7 +37259,7 @@
       <RelatedArticleNum>（第３０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-024.pdf"/>
+          <Fig src="./pict/S27F03901000056-076.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36935,7 +37267,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１６号様式（第３４条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-025.pdf"/>
+          <Fig src="./pict/S27F03901000056-077.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36943,7 +37275,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１６号の２様式（第３６条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-026.pdf"/>
+          <Fig src="./pict/S27F03901000056-078.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36951,7 +37283,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１６号の３様式（第３８条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-027.pdf"/>
+          <Fig src="./pict/S27F03901000056-079.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36959,7 +37291,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１６号の４様式（第３８条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-028.pdf"/>
+          <Fig src="./pict/S27F03901000056-080.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36967,7 +37299,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１６号の５様式（第３９条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-029.pdf"/>
+          <Fig src="./pict/S27F03901000056-081.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36975,7 +37307,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１７号様式（第４１条関係）（日本産業規格Ａ５）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-030.pdf"/>
+          <Fig src="./pict/S27F03901000056-082.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -36983,7 +37315,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１７号の２様式（第４０条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-031.pdf"/>
+          <Fig src="./pict/S27F03901000056-083.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37017,7 +37349,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１９号の３様式（第５０条の２、第１６８条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-035.pdf"/>
+          <Fig src="./pict/S27F03901000056-087.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37025,7 +37357,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１９号の３の２様式（第５０条の２関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-036.pdf"/>
+          <Fig src="./pict/S27F03901000056-088.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37033,7 +37365,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１９号の４様式（第５０条の３関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-037.pdf"/>
+          <Fig src="./pict/S27F03901000056-089.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37041,7 +37373,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１９号の５様式（第５０条の７関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-038.pdf"/>
+          <Fig src="./pict/S27F03901000056-090.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37049,7 +37381,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１９号の６様式（第５０条の９関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-039.pdf"/>
+          <Fig src="./pict/S27F03901000056-091.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37057,7 +37389,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１９号の７様式（第５０条の９関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-040.pdf"/>
+          <Fig src="./pict/S27F03901000056-092.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37065,7 +37397,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１９号の８様式（第５０条の１０関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-041.pdf"/>
+          <Fig src="./pict/S27F03901000056-093.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37073,7 +37405,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１９号の９様式（第５０条の１０関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-042.pdf"/>
+          <Fig src="./pict/S27F03901000056-094.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37082,7 +37414,7 @@
       <RelatedArticleNum>（第５２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-043.pdf"/>
+          <Fig src="./pict/S27F03901000056-095.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37098,7 +37430,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２２号様式（第６１条関係）（日本産業規格Ａ３）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-044.pdf"/>
+          <Fig src="./pict/S27F03901000056-096.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37106,7 +37438,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２３号様式（第６１条の５関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-045.pdf"/>
+          <Fig src="./pict/S27F03901000056-097.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37114,7 +37446,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２３号の２様式（第６１条の５関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-046.pdf"/>
+          <Fig src="./pict/S27F03901000056-098.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37123,7 +37455,7 @@
       <RelatedArticleNum>（第６１条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-047.pdf"/>
+          <Fig src="./pict/S27F03901000056-099.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37131,7 +37463,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２４号の２様式（第６２条の２関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-048.pdf"/>
+          <Fig src="./pict/S27F03901000056-100.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37139,7 +37471,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２４号の３様式（第６２条の２関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-049.pdf"/>
+          <Fig src="./pict/S27F03901000056-101.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37155,7 +37487,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２６号様式（第６７条関係）（日本産業規格Ａ３）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-050.pdf"/>
+          <Fig src="./pict/S27F03901000056-102.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37164,7 +37496,7 @@
       <RelatedArticleNum>（第６８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-051.pdf"/>
+          <Fig src="./pict/S27F03901000056-103.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37172,7 +37504,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２７号の２様式（第６９条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-052.pdf"/>
+          <Fig src="./pict/S27F03901000056-104.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37180,7 +37512,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２７号の３様式（第６９条の３関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-053.pdf"/>
+          <Fig src="./pict/S27F03901000056-105.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37188,7 +37520,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２８号様式（第７１条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-054.pdf"/>
+          <Fig src="./pict/S27F03901000056-106.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37197,7 +37529,7 @@
       <RelatedArticleNum>（第９２条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-051.jpg"/>
+          <Fig src="./pict/S27F03901000056-107.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37205,7 +37537,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２８号の３様式（第１５２条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-055.pdf"/>
+          <Fig src="./pict/S27F03901000056-108.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37213,7 +37545,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２８号の４様式（第１５２条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-056.pdf"/>
+          <Fig src="./pict/S27F03901000056-109.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37221,7 +37553,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２８号の５様式（第１６２条の６関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-057.pdf"/>
+          <Fig src="./pict/S27F03901000056-110.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37230,7 +37562,7 @@
       <RelatedArticleNum>（第１６２条の８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-058.pdf"/>
+          <Fig src="./pict/S27F03901000056-111.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37238,7 +37570,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２８号の７様式（第１６２条の９関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-059.pdf"/>
+          <Fig src="./pict/S27F03901000056-112.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37246,7 +37578,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２８号の８様式（第１６２条の１３関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-060.pdf"/>
+          <Fig src="./pict/S27F03901000056-113.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37254,7 +37586,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２８号の９様式（第１６２条の１７関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-061.pdf"/>
+          <Fig src="./pict/S27F03901000056-114.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37263,7 +37595,7 @@
       <RelatedArticleNum>（第１７１条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-062.pdf"/>
+          <Fig src="./pict/S27F03901000056-115.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37271,7 +37603,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２９号の２様式（第１７１条の３関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-063.pdf"/>
+          <Fig src="./pict/S27F03901000056-116.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37279,7 +37611,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２９号の３様式（第１７１条の３関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-064.pdf"/>
+          <Fig src="./pict/S27F03901000056-117.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37288,15 +37620,15 @@
       <RelatedArticleNum>（第２３９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-065.pdf"/>
+          <Fig src="./pict/S27F03901000056-118.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">第３１号様式（第２３９条の３条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
+      <AppdxStyleTitle WritingMode="vertical">第３１号様式（第２３９条の6条関係）（日本産業規格Ａ４）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S27F03901000056-066.pdf"/>
+          <Fig src="./pict/S27F03901000056-119.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -37305,7 +37637,7 @@
       <RelatedArticleNum>（第１２条の３、第１４条、第５６条の２、別表第２関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/S27F03901000056-067.pdf"/>
+          <Fig src="./pict/S27F03901000056-120.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>
@@ -37314,7 +37646,7 @@
       <RelatedArticleNum>（第１４条関係）</RelatedArticleNum>
       <NoteStruct>
         <Note>
-          <Fig src="./pict/S27F03901000056-068.pdf"/>
+          <Fig src="./pict/S27F03901000056-121.pdf"/>
         </Note>
       </NoteStruct>
     </AppdxNote>

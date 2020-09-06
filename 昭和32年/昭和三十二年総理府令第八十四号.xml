@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200731e05k11m03" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="84" Year="32">
+<Law DataInfo="200828e03k03m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="84" Year="32">
   <LawNum>昭和三十二年総理府令第八十四号</LawNum>
   <LawBody>
     <LawTitle>核燃料物質の使用等に関する規則</LawTitle>
@@ -612,467 +612,633 @@
             <Sentence WritingMode="vertical">法第五十六条の二の規定による記録は、工場又は事業所ごとに、次の表の上欄に掲げる事項について、それぞれ同表中欄に掲げるところに従つて記録し、それぞれ同表下欄に掲げる期間これを保存しておかなければならない。</Sentence>
           </ParagraphSentence>
           <TableStruct>
-            <Table WritingMode="vertical">
+            <Table>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">記録事項</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>記録事項</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">記録すべき場合</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>記録すべき場合</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">保存期間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>保存期間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="dotted" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一　使用施設等の施設管理（第二条の十一の七に規定するものをいう。以下この表において同じ。）に係る記録</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>一　使用施設等の施設管理（第二条の十一の七に規定するものをいう。以下この表において同じ。）に係る記録</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="dotted" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical"/>
+                <TableColumn Valign="top">
+                  <Sentence/>
                 </TableColumn>
-                <TableColumn BorderBottom="dotted" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical"/>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">イ　使用前確認の結果</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">確認の都度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">同一事項に関する次の確認のときまでの期間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence/>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">ロ　第二条の十一の七第四号の規定による施設管理の実施状況及びその担当者の氏名</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>イ　使用前確認の結果</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">施設管理の実施の都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>確認の都度</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">施設管理を実施した使用施設等の解体又は廃棄をした後五年が経過するまでの期間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">ハ　第二条の十一の七第五号の規定による施設管理方針、施設管理目標及び施設管理実施計画の評価の結果及びその評価の担当者の氏名</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">評価の都度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">評価を実施した使用施設等の施設管理方針、施設管理目標又は施設管理実施計画の改定までの期間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>同一事項に関する次の確認のときまでの期間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="dotted" BorderLeft="solid" BorderRight="solid" BorderTop="dotted" Valign="top">
-                  <Sentence WritingMode="vertical">二　放射線管理記録</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>ロ　第二条の十一の七第四号の規定による施設管理の実施状況及びその担当者の氏名</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="dotted" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical"/>
+                <TableColumn Valign="top">
+                  <Sentence>施設管理の実施の都度</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="dotted" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical"/>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">イ　使用施設等の放射線遮蔽物の側壁における線量当量率（令第四十一条各号に掲げる核燃料物質に係るものに限る。）</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">毎日作業中一回（法第五十七条の五第二項の認可を受けた場合においては、貯蔵施設の記録にあつては毎日一回、貯蔵施設以外の施設の記録にあつては毎週一回）</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">五年間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>施設管理を実施した使用施設等の解体又は廃棄をした後五年が経過するまでの期間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="dotted" BorderLeft="solid" BorderRight="solid" BorderTop="dotted" Valign="top">
-                  <Sentence WritingMode="vertical">ロ　放射性廃棄物の排気口又は排気監視設備及び排水口又は排水監視設備における放射性物質の濃度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>ハ　第二条の十一の七第五号の規定による施設管理方針、施設管理目標及び施設管理実施計画の評価の結果及びその評価の担当者の氏名</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">排気又は排水の都度（連続して排気又は排水をする場合は連続して）</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>評価の都度</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">五年間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">ハ　管理区域及び周辺監視区域における線量当量率（イに規定する場合のものを除く。）並びに管理区域における空気中の放射性物質の一月間（令第四十一条各号に掲げる核燃料物質を使用する場合にあつては一週間）についての平均濃度及び放射性物質によつて汚染された物の表面の放射性物質の密度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">毎月一回（令第四十一条各号に掲げる核燃料物質を使用する場合にあつては毎週一回）</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">五年間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>評価を実施した使用施設等の施設管理方針、施設管理目標又は施設管理実施計画の改定までの期間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="dotted" Valign="top">
-                  <Sentence WritingMode="vertical">ニ　放射線業務従事者の四月一日を始期とする一年間の線量、女子（妊娠不能と診断された者及び妊娠の意思のない旨を使用者に書面で申し出た者を除く。）の放射線業務従事者の四月一日、七月一日、十月一日及び一月一日を始期とする各三月間の線量並びに本人の申出等により使用者が妊娠の事実を知ることとなつた女子の放射線業務従事者にあつては出産までの間毎月一日を始期とする一月間の線量</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>二　放射線管理記録</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一年間の線量にあつては毎年度一回、三月間の線量にあつては三月ごとに一回、一月間の線量にあつては一月ごとに一回</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第五項に定める期間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ホ　四月一日を始期とする一年間の線量が二十ミリシーベルトを超えた放射線業務従事者の当該一年間を含む原子力規制委員会が定める五年間の線量</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">原子力規制委員会が定める五年間において毎年度一回（上欄に掲げる当該一年間以降に限る。）</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第五項に定める期間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence/>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ヘ　放射線業務従事者が緊急作業に従事した期間の始期及び終期並びに放射線業務従事者の当該期間の線量</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>イ　使用施設等の放射線遮蔽物の側壁における線量当量率（令第四十一条各号に掲げる核燃料物質に係るものに限る。）</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">その都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>毎日作業中一回（法第五十七条の五第二項の認可を受けた場合においては、貯蔵施設の記録にあつては毎日一回、貯蔵施設以外の施設の記録にあつては毎週一回）</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第五項に定める期間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ト　放射線業務従事者が当該業務に就く日の属する年度における当該日以前の放射線被ばくの経歴及び原子力規制委員会が定める五年間における当該年度の前年度までの放射線被ばくの経歴</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">その者が当該業務に就く時</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第五項に定める期間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>五年間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">チ　工場又は事業所の外において運搬した核燃料物質等の種類別の数量、その運搬に使用した容器の種類並びにその運搬の日時及び経路</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>ロ　放射性廃棄物の排気口又は排気監視設備及び排水口又は排水監視設備における放射性物質の濃度</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">運搬の都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>排気又は排水の都度（連続して排気又は排水をする場合は連続して）</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一年間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">リ　廃棄施設に廃棄し、又は海洋に投棄した放射性廃棄物の種類、当該放射性廃棄物に含まれる放射性物質の数量、当該放射性廃棄物を容器に封入し、又は容器に固型化した場合には当該容器の数量及び比重並びにその廃棄の日時、場所及び方法</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">廃棄の都度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第七項に定める期間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>五年間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ヌ　放射性廃棄物を容器に封入し、又は容器に固型化した場合には、その方法</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>ハ　管理区域及び周辺監視区域における線量当量率（イに規定する場合のものを除く。）並びに管理区域における空気中の放射性物質の一月間（令第四十一条各号に掲げる核燃料物質を使用する場合にあつては一週間）についての平均濃度及び放射性物質によつて汚染された物の表面の放射性物質の密度</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">封入又は固型化の都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>毎月一回（令第四十一条各号に掲げる核燃料物質を使用する場合にあつては毎週一回）</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第七項に定める期間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">三　操作記録（安全上重要な施設（使用許可基準規則第一条第二項第四号に規定するものをいう。）に係るものに限る（ハを除く。）。</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical"/>
+                <TableColumn Valign="top">
+                  <Sentence>五年間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">イ　使用施設における核燃料物質の種類別の使用量及び使用の日時</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>ニ　放射線業務従事者の四月一日を始期とする一年間の線量、女子（妊娠不能と診断された者及び妊娠の意思のない旨を使用者に書面で申し出た者を除く。）の放射線業務従事者の四月一日、七月一日、十月一日及び一月一日を始期とする各三月間の線量並びに本人の申出等により使用者が妊娠の事実を知ることとなつた女子の放射線業務従事者にあつては出産までの間毎月一日を始期とする一月間の線量</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">使用の都度（連続式にあつては、連続して）</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>一年間の線量にあつては毎年度一回、三月間の線量にあつては三月ごとに一回、一月間の線量にあつては一月ごとに一回</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">一年間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">ロ　使用施設等の操作開始及び操作停止の時刻</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">開始及び停止の都度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">一年間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>第五項に定める期間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">ハ　警報装置から発せられた警報の内容（令第四十一条各号に掲げる核燃料物質に係るものに限る。）</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>ホ　四月一日を始期とする一年間の線量が二十ミリシーベルトを超えた放射線業務従事者の当該一年間を含む原子力規制委員会が定める五年間の線量</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">その都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>原子力規制委員会が定める五年間において毎年度一回（上欄に掲げる当該一年間以降に限る。）</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">一年間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">ニ　使用施設等の操作責任者及び操作員の氏名並びにこれらの者の交代の時刻</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">操作の開始及び交代の都度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">一年間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>第五項に定める期間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">四　使用施設等の事故記録</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>ヘ　放射線業務従事者が緊急作業に従事した期間の始期及び終期並びに放射線業務従事者の当該期間の線量</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical"/>
+                <TableColumn Valign="top">
+                  <Sentence>その都度</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical"/>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">イ　事故の発生及び復旧の日時</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">その都度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第七項に定める期間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>第五項に定める期間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ロ　事故の状況及び事故に際して採つた処置</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>ト　放射線業務従事者が当該業務に就く日の属する年度における当該日以前の放射線被ばくの経歴及び原子力規制委員会が定める五年間における当該年度の前年度までの放射線被ばくの経歴</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">その都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>その者が当該業務に就く時</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第七項に定める期間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ハ　事故の原因</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">その都度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第七項に定める期間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>第五項に定める期間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ニ　事故後の処置</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>チ　工場又は事業所の外において運搬した核燃料物質等の種類別の数量、その運搬に使用した容器の種類並びにその運搬の日時及び経路</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">その都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>運搬の都度</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第七項に定める期間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">五　保安教育の記録</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical"/>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical"/>
+                <TableColumn Valign="top">
+                  <Sentence>一年間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">イ　保安教育の実施計画</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>リ　廃棄施設に廃棄し、又は海洋に投棄した放射性廃棄物の種類、当該放射性廃棄物に含まれる放射性物質の数量、当該放射性廃棄物を容器に封入し、又は容器に固型化した場合には当該容器の数量及び比重並びにその廃棄の日時、場所及び方法</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">策定の都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>廃棄の都度</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">三年間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ロ　保安教育の実施日時及び項目</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">実施の都度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">三年間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>第七項に定める期間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ハ　保安教育を受けた者の氏名</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>ヌ　放射性廃棄物を容器に封入し、又は容器に固型化した場合には、その方法</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">実施の都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>封入又は固型化の都度</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">三年間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">六　品質管理基準規則第四条第三項に規定する品質マネジメント文書及び品質マネジメントシステムに従つた計画、実施、評価及び改善状況の記録（令第四十一条各号に掲げる核燃料物質を使用しない場合にあつては、品質管理基準規則第五十四条第一項第二号に規定する記録）（他の号に掲げるものを除く。）</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">当該文書又は記録の作成又は変更の都度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">当該文書又は記録の作成又は変更後三年が経過するまでの期間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>第七項に定める期間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">七　第二条の十一の十三に規定する防護措置の記録</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>三　操作記録（安全上重要な施設（使用許可基準規則第一条第二項第四号に規定するものをいう。）に係るものに限る（ハを除く。）。</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical"/>
+                <TableColumn Valign="top">
+                  <Sentence/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical"/>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">イ　見張人による巡視の状況及びその担当者の氏名</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">毎日一回</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一年間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence/>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ロ　第二条の十一の十三第二項第一号に規定する防護区域、同項第二号に規定する周辺防護区域又は同項第三号に規定する立入制限区域へ立ち入る者への同項第五号イ及びロに規定する証明書等の発行の状況及びその担当者の氏名</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>イ　使用施設における核燃料物質の種類別の使用量及び使用の日時</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">発行の都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>使用の都度（連続式にあつては、連続して）</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一年間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ハ　第二条の十一の十三第二項第一号に規定する防護区域、同項第二号に規定する周辺防護区域又は同項第三号に規定する立入制限区域の出入口における物品の持込み又は持出しの点検の状況及びその担当者の氏名</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">点検の都度又は毎日一回</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一年間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>一年間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ニ　特定核燃料物質又は施設の出入口の監視の状況及びその担当者の氏名</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>ロ　使用施設等の操作開始及び操作停止の時刻</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">毎日一回</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>開始及び停止の都度</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一年間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ホ　特定核燃料物質並びに特定核燃料物質を取り扱う設備及び装置の点検の状況並びにその担当者の氏名</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">点検の都度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一年間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>一年間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="dotted" BorderLeft="solid" BorderRight="solid" BorderTop="dotted" Valign="top">
-                  <Sentence WritingMode="vertical">ヘ　特定核燃料物質の防護のために必要な設備及び装置の点検及び保守の状況並びにその担当者の氏名</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>ハ　警報装置から発せられた警報の内容（令第四十一条各号に掲げる核燃料物質に係るものに限る。）</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">点検又は保守の都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>その都度</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">一年間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="dotted" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">ト　特定核燃料物質の防護に関する秘密の範囲及び業務上知り得る者の指定の状況</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">指定の都度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">全ての特定核燃料物質の取扱いを終了するまでの期間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>一年間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">チ　特定核燃料物質の防護のために必要な教育及び訓練の実施状況</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>ニ　使用施設等の操作責任者及び操作員の氏名並びにこれらの者の交代の時刻</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">教育及び訓練の実施の都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>操作の開始及び交代の都度</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">三年間</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">リ　防護措置の評価及び改善の実施状況</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">評価又は改善の実施の都度</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">次回の実施の後三年間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>一年間</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="dotted" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">八　廃止措置に係る工事の方法、時期及び対象となる使用施設等の設備の名称</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>四　使用施設等の事故記録</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">法第五十七条の五第二項の認可を受けた廃止措置計画に記載された工事の各工程の終了の都度</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence/>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第七項に定める期間</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence/>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>イ　事故の発生及び復旧の日時</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>その都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>第七項に定める期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ロ　事故の状況及び事故に際して採つた処置</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>その都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>第七項に定める期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ハ　事故の原因</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>その都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>第七項に定める期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ニ　事故後の処置</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>その都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>第七項に定める期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>五　保安教育の記録</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence/>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence/>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>イ　保安教育の実施計画</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>策定の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>三年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ロ　保安教育の実施日時及び項目</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>実施の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>三年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ハ　保安教育を受けた者の氏名</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>実施の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>三年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>六　品質管理基準規則第四条第三項に規定する品質マネジメント文書及び品質マネジメントシステムに従つた計画、実施、評価及び改善状況の記録（令第四十一条各号に掲げる核燃料物質を使用しない場合にあつては、品質管理基準規則第五十四条第一項第二号に規定する記録）（他の号に掲げるものを除く。）</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>当該文書又は記録の作成又は変更の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>当該文書又は記録の作成又は変更後三年が経過するまでの期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>七　第二条の十一の十三に規定する防護措置の記録</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence/>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence/>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>イ　見張人による巡視の状況及びその担当者の氏名</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>毎日一回</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>一年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ロ　第二条の十一の十三第二項第一号に規定する防護区域、同項第二号に規定する周辺防護区域又は同項第三号に規定する立入制限区域へ立ち入る者への同項第五号イ及びロに規定する証明書等の発行の状況及びその担当者の氏名</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>発行の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>一年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ハ　第二条の十一の十三第二項第一号に規定する防護区域、同項第二号に規定する周辺防護区域又は同項第三号に規定する立入制限区域の出入口における物品の持込み又は持出しの点検の状況及びその担当者の氏名</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>点検の都度又は毎日一回</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>一年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ニ　特定核燃料物質又は施設の出入口の監視の状況及びその担当者の氏名</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>毎日一回</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>一年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ホ　特定核燃料物質並びに特定核燃料物質を取り扱う設備及び装置の点検の状況並びにその担当者の氏名</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>点検の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>一年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ヘ　特定核燃料物質の防護のために必要な設備及び装置の点検及び保守の状況並びにその担当者の氏名</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>点検又は保守の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>一年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ト　特定核燃料物質の防護に関する秘密の範囲及び業務上知り得る者の指定の状況</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>指定の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>全ての特定核燃料物質の取扱いを終了するまでの期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>チ　特定核燃料物質の防護のために必要な教育及び訓練の実施状況</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>教育及び訓練の実施の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>三年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>リ　防護措置の評価及び改善の実施状況</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>評価又は改善の実施の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>次回の実施の後三年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>八　廃止措置に係る工事の方法、時期及び対象となる使用施設等の設備の名称</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>法第五十七条の五第二項の認可を受けた廃止措置計画に記載された工事の各工程の終了の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>第七項に定める期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>九　工場又は事業所において用いた資材その他の物に含まれる放射性物質の放射能濃度について法第六十一条の二第一項の規定に基づく確認を受けようとするもの（以下「放射能濃度確認対象物」という。）の記録</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence/>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence/>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>イ　放射能濃度確認対象物中の放射能濃度についてあらかじめ行う調査に係る記録</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence/>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence/>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>（１）　放射能濃度確認対象物の発生状況及び汚染の状況について調査を行つた結果</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>調査の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>工場又は事業所から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>（２）　放射能濃度確認対象物の材質及び重量</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>調査の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>工場又は事業所から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>（３）　放射能濃度確認対象物について放射性物質による汚染の除去を行つた場合は、その結果</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>その都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>工場又は事業所から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>（４） 放射能濃度確認対象物中の放射性物質について計算による評価を行つた場合は、その計算条件及び結果</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence/>
+                  <Sentence>その都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>工場又は事業所から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>（５） 評価に用いる放射性物質の選択を行つた結果</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>選択の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>工場又は事業所から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>（６） 放射能濃度の決定を行う方法について評価を行つた結果</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>評価の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>工場又は事業所から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ロ 放射能濃度確認対象物の測定及び評価に係る記録</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence/>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence/>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>（１） 放射性物質の放射能濃度の測定条件</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>測定又は評価の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>工場又は事業所から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>（２） 放射能濃度の測定結果</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>測定又は評価の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>工場又は事業所から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>（３） 放射能濃度確認対象物中の放射能濃度の決定を行つた結果</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>測定又は評価の都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>工場又は事業所から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>（４） 測定に用いた放射線測定装置の点検・校正・保守・管理を行つた結果</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>その都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>工場又は事業所から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>（５） 放射能濃度確認対象物の測定及び評価に係る教育・訓練の実施日時及び項目</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>その都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>工場又は事業所から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>ハ 放射能濃度確認対象物の管理について点検等を行つた結果に係る記録</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>その都度</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>工場又は事業所から搬出された後十年間</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -5766,11 +5932,50 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月一三日原子力規制委員会規則第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（製錬事業者等における工場等において用いた資材その他の物に含まれる放射性物質の放射能濃度についての確認等に関する規則等の廃止に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則の施行の際現に法第六十一条の二第二項の認可を受けている放射能濃度の測定及び評価の方法に係る放射能濃度確認対象物についての法第六十一条の二第一項の確認の申請については、第三条の規定にかかわらず、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定によりなお従前の例によることとされた確認の申請に係る放射能濃度確認対象物の確認の基準については、第二条の規定にかかわらず、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（試験研究の用に供する原子炉等の設置、運転等に関する規則等の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">附則第三条第一項の放射能濃度確認対象物についての記録については、前条第一号の規定による改正後の試験研究の用に供する原子炉等の設置、運転等に関する規則第六条の表第十三号又は前条第二号の規定による改正後の核燃料物質の使用等に関する規則第二条の十一の表第九号の規定にかかわらず、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
-      <AppdxStyleTitle>別記様式第１（第２条の１０関係）</AppdxStyleTitle>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第１（第２条の１０関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S32F03101000084_2007310830_001.pdf"/>
+          <Fig src="./pict/S32F03101000084_2008281308_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5779,7 +5984,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S32F03101000084_2007301907_002.pdf"/>
+          <Fig src="./pict/S32F03101000084_2008281308_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5788,15 +5993,15 @@
       <RelatedArticleNum>（第７条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S32F03101000084_2007301907_003.pdf"/>
+          <Fig src="./pict/S32F03101000084_2008281308_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle>別記様式第２（第１０条関係）</AppdxStyleTitle>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第２（第１０条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S32F03101000084_2007301907_004.pdf"/>
+          <Fig src="./pict/S32F03101000084_2008281308_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
