@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200523e01k01m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="24" Year="44">
+<Law DataInfo="200814e03k03m02" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="24" Year="44">
   <LawNum>昭和四十四年労働省令第二十四号</LawNum>
   <LawBody>
     <LawTitle>職業能力開発促進法施行規則</LawTitle>
@@ -354,7 +354,7 @@
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1">通信の方法によつても行うことができること。</Sentence>
-                    <Sentence Num="2">この場合には、適切と認められる方法により添削指導及び面接指導を行うこと。</Sentence>
+                    <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -473,7 +473,7 @@
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1">通信の方法によつても行うことができること。</Sentence>
-                    <Sentence Num="2">この場合には、適切と認められる方法により添削指導を行うほか、必要に応じて面接指導を行うこと。</Sentence>
+                    <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -558,6 +558,18 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
+                    <Sentence>訓練の実施方法</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1">通信の方法によつても行うことができること。</Sentence>
+                    <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
                     <Sentence>訓練期間</Sentence>
                   </Column>
                   <Column Num="2">
@@ -566,8 +578,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="4">
-                <ItemTitle>四</ItemTitle>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>訓練時間</Sentence>
@@ -577,8 +589,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="5">
-                <ItemTitle>五</ItemTitle>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>設備</Sentence>
@@ -588,8 +600,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="6">
-                <ItemTitle>六</ItemTitle>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>訓練生の数</Sentence>
@@ -599,8 +611,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="7">
-                <ItemTitle>七</ItemTitle>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>職業訓練指導員</Sentence>
@@ -629,8 +641,8 @@
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
-              <Item Num="8">
-                <ItemTitle>八</ItemTitle>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>試験</Sentence>
@@ -686,7 +698,7 @@
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1">通信の方法によつても行うことができること。</Sentence>
-                    <Sentence Num="2">この場合には、適切と認められる方法により添削指導を行うほか、必要に応じて面接指導を行うこと。</Sentence>
+                    <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -759,6 +771,18 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
+                    <Sentence>訓練の実施方法</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1">通信の方法によつても行うことができること。</Sentence>
+                    <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
                     <Sentence>訓練期間</Sentence>
                   </Column>
                   <Column Num="2">
@@ -767,8 +791,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="4">
-                <ItemTitle>四</ItemTitle>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>訓練時間</Sentence>
@@ -779,8 +803,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="5">
-                <ItemTitle>五</ItemTitle>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>設備</Sentence>
@@ -790,8 +814,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="6">
-                <ItemTitle>六</ItemTitle>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>訓練生の数</Sentence>
@@ -801,8 +825,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="7">
-                <ItemTitle>七</ItemTitle>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>職業訓練指導員</Sentence>
@@ -831,8 +855,8 @@
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
-              <Item Num="8">
-                <ItemTitle>八</ItemTitle>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>試験</Sentence>
@@ -884,6 +908,18 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
+                    <Sentence>訓練の実施方法</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1">通信の方法によつても行うことができること。</Sentence>
+                    <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
                     <Sentence>訓練期間</Sentence>
                   </Column>
                   <Column Num="2">
@@ -891,8 +927,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="4">
-                <ItemTitle>四</ItemTitle>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>訓練時間</Sentence>
@@ -902,8 +938,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="5">
-                <ItemTitle>五</ItemTitle>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>設備</Sentence>
@@ -1836,6 +1872,18 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
+                    <Sentence>訓練の実施方法</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1">通信の方法によつても行うことができること。</Sentence>
+                    <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
                     <Sentence>訓練期間</Sentence>
                   </Column>
                   <Column Num="2">
@@ -1843,8 +1891,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="4">
-                <ItemTitle>四</ItemTitle>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>訓練時間</Sentence>
@@ -1854,8 +1902,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="5">
-                <ItemTitle>五</ItemTitle>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>設備</Sentence>
@@ -1865,8 +1913,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="6">
-                <ItemTitle>六</ItemTitle>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>訓練生の数</Sentence>
@@ -1876,8 +1924,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="7">
-                <ItemTitle>七</ItemTitle>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>職業訓練指導員</Sentence>
@@ -1906,8 +1954,8 @@
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
-              <Item Num="8">
-                <ItemTitle>八</ItemTitle>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>試験</Sentence>
@@ -1965,6 +2013,18 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
+                    <Sentence>訓練の実施方法</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1">通信の方法によつても行うことができること。</Sentence>
+                    <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
                     <Sentence>訓練期間</Sentence>
                   </Column>
                   <Column Num="2">
@@ -1972,8 +2032,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="4">
-                <ItemTitle>四</ItemTitle>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>訓練時間</Sentence>
@@ -1983,8 +2043,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="5">
-                <ItemTitle>五</ItemTitle>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>設備</Sentence>
@@ -1994,8 +2054,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="6">
-                <ItemTitle>六</ItemTitle>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>訓練生の数</Sentence>
@@ -2005,8 +2065,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="7">
-                <ItemTitle>七</ItemTitle>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>職業訓練指導員</Sentence>
@@ -2035,8 +2095,8 @@
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
-              <Item Num="8">
-                <ItemTitle>八</ItemTitle>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>試験</Sentence>
@@ -2351,7 +2411,7 @@
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1">訓練の実施方法は、通信の方法によつても行うことができること。</Sentence>
-                  <Sentence Num="2">この場合には、適切と認められる方法により添削指導及び面接指導を行うこと。</Sentence>
+                  <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
@@ -2410,7 +2470,7 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1">訓練の実施方法は、通信の方法によつても行うことができること。</Sentence>
-                  <Sentence Num="2">この場合には、適切と認められる方法により添削指導及び面接指導を行うこと。</Sentence>
+                  <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -7292,7 +7352,8 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>第二十九条、第二十九条の二及び第三十五条の三の規定は、第一項の場合について準用する。この場合において、第二十九条の二中「公共職業能力開発施設の長」とあるのは、「公共職業能力開発施設の長、職業能力開発総合大学校の長及び職業訓練法人」と読み替えるものとする。</Sentence>
+              <Sentence Num="1">第二十九条、第二十九条の二及び第三十五条の三の規定は、第一項の場合について準用する。</Sentence>
+              <Sentence Num="2">この場合において、第二十九条の二中「公共職業能力開発施設の長」とあるのは、「公共職業能力開発施設の長、職業能力開発総合大学校の長及び職業訓練法人」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -7308,7 +7369,8 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>第二十九条の三及び第三十六条の十二の規定は、前項の場合について準用する。この場合において、第二十九条の三中「法第二十二条」とあるのは「法第二十二条（法第二十六条の二及び法第二十七条第五項において準用する場合を含む。）」と読み替えるものとする。</Sentence>
+              <Sentence Num="1">第二十九条の三及び第三十六条の十二の規定は、前項の場合について準用する。</Sentence>
+              <Sentence Num="2">この場合において、第二十九条の三中「法第二十二条」とあるのは「法第二十二条（法第二十六条の二及び法第二十七条第五項において準用する場合を含む。）」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -20906,6 +20968,19 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence>この省令の施行前に旧規則別表第十二又は別表第十三の検定職種の欄に掲げる印章彫刻に係る技能検定に合格した者が法第五十条第一項の規定に基づき称することができる名称については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月二九日厚生労働省令第一一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -37790,7 +37865,7 @@
                 <Sentence>訓練の実施方法</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>通信の方法によつて行う場合は、適切と認められる方法により添削指導及び面接指導を行うこととする。</Sentence>
+                <Sentence>通信の方法によつて行う場合は、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこととする。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -39775,7 +39850,8 @@
                   <Sentence>訓練の実施方法</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>通信の方法によつても行うことができることとする。この場合には、適切と認められる方法により添削指導及び面接指導を行うこととする。</Sentence>
+                  <Sentence Num="1">通信の方法によつても行うことができることとする。</Sentence>
+                  <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -42121,7 +42197,8 @@
                   <Sentence>訓練の実施方法</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>通信の方法によつても行うことができることとする。この場合には、適切と認められる方法により添削指導及び面接指導を行うこととする。</Sentence>
+                  <Sentence Num="1">通信の方法によつても行うことができることとする。</Sentence>
+                  <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -44457,7 +44534,8 @@
                   <Sentence>訓練の実施方法</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence>通信の方法によつても行うことができることとする。この場合には、適切と認められる方法により添削指導及び面接指導を行うこととする。</Sentence>
+                  <Sentence Num="1">通信の方法によつても行うことができることとする。</Sentence>
+                  <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -49205,15 +49283,9 @@
             <Sentence>訓練の実施方法</Sentence>
           </Subitem1Sentence>
           <Subitem2 Num="1">
-            <Subitem2Title>１</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>訓練の実施方法は、次の各表の教科の科目又は訓練科ごとに通信の方法によつても行うことができることとする。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="2">
-            <Subitem2Title>２</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence>通信の方法によつて行う場合は、適切と認められる方法により添削指導及び面接指導を行うこととする。</Sentence>
+              <Sentence Num="1">次の各表の教科の科目又は訓練科ごとに通信の方法によつても行うことができることとする。</Sentence>
+              <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -49797,15 +49869,9 @@
             <Sentence>訓練の実施方法</Sentence>
           </Subitem1Sentence>
           <Subitem2 Num="1">
-            <Subitem2Title>１</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>訓練の実施方法は、通信の方法によつても行うことができることとする。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="2">
-            <Subitem2Title>２</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence>通信の方法によつて行う場合は、適切と認められる方法により添削指導及び面接指導を行うこととする。</Sentence>
+              <Sentence Num="1">通信の方法によつても行うことができることとする。</Sentence>
+              <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
@@ -49960,15 +50026,9 @@
             <Sentence>訓練の実施方法</Sentence>
           </Subitem1Sentence>
           <Subitem2 Num="1">
-            <Subitem2Title>１</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>訓練の実施方法は、次の各表の教科の科目又は訓練科ごとに通信の方法によつても行うことができることとする。</Sentence>
-            </Subitem2Sentence>
-          </Subitem2>
-          <Subitem2 Num="2">
-            <Subitem2Title>２</Subitem2Title>
-            <Subitem2Sentence>
-              <Sentence>通信の方法によつて行う場合は、適切と認められる方法により添削指導及び面接指導を行うこととする。</Sentence>
+              <Sentence Num="1">次の各表の教科の科目又は訓練科ごとに通信の方法によつても行うことができることとする。</Sentence>
+              <Sentence Num="2">この場合には、適切と認められる方法により、必要に応じて添削指導若しくは面接指導又はその両方を行うこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>
