@@ -2711,6 +2711,16 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月三一日経済産業省令第七一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、漁業法等の一部を改正する等の法律（平成三十年法律第九十五号）の施行の日（令和二年十二月一日）から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、別表第六及び別表第十二の改正規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第１５条関係）</RelatedArticleNum>
@@ -6354,7 +6364,7 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="4">
               <Sentence WritingMode="vertical">環境要素の区分</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="8">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="6">
               <Sentence WritingMode="vertical">環境の自然的構成要素の良好な状態の保持を旨として、調査、予測及び評価されるべき環境要素</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="5">
@@ -6368,7 +6378,7 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="4">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
               <Sentence WritingMode="vertical">大気環境</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
@@ -6397,11 +6407,8 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="2">
-              <Sentence WritingMode="vertical">大気質</Sentence>
-            </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">騒音及び超低周波音</Sentence>
+              <Sentence WritingMode="vertical">騒音</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">振動</Sentence>
@@ -6421,13 +6428,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">窒素酸化物</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">粉じん等</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">騒音及び超低周波音</Sentence>
+              <Sentence WritingMode="vertical">騒音</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">振動</Sentence>
@@ -6524,12 +6525,6 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
-            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
@@ -6537,12 +6532,6 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">工事用資材等の搬出入</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">○</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">○</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">○</Sentence>
@@ -6598,13 +6587,7 @@
               <Sentence WritingMode="vertical">○</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">○</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">○</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">○</Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">○</Sentence>
@@ -6649,12 +6632,6 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">造成等の施工による一時的な影響</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical"/>
@@ -6722,12 +6699,6 @@
               <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">○</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6766,12 +6737,6 @@
               <Sentence WritingMode="vertical">施設の稼働</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">○</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6812,24 +6777,23 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="19">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="17">
               <Sentence WritingMode="vertical">備考</Sentence>
               <Sentence WritingMode="vertical">一　○印は、各欄に掲げる環境要素が、影響要因の区分の項に掲げる各要因により影響を受けるおそれがあるものであることを示す。</Sentence>
               <Sentence WritingMode="vertical">二　この表における「影響要因の区分」は、次に掲げる発電所における一般的な事業の内容を踏まえ区分したものである。</Sentence>
               <Sentence WritingMode="vertical">イ　工事の実施に関する内容</Sentence>
-              <Sentence WritingMode="vertical">（１）　工事用資機材の搬出入として、建築物、工作物等の建築工事に必要な資材の搬出入、工事関係者の通勤、残土、伐採樹木、廃材の搬出を行う。</Sentence>
-              <Sentence WritingMode="vertical">（２）　建設機械の稼働として、建築物、工作物等の設置工事（既設工作物の撤去又は廃棄を含む。）を行う。なお、海域に設置される場合は、しゅんせつ工事を含む。</Sentence>
+              <Sentence WritingMode="vertical">（１）　工事用資材等の搬出入として、建築物、工作物等の建築工事に必要な資材の搬出入、工事関係者の通勤、残土、伐採樹木、廃材の搬出を行う。</Sentence>
+              <Sentence WritingMode="vertical">（２）　建設機械の稼働として、建築物、工作物等の設置工事(既設工作物の撤去又は廃棄を含む。)を行う。なお、海域に設置される場合は、しゅんせつ工事を含む。</Sentence>
               <Sentence WritingMode="vertical">（３）　造成等の施工として、樹木の伐採等、掘削、地盤改良、盛土等による敷地、搬入道路の造成、整地を行う。なお、海域に設置される場合は、海底の掘削等を含む。</Sentence>
               <Sentence WritingMode="vertical">ロ　土地又は工作物の存在及び供用に関する内容</Sentence>
               <Sentence WritingMode="vertical">（１）　地形改変及び施設の存在として、地形改変等を実施し建設された風力発電所を有する。なお、海域に設置される場合は、海域における地形改変等を伴う。</Sentence>
               <Sentence WritingMode="vertical">（２）　施設の稼働として、風力発電所の運転を行う。</Sentence>
-              <Sentence WritingMode="vertical">三　この表において「粉じん等」とは、粉じん、ばいじん及び自動車の運行及び建設機械の稼働に伴い発生する粒子状物質をいう。</Sentence>
-              <Sentence WritingMode="vertical">四　この表において「重要な地形及び地質」、「重要な種」、「重要な種及び重要な群落」とは、学術上又は希少性の観点から重要であるものをいう。</Sentence>
-              <Sentence WritingMode="vertical">五　この表において「風車の影」とは、影が回転して地上に明暗が生じる現象（シャドーフリッカー）をいう。</Sentence>
-              <Sentence WritingMode="vertical">六　この表において「注目すべき生息地」とは、学術上又は希少性の観点から重要であること、地域の象徴であることその他の理由により注目すべき生息地をいう。</Sentence>
-              <Sentence WritingMode="vertical">七　この表において「主要な眺望点」とは、不特定かつ多数の者が利用している眺望する場所をいう。</Sentence>
-              <Sentence WritingMode="vertical">八　この表において「主要な眺望景観」とは、主要な眺望点から景観資源を眺望する景観をいう。</Sentence>
-              <Sentence WritingMode="vertical">九　この表において「主要な人と自然との触れ合いの活動の場」とは、不特定かつ多数の者が利用している人と自然との触れ合いの活動の場をいう。</Sentence>
+              <Sentence WritingMode="vertical">三　この表において「重要な地形及び地質」、「重要な種」、「重要な種及び重要な群落」とは、学術上又は希少性の観点から重要であるものをいう。</Sentence>
+              <Sentence WritingMode="vertical">四　この表において「風車の影」とは、影が回転して地上に明暗が生じる現象（シャドーフリッカー）をいう。</Sentence>
+              <Sentence WritingMode="vertical">五　この表において「注目すべき生息地」とは、学術上又は希少性の観点から重要であること、地域の象徴であることその他の理由により注目すべき生息地をいう。</Sentence>
+              <Sentence WritingMode="vertical">六　この表において「主要な眺望点」とは、不特定かつ多数の者が利用している眺望する場所をいう。</Sentence>
+              <Sentence WritingMode="vertical">七　この表において「主要な眺望景観」とは、主要な眺望点から景観資源を眺望する景観をいう。</Sentence>
+              <Sentence WritingMode="vertical">八　この表において「主要な人と自然との触れ合いの活動の場」とは、不特定かつ多数の者が利用している人と自然との触れ合いの活動の場をいう。</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -12532,112 +12496,6 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">窒素酸化物</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">工事用資材等の搬出入</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一　調査すべき情報</Sentence>
-              <Sentence WritingMode="vertical">気象の状況</Sentence>
-              <Sentence WritingMode="vertical">二　調査の基本的な手法</Sentence>
-              <Sentence WritingMode="vertical">文献その他の資料及び現地調査による情報の収集並びに当該情報の整理及び解析</Sentence>
-              <Sentence WritingMode="vertical">三　調査地域</Sentence>
-              <Sentence WritingMode="vertical">窒素酸化物の拡散の特性を踏まえ、窒素酸化物に係る環境影響を受けるおそれがある地域</Sentence>
-              <Sentence WritingMode="vertical">四　調査地点</Sentence>
-              <Sentence WritingMode="vertical">窒素酸化物の拡散の特性を踏まえ、前号の調査地域における窒素酸化物に係る環境影響を予測し、及び評価するために適切かつ効果的な地点</Sentence>
-              <Sentence WritingMode="vertical">五　調査期間等</Sentence>
-              <Sentence WritingMode="vertical">窒素酸化物の拡散の特性を踏まえ、第三号の調査地域における窒素酸化物に係る環境影響を予測し、及び評価するために適切かつ効果的な期間及び時期</Sentence>
-              <Sentence WritingMode="vertical">六　予測の基本的な手法</Sentence>
-              <Sentence WritingMode="vertical">事例の引用又は解析</Sentence>
-              <Sentence WritingMode="vertical">七　予測地域</Sentence>
-              <Sentence WritingMode="vertical">第三号の調査地域のうち、窒素酸化物の拡散の特性を踏まえ、窒素酸化物に係る環境影響を受けるおそれがある地域</Sentence>
-              <Sentence WritingMode="vertical">八　予測地点</Sentence>
-              <Sentence WritingMode="vertical">窒素酸化物の拡散の特性を踏まえ、前号の予測地域における窒素酸化物に係る環境影響を的確に把握できる地点</Sentence>
-              <Sentence WritingMode="vertical">九　予測対象時期等</Sentence>
-              <Sentence WritingMode="vertical">工事用資材等の搬出入に用いる自動車の運行による窒素酸化物に係る環境影響が最大となる時期</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">建設機械の稼働</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一　調査すべき情報</Sentence>
-              <Sentence WritingMode="vertical">気象の状況</Sentence>
-              <Sentence WritingMode="vertical">二　調査の基本的な手法</Sentence>
-              <Sentence WritingMode="vertical">文献その他の資料及び現地調査による情報の収集並びに当該情報の整理及び解析</Sentence>
-              <Sentence WritingMode="vertical">三　調査地域</Sentence>
-              <Sentence WritingMode="vertical">窒素酸化物の拡散の特性を踏まえ、窒素酸化物に係る環境影響を受けるおそれがある地域</Sentence>
-              <Sentence WritingMode="vertical">四　調査地点</Sentence>
-              <Sentence WritingMode="vertical">窒素酸化物の拡散の特性を踏まえ、前号の調査地域における窒素酸化物に係る環境影響を予測し、及び評価するために適切かつ効果的な地点</Sentence>
-              <Sentence WritingMode="vertical">五　調査期間等</Sentence>
-              <Sentence WritingMode="vertical">窒素酸化物の拡散の特性を踏まえ、第三号の調査地域における窒素酸化物に係る環境影響を予測し、及び評価するために適切かつ効果的な期間及び時期</Sentence>
-              <Sentence WritingMode="vertical">六　予測の基本的な手法</Sentence>
-              <Sentence WritingMode="vertical">事例の引用又は解析</Sentence>
-              <Sentence WritingMode="vertical">七　予測地域</Sentence>
-              <Sentence WritingMode="vertical">第三号の調査地域のうち、窒素酸化物の拡散の特性を踏まえ、窒素酸化物に係る環境影響を受けるおそれがある地域</Sentence>
-              <Sentence WritingMode="vertical">八　予測地点</Sentence>
-              <Sentence WritingMode="vertical">窒素酸化物の拡散の特性を踏まえ、前号の予測地域における窒素酸化物に係る環境影響を的確に把握できる地点</Sentence>
-              <Sentence WritingMode="vertical">九　予測対象時期等</Sentence>
-              <Sentence WritingMode="vertical">建設機械の稼働による窒素酸化物に係る環境影響が最大となる時期</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-              <Sentence WritingMode="vertical">粉じん等</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">工事用資材等の搬出入</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一　調査すべき情報</Sentence>
-              <Sentence WritingMode="vertical">気象の状況</Sentence>
-              <Sentence WritingMode="vertical">二　調査の基本的な手法</Sentence>
-              <Sentence WritingMode="vertical">文献その他の資料及び現地調査による情報の収集並びに当該情報の整理及び解析</Sentence>
-              <Sentence WritingMode="vertical">三　調査地域</Sentence>
-              <Sentence WritingMode="vertical">粉じん等の拡散の特性を踏まえ、粉じん等に係る環境影響を受けるおそれがある地域</Sentence>
-              <Sentence WritingMode="vertical">四　調査地点</Sentence>
-              <Sentence WritingMode="vertical">粉じん等の拡散の特性を踏まえ、前号の調査地域における粉じん等に係る環境影響を予測し、及び評価するために適切かつ効果的な地点</Sentence>
-              <Sentence WritingMode="vertical">五　調査期間等</Sentence>
-              <Sentence WritingMode="vertical">粉じん等の拡散の特性を踏まえ、第三号の調査地域における粉じん等に係る環境影響を予測し、及び評価するために適切かつ効果的な期間及び時期</Sentence>
-              <Sentence WritingMode="vertical">六　予測の基本的な手法</Sentence>
-              <Sentence WritingMode="vertical">事例の引用又は解析</Sentence>
-              <Sentence WritingMode="vertical">七　予測地域</Sentence>
-              <Sentence WritingMode="vertical">第三号の調査地域のうち、粉じん等の拡散の特性を踏まえ、粉じん等に係る環境影響を受けるおそれがある地域</Sentence>
-              <Sentence WritingMode="vertical">八　予測地点</Sentence>
-              <Sentence WritingMode="vertical">粉じん等の拡散の特性を踏まえ、前号の予測地域における粉じん等に係る環境影響を的確に把握できる地点</Sentence>
-              <Sentence WritingMode="vertical">九　予測対象時期等</Sentence>
-              <Sentence WritingMode="vertical">工事用資材等の搬出入に用いる自動車の運行による粉じん等に係る環境影響が最大となる時期</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">建設機械の稼働</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一　調査すべき情報</Sentence>
-              <Sentence WritingMode="vertical">気象の状況</Sentence>
-              <Sentence WritingMode="vertical">二　調査の基本的な手法</Sentence>
-              <Sentence WritingMode="vertical">文献その他の資料及び現地調査による情報の収集並びに当該情報の整理及び解析</Sentence>
-              <Sentence WritingMode="vertical">三　調査地域</Sentence>
-              <Sentence WritingMode="vertical">粉じん等の拡散の特性を踏まえ、粉じん等に係る環境影響を受けるおそれがある地域</Sentence>
-              <Sentence WritingMode="vertical">四　調査地点</Sentence>
-              <Sentence WritingMode="vertical">粉じん等の拡散の特性を踏まえ、前号の調査地域における粉じん等に係る環境影響を予測し、及び評価するために適切かつ効果的な地点</Sentence>
-              <Sentence WritingMode="vertical">五　調査期間等</Sentence>
-              <Sentence WritingMode="vertical">粉じん等の拡散の特性を踏まえ、第三号の調査地域における粉じん等に係る環境影響を予測し、及び評価するために適切かつ効果的な期間及び時期</Sentence>
-              <Sentence WritingMode="vertical">六　予測の基本的な手法</Sentence>
-              <Sentence WritingMode="vertical">事例の引用又は解析</Sentence>
-              <Sentence WritingMode="vertical">七　予測地域</Sentence>
-              <Sentence WritingMode="vertical">第三号の調査地域のうち、粉じん等の拡散の特性を踏まえ、粉じん等に係る環境影響を受けるおそれがある地域</Sentence>
-              <Sentence WritingMode="vertical">八　予測地点</Sentence>
-              <Sentence WritingMode="vertical">粉じん等の拡散の特性を踏まえ、前号の予測地域における粉じん等に係る環境影響を的確に把握できる地点</Sentence>
-              <Sentence WritingMode="vertical">九　予測対象時期等</Sentence>
-              <Sentence WritingMode="vertical">建設機械の稼働による粉じん等に係る環境影響が最大となる時期</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
               <Sentence WritingMode="vertical">騒音</Sentence>
             </TableColumn>
@@ -12720,7 +12578,7 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">振動</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -12745,31 +12603,6 @@
               <Sentence WritingMode="vertical">振動の伝搬の特性を踏まえ、前号の予測地域における振動に係る環境影響を的確に把握できる地点</Sentence>
               <Sentence WritingMode="vertical">九　予測対象時期等</Sentence>
               <Sentence WritingMode="vertical">工事用資材等の搬出入に用いる自動車の運行による振動に係る環境影響が最大となる時期</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">建設機械の稼働</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一　調査すべき情報</Sentence>
-              <Sentence WritingMode="vertical">地盤の状況</Sentence>
-              <Sentence WritingMode="vertical">二　調査の基本的な手法</Sentence>
-              <Sentence WritingMode="vertical">文献その他の資料及び現地調査による情報の収集並びに当該情報の整理及び解析</Sentence>
-              <Sentence WritingMode="vertical">三　調査地域</Sentence>
-              <Sentence WritingMode="vertical">振動の伝搬の特性を踏まえ、振動に係る環境影響を受けるおそれがある地域</Sentence>
-              <Sentence WritingMode="vertical">四　調査地点</Sentence>
-              <Sentence WritingMode="vertical">振動の伝搬の特性を踏まえ、前号の調査地域における振動に係る環境影響を予測し、及び評価するために適切かつ効果的な地点</Sentence>
-              <Sentence WritingMode="vertical">五　調査期間等</Sentence>
-              <Sentence WritingMode="vertical">振動の伝搬の特性を踏まえ、第三号の調査地域における振動に係る環境影響を予測し、及び評価するために適切かつ効果的な期間及び時期</Sentence>
-              <Sentence WritingMode="vertical">六　予測の基本的な手法</Sentence>
-              <Sentence WritingMode="vertical">事例の引用又は解析</Sentence>
-              <Sentence WritingMode="vertical">七　予測地域</Sentence>
-              <Sentence WritingMode="vertical">第三号の調査地域のうち、振動の伝搬の特性を踏まえ、振動に係る環境影響を受けるおそれがある地域</Sentence>
-              <Sentence WritingMode="vertical">八　予測地点</Sentence>
-              <Sentence WritingMode="vertical">振動の伝搬の特性を踏まえ、前号の予測地域における振動に係る環境影響を的確に把握できる地点</Sentence>
-              <Sentence WritingMode="vertical">九　予測対象時期等</Sentence>
-              <Sentence WritingMode="vertical">建設機械の稼働による振動に係る環境影響が最大となる時期</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -13215,13 +13048,12 @@
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
               <Sentence WritingMode="vertical">備考</Sentence>
-              <Sentence WritingMode="vertical">一　この表において「粉じん等」とは、粉じん、ばいじん及び自動車の運行及び建設機械の稼働に伴い発生する粒子状物質をいう。</Sentence>
-              <Sentence WritingMode="vertical">二　この表において「重要な地形及び地質」、「重要な種」、「重要な種及び重要な群落」とは、それぞれ学術上又は希少性の観点から重要であるものをいう。</Sentence>
-              <Sentence WritingMode="vertical">三　この表において「風車の影」とは、影が回転して地上に明暗が生じる現象（シャドーフリッカー）をいう。</Sentence>
-              <Sentence WritingMode="vertical">四　この表において「注目すべき生息地」とは、学術上又は希少性の観点から重要であること、地域の象徴であることその他の理由により注目すべき生息地をいう。</Sentence>
-              <Sentence WritingMode="vertical">五　この表において「主要な眺望点」とは、不特定かつ多数の者が利用している眺望する場所をいう。</Sentence>
-              <Sentence WritingMode="vertical">六　この表において「主要な眺望景観」とは、主要な眺望点から景観資源を眺望する景観をいう。</Sentence>
-              <Sentence WritingMode="vertical">七　この表において「主要な人と自然との触れ合いの活動の場」とは、不特定かつ多数の者が利用している人と自然との触れ合いの活動の場をいう。</Sentence>
+              <Sentence WritingMode="vertical">一　この表において「重要な地形及び地質」、「重要な種」、「重要な種及び重要な群落」とは、それぞれ学術上又は希少性の観点から重要であるものをいう。</Sentence>
+              <Sentence WritingMode="vertical">二　この表において「風車の影」とは、影が回転して地上に明暗が生じる現象（シャドーフリッカー）をいう。</Sentence>
+              <Sentence WritingMode="vertical">三　この表において「注目すべき生息地」とは、学術上又は希少性の観点から重要であること、地域の象徴であることその他の理由により注目すべき生息地をいう。</Sentence>
+              <Sentence WritingMode="vertical">四　この表において「主要な眺望点」とは、不特定かつ多数の者が利用している眺望する場所をいう。</Sentence>
+              <Sentence WritingMode="vertical">五　この表において「主要な眺望景観」とは、主要な眺望点から景観資源を眺望する景観をいう。</Sentence>
+              <Sentence WritingMode="vertical">六　この表において「主要な人と自然との触れ合いの活動の場」とは、不特定かつ多数の者が利用している人と自然との触れ合いの活動の場をいう。</Sentence>
             </TableColumn>
           </TableRow>
         </Table>

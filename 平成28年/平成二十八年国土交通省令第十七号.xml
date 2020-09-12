@@ -56,7 +56,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">一万四千円に当該指定特定共通構造部（道路運送車両法（昭和二十六年法律第百八十五号）第七十五条の二第六項の規定により同条第一項の指定を受けたものとみなされるものを除く。）の数を乗じて得た額、十一万千円に当該指定特定共通構造部（同条第六項の規定により同条第一項の指定を受けたものとみなされるものに限る。）の数を乗じて得た額及び一万四千円に当該指定特定装置の数を乗じて得た額の合計額</Sentence>
+                <Sentence WritingMode="vertical">一万四千円に当該指定特定共通構造部（道路運送車両法（昭和二十六年法律第百八十五号）第七十五条の二第七項の規定により同条第一項の指定を受けたものとみなされるものを除く。）の数を乗じて得た額、十一万千円に当該指定特定共通構造部（同条第七項の規定により同条第一項の指定を受けたものとみなされるものに限る。）の数を乗じて得た額及び一万四千円に当該指定特定装置の数を乗じて得た額の合計額</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -3325,6 +3325,38 @@
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月五日国土交通省令第六七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、道路運送車両法の一部を改正する法律（令和元年法律第十四号）附則第一条第四号に掲げる規定の施行の日（令和二年十一月二十三日）から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Delete="false" Hide="false" Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column LineBreak="false" Num="1">
+              <Sentence WritingMode="vertical">第二条中道路運送車両法関係手数料規則第二条第二号ロの改正規定（「法律第百八十五号」を「法律第百八十五号。以下「法」という。」に改める部分を除く。）</Sentence>
+            </Column>
+            <Column LineBreak="false" Num="2">
+              <Sentence WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Delete="false" Hide="false" Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column LineBreak="false" Num="1">
+              <Sentence WritingMode="vertical">第三条の規定</Sentence>
+            </Column>
+            <Column LineBreak="false" Num="2">
+              <Sentence WritingMode="vertical">令和三年十月一日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
       </Paragraph>
     </SupplProvision>
   </LawBody>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200221e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="12" Year="10">
+<Law DataInfo="200407e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="12" Year="10">
   <LawNum>平成十年厚生省令第十二号</LawNum>
   <LawBody>
     <LawTitle>精神保健福祉士短期養成施設等及び精神保健福祉士一般養成施設等指定規則</LawTitle>
@@ -102,7 +102,7 @@
           <Item Num="10">
             <ItemTitle>十</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣が別に定める施設又は事業のうち、精神保健福祉援助実習を行うのに適当なもの（以下「実習施設等」という。）の名称、位置、設置者の氏名（法人にあっては、名称）、設置年月日及び入所定員並びに当該施設における実習用設備の概要及び実習指導者の氏名又は実習を行う市町村（特別区を含む。以下同じ。）の名称及び当該市町村における実習指導者の氏名</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣が別に定める施設又は事業のうち別表第一又は別表第三に規定するソーシャルワーク実習（以下「ソーシャルワーク実習」という。）を行うのに適当なもの（以下「実習施設等」という。）の概要及び実習指導者の氏名</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="11">
@@ -161,7 +161,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">指定養成施設等の設置者は、前条第一項第一号から第三号までに掲げる事項、同項第五号に掲げる事項（修業年限、養成課程、入学定員又は入所定員及び学級数に関する事項を除く。）、同項第七号に掲げる事項（専任教員に関する事項に限る。）若しくは同項第十号に掲げる事項又は同条第三項第三号若しくは第四号に掲げる事項若しくは同項に規定する教材の内容に変更があったときは、一月以内に、厚生労働大臣に届け出なければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">指定養成施設等の設置者は、前条第一項第一号から第三号までに掲げる事項、同項第五号に掲げる事項（修業年限、養成課程、入学定員又は入所定員及び学級数に関する事項を除く。）、同項第七号に掲げる事項（専任教員に関する事項に限る。）若しくは同項第十号に掲げる事項又は同条第三項第三号若しくは第四号に掲げる事項若しくは同項に規定する教材の内容に変更があったときは、遅滞なく、厚生労働大臣に届け出なければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -234,7 +234,7 @@
             <Subitem1 Num="5">
               <Subitem1Title>ホ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">精神保健福祉援助演習（基礎）及び精神保健福祉援助演習（専門）並びに精神保健福祉援助実習指導を教授する教員の数は、それぞれ学生二十人につき一人以上とすること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">別表第一又は別表第三に規定するソーシャルワーク演習（以下「ソーシャルワーク演習」という。）、別表第一又は別表第三に規定するソーシャルワーク演習（専門）（以下「ソーシャルワーク演習（専門）」という。）及び別表第一又は別表第三に規定するソーシャルワーク実習指導（以下「ソーシャルワーク実習指導」という。）を教授する教員の数は、それぞれ学生二十人につき一人以上とすること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="6">
@@ -251,31 +251,31 @@
               <Subitem2 Num="2">
                 <Subitem2Title>（２）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">精神保健福祉相談援助の基盤（専門）、精神保健福祉の理論と相談援助の展開、精神保健福祉に関する制度とサービス、精神障害者の生活支援システム又は精神保健福祉援助演習（専門）を教授できる者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">別表第一又は別表第三に規定する精神保健福祉の原理、ソーシャルワークの理論と方法（専門）、精神障害リハビリテーション論、精神保健福祉制度論又はソーシャルワーク演習（専門）を教授できる者</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
               <Subitem2 Num="3">
                 <Subitem2Title>（３）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">精神保健福祉援助実習指導又は精神保健福祉援助実習を教授できる者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">ソーシャルワーク実習指導又はソーシャルワーク実習を教授できる者</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
             </Subitem1>
             <Subitem1 Num="7">
               <Subitem1Title>ト</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">精神保健福祉援助演習（基礎）及び精神保健福祉援助演習（専門）、精神保健福祉援助実習指導又は精神保健福祉援助実習を教授する教員は、次に掲げる者のいずれかであること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">ソーシャルワーク演習を教授する教員は、次に掲げる者のいずれかに該当する者であること。</Sentence>
               </Subitem1Sentence>
               <Subitem2 Num="1">
                 <Subitem2Title>（１）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">学校教育法に基づく大学（大学院及び短期大学を含む。）又はこれらに準ずる教育施設において、教授、准教授、助教又は講師として、精神保健福祉士の養成に係る実習又は演習の教授に関し五年以上の経験を有する者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">学校教育法に基づく大学（大学院及び短期大学を含む。）又はこれに準ずる教育施設において、教授、准教授、助教又は講師として、精神保健福祉士の養成に係る実習又は演習の指導に関し五年以上の経験を有する者</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
               <Subitem2 Num="2">
                 <Subitem2Title>（２）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Sentence Num="1" WritingMode="vertical">学校教育法に基づく専修学校の専門課程又は各種学校の専任教員として、精神保健福祉士の養成に係る実習又は演習の教授に関し五年以上の経験を有する者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">学校教育法に基づく専修学校の専門課程又は各種学校の専任教員として、精神保健福祉士の養成に係る実習又は演習の指導に関し五年以上の経験を有する者</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
               <Subitem2 Num="3">
@@ -290,58 +290,70 @@
                   <Sentence Num="1" WritingMode="vertical">精神保健福祉士の養成に係る実習又は演習の教員として必要な知識及び技能を修得させるために行う講習会であって、厚生労働大臣が別に定める基準を満たすものとしてあらかじめ厚生労働大臣に届け出られたものを修了した者その他その者に準ずるものとして厚生労働大臣が別に定める者</Sentence>
                 </Subitem2Sentence>
               </Subitem2>
+              <Subitem2 Num="5">
+                <Subitem2Title>（５）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Sentence Num="1" WritingMode="vertical">社会福祉士介護福祉士養成施設指定規則（昭和六十二年厚生省令第五十号）第三条第一号ト（１）から（４）までのいずれかに該当する者</Sentence>
+                </Subitem2Sentence>
+              </Subitem2>
             </Subitem1>
             <Subitem1 Num="8">
               <Subitem1Title>チ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">同時に授業を行う学級の数に応じ、必要な数の普通教室を有すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">ソーシャルワーク演習（専門）、ソーシャルワーク実習指導又はソーシャルワーク実習を教授する教員は、ト（１）から（４）までのいずれかに該当する者であること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="9">
               <Subitem1Title>リ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">少なくとも学生二十人につき一室の割合で、精神保健福祉援助演習（基礎）及び精神保健福祉援助演習（専門）を行うための演習室並びに精神保健福祉援助実習指導を行うための実習指導室をそれぞれ有すること。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、精神保健福祉援助演習（基礎）及び精神保健福祉援助演習（専門）並びに精神保健福祉援助実習指導を行うのに教育上支障がない場合は、演習室と実習指導室とは兼用とすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">同時に授業を行う学級の数に応じ、必要な数の普通教室を有すること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="10">
               <Subitem1Title>ヌ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">教育上必要な機械器具、図書その他の設備を有すること。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">少なくとも学生二十人につき一室の割合で、ソーシャルワーク演習及びソーシャルワーク演習（専門）を行うための演習室並びにソーシャルワーク実習指導を行うための実習指導室をそれぞれ有すること。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、ソーシャルワーク演習、ソーシャルワーク演習（専門）及びソーシャルワーク実習指導を行うのに教育上支障がない場合は、演習室と実習指導室とは兼用とすることができる。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="11">
               <Subitem1Title>ル</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">実習施設等を精神保健福祉援助実習に利用できること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">教育上必要な機械器具、図書その他の設備を有すること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="12">
               <Subitem1Title>ヲ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">実習指導者（実習施設等において精神保健福祉援助実習を指導する者をいう。以下同じ。）は、精神保健福祉士の資格を取得した後、相談援助の業務に三年以上従事した経験を有する者であって、かつ、実習指導者を養成するために行う講習会であって厚生労働大臣が別に定める基準を満たすものとしてあらかじめ厚生労働大臣に届け出られたものを修了した者であること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">実習施設等をソーシャルワーク実習に利用できること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="13">
               <Subitem1Title>ワ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">一の実習施設等における精神保健福祉援助実習について指導を行う実習指導者の数は、同時に指導を行う学生五人につき一人以上とすること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">実習指導者（実習施設等においてソーシャルワーク実習を指導する者をいう。以下同じ。）は、精神保健福祉士の資格を取得した後、相談援助の業務に三年以上従事した経験を有する者であって、かつ、実習指導者を養成するために行う講習会であって厚生労働大臣が別に定める基準を満たすものとしてあらかじめ厚生労働大臣に届け出られたものを修了した者であること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="14">
               <Subitem1Title>カ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">専任の事務職員を有すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">一の実習施設等におけるソーシャルワーク実習について指導を行う実習指導者の数は、同時に指導を行う学生五人につき一人以上とすること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="15">
               <Subitem1Title>ヨ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">管理及び維持経営の方法が確実であること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">専任の事務職員を有すること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="16">
               <Subitem1Title>タ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">管理及び維持経営の方法が確実であること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="17">
+              <Subitem1Title>レ</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence Num="1" WritingMode="vertical">入学若しくは入所し、又はしようとする者に対し、教育の内容、教員その他の事項に関する情報が開示されており、当該開示された情報は、虚偽又は誇大なものであってはならないこと。</Sentence>
               </Subitem1Sentence>
@@ -360,7 +372,7 @@
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">第一号イ、ロ、ホ、ト、ルからワまで、ヨ及びタに該当するものであること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一号イ、ロ、ホ、ト、チ、ヲからカまで、タ及びレに該当するものであること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="2">
@@ -432,8 +444,8 @@
             <Subitem1 Num="8">
               <Subitem1Title>チ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">少なくとも学生二十人につき一室の割合で、精神保健福祉援助演習（基礎）及び精神保健福祉援助演習（専門）を行うための演習室並びに精神保健福祉援助実習指導を行うための実習指導室が面接授業の実施期間においてそれぞれ確保されていること。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、精神保健福祉援助演習（基礎）及び精神保健福祉援助演習（専門）並びに精神保健福祉援助実習指導を行うのに教育上支障がない場合は、演習室と実習指導室とは兼用とすることができる。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">少なくとも学生二十人につき一室の割合で、ソーシャルワーク演習及びソーシャルワーク演習（専門）を行うための演習室並びにソーシャルワーク実習指導を行うための実習指導室が面接授業の実施期間においてそれぞれ確保されていること。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、ソーシャルワーク演習、ソーシャルワーク演習（専門）及びソーシャルワーク実習指導を行うのに教育上支障がない場合は、演習室と実習指導室とは兼用とすることができる。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="9">
@@ -509,7 +521,7 @@
             <Subitem1 Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">前条第一号ハからタまでに該当するものであること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一号ハからレまでに該当するものであること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -532,7 +544,7 @@
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">前条第一号ホ、ト、ルからワまで、ヨ及びタ並びに同条第二号ロからヌまでに該当するものであること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一号ホ、ト、チ、ヲからカまで、タ及びレ並びに同条第二号ロからヌまでに該当するものであること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -1057,7 +1069,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">実習施設等における実習指導者については、新指定規則第五条第一号ヲの規定にかかわらず、当分の間、児童福祉法（昭和二十二年法律第百六十四号）に定める児童福祉司、精神保健及び精神障害者福祉に関する法律（昭和二十五年法律第百二十三号）に定める精神保健福祉相談員、社会福祉法（昭和二十六年法律第四十五号）に定める福祉に関する事務所に置かれる同法第十五条第一項第一号に規定する所員、知的障害者福祉法（昭和三十五年法律第三十七号）に定める知的障害者福祉司若しくは心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律（平成十五年法律第百十号）に定める社会復帰調整官又は平成二十七年三月三十一日までの間において新指定規則第五条第一号ヲに規定する講習会に相当するものとして厚生労働大臣が認める研修の課程を修了した者を実習指導者とすることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">実習施設等における実習指導者については、新指定規則第五条第一号ワの規定にかかわらず、当分の間、児童福祉法（昭和二十二年法律第百六十四号）に定める児童福祉司、精神保健及び精神障害者福祉に関する法律（昭和二十五年法律第百二十三号）に定める精神保健福祉相談員、社会福祉法（昭和二十六年法律第四十五号）に定める福祉に関する事務所に置かれる同法第十五条第一項第一号に規定する所員、知的障害者福祉法（昭和三十五年法律第三十七号）に定める知的障害者福祉司若しくは心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律（平成十五年法律第百十号）に定める社会復帰調整官又は平成二十七年三月三十一日までの間において新指定規則第五条第一号ワに規定する講習会に相当するものとして厚生労働大臣が認める研修の課程を修了した者を実習指導者とすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1131,6 +1143,116 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月六日厚生労働省令第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中精神保健福祉士法施行規則（以下「施行規則」という。）第二条の改正規定、第三条の規定、第四条中精神保健福祉士法施行規則及び精神保健福祉士短期養成施設等及び精神保健福祉士一般養成施設等指定規則の一部を改正する省令附則第三条及び第四条の改正規定並びに第五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和二年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令による改正後の精神保健福祉士短期養成施設等及び精神保健福祉士一般養成施設等指定規則（以下「指定規則」という。）第五条、第六条、別表第一及び別表第三の規定は、次の各号に掲げる区分に応じ、当該各号に定める日から適用し、当該各号に定める日の前日において現に精神保健福祉士法（以下「法」という。）第七条第二号又は第三号の規定による指定を受けている学校又は養成施設（以下「精神保健福祉士養成施設等」という。）において精神保健福祉士として必要な知識及び技能を修得中の者に係る養成課程については、なお従前の例によることができる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">精神保健福祉士養成施設等のうち修業年限が三年を超える期間のもの</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和三年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">精神保健福祉士養成施設等のうち修業年限が二年を超え三年以下の期間のもの</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和四年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">精神保健福祉士養成施設等のうち修業年限が一年を超え二年以下の期間のもの</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和五年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">精神保健福祉士養成施設等のうち修業年限が一年以下の期間のもの</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和六年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">社会福祉士及び介護福祉士法施行規則及び社会福祉士介護福祉士養成施設指定規則の一部を改正する省令（令和二年厚生労働省令第二十七号）による改正前の社会福祉士介護福祉士養成施設指定規則（昭和六十二年厚生省令第五十号）別表第一若しくは別表第三、社会福祉士介護福祉士学校指定規則及び社会福祉に関する科目を定める省令の一部を改正する省令（令和二年／文部科学省／厚生労働省／令第一号）による改正前の社会福祉士介護福祉士学校指定規則（平成二十年／文部科学省／厚生労働省／令第二号）別表第一若しくは別表第三又は社会福祉士介護福祉士学校指定規則及び社会福祉に関する科目を定める省令の一部を改正する省令による改正前の社会福祉に関する科目を定める省令第一条第十八号若しくは第三条第十五号に規定する相談援助実習を履修した者は、第三条による改正後の指定規則別表第一備考六及び別表第三備考六の規定の適用については、社会福祉士介護福祉士養成施設指定規則別表第一若しくは別表第三、社会福祉士介護福祉士学校指定規則別表第一若しくは別表第三又は社会福祉に関する科目を定める省令第一条第二十三号若しくは第三条第十八号に規定するソーシャルワーク実習を履修した者とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の日以後にこの省令による改正前の指定規則第五条又は第六条に規定する指定基準を満たす精神保健福祉士養成施設等について法第七条第二号又は第三号の規定による指定を受けようとする者が指定規則第三条の規定による指定の申請を行うときは、この省令による改正後の指定規則（以下「新指定規則」という。）第三条第一項第十号の規定は、同号中「別表第一又は別表第三に規定するソーシャルワーク実習」とあるのは、「精神保健福祉士法施行規則等の一部を改正する省令（令和二年厚生労働省令第二十八号）第二条による改正前のこの省令別表第一又は別表第三に規定する精神保健福祉援助実習」と読み替えて適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定は、この省令による改正前の指定規則第五条又は第六条に規定する指定基準を満たすものとして法第七条第二号又は第三号の規定による指定を受けた精神保健福祉士養成施設等の設置者が、この省令の施行の日以後にこの省令による改正前の指定規則第五条又は第六条に規定する指定基準に基づき新指定規則第四条第二項の規定により同令第三条第一項第十号に掲げる事項に係る変更の届出を行うときについて、準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（準備行為）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法第七条第二号及び第三号の規定による指定及びこれに関し必要な手続その他の行為は、附則第一条第二項各号に規定する新指定規則の規定の適用前においても、新指定規則の規定の例により行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第五条、第六条関係）</RelatedArticleNum>
@@ -1154,7 +1276,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">人体の構造と機能及び疾病</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医学概論</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1165,7 +1287,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">心理学理論と心理的支援</Sentence>
+              <Sentence Num="1" WritingMode="vertical">心理学と心理的支援</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1176,7 +1298,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">社会理論と社会システム</Sentence>
+              <Sentence Num="1" WritingMode="vertical">社会学と社会システム</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1187,7 +1309,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">現代社会と福祉</Sentence>
+              <Sentence Num="1" WritingMode="vertical">社会福祉の原理と政策</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1198,7 +1320,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">地域福祉の理論と方法</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地域福祉と包括的支援体制</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1220,7 +1342,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">低所得者に対する支援と生活保護制度</Sentence>
+              <Sentence Num="1" WritingMode="vertical">障害者福祉</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1231,7 +1353,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">福祉行財政と福祉計画</Sentence>
+              <Sentence Num="1" WritingMode="vertical">権利擁護を支える法制度</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1242,7 +1364,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">保健医療サービス</Sentence>
+              <Sentence Num="1" WritingMode="vertical">刑事司法と福祉</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1253,7 +1375,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">権利擁護と成年後見制度</Sentence>
+              <Sentence Num="1" WritingMode="vertical">社会福祉調査の基礎</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1264,7 +1386,29 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">障害者に対する支援と障害者自立支援制度</Sentence>
+              <Sentence Num="1" WritingMode="vertical">精神医学と精神医療</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">現代の精神保健の課題と支援</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワークの基盤と専門職</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1275,7 +1419,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神疾患とその治療</Sentence>
+              <Sentence Num="1" WritingMode="vertical">精神保健福祉の原理</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
@@ -1286,7 +1430,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健の課題と支援</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワークの理論と方法</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
@@ -1297,7 +1441,40 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉相談援助の基盤（基礎）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワークの理論と方法（専門）</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">精神障害リハビリテーション論</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">三〇</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">三〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">精神保健福祉制度論</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">三〇</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">三〇</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワーク演習</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1308,73 +1485,18 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉相談援助の基盤（専門）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワーク演習（専門）</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">九〇</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉の理論と相談援助の展開</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一二〇</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一二〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">九〇</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉に関する制度とサービス</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神障害者の生活支援システム</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三〇</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉援助演習（基礎）</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉援助演習（専門）</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉援助実習指導</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワーク実習指導</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">九〇</Sentence>
@@ -1385,7 +1507,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉援助実習</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワーク実習</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">二一〇</Sentence>
@@ -1399,7 +1521,7 @@
               <Sentence Num="1" WritingMode="vertical">合計</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">七二〇</Sentence>
+              <Sentence Num="1" WritingMode="vertical">七五〇</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">一，二〇〇</Sentence>
@@ -1408,8 +1530,22 @@
         </Table>
         <Remarks>
           <RemarksLabel>備考</RemarksLabel>
-          <Sentence WritingMode="vertical">一　学校教育法に基づく大学若しくは高等専門学校、職業能力開発促進法（昭和四十四年法律第六十四号）第十五条の七第一項各号に掲げる施設若しくは同法第二十七条第一項に規定する職業能力開発総合大学校又は厚生労働大臣の定める学校、文教研修施設若しくは養成所において既に履修した科目については、当該科目の履修の状況に応じ、合計の項の時間数の欄に定める時間数の二分の一を超えない範囲で、その時間数の全部又は一部を免除することができる。</Sentence>
-          <Sentence WritingMode="vertical">二　指定施設において一年以上相談援助の業務に従事した後、入学又は入所する者については、精神保健福祉援助実習指導及び精神保健福祉援助実習は免除するものとする。</Sentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1">ソーシャルワーク実習は、実習施設等を利用して行わなければならない。</Sentence>
+                <Sentence Num="2">二</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1">学校教育法に基づく大学若しくは高等専門学校、職業能力開発促進法（昭和四十四年法律第六十四号）第十五条の七第一項各号に掲げる施設若しくは同法第二十七条第一項に規定する職業能力開発総合大学校又は厚生労働大臣の定める学校、文教研修施設若しくは養成所において既に履修した科目については、当該科目の履修の状況に応じ、合計の項の時間数の欄に定める時間数の二分の一を超えない範囲で、その時間数の全部又は一部を免除することができる。</Sentence>
+                <Sentence Num="2">三</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence>指定施設において一年以上相談援助の業務に従事した後、入学又は入所する者については、ソーシャルワーク実習指導及びソーシャルワーク実習は免除するものとする。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Remarks>
       </TableStruct>
     </AppdxTable>
@@ -1496,7 +1632,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">人体の構造と機能及び疾病</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医学概論</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1519,7 +1655,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">心理学理論と心理的支援</Sentence>
+              <Sentence Num="1" WritingMode="vertical">心理学と心理的支援</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1542,7 +1678,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">社会理論と社会システム</Sentence>
+              <Sentence Num="1" WritingMode="vertical">社会学と社会システム</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1565,7 +1701,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">現代社会と福祉</Sentence>
+              <Sentence Num="1" WritingMode="vertical">社会福祉の原理と政策</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1588,7 +1724,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">地域福祉の理論と方法</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地域福祉と包括的支援体制</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1634,7 +1770,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">低所得者に対する支援と生活保護制度</Sentence>
+              <Sentence Num="1" WritingMode="vertical">障害者福祉</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1657,7 +1793,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">福祉行財政と福祉計画</Sentence>
+              <Sentence Num="1" WritingMode="vertical">権利擁護を支える法制度</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1680,7 +1816,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">保健医療サービス</Sentence>
+              <Sentence Num="1" WritingMode="vertical">刑事司法と福祉</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1703,7 +1839,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">権利擁護と成年後見制度</Sentence>
+              <Sentence Num="1" WritingMode="vertical">社会福祉調査の基礎</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1726,30 +1862,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">障害者に対する支援と障害者自立支援制度</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">九〇</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神疾患とその治療</Sentence>
+              <Sentence Num="1" WritingMode="vertical">精神医学と精神医療</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">六</Sentence>
@@ -1772,7 +1885,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健の課題と支援</Sentence>
+              <Sentence Num="1" WritingMode="vertical">現代の精神保健の課題と支援</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">六</Sentence>
@@ -1795,7 +1908,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉相談援助の基盤（基礎）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワークの基盤と専門職</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -1818,53 +1931,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉相談援助の基盤（専門）</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">八一</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">八一</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉の理論と相談援助の展開</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一二</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三二四</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一二</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三二四</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉に関する制度とサービス</Sentence>
+              <Sentence Num="1" WritingMode="vertical">精神保健福祉の原理</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">六</Sentence>
@@ -1887,53 +1954,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神障害者の生活支援システム</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">八一</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">八一</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉援助演習（基礎）</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">三</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">八一</Sentence>
-            </TableColumn>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉援助演習（専門）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワークの理論と方法</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">六</Sentence>
@@ -1956,7 +1977,122 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉援助実習指導</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワークの理論と方法（専門）</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">六</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">一六二</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">六</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">一六二</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">精神障害リハビリテーション論</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">三</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">八一</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">三</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">八一</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">精神保健福祉制度論</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">三</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">八一</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">三</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">八一</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワーク演習</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">三</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">八一</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワーク演習（専門）</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">九</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">二四三</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">九</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">二四三</Sentence>
+            </TableColumn>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderRight="solid">
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワーク実習指導</Sentence>
             </TableColumn>
             <TableColumn BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">九</Sentence>
@@ -1979,7 +2115,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">精神保健福祉援助実習</Sentence>
+              <Sentence Num="1" WritingMode="vertical">ソーシャルワーク実習</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical"/>
@@ -2005,19 +2141,19 @@
               <Sentence Num="1" WritingMode="vertical">合計</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">五一</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五四</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">一，三七七</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一、四五八</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">二一〇</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">五七</Sentence>
+              <Sentence Num="1" WritingMode="vertical">六〇</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
-              <Sentence Num="1" WritingMode="vertical">二，七九九</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二、七九〇</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderRight="solid">
               <Sentence Num="1" WritingMode="vertical">二一〇</Sentence>
@@ -2026,8 +2162,22 @@
         </Table>
         <Remarks>
           <RemarksLabel>備考</RemarksLabel>
-          <Sentence WritingMode="vertical">一　学校教育法に基づく大学若しくは高等専門学校、職業能力開発促進法第十五条の七第一項各号に掲げる施設若しくは同法第二十七条第一項に規定する職業能力開発総合大学校又は厚生労働大臣の定める学校、文教研修施設若しくは養成所において既に履修した科目については、当該科目の履修の状況に応じ、合計の項の時間数の欄に定める時間数の二分の一を超えない範囲で、その時間数の全部又は一部を免除することができる。</Sentence>
-          <Sentence WritingMode="vertical">二　指定施設において一年以上相談援助の業務に従事した後、入学又は入所する者については、精神保健福祉援助実習指導及び精神保健福祉援助実習は免除するものとする。</Sentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1">ソーシャルワーク実習は、実習施設等を利用して行わなければならない。</Sentence>
+                <Sentence Num="2">二</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1">学校教育法に基づく大学若しくは高等専門学校、職業能力開発促進法第十五条の七第一項各号に掲げる施設若しくは同法第二十七条第一項に規定する職業能力開発総合大学校又は厚生労働大臣の定める学校、文教研修施設若しくは養成所において既に履修した科目については、当該科目の履修の状況に応じ、合計の項の時間数の欄に定める時間数の二分の一を超えない範囲で、その時間数の全部又は一部を免除することができる。</Sentence>
+                <Sentence Num="2">三</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence>指定施設において一年以上相談援助の業務に従事した後、入学又は入所する者については、ソーシャルワーク実習指導及びソーシャルワーク実習は免除するものとする。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Remarks>
       </TableStruct>
     </AppdxTable>

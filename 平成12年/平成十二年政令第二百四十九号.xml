@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200508e01k01m02" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="249" Year="12">
+<Law DataInfo="200901e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="249" Year="12">
   <LawNum>平成十二年政令第二百四十九号</LawNum>
   <LawBody>
     <LawTitle>外務省組織令</LawTitle>
@@ -52,15 +52,15 @@
           </TOCSubsection>
           <TOCSubsection Num="8">
             <SubsectionTitle>第八款　経済局</SubsectionTitle>
-            <ArticleRange>（第六十三条―第六十八条）</ArticleRange>
+            <ArticleRange>（第六十三条―第六十七条）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Num="9">
             <SubsectionTitle>第九款　国際協力局</SubsectionTitle>
-            <ArticleRange>（第六十九条―第七十八条）</ArticleRange>
+            <ArticleRange>（第六十八条―第七十七条）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Num="10">
             <SubsectionTitle>第十款　国際法局</SubsectionTitle>
-            <ArticleRange>（第七十九条―第八十三条）</ArticleRange>
+            <ArticleRange>（第七十八条―第八十三条）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Num="11">
             <SubsectionTitle>第十一款　領事局</SubsectionTitle>
@@ -753,7 +753,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence>対外経済関係に関し、日本国政府を代表して行う外国政府との交渉及び協力に関すること。</Sentence>
+                  <Sentence>対外経済関係に関し、日本国政府を代表して行う外国政府との交渉及び協力に関すること（条約その他の国際約束に基づく紛争解決の処理に関するものを除く。）。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -777,7 +777,7 @@
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence>第二号から前号までに掲げるもののほか、対外経済関係に関する対外関係事務の処理及び総括に関すること。</Sentence>
+                  <Sentence>第二号から前号までに掲げるもののほか、対外経済関係に関する対外関係事務の処理及び総括に関すること（条約その他の国際約束に基づく紛争解決の処理に関するものを除く。）。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -922,6 +922,12 @@
               </Item>
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>第三号及び第五号に掲げるもののほか、条約その他の国際約束（経済の分野に係る事項に関するものに限る。）に基づく紛争解決の処理に関すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
                 <ItemSentence>
                   <Sentence>第二号から前号までに掲げるもののほか、条約その他の国際約束及び確立された国際法規並びに日本国政府として処理する必要のある渉外法律事項に関する対外関係事務の処理及び総括に関すること。</Sentence>
                 </ItemSentence>
@@ -3027,7 +3033,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>経済局に、次の五課を置く。</Sentence>
+                  <Sentence>経済局に、次の四課を置く。</Sentence>
                 </ParagraphSentence>
                 <List>
                   <ListSentence>
@@ -3047,11 +3053,6 @@
                 <List>
                   <ListSentence>
                     <Sentence>経済連携課</Sentence>
-                  </ListSentence>
-                </List>
-                <List>
-                  <ListSentence>
-                    <Sentence>経済安全保障課</Sentence>
                   </ListSentence>
                 </List>
               </Paragraph>
@@ -3201,20 +3202,8 @@
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence>次に掲げる条約その他の国際約束の締結の準備及びその実施に関すること（ロに掲げる条約その他の国際約束にあっては、その実施に関するものであって紛争解決の処理に関するものに限る。）。</Sentence>
+                    <Sentence>第一号イ及びロに掲げる事項に関する条約その他の国際約束の締結の準備及びその実施に関すること。</Sentence>
                   </ItemSentence>
-                  <Subitem1 Num="1">
-                    <Subitem1Title>イ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence>第一号イ及びロに掲げる事項に関する条約その他の国際約束</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="2">
-                    <Subitem1Title>ロ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence>経済上の連携に関する条約その他の国際約束及び投資に関する条約その他の国際約束</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
                 </Item>
                 <Item Num="6">
                   <ItemTitle>六</ItemTitle>
@@ -3277,7 +3266,7 @@
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence>経済上の連携に関する条約その他の国際約束の締結の準備及びその実施に関すること（国際貿易課の所掌に属するものを除く。）。</Sentence>
+                    <Sentence>経済上の連携に関する条約その他の国際約束の締結の準備及びその実施に関すること。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="6">
@@ -3288,70 +3277,12 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="68">
-              <ArticleCaption>（経済安全保障課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第六十八条</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence>経済安全保障課は、次に掲げる事務をつかさどる。</Sentence>
-                </ParagraphSentence>
-                <Item Num="1">
-                  <ItemTitle>一</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>次に掲げる事項に関する対外経済関係のうち日本国の安全保障に関連するものに係る外交政策に関すること。</Sentence>
-                  </ItemSentence>
-                  <Subitem1 Num="1">
-                    <Subitem1Title>イ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence>エネルギー資源その他の資源</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                  <Subitem1 Num="2">
-                    <Subitem1Title>ロ</Subitem1Title>
-                    <Subitem1Sentence>
-                      <Sentence>海洋の開発及び利用</Sentence>
-                    </Subitem1Sentence>
-                  </Subitem1>
-                </Item>
-                <Item Num="2">
-                  <ItemTitle>二</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>前号イ及びロに掲げる事項に関する対外経済関係のうち日本国の安全保障に関連するものに関し、日本国政府を代表して行う外国政府との交渉及び協力に関すること。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="3">
-                  <ItemTitle>三</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>第一号イ及びロに掲げる事項に関する対外経済関係のうち日本国の安全保障に関連するものに関し、日本国政府を代表して行う国際機関等への参加及び国際機関等との協力に関すること。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="4">
-                  <ItemTitle>四</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>日本国民の海外における法律上又は経済上の利益その他の利益の保護及び増進に関すること（第一号イ及びロに掲げる事項に関する対外経済関係のうち日本国の安全保障に関連するものに関するものに限る。）。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="5">
-                  <ItemTitle>五</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>第一号イ及びロに掲げる事項に関する対外経済関係のうち日本国の安全保障に関連するものに関する条約その他の国際約束の締結の準備及びその実施に関すること。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="6">
-                  <ItemTitle>六</ItemTitle>
-                  <ItemSentence>
-                    <Sentence>第一号イ及びロに掲げる事項に関する対外経済関係のうち日本国の安全保障に関連するものに係る国際経済事情に関する調査を行うこと。</Sentence>
-                  </ItemSentence>
-                </Item>
-              </Paragraph>
-            </Article>
           </Subsection>
           <Subsection Num="9">
             <SubsectionTitle>第九款　国際協力局</SubsectionTitle>
-            <Article Num="69">
+            <Article Num="68">
               <ArticleCaption>（国際協力局に置く課）</ArticleCaption>
-              <ArticleTitle>第六十九条</ArticleTitle>
+              <ArticleTitle>第六十八条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -3404,9 +3335,9 @@
                 </List>
               </Paragraph>
             </Article>
-            <Article Num="70">
+            <Article Num="69">
               <ArticleCaption>（政策課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第七十条</ArticleTitle>
+              <ArticleTitle>第六十九条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -3462,9 +3393,9 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="71">
+            <Article Num="70">
               <ArticleCaption>（開発協力総括課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第七十一条</ArticleTitle>
+              <ArticleTitle>第七十条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -3544,9 +3475,9 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="72">
+            <Article Num="71">
               <ArticleCaption>（地球規模課題総括課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第七十二条</ArticleTitle>
+              <ArticleTitle>第七十一条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -3620,9 +3551,9 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="73">
+            <Article Num="72">
               <ArticleCaption>（地球環境課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第七十三条</ArticleTitle>
+              <ArticleTitle>第七十二条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -3654,9 +3585,9 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="74">
+            <Article Num="73">
               <ArticleCaption>（気候変動課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第七十四条</ArticleTitle>
+              <ArticleTitle>第七十三条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -3688,9 +3619,9 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="75">
+            <Article Num="74">
               <ArticleCaption>（緊急・人道支援課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第七十五条</ArticleTitle>
+              <ArticleTitle>第七十四条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -3728,9 +3659,9 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="76">
+            <Article Num="75">
               <ArticleCaption>（国別開発協力第一課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第七十六条</ArticleTitle>
+              <ArticleTitle>第七十五条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -3798,9 +3729,9 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="77">
+            <Article Num="76">
               <ArticleCaption>（国別開発協力第二課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第七十七条</ArticleTitle>
+              <ArticleTitle>第七十六条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -3862,9 +3793,9 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="78">
+            <Article Num="77">
               <ArticleCaption>（国別開発協力第三課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第七十八条</ArticleTitle>
+              <ArticleTitle>第七十七条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -3929,13 +3860,13 @@
           </Subsection>
           <Subsection Num="10">
             <SubsectionTitle>第十款　国際法局</SubsectionTitle>
-            <Article Num="79">
+            <Article Num="78">
               <ArticleCaption>（国際法局に置く課等）</ArticleCaption>
-              <ArticleTitle>第七十九条</ArticleTitle>
+              <ArticleTitle>第七十八条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>国際法局に、次の三課及び社会条約官一人を置く。</Sentence>
+                  <Sentence>国際法局に、次の四課及び社会条約官一人を置く。</Sentence>
                 </ParagraphSentence>
                 <List>
                   <ListSentence>
@@ -3952,11 +3883,16 @@
                     <Sentence>経済条約課</Sentence>
                   </ListSentence>
                 </List>
+                <List>
+                  <ListSentence>
+                    <Sentence>経済紛争処理課</Sentence>
+                  </ListSentence>
+                </List>
               </Paragraph>
             </Article>
-            <Article Num="80">
+            <Article Num="79">
               <ArticleCaption>（国際法課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第八十条</ArticleTitle>
+              <ArticleTitle>第七十九条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
@@ -3971,7 +3907,7 @@
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence>国際法に係る外交政策に関すること（条約課及び経済条約課並びに社会条約官の所掌に属するものを除く。）。</Sentence>
+                    <Sentence>国際法に係る外交政策に関すること（他課及び社会条約官の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
@@ -4006,13 +3942,13 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="81">
+            <Article Num="80">
               <ArticleCaption>（条約課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第八十一条</ArticleTitle>
+              <ArticleTitle>第八十条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>条約課は、次に掲げる事務（経済条約課及び社会条約官の所掌に属するものを除く。）をつかさどる。</Sentence>
+                  <Sentence>条約課は、次に掲げる事務（経済条約課及び経済紛争処理課並びに社会条約官の所掌に属するものを除く。）をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -4040,13 +3976,13 @@
                 </Item>
               </Paragraph>
             </Article>
-            <Article Num="82">
+            <Article Num="81">
               <ArticleCaption>（経済条約課の所掌事務）</ArticleCaption>
-              <ArticleTitle>第八十二条</ArticleTitle>
+              <ArticleTitle>第八十一条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>経済条約課は、次に掲げる事務をつかさどる。</Sentence>
+                  <Sentence>経済条約課は、次に掲げる事務（経済紛争処理課の所掌に属するものを除く。）をつかさどる。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -4070,6 +4006,28 @@
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
                     <Sentence>前二号に掲げるもののほか、条約その他の国際約束（経済又は経済協力の分野に係る事項に関するものに限る。）に関する対外関係事務の処理及び総括に関すること。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Num="82">
+              <ArticleCaption>（経済紛争処理課の所掌事務）</ArticleCaption>
+              <ArticleTitle>第八十二条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>経済紛争処理課は、次に掲げる事務をつかさどる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>国際法に係る外交政策に関すること（条約その他の国際約束（経済の分野に係る事項に関するものに限る。）に基づく紛争解決に関することに限る。）。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence>条約その他の国際約束（経済の分野に係る事項に関するものに限る。）に基づく紛争解決の処理に関すること（国際法課の所掌に属するものを除く。）。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -4470,7 +4428,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国際協力局開発協力総括課は、第七十一条各号に掲げる事務のほか、当分の間、独立行政法人国際協力機構の行う独立行政法人国際協力機構法（平成十四年法律第百三十六号）附則第三条第一項第一号から第三号までに掲げる業務に関する事務をつかさどる。</Sentence>
+            <Sentence>国際協力局開発協力総括課は、第七十条各号に掲げる事務のほか、当分の間、独立行政法人国際協力機構の行う独立行政法人国際協力機構法（平成十四年法律第百三十六号）附則第三条第一項第一号から第三号までに掲げる業務に関する事務をつかさどる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4819,6 +4777,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月三一日政令第二三二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年八月三日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
