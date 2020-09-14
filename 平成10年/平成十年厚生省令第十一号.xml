@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200511e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="11" Year="10">
+<Law DataInfo="200407e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="11" Year="10">
   <LawNum>平成十年厚生省令第十一号</LawNum>
   <LawBody>
     <LawTitle>精神保健福祉士法施行規則</LawTitle>
@@ -228,7 +228,7 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">市役所、区役所又は町村役場（精神障害者（障害者の日常生活及び社会生活を総合的に支援するための法律（平成十七年法律第百二十三号）第四条第一項に規定する精神障害者をいう。以下同じ。）に対してサービスを提供する部署に限る。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">市役所、区役所又は町村役場（精神障害者（精神保健及び精神障害者福祉に関する法律（昭和二十五年法律第百二十三号）第五条に規定する精神障害者（発達障害者支援法（平成十六年法律第百六十七号）第二条第二項に規定する発達障害者を含み、知的障害者福祉法（昭和三十五年法律第三十七号）にいう知的障害者を除く。）をいう。以下同じ。）に対してサービスを提供する部署に限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="3">
@@ -240,19 +240,19 @@
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">児童福祉法（昭和二十二年法律第百六十四号）に規定する障害児通所支援事業（医療型児童発達支援を除く。）又は障害児相談支援事業を行う施設、乳児院、児童相談所、母子生活支援施設、児童養護施設、福祉型障害児入所施設、児童心理治療施設、児童自立支援施設又は児童家庭支援センター（いずれも精神障害者に対してサービスを提供するものに限る。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">児童福祉法（昭和二十二年法律第百六十四号）に規定する障害児通所支援事業（医療型児童発達支援を除く。）若しくは障害児相談支援事業を行う施設、児童自立生活援助事業を行う施設、乳児院、児童相談所、母子生活支援施設、児童養護施設、福祉型障害児入所施設、児童心理治療施設、児童自立支援施設又は児童家庭支援センター（いずれも精神障害者に対してサービスを提供するものに限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">医療法（昭和二十三年法律第二百五号）に規定する病院又は診療所（精神病床を有するもの又は精神科若しくは心療内科の広告をしているものに限る。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医療法（昭和二十三年法律第二百五号）に規定する病院又は診療所（精神病床を有するもの又は同法第八条若しくは医療法施行令（昭和二十三年政令第三百二十六号）第四条の二の規定により精神科若しくは心療内科を担当診療科名として届け出ているものに限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">精神保健及び精神障害者福祉に関する法律（昭和二十五年法律第百二十三号）に規定する精神保健福祉センター</Sentence>
+              <Sentence Num="1" WritingMode="vertical">精神保健及び精神障害者福祉に関する法律に規定する精神保健福祉センター</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="7">
@@ -270,7 +270,7 @@
           <Item Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">知的障害者福祉法（昭和三十五年法律第三十七号）に規定する知的障害者更生相談所（精神障害者に対してサービスを提供するものに限る。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">知的障害者福祉法に規定する知的障害者更生相談所（精神障害者に対してサービスを提供するものに限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="10">
@@ -282,23 +282,29 @@
           <Item Num="11">
             <ItemTitle>十一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">法務省設置法（平成十一年法律第九十三号）に規定する保護観察所又は更生保護事業法（平成七年法律第八十六号）に規定する更生保護施設（精神障害者に対してサービスを提供するものに限る。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">介護保険法（平成九年法律第百二十三号）に規定する地域包括支援センター（精神障害者に対してサービスを提供するものに限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="12">
             <ItemTitle>十二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">発達障害者支援法（平成十六年法律第百六十七号）に規定する発達障害者支援センター（精神障害者に対してサービスを提供するものに限る。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法務省設置法（平成十一年法律第九十三号）に規定する保護観察所又は更生保護事業法（平成七年法律第八十六号）に規定する更生保護施設（精神障害者に対してサービスを提供するものに限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="13">
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">障害者の日常生活及び社会生活を総合的に支援するための法律に規定する障害福祉サービス事業（生活介護、短期入所、重度障害者等包括支援、自立訓練、就労移行支援、就労継続支援、就労定着支援、自立生活援助又は共同生活援助を行うものに限る。）、一般相談支援事業若しくは特定相談支援事業を行う施設、障害者支援施設、地域活動支援センター又は福祉ホーム（いずれも精神障害者に対してサービスを提供するものに限る。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">発達障害者支援法に規定する発達障害者支援センター（精神障害者に対してサービスを提供するものに限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="14">
             <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">障害者の日常生活及び社会生活を総合的に支援するための法律（平成十七年法律第百二十三号）に規定する障害福祉サービス事業（生活介護、短期入所、重度障害者等包括支援、自立訓練、就労移行支援、就労継続支援、就労定着支援、自立生活援助又は共同生活援助を行うものに限る。）、一般相談支援事業若しくは特定相談支援事業を行う施設、障害者支援施設、地域活動支援センター、福祉ホーム又は基幹相談支援センター（いずれも精神障害者に対してサービスを提供するものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="15">
+            <ItemTitle>十五</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">前各号に掲げる施設に準ずる施設として厚生労働大臣が定める施設（精神障害者に対してサービスを提供するものに限る。）</Sentence>
             </ItemSentence>
@@ -1001,7 +1007,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この省令の施行の前に第一条による改正前の精神保健福祉士法施行規則第二条第六号に規定する相談支援事業を行う施設において相談援助の業務に従事した者については、当該業務に従事した期間に限り、第一条の規定による改正後の精神保健福祉士法施行規則第二条第十三号に規定する施設において相談援助の業務に従事した者とみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の前に第一条による改正前の精神保健福祉士法施行規則第二条第六号に規定する相談支援事業を行う施設において相談援助の業務に従事した者については、当該業務に従事した期間に限り、第一条の規定による改正後の精神保健福祉士法施行規則第二条第十四号に規定する施設において相談援助の業務に従事した者とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1011,7 +1017,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この省令の施行の前に障がい者制度改革推進本部等における検討を踏まえて障害保健福祉施策を見直すまでの間において障害者等の地域生活を支援するための関係法律の整備に関する法律（平成二十二年法律第七十一号。以下「改正法」という。）による改正前の障害者自立支援法（平成十七年法律第百二十三号）に規定する障害福祉サービス事業（児童デイサービスを行うものに限る。）を行う施設において相談援助の業務に従事した者については、当該業務に従事した期間に限り、第一条の規定による改正後の精神保健福祉士法施行規則第二条第十三号に規定する施設において相談援助の業務に従事した者とみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の前に障がい者制度改革推進本部等における検討を踏まえて障害保健福祉施策を見直すまでの間において障害者等の地域生活を支援するための関係法律の整備に関する法律（平成二十二年法律第七十一号。以下「改正法」という。）による改正前の障害者自立支援法（平成十七年法律第百二十三号）に規定する障害福祉サービス事業（児童デイサービスを行うものに限る。）を行う施設において相談援助の業務に従事した者については、当該業務に従事した期間に限り、第一条の規定による改正後の精神保健福祉士法施行規則第二条第十四号に規定する施設において相談援助の業務に従事した者とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1211,7 +1217,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この省令の施行の前に第十条による改正前の精神保健福祉士法施行規則第二条第十三号に規定する共同生活介護を行う施設において相談援助の業務に従事した者については、当該業務に従事した期間に限り、第十条の規定による改正後の精神保健福祉士法施行規則第二条第十三号に規定する施設において相談援助の業務に従事した者とみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の前に第十条による改正前の精神保健福祉士法施行規則第二条第十三号に規定する共同生活介護を行う施設において相談援助の業務に従事した者については、当該業務に従事した期間に限り、第十条の規定による改正後の精神保健福祉士法施行規則第二条第十四号に規定する施設において相談援助の業務に従事した者とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1439,12 +1445,73 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月六日厚生労働省令第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中精神保健福祉士法施行規則（以下「施行規則」という。）第二条の改正規定、第三条の規定、第四条中精神保健福祉士法施行規則及び精神保健福祉士短期養成施設等及び精神保健福祉士一般養成施設等指定規則の一部を改正する省令附則第三条及び第四条の改正規定並びに第五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和二年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中施行規則第五条及び第六条の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和六年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定による改正後の施行規則（以下「新施行規則」という。）第二条の規定は、同条の規定の施行の日前に同条に規定する児童自立生活援助事業を行う施設、地域包括支援センター又は基幹相談支援センターにおいて相談援助の業務に従事した者についても適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新施行規則様式第二の規定の施行の際現にあるこの省令による改正前の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新施行規則様式第二の規定の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000028631.pdf"/>
+          <Fig src="./pict/_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1453,7 +1520,7 @@
       <RelatedArticleNum>（第１１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000030600.pdf"/>
+          <Fig src="./pict/_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1462,7 +1529,7 @@
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000028635.pdf"/>
+          <Fig src="./pict/_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1471,7 +1538,7 @@
       <RelatedArticleNum>（第１４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000028634.pdf"/>
+          <Fig src="./pict/_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
