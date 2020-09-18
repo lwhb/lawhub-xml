@@ -708,6 +708,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年九月六日経済産業省令第五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成三十一年二月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第四条第一項関係）</RelatedArticleNum>
@@ -1166,712 +1175,712 @@
       <AppdxTableTitle WritingMode="vertical">別表第一の三</AppdxTableTitle>
       <RelatedArticleNum>（第四条第二項関係）</RelatedArticleNum>
       <TableStruct>
-        <Table>
+        <Table WritingMode="vertical">
           <TableRow>
-            <TableColumn>
-              <Sentence>特定計量器</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">特定計量器</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>一件についての減ずる金額</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一件についての減ずる金額</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>一　タクシーメーター</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一　タクシーメーター</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>１　耐久性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　耐久性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>四万八千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">四万八千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>２　耐振動性に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　耐振動性に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>六万二千円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">六万二千円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>３　温度の影響に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３　温度の影響に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万六千二百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万六千二百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>４　放射無線周波電磁界イミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">４　放射無線周波電磁界イミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>５　４に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５　４に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>四万千六百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">四万千六百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>６　ソフトウェア制御の電子装置の追加要件試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">６　ソフトウェア制御の電子装置の追加要件試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>八万二千七百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">八万二千七百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>７　１から６までに掲げる試験以外の試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">７　１から６までに掲げる試験以外の試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十四万二百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十四万二百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>中欄３及び中欄７に掲げる試験を行う必要がない型式にあっては、十五万三千百円とする。</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical">中欄３及び中欄７に掲げる試験を行う必要がない型式にあっては、十五万三千百円とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>二　非自動はかり</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二　非自動はかり</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>イ　ひょう量が二トン以下のものであって、検出部が電気式のもの</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">イ　ひょう量が二トン以下のものであって、検出部が電気式のもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>１　耐久性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　耐久性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>五万五千四百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">五万五千四百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>２　温湿度の影響に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　温湿度の影響に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十七万五千四百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十七万五千四百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>３　一定時間が経過した後の状態の確認を要する試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３　一定時間が経過した後の状態の確認を要する試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十三万四千円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十三万四千円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>４　スパン安定性に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">４　スパン安定性に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十四万四千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十四万四千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>５　放射無線周波電磁界イミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５　放射無線周波電磁界イミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>６　無線周波電磁界によって誘導する伝導妨害に対するイミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">６　無線周波電磁界によって誘導する伝導妨害に対するイミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>五万四千四百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">五万四千四百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>７　サージイミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">７　サージイミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>三万八千六百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三万八千六百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>８　５から７までに掲げる試験以外の電磁環境の影響に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">８　５から７までに掲げる試験以外の電磁環境の影響に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>七万五千五百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">七万五千五百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>９　ソフトウェア制御の電子装置の追加要件試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">９　ソフトウェア制御の電子装置の追加要件試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>八万二千七百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">八万二千七百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>中欄２及び中欄３に掲げる試験を行う必要がない型式にあっては、二十一万六千七百円とする。</Sentence>
-              <Sentence>中欄２及び中欄４に掲げる試験を行う必要がない型式にあっては、二十二万七千百円とする。</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical">中欄２及び中欄３に掲げる試験を行う必要がない型式にあっては、二十一万六千七百円とする。</Sentence>
+              <Sentence WritingMode="vertical">中欄２及び中欄４に掲げる試験を行う必要がない型式にあっては、二十二万七千百円とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>ロ　ひょう量が二トンを超えるもの</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">ロ　ひょう量が二トンを超えるもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>１　アナログロードセルの性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　アナログロードセルの性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>三十四万千八百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三十四万千八百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>２　デジタルロードセルの性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　デジタルロードセルの性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>五十六万九千二百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">五十六万九千二百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>３　指示計及びアナログデータ処理装置の性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３　指示計及びアナログデータ処理装置の性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>四十二万九千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">四十二万九千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>４　ターミナル及びデジタルデータ処理装置の性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">４　ターミナル及びデジタルデータ処理装置の性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>二十万二千八百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十万二千八百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>三　体積計</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三　体積計</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>イ　水道メーター又は温水メーター</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">イ　水道メーター又は温水メーター</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（１）　表示機構が電気式のもの</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">（１）　表示機構が電気式のもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>１　耐久性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　耐久性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十五万八千六百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十五万八千六百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>２　放射無線周波電磁界イミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　放射無線周波電磁界イミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>３　サージイミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３　サージイミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>三万八千六百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三万八千六百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>４　２及び３に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">４　２及び３に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十一万四千四百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十一万四千四百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>５　１から４までに掲げる試験以外の試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５　１から４までに掲げる試験以外の試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>八万五千七百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">八万五千七百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>中欄１及び中欄５に掲げる試験を行う必要がない型式にあっては、十八万五千三百円とする。</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical">中欄１及び中欄５に掲げる試験を行う必要がない型式にあっては、十八万五千三百円とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（２）　（１）に掲げるもの以外のもの</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">（２）　（１）に掲げるもの以外のもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>１　耐久性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　耐久性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十五万五千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十五万五千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>２　１に掲げる試験以外の試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　１に掲げる試験以外の試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>八万二千五百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">八万二千五百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>ロ　燃料油メーター</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">ロ　燃料油メーター</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（１）　使用最大流量が一リットル毎分以下のもの</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">（１）　使用最大流量が一リットル毎分以下のもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>１　耐久性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　耐久性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十三万三千八百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十三万三千八百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>２　放射無線周波電磁界イミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　放射無線周波電磁界イミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>３　２に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３　２に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>六万六千七百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">六万六千七百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>４　１から３までに掲げる試験以外の試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">４　１から３までに掲げる試験以外の試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十万七千九百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十万七千九百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>中欄１及び中欄４に掲げる試験を行う必要がない型式にあっては、十三万九千円とする。</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical">中欄１及び中欄４に掲げる試験を行う必要がない型式にあっては、十三万九千円とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（２）　充塡機構その他第六条で定める器具、機械又は装置と構造上一体となっているもの</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">（２）　充塡機構その他第六条で定める器具、機械又は装置と構造上一体となっているもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>１　耐久性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　耐久性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万五千百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万五千百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>２　放射無線周波電磁界イミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　放射無線周波電磁界イミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>３　２に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３　２に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>九万七千八百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">九万七千八百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>４　１から３までに掲げる試験以外の試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">４　１から３までに掲げる試験以外の試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十九万七千五百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十九万七千五百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>中欄１及び中欄４に掲げる試験を行う必要がない型式にあっては、二十三万八千九百円とする。</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical">中欄１及び中欄４に掲げる試験を行う必要がない型式にあっては、二十三万八千九百円とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（３）　（１）又は（２）に掲げるもの以外のもの</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">（３）　（１）又は（２）に掲げるもの以外のもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>１　耐久性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　耐久性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>八万六千六百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">八万六千六百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>２　電磁環境の影響に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　電磁環境の影響に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>七万七千百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">七万七千百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>３　１及び２に掲げる試験以外の試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３　１及び２に掲げる試験以外の試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万二千八百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万二千八百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>中欄１及び中欄３に掲げる試験を行う必要がない型式にあっては、十六万四千二百円とする。</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical">中欄１及び中欄３に掲げる試験を行う必要がない型式にあっては、十六万四千二百円とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>ハ　液化石油ガスメーター</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">ハ　液化石油ガスメーター</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>１　耐久性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　耐久性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万五千百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万五千百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>２　放射無線周波電磁界イミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　放射無線周波電磁界イミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>３　２に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３　２に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>九万七千八百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">九万七千八百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>４　１から３までに掲げる試験以外の試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">４　１から３までに掲げる試験以外の試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十九万七千五百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十九万七千五百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>中欄１及び中欄４に掲げる試験を行う必要がない型式にあっては、二十三万八千九百円とする。</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical">中欄１及び中欄４に掲げる試験を行う必要がない型式にあっては、二十三万八千九百円とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>ニ　ガスメーター</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">ニ　ガスメーター</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（１）　表示機構が電気式のもの</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">（１）　表示機構が電気式のもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>１　耐久性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　耐久性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十六万四千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十六万四千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>２　放射無線周波電磁界イミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　放射無線周波電磁界イミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>３　サージイミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３　サージイミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>三万八千六百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三万八千六百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>４　２及び３に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">４　２及び３に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>九万七千四百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">九万七千四百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>５　１から４までに掲げる試験以外の試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５　１から４までに掲げる試験以外の試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>二十五万五千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十五万五千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>中欄１及び中欄５に掲げる試験を行う必要がない型式にあっては、二十六万五千七百円とする。</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical">中欄１及び中欄５に掲げる試験を行う必要がない型式にあっては、二十六万五千七百円とする。</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>（２）　（１）に掲げるもの以外のもの</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">（２）　（１）に掲げるもの以外のもの</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>１　耐久性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　耐久性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万二千四百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万二千四百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>２　１に掲げる試験以外の試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　１に掲げる試験以外の試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>二十万七千円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二十万七千円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence>四　積算熱量計</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">四　積算熱量計</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>１　耐久性能に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１　耐久性能に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>四十四万四千二百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">四十四万四千二百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>２　放射無線周波電磁界イミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２　放射無線周波電磁界イミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十二万千三百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二万千三百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>３　サージイミュニティ試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３　サージイミュニティ試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>三万八千六百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三万八千六百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>４　２及び３に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">４　２及び３に掲げる試験以外の電磁環境の影響に係る試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>九万九千七百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">九万九千七百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn>
-              <Sentence/>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
-            <TableColumn>
-              <Sentence>５　１から４までに掲げる試験以外の試験</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５　１から４までに掲げる試験以外の試験</Sentence>
             </TableColumn>
-            <TableColumn>
-              <Sentence>十一万二千七百円</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十一万二千七百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn colspan="3">
-              <Sentence>中欄１及び中欄４に掲げる試験を行う必要がない型式にあっては、五十一万四千九百円とする。</Sentence>
-              <Sentence>中欄１及び中欄５に掲げる試験を行う必要がない型式にあっては、四十五万五千四百円とする。</Sentence>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence WritingMode="vertical">中欄１及び中欄４に掲げる試験を行う必要がない型式にあっては、五十一万四千九百円とする。</Sentence>
+              <Sentence WritingMode="vertical">中欄１及び中欄５に掲げる試験を行う必要がない型式にあっては、四十五万五千四百円とする。</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -2342,7 +2351,7 @@
               <Sentence WritingMode="vertical">イ　基準密度浮ひょう</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一万千七百円</Sentence>
+              <Sentence WritingMode="vertical">三万四千七百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2350,7 +2359,7 @@
               <Sentence WritingMode="vertical">ロ　液化石油ガス用基準浮ひょう型密度計</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一万九千八百円</Sentence>
+              <Sentence WritingMode="vertical">二万七千円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2380,6 +2389,14 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">一万六千九百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">ハ　血圧計用基準圧力計</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三十九万七千七百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2493,7 +2510,7 @@
               <Sentence WritingMode="vertical">十一　濃度基準器</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一万千七百円</Sentence>
+              <Sentence WritingMode="vertical">一万九千二百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2509,7 +2526,7 @@
               <Sentence WritingMode="vertical">イ　目量が〇・〇〇一未満のもの又は〇・一重ボーメ度未満のもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">一万千七百円</Sentence>
+              <Sentence WritingMode="vertical">三万四千七百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2517,7 +2534,7 @@
               <Sentence WritingMode="vertical">ロ　イに掲げるもの以外のもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">三千九百五十円</Sentence>
+              <Sentence WritingMode="vertical">二万九千二百円</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -2583,26 +2600,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">表す質量が二百グラムを超えるもの</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">四千四百五十円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">三　基準ガラス製温度計</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical"/>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">イ　計ることができる温度が零下三度を超え百三度以下のもの</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">三千百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2615,7 +2616,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">四　体積基準器（基準フラスコ、基準ビュレット、基準湿式ガスメーターのうち計量室における一周期の計量作用により計ることができるガスの体積が二十リットル以下のもの、基準タンク及びガスメーター用基準体積管を除く。）</Sentence>
+              <Sentence WritingMode="vertical">四　体積基準器（基準ビュレット、基準湿式ガスメーターのうち計量室における一周期の計量作用により計ることができるガスの体積が二十リットル以下のもの、基準タンク及びガスメーター用基準体積管を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical"/>
@@ -2623,7 +2624,15 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">イ　基準積算体積計</Sentence>
+              <Sentence WritingMode="vertical">イ　基準フラスコ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二千七百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">ロ　基準積算体積計</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical"/>
@@ -2703,7 +2712,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">ロ　液体メーター用基準体積管</Sentence>
+              <Sentence WritingMode="vertical">ハ　液体メーター用基準体積管</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">四千六百五十円</Sentence>
@@ -2722,7 +2731,7 @@
               <Sentence WritingMode="vertical">イ　基準密度浮ひょう</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二千五百五十円</Sentence>
+              <Sentence WritingMode="vertical">四千九百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2730,7 +2739,7 @@
               <Sentence WritingMode="vertical">ロ　液化石油ガス用基準浮ひょう型密度計</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二千九百円</Sentence>
+              <Sentence WritingMode="vertical">五千二百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2760,6 +2769,14 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">九千四百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">ハ　血圧計用基準圧力計</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二万百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2873,7 +2890,7 @@
               <Sentence WritingMode="vertical">十一　濃度基準器</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二千五百五十円</Sentence>
+              <Sentence WritingMode="vertical">四千九百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2889,7 +2906,7 @@
               <Sentence WritingMode="vertical">イ　目量が〇・〇〇一未満のもの又は〇・一重ボーメ度未満のもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二千五百五十円</Sentence>
+              <Sentence WritingMode="vertical">四千九百円</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2897,7 +2914,7 @@
               <Sentence WritingMode="vertical">ロ　イに掲げるもの以外のもの</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">二千五十円</Sentence>
+              <Sentence WritingMode="vertical">四千九百円</Sentence>
             </TableColumn>
           </TableRow>
         </Table>

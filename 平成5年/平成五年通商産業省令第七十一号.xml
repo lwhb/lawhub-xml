@@ -207,7 +207,7 @@
           <SectionTitle>第一節　構造に係る技術上の基準</SectionTitle>
           <TOCSubsection Delete="false" Num="1">
             <SubsectionTitle>第一款　通則</SubsectionTitle>
-            <ArticleRange>（第二百六十二条―第二百七十一条）</ArticleRange>
+            <ArticleRange>（第二百六十二条―第二百七十一条の二）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Delete="false" Num="2">
             <SubsectionTitle>第二款　基準密度浮ひょう</SubsectionTitle>
@@ -239,10 +239,14 @@
             <SubsectionTitle>第二款　基準重錘型圧力計</SubsectionTitle>
             <ArticleRange>（第二百九十七条―第三百九条）</ArticleRange>
           </TOCSubsection>
+          <TOCSubsection Delete="false" Num="3">
+            <SubsectionTitle>第三款　血圧計用基準圧力計（第三百九条の二・第三百九条の三）</SubsectionTitle>
+            <ArticleRange>（第三百九条の二・第三百九条の三）</ArticleRange>
+          </TOCSubsection>
         </TOCSection>
         <TOCSection Delete="false" Num="2">
           <SectionTitle>第二節　基準器公差</SectionTitle>
-          <ArticleRange>（第三百十条・第三百十一条）</ArticleRange>
+          <ArticleRange>（第三百十条―第三百十一条の二）</ArticleRange>
         </TOCSection>
         <TOCSection Delete="false" Num="3">
           <SectionTitle>第三節　検査方法</SectionTitle>
@@ -257,6 +261,10 @@
           <TOCSubsection Delete="false" Num="3">
             <SubsectionTitle>第三款　基準重錘型圧力計</SubsectionTitle>
             <ArticleRange>（第三百十五条―第三百十七条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Delete="false" Num="4">
+            <SubsectionTitle>第四款　血圧計用基準圧力計（第三百十七条の二・第三百十七条の三）</SubsectionTitle>
+            <ArticleRange>（第三百十七条の二・第三百十七条の三）</ArticleRange>
           </TOCSubsection>
         </TOCSection>
       </TOCChapter>
@@ -358,7 +366,7 @@
         <ChapterTitle>第十四章　濃度基準器</ChapterTitle>
         <TOCSection Delete="false" Num="1">
           <SectionTitle>第一節　構造に係る技術上の基準</SectionTitle>
-          <ArticleRange>（第三百九十六条―第四百六条）</ArticleRange>
+          <ArticleRange>（第三百九十六条―第四百六条の二）</ArticleRange>
         </TOCSection>
         <TOCSection Delete="false" Num="2">
           <SectionTitle>第二節　基準器公差</SectionTitle>
@@ -375,7 +383,7 @@
           <SectionTitle>第一節　構造に係る技術上の基準</SectionTitle>
           <TOCSubsection Delete="false" Num="1">
             <SubsectionTitle>第一款　通則</SubsectionTitle>
-            <ArticleRange>（第四百十五条―第四百二十四条）</ArticleRange>
+            <ArticleRange>（第四百十五条―第四百二十四条の二）</ArticleRange>
           </TOCSubsection>
           <TOCSubsection Delete="false" Num="2">
             <SubsectionTitle>第二款　基準比重浮ひょう</SubsectionTitle>
@@ -805,6 +813,12 @@
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence WritingMode="vertical">基準重錘型圧力計</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">血圧計用基準圧力計</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -1335,7 +1349,7 @@
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
                       <FigStruct>
-                        <Fig src="./pict/H05F03801000071-001.jpg"/>
+                        <Fig src="./pict/H05F03801000071_2008281508_001.jpg"/>
                       </FigStruct>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -1532,6 +1546,12 @@
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence WritingMode="vertical">基準重錘型圧力計については、本体の見やすい箇所及び重錘の任意の箇所</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">血圧計用基準圧力計については、本体の見やすい箇所</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -1739,6 +1759,22 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">イ　基準液柱圧力計及び基準重錘型圧力計</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">四年</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">ロ　血圧計用基準圧力計</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">一年</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">八　電気基準器</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -1796,6 +1832,12 @@
                 </Table>
               </TableStruct>
             </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定にかかわらず、災害その他やむを得ない事由により第二条の表の下欄に掲げる基準器検査を受けることができる者が前項の表の下欄に掲げる有効期間内に基準器検査を受けることが困難であるときは、当該有効期間は経済産業大臣が当該事由を勘案して定める期間とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="22">
             <ArticleCaption>（基準器検査証印の除去）</ArticleCaption>
@@ -1826,7 +1868,7 @@
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
                       <FigStruct>
-                        <Fig src="./pict/H05F03801000071-002.jpg"/>
+                        <Fig src="./pict/H05F03801000071_2008281508_002.jpg"/>
                       </FigStruct>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2087,7 +2129,7 @@
                 <Sentence WritingMode="vertical">法第百五条第三項の規定により基準器検査成績書に記載する消印は、一辺の長さが三センチメートルの正方形であって次の形状のものとする。</Sentence>
               </ParagraphSentence>
               <FigStruct>
-                <Fig src="./pict/H05F03801000071-003.jpg"/>
+                <Fig src="./pict/H05F03801000071_2008281508_003.jpg"/>
               </FigStruct>
             </Paragraph>
           </Article>
@@ -4205,11 +4247,11 @@
                   </ItemSentence>
                   <FigStruct>
                     <FigStructTitle>図の一</FigStructTitle>
-                    <Fig src="./pict/H05F03801000071-004.jpg"/>
+                    <Fig src="./pict/H05F03801000071_2008281508_004.jpg"/>
                   </FigStruct>
                   <FigStruct>
                     <FigStructTitle>図の二</FigStructTitle>
-                    <Fig src="./pict/H05F03801000071-005.jpg"/>
+                    <Fig src="./pict/H05F03801000071_2008281508_005.jpg"/>
                   </FigStruct>
                 </Item>
                 <Item Delete="false" Hide="false" Num="2">
@@ -4219,11 +4261,11 @@
                   </ItemSentence>
                   <FigStruct>
                     <FigStructTitle>図の一</FigStructTitle>
-                    <Fig src="./pict/H05F03801000071-006.jpg"/>
+                    <Fig src="./pict/H05F03801000071_2008281508_006.jpg"/>
                   </FigStruct>
                   <FigStruct>
                     <FigStructTitle>図の二</FigStructTitle>
-                    <Fig src="./pict/H05F03801000071-007.jpg"/>
+                    <Fig src="./pict/H05F03801000071_2008281508_007.jpg"/>
                   </FigStruct>
                 </Item>
               </Paragraph>
@@ -7989,6 +8031,15 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
+            <Article Delete="false" Hide="false" Num="271_2">
+              <ArticleTitle>第二百七十一条の二</ArticleTitle>
+              <Paragraph Hide="false" Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">密度基準器のけい部に生じる検査液のメニスカスの形が、密度基準器を検査液中の平衡位置から静かに上下に移動させたときに、変化してはならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
           </Subsection>
           <Subsection Delete="false" Hide="false" Num="2">
             <SubsectionTitle>第二款　基準密度浮ひょう</SubsectionTitle>
@@ -8071,14 +8122,32 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">液化石油ガス用基準浮ひょう型密度計の胴部に封入されている温度計は、零度から四十度までの範囲の温度を表す目盛線が付されたものであって、かつ、目量が一度以下のものでなければならない。</Sentence>
+                  <Sentence WritingMode="vertical">液化石油ガス用基準浮ひょう型密度計の胴部に封入されている温度計は、次の各号に掲げる事項に適合するものでなければならない。</Sentence>
                 </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Hide="false" Num="2">
-                <ParagraphNum>２</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence WritingMode="vertical">前項の温度計は、器差が〇・五度を超えるものであってはならない。</Sentence>
-                </ParagraphSentence>
+                <Item Delete="false" Hide="false" Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">零度から四十度までの範囲の温度を表す目盛線が付されたものであること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">目量が一度以下のものであること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">器差が〇・五度を超えないものであること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">毛細管の内壁が著しく汚れ、毛細管の補球部に示度に影響を及ぼす程度の量の感温液が付着し、又は毛細管内に水分、空気及びちり等を含んでいること等のため、温度を計るときに、感温液の液切れ又は誤差を生じないものであること。</Sentence>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
             </Article>
           </Subsection>
@@ -8287,7 +8356,7 @@
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">千キログラム毎立方メートル以下の密度を表す目盛線の器差を算出する場合</Sentence>
+                  <Sentence WritingMode="vertical">検査液の密度以下の密度を表す目盛線の器差を算出する場合</Sentence>
                 </ItemSentence>
                 <List>
                   <ListSentence>
@@ -8306,7 +8375,7 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">Ｐは、検査を行う密度基準器に巻き付けたおもりを針金で特定標準器等に釣り、水中に沈ませたときの重さに釣り合う特定標準器等の質量（キログラム）</Sentence>
+                    <Sentence WritingMode="vertical">Ｐは、検査を行う密度基準器に巻き付けたおもりを針金で特定標準器等に釣り、検査液中に沈ませたときの重さに釣り合う特定標準器等の質量（キログラム）</Sentence>
                   </ListSentence>
                 </List>
                 <List>
@@ -8316,7 +8385,7 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">Ｔは、水の表面張力（ニュートン毎メートル）</Sentence>
+                    <Sentence WritingMode="vertical">Ｔは、検査液の表面張力（ニュートン毎メートル）</Sentence>
                   </ListSentence>
                 </List>
                 <List>
@@ -8326,12 +8395,12 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">ｔは、水の温度</Sentence>
+                    <Sentence WritingMode="vertical">ｔは、検査液の温度</Sentence>
                   </ListSentence>
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">δは、温度ｔのときの水の密度（キログラム毎立方メートル）</Sentence>
+                    <Sentence WritingMode="vertical">δは、温度ｔのときの検査液の密度（キログラム毎立方メートル）</Sentence>
                   </ListSentence>
                 </List>
                 <List>
@@ -8348,7 +8417,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">千キログラム毎立方メートルを超える密度を表す目盛線の器差を算出する場合</Sentence>
+                  <Sentence WritingMode="vertical">検査液の密度を超える密度を表す目盛線の器差を算出する場合</Sentence>
                 </ItemSentence>
                 <List>
                   <ListSentence>
@@ -8362,7 +8431,7 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">Ｗは、質量ωの針金で密度基準器を水中につり、ちょうどその示度がＲを示すようにしたときに釣り合う特定標準器等の質量（キログラム）</Sentence>
+                    <Sentence WritingMode="vertical">Ｗは、質量ωの針金で密度基準器を検査液中につり、ちょうどその示度がＲを示すようにしたときに釣り合う特定標準器等の質量（キログラム）</Sentence>
                   </ListSentence>
                 </List>
               </Item>
@@ -8808,6 +8877,29 @@
               </Paragraph>
             </Article>
           </Subsection>
+          <Subsection Delete="false" Hide="false" Num="3">
+            <SubsectionTitle>第三款　血圧計用基準圧力計（第三百九条の二・第三百九条の三）</SubsectionTitle>
+            <Article Delete="false" Hide="false" Num="309_2">
+              <ArticleCaption>（表記）</ArticleCaption>
+              <ArticleTitle>第三百九条の二</ArticleTitle>
+              <Paragraph Hide="false" Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">血圧計用基準圧力計の表記事項は、日本産業規格Ｔ一一一五（二〇一八）附属書による。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="309_3">
+              <ArticleCaption>（機構及び作用）</ArticleCaption>
+              <ArticleTitle>第三百九条の三</ArticleTitle>
+              <Paragraph Hide="false" Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">血圧計用基準圧力計の機構及び作用は、日本産業規格Ｔ一一一五（二〇一八） 附属書による。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
         </Section>
         <Section Delete="false" Hide="false" Num="2">
           <SectionTitle>第二節　基準器公差</SectionTitle>
@@ -8831,6 +8923,16 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Delete="false" Hide="false" Num="311_2">
+            <ArticleCaption>（血圧計用基準圧力計の基準器公差）</ArticleCaption>
+            <ArticleTitle>第三百十一条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">血圧計用基準圧力計の基準器公差は、日本産業規格Ｔ一一一五（二〇一八） 附属書による。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
         </Section>
         <Section Delete="false" Hide="false" Num="3">
           <SectionTitle>第三節　検査方法</SectionTitle>
@@ -8842,7 +8944,13 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">圧力基準器の検査は、当該圧力基準器を水平に設置した後に、常温で行う。</Sentence>
+                  <Sentence WritingMode="vertical">圧力基準器（血圧計用基準圧力計を除く。）の検査は、当該圧力基準器を水平に設置した後に、常温で行う。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">血圧計用基準圧力計の検査の条件は、日本産業規格Ｔ一一一五（二〇一八）附属書による。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -8952,6 +9060,29 @@
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">基準重錘型圧力計の器差は、その重錘に表記された圧力の値から、その重錘に働く重力の大きさをピストンの断面積のうち最大のもの（ピストンの形状が球形のものにあっては、平均直径から算出した断面積）で除した値を減じて算出する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Delete="false" Hide="false" Num="4">
+            <SubsectionTitle>第四款　血圧計用基準圧力計（第三百十七条の二・第三百十七条の三）</SubsectionTitle>
+            <Article Delete="false" Hide="false" Num="317_2">
+              <ArticleCaption>（機構及び作用の検査）</ArticleCaption>
+              <ArticleTitle>第三百十七条の二</ArticleTitle>
+              <Paragraph Hide="false" Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">血圧計用基準圧力計の機構及び作用の検査は、日本産業規格Ｔ一一一五（二〇一八）附属書による。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="317_3">
+              <ArticleCaption>（器差の検査）</ArticleCaption>
+              <ArticleTitle>第三百十七条の三</ArticleTitle>
+              <Paragraph Hide="false" Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">血圧計用基準圧力計の器差の検査は、日本産業規格Ｔ一一一五（二〇一八） 附属書による。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -10393,6 +10524,15 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Delete="false" Hide="false" Num="406_2">
+            <ArticleTitle>第四百六条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">濃度基準器のけい部に生じる検査液のメニスカスの形が、濃度基準器を検査液中の平衡位置から静かに上下に移動させたときに、変化してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
         </Section>
         <Section Delete="false" Hide="false" Num="2">
           <SectionTitle>第二節　基準器公差</SectionTitle>
@@ -10735,6 +10875,15 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
+            <Article Delete="false" Hide="false" Num="424_2">
+              <ArticleTitle>第四百二十四条の二</ArticleTitle>
+              <Paragraph Hide="false" Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">比重基準器のけい部に生じる検査液のメニスカスの形が、比重基準器を検査液中の平衡位置から静かに上下に移動させたときに、変化してはならない</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
           </Subsection>
           <Subsection Delete="false" Hide="false" Num="2">
             <SubsectionTitle>第二款　基準比重浮ひょう</SubsectionTitle>
@@ -10929,7 +11078,7 @@
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">一以下の比重を表す目盛線の器差を算出する場合</Sentence>
+                  <Sentence WritingMode="vertical">検査液の比重以下の比重を表す目盛線の器差を算出する場合</Sentence>
                 </ItemSentence>
                 <List>
                   <ListSentence>
@@ -10948,7 +11097,7 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">Ｐは、検査を行う比重基準器に巻き付けたおもりを針金で特定標準器等につり、水中に沈ませたときの重さに釣り合う特定標準器等の質量（キログラム）</Sentence>
+                    <Sentence WritingMode="vertical">Ｐは、検査を行う比重基準器に巻き付けたおもりを針金で特定標準器等につり、検査液中に沈ませたときの重さに釣り合う特定標準器等の質量（キログラム）</Sentence>
                   </ListSentence>
                 </List>
                 <List>
@@ -10958,7 +11107,7 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">Ｔは、水の表面張力（ニュートン毎メートル）</Sentence>
+                    <Sentence WritingMode="vertical">Ｔは、検査液の表面張力（ニュートン毎メートル）</Sentence>
                   </ListSentence>
                 </List>
                 <List>
@@ -10968,12 +11117,12 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">ｔは、水の温度</Sentence>
+                    <Sentence WritingMode="vertical">ｔは、検査液の温度</Sentence>
                   </ListSentence>
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">δは、温度ｔのときの水の密度（キログラム毎立方メートル）</Sentence>
+                    <Sentence WritingMode="vertical">δは、温度ｔのときの検査液の密度（キログラム毎立方メートル）</Sentence>
                   </ListSentence>
                 </List>
                 <List>
@@ -10990,7 +11139,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">一を超える比重を表す目盛線の器差を算出する場合</Sentence>
+                  <Sentence WritingMode="vertical">検査液の比重を超える比重を表す目盛線の器差を算出する場合</Sentence>
                 </ItemSentence>
                 <List>
                   <ListSentence>
@@ -11004,7 +11153,7 @@
                 </List>
                 <List>
                   <ListSentence>
-                    <Sentence WritingMode="vertical">Ｗは、質量ωの針金で比重基準器を水中につり、ちょうどその示度がＳを示すようにしたときに釣り合う特定標準器等の質量（キログラム）</Sentence>
+                    <Sentence WritingMode="vertical">Ｗは、質量ωの針金で比重基準器を検査液中につり、ちょうどその示度がＳを示すようにしたときに釣り合う特定標準器等の質量（キログラム）</Sentence>
                   </ListSentence>
                 </List>
               </Item>
@@ -11088,7 +11237,7 @@
                       <Sentence WritingMode="vertical">一・六以上</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">硝酸第二水銀と硝酸との混合液</Sentence>
+                      <Sentence WritingMode="vertical">よう化第二水銀とよう化カリウムとの混合液</Sentence>
                     </TableColumn>
                   </TableRow>
                 </Table>
@@ -11122,7 +11271,7 @@
                       <Sentence WritingMode="vertical">五十五重ボーメ度以上</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">硝酸第二水銀と硝酸との混合液</Sentence>
+                      <Sentence WritingMode="vertical">よう化第二水銀とよう化カリウムとの混合液</Sentence>
                     </TableColumn>
                   </TableRow>
                 </Table>
@@ -11612,6 +11761,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年九月六日経済産業省令第五六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、平成三十一年二月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
@@ -11743,6 +11901,14 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">血圧計用基準圧力計</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">任意の三箇所以内の表す量</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">熱量基準器</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -11797,7 +11963,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071-001.pdf"/>
+          <Fig src="./pict/H05F03801000071_2008281508_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11806,7 +11972,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071-002.pdf"/>
+          <Fig src="./pict/H05F03801000071_2008281508_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11815,22 +11981,19 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071-003.pdf"/>
+          <Fig src="./pict/H05F03801000071_2008281508_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第４　削除</AppdxStyleTitle>
-      <StyleStruct>
-        <Style/>
-      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第５</AppdxStyleTitle>
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071-004.pdf"/>
+          <Fig src="./pict/H05F03801000071_2008281508_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11839,7 +12002,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071-005.pdf"/>
+          <Fig src="./pict/H05F03801000071_2008281508_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11848,7 +12011,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071-006.pdf"/>
+          <Fig src="./pict/H05F03801000071_2008281508_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11857,7 +12020,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071-007.pdf"/>
+          <Fig src="./pict/H05F03801000071_2008281508_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11866,7 +12029,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071-008.pdf"/>
+          <Fig src="./pict/H05F03801000071_2008281508_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11875,7 +12038,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071-009.pdf"/>
+          <Fig src="./pict/H05F03801000071_2008281508_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11884,7 +12047,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071-010.pdf"/>
+          <Fig src="./pict/H05F03801000071_2008281508_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11893,7 +12056,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071-011.pdf"/>
+          <Fig src="./pict/H05F03801000071_2008281508_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11902,7 +12065,7 @@
       <RelatedArticleNum>（第２７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071-012.pdf"/>
+          <Fig src="./pict/H05F03801000071_2008281508_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

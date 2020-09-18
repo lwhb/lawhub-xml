@@ -234,17 +234,29 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">米穀卸売事業、生鮮食料品卸売事業その他の飲食料品（花きを含む。以下この条において同じ。）の卸売事業</Sentence>
+                <Sentence WritingMode="vertical">肥料卸売事業、農薬卸売事業、配合飼料卸売事業及び農業用機械卸売事業</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">飲食料品の小売事業</Sentence>
+                <Sentence WritingMode="vertical">肥料小売事業、農薬小売事業、配合飼料小売事業及び農業用機械小売事業</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">米穀卸売事業、生鮮食料品卸売事業その他の飲食料品（花きを含む。以下この条において同じ。）の卸売事業</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">飲食料品の小売事業</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
               <ItemSentence>
                 <Sentence WritingMode="vertical">小麦粉製造事業、牛乳・乳製品製造事業その他の飲食料品の製造事業</Sentence>
               </ItemSentence>
@@ -267,6 +279,18 @@
             </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">農業用ソフトウェア作成事業</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">農業用機械の賃貸事業、農業用機械を用いた農作業請負事業その他の農業用機械の利用促進（第一号に係るものを除く。）に資する事業</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Sentence WritingMode="vertical">種苗の生産卸売事業</Sentence>
               </ItemSentence>
@@ -930,17 +954,6 @@
                 </Column>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Column LineBreak="false" Num="1">
-                  <Sentence WritingMode="vertical">租税特別措置法第六十六条の十三又は第六十八条の九十八に規定する課税の特例</Sentence>
-                </Column>
-                <Column LineBreak="false" Num="2">
-                  <Sentence WritingMode="vertical">廃棄等事業年度に関し、第二十条第一項各号に定める額に加え、欠損金額及び欠損金の繰戻しによる法人税の還付を受ける金額</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -1040,12 +1053,30 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月一日財務省・農林水産省・経済産業省令第三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令の施行の日前に農業競争力強化支援法第十八条第一項の認定を受けた同法第十九条第二項に規定する認定事業再編計画に係る実施状況の報告であって、この省令の施行の日以後に行うものに係るこの省令による改正前の農業競争力強化支援法施行規則第二十二条第一項第三号の規定については、なおその効力を有する。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">この場合において、同号中「租税特別措置法第六十六条の十三又は第六十八条の九十八に規定する課税の特例」とあるのは、「所得税法等の一部を改正する法律（令和二年法律第八号）附則第九十一条第二項又は第百五条第二項の規定により適用されることとなる課税の特例」とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_001.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1054,7 +1085,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_002.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1063,7 +1094,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_003.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1072,7 +1103,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_004.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1081,7 +1112,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_005.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1090,7 +1121,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_006.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1099,7 +1130,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_007.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1108,7 +1139,7 @@
       <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_008.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1117,7 +1148,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_009.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1126,7 +1157,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_010.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1135,7 +1166,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_011.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1144,7 +1175,7 @@
       <RelatedArticleNum>（第１１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_012.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1153,7 +1184,7 @@
       <RelatedArticleNum>（第１２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_013.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1162,7 +1193,7 @@
       <RelatedArticleNum>（第１２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_014.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1171,7 +1202,7 @@
       <RelatedArticleNum>（第１２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_015.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1180,7 +1211,7 @@
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_016.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1189,7 +1220,7 @@
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_017.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1198,7 +1229,7 @@
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_018.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1207,7 +1238,7 @@
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_019.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1216,7 +1247,7 @@
       <RelatedArticleNum>（第１４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_020.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1225,7 +1256,7 @@
       <RelatedArticleNum>（第１５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_021.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1234,7 +1265,7 @@
       <RelatedArticleNum>（第１５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_022.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1243,7 +1274,7 @@
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_023.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1252,7 +1283,7 @@
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_024.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1261,7 +1292,7 @@
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_025.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1270,7 +1301,7 @@
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_026.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1279,7 +1310,7 @@
       <RelatedArticleNum>（第２０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_027.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1288,7 +1319,7 @@
       <RelatedArticleNum>（第２１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_028.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1297,7 +1328,7 @@
       <RelatedArticleNum>（第２１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_029.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1306,7 +1337,7 @@
       <RelatedArticleNum>（第２２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H29F170150001_1907221407_030.pdf"/>
+          <Fig src="./pict/H29F170150001_2006091206_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

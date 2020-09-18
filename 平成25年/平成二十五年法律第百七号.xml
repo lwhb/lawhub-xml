@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="107" Year="25">
+<Law DataInfo="200828e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="107" Year="25">
   <LawNum>平成二十五年法律第百七号</LawNum>
   <LawBody>
     <LawTitle>国家戦略特別区域法</LawTitle>
@@ -19,7 +19,7 @@
       </TOCChapter>
       <TOCChapter Num="4">
         <ChapterTitle>第四章　認定区域計画に基づく事業に対する規制の特例措置等</ChapterTitle>
-        <ArticleRange>（第十二条の二―第二十八条）</ArticleRange>
+        <ArticleRange>（第十二条の二―第二十八条の四）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="5">
         <ChapterTitle>第五章　国家戦略特別区域諮問会議</ChapterTitle>
@@ -72,21 +72,33 @@
                 <Sentence>産業の国際競争力の強化又は国際的な経済活動の拠点の形成に資するものとして我が国の経済社会の活力の向上及び持続的発展に寄与することが見込まれる内閣府令で定める事業であって第二十八条第一項に規定する指定金融機関から当該事業を行うのに必要な資金の貸付けを受けて行われるもの</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>先端的区域データ活用事業活動の実施の促進を図るべき区域において、先端的区域データ活用事業活動の実施を促進するために必要なものとして政令で定める基準に従い、先端的区域データ活用事業活動を実施する主体の情報システムと区域データ（当該区域に関するデータ（電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録をいう。）に記録された情報（国の安全を損ない、公の秩序の維持を妨げ、又は公衆の安全の保護に支障を来すことになるおそれがあるものを除く。）をいう。以下同じ。）であって、先端的区域データ活用事業活動の実施に活用されるものをいう。以下同じ。）を保有する主体の情報システムとの相互の連携を確保するための基盤を整備するとともに、区域データを、収集及び整理をし、先端的区域データ活用事業活動を実施する主体に提供する事業（以下「国家戦略特別区域データ連携基盤整備事業」という。）</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>この法律において「規制の特例措置」とは、第十条を除き、法律により規定された規制についての第十二条の二から第二十五条までに規定する法律の特例に関する措置及び政令又は主務省令（以下この項において「政令等」という。）により規定された規制についての第二十六条の規定による政令若しくは内閣府令（告示を含む。）・主務省令（第三十九条ただし書に規定する規制にあっては、主務省令。以下「内閣府令・主務省令」という。）又は第二十七条の規定による条例で規定する政令等の特例に関する措置をいい、これらの措置の適用を受ける場合において当該規制の趣旨に照らし地方公共団体がこれらの措置と併せて実施し又はその実施を促進することが必要となる措置を含むものとする。</Sentence>
+              <Sentence>この法律において「規制の特例措置」とは、第十条、第二十八条の四及び第三十条第一項第七号を除き、法律により規定された規制についての第十二条の二から第二十五条の六までに規定する法律の特例に関する措置及び政令又は主務省令（以下この項及び第二十八条の四において「政令等」という。）により規定された規制についての第二十六条の規定による政令若しくは内閣府令（告示を含む。）・主務省令（第三十九条ただし書に規定する規制にあっては、主務省令。以下「内閣府令・主務省令」という。）又は第二十七条の規定による条例で規定する政令等の特例に関する措置をいい、これらの措置の適用を受ける場合において当該規制の趣旨に照らし地方公共団体がこれらの措置と併せて実施し又はその実施を促進することが必要となる措置を含むものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>この法律において「地方公共団体」とは、都道府県、市町村（特別区を含む。第十八条（第二項を除く。）及び第十九条を除き、以下同じ。）又は地方自治法（昭和二十二年法律第六十七号）第二百八十四条第一項の一部事務組合若しくは広域連合をいい、港湾法（昭和二十五年法律第二百十八号）第四条第一項の規定による港務局を含むものとする。</Sentence>
+              <Sentence>この法律において「先端的区域データ活用事業活動」とは、官民データ活用推進基本法（平成二十八年法律第百三号）第二条第二項に規定する人工知能関連技術、同条第三項に規定するインターネット・オブ・シングス活用関連技術、同条第四項に規定するクラウド・コンピューティング・サービス関連技術その他の従来の処理量に比して大量の情報の処理を可能とする先端的な技術を用いて役務の価値を高め、又はその新たな価値を生み出すことにより新たな事業の創出又は事業の革新を図る事業活動（第三十七条の八において「先端的技術利用事業活動」という。）であって、国家戦略特別区域データ連携基盤整備事業の実施主体から区域データの提供を受け、当該区域データを活用して、当該事業活動の対象となる区域内の住民その他の者の共同の福祉又は利便の増進を図るものをいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「地方公共団体」とは、都道府県、市町村（特別区を含む。第十八条（第二項を除く。）及び第十九条を除き、以下同じ。）又は地方自治法（昭和二十二年法律第六十七号）第二百八十四条第一項の一部事務組合若しくは広域連合をいい、港湾法（昭和二十五年法律第二百十八号）第四条第一項の規定による港務局を含むものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence>内閣総理大臣は、第一項の政令の制定又は改廃の立案をしようとするときは、あらかじめ、国家戦略特別区域諮問会議及び関係地方公共団体の意見を聴かなければならない。</Sentence>
             </ParagraphSentence>
@@ -448,7 +460,7 @@
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1">内閣総理大臣は、認定をしようとするときは、区域計画に定められた特定事業に関する事項について、当該特定事業に係る関係行政機関の長（以下この章において単に「関係行政機関の長」という。）の同意を得なければならない。</Sentence>
-              <Sentence Num="2">この場合において、当該関係行政機関の長は、当該特定事業（第二条第二項第一号に掲げるものに限る。）が、法律により規定された規制に係るものにあっては第十二条の二から第二十五条までの規定で、政令又は主務省令により規定された規制に係るものにあっては国家戦略特別区域基本方針に即して第二十六条の規定による政令若しくは内閣府令・主務省令で又は第二十七条の規定による政令若しくは内閣府令・主務省令で定めるところにより条例で、それぞれ定めるところに適合すると認められるときは、同意をするものとする。</Sentence>
+              <Sentence Num="2">この場合において、当該関係行政機関の長は、当該特定事業（第二条第二項第一号に掲げるものに限る。）が、法律により規定された規制に係るものにあっては第十二条の二から第二十五条の六までの規定で、政令又は主務省令により規定された規制に係るものにあっては国家戦略特別区域基本方針に即して第二十六条の規定による政令若しくは内閣府令・主務省令で又は第二十七条の規定による政令若しくは内閣府令・主務省令で定めるところにより条例で、それぞれ定めるところに適合すると認められるときは、同意をするものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="10">
@@ -504,7 +516,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>前項各号に掲げる事項を記載した区域計画について第八条第一項の規定による認定の申請があった場合における同条の規定の適用については、同条第九項中「定められた特定事業」とあるのは「定められた特定事業及び第十条第一項第一号に規定する特定事業（以下この項において「特定事業等」という。）」と、「当該特定事業」とあるのは「当該特定事業等」と、「第二条第二項第一号に掲げるものに限る」とあるのは「第二条第二項第二号に規定する事業を除く」と、「第十二条の二から第二十五条まで」とあるのは「第十二条の二から第二十五条まで及び構造改革特別区域法第四章」と、「で又は」とあるのは「で、構造改革特別区域基本方針（構造改革特別区域法第三条第一項に規定する構造改革特別区域基本方針をいう。）に即して構造改革特別区域法第三十四条の規定による政令若しくは主務省令で、」と、「条例で」とあるのは「条例で又は同法第三十五条の規定による政令若しくは主務省令で定めるところにより条例で」とする。</Sentence>
+              <Sentence>前項各号に掲げる事項を記載した区域計画について第八条第一項の規定による認定の申請があった場合における同条の規定の適用については、同条第九項中「定められた特定事業」とあるのは「定められた特定事業及び第十条第一項第一号に規定する特定事業（以下この項において「特定事業等」という。）」と、「当該特定事業」とあるのは「当該特定事業等」と、「第二条第二項第一号に掲げるものに限る」とあるのは「第二条第二項第二号及び第三号に規定する事業を除く」と、「第十二条の二から第二十五条の六まで」とあるのは「第十二条の二から第二十五条の六まで及び構造改革特別区域法第四章」と、「で又は」とあるのは「で、構造改革特別区域基本方針（構造改革特別区域法第三条第一項に規定する構造改革特別区域基本方針をいう。）に即して構造改革特別区域法第三十四条の規定による政令若しくは主務省令で、」と、「条例で」とあるのは「条例で又は同法第三十五条の規定による政令若しくは主務省令で定めるところにより条例で」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -1943,7 +1955,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>国家戦略特別区域会議が、第八条第二項第二号に規定する特定事業として、国家戦略特別区域外国人滞在施設経営事業（国家戦略特別区域において、外国人旅客の滞在に適した施設を賃貸借契約及びこれに付随する契約に基づき一定期間以上使用させるとともに当該施設の使用方法に関する外国語を用いた案内その他の外国人旅客の滞在に必要な役務を提供する事業（その一部が旅館業法（昭和二十三年法律第百三十八号）第二条第一項に規定する旅館業に該当するものに限る。）として政令で定める要件に該当する事業をいう。以下この条及び別表の一の五の項において同じ。）を定めた区域計画について、第八条第七項の内閣総理大臣の認定（第九条第一項の変更の認定を含む。以下この項及び第九項第二号において「内閣総理大臣認定」という。）を申請し、その内閣総理大臣認定を受けたときは、当該内閣総理大臣認定の日以後は、当該国家戦略特別区域外国人滞在施設経営事業を行おうとする者は、厚生労働省令で定めるところにより、その行おうとする事業が当該政令で定める要件に該当している旨の都道府県知事（保健所を設置する市又は特別区にあっては、市長又は区長。以下この条において同じ。）の認定（以下この条において「特定認定」という。）を受けることができる。</Sentence>
+              <Sentence>国家戦略特別区域会議が、第八条第二項第二号に規定する特定事業として、国家戦略特別区域外国人滞在施設経営事業（国家戦略特別区域において、外国人旅客の滞在に適した施設を賃貸借契約及びこれに付随する契約に基づき一定期間以上使用させるとともに当該施設の使用方法に関する外国語を用いた案内その他の外国人旅客の滞在に必要な役務を提供する事業（その一部が旅館業法（昭和二十三年法律第百三十八号）第二条第一項に規定する旅館業に該当するものに限る。）として政令で定める要件に該当する事業をいう。以下この条及び別表の一の五の項において同じ。）を定めた区域計画について、第八条第七項の内閣総理大臣の認定（第九条第一項の変更の認定を含む。以下この項及び第十三項第二号において「内閣総理大臣認定」という。）を申請し、その内閣総理大臣認定を受けたときは、当該内閣総理大臣認定の日以後は、当該国家戦略特別区域外国人滞在施設経営事業を行おうとする者は、厚生労働省令で定めるところにより、その行おうとする事業が当該政令で定める要件に該当している旨の都道府県知事（保健所を設置する市又は特別区にあっては、市長又は区長。以下この条において同じ。）の認定（以下この条において「特定認定」という。）を受けることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1979,38 +1991,110 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>特定認定（次項の変更の認定を含む。以下この項及び第九項において同じ。）を受けた者（以下この条において「認定事業者」という。）が行う当該特定認定を受けた事業（第八項及び第九項第三号において「認定事業」という。）については、旅館業法第三条第一項の規定は、適用しない。</Sentence>
+              <Sentence>次の各号のいずれかに該当する者は、特定認定を受けることができない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>心身の故障により国家戦略特別区域外国人滞在施設経営事業を的確に遂行することができない者として厚生労働省令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>破産手続開始の決定を受けて復権を得ない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十三項（第一号及び第二号に係る部分を除く。）の規定により特定認定を取り消され、その取消しの日から起算して三年を経過しない者（当該特定認定を取り消された者が法人である場合にあっては、当該取消しの日前三十日以内に当該法人の役員であった者で当該取消しの日から起算して三年を経過しないものを含む。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>禁錮以上の刑に処せられ、又は第十四項から第十六項までの規定若しくは旅館業法の規定により罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から起算して三年を経過しない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>暴力団員による不当な行為の防止等に関する法律（平成三年法律第七十七号）第二条第六号に規定する暴力団員又は同号に規定する暴力団員でなくなった日から起算して五年を経過しない者（第八号において「暴力団員等」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>営業に関し成年者と同一の行為能力を有しない未成年者でその法定代理人（法定代理人が法人である場合にあっては、その役員を含む。）が前各号のいずれかに該当するもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence>法人であって、その業務を行う役員のうちに第一号から第五号までのいずれかに該当する者があるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence>暴力団員等がその事業活動を支配する者</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">認定事業者は、第二項第二号又は第三号に掲げる事項の変更をしようとするときは、厚生労働省令で定めるところにより、都道府県知事の認定を受けなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、その変更が厚生労働省令で定める軽微な変更であるときは、この限りでない。</Sentence>
+              <Sentence>特定認定（次項の変更の認定を含む。以下この項及び第十三項において同じ。）を受けた者（以下この条において「認定事業者」という。）が行う当該特定認定を受けた事業（以下この条において「認定事業」という。）については、旅館業法第三条第一項の規定は、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>第三項の規定は、前項の変更の認定について準用する。</Sentence>
+              <Sentence Function="main" Num="1">認定事業者は、第二項第二号又は第三号に掲げる事項の変更をしようとするときは、厚生労働省令で定めるところにより、都道府県知事の認定を受けなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、その変更が厚生労働省令で定める軽微な変更であるときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>認定事業者は、第二項第一号に掲げる事項の変更又は第五項ただし書の厚生労働省令で定める軽微な変更をしたときは、厚生労働省令で定めるところにより、遅滞なく、その旨を都道府県知事に届け出なければならない。</Sentence>
+              <Sentence>第三項の規定は、前項の変更の認定について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>都道府県知事は、この条の規定の施行に必要な限度において、認定事業者に対し、認定事業の実施状況について報告を求めることができる。</Sentence>
+              <Sentence>認定事業者は、第二項第一号に掲げる事項の変更又は第六項ただし書の厚生労働省令で定める軽微な変更をしたときは、厚生労働省令で定めるところにより、遅滞なく、その旨を都道府県知事に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>都道府県知事は、次の各号のいずれかに該当するときは、特定認定を取り消すことができる。</Sentence>
+              <Sentence>都道府県知事は、この条の規定の施行に必要な限度において、認定事業者に対し、認定事業の実施状況について報告を求め、又はその職員に、認定事業の用に供する施設その他の施設に立ち入り、認定事業の実施状況若しくは設備、帳簿書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第九項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="12">
+            <ParagraphNum>１２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>都道府県知事は、認定事業者が行う認定事業が第一項の政令で定める要件に該当しなくなったと認めるときは、当該認定事業者に対し、当該認定事業を当該要件に該当させるために必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="13">
+            <ParagraphNum>１３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>都道府県知事は、次の各号のいずれかに該当するときは、特定認定を取り消し、又は一年以内の期間を定めて認定事業者に対しその業務の全部若しくは一部の停止を命ずることができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2039,15 +2123,57 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>認定事業者が第五項又は第七項の規定に違反したとき。</Sentence>
+                <Sentence>認定事業者が第四項各号（第三号を除く。）のいずれかに該当するに至ったとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence>認定事業者が前項の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
+                <Sentence>認定事業者が第六項又は第八項の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence>認定事業者が第九項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence>認定事業者が前項又はこの項の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="14">
+            <ParagraphNum>１４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定による命令に違反した場合には、当該違反行為をした者は、六月以下の懲役若しくは百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="15">
+            <ParagraphNum>１５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>次の各号のいずれかに該当する場合には、当該違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第九項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十二項の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="16">
+            <ParagraphNum>１６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前二項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して各本項の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="14">
@@ -3405,6 +3531,746 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="25_2">
+          <ArticleCaption>（革新的な産業技術の有効性の実証に係る道路運送車両法等の特例）</ArticleCaption>
+          <ArticleTitle>第二十五条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国家戦略特別区域会議は、第八条第二項第二号に規定する特定事業として、国家戦略特別区域革新的技術実証事業（国家戦略特別区域内において、自動車の自動運転（自動車自動運転関係電波技術を含む。第三十七条の七第一項において同じ。）、無人航空機（航空法（昭和二十七年法律第二百三十一号）第二条第二十二項に規定する無人航空機をいう。以下同じ。）の遠隔操作又は自動操縦（無人航空機遠隔操作自動操縦関係電波技術を含む。第三十七条の七第一項において同じ。）その他の技術革新の進展に即応した高度な産業技術（特殊仕様自動車等応用関係電波技術及び無人航空機応用関係電波技術を含む。同項において同じ。）の有効性の実証のうち産業の国際競争力の強化及び国際的な経済活動の拠点の形成を図るために必要なものとして内閣府令で定めるものであって、次項第三号イからホまでのいずれかに掲げる行為を含むもの（同号ホに掲げる行為を含むものにあっては、同号イからニまでのいずれかに掲げる行為をも含むものに限る。以下「技術実証」という。）を行う事業をいう。以下同じ。）を定めた区域計画（以下「技術実証区域計画」という。）について、内閣総理大臣の認定を申請し、その認定を受けたときは、内閣府令で定めるところにより、認定技術実証区域計画（当該認定を受けた技術実証区域計画（第九条第一項の変更の認定があったときは、その変更後のもの）をいう。以下同じ。）に実証事業者（技術実証の実施主体である事業者をいう。以下同じ。）として定められた者に対し、次に掲げる事項を記載した書面を交付するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該認定技術実証区域計画（国家戦略特別区域革新的技術実証事業に係る部分に限る。第十四項及び第十六項において同じ。）の内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>道路運送車両法（昭和二十六年法律第百八十五号）第四十一条第一項の規定による技術基準（次項第三号イ及び第七項において「装置基準」という。）のうち第七項（第十四項において準用する場合を含む。次条第二項において同じ。）の規定により指定されたもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十項（第十四項において準用する場合を含む。第十七項及び第二十五条の四第一項において同じ。）の規定により定められた条件</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十三項（第十四項において準用する場合を含む。第十七項及び第二十五条の六第三項第一号において同じ。）の規定により定められた条件</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>技術実証区域計画には、第八条第二項第四号に掲げる事項として、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>実証事業者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>技術実証の目的及び方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>技術実証に含まれる次のイからホまでに掲げる行為の区分に応じ、当該イからホまでに定める事項</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence>特殊仕様自動車（道路運送車両法第二条第二項に規定する自動車であって、装置基準の一部に適合しないものをいう。以下この条及び次条において同じ。）を同法第二条第五項に規定する運行（次条第二項において単に「運行」という。）の用に供する行為（以下この条及び次条において「特殊仕様自動車運行」という。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>次に掲げる事項</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence>特殊仕様自動車運行を行う場所及び期間</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence>特殊仕様自動車運行に使用する特殊仕様自動車の車名及び型式並びに当該特殊仕様自動車の車台番号（車台の型式についての表示を含む。）</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="3">
+                  <Subitem2Title>（３）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence>当該特殊仕様自動車の使用の本拠の位置</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="4">
+                  <Subitem2Title>（４）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence>当該特殊仕様自動車が適合していない装置基準</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="5">
+                  <Subitem2Title>（５）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence>当該特殊仕様自動車の装置又は特殊仕様自動車運行の方法であって、（４）の装置基準に係る機能を代替するもの</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence>道路（道路交通法（昭和三十五年法律第百五号）第二条第一項第一号に規定する道路をいう。第十項において同じ。）において遠隔操作を行いながら自動運転の技術を用いて同条第一項第九号に規定する自動車（（２）及び次項において単に「自動車」という。）を走行させる行為のうち、同法第七十七条第一項第四号に規定する行為に該当するもの（以下この条及び第二十五条の四第一項において「遠隔自動走行」という。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>次に掲げる事項</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence>遠隔自動走行を行う場所及び期間</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence>遠隔自動走行に使用する自動車を特定するために必要な事項及び当該自動車の仕様に関する事項</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="3">
+                  <Subitem2Title>（３）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence>遠隔自動走行の方法（緊急の場合に速やかに危険防止のために必要な措置を講ずるための方法を含む。）に関する事項</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="4">
+                  <Subitem2Title>（４）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence>遠隔操作を行う者に係る事項</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence>航空法第百三十二条各号のいずれかに掲げる空域において無人航空機を飛行させる行為</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>当該行為を行う空域及び期間並びに当該行為に使用する無人航空機を特定するために必要な事項</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence>航空法第百三十二条の二第五号から第十号までに掲げる方法のいずれかによらずに無人航空機を飛行させる行為</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>当該飛行の方法及び当該行為を行う期間並びに当該行為に使用する無人航空機を特定するために必要な事項</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence>実験等無線局（電波法（昭和二十五年法律第百三十一号）第四条の二第二項に規定する実験等無線局をいい、自動車自動運転関係電波技術、無人航空機遠隔操作自動操縦関係電波技術、特殊仕様自動車等応用関係電波技術又は無人航空機応用関係電波技術の有効性の実証を行うためのものに限る。以下この条及び第二十五条の六において同じ。）を開設し、これを運用する行為</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>次の（１）から（３）までに掲げる実験等無線局の区分に応じ、当該（１）から（３）までに定める事項</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Column Num="1">
+                      <Sentence>（２）及び（３）に掲げる実験等無線局以外の実験等無線局</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence>次に掲げる事項</Sentence>
+                    </Column>
+                  </Subitem2Sentence>
+                  <Subitem3 Num="1">
+                    <Subitem3Title>（ｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>当該行為を行う期間</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="2">
+                    <Subitem3Title>（ｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>通信の相手方及び通信事項</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="3">
+                    <Subitem3Title>（ｉｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>電波法第六条第一項第七号に規定する無線設備（以下この条及び第二十五条の六において単に「無線設備」という。）の設置場所（移動する実験等無線局にあっては、移動範囲。第二十五条の六第二項第一号において同じ。）</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="4">
+                    <Subitem3Title>（ｉｖ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>使用する電波法第二条第一号に規定する電波（（２）（ｉｉｉ）及び第二十五条の六において単に「電波」という。）の型式並びに周波数及び空中線電力</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="5">
+                    <Subitem3Title>（ｖ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>無線設備の工事設計</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="6">
+                    <Subitem3Title>（ｖｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>運用開始の予定期日</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="7">
+                    <Subitem3Title>（ｖｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>他の電波法第二条第五号に規定する無線局（以下この条において単に「無線局」という。）の同法第十四条第二項第二号の免許人又は同法第二十七条の二十三第一項の登録人（（２）（ｖｉｉ）及び第十六項において「免許人等」という。）との間で混信その他の妨害を防止するために必要な措置に関する契約を締結しているときは、その契約の内容</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Column Num="1">
+                      <Sentence>電波法第二十七条の二に規定する特定無線局（（３）及び第十二項第四号において単に「特定無線局」という。）（同条第一号に掲げる無線局に係るものに限る。）である実験等無線局</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence>次に掲げる事項</Sentence>
+                    </Column>
+                  </Subitem2Sentence>
+                  <Subitem3 Num="1">
+                    <Subitem3Title>（ｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>当該行為を行う期間</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="2">
+                    <Subitem3Title>（ｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>通信の相手方</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="3">
+                    <Subitem3Title>（ｉｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>使用する電波の型式並びに周波数及び空中線電力</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="4">
+                    <Subitem3Title>（ｉｖ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>無線設備の工事設計</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="5">
+                    <Subitem3Title>（ｖ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>電波法第二十七条の三第一項第六号に規定する最大運用数</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="6">
+                    <Subitem3Title>（ｖｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>電波法第二十七条の三第一項第七号に規定する運用開始の予定期日</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="7">
+                    <Subitem3Title>（ｖｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>他の無線局の免許人等との間で混信その他の妨害を防止するために必要な措置に関する契約を締結しているときは、その契約の内容</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                </Subitem2>
+                <Subitem2 Num="3">
+                  <Subitem2Title>（３）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Column Num="1">
+                      <Sentence>特定無線局（電波法第二十七条の二第二号に掲げる無線局に係るものに限る。）である実験等無線局</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence>次に掲げる事項</Sentence>
+                    </Column>
+                  </Subitem2Sentence>
+                  <Subitem3 Num="1">
+                    <Subitem3Title>（ｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>（２）（ｉ）から（ｉｖ）まで、（ｖｉ）及び（ｖｉｉ）に掲げる事項</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                  <Subitem3 Num="2">
+                    <Subitem3Title>（ｉｉ）</Subitem3Title>
+                    <Subitem3Sentence>
+                      <Sentence>無線設備を設置しようとする区域</Sentence>
+                    </Subitem3Sentence>
+                  </Subitem3>
+                </Subitem2>
+              </Subitem1>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>安全確保上、環境保全上、社会生活上その他の支障を生ずることなく技術実証を行うために遵守すべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>その他技術実証の実施のために必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項及び前項第三号ホにおいて、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>自動車自動運転関係電波技術</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>特殊仕様自動車若しくは遠隔自動走行に使用する自動車に開設する無線局又はこれらの無線局を通信の相手方とする無線局（電波法第六条第一項第四号イに規定する人工衛星局、同号ロに規定する船舶の無線局、船舶地球局、航空機の無線局及び航空機地球局並びに同条第二項に規定する基幹放送局（第十二項第四号において単に「基幹放送局」という。）（次号から第四号までにおいて「人工衛星局等」という。）を除く。）に係る技術であって、特殊仕様自動車運行又は遠隔自動走行に用いるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>無人航空機遠隔操作自動操縦関係電波技術</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>無人航空機に開設する無線局又は当該無線局を通信の相手方とする無線局（人工衛星局等を除く。）に係る技術であって、前項第三号ハ又はニに掲げる行為に用いるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>特殊仕様自動車等応用関係電波技術</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>特殊仕様自動車又は遠隔自動走行に使用する自動車を用いる事業活動に用いる無線局（人工衛星局等を除く。）に係る技術（第一号に規定する自動車自動運転関係電波技術を除く。）であって、総務省令で定めるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>無人航空機応用関係電波技術</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>無人航空機を用いる事業活動に用いる無線局（人工衛星局等を除く。）に係る技術（第二号に規定する無人航空機遠隔操作自動操縦関係電波技術を除く。）であって、総務省令で定めるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国家戦略特別区域会議は、技術実証区域計画を定めようとする場合において、当該技術実証区域計画に係る技術実証が次の各号に掲げる行為のいずれかを含むものであるときは、当該技術実証区域計画について、あらかじめ、それぞれ当該各号に定める者に協議し、その同意を得なければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>特殊仕様自動車運行</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>特殊仕様自動車運行に使用する特殊仕様自動車の使用の本拠の位置を管轄する地方運輸局長（以下この条及び次条において「管轄地方運輸局長」という。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>遠隔自動走行</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>第二項第三号ロ（１）の場所を管轄する警察署長（当該場所が同一の都道府県公安委員会の管理に属する二以上の警察署長の管轄にわたるときは、そのいずれかの場所を管轄する警察署長。以下この条において「所轄警察署長」という。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第二項第三号ハ又はニに掲げる行為</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>国土交通大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第二項第三号ホに掲げる行為</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>総務大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国家戦略特別区域会議は、技術実証区域計画を定めようとする場合において、必要があると認めるときは、実証事業者として当該技術実証区域計画に定めようとする者に対し、資料の提供、説明その他必要な協力を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第四項各号に定める者は、国家戦略特別区域会議に対し、同項の同意をするか否かの判断をするために必要な情報の提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>管轄地方運輸局長は、特殊仕様自動車運行に係る技術実証区域計画についての第四項の規定による協議があった場合において、当該協議に係る技術実証区域計画に従って特殊仕様自動車運行を行うならば保安上又は公害防止その他の環境保全上の支障が生じないと認めるときは、同項の同意をするとともに、装置基準のうち当該特殊仕様自動車にあっては適合することを要しないこととするものを指定するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>管轄地方運輸局長は、第四項の同意及び前項の規定による指定をしようとするときは、あらかじめ、国土交通大臣の承認を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>所轄警察署長は、遠隔自動走行に係る技術実証区域計画についての第四項の規定による協議があった場合において、当該協議に係る遠隔自動走行が次の各号のいずれかに該当するときは、同項の同意をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該遠隔自動走行が現に交通の妨害となるおそれがないと認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該遠隔自動走行が次項の規定により定められる条件に従って行われることにより交通の妨害となるおそれがなくなると認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該遠隔自動走行が現に交通の妨害となるおそれはあるが公益上やむを得ないものであると認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>所轄警察署長は、第四項の同意をする場合において、必要があると認めるときは、当該同意に係る遠隔自動走行が前項第一号に該当する場合を除き、当該遠隔自動走行について、道路における危険を防止し、その他交通の安全と円滑を図るため必要な条件を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国土交通大臣は、第二項第三号ハ又はニに掲げる行為に係る技術実証区域計画についての第四項の規定による協議があった場合において、当該協議に係る当該行為により航空機の航行の安全並びに地上及び水上の人及び物件の安全が損なわれるおそれがないと認めるときは、同項の同意をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="12">
+            <ParagraphNum>１２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>総務大臣は、第二項第三号ホに掲げる行為に係る技術実証区域計画についての第四項の規定による協議があった場合において、当該協議に係る当該行為が次の各号のいずれにも適合しているときは、同項の同意をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該行為に係る実証事業者として当該技術実証区域計画に定めようとする者が電波法第五条第三項各号のいずれかに該当する者でないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第二項第三号ホ（１）に掲げる実験等無線局にあっては、当該行為に係る技術実証区域計画に定めようとする無線設備の工事設計が電波法第三章に定める技術基準に適合すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該行為に係る技術実証区域計画に定めようとする周波数が、第二項第三号ホ（１）に掲げる実験等無線局に係るものにあっては電波法第七条第一項第二号の規定、第二項第三号ホ（２）又は（３）に掲げる実験等無線局に係るものにあっては同法第二十七条の四第一号の規定に適合すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>前三号に掲げるもののほか、第二項第三号ホ（１）に掲げる実験等無線局にあっては電波法第七条第一項第四号の総務省令で定める無線局（基幹放送局を除く。）の開設の根本的基準、第二項第三号ホ（２）又は（３）に掲げる実験等無線局にあっては同法第二十七条の四第三号の総務省令で定める特定無線局の開設の根本的基準に合致すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="13">
+            <ParagraphNum>１３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">総務大臣は、第四項の同意をする場合において、必要があると認めるときは、当該同意に係る第二項第三号ホに掲げる行為について、条件を定めることができる。</Sentence>
+              <Sentence Num="2">この場合において、その条件は、技術実証を行う者に不当な義務を課することとならないものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="14">
+            <ParagraphNum>１４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第四項から前項までの規定は、認定技術実証区域計画の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="15">
+            <ParagraphNum>１５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>道路交通法第百十四条の三の規定はこの条に規定する所轄警察署長の権限について、航空法第百三十七条第一項及び第二項の規定はこの条に規定する国土交通大臣の権限について、電波法第百四条の三第一項の規定はこの条に規定する総務大臣の権限について、それぞれ準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="16">
+            <ParagraphNum>１６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国家戦略特別区域会議は、第二項第三号ホに掲げる行為に係る技術実証区域計画について認定を受けたときは、速やかに、関係する区域を管轄する総合通信局長又は沖縄総合通信事務所長、関係する地方公共団体、関係する無線局の免許人等及び関係する電波法第五十六条第一項の規定により指定された受信設備を設置している者に対し、当該認定に係る認定技術実証区域計画の内容その他当該技術実証の適正な実施の確保のための連携に必要と認める事項を通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="17">
+            <ParagraphNum>１７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">内閣総理大臣は、第十一条第一項の規定によるほか、認定技術実証区域計画に定められた事項又は第十項若しくは第十三項の規定により定められた条件に違反して技術実証が行われたときは、当該認定技術実証区域計画に係る認定を取り消すことができる。</Sentence>
+              <Sentence Num="2">この場合においては、同条第二項及び第三項の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="18">
+            <ParagraphNum>１８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>内閣総理大臣は、技術実証区域計画の認定をしたとき、又は第十一条第一項若しくは前項の規定による認定の取消しをしたときは、遅滞なく、その旨を当該技術実証区域計画に係る第四項各号（第十四項において準用する場合を含む。）に定める者（第十五項において準用する道路交通法第百十四条の三、航空法第百三十七条第一項及び第二項又は電波法第百四条の三第一項の規定により当該者の権限を行う者を含む。）に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="19">
+            <ParagraphNum>１９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国家戦略特別区域会議は、技術実証区域計画について認定を受けたときは、当該認定に係る認定技術実証区域計画に係る第十二条の規定による評価に資するため、当該認定技術実証区域計画に係る技術実証に関し優れた識見を有する者により構成される技術実証評価委員会を置くものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="20">
+            <ParagraphNum>２０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>技術実証評価委員会は、前項に規定する技術実証の実施の状況について評価を行い、これに関し必要と認められる意見を国家戦略特別区域会議に述べるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25_3">
+          <ArticleTitle>第二十五条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>認定技術実証区域計画に従って行われる技術実証（特殊仕様自動車運行を含むものに限る。）に使用される特殊仕様自動車についての道路運送車両法の規定の適用については、同法第四十一条第一項中「次に掲げる装置について、国土交通省令」とあるのは「次に掲げる装置についての国土交通省令」と、「技術基準」とあるのは「技術基準（国家戦略特別区域法（平成二十五年法律第百七号）第二十五条の二第七項（同条第十四項において準用する場合を含む。第四十六条において同じ。）の規定により指定されているものを除く。）」と、同法第四十六条中「技術基準（」とあるのは「技術基準（国家戦略特別区域法第二十五条の二第七項の規定により指定されているものを除く。」とするほか、必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>管轄地方運輸局長は、前項に規定する特殊仕様自動車が運行の用に供されることにより保安上若しくは公害防止その他の環境保全上の支障が生じていると認め、又はこれらが生ずるおそれがあると認めるに至ったときは、当該特殊仕様自動車に係る前条第七項の規定による指定を取り消すものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>管轄地方運輸局長は、前項の規定による取消しをしたときは、遅滞なく、内閣総理大臣及び当該特殊仕様自動車運行に係る実証事業者として認定技術実証区域計画に定められた者（次項において「運行者」という。）に対し、その旨を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第二項の規定による取消しは、前項の規定による通知が運行者に到達した時からその効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25_4">
+          <ArticleTitle>第二十五条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">認定技術実証区域計画に実証事業者として定められた者が当該認定技術実証区域計画に従って行う遠隔自動走行については、第二十五条の二第九項（同条第十四項において準用する場合を含む。）の規定によりされた同条第四項（同条第十四項において準用する場合を含む。）の同意を道路交通法第七十七条第一項の規定による許可と、当該者を当該許可を受けた者と、当該認定技術実証区域計画に定められた遠隔自動走行の期間を当該許可の期間と、第二十五条の二第十項の規定により定められた条件を同法第七十七条第三項の規定により当該許可に付された条件と、当該認定技術実証区域計画に係る第二十五条の二第一項の書面（同項第一号（遠隔自動走行に係る部分に限る。）及び第三号に係る部分に限る。）を当該許可に係る同法第七十八条第三項の許可証とそれぞれみなして、同法の規定を適用する。</Sentence>
+              <Sentence Num="2">この場合において、同法第七十七条第七項中「又は第五項の規定により当該許可が取り消されたとき」とあるのは、「第五項の規定により当該許可が取り消されたとき、又は国家戦略特別区域法（平成二十五年法律第百七号）第二十五条の二第二項第三号ロに掲げる遠隔自動走行（以下この項において単に「遠隔自動走行」という。）に係る同条第一項に規定する認定技術実証区域計画について、同法第九条第一項の規定による変更（同法第八条第二項第二号に規定する特定事業として遠隔自動走行に係る同法第二十五条の二第一項に規定する国家戦略特別区域革新的技術実証事業を定めないこととするものに限る。）の認定があり、若しくは同法第十一条第一項若しくは第二十五条の二第十七項の規定により認定が取り消されたとき」とするほか、必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>道路交通法第七十七条第一項に規定する所轄警察署長（同法第百十四条の三の規定によりその権限を行う警察官を含む。）は、前項の規定によりみなされた同法第七十七条第一項の規定による許可について同条第五項の規定による取消しをしたときは、遅滞なく、その旨を内閣総理大臣に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25_5">
+          <ArticleTitle>第二十五条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第二十五条の二第二項第三号ハに掲げる行為に係る技術実証区域計画の認定があったときは、当該認定の日において、当該認定に係る認定技術実証区域計画に実証事業者として定められた者が当該認定技術実証区域計画に従って行う当該行為について、航空法第百三十二条ただし書の規定による許可があったものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第二十五条の二第二項第三号ニに掲げる行為に係る技術実証区域計画の認定があったときは、当該認定の日において、当該認定に係る認定技術実証区域計画に実証事業者として定められた者が当該認定技術実証区域計画に従って行う当該行為について、航空法第百三十二条の二ただし書の承認があったものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25_6">
+          <ArticleTitle>第二十五条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">第二十五条の二第二項第三号ホに掲げる行為に係る技術実証区域計画の認定（次項に規定するものを除く。）があったときは、総務大臣（電波法第百四条の三第一項の規定による委任を受けた者を含む。以下この条において同じ。）は、速やかに、当該認定に係る認定技術実証区域計画に実証事業者として定められた者に対し、同号ホ（１）に掲げる実験等無線局にあっては第一号から第四号までに掲げる事項を指定して同法第十二条の免許を、第二十五条の二第二項第三号ホ（２）に掲げる実験等無線局にあっては第一号、第三号、第五号及び第六号に掲げる事項を、同項第三号ホ（３）に掲げる実験等無線局にあっては第一号、第三号、第六号及び第七号に掲げる事項を指定して同法第二十七条の五第一項の免許を与えなければならない。</Sentence>
+              <Sentence Num="2">この場合においては、第二十五条の二第二項第三号ホ（１）に掲げる実験等無線局に係る当該指定は同法第八条第一項の規定による指定と、同号ホ（２）又は（３）に掲げる実験等無線局に係る当該指定は同法第二十七条の五第一項の規定による指定とみなして、同法の規定を適用する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>電波の型式及び周波数</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>電波法第八条第一項第三号に規定する識別信号（次項第二号において単に「識別信号」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>空中線電力</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>電波法第六条第一項第六号に規定する運用許容時間（次項第二号及び第三項第四号において単に「運用許容時間」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>電波法第二十七条の五第一項第三号に規定する指定無線局数（次項第二号において単に「指定無線局数」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>電波法第二十七条の五第一項第四号に規定する運用開始の期限</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence>無線設備の設置場所とすることができる区域</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第二十五条の二第二項第三号ホに掲げる行為に係る技術実証区域計画の認定（第九条第一項の変更の認定であって、実験等無線局（前項の規定により免許を受けたものに限る。以下この条において同じ。）に係る次の各号に掲げる変更に係るものに限る。）があったときは、総務大臣は、速やかに、当該各号に定める処分をしなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>通信の相手方若しくは無線設備の設置場所の変更又は無線設備の変更（第二十五条の二第二項第三号ホ（１）に掲げる実験等無線局にあっては、電波法第九条第一項ただし書に規定する総務省令で定める軽微な事項に係るものを除く。）の工事に係る変更</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>同法第十七条第一項又は第二十七条の八第一項の許可</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>識別信号、電波の型式、周波数、空中線電力、運用許容時間、指定無線局数又は無線設備の設置場所とすることができる区域の変更</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>電波法第十九条又は第二十七条の九の規定による指定の変更</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>総務大臣は、次の各号のいずれかに該当するときは、遅滞なく、その旨を内閣総理大臣に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第二十五条の二第十三項の規定により定められた条件に違反して技術実証が行われたと認めるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>電波法第七十一条第一項の規定により実験等無線局の周波数又は空中線電力の指定の変更をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>電波法第七十二条第一項の規定により実験等無線局に対して電波の発射の停止を命じたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>電波法第七十六条第一項の規定により実験等無線局の運用の停止を命じ、又は実験等無線局に係る運用許容時間、周波数若しくは空中線電力を制限したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>電波法第七十六条第四項、第五項又は第七項の規定により実験等無線局の免許を取り消したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>総務大臣は、次の各号のいずれかに該当するときは、実験等無線局の免許を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>第九条第一項の規定による認定技術実証区域計画の変更（第八条第二項第二号に規定する特定事業として第二十五条の二第二項第三号ホに掲げる行為を含む国家戦略特別区域革新的技術実証事業を定めないこととするものに限る。）の認定があったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>第十一条第一項又は第二十五条の二第十七項の規定により認定技術実証区域計画（第八条第二項第二号に規定する特定事業として第二十五条の二第二項第三号ホに掲げる行為を含む国家戦略特別区域革新的技術実証事業を定めたものに限る。）の認定が取り消されたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
         <Article Num="26">
           <ArticleCaption>（政令等で規定された規制の特例措置）</ArticleCaption>
           <ArticleTitle>第二十六条</ArticleTitle>
@@ -3431,7 +4297,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>認定区域計画に定められている特定事業（第二条第二項第一号に掲げるもののうち産業の国際競争力の強化若しくは国際的な経済活動の拠点の形成に資するものとして内閣府令で定めるもの又は同項第二号に掲げるものに限る。以下この条において同じ。）を実施する法人であって、国家戦略特別区域内において当該特定事業の用に供する施設又は設備を新設し、又は増設したものが、当該新設又は増設に伴い新たに取得し、又は製作し、若しくは建設した機械及び装置、器具及び備品、建物及びその附属設備並びに構築物については、租税特別措置法（昭和三十二年法律第二十六号）で定めるところにより、課税の特例の適用があるものとする。</Sentence>
+              <Sentence>認定区域計画に定められている特定事業（第二条第二項第一号に掲げるもののうち産業の国際競争力の強化若しくは国際的な経済活動の拠点の形成に資するものとして内閣府令で定めるもの又は同項第二号に掲げるもののうち第二十八条第一項に規定する利子補給契約に係る貸付けを受けて行われることその他の内閣府令で定める要件に該当するものに限る。以下この条において同じ。）を実施する法人であって、国家戦略特別区域内において当該特定事業の用に供する施設又は設備を新設し、又は増設したものが、当該新設又は増設に伴い新たに取得し、又は製作し、若しくは建設した機械及び装置、器具及び備品、建物及びその附属設備並びに構築物については、租税特別措置法（昭和三十二年法律第二十六号）で定めるところにより、課税の特例の適用があるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3514,6 +4380,218 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="28_2">
+          <ArticleCaption>（国の機関等に対するデータの提供の求め）</ArticleCaption>
+          <ArticleTitle>第二十八条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>認定区域計画に定められている国家戦略特別区域データ連携基盤整備事業の実施主体であって、内閣府令・総務省令・経済産業省令で定めるデータの安全管理に係る基準に適合することについて内閣総理大臣の確認を受けたもの（以下この条及び次条において単に「実施主体」という。）は、先端的区域データ活用事業活動の実施に活用するため、国の機関又は公共機関等（独立行政法人通則法（平成十一年法律第百三号）第二条第一項に規定する独立行政法人その他これに準ずる者で政令で定めるものをいう。以下この条において同じ。）の保有するデータであって区域データとしての活用が見込まれるものを必要とするときは、内閣府令で定めるところにより、内閣総理大臣に対し、当該データの提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定による求めを受けた内閣総理大臣は、当該求めに係るデータを自ら保有する場合において、当該求めについて次の各号に掲げる事由のいずれにも該当すると認めるときは、遅滞なく、当該データを当該求めをした実施主体に提供するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該データの収集が、前項の国家戦略特別区域データ連携基盤整備事業及び先端的区域データ活用事業活動の効果的かつ効率的な実施に不可欠なものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該データの提供が、他の法令に違反し、又は違反するおそれがないものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該データを提供することにより、公益を害し、又はその所掌事務若しくは事業の遂行に支障を及ぼすおそれがないものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定による求めを受けた内閣総理大臣は、前項に規定する場合において、当該求めについて同項各号に掲げる事由のいずれかに該当しないと認めるときは、遅滞なく、当該求めに応じた提供を行わない旨及びその理由を当該求めをした実施主体に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定による求めを受けた内閣総理大臣は、当該求めに係るデータをその所管する公共機関等、他の関係行政機関の長又は他の関係行政機関の長の所管する公共機関等が保有する場合において、当該求めについて第二項第一号に掲げる事由に該当すると認めるときは、遅滞なく、当該データを保有するその所管の公共機関等又は他の関係行政機関の長（その所管する公共機関等が当該データを保有する場合の当該他の関係行政機関の長を含む。次項において同じ。）に対し、当該データの提供を要請するとともに、その旨を当該求めをした実施主体に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定による求めを受けた内閣総理大臣は、前項に規定する場合において、当該求めが第二項第一号に掲げる事由に該当しないと認めるときは、遅滞なく、当該求めに係るデータを保有するその所管の公共機関等又は他の関係行政機関の長に対して当該データの提供を要請しない旨及びその理由を当該求めをした実施主体に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第四項の規定による要請を受けた関係行政機関の長は、当該要請に係る求めに係るデータを自ら保有する場合において、当該求めについて第二項各号に掲げる事由のいずれにも該当すると認めるときは、遅滞なく、当該求めに係るデータを当該求めをした実施主体に提供するとともに、内閣総理大臣にその旨を通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第四項の規定による要請を受けた関係行政機関の長は、前項に規定する場合において、当該要請に係る求めについて第二項各号に掲げる事由のいずれかに該当しないと認めるときは、遅滞なく、当該求めに応じた提供を行わない旨及びその理由を内閣総理大臣に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第四項の規定による要請を受けた関係行政機関の長は、当該要請に係る求めに係るデータをその所管する公共機関等が保有する場合において、当該求めについて第二項第一号に掲げる事由に該当すると認めるときは、遅滞なく、当該データを保有するその所管の公共機関等に対し、当該データの提供を要請するとともに、その旨を内閣総理大臣に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第四項の規定による要請を受けた関係行政機関の長は、前項に規定する場合において、当該要請に係る求めについて第二項第一号に掲げる事由に該当しないと認めるときは、遅滞なく、当該要請に応じて前項の公共機関等に要請を行わない旨及びその理由を内閣総理大臣に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第四項又は第八項の規定による要請を受けた公共機関等は、当該要請に係る求めについて第二項各号に掲げる事由のいずれにも該当すると認めるときは、遅滞なく、当該求めに係るデータを当該求めをした実施主体に提供するとともに、当該公共機関等を所管する内閣総理大臣又は関係行政機関の長にその旨を通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定による通知を受けた関係行政機関の長は、その旨を内閣総理大臣に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="12">
+            <ParagraphNum>１２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第四項又は第八項の規定による要請を受けた公共機関等は、当該要請に係る求めについて第二項各号に掲げる事由のいずれかに該当しないと認めるときは、遅滞なく、その旨及びその理由を当該公共機関等を所管する内閣総理大臣又は関係行政機関の長に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="13">
+            <ParagraphNum>１３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定による通知を受けた関係行政機関の長は、その旨を内閣総理大臣に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="14">
+            <ParagraphNum>１４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第七項から第九項まで及び前二項の規定による通知を受けた内閣総理大臣は、遅滞なく、その通知の内容を当該通知に係る第一項の規定による求めをした実施主体に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="15">
+            <ParagraphNum>１５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国の機関及び公共機関等は、第一項の規定による求めがあったときは、官民データ活用推進基本法の趣旨にのっとり、積極的なデータの提供に努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_3">
+          <ArticleCaption>（地方公共団体に対するデータの提供の求め）</ArticleCaption>
+          <ArticleTitle>第二十八条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>実施主体は、先端的区域データ活用事業活動の実施に活用するため、国家戦略特別区域会議に係る関係地方公共団体の保有するデータであって区域データとしての活用が見込まれるものを必要とするときは、内閣府令で定めるところにより、当該関係地方公共団体の長その他の執行機関に対し、当該データの提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定による求めを受けた関係地方公共団体の長その他の執行機関は、当該求めについて前条第二項各号に掲げる事由のいずれにも該当すると認めるときは、遅滞なく、当該求めに係るデータを当該求めをした実施主体に提供するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定による求めを受けた関係地方公共団体の長その他の執行機関は、当該求めについて前条第二項各号に掲げる事由のいずれかに該当しないと認めるときは、遅滞なく、当該求めに応じた提供を行わない旨及びその理由を当該求めをした実施主体に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国家戦略特別区域会議に係る関係地方公共団体は、第一項の規定による求めがあったときは、官民データ活用推進基本法の趣旨にのっとり、積極的なデータの提供に努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_4">
+          <ArticleCaption>（新たな規制の特例措置の求め）</ArticleCaption>
+          <ArticleTitle>第二十八条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国家戦略特別区域会議（国家戦略特別区域データ連携基盤整備事業を含む区域計画を定めようとするもの又はその認定を受けたものに限る。以下この条において同じ。）は、国家戦略特別区域における産業の国際競争力の強化又は国際的な経済活動の拠点の形成を図るために、先端的区域データ活用事業活動を実施する主体が国家戦略特別区域において新たな規制の特例措置（法律により規定された規制についての法律の特例に関する措置又は政令等により規定された規制についての第二十六条の規定による政令若しくは内閣府令・主務省令で定める政令等の特例に関する措置であって、この法律の改正又は政令若しくは内閣府令・主務省令の制定若しくは改正をする必要があるものをいい、これらの措置の適用を受ける場合において当該規制の趣旨に照らし地方公共団体がこれらの措置と併せて実施し又はその実施を促進することが必要となる措置を含む。以下この条及び第三十条第一項第七号において同じ。）の適用を受けて先端的区域データ活用事業活動を実施し又はその実施を促進する必要があると認めるときは、内閣府令で定めるところにより、内閣総理大臣に対し、当該新たな規制の特例措置の整備を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">国家戦略特別区域会議は、前項の規定による求めをしようとする場合には、国家戦略特別区域基本方針及び区域方針に即して、内閣府令で定めるところにより、当該求めに係る区域計画又は認定区域計画の変更の案を作成し、内閣総理大臣に提出するものとする。</Sentence>
+              <Sentence Num="2">この場合において、国家戦略特別区域会議は、当該案に次項において準用する第八条第二項第二号から第六号までに掲げる事項を定めるに当たっては、当該求めに係る先端的区域データ活用事業活動を実施する区域の住民その他の利害関係者の意向を踏まえなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">第七条第四項及び第五項並びに第八条第二項及び第六項の規定は、前項の案の作成について準用する。</Sentence>
+              <Sentence Num="2">この場合において、同条第二項第二号中「実施主体」とあるのは「実施主体並びに新たな規制の特例措置（第二十八条の四第一項に規定する新たな規制の特例措置をいう。次号において同じ。）の適用を受けて実施する先端的区域データ活用事業活動の内容及び当該先端的区域データ活用事業活動を実施すると見込まれる主体」と、同項第三号中「の内容」とあるのは「及び先端的区域データ活用事業活動に適用される新たな規制の特例措置の内容」と、同項第四号中「特定事業」とあるのは「特定事業及び先端的区域データ活用事業活動」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定による求めを受けた内閣総理大臣は、当該求めがその所管する法律又は政令等により規定された規制についての特例に関する措置を求めるものである場合において、当該求めを踏まえた新たな規制の特例措置を講ずることが必要かつ適当であると認めるときは、遅滞なく、その旨及び講ずることとする新たな規制の特例措置の内容を当該求めをした国家戦略特別区域会議に通知するとともに、講ずることとする新たな規制の特例措置の内容を公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定による求めを受けた内閣総理大臣は、前項に規定する場合において、当該求めを踏まえた新たな規制の特例措置を講ずることが必要でないと認めるとき、又は適当でないと認めるときは、遅滞なく、その旨及びその理由を当該求めをした国家戦略特別区域会議に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>内閣総理大臣は、第一項の規定による求めに係る新たな規制の特例措置を講ずるか否かを判断するに当たっては、国家戦略特別区域諮問会議の意見を聴くものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の規定による求めを受けた内閣総理大臣は、当該求めが他の関係行政機関の長の所管する法律又は政令等により規定された規制についての特例に関する措置を求めるものである場合には、当該関係行政機関の長に対し、新たな規制の特例措置について検討を行うよう要請するとともに、その旨を当該求めをした国家戦略特別区域会議に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定による要請を受けた関係行政機関の長は、当該要請を踏まえた新たな規制の特例措置を講ずることが必要かつ適当であると認めるときは、遅滞なく、その旨及び講ずることとする新たな規制の特例措置の内容を内閣総理大臣に通知するとともに、講ずることとする新たな規制の特例措置の内容を公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第七項の規定による要請を受けた関係行政機関の長は、当該要請を踏まえた新たな規制の特例措置を講ずることが必要でないと認めるとき、又は適当でないと認めるときは、遅滞なく、その旨及びその理由を内閣総理大臣に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前二項の規定による通知を受けた内閣総理大臣は、遅滞なく、その通知の内容を当該通知に係る第一項の規定による求めをした国家戦略特別区域会議に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>関係行政機関の長は、第七項の規定による要請に係る新たな規制の特例措置を講ずるか否かを判断するに当たっては、国家戦略特別区域諮問会議の意見を聴くものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
       </Chapter>
       <Chapter Num="5">
         <ChapterTitle>第五章　国家戦略特別区域諮問会議</ChapterTitle>
@@ -3538,7 +4616,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>国家戦略特別区域の指定に関し、第二条第五項に規定する事項を処理すること。</Sentence>
+                <Sentence>国家戦略特別区域の指定に関し、第二条第六項に規定する事項を処理すること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -3574,21 +4652,46 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence>第三十七条第二項に規定する雇用指針に関し、同項に規定する事項を処理すること。</Sentence>
+                <Sentence>新たな規制の特例措置の求めに関し、第二十八条の四第六項及び第十一項に規定する事項を処理すること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence>前各号に掲げるもののほか、内閣総理大臣又は関係各大臣の諮問に応じ、国家戦略特別区域における産業の国際競争力の強化及び国際的な経済活動の拠点の形成の推進に関する重要事項について調査審議すること。</Sentence>
+                <Sentence>第三十七条第二項に規定する雇用指針に関し、同項に規定する事項を処理すること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
-                <Sentence>第一号から前号までに規定する事項に関し、調査審議し、必要があると認めるときは、内閣総理大臣及び関係各大臣に対し、意見を述べること。</Sentence>
+                <Sentence>前各号に掲げるもののほか、内閣総理大臣又は関係各大臣の諮問に応じ、国家戦略特別区域における産業の国際競争力の強化及び国際的な経済活動の拠点の形成の推進に関する重要事項について調査審議すること。</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence>前各号に規定する事項に関し、調査審議し、必要があると認めるときは、内閣総理大臣及び関係各大臣に対し、意見を述べること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>会議は、前項第七号に掲げる事務に関し必要があると認めるときは、内閣総理大臣又は内閣総理大臣を通じて関係行政機関の長に勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>会議は、前項の規定による勧告をしたときは、遅滞なく、その内容を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">内閣総理大臣又は関係行政機関の長は、第二項の規定による勧告を受けて講じた措置について会議に通知しなければならない。</Sentence>
+              <Sentence Num="2">この場合において、関係行政機関の長が行う通知は、内閣総理大臣を通じて行うものとする。</Sentence>
+            </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="31">
@@ -3852,7 +4955,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>国及び関係地方公共団体は、自動車の自動運転、小型無人機の遠隔操作又は自動操縦その他これらに類する高度な産業技術であって技術革新の進展に即応したものの有効性の実証を行う事業活動を集中的に推進することにより、産業の国際競争力の強化及び国際的な経済活動の拠点の形成を図るため、国家戦略特別区域内において当該事業活動を行う者に対する道路交通法（昭和三十五年法律第百五号）、航空法（昭和二十七年法律第二百三十一号）、電波法（昭和二十五年法律第百三十一号）その他の法令の規定に基づく手続に関する情報の提供、相談、助言その他の援助を行うものとする。</Sentence>
+              <Sentence>国及び関係地方公共団体は、自動車の自動運転、無人航空機の遠隔操作又は自動操縦その他これらに類する高度な産業技術であって技術革新の進展に即応したものの有効性の実証を行う事業活動を集中的に推進することにより、産業の国際競争力の強化及び国際的な経済活動の拠点の形成を図るため、国家戦略特別区域内において当該事業活動を行う者に対する道路運送車両法、道路交通法、航空法、電波法その他の法令の規定に基づく手続に関する情報の提供、相談、助言その他の援助を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -3860,6 +4963,16 @@
             <ParagraphSentence>
               <Sentence Num="1">第三十六条の二第二項から第四項までの規定は、前項の規定により国及び関係地方公共団体が援助を行う場合について準用する。</Sentence>
               <Sentence Num="2">この場合において、同条第二項中「前項」とあり、及び同条第三項中「第一項」とあるのは、「第三十七条の七第一項」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37_8">
+          <ArticleCaption>（情報システム相互の連携を確保するための基盤に係る規格の整備及び互換性の確保に関する援助）</ArticleCaption>
+          <ArticleTitle>第三十七条の八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、先端的技術利用事業活動の実施の促進を図るため、国家戦略特別区域において、先端的技術利用事業活動を実施する主体の情報システムと先端的技術利用事業活動の実施に活用されるデータを保有する主体の情報システムとの相互の連携を確保するための基盤を整備する者に対し、当該基盤に係る規格の整備及び互換性の確保に関する情報の提供、相談、助言その他の援助を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4628,7 +5741,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成三十二年四月一日から施行する。</Sentence>
+            <Sentence Function="main" Num="1">この法律は令和二年四月一日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2">ただし、次条及び附則第四条の規定は、公布の日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -5064,6 +6177,62 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月三日法律第三四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、先端的技術利用事業活動（この法律による改正後の国家戦略特別区域法（以下「新法」という。）第二条第四項に規定する先端的技術利用事業活動をいう。以下この条において同じ。）の実施の促進を図ることの重要性に鑑み、データ連携基盤（新法第三十七条の八に規定する基盤をいう。以下この条において同じ。）の整備の状況及び先端的技術利用事業活動の実施状況を踏まえつつ、この法律の施行後三年以内を目途として、同一の種類の先端的技術利用事業活動が異なる二以上のデータ連携基盤からデータの提供を受けて実施される場合において当該先端的技術利用事業活動の円滑かつ効果的な実施を促進するために必要な施策について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（旅館業法の特例に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>新法第十三条第十三項（第五号に係る部分に限る。）の規定は、この法律の施行の際現に同条第四項第一号、第二号、第四号、第六号（営業に関し成年者と同一の行為能力を有しない未成年者でその法定代理人（法定代理人が法人である場合にあっては、その役員を含む。）が同項第一号から第四号までのいずれかに該当するものに係る部分に限る。以下この条において同じ。）又は第七号（法人であって、その業務を行う役員のうちに同項第一号から第四号までのいずれかに該当する者があるものに係る部分に限る。以下この条において同じ。）のいずれかに該当しているこの法律による改正前の国家戦略特別区域法（次条において「旧法」という。）第十三条第一項の認定を受けて同項に規定する国家戦略特別区域外国人滞在施設経営事業を行っている者が、引き続き同一の事実により新法第十三条第四項第一号、第二号、第四号、第六号又は第七号のいずれかに該当している場合については、この法律の施行の日から起算して三年を経過する日までの間は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（課税の特例に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前に国家戦略特別区域法第十一条第一項に規定する認定区域計画に定められた旧法第二十七条の二に規定する特定事業（国家戦略特別区域法第二条第二項第二号に掲げるものに限る。）についての課税の特例については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表（第二条関係）</AppdxTableTitle>
       <TableStruct>
@@ -5418,6 +6587,17 @@
             </TableColumn>
             <TableColumn>
               <Sentence>第二十五条</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn>
+              <Sentence>十三の二</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>国家戦略特別区域革新的技術実証事業</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>第二十五条の二から第二十五条の六まで</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
