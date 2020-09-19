@@ -179,12 +179,6 @@
               <Sentence WritingMode="vertical">別表の七六の項の中欄に掲げる法令の同表下欄に掲げる規定に基づく申請等に関して第一項の申請等を行う場合において、添付書面等が原届出受理証の写しであるときは、当該申請等を行う者は、光学式読取装置を用いて当該原届出受理証の写しに記載されている事項をファイルに記録した上で、これを送信することをもって、当該添付書面等の提出に代えることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">別表の七五から七九までの項の中欄に掲げる法令の同表下欄に掲げる規定に基づく申請等に関して法令の規定に基づき同一内容の書面等を数通必要とする申請等を行う者が、第一項の規定に基づき、当該数通の書面等のうち一通に記載され又はこれに記載すべき事項を入力した場合は、その他の同一内容の書面等に記載され又はこれに記載すべき事項が入力されたものとみなす。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="6">
           <ArticleTitle>第六条</ArticleTitle>
@@ -403,6 +397,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月八日内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この命令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
@@ -410,8 +413,7 @@
         <Table WritingMode="vertical">
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">
-              </Sentence>
+              <Sentence WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">法令</Sentence>
@@ -1027,7 +1029,7 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">七五</Sentence>
             </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="5">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
               <Sentence WritingMode="vertical">対内直接投資等に関する命令（昭和五十五年総理府、大蔵省、文部省、厚生省、農林水産省、通商産業省、運輸省、郵政省、労働省、建設省令第一号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -1064,6 +1066,14 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence WritingMode="vertical">第七条第三項</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">八○</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">第七条第四項</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
