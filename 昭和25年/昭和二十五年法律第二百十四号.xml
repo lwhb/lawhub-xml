@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200605e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="214" Year="25">
+<Law DataInfo="200731e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="214" Year="25">
   <LawNum>昭和二十五年法律第二百十四号</LawNum>
   <LawBody>
     <LawTitle>文化財保護法</LawTitle>
@@ -1289,7 +1289,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>都道府県及び市（特別区を含む。以下同じ。）町村の教育委員会（地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）第二十三条第一項の条例の定めるところによりその長が文化財の保護に関する事務を管理し、及び執行することとされた地方公共団体（以下「特定地方公共団体」という。）にあつては、その長。第百四十三条第三項、第百八十三条の八第四項、第百九十条第一項及び第百九十一条第一項を除き、以下同じ。）は、重要文化財の所有者又は管理団体の求めに応じ、重要文化財保存活用計画の作成及び認定重要文化財保存活用計画の円滑かつ確実な実施に関し必要な指導又は助言をすることができる。</Sentence>
+                  <Sentence>都道府県及び市（特別区を含む。以下同じ。）町村の教育委員会（地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）第二十三条第一項の条例の定めるところによりその長が文化財の保護に関する事務を管理し、及び執行することとされた地方公共団体（以下「特定地方公共団体」という。）にあつては、その長。第百八十三条の八第四項、第百九十条第一項及び第百九十一条第一項を除き、以下同じ。）は、重要文化財の所有者又は管理団体の求めに応じ、重要文化財保存活用計画の作成及び認定重要文化財保存活用計画の円滑かつ確実な実施に関し必要な指導又は助言をすることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -3963,18 +3963,11 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">都道府県知事は、第一項の伝統的建造物群保存地区に関する都市計画についての都市計画法第十九条第三項の規定による同意に当たつては、あらかじめ、当該都道府県の教育委員会の意見を聴かなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、当該都道府県が特定地方公共団体である場合は、この限りでない。</Sentence>
+              <Sentence>市町村は、伝統的建造物群保存地区に関し、地区の決定若しくはその取消し又は条例の制定若しくはその改廃を行つた場合は、文化庁長官に対し、その旨を報告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>市町村は、伝統的建造物群保存地区に関し、地区の決定若しくはその取消し又は条例の制定若しくはその改廃を行つた場合は、文化庁長官に対し、その旨を報告しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence>文化庁長官又は都道府県の教育委員会は、市町村に対し、伝統的建造物群保存地区の保存に関し、必要な指導又は助言をすることができる。</Sentence>
             </ParagraphSentence>
@@ -7482,6 +7475,31 @@
           <Sentence>この法律は、公布の日から起算して一月を超えない範囲内において政令で定める日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一〇日法律第四一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条、第七条及び第十条の規定並びに附則第四条、第六条、第八条、第十一条、第十三条、第十五条及び第十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
