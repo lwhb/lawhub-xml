@@ -209,11 +209,17 @@
           <Item Delete="false" Hide="false" Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">競馬の健全な発展を図るために行う地方競馬の実施に必要な施設及び設備の整備に必要な業務</Sentence>
+              <Sentence WritingMode="vertical">競馬の健全な発展を図るために行うギャンブル等依存症対策基本法（平成三十年法律第七十四号）第七条に規定するギャンブル等依存症の予防等の実施に必要な業務</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="10">
             <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">競馬の健全な発展を図るために行う地方競馬の実施に必要な施設及び設備の整備に必要な業務</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="11">
+            <ItemTitle>十一</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">競馬の国際化に必要な業務</Sentence>
             </ItemSentence>
@@ -668,29 +674,11 @@
               <Sentence WritingMode="vertical">開催の日時</Sentence>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">各開催日における各競走の番号、種類及び距離</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="4">
-            <ItemTitle>四</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">開催執務委員の氏名</Sentence>
-            </ItemSentence>
-          </Item>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">競馬会は、競馬法（昭和二十三年法律第百五十八号）第六条第四項の認可を受けて海外競馬の競走について勝馬投票券を発売しようとするときは、当該勝馬投票券の発売の二十日前までに、当該競走についての勝馬投票の実施に係る海外競走勝馬投票執務委員の氏名を農林水産大臣に届け出なければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">競馬会は、前二項の規定による届出をした後において第一項各号に掲げる事項又は前項に規定する事項について変更をしようとするときは、その変更の内容を農林水産大臣に届け出なければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">競馬会は、前項の規定による届出をした後において前項各号に掲げる事項について変更をしようとするときは、その変更の内容を農林水産大臣に届け出なければならない。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その変更が天災地変その他競馬会の責めに帰すことのできない理由による場合には、事後において、遅滞なく、その変更の内容を農林水産大臣に届け出ることをもつて足りる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -1028,12 +1016,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月一一日農林水産省令第五九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式（第十五条関係）</AppdxStyleTitle>
       <RelatedArticleNum>（第十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S29F00601000056_1906251106_001.pdf"/>
+          <Fig src="./pict/S29F00601000056_2009141309_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
