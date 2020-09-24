@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="043" Year="28">
+<Law DataInfo="200909e05k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="043" Year="28">
   <LawNum>平成二十八年政令第四十三号</LawNum>
   <LawBody>
     <LawTitle>電気事業法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令　抄</LawTitle>
@@ -171,7 +171,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">改正法附則第二十三条第一項に規定する特別小売供給を行う事業を営む改正法附則第四条第二項に規定するみなし登録特定送配電事業者に対して当該事業に係る電気の供給施設を設けるために要する費用を負担し、その施設を利用して電気の供給を受ける権利（平成三十三年三月三十一日までに取得されたものに限る。）は、第十条の規定による改正後の所得税法施行令第六条の規定の適用については、同条第八号カに掲げる電気ガス供給施設利用権とみなす。</Sentence>
+            <Sentence WritingMode="vertical">改正法附則第二十三条第一項に規定する特別小売供給を行う事業を営む改正法附則第四条第二項に規定するみなし登録特定送配電事業者に対して当該事業に係る電気の供給施設を設けるために要する費用を負担し、その施設を利用して電気の供給を受ける権利（令和三年三月三十一日までに取得されたものに限る。）は、所得税法施行令第六条の規定の適用については、同条第八号ヨに掲げる電気ガス供給施設利用権とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -220,6 +220,19 @@
               <Sentence WritingMode="vertical">第二条第三項第九号中「第三条第一項第七号」を「第十七条第一項第七号」と改める。</Sentence>
             </AmendProvisionSentence>
           </AmendProvision>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この政令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>
