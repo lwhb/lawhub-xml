@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200601e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="220" Year="52">
+<Law DataInfo="200806e04k10m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="220" Year="52">
   <LawNum>昭和五十二年政令第二百二十号</LawNum>
   <LawBody>
     <LawTitle>電子情報処理組織による輸出入等関連業務の処理等に関する法律施行令</LawTitle>
@@ -358,7 +358,7 @@
           <Item Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence>船舶油濁損害賠償保障法（昭和五十年法律第九十五号）第四十一条の二第一項又は第三項（保障契約情報）の規定による通報</Sentence>
+              <Sentence>船舶油濁等損害賠償保障法（昭和五十年法律第九十五号）第五十八条第一項又は第三項（保障契約情報）の規定による通報</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="10">
@@ -1124,6 +1124,16 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月二五日政令第二〇八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+      <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令は、船舶油濁損害賠償保障法の一部を改正する法律（第二号において「改正法」という。）の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和二年三月三一日政令第一二八号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
@@ -1847,6 +1857,14 @@
             </TableColumn>
             <TableColumn>
               <Sentence>関税法第百二条第一項（証明書類の交付及び統計の閲覧等）の規定による請求</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn>
+              <Sentence>四七の三</Sentence>
+            </TableColumn>
+            <TableColumn>
+              <Sentence>関税法附則第七項の規定による書面の提出</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>

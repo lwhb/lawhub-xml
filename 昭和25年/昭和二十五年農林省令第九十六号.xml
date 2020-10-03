@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200611e81k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="96" Year="25">
+<Law DataInfo="200918e80k10m02" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="96" Year="25">
   <LawNum>昭和二十五年農林省令第九十六号</LawNum>
   <LawBody>
     <LawTitle>家畜改良増殖法施行規則</LawTitle>
@@ -196,10 +196,10 @@
                 <Subitem1Sentence>
                   <Sentence Num="1" WritingMode="vertical">牛について</Sentence>
                 </Subitem1Sentence>
-                <Subitem2 Delete="false" Hide="false" Num="1">
+                <Subitem2 Num="1">
                   <Subitem2Title>（１）</Subitem2Title>
                   <Subitem2Sentence>
-                    <Sentence WritingMode="vertical">肉用の品種であつて農林水産大臣が指定するものについては、遺伝性先天性ポルフィリン症、遺伝性特発性てんかん、遺伝性けいれん性不全麻ひ、遺伝性先天性軟骨発育不全症、遺伝性長期在胎、遺伝性の奇型、クローディン十六欠損症、第十三因子欠損症、バンド三欠損症、IARS異常症及びモリブデン補酵素欠損症並びにこれらを後代に発現させる遺伝性疾患</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">肉用の品種であつて農林水産大臣が指定するものについては、遺伝性先天性ポルフィリン症、遺伝性特発性てんかん、遺伝性けいれん性不全麻ひ、遺伝性先天性軟骨発育不全症、遺伝性長期在胎、遺伝性の奇型、クローディン十六欠損症、第十三因子欠損症、バンド三欠損症、ＩＡＲＳ異常症及びモリブデン補酵素欠損症並びにこれらを後代に発現させる遺伝性疾患</Sentence>
                   </Subitem2Sentence>
                 </Subitem2>
                 <Subitem2 Num="2">
@@ -228,16 +228,12 @@
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
-            <Item Delete="false" Hide="false" Num="3">
+            <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">繁殖機能の障害</Sentence>
+                <Sentence Num="1" WritingMode="vertical">繁殖機能の障害</Sentence>
+                <Sentence Num="2" WritingMode="vertical">精巣炎、精巣機能減退、精巣い縮、潜在性精巣、陰のう炎、ぼつ起不全症、陰茎脱、陰茎湾曲症、亀頭包皮炎、包茎、精のうせん炎、前立せん炎、精巣及び副生殖器の発育不全及びしゆよう並びに陰茎及び包皮の裂傷</Sentence>
               </ItemSentence>
-              <List>
-                <ListSentence>
-                  <Sentence WritingMode="vertical">精巣炎、精巣機能減退、精巣い縮、潜在性精巣、陰のう炎、ぼつ起不全症、陰茎脱、陰茎湾曲症、亀頭包皮炎、包茎、精のうせん炎、前立せん炎、精巣及び副生殖器の発育不全及びしゆよう並びに陰茎及び包皮の裂傷</Sentence>
-                </ListSentence>
-              </List>
             </Item>
           </Paragraph>
         </Article>
@@ -2470,12 +2466,16 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和二六年五月三一日農林省令第三五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphNum>１</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">この省令は、家畜伝染病予防法の施行の日（昭和二十六年六月一日）から施行する。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、家畜伝染病予防法の施行の日（昭和二十六年六月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和二九年八月二八日農林省令第五三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -3087,6 +3087,19 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年二月五日農林水産省令第七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、家畜伝染病予防法の一部を改正する法律の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxNote Num="0">
       <AppdxNoteTitle WritingMode="vertical">別記</AppdxNoteTitle>
     </AppdxNote>
@@ -3119,25 +3132,25 @@
       <StyleStruct>
         <StyleStructTitle>その一（種付台帳の表紙）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_004.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_004.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その二（種付けに関する事項）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_005.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_005.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その三（家畜人工授精用精液の採取等に関する事項）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_006.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_006.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その四（年次別の種付け及び精液採取の成績表）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_007.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3145,7 +3158,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第五号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_008.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3153,7 +3166,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第六号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_009.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3162,13 +3175,13 @@
       <StyleStruct>
         <StyleStructTitle>その一（家畜人工授精用精液証明書の表）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_010.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_010.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その二（家畜人工授精用精液証明書の裏）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_011.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3177,13 +3190,13 @@
       <StyleStruct>
         <StyleStructTitle>その一（家畜体内受精卵証明書の表）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_012.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_012.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その二（家畜体内受精卵証明書の裏）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_013.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3192,13 +3205,13 @@
       <StyleStruct>
         <StyleStructTitle>その一（家畜体外受精卵証明書の表）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_014.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_014.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その二（家畜体外受精卵証明書の裏）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_015.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3206,7 +3219,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第八号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_016.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3214,7 +3227,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第八号の二</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_017.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3222,7 +3235,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第八号の三</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_018.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3231,55 +3244,55 @@
       <StyleStruct>
         <StyleStructTitle>その一（家畜人工授精簿の表紙）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_019.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_019.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その二（家畜人工授精用精液の採取及び処理に関する事項）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_020.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_020.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その三（家畜人工授精用精液の注入に関する事項）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_021.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_021.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その四（年次別の授精成績表）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_022.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_022.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その五（家畜体内受精卵の採取及び処理に関する事項）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_023.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_023.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その六（家畜体外受精卵の生産に関する事項）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_024.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_024.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その七（受精卵の移植に関する事項）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_025.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_025.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その八（年次別の体内受精卵移植成績表）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_026.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_026.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <StyleStructTitle>その九（年次別の体外受精卵移植成績表）</StyleStructTitle>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_027.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3287,7 +3300,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第十号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_028.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3295,7 +3308,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第十号の二</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_029.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3303,21 +3316,23 @@
       <AppdxStyleTitle WritingMode="vertical">様式第十号の三</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_030.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">様式第十一号 削除</AppdxStyleTitle>
+    <AppdxStyle Num="11">
+      <AppdxStyleTitle WritingMode="vertical">様式第十一号</AppdxStyleTitle>
+      <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">様式第十二号 削除</AppdxStyleTitle>
+    <AppdxStyle Num="12">
+      <AppdxStyleTitle WritingMode="vertical">様式第十二号</AppdxStyleTitle>
+      <RelatedArticleNum>　削除</RelatedArticleNum>
     </AppdxStyle>
     <AppdxStyle Num="13">
       <AppdxStyleTitle WritingMode="vertical">様式第十三号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_031.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3325,7 +3340,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第十四号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_032.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3333,7 +3348,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第十五号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_033.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3341,7 +3356,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第十六号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_034.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3349,7 +3364,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第十七号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_035.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3357,7 +3372,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第十八号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_036.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3365,7 +3380,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第十九号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_037.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3373,7 +3388,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第二十号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_038.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_038.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3381,7 +3396,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第二十一号</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/GS25F00601000096_2008182008_039.pdf"/>
+          <Fig src="./pict/GS25F00601000096_2009081609_039.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

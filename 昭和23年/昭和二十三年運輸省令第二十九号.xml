@@ -3370,12 +3370,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-<SupplProvision AmendLawNum="令和二年六月二四日国土交通省令第五九号" Type="Amend">
+    <SupplProvision AmendLawNum="令和二年六月二四日国土交通省令第五九号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、令和二年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+<SupplProvision AmendLawNum="令和二年九月一八日国土交通省令第七七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年九月二十六日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -3549,10 +3558,10 @@
               <Sentence WritingMode="vertical">第一区</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="2">
-              <Sentence WritingMode="vertical">若松町ふ頭突堤西端から函館どつく第三岸壁南東端まで引いた線（以下Ａ線という。）及び陸岸により囲まれた海面</Sentence>
+              <Sentence WritingMode="vertical">若松ふ頭岸壁西端から函館どつく第三岸壁南東端まで引いた線（以下Ａ線という。）及び陸岸により囲まれた海面</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">各種船舶</Sentence>
+              <Sentence WritingMode="vertical">係留施設に係留する場合における各種船舶</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3571,7 +3580,7 @@
               <Sentence WritingMode="vertical">第三区</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" colspan="2">
-              <Sentence WritingMode="vertical">北ふ頭北西端から西副防波堤北端まで引いた線（以下Ｃ線という。）、同防波堤、同防波堤南端から西防波堤北端まで引いた線、同防波堤、Ｂ線及び陸岸により囲まれた海面（航路を除く。）</Sentence>
+              <Sentence WritingMode="vertical">北ふ頭北西端から西副防波堤北端まで引いた線（以下Ｃ線という。）、同防波堤、同防波堤南端から西防波堤北端まで引いた線、同防波堤、Ｂ線及び陸岸により囲まれた海面</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6311,18 +6320,18 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="2">
               <Sentence WritingMode="vertical">函館</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">第一航路</Sentence>
+              <Sentence WritingMode="vertical">南航路</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
               <Sentence WritingMode="vertical">第一号の地点から第二号の地点まで引いた線と第三号の地点から第四号の地点まで引いた線との間の海面</Sentence>
-              <Sentence WritingMode="vertical">一　函館港北防波堤灯台（北緯四十一度四十七分五十三秒東経百四十度四十一分五十九秒）から九十五度六百二十メートルの地点</Sentence>
-              <Sentence WritingMode="vertical">二　函館港北防波堤灯台から二百七十四度三十分四百八十メートルの地点</Sentence>
-              <Sentence WritingMode="vertical">三　函館港北防波堤灯台から百二十三度三十分六百八十メートルの地点</Sentence>
-              <Sentence WritingMode="vertical">四　函館港北防波堤灯台から二百三十五度三十分五百十メートルの地点</Sentence>
+              <Sentence WritingMode="vertical">一　函館港北防波堤灯台（北緯四十一度四十七分五十三秒東経百四十度四十一分五十九秒）から九十二度二百メートルの地点</Sentence>
+              <Sentence WritingMode="vertical">二　函館港北防波堤灯台から二百六十五度三十分五百六十メートルの地点</Sentence>
+              <Sentence WritingMode="vertical">三　函館港北防波堤灯台から百四十七度三百七十メートルの地点</Sentence>
+              <Sentence WritingMode="vertical">四　函館港北防波堤灯台から二百三十八度六百五十メートルの地点</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
               <Sentence WritingMode="vertical"/>
@@ -6330,28 +6339,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">第二航路</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">第一号の地点から第二号の地点まで引いた線と第三号の地点から第四号の地点まで引いた線との間の海面</Sentence>
-              <Sentence WritingMode="vertical">一　函館港北防波堤灯台から百二十九度三十分千七百六十メートルの地点</Sentence>
-              <Sentence WritingMode="vertical">二　函館港北防波堤灯台から九十五度六百二十メートルの地点</Sentence>
-              <Sentence WritingMode="vertical">三　函館港北防波堤灯台から百三十四度千六百九十メートルの地点</Sentence>
-              <Sentence WritingMode="vertical">四　函館港北防波堤灯台から百二十三度三十分六百八十メートルの地点</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical"/>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-              <Sentence WritingMode="vertical">第三航路</Sentence>
+              <Sentence WritingMode="vertical">北航路</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
               <Sentence WritingMode="vertical">第一号の地点から第三号の地点までを順次に結んだ線と第四号の地点から第六号の地点までを順次に結んだ線との間の海面</Sentence>
@@ -7581,7 +7569,7 @@
               <Sentence WritingMode="vertical">第二区</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence WritingMode="vertical">百五十メートル</Sentence>
+              <Sentence WritingMode="vertical">百三十メートル</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>

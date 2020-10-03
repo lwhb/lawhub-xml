@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200731e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="273" Year="31">
+<Law DataInfo="200904e01k01m02" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="273" Year="31">
   <LawNum>昭和三十一年政令第二百七十三号</LawNum>
   <LawBody>
     <LawTitle>建設業法施行令</LawTitle>
@@ -21,7 +21,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第三条第一項ただし書の政令で定める軽微な建設工事は、工事一件の請負代金の額が建築一式工事にあつては千五百万円に満たない工事又は延べ面積が百五十平方メートルに満たない木造住宅工事、建築一式工事以外の建設工事にあつては五百万円に満たない工事とする。</Sentence>
+            <Sentence>法第三条第一項ただし書の政令で定める軽微な建設工事は、工事一件の請負代金の額が五百万円（当該建設工事が建築一式工事である場合にあつては、千五百万円）に満たない工事又は建築一式工事のうち延べ面積が百五十平方メートルに満たない木造住宅工事、建築一式工事以外の建設工事にあつては五百万円に満たない工事とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -265,6 +265,17 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="5_8">
+        <ArticleCaption>（著しく短い工期の禁止に係る勧告の対象となる請負契約の請負代金の額の下限）</ArticleCaption>
+        <ArticleTitle>第五条の八</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">法第十九条の六第二項の政令で定める金額は、五百万円とする。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、当該請負契約に係る建設工事が建築一式工事である場合においては、千五百万円とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="6">
         <ArticleCaption>（建設工事の見積期間）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
@@ -355,22 +366,22 @@
         </Paragraph>
       </Article>
       <Article Num="7_2">
-        <ArticleCaption>（法第二十四条の五第一項の金額）</ArticleCaption>
+        <ArticleCaption>（法第二十四条の六第一項の金額）</ArticleCaption>
         <ArticleTitle>第七条の二</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第二十四条の五第一項の政令で定める金額は、四千万円とする。</Sentence>
+            <Sentence>法第二十四条の六第一項の政令で定める金額は、四千万円とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="7_3">
-        <ArticleCaption>（法第二十四条の六第一項の法令の規定）</ArticleCaption>
+        <ArticleCaption>（法第二十四条の七第一項の法令の規定）</ArticleCaption>
         <ArticleTitle>第七条の三</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第二十四条の六第一項の政令で定める建設工事の施工又は建設工事に従事する労働者の使用に関する法令の規定は、次に掲げるものとする。</Sentence>
+            <Sentence>法第二十四条の七第一項の政令で定める建設工事の施工又は建設工事に従事する労働者の使用に関する法令の規定は、次に掲げるものとする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -411,12 +422,12 @@
         </Paragraph>
       </Article>
       <Article Num="7_4">
-        <ArticleCaption>（法第二十四条の七第一項の金額）</ArticleCaption>
+        <ArticleCaption>（法第二十四条の八第一項の金額）</ArticleCaption>
         <ArticleTitle>第七条の四</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">法第二十四条の七第一項の政令で定める金額は、四千万円とする。</Sentence>
+            <Sentence Function="main" Num="1">法第二十四条の八第一項の政令で定める金額は、四千万円とする。</Sentence>
             <Sentence Function="proviso" Num="2">ただし、特定建設業者が発注者から直接請け負つた建設工事が建築一式工事である場合においては、六千万円とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -1077,29 +1088,106 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="27_2">
+      <Article Num="28">
+        <ArticleCaption>（監理技術者の行うべき職務を補佐する者）</ArticleCaption>
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二十六条第三項ただし書の政令で定める者は、次の各号のいずれかに該当する者とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第七条第二号イ、ロ又はハに該当する者のうち、法第二十六条の四第一項に規定する技術上の管理及び指導監督であつて監理技術者がその職務として行うべきものに係る基礎的な知識及び能力を有すると認められる者として、建設工事の種類に応じ国土交通大臣が定める要件に該当する者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>国土交通大臣が前号に掲げる者と同等以上の能力を有するものと認定した者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="29">
+        <ArticleCaption>（同一の特例監理技術者を置くことができる工事現場の数）</ArticleCaption>
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二十六条第四項の政令で定める数は、二とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（特定専門工事の対象となる建設工事）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第二十六条の三第二項の政令で定めるものは、次に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>大工工事又はとび・土工・コンクリート工事のうち、コンクリートの打設に用いる型枠の組立てに関する工事</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>鉄筋工事</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>法第二十六条の三第二項の政令で定める金額は、三千五百万円とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（特定専門工事の承諾に係る情報通信の技術を利用する方法）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>注文者は、法第二十六条の三第五項の規定により同条第四項の承諾をする旨の通知（次項において「承諾通知」という。）をしようとするときは、国土交通省令で定めるところにより、あらかじめ、当該元請負人に対し、その用いる同条第五項前段に規定する方法（以下この条において「電磁的方法」という。）の種類及び内容を示し、書面又は電磁的方法による承諾を得なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">前項の規定による承諾を得た注文者は、当該元請負人から書面又は電磁的方法により電磁的方法による通知を受けない旨の申出があつたときは、当該元請負人に対し、承諾通知を電磁的方法によつてしてはならない。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、当該元請負人が再び同項の規定による承諾をした場合は、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
         <ArticleCaption>（登録の有効期間）</ArticleCaption>
-        <ArticleTitle>第二十七条の二</ArticleTitle>
+        <ArticleTitle>第三十二条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第二十六条の七第一項（法第二十七条の三十二において準用する場合を含む。）の政令で定める期間は、三年とする。</Sentence>
+            <Sentence>法第二十六条の八第一項（法第二十七条の三十二において準用する場合を含む。）の政令で定める期間は、三年とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="27_2_2">
+      <Article Num="33">
         <ArticleCaption>（国土交通大臣が行う講習手数料）</ArticleCaption>
-        <ArticleTitle>第二十七条の二の二</ArticleTitle>
+        <ArticleTitle>第三十三条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第二十六条の十八の政令で定める手数料の額は、一万五百円とする。</Sentence>
+            <Sentence>法第二十六条の十九の政令で定める手数料の額は、一万五百円とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="27_3">
+      <Article Num="34">
         <ArticleCaption>（技術検定の種目等）</ArticleCaption>
-        <ArticleTitle>第二十七条の三</ArticleTitle>
+        <ArticleTitle>第三十四条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1187,13 +1275,13 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="27_4">
+      <Article Num="35">
         <ArticleCaption>（技術検定の方法及び基準）</ArticleCaption>
-        <ArticleTitle>第二十七条の四</ArticleTitle>
+        <ArticleTitle>第三十五条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">実地試験は、その回の技術検定における学科試験に合格した者及び第二十七条の七の規定により学科試験の全部の免除を受けた者について行うものとする。</Sentence>
+            <Sentence Function="main" Num="1">実地試験は、その回の技術検定における学科試験に合格した者及び第三十八条の規定により学科試験の全部の免除を受けた者について行うものとする。</Sentence>
             <Sentence Function="proviso" Num="2">ただし、国土交通省令で定める種目及び級に係る技術検定の実地試験は、種目及び級を同じくするその回の技術検定における学科試験を受験した者及び同条の規定により当該学科試験の全部の免除を受けた者について行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -1204,9 +1292,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="27_5">
+      <Article Num="36">
         <ArticleCaption>（受検資格）</ArticleCaption>
-        <ArticleTitle>第二十七条の五</ArticleTitle>
+        <ArticleTitle>第三十六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1358,9 +1446,9 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="27_6">
+      <Article Num="37">
         <ArticleCaption>（受検欠格）</ArticleCaption>
-        <ArticleTitle>第二十七条の六</ArticleTitle>
+        <ArticleTitle>第三十七条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1368,9 +1456,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="27_7">
+      <Article Num="38">
         <ArticleCaption>（試験の免除）</ArticleCaption>
-        <ArticleTitle>第二十七条の七</ArticleTitle>
+        <ArticleTitle>第三十八条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1422,9 +1510,9 @@
           </TableStruct>
         </Paragraph>
       </Article>
-      <Article Num="27_8">
+      <Article Num="39">
         <ArticleCaption>（称号）</ArticleCaption>
-        <ArticleTitle>第二十七条の八</ArticleTitle>
+        <ArticleTitle>第三十九条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1432,9 +1520,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="27_9">
+      <Article Num="40">
         <ArticleCaption>（合格の取消し等）</ArticleCaption>
-        <ArticleTitle>第二十七条の九</ArticleTitle>
+        <ArticleTitle>第四十条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1454,14 +1542,14 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="27_10">
+      <Article Num="41">
         <ArticleCaption>（受験手数料等）</ArticleCaption>
-        <ArticleTitle>第二十七条の十</ArticleTitle>
+        <ArticleTitle>第四十一条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1">学科試験又は実地試験の受験手数料の額は、次の表に掲げるとおりとする。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、第二十七条の七の規定により学科試験又は実地試験の一部の免除を受けることができる者が当該学科試験又は実地試験を受けようとする場合においては、当該学科試験又は実地試験について同表に掲げる額から国土交通大臣が定める額を減じた額とする。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第三十八条の規定により学科試験又は実地試験の一部の免除を受けることができる者が当該学科試験又は実地試験を受けようとする場合においては、当該学科試験又は実地試験について同表に掲げる額から国土交通大臣が定める額を減じた額とする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
             <Table>
@@ -1619,9 +1707,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="27_11">
+      <Article Num="42">
         <ArticleCaption>（国土交通省令への委任）</ArticleCaption>
-        <ArticleTitle>第二十七条の十一</ArticleTitle>
+        <ArticleTitle>第四十二条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1629,9 +1717,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="27_12">
+      <Article Num="43">
         <ArticleCaption>（資格者証交付等手数料）</ArticleCaption>
-        <ArticleTitle>第二十七条の十二</ArticleTitle>
+        <ArticleTitle>第四十三条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1639,9 +1727,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="27_13">
+      <Article Num="44">
         <ArticleCaption>（公共性のある施設又は工作物に関する建設工事）</ArticleCaption>
-        <ArticleTitle>第二十七条の十三</ArticleTitle>
+        <ArticleTitle>第四十四条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1661,9 +1749,9 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="27_14">
+      <Article Num="45">
         <ArticleCaption>（国土交通大臣が行う経営規模等評価等手数料）</ArticleCaption>
-        <ArticleTitle>第二十七条の十四</ArticleTitle>
+        <ArticleTitle>第四十五条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1677,9 +1765,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="27_15">
+      <Article Num="46">
         <ArticleCaption>（国土交通大臣が行う経営状況分析手数料）</ArticleCaption>
-        <ArticleTitle>第二十七条の十五</ArticleTitle>
+        <ArticleTitle>第四十六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1687,19 +1775,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="28">
-        <ArticleCaption>（立入検査をする職員の資格）</ArticleCaption>
-        <ArticleTitle>第二十八条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>法第三十一条第一項の規定により立入検査をすることができる職員は、一般職の職員の給与に関する法律（昭和二十五年法律第九十五号）第六条第一項第一号イに規定する行政職俸給表（一）の適用を受ける国家公務員又はこれに準ずる都道府県の公務員でなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="28_2">
+      <Article Num="47">
         <ArticleCaption>（中央建設業審議会の所掌事務）</ArticleCaption>
-        <ArticleTitle>第二十八条の二</ArticleTitle>
+        <ArticleTitle>第四十七条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1707,9 +1785,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="29">
+      <Article Num="48">
         <ArticleCaption>（中央建設業審議会の議事）</ArticleCaption>
-        <ArticleTitle>第二十九条</ArticleTitle>
+        <ArticleTitle>第四十八条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1730,9 +1808,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="30">
+      <Article Num="49">
         <ArticleCaption>（部会）</ArticleCaption>
-        <ArticleTitle>第三十条</ArticleTitle>
+        <ArticleTitle>第四十九条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1772,9 +1850,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="31">
+      <Article Num="50">
         <ArticleCaption>（中央建設業審議会の庶務）</ArticleCaption>
-        <ArticleTitle>第三十一条</ArticleTitle>
+        <ArticleTitle>第五十条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1782,9 +1860,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="32">
+      <Article Num="51">
         <ArticleCaption>（中央建設業審議会の運営）</ArticleCaption>
-        <ArticleTitle>第三十二条</ArticleTitle>
+        <ArticleTitle>第五十一条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1792,9 +1870,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="33">
+      <Article Num="52">
         <ArticleCaption>（参考人に支給する費用）</ArticleCaption>
-        <ArticleTitle>第三十三条</ArticleTitle>
+        <ArticleTitle>第五十二条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -1802,9 +1880,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="34">
+      <Article Num="53">
         <ArticleCaption>（権限の委任）</ArticleCaption>
-        <ArticleTitle>第三十四条</ArticleTitle>
+        <ArticleTitle>第五十三条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -2849,6 +2927,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月二〇日政令第一七一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、建設業法及び公共工事の入札及び契約の適正化の促進に関する法律の一部を改正する法律の施行の日（令和二年十月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和二年六月一九日政令第一九二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>

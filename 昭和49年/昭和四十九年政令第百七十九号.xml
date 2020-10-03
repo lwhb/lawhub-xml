@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200508e01k01m02" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="179" Year="49">
+<Law DataInfo="200901e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="179" Year="49">
   <LawNum>昭和四十九年政令第百七十九号</LawNum>
   <LawBody>
     <LawTitle>在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令</LawTitle>
@@ -1688,6 +1688,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月二八日政令第二二六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年八月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一　在勤基本手当の月額</AppdxTableTitle>
       <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
@@ -1839,40 +1848,40 @@
               <Sentence>インドネシア</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６２０，０００</Sentence>
+              <Sentence>５９０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３０，０００</Sentence>
+              <Sentence>５００，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９４，９００</Sentence>
+              <Sentence>４７２，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７６，２００</Sentence>
+              <Sentence>４５５，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４４８，３００</Sentence>
+              <Sentence>４２９，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０１，７００</Sentence>
+              <Sentence>３８５，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５５，１００</Sentence>
+              <Sentence>３４２，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３０８，５００</Sentence>
+              <Sentence>２９８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２７１，３００</Sentence>
+              <Sentence>２６３，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２５２，６００</Sentence>
+              <Sentence>２４６，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２３４，０００</Sentence>
+              <Sentence>２２８，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２１５，４００</Sentence>
+              <Sentence>２１１，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2455,40 +2464,40 @@
               <Sentence>ベトナム</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５９０，０００</Sentence>
+              <Sentence>５７０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３０，０００</Sentence>
+              <Sentence>５２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９７，９００</Sentence>
+              <Sentence>４８５，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７９，１００</Sentence>
+              <Sentence>４６７，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５０，９００</Sentence>
+              <Sentence>４４０，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０３，９００</Sentence>
+              <Sentence>３９４，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５６，９００</Sentence>
+              <Sentence>３４９，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３０９，９００</Sentence>
+              <Sentence>３０４，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２７２，３００</Sentence>
+              <Sentence>２６８，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２５３，５００</Sentence>
+              <Sentence>２４９，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２３４，７００</Sentence>
+              <Sentence>２３１，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２１５，９００</Sentence>
+              <Sentence>２１３，６００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2675,40 +2684,40 @@
               <Sentence>ラオス</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６７０，０００</Sentence>
+              <Sentence>６６０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６５０，０００</Sentence>
+              <Sentence>６４０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６１２，０００</Sentence>
+              <Sentence>５９９，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５８９，９００</Sentence>
+              <Sentence>５７７，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５５６，８００</Sentence>
+              <Sentence>５４５，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５０１，６００</Sentence>
+              <Sentence>４９１，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４４６，４００</Sentence>
+              <Sentence>４３７，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３９１，２００</Sentence>
+              <Sentence>３８３，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３４７，０００</Sentence>
+              <Sentence>３４０，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３２５，０００</Sentence>
+              <Sentence>３１８，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３０２，９００</Sentence>
+              <Sentence>２９７，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２８０，８００</Sentence>
+              <Sentence>２７５，６００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2807,40 +2816,40 @@
               <Sentence>クック</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６２０，０００</Sentence>
+              <Sentence>６１０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６００，０００</Sentence>
+              <Sentence>５８０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５５８，０００</Sentence>
+              <Sentence>５４５，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３５，７００</Sentence>
+              <Sentence>５２３，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０２，２００</Sentence>
+              <Sentence>４９１，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４４６，４００</Sentence>
+              <Sentence>４３６，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３９０，６００</Sentence>
+              <Sentence>３８１，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３４，８００</Sentence>
+              <Sentence>３２７，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９０，２００</Sentence>
+              <Sentence>２８３，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２６７，８００</Sentence>
+              <Sentence>２６１，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２４５，５００</Sentence>
+              <Sentence>２４０，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２２３，２００</Sentence>
+              <Sentence>２１８，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -2895,40 +2904,40 @@
               <Sentence>ソロモン</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７５０，０００</Sentence>
+              <Sentence>７３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７２０，０００</Sentence>
+              <Sentence>７１０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６８６，０００</Sentence>
+              <Sentence>６７２，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６６４，６００</Sentence>
+              <Sentence>６５１，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６３２，４００</Sentence>
+              <Sentence>６２０，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５７８，８００</Sentence>
+              <Sentence>５６７，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２５，２００</Sentence>
+              <Sentence>５１５，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７１，６００</Sentence>
+              <Sentence>４６３，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４２８，７００</Sentence>
+              <Sentence>４２１，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０７，３００</Sentence>
+              <Sentence>４００，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３８５，８００</Sentence>
+              <Sentence>３７９，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３６４，４００</Sentence>
+              <Sentence>３５９，０００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3071,40 +3080,40 @@
               <Sentence>ニウエ</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６２０，０００</Sentence>
+              <Sentence>６１０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６００，０００</Sentence>
+              <Sentence>５８０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５５８，０００</Sentence>
+              <Sentence>５４５，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３５，７００</Sentence>
+              <Sentence>５２３，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０２，２００</Sentence>
+              <Sentence>４９１，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４４６，４００</Sentence>
+              <Sentence>４３６，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３９０，６００</Sentence>
+              <Sentence>３８１，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３４，８００</Sentence>
+              <Sentence>３２７，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９０，２００</Sentence>
+              <Sentence>２８３，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２６７，８００</Sentence>
+              <Sentence>２６１，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２４５，５００</Sentence>
+              <Sentence>２４０，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２２３，２００</Sentence>
+              <Sentence>２１８，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3115,40 +3124,40 @@
               <Sentence>ニュージーランド</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６２０，０００</Sentence>
+              <Sentence>６１０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６００，０００</Sentence>
+              <Sentence>５８０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５５８，０００</Sentence>
+              <Sentence>５４５，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３５，７００</Sentence>
+              <Sentence>５２３，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０２，２００</Sentence>
+              <Sentence>４９１，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４４６，４００</Sentence>
+              <Sentence>４３６，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３９０，６００</Sentence>
+              <Sentence>３８１，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３４，８００</Sentence>
+              <Sentence>３２７，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９０，２００</Sentence>
+              <Sentence>２８３，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２６７，８００</Sentence>
+              <Sentence>２６１，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２４５，５００</Sentence>
+              <Sentence>２４０，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２２３，２００</Sentence>
+              <Sentence>２１８，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3599,40 +3608,40 @@
               <Sentence>ウルグアイ</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７２０，０００</Sentence>
+              <Sentence>６８０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６９０，０００</Sentence>
+              <Sentence>６６０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６４８，０００</Sentence>
+              <Sentence>６１３，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６２２，１００</Sentence>
+              <Sentence>５８８，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８３，２００</Sentence>
+              <Sentence>５５１，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５１８，４００</Sentence>
+              <Sentence>４９０，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５３，６００</Sentence>
+              <Sentence>４２９，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３８８，８００</Sentence>
+              <Sentence>３６８，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３７，０００</Sentence>
+              <Sentence>３１８，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１１，０００</Sentence>
+              <Sentence>２９４，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８５，１００</Sentence>
+              <Sentence>２６９，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２５９，２００</Sentence>
+              <Sentence>２４５，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -3951,40 +3960,40 @@
               <Sentence>コロンビア</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６７０，０００</Sentence>
+              <Sentence>６５０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６４０，０００</Sentence>
+              <Sentence>６３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６０８，４００</Sentence>
+              <Sentence>５９２，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８７，８００</Sentence>
+              <Sentence>５７２，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５５６，９００</Sentence>
+              <Sentence>５４３，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０５，４００</Sentence>
+              <Sentence>４９３，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５３，９００</Sentence>
+              <Sentence>４４４，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０２，４００</Sentence>
+              <Sentence>３９４，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３６１，２００</Sentence>
+              <Sentence>３５５，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３４０，６００</Sentence>
+              <Sentence>３３５，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３２０，０００</Sentence>
+              <Sentence>３１５，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９９，４００</Sentence>
+              <Sentence>２９６，２００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4215,40 +4224,40 @@
               <Sentence>チリ</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６５０，０００</Sentence>
+              <Sentence>６００，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６３０，０００</Sentence>
+              <Sentence>５８０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８６，４００</Sentence>
+              <Sentence>５４２，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５６２，９００</Sentence>
+              <Sentence>５２０，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２７，７００</Sentence>
+              <Sentence>４８７，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４６９，１００</Sentence>
+              <Sentence>４３３，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４１０，５００</Sentence>
+              <Sentence>３７９，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５１，８００</Sentence>
+              <Sentence>３２５，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３０４，９００</Sentence>
+              <Sentence>２８１，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８１，５００</Sentence>
+              <Sentence>２６０，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２５８，０００</Sentence>
+              <Sentence>２３８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２３４，６００</Sentence>
+              <Sentence>２１６，８００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4303,40 +4312,40 @@
               <Sentence>ドミニカ共和国</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６６０，０００</Sentence>
-            </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
               <Sentence>６４０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６０３，２００</Sentence>
+              <Sentence>６２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８２，８００</Sentence>
+              <Sentence>５８３，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５５２，４００</Sentence>
+              <Sentence>５６４，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０１，６００</Sentence>
+              <Sentence>５３５，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５０，８００</Sentence>
+              <Sentence>４８７，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４００，１００</Sentence>
+              <Sentence>４３９，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５９，４００</Sentence>
+              <Sentence>３９１，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３９，１００</Sentence>
+              <Sentence>３５２，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１８，８００</Sentence>
+              <Sentence>３３３，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９８，５００</Sentence>
+              <Sentence>３１３，９００</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>２９４，７００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4567,40 +4576,40 @@
               <Sentence>パラグアイ</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６００，０００</Sentence>
+              <Sentence>５９０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８０，０００</Sentence>
+              <Sentence>５７０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５４７，６００</Sentence>
+              <Sentence>５３７，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２８，１００</Sentence>
+              <Sentence>５１８，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９８，９００</Sentence>
+              <Sentence>４８９，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５０，３００</Sentence>
+              <Sentence>４４２，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０１，７００</Sentence>
+              <Sentence>３９５，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５３，０００</Sentence>
+              <Sentence>３４８，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１４，１００</Sentence>
+              <Sentence>３１０，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９４，７００</Sentence>
+              <Sentence>２９１，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２７５，２００</Sentence>
+              <Sentence>２７２，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２５５，８００</Sentence>
+              <Sentence>２５３，４００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4655,40 +4664,40 @@
               <Sentence>ブラジル</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６６０，０００</Sentence>
+              <Sentence>５９０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６４０，０００</Sentence>
+              <Sentence>５７０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５９６，０００</Sentence>
+              <Sentence>５３４，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５７３，０００</Sentence>
+              <Sentence>５１４，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３８，４００</Sentence>
+              <Sentence>４８３，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４８０，８００</Sentence>
+              <Sentence>４３２，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４２３，２００</Sentence>
+              <Sentence>３８２，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３６５，６００</Sentence>
+              <Sentence>３３１，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１９，５００</Sentence>
+              <Sentence>２９０，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９６，５００</Sentence>
+              <Sentence>２７０，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２７３，４００</Sentence>
+              <Sentence>２５０，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２５０，４００</Sentence>
+              <Sentence>２２９，９００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4918,41 +4927,41 @@
             <TableColumn BorderTop="none" Valign="middle">
               <Sentence>メキシコ</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６１０，０００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>５６０，０００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５９０，０００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>５４０，０００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５５５，５００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>５０９，８００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５３４，１００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>４９０，７００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５０２，０００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>４６２，０００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４４８，４００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>４１４，２００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３９４，９００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>３６６，４００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３４１，３００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>３１８，６００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２９８，５００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>２８０，３００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２７７，０００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>２６１，２００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２５５，６００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>２４２，１００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２３４，２００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>２２３，０００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -4962,41 +4971,41 @@
             <TableColumn BorderBottom="none" Valign="middle">
               <Sentence>アイスランド</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>７００，０００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>６９０，０００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>６７０，０００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>６６０，０００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>６２７，５００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>６１８，９００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>６０２，４００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>５９４，１００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>５６４，８００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>５５７，０００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>５０２，０００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>４９５，１００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>４３９，３００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>４３３，２００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>３７６，５００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>３７１，３００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>３２６，３００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>３２１，８００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>３０１，２００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>２９７，１００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>２７６，１００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>２７２，３００</Sentence>
             </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>２５１，０００</Sentence>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>２４７，６００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5315,40 +5324,40 @@
               <Sentence>ウズベキスタン</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８０，０００</Sentence>
-            </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
               <Sentence>５６０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２６，４００</Sentence>
+              <Sentence>５４０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０７，８００</Sentence>
+              <Sentence>５０９，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７９，９００</Sentence>
+              <Sentence>４９１，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４３３，４００</Sentence>
+              <Sentence>４６５，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３８６，９００</Sentence>
+              <Sentence>４２１，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３４０，５００</Sentence>
+              <Sentence>３７７，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３０３，３００</Sentence>
+              <Sentence>３３２，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８４，７００</Sentence>
+              <Sentence>２９７，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２６６，１００</Sentence>
+              <Sentence>２７９，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２４７，５００</Sentence>
+              <Sentence>２６２，０００</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>２４４，４００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5711,40 +5720,40 @@
               <Sentence>キルギス</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５５０，０００</Sentence>
-            </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
               <Sentence>５４０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０８，５００</Sentence>
+              <Sentence>５３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９２，６００</Sentence>
+              <Sentence>５０２，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４６８，７００</Sentence>
+              <Sentence>４８６，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４２８，８００</Sentence>
+              <Sentence>４６３，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３８９，０００</Sentence>
+              <Sentence>４２３，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３４９，１００</Sentence>
+              <Sentence>３８４，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１７，２００</Sentence>
+              <Sentence>３４５，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３０１，３００</Sentence>
+              <Sentence>３１４，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８５，３００</Sentence>
+              <Sentence>２９８，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２６９，４００</Sentence>
+              <Sentence>２８２，６００</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>２６７，０００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5755,40 +5764,40 @@
               <Sentence>クロアチア</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５６０，０００</Sentence>
+              <Sentence>５５０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５４０，０００</Sentence>
+              <Sentence>５３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０５，０００</Sentence>
+              <Sentence>４９７，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４８４，８００</Sentence>
+              <Sentence>４７８，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５４，５００</Sentence>
+              <Sentence>４４８，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０４，０００</Sentence>
+              <Sentence>３９８，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５３，５００</Sentence>
+              <Sentence>３４８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３０３，０００</Sentence>
+              <Sentence>２９８，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２６２，６００</Sentence>
+              <Sentence>２５８，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２４２，４００</Sentence>
+              <Sentence>２３９，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２２２，２００</Sentence>
+              <Sentence>２１９，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２０２，０００</Sentence>
+              <Sentence>１９９，２００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -5887,40 +5896,40 @@
               <Sentence>ジョージア</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５４０，０００</Sentence>
+              <Sentence>５３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２０，０００</Sentence>
+              <Sentence>５１０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９４，４００</Sentence>
+              <Sentence>４８５，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７７，４００</Sentence>
+              <Sentence>４６９，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５１，９００</Sentence>
+              <Sentence>４４４，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０９，５００</Sentence>
+              <Sentence>４０２，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３６７，１００</Sentence>
+              <Sentence>３６１，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３２４，６００</Sentence>
+              <Sentence>３１９，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９０，７００</Sentence>
+              <Sentence>２８６，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２７３，７００</Sentence>
+              <Sentence>２６９，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２５６，７００</Sentence>
+              <Sentence>２５２，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２３９，８００</Sentence>
+              <Sentence>２３６，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6195,40 +6204,40 @@
               <Sentence>タジキスタン</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６６０，０００</Sentence>
+              <Sentence>６３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６５０，０００</Sentence>
+              <Sentence>６２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６１７，５００</Sentence>
-            </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６０１，２００</Sentence>
+              <Sentence>５９２，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
               <Sentence>５７６，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３６，０００</Sentence>
+              <Sentence>５５３，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９５，３００</Sentence>
+              <Sentence>５１５，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５４，５００</Sentence>
+              <Sentence>４７７，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４２１，９００</Sentence>
+              <Sentence>４３９，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０５，６００</Sentence>
+              <Sentence>４０８，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３８９，３００</Sentence>
+              <Sentence>３９３，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３７３，０００</Sentence>
+              <Sentence>３７８，１００</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>３６２，９００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6245,34 +6254,34 @@
               <Sentence>５９０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５４７，９００</Sentence>
+              <Sentence>５４６，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２６，０００</Sentence>
+              <Sentence>５２５，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９３，１００</Sentence>
+              <Sentence>４９２，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４３８，３００</Sentence>
+              <Sentence>４３７，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３８３，５００</Sentence>
+              <Sentence>３８２，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３２８，７００</Sentence>
+              <Sentence>３２８，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８４，９００</Sentence>
+              <Sentence>２８４，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２６３，０００</Sentence>
+              <Sentence>２６２，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２４１，１００</Sentence>
+              <Sentence>２４０，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２１９，２００</Sentence>
+              <Sentence>２１８，８００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6415,40 +6424,40 @@
               <Sentence>ノルウェー</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７６０，０００</Sentence>
+              <Sentence>６９０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７３０，０００</Sentence>
+              <Sentence>６７０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６７８，９００</Sentence>
+              <Sentence>６２４，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６５１，７００</Sentence>
+              <Sentence>５９９，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６１１，０００</Sentence>
+              <Sentence>５６２，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５４３，１００</Sentence>
+              <Sentence>４９９，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７５，２００</Sentence>
+              <Sentence>４３７，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０７，３００</Sentence>
+              <Sentence>３７４，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５３，０００</Sentence>
+              <Sentence>３２４，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３２５，９００</Sentence>
+              <Sentence>２９９，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９８，７００</Sentence>
+              <Sentence>２７４，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２７１，６００</Sentence>
+              <Sentence>２５０，０００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6503,40 +6512,40 @@
               <Sentence>ハンガリー</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３０，０００</Sentence>
-            </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
               <Sentence>５２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４８２，１００</Sentence>
+              <Sentence>５００，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４６２，８００</Sentence>
+              <Sentence>４７０，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４３３，９００</Sentence>
+              <Sentence>４５２，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３８５，７００</Sentence>
+              <Sentence>４２３，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３７，５００</Sentence>
+              <Sentence>３７６，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８９，３００</Sentence>
+              <Sentence>３２９，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２５０，７００</Sentence>
+              <Sentence>２８２，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２３１，４００</Sentence>
+              <Sentence>２４４，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２１２，１００</Sentence>
+              <Sentence>２２６，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>１９２，９００</Sentence>
+              <Sentence>２０７，２００</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>１８８，４００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6679,40 +6688,40 @@
               <Sentence>ベラルーシ</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６１０，０００</Sentence>
+              <Sentence>６００，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５９０，０００</Sentence>
+              <Sentence>５８０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５６０，２００</Sentence>
+              <Sentence>５５２，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５４１，９００</Sentence>
+              <Sentence>５３４，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５１４，５００</Sentence>
+              <Sentence>５０７，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４６８，９００</Sentence>
+              <Sentence>４６３，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４２３，３００</Sentence>
+              <Sentence>４１８，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３７７，６００</Sentence>
+              <Sentence>３７４，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３４１，１００</Sentence>
+              <Sentence>３３８，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３２２，９００</Sentence>
+              <Sentence>３２０，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３０４，６００</Sentence>
+              <Sentence>３０２，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８６，４００</Sentence>
+              <Sentence>２８４，８００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6767,40 +6776,40 @@
               <Sentence>ポーランド</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３０，０００</Sentence>
+              <Sentence>５２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５１０，０００</Sentence>
+              <Sentence>５００，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７３，３００</Sentence>
+              <Sentence>４７０，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５４，３００</Sentence>
+              <Sentence>４５２，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４２５，９００</Sentence>
+              <Sentence>４２３，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３７８，６００</Sentence>
+              <Sentence>３７６，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３１，３００</Sentence>
+              <Sentence>３２９，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８４，０００</Sentence>
+              <Sentence>２８２，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２４６，１００</Sentence>
+              <Sentence>２４４，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２２７，２００</Sentence>
+              <Sentence>２２６，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２０８，２００</Sentence>
+              <Sentence>２０７，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>１８９，３００</Sentence>
+              <Sentence>１８８，４００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7295,40 +7304,40 @@
               <Sentence>ロシア</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>８２０，０００</Sentence>
+              <Sentence>７９０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６６０，０００</Sentence>
+              <Sentence>６３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６１３，０００</Sentence>
+              <Sentence>５９０，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５８９，３００</Sentence>
+              <Sentence>５６７，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５５３，７００</Sentence>
+              <Sentence>５３３，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４９４，４００</Sentence>
+              <Sentence>４７６，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４３５，１００</Sentence>
+              <Sentence>４１９，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３７５，８００</Sentence>
+              <Sentence>３６２，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３２８，４００</Sentence>
+              <Sentence>３１６，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３０４，６００</Sentence>
+              <Sentence>２９３，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２８０，９００</Sentence>
+              <Sentence>２７０，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２５７，２００</Sentence>
+              <Sentence>２４８，１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7559,40 +7568,40 @@
               <Sentence>イラン</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７６０，０００</Sentence>
+              <Sentence>６７０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７４０，０００</Sentence>
+              <Sentence>６６０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７００，４００</Sentence>
+              <Sentence>６２５，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６８０，０００</Sentence>
+              <Sentence>６０８，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６４９，３００</Sentence>
+              <Sentence>５８２，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５９８，３００</Sentence>
+              <Sentence>５３８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５４７，３００</Sentence>
+              <Sentence>４９４，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９６，２００</Sentence>
+              <Sentence>４５１，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５５，４００</Sentence>
+              <Sentence>４１６，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４３５，０００</Sentence>
+              <Sentence>３９９，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４１４，６００</Sentence>
+              <Sentence>３８１，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３９４，２００</Sentence>
+              <Sentence>３６４，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7823,40 +7832,40 @@
               <Sentence>トルコ</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５６０，０００</Sentence>
+              <Sentence>５５０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５４０，０００</Sentence>
+              <Sentence>５３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０７，７００</Sentence>
+              <Sentence>４９６，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４８９，１００</Sentence>
+              <Sentence>４７８，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４６１，１００</Sentence>
+              <Sentence>４５１，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４１４，５００</Sentence>
+              <Sentence>４０６，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３６７，９００</Sentence>
+              <Sentence>３６１，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３２１，３００</Sentence>
+              <Sentence>３１６，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８４，０００</Sentence>
+              <Sentence>２８０，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２６５，４００</Sentence>
+              <Sentence>２６２，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２４６，７００</Sentence>
+              <Sentence>２４４，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２２８，１００</Sentence>
+              <Sentence>２２５，９００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7999,40 +8008,40 @@
               <Sentence>アルジェリア</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>６７０，０００</Sentence>
-            </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" Valign="middle">
               <Sentence>６５０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>６１０，５００</Sentence>
+              <Sentence>６３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>５８９，７００</Sentence>
+              <Sentence>５９６，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>５５８，６００</Sentence>
+              <Sentence>５７６，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>５０６，６００</Sentence>
+              <Sentence>５４６，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>４５４，６００</Sentence>
+              <Sentence>４９６，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>４０２，７００</Sentence>
+              <Sentence>４４６，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>３６１，１００</Sentence>
+              <Sentence>３９６，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>３４０，３００</Sentence>
+              <Sentence>３５６，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>３１９，５００</Sentence>
+              <Sentence>３３６，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>２９８，８００</Sentence>
+              <Sentence>３１６，０００</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" BorderBottom="none" Valign="middle">
+              <Sentence>２９６，０００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8175,40 +8184,40 @@
               <Sentence>エスワティニ</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６００，０００</Sentence>
+              <Sentence>５６０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８０，０００</Sentence>
+              <Sentence>５５０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５４２，４００</Sentence>
+              <Sentence>５１６，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２３，１００</Sentence>
+              <Sentence>４９８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９４，３００</Sentence>
+              <Sentence>４７１，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４４６，２００</Sentence>
+              <Sentence>４２７，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３９８，１００</Sentence>
+              <Sentence>３８２，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５０，０００</Sentence>
+              <Sentence>３３７，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１１，６００</Sentence>
+              <Sentence>３０２，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９２，３００</Sentence>
+              <Sentence>２８４，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２７３，１００</Sentence>
+              <Sentence>２６６，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２５３，９００</Sentence>
+              <Sentence>２４８，６００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8219,40 +8228,40 @@
               <Sentence>エチオピア</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７７０，０００</Sentence>
+              <Sentence>７３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７５０，０００</Sentence>
+              <Sentence>７１０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７１０，１００</Sentence>
+              <Sentence>６７６，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６８９，３００</Sentence>
+              <Sentence>６５７，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６５８，１００</Sentence>
+              <Sentence>６２８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６０６，１００</Sentence>
+              <Sentence>５８１，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５５４，１００</Sentence>
+              <Sentence>５３３，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０２，１００</Sentence>
+              <Sentence>４８６，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４６０，５００</Sentence>
+              <Sentence>４４８，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４３９，７００</Sentence>
+              <Sentence>４２９，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４１８，９００</Sentence>
+              <Sentence>４１０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３９８，１００</Sentence>
+              <Sentence>３９１，０００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -8879,40 +8888,40 @@
               <Sentence>ザンビア</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６４０，０００</Sentence>
+              <Sentence>５８０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６２０，０００</Sentence>
+              <Sentence>５７０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５９１，９００</Sentence>
+              <Sentence>５４０，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５７３，４００</Sentence>
-            </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５４５，７００</Sentence>
+              <Sentence>５２４，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
               <Sentence>４９９，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５３，３００</Sentence>
+              <Sentence>４５８，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０７，１００</Sentence>
+              <Sentence>４１７，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３７０，２００</Sentence>
+              <Sentence>３７６，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５１，７００</Sentence>
+              <Sentence>３４３，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３３，２００</Sentence>
+              <Sentence>３２７，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１４，８００</Sentence>
+              <Sentence>３１０，６００</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>２９４，２００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -9099,40 +9108,40 @@
               <Sentence>セーシェル</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６８０，０００</Sentence>
+              <Sentence>６４０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６６０，０００</Sentence>
+              <Sentence>６２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６２５，０００</Sentence>
+              <Sentence>５８６，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６０３，６００</Sentence>
+              <Sentence>５６６，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５７１，５００</Sentence>
+              <Sentence>５３７，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５１８，０００</Sentence>
+              <Sentence>４８８，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４６４，５００</Sentence>
+              <Sentence>４４０，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４１１，０００</Sentence>
+              <Sentence>３９１，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３６８，２００</Sentence>
+              <Sentence>３５２，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３４６，８００</Sentence>
+              <Sentence>３３３，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３２５，４００</Sentence>
+              <Sentence>３１３，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３０４，０００</Sentence>
+              <Sentence>２９４，２００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -9539,40 +9548,40 @@
               <Sentence>ナミビア</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６７０，０００</Sentence>
+              <Sentence>６２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６５０，０００</Sentence>
+              <Sentence>６１０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６１１，１００</Sentence>
+              <Sentence>５７３，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５９０，３００</Sentence>
+              <Sentence>５５４，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５５９，０００</Sentence>
+              <Sentence>５２６，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０７，０００</Sentence>
+              <Sentence>４７９，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５５，０００</Sentence>
+              <Sentence>４３２，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０２，９００</Sentence>
+              <Sentence>３８５，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３６１，３００</Sentence>
+              <Sentence>３４８，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３４０，５００</Sentence>
+              <Sentence>３２９，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１９，７００</Sentence>
+              <Sentence>３１０，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９８，９００</Sentence>
+              <Sentence>２９１，８００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -9762,37 +9771,37 @@
               <Sentence>６４０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６３０，０００</Sentence>
+              <Sentence>６２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５９３，４００</Sentence>
+              <Sentence>５９１，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５７４，７００</Sentence>
+              <Sentence>５７２，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５４６，６００</Sentence>
+              <Sentence>５４４，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９９，７００</Sentence>
+              <Sentence>４９８，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５２，９００</Sentence>
+              <Sentence>４５１，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０６，０００</Sentence>
+              <Sentence>４０４，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３６８，５００</Sentence>
+              <Sentence>３６７，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３４９，８００</Sentence>
+              <Sentence>３４８，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３１，０００</Sentence>
+              <Sentence>３３０，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１２，３００</Sentence>
+              <Sentence>３１１，５００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -9935,40 +9944,40 @@
               <Sentence>南アフリカ共和国</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６３０，０００</Sentence>
+              <Sentence>６００，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８０，０００</Sentence>
+              <Sentence>５５０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５４２，４００</Sentence>
+              <Sentence>５１６，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２３，１００</Sentence>
+              <Sentence>４９８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９４，３００</Sentence>
+              <Sentence>４７１，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４４６，２００</Sentence>
+              <Sentence>４２７，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３９８，１００</Sentence>
+              <Sentence>３８２，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５０，０００</Sentence>
+              <Sentence>３３７，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１１，６００</Sentence>
+              <Sentence>３０２，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９２，３００</Sentence>
+              <Sentence>２８４，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２７３，１００</Sentence>
+              <Sentence>２６６，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２５３，９００</Sentence>
+              <Sentence>２４８，６００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -10023,40 +10032,40 @@
               <Sentence>モーリシャス</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６６０，０００</Sentence>
-            </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
               <Sentence>６４０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６０２，１００</Sentence>
+              <Sentence>６２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８１，８００</Sentence>
+              <Sentence>５８２，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５５１，３００</Sentence>
+              <Sentence>５６３，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５００，５００</Sentence>
+              <Sentence>５３４，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４４９，７００</Sentence>
+              <Sentence>４８６，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３９８，９００</Sentence>
+              <Sentence>４３８，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５８，３００</Sentence>
+              <Sentence>３９０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３８，０００</Sentence>
+              <Sentence>３５１，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１７，７００</Sentence>
+              <Sentence>３３２，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９７，４００</Sentence>
+              <Sentence>３１２，８００</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>２９３，５００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -10067,40 +10076,40 @@
               <Sentence>モーリタニア</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>８７０，０００</Sentence>
-            </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
               <Sentence>８５０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>８０８，５００</Sentence>
+              <Sentence>８３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７８５，４００</Sentence>
+              <Sentence>７８５，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７５０，７００</Sentence>
+              <Sentence>７６３，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６９２，８００</Sentence>
+              <Sentence>７３０，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６３５，０００</Sentence>
+              <Sentence>６７４，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５７７，１００</Sentence>
+              <Sentence>６１９，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３０，８００</Sentence>
+              <Sentence>５６３，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０７，７００</Sentence>
+              <Sentence>５１９，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４８４，５００</Sentence>
+              <Sentence>４９６，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４６１，４００</Sentence>
+              <Sentence>４７４，５００</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>４５２，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -10111,40 +10120,40 @@
               <Sentence>モザンビーク</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>７４０，０００</Sentence>
-            </TableColumn>
-            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
               <Sentence>７２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６８５，８００</Sentence>
+              <Sentence>７１０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６６６，３００</Sentence>
+              <Sentence>６７２，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６３７，０００</Sentence>
+              <Sentence>６５４，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８８，１００</Sentence>
+              <Sentence>６２５，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３９，３００</Sentence>
+              <Sentence>５７８，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９０，４００</Sentence>
+              <Sentence>５３１，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５１，３００</Sentence>
+              <Sentence>４８４，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４３１，８００</Sentence>
+              <Sentence>４４６，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４１２，２００</Sentence>
+              <Sentence>４２８，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３９２，７００</Sentence>
+              <Sentence>４０９，２００</Sentence>
+            </TableColumn>
+            <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
+              <Sentence>３９０，４００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -10331,40 +10340,40 @@
               <Sentence>レソト</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６００，０００</Sentence>
+              <Sentence>５６０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５８０，０００</Sentence>
+              <Sentence>５５０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５４２，４００</Sentence>
+              <Sentence>５１６，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５２３，１００</Sentence>
+              <Sentence>４９８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４９４，３００</Sentence>
+              <Sentence>４７１，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４４６，２００</Sentence>
+              <Sentence>４２７，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３９８，１００</Sentence>
+              <Sentence>３８２，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３５０，０００</Sentence>
+              <Sentence>３３７，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３１１，６００</Sentence>
+              <Sentence>３０２，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２９２，３００</Sentence>
+              <Sentence>２８４，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２７３，１００</Sentence>
+              <Sentence>２６６，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２５３，９００</Sentence>
+              <Sentence>２４８，６００</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -10613,34 +10622,34 @@
               <Sentence>スラバヤ</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２０，０００</Sentence>
+              <Sentence>５００，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９１，１００</Sentence>
+              <Sentence>４６８，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４６４，５００</Sentence>
+              <Sentence>４４３，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４２０，３００</Sentence>
+              <Sentence>４０１，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３７６，１００</Sentence>
+              <Sentence>３６０，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３１，９００</Sentence>
+              <Sentence>３１８，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９６，５００</Sentence>
+              <Sentence>２８５，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２７８，８００</Sentence>
+              <Sentence>２６９，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２６１，１００</Sentence>
+              <Sentence>２５２，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２４３，４００</Sentence>
+              <Sentence>２３５，９００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -10651,34 +10660,34 @@
               <Sentence>デンパサール</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４９０，０００</Sentence>
+              <Sentence>４７０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７６，２００</Sentence>
+              <Sentence>４５５，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４４８，３００</Sentence>
+              <Sentence>４２９，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０１，７００</Sentence>
+              <Sentence>３８５，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５５，１００</Sentence>
+              <Sentence>３４２，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３０８，５００</Sentence>
+              <Sentence>２９８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２７１，３００</Sentence>
+              <Sentence>２６３，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２５２，６００</Sentence>
+              <Sentence>２４６，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２３４，０００</Sentence>
+              <Sentence>２２８，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２１５，４００</Sentence>
+              <Sentence>２１１，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -10689,34 +10698,34 @@
               <Sentence>メダン</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２０，０００</Sentence>
+              <Sentence>５００，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５０６，２００</Sentence>
+              <Sentence>４８５，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７８，３００</Sentence>
+              <Sentence>４５９，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４３１，７００</Sentence>
+              <Sentence>４１５，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３８５，１００</Sentence>
+              <Sentence>３７２，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３８，５００</Sentence>
+              <Sentence>３２８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３０１，３００</Sentence>
+              <Sentence>２９３，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８２，６００</Sentence>
+              <Sentence>２７６，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２６４，０００</Sentence>
+              <Sentence>２５８，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２４５，４００</Sentence>
+              <Sentence>２４１，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -10800,7 +10809,7 @@
               <Sentence/>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>釜山　</Sentence>
+              <Sentence>釜山</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
               <Sentence>５７０，０００</Sentence>
@@ -11145,34 +11154,34 @@
               <Sentence>ホーチミン</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２０，０００</Sentence>
+              <Sentence>５１０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４８８，５００</Sentence>
+              <Sentence>４７６，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４５９，５００</Sentence>
+              <Sentence>４４８，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４１１，１００</Sentence>
+              <Sentence>４０１，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３６２，７００</Sentence>
+              <Sentence>３５５，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１４，４００</Sentence>
+              <Sentence>３０８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２７５，７００</Sentence>
+              <Sentence>２７１，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２５６，３００</Sentence>
+              <Sentence>２５２，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２３７，０００</Sentence>
+              <Sentence>２３３，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２１７，６００</Sentence>
+              <Sentence>２１５，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -11373,34 +11382,34 @@
               <Sentence>オークランド</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５６０，０００</Sentence>
+              <Sentence>５５０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５４２，２００</Sentence>
+              <Sentence>５３０，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５０８，３００</Sentence>
+              <Sentence>４９７，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４５１，８００</Sentence>
+              <Sentence>４４１，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３９５，３００</Sentence>
+              <Sentence>３８６，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３３８，９００</Sentence>
+              <Sentence>３３１，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２９３，７００</Sentence>
+              <Sentence>２８７，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２７１，１００</Sentence>
+              <Sentence>２６５，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２４８，５００</Sentence>
+              <Sentence>２４３，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２２５，９００</Sentence>
+              <Sentence>２２０，９００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12095,34 +12104,34 @@
               <Sentence>クリチバ</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>５９０，０００</Sentence>
+              <Sentence>５２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>５６８，５００</Sentence>
+              <Sentence>５０９，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>５３４，２００</Sentence>
+              <Sentence>４７９，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>４７７，１００</Sentence>
+              <Sentence>４２９，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>４２０，０００</Sentence>
+              <Sentence>３７９，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>３６２，８００</Sentence>
+              <Sentence>３２９，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>３１７，１００</Sentence>
+              <Sentence>２８８，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>２９４，３００</Sentence>
+              <Sentence>２６８，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>２７１，４００</Sentence>
+              <Sentence>２４８，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" Valign="middle">
-              <Sentence>２４８，６００</Sentence>
+              <Sentence>２２８，８００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12133,34 +12142,34 @@
               <Sentence>サンパウロ</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６４０，０００</Sentence>
+              <Sentence>５７０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５９６，５００</Sentence>
+              <Sentence>５３６，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５６０，５００</Sentence>
+              <Sentence>５０４，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５００，４００</Sentence>
+              <Sentence>４５０，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４４０，４００</Sentence>
+              <Sentence>３９６，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３８０，３００</Sentence>
+              <Sentence>３４３，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３２，３００</Sentence>
+              <Sentence>３００，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３０８，２００</Sentence>
+              <Sentence>２７８，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８４，２００</Sentence>
+              <Sentence>２５７，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２６０，２００</Sentence>
+              <Sentence>２３６，１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12171,34 +12180,34 @@
               <Sentence>マナウス</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６４０，０００</Sentence>
+              <Sentence>５７０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６１８，７００</Sentence>
+              <Sentence>５６０，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８５，７００</Sentence>
+              <Sentence>５３１，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３０，６００</Sentence>
+              <Sentence>４８４，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７５，５００</Sentence>
+              <Sentence>４３６，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４２０，５００</Sentence>
+              <Sentence>３８９，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３７６，４００</Sentence>
+              <Sentence>３５０，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５４，４００</Sentence>
+              <Sentence>３３１，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３２，３００</Sentence>
+              <Sentence>３１２，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１０，３００</Sentence>
+              <Sentence>２９３，９００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12209,34 +12218,34 @@
               <Sentence>リオデジャネイロ</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６７０，０００</Sentence>
+              <Sentence>６００，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６３０，９００</Sentence>
+              <Sentence>５６６，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５９４，６００</Sentence>
+              <Sentence>５３４，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３４，１００</Sentence>
+              <Sentence>４８０，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７３，６００</Sentence>
+              <Sentence>４２７，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４１３，１００</Sentence>
+              <Sentence>３７３，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３６４，７００</Sentence>
+              <Sentence>３３０，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３４０，５００</Sentence>
+              <Sentence>３０９，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１６，３００</Sentence>
+              <Sentence>２８７，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９２，１００</Sentence>
+              <Sentence>２６６，２００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12247,34 +12256,34 @@
               <Sentence>レシフェ</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８０，０００</Sentence>
+              <Sentence>５２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５６３，４００</Sentence>
+              <Sentence>５１１，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３１，３００</Sentence>
+              <Sentence>４８３，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７７，８００</Sentence>
+              <Sentence>４３７，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４２４，３００</Sentence>
+              <Sentence>３９１，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３７０，９００</Sentence>
+              <Sentence>３４４，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３２８，１００</Sentence>
+              <Sentence>３０７，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３０６，７００</Sentence>
+              <Sentence>２８９，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８５，３００</Sentence>
+              <Sentence>２７０，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２６３，９００</Sentence>
+              <Sentence>２５２，２００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12285,34 +12294,34 @@
               <Sentence>レオン</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５１０，０００</Sentence>
+              <Sentence>４７０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４９２，９００</Sentence>
+              <Sentence>４５４，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４６４，１００</Sentence>
+              <Sentence>４２８，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４１６，０００</Sentence>
+              <Sentence>３８５，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３６７，９００</Sentence>
+              <Sentence>３４２，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３１９，９００</Sentence>
+              <Sentence>２９９，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２８１，４００</Sentence>
+              <Sentence>２６４，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２６２，２００</Sentence>
+              <Sentence>２４７，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２４３，０００</Sentence>
+              <Sentence>２３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２２３，８００</Sentence>
+              <Sentence>２１２，７００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12665,34 +12674,34 @@
               <Sentence>ウラジオストク</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６６０，０００</Sentence>
+              <Sentence>６４０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６１９，３００</Sentence>
+              <Sentence>５９７，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８３，７００</Sentence>
+              <Sentence>５６３，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２４，４００</Sentence>
+              <Sentence>５０６，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４６５，１００</Sentence>
+              <Sentence>４４９，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０５，８００</Sentence>
+              <Sentence>３９２，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５８，４００</Sentence>
+              <Sentence>３４６，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３４，６００</Sentence>
+              <Sentence>３２３，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１０，９００</Sentence>
+              <Sentence>３００，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８７，２００</Sentence>
+              <Sentence>２７８，１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12703,34 +12712,34 @@
               <Sentence>サンクトペテルブルク</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８０，０００</Sentence>
+              <Sentence>５６０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５６６，１００</Sentence>
+              <Sentence>５４５，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５３２，０００</Sentence>
+              <Sentence>５１２，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４７５，１００</Sentence>
+              <Sentence>４５７，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４１８，２００</Sentence>
+              <Sentence>４０３，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３６１，３００</Sentence>
+              <Sentence>３４８，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１５，８００</Sentence>
+              <Sentence>３０４，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２９３，１００</Sentence>
+              <Sentence>２８２，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２７０，３００</Sentence>
+              <Sentence>２６０，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２４７，６００</Sentence>
+              <Sentence>２３９，０００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12741,34 +12750,34 @@
               <Sentence>ハバロフスク</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６６０，０００</Sentence>
+              <Sentence>６４０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>６１９，３００</Sentence>
+              <Sentence>５９７，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５８３，７００</Sentence>
+              <Sentence>５６３，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>５２４，４００</Sentence>
+              <Sentence>５０６，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４６５，１００</Sentence>
+              <Sentence>４４９，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>４０５，８００</Sentence>
+              <Sentence>３９２，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３５８，４００</Sentence>
+              <Sentence>３４６，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３３４，６００</Sentence>
+              <Sentence>３２３，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>３１０，９００</Sentence>
+              <Sentence>３００，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderBottom="none" BorderTop="none" Valign="middle">
-              <Sentence>２８７，２００</Sentence>
+              <Sentence>２７８，１００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12779,34 +12788,34 @@
               <Sentence>ユジノサハリンスク</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６９０，０００</Sentence>
+              <Sentence>６７０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６４７，２００</Sentence>
+              <Sentence>６２４，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６０９，９００</Sentence>
+              <Sentence>５８８，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５４７，７００</Sentence>
+              <Sentence>５２８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４８５，５００</Sentence>
+              <Sentence>４６８，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４２３，３００</Sentence>
+              <Sentence>４０８，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３７３，５００</Sentence>
+              <Sentence>３６１，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３４８，６００</Sentence>
+              <Sentence>３３７，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３２３，７００</Sentence>
+              <Sentence>３１３，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２９８，９００</Sentence>
+              <Sentence>２８９，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12893,34 +12902,34 @@
               <Sentence>イスタンブール</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５００，０００</Sentence>
+              <Sentence>４９０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４８５，１００</Sentence>
+              <Sentence>４７４，４００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４５６，６００</Sentence>
+              <Sentence>４４６，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４０９，１００</Sentence>
+              <Sentence>４００，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３６１，６００</Sentence>
+              <Sentence>３５４，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３１４，１００</Sentence>
+              <Sentence>３０８，９００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２７６，１００</Sentence>
+              <Sentence>２７２，１００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２５７，１００</Sentence>
+              <Sentence>２５３，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２３８，１００</Sentence>
+              <Sentence>２３５，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２１９，２００</Sentence>
+              <Sentence>２１６，９００</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
@@ -13073,40 +13082,40 @@
               <Sentence>（東南アジア諸国連合）</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５５０，０００</Sentence>
+              <Sentence>５２０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５３０，０００</Sentence>
+              <Sentence>５００，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４９４，９００</Sentence>
+              <Sentence>４７２，８００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４７６，２００</Sentence>
+              <Sentence>４５５，３００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４４８，３００</Sentence>
+              <Sentence>４２９，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４０１，７００</Sentence>
+              <Sentence>３８５，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３５５，１００</Sentence>
+              <Sentence>３４２，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３０８，５００</Sentence>
+              <Sentence>２９８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２７１，３００</Sentence>
+              <Sentence>２６３，６００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２５２，６００</Sentence>
+              <Sentence>２４６，２００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２３４，０００</Sentence>
+              <Sentence>２２８，７００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>２１５，４００</Sentence>
+              <Sentence>２１１，３００</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -13821,40 +13830,40 @@
               <Sentence>（アフリカ連合）</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>７７０，０００</Sentence>
+              <Sentence>７３０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>７５０，０００</Sentence>
+              <Sentence>７１０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>７１０，１００</Sentence>
+              <Sentence>６７６，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６８９，３００</Sentence>
+              <Sentence>６５７，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６５８，１００</Sentence>
+              <Sentence>６２８，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>６０６，１００</Sentence>
+              <Sentence>５８１，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５５４，１００</Sentence>
+              <Sentence>５３３，５００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>５０２，１００</Sentence>
+              <Sentence>４８６，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４６０，５００</Sentence>
+              <Sentence>４４８，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４３９，７００</Sentence>
+              <Sentence>４２９，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>４１８，９００</Sentence>
+              <Sentence>４１０，０００</Sentence>
             </TableColumn>
             <TableColumn Align="right" BorderTop="none" Valign="middle">
-              <Sentence>３９８，１００</Sentence>
+              <Sentence>３９１，０００</Sentence>
             </TableColumn>
           </TableRow>
         </Table>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="53" Year="33">
+<Law DataInfo="200911e82k10m02" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="53" Year="33">
   <LawNum>昭和三十三年厚生省令第五十三号</LawNum>
   <LawBody>
     <LawTitle>国民健康保険法施行規則</LawTitle>
@@ -23,8 +23,12 @@
         <ArticleRange>（第三十二条の九―第三十二条の三十二）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="3_3">
-        <ChapterTitle>第三章の三　都道府県国民健康保険運営方針</ChapterTitle>
-        <ArticleRange>（第三十二条の三十二の二）</ArticleRange>
+        <ChapterTitle>第三章の三　保健事業</ChapterTitle>
+        <ArticleRange>（第三十二条の三十二の二―第三十二条の三十二の四）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3_4">
+        <ChapterTitle>第三章の四　都道府県国民健康保険運営方針</ChapterTitle>
+        <ArticleRange>（第三十二条の三十二の五）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="4">
         <ChapterTitle>第四章　国民健康保険団体連合会</ChapterTitle>
@@ -6651,10 +6655,79 @@
         </Article>
       </Chapter>
       <Chapter Num="3_3">
-        <ChapterTitle>第三章の三　都道府県国民健康保険運営方針</ChapterTitle>
+        <ChapterTitle>第三章の三　保健事業</ChapterTitle>
         <Article Num="32_32_2">
-          <ArticleCaption>（都道府県国民健康保険運営方針）</ArticleCaption>
+          <ArticleCaption>（法第八十二条第四項の厚生労働省令で定める情報）</ArticleCaption>
           <ArticleTitle>第三十二条の三十二の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第八十二条第四項の厚生労働省令で定める情報は、被保険者の身体的、精神的及び社会的な特性に関する調査により得られた情報であつて、法第八十二条第三項に規定する高齢者の心身の特性に応じた事業、高齢者の医療の確保に関する法律第百二十五条第一項に規定する高齢者保健事業又は介護保険法第百十五条の四十五第一項から第三項までに規定する地域支援事業の実施に必要な情報とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32_32_3">
+          <ArticleCaption>（市町村又は後期高齢者医療広域連合が行う情報又は記録の写しの提供）</ArticleCaption>
+          <ArticleTitle>第三十二条の三十二の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第八十二条第四項の規定により情報又は記録の写しの提供を求められた他の市町村又は後期高齢者医療広域連合は、同条第五項の規定により当該情報又は記録の写しを提供するに当たつては、被保険者に係る医療及び介護に関する情報等（被保険者に係る療養に関する情報、高齢者の医療の確保に関する法律の規定による療養に関する情報及び同法第百二十五条第一項に規定する健康診査及び保健指導に関する記録並びに同法第十八条第一項に規定する特定健康診査及び特定保健指導に関する記録並びに介護保険法の規定による保健医療サービス及び福祉サービスに関する情報をいう。）に係るデータベース（情報の集合物であつて、それらの情報を電子計算機を用いて検索することができるように体系的に構成したものをいう。）であつて、連合会が構成するものを用いて提供する方法その他適切な方法により行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32_32_4">
+          <ArticleCaption>（保健事業の支援に係る情報提供）</ArticleCaption>
+          <ArticleTitle>第三十二条の三十二の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第八十二条第十二項の規定による都道府県内の市町村に対する情報の提供の求めは、次に掲げる情報について、当該市町村に通知して行うものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">被保険者の氏名、住所、電話番号、生年月日及び性別</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">被保険者に係る被保険者証の記号番号</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">療養が行われた年月日</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">療養が行われた病院、診療所、薬局その他の者の名称及び住所</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、前項の規定による通知を受け取つた場合は、速やかに、都道府県に対して情報の提供を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法第八十二条第十二項第二号の厚生労働省令で定める情報は、特定保健指導に関する記録の写しとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3_4">
+        <ChapterTitle>第三章の四　都道府県国民健康保険運営方針</ChapterTitle>
+        <Article Num="32_32_5">
+          <ArticleCaption>（都道府県国民健康保険運営方針）</ArticleCaption>
+          <ArticleTitle>第三十二条の三十二の五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -9851,6 +9924,35 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一〇月二八日厚生労働省令第六五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、医療保険制度の適正かつ効率的な運営を図るための健康保険法等の一部を改正する法律（令和元年法律第九号）附則第一条第四号の政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令による改正前のそれぞれの省令で定める様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後のそれぞれの省令で定める様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧様式による用紙については、合理的に必要と認められる範囲内で、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和元年一二月一三日厚生労働省令第八〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -9864,12 +9966,21 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月二五日厚生労働省令第三九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019623.pdf"/>
+          <Fig src="./pict/2FH00000031144.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9878,7 +9989,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019624.pdf"/>
+          <Fig src="./pict/2FH00000031145.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9887,7 +9998,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000020531.pdf"/>
+          <Fig src="./pict/2FH00000031146.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9896,7 +10007,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000020532.pdf"/>
+          <Fig src="./pict/2FH00000031148.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9905,7 +10016,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019625.pdf"/>
+          <Fig src="./pict/2FH00000031149.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9914,7 +10025,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019626.pdf"/>
+          <Fig src="./pict/2FH00000031150.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9923,7 +10034,7 @@
       <RelatedArticleNum>（第七条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019627.pdf"/>
+          <Fig src="./pict/2FH00000031151.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9932,7 +10043,7 @@
       <RelatedArticleNum>（第七条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019628.pdf"/>
+          <Fig src="./pict/2FH00000031152.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9941,7 +10052,7 @@
       <RelatedArticleNum>（第七条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019629.pdf"/>
+          <Fig src="./pict/2FH00000031154.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9950,7 +10061,7 @@
       <RelatedArticleNum>（第七条の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019630.pdf"/>
+          <Fig src="./pict/2FH00000031155.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9968,7 +10079,7 @@
       <RelatedArticleNum>（第二十六条の三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019632.pdf"/>
+          <Fig src="./pict/2FH00000031156.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9977,7 +10088,7 @@
       <RelatedArticleNum>（第二十六条の三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019633.pdf"/>
+          <Fig src="./pict/2FH00000031157.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9986,7 +10097,7 @@
       <RelatedArticleNum>（第二十六条の六の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019634.pdf"/>
+          <Fig src="./pict/2FH00000031158.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -9995,7 +10106,7 @@
       <RelatedArticleNum>（第二十六条の六の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019635.pdf"/>
+          <Fig src="./pict/2FH00000031159.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10004,7 +10115,7 @@
       <RelatedArticleNum>（第二十七条の十三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019636.pdf"/>
+          <Fig src="./pict/2FH00000031160.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10013,7 +10124,7 @@
       <RelatedArticleNum>（第二十七条の十三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019637.pdf"/>
+          <Fig src="./pict/2FH00000031161.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10022,7 +10133,7 @@
       <RelatedArticleNum>（第二十七条の十四の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019638.pdf"/>
+          <Fig src="./pict/2FH00000031162.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10031,25 +10142,25 @@
       <RelatedArticleNum>（第二十七条の十四の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019639.pdf"/>
+          <Fig src="./pict/2FH00000031164.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle Num="1_8_3">
       <AppdxStyleTitle WritingMode="vertical">様式第一号の八の三</AppdxStyleTitle>
-      <RelatedArticleNum>（第二十七条の十四の三の二関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第二十七条の十四の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000020535.pdf"/>
+          <Fig src="./pict/2FH00000031165.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle Num="1_8_4">
       <AppdxStyleTitle WritingMode="vertical">様式第一号の八の四</AppdxStyleTitle>
-      <RelatedArticleNum>（第二十七条の十四の三の二関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第二十七条の十四の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000020536.pdf"/>
+          <Fig src="./pict/2FH00000031166.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10058,7 +10169,7 @@
       <RelatedArticleNum>（第二十七条の十四の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000020537.pdf"/>
+          <Fig src="./pict/2FH00000031167.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10067,7 +10178,7 @@
       <RelatedArticleNum>（第二十七条の十四の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000020538.pdf"/>
+          <Fig src="./pict/2FH00000031168.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10139,7 +10250,7 @@
       <RelatedArticleNum>（附則第七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019645.pdf"/>
+          <Fig src="./pict/2FH00000031169.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10148,7 +10259,7 @@
       <RelatedArticleNum>（附則第七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019646.pdf"/>
+          <Fig src="./pict/2FH00000031170.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

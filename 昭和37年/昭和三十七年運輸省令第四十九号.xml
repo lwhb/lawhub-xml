@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200831e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="49" Year="37">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="49" Year="37">
   <LawNum>昭和三十七年運輸省令第四十九号</LawNum>
   <LawBody>
     <LawTitle>指定自動車整備事業規則</LawTitle>
@@ -425,7 +425,7 @@
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">法第四十八条第一項第二号に掲げる自動車にあつては、次に掲げる点検</Sentence>
+              <Sentence WritingMode="vertical">法第四十八条第一項第二号に掲げる自動車（二輪自動車を除く。）にあつては、次に掲げる点検</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -449,6 +449,30 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十八条第一項第二号に掲げる自動車（二輪自動車に限る。）にあつては、次に掲げる点検</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">自動車点検基準別表第五の二に定めるすべての点検</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">主として砂利道等舗装されていない道路において運行する等使用の状況が特殊であるため、イに掲げる点検のみによつては当該自動車が保安基準に適合するかどうか及び適合しなくなるおそれがないかどうかを判断することができない場合においては、別表第六に掲げる点検のうち、その判断のために必要な点検</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">無段変速装置、電気装置の断続器等特殊な構造及び装置を有するため、イに掲げる点検のみによつては当該自動車が保安基準に適合するかどうか及び適合しなくなるおそれがないかどうかを判断することができない場合においては、当該特殊な構造及び装置に関してその判断のために必要な点検</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
               <Sentence WritingMode="vertical">法第四十八条第一項第三号に掲げる自動車（二輪自動車を除く。）にあつては、次に掲げる点検</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
@@ -470,8 +494,8 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
-          <Item Delete="false" Hide="false" Num="4">
-            <ItemTitle>四</ItemTitle>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">法第四十八条第一項第三号に掲げる自動車（二輪自動車に限る。）にあつては、次に掲げる点検</Sentence>
             </ItemSentence>
@@ -3150,7 +3174,7 @@
       <RelatedArticleNum>（第九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S37F03901000049_2003101503_001.pdf"/>
+          <Fig src="./pict/S37F03901000049_2008041508_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3159,7 +3183,7 @@
       <RelatedArticleNum>（第九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S37F03901000049_2003101503_002.pdf"/>
+          <Fig src="./pict/S37F03901000049_2008041508_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3169,7 +3193,7 @@
       <StyleStruct>
         <StyleStructTitle/>
         <Style>
-          <Fig src="./pict/S37F03901000049_2003101503_003.pdf"/>
+          <Fig src="./pict/S37F03901000049_2008041508_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3178,7 +3202,7 @@
       <RelatedArticleNum>（第十条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S37F03901000049_2003101503_004.pdf"/>
+          <Fig src="./pict/S37F03901000049_2008041508_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3187,7 +3211,7 @@
       <RelatedArticleNum>（第十条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S37F03901000049_2003101503_005.pdf"/>
+          <Fig src="./pict/S37F03901000049_2008041508_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3196,7 +3220,7 @@
       <RelatedArticleNum>（第十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S37F03901000049_2003101503_006.pdf"/>
+          <Fig src="./pict/S37F03901000049_2008041508_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="191005e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="136" Year="11">
+<Law DataInfo="200918e82k10m03" Era="Heisei" Lang="ja" LawType="Act" Num="136" Year="11">
   <LawNum>平成十一年法律第百三十六号</LawNum>
   <LawBody>
     <LawTitle>組織的な犯罪の処罰及び犯罪収益の規制等に関する法律</LawTitle>
@@ -100,8 +100,7 @@
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence>覚<Ruby>せ<Rt>ヽ</Rt>い<Rt>ヽ</Rt>
-</Ruby>剤取締法（昭和二十六年法律第二百五十二号）第四十一条の十（覚醒剤原料の輸入等に係る資金等の提供等）の罪</Sentence>
+                  <Sentence>覚醒剤取締法（昭和二十六年法律第二百五十二号）第四十一条の十（覚醒剤原料の輸入等に係る資金等の提供等）の罪</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="2">
@@ -4198,6 +4197,32 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月四日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月二四日法律第二二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二条、第七条の二関係）</RelatedArticleNum>
@@ -4364,8 +4389,7 @@
       <Item Num="15">
         <ItemTitle>十五</ItemTitle>
         <ItemSentence>
-          <Sentence>覚<Ruby>せ<Rt>ヽ</Rt>い<Rt>ヽ</Rt>
-</Ruby>剤取締法第四十一条の十三（覚醒剤原料の譲渡しと譲受けとの周旋）の罪</Sentence>
+          <Sentence>覚醒剤取締法第四十一条の十三（覚醒剤原料の譲渡しと譲受けとの周旋）の罪</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="16">
@@ -4798,8 +4822,7 @@
       <Item Num="26">
         <ItemTitle>二十六</ItemTitle>
         <ItemSentence>
-          <Sentence>覚<Ruby>せ<Rt>ヽ</Rt>い<Rt>ヽ</Rt>
-</Ruby>剤取締法第四十一条第一項（覚醒剤の輸入等）、第四十一条の二第一項若しくは第二項（覚醒剤の所持等）、第四十一条の三第一項若しくは第二項（覚醒剤の使用等）又は第四十一条の四第一項（管理外覚醒剤の施用等）の罪</Sentence>
+          <Sentence>覚醒剤取締法第四十一条第一項（覚醒剤の輸入等）、第四十一条の二第一項若しくは第二項（覚醒剤の所持等）、第四十一条の三第一項若しくは第二項（覚醒剤の使用等）又は第四十一条の四第一項（管理外覚醒剤の施用等）の罪</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="27">
@@ -5184,6 +5207,12 @@
         <ItemTitle>九十</ItemTitle>
         <ItemSentence>
           <Sentence>平成二十三年三月十一日に発生した東北地方太平洋沖地震に伴う原子力発電所の事故により放出された放射性物質による環境の汚染への対処に関する特別措置法（平成二十三年法律第百十号）第六十条第一項（汚染廃棄物等の投棄等）の罪</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="91">
+        <ItemTitle>九十一</ItemTitle>
+        <ItemSentence>
+          <Sentence>家畜遺伝資源に係る不正競争の防止に関する法律（令和二年法律第二十二号）第十八条第一項（家畜遺伝資源の不正取得等）の罪</Sentence>
         </ItemSentence>
       </Item>
     </AppdxTable>

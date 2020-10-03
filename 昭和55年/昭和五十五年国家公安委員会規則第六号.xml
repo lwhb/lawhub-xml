@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Showa" Lang="ja" LawType="Rule" Num="006" Year="55">
+<Law DataInfo="200407e80k10m02" Era="Showa" Lang="ja" LawType="Rule" Num="006" Year="55">
   <LawNum>昭和五十五年国家公安委員会規則第六号</LawNum>
   <LawBody>
     <LawTitle>犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律施行規則</LawTitle>
@@ -258,7 +258,7 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">労働者災害補償保険法第十二条の八第一項第三号の規定による障害補償給付、同項第四号の規定による遺族補償給付、同法第二十一条第三号の規定による障害給付、同条第四号の規定による遺族給付、同法附則第五十八条第一項の規定による障害補償年金差額一時金、同法附則第五十九条第一項の規定による障害補償年金前払一時金、同法附則第六十条の規定による遺族補償年金前払一時金、同法附則第六十一条第一項の規定による障害年金差額一時金、同法附則第六十二条第一項の規定による障害年金前払一時金及び同法附則第六十三条第一項の規定による遺族年金前払一時金</Sentence>
+              <Sentence WritingMode="vertical">労働者災害補償保険法第十二条の八第一項第三号の規定による障害補償給付、同項第四号の規定による遺族補償給付、同法第二十条の二第三号の規定による複数事業労働者障害給付、同条第四号の規定による複数事業労働者遺族給付、同法第二十一条第三号の規定による障害給付、同条第四号の規定による遺族給付、同法附則第五十八条第一項の規定による障害補償年金差額一時金、同法附則第五十九条第一項の規定による障害補償年金前払一時金、同法附則第六十条第一項の規定による遺族補償年金前払一時金、同法附則第六十条の二第一項の規定による複数事業労働者障害年金差額一時金、同法附則第六十条の三第一項の規定による複数事業労働者障害年金前払一時金、同法附則第六十条の四第一項の規定による複数事業労働者遺族年金前払一時金、同法附則第六十一条第一項の規定による障害年金差額一時金、同法附則第六十二条第一項の規定による障害年金前払一時金及び同法附則第六十三条第一項の規定による遺族年金前払一時金</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
@@ -1427,6 +1427,15 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月二八日国家公安委員会規則第一〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、雇用保険法等の一部を改正する法律附則第一条第三号に掲げる規定の施行の日（令和二年九月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表（第一条、第十五条関係）</AppdxTableTitle>
       <TableStruct>
@@ -1700,7 +1709,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第１号（第１６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F30301000006_2004061404_001.pdf"/>
+          <Fig src="./pict/S55F30301000006_2009231809_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1708,7 +1717,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第２号（第１７条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F30301000006_2004061404_002.pdf"/>
+          <Fig src="./pict/S55F30301000006_2009231809_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1716,7 +1725,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第３号（第１８条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F30301000006_2004061404_003.pdf"/>
+          <Fig src="./pict/S55F30301000006_2009231809_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1724,7 +1733,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第４号（第２０条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F30301000006_2004061404_004.pdf"/>
+          <Fig src="./pict/S55F30301000006_2009231809_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1732,7 +1741,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第５号（第２０条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F30301000006_2004061404_005.pdf"/>
+          <Fig src="./pict/S55F30301000006_2009231809_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1740,7 +1749,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第６号（第２０条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F30301000006_2004061404_006.pdf"/>
+          <Fig src="./pict/S55F30301000006_2009231809_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1748,7 +1757,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第７号（第２０条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F30301000006_2004061404_007.pdf"/>
+          <Fig src="./pict/S55F30301000006_2009231809_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

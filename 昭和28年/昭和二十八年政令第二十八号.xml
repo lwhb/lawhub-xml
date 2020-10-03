@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="28" Year="28">
+<Law DataInfo="190314e04k03m03" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="28" Year="28">
   <LawNum>昭和二十八年政令第二十八号</LawNum>
   <LawBody>
     <LawTitle>酒税の保全及び酒類業組合等に関する法律施行令</LawTitle>
@@ -233,13 +233,13 @@
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">発泡酒及び雑酒にあつては、税率の適用区分を表す事項</Sentence>
+              <Sentence WritingMode="vertical">雑酒にあつては、税率の適用区分を表す事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">その他の発泡性酒類（酒税法第三条第三号ハに規定するその他の発泡性酒類をいう。）にあつては、発泡性を有する旨及び税率の適用区分を表す事項</Sentence>
+              <Sentence WritingMode="vertical">その他の発泡性酒類（酒税法第三条第三号ハに規定するその他の発泡性酒類をいう。）にあつては、発泡性を有する旨を表す事項</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -736,10 +736,19 @@
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">所得税法等の一部を改正する等の法律（平成二十九年法律第四号。以下「改正法」という。）第七条の規定による改正後の酒税法（昭和二十八年法律第六号）第三条第三号ハに規定するその他の発泡性酒類に該当する酒類（改正法第七条の規定による改正前の酒税法第三条第三号ハに規定するその他の発泡性酒類に該当するものを除く。）について、新酒類業組合法施行令第八条の三の規定によって行うべき同条第一項第五号に掲げる事項の表示は、平成三十九年三月三十一日までは、これを行わないことができる。</Sentence>
+            <Sentence WritingMode="vertical">改正法第七条の規定による改正後の酒税法（昭和二十八年法律第六号）第三条第三号ハに規定するその他の発泡性酒類に該当する酒類（改正法第七条の規定による改正前の酒税法（次条において「旧酒税法」という。）第三条第三号ハに規定するその他の発泡性酒類に該当するものを除く。）について、新酒類業組合法施行令第八条の三の規定によって行うべき同条第一項第五号に掲げる事項の表示は、平成三十九年三月三十一日までは、これを行わないことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年三月三一日政令第一三六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、平成三十年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

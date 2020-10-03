@@ -113,7 +113,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第十条第二項の表の上欄に掲げる製造たばこの重量を紙巻たばこの本数に換算する場合の計算は、製造たばこの製造場から移出され、又は保税地域から引き取られた製造たばこの品目ごとの一個当たりの重量に当該製造たばこの品目ごとの数量を乗じて得た重量を同欄に掲げる製造たばこの区分ごとに合計し、その合計重量を紙巻たばこの本数に換算する方法により行うものとする。</Sentence>
+            <Sentence>法第十条第二項の表の上欄に掲げる製造たばこ（同項ただし書に規定する葉巻たばこを除く。）の重量を紙巻たばこの本数に換算する場合の計算は、製造たばこの製造場から移出され、又は保税地域から引き取られた製造たばこの品目ごとの一個当たりの重量に当該製造たばこの品目ごとの数量を乗じて得た重量を同欄に掲げる製造たばこの区分ごとに合計し、その合計重量を紙巻たばこの本数に換算する方法により行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -2097,6 +2097,13 @@
         <ParagraphSentence>
           <Sentence Function="main" Num="1">この政令は、令和二年四月一日から施行する。</Sentence>
           <Sentence Function="proviso" Num="2">ただし、第三条第一項の改正規定及び次項の規定は、同年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>令和二年十月一日から令和三年九月三十日までの間に製造たばこの製造場から移出され、又は保税地域（関税法（昭和二十九年法律第六十一号）第二十九条に規定する保税地域をいう。）から引き取られる葉巻たばこに係る改正後のたばこ税法施行令第三条第一項の規定の適用については、同項中「同項ただし書に規定する」とあるのは、「一本当たりの重量が〇・七グラム未満の」とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

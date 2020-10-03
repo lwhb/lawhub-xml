@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="255" Year="30">
+<Law DataInfo="200731e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="255" Year="30">
   <LawNum>昭和三十年政令第二百五十五号</LawNum>
   <LawBody>
     <LawTitle>補助金等に係る予算の執行の適正化に関する法律施行令</LawTitle>
@@ -21,7 +21,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法第二条第一項第四号に規定する給付金で政令で定めるものは、次に掲げるもの（第五十四号から第百八十四号までにあつては、当該各号に掲げる予算の目又はこれに準ずるものの経費の支出によるもの）とする。</Sentence>
+            <Sentence>法第二条第一項第四号に規定する給付金で政令で定めるものは、次に掲げるもの（第五十四号から第百八十五号までにあつては、当該各号に掲げる予算の目又はこれに準ずるものの経費の支出によるもの）とする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1126,6 +1126,12 @@
             <ItemTitle>百八十四</ItemTitle>
             <ItemSentence>
               <Sentence>高収益作物次期作支援交付金</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="185">
+            <ItemTitle>百八十五</ItemTitle>
+            <ItemSentence>
+              <Sentence>新型コロナウイルスワクチン等生産体制整備臨時特例交付金</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -4507,6 +4513,15 @@
       </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和二年四月三〇日政令第一五九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一九日政令第一九三号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

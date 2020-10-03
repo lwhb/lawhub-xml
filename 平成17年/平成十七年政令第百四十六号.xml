@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="146" Year="17">
+<Law DataInfo="200805e80k10m03" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="146" Year="17">
   <LawNum>平成十七年政令第百四十六号</LawNum>
   <LawBody>
     <LawTitle>公益通報者保護法別表第八号の法律を定める政令</LawTitle>
@@ -1555,7 +1555,7 @@
         <Item Num="252">
           <ItemTitle>二百五十二</ItemTitle>
           <ItemSentence>
-            <Sentence>船舶油濁損害賠償保障法（昭和五十年法律第九十五号）</Sentence>
+            <Sentence>船舶油濁等損害賠償保障法（昭和五十年法律第九十五号）</Sentence>
           </ItemSentence>
         </Item>
         <Item Num="253">
@@ -3541,7 +3541,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二四年八月一〇日政令第二一一号" Extract="true">
+    <SupplProvision AmendLawNum="平成二四年八月一〇日政令第二一一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -3977,7 +3977,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年一〇月二五日政令第二六七号" Type="Amend">
+    <SupplProvision AmendLawNum="平成二九年一〇月二五日政令第二六七号" Extract="true" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -4083,6 +4083,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月二五日政令第二〇八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令は、船舶油濁損害賠償保障法の一部を改正する法律（第二号において「改正法」という。）の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和二年三月一一日政令第四〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>

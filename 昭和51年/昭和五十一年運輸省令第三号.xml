@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200722e05k11m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="51">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="003" Year="51">
   <LawNum>昭和五十一年運輸省令第三号</LawNum>
   <LawBody>
-    <LawTitle>船舶油濁損害賠償保障法施行規則</LawTitle>
+    <LawTitle>船舶油濁等損害賠償保障法施行規則</LawTitle>
     <EnactStatement>油濁損害賠償保障法（昭和五十年法律第九十五号）第二十八条第一項及び第二項の規定に基づき、油濁損害賠償保障法施行規則を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Delete="false" Hide="false" Num="1">
@@ -11,7 +11,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令において使用する用語は、船舶油濁損害賠償保障法（昭和五十年法律第九十五号。以下「法」という。）において使用する用語の例による。</Sentence>
+            <Sentence WritingMode="vertical">この省令において使用する用語は、船舶油濁等損害賠償保障法（昭和五十年法律第九十五号。以下「法」という。）において使用する用語の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -21,7 +21,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二条第六号イの国土交通省令で定めるタンカー内の場所は、次に掲げる場所とする。</Sentence>
+            <Sentence WritingMode="vertical">法第二条第十四号イの国土交通省令で定めるタンカー内の場所は、次に掲げる場所とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -50,182 +50,41 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二条第六号イの国土交通省令で定める混合物は、次に掲げる混合物とする。</Sentence>
+            <Sentence WritingMode="vertical">法第二条第十四号イの国土交通省令で定める混合物は、次に掲げる混合物とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">水バラストであつて貨物油又は燃料油を含むもの</Sentence>
+              <Sentence WritingMode="vertical">水バラストであって貨物油又は燃料油を含むもの</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">貨物<Ruby>艙<Rt>そう</Rt>
-</Ruby>の洗浄水であつて貨物油又は燃料油を含むもの</Sentence>
+</Ruby>の洗浄水であって貨物油又は燃料油を含むもの</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">ビルジであつて燃料油を含むもの</Sentence>
+              <Sentence WritingMode="vertical">ビルジであって燃料油を含むもの</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="4">
-        <ArticleCaption>（保障契約証明書の交付の申請）</ArticleCaption>
+        <ArticleCaption>（特定海域）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十七条第一項の書面の交付を受けようとする者は、第一号様式による保障契約証明書交付申請書を地方運輸局長(運輸監理部長を含む。以下同じ。)に提出しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">保障契約証明書の交付の申請は、当該保障契約証明書に係る保障契約における保障期間の開始日（当該保障契約について既に保障契約証明書の交付を受けている場合において、当該保障契約証明書の有効期間が満了していないときは、当該有効期間の満了する日）の三月前からすることができる。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">第一項の申請を代理人により行う場合にあつては、申請書にその権限を証する書面を添付しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="5">
-        <ArticleCaption>（保障契約証明書の再交付の申請）</ArticleCaption>
-        <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十七条第四項の再交付を受けようとする者は、第二号様式による保障契約証明書再交付申請書を地方運輸局長に提出しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の申請を、保障契約証明書が損傷し、又はその識別が困難となつたことによりしようとする者は、遅滞なく、当該保障契約証明書を地方運輸局長に返納しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">地方運輸局長は、保障契約証明書が滅失したことにより再交付を行つた場合は、当該滅失した保障契約証明書が無効であることを告示する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="4">
-          <ParagraphNum>４</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">前条第三項の規定は、第一項の申請について準用する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="6">
-        <ArticleCaption>（手数料）</ArticleCaption>
-        <ArticleTitle>第六条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">第四条第一項の規定による保障契約証明書の交付又は前条第一項の規定による保障契約証明書の再交付を申請しようとする者は、次に掲げる額の手数料を納付しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第十三条第二項の国土交通省令で定める海域は、次に掲げる海域とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">交付の申請</Sentence>
-              </Column>
-              <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">保障契約証明書一枚につき七千円（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。次号及び第十四条において「情報通信技術活用法」という。）第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、六千九百円）</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">再交付の申請</Sentence>
-              </Column>
-              <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">保障契約証明書一枚につき六千円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、五千九百円）</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の手数料は、手数料の額に相当する収入印紙を第四条第一項又は前条第一項の申請書に貼つて納付しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="7">
-        <ArticleCaption>（保障契約証明書の様式）</ArticleCaption>
-        <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">保障契約証明書の様式は、第三号様式による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="8">
-        <ArticleCaption>（保障契約証明書の有効期間）</ArticleCaption>
-        <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">保障契約証明書の有効期間は、交付又は再交付の日（交付の日が、保障契約の保障期間の開始日前である場合又は当該保障契約について既に保障契約証明書の交付を受けている場合において、新たに交付を受けた保障契約証明書の交付の日が既に交付を受けている保障契約証明書（以下「旧保障契約証明書」という。）の有効期間の満了する日前であるときにあつては、それぞれ当該保障契約の保障期間の開始日又は旧保障契約証明書の有効期間の満了する日の翌日。以下この条において同じ。）から保障期間の満了する日までの期間とする。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該期間が当該交付又は再交付の日から一年を超える場合は、一年とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の規定にかかわらず、保障契約証明書の有効期間の満了前に当該保障契約証明書に係る保障契約が効力を失うこととなつたときは、当該保障契約証明書もその時において効力を失う。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="9">
-        <ArticleCaption>（保障契約証明書の記載事項の変更の届出）</ArticleCaption>
-        <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十八条第一項の変更の届出を行おうとする者は、第四号様式による保障契約証明書記載事項変更届出書を地方運輸局長に提出しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">第四条第三項の規定は、前項の届出について準用する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="10">
-        <ArticleCaption>（特定油量の報告）</ArticleCaption>
-        <ArticleTitle>第十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十八条第一項又は第二項の規定により報告を行おうとする者は、毎年二月十五日までに、第五号様式による報告書を提出しなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="11">
-        <ArticleCaption>（特定海域）</ArticleCaption>
-        <ArticleTitle>第十一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十九条の四第二項の国土交通省令で定める海域は、次に掲げる海域とする。</Sentence>
-          </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">東京湾（千葉県洲埼灯台から神奈川県剣埼灯台まで引いた線及び陸岸により囲まれた海域をいう。）</Sentence>
+              <Sentence WritingMode="vertical">東京湾（千葉県洲埼灯台から神奈川県剣埼灯台まで引いた線及び陸岸により囲まれた海域をいう。 ）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -242,63 +101,63 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="12">
-        <ArticleCaption>（一般船舶保障契約証明書の交付の申請）</ArticleCaption>
-        <ArticleTitle>第十二条</ArticleTitle>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（タンカー保障契約証明書の交付の申請）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十九条の六において準用する法第十七条第一項の書面（以下「一般船舶保障契約証明書」という。）の交付を受けようとする者は、第六号様式による一般船舶保障契約証明書交付申請書を地方運輸局長に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第十七条第一項の書面（以下「タンカー保障契約証明書」という。）の交付を受けようとする者は、第一号様式による保障契約証明書交付申請書を地方運輸局長(運輸監理部長を含む。以下同じ。)に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">一般船舶保障契約証明書の交付の申請は、当該一般船舶保障契約証明書に係る保障契約における保障期間の開始日（当該保障契約について既に一般船舶保障契約証明書の交付を受けている場合において、当該一般船舶保障契約証明書の有効期間が満了していないときは、当該有効期間の満了する日）の三月前からすることができる。</Sentence>
+            <Sentence WritingMode="vertical">タンカー保障契約証明書の交付の申請は、当該タンカー保障契約証明書に係る保障契約における保障期間の開始日（当該保障契約について既にタンカー保障契約証明書の交付を受けている場合において、当該タンカー保障契約証明書の有効期間が満了していないときは、当該有効期間の満了する日）の三月前からすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第四条第三項の規定は、第一項の申請について準用する。</Sentence>
+            <Sentence WritingMode="vertical">第一項の申請を代理人により行う場合にあっては、申請書にその権限を証する書面を添付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="13">
-        <ArticleCaption>（一般船舶保障契約証明書の再交付の申請）</ArticleCaption>
-        <ArticleTitle>第十三条</ArticleTitle>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（タンカー保障契約証明書の再交付の申請）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十九条の六において準用する法第十七条第四項の再交付を受けようとする者は、第七号様式による一般船舶保障契約証明書再交付申請書を地方運輸局長に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第十七条第四項の再交付を受けようとする者は、第二号様式による保障契約証明書再交付申請書を地方運輸局長に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の申請を、一般船舶保障契約証明書が損傷し、又はその識別が困難となつたことによりしようとする者は、遅滞なく、当該一般船舶保障契約証明書を地方運輸局長に返納しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項の申請を、タンカー保障契約証明書が損傷し、又はその識別が困難となったことによりしようとする者は、遅滞なく、当該タンカー保障契約証明書を地方運輸局長に返納しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">地方運輸局長は、一般船舶保障契約証明書が滅失したことにより再交付を行つた場合は、当該滅失した一般船舶保障契約証明書が無効であることを官報に公示する。</Sentence>
+            <Sentence WritingMode="vertical">地方運輸局長は、タンカー保障契約証明書が滅失したことにより再交付を行った場合は、当該滅失したタンカー保障契約証明書が無効であることを告示する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第四条第三項の規定は、第一項の申請について準用する。</Sentence>
+            <Sentence WritingMode="vertical">前条第三項の規定は、第一項の申請について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="14">
+      <Article Delete="false" Hide="false" Num="7">
         <ArticleCaption>（手数料）</ArticleCaption>
-        <ArticleTitle>第十四条</ArticleTitle>
+        <ArticleTitle>第七条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第十二条第一項の規定による一般船舶保障契約証明書の交付又は前条第一項の規定による一般船舶保障契約証明書の再交付を申請しようとする者は、次に掲げる額の手数料を納付しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">第五条第一項の規定によるタンカー保障契約証明書の交付又は前条第一項の規定によるタンカー保障契約証明書の再交付を申請しようとする者は、次に掲げる額の手数料を納付しなければならない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -307,7 +166,7 @@
                 <Sentence WritingMode="vertical">交付の申請</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">一般船舶保障契約証明書一枚につき一万四千三百円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、一万四千百円）</Sentence>
+                <Sentence WritingMode="vertical">タンカー保障契約証明書一枚につき七千円（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。以下「情報通信技術活用法」という。）第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあっては、六千九百円）</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -318,7 +177,7 @@
                 <Sentence WritingMode="vertical">再交付の申請</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">一般船舶保障契約証明書一枚につき一万二千八百円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、一万二千七百円）</Sentence>
+                <Sentence WritingMode="vertical">タンカー保障契約証明書一枚につき六千円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあっては、五千九百円）</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -326,50 +185,213 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の手数料は、手数料の額に相当する収入印紙を第十二条第一項又は前条第一項の申請書に貼つて納付しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">前項の手数料は、手数料の額に相当する収入印紙を第五条第一項又は前条第一項の申請書に貼って納付しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="15">
-        <ArticleCaption>（一般船舶保障契約証明書の様式）</ArticleCaption>
-        <ArticleTitle>第十五条</ArticleTitle>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（タンカー保障契約証明書の様式）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">一般船舶保障契約証明書の様式は、第八号様式による。</Sentence>
+            <Sentence WritingMode="vertical">タンカー保障契約証明書の様式は、第三号様式による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="16">
-        <ArticleCaption>（一般船舶保障契約証明書の有効期間）</ArticleCaption>
-        <ArticleTitle>第十六条</ArticleTitle>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（タンカー保障契約証明書の有効期間）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">一般船舶保障契約証明書の有効期間は、交付又は再交付の日（交付の日が、保障契約の保障期間の開始日前である場合又は当該保障契約について既に一般船舶保障契約証明書の交付を受けている場合において、新たに交付を受けた一般船舶保障契約証明書の交付の日が既に交付を受けている一般船舶保障契約証明書（以下「旧一般船舶保障契約証明書」という。）の有効期間の満了する日前であるときにあつては、それぞれ当該保障契約の保障期間の開始日又は旧一般船舶保障契約証明書の有効期間の満了する日の翌日。以下この条において同じ。）から保障期間の満了する日までの期間とする。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">タンカー保障契約証明書の有効期間は、交付又は再交付の日（交付の日が、保障契約の保障期間の開始日前である場合又は当該保障契約について既にタンカー保障契約証明書の交付を受けている場合において、新たに交付を受けたタンカー保障契約証明書の交付の日が既に交付を受けているタンカー保障契約証明書（以下「旧タンカー保障契約証明書」という。）の有効期間の満了する日前であるときにあっては、それぞれ当該保障契約の保障期間の開始日又は旧タンカー保障契約証明書の有効期間の満了する日の翌日。以下この条において同じ。）から保障期間の満了する日までの期間とする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該期間が当該交付又は再交付の日から一年を超える場合は、一年とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の規定にかかわらず、一般船舶保障契約証明書の有効期間の満了前に当該一般船舶保障契約証明書に係る保障契約が効力を失うこととなつたときは、当該一般船舶保障契約証明書もその時において効力を失う。</Sentence>
+            <Sentence WritingMode="vertical">前項の規定にかかわらず、タンカー保障契約証明書の有効期間の満了前に当該タンカー保障契約証明書に係る保障契約が効力を失うこととなったときは、当該タンカー保障契約証明書もその時において効力を失う。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="17">
-        <ArticleCaption>（一般船舶保障契約証明書の記載事項の変更の届出）</ArticleCaption>
-        <ArticleTitle>第十七条</ArticleTitle>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleCaption>（タンカー保障契約証明書の記載事項の変更の届出）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十九条の六において準用する法第十八条第一項の変更の届出を行おうとする者は、第九号様式による一般船舶保障契約証明書記載事項変更届出書を地方運輸局長に提出しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">法第十八条第一項の変更の届出を行おうとする者は、第四号様式による保障契約証明書記載事項変更届出書を地方運輸局長に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第四条第三項の規定は、前項の届出について準用する。</Sentence>
+            <Sentence WritingMode="vertical">第五条第三項の規定は、前項の届出について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleCaption>（特定油量の報告）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第二十八条第一項又は第二項の規定により報告を行おうとする者は、毎年二月十五日までに、第五号様式による報告書を提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="12">
+        <ArticleCaption>（一般船舶等保障契約証明書の交付の申請）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第四十四条において準用する法第十七条第一項の書面（以下「一般船舶等保障契約証明書」という。）の交付を受けようとする者は、第一号様式による保障契約証明書交付申請書を地方運輸局長に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">一般船舶等保障契約証明書の交付の申請は、当該一般船舶等保障契約証明書に係る保障契約における保障期間の開始日（当該保障契約について既に一般船舶等保障契約証明書の交付を受けている場合において、当該一般船舶等保障契約証明書の有効期間が満了していないときは、当該有効期間の満了する日）の三月前からすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第五条第三項の規定は、第一項の申請について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="13">
+        <ArticleCaption>（一般船舶等保障契約証明書の再交付の申請）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第四十四条において準用する法第十七条第四項の再交付を受けようとする者は、第二号様式による保障契約証明書再交付申請書を地方運輸局長に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の申請を、一般船舶等保障契約証明書が損傷し、又はその識別が困難となったことによりしようとする者は、遅滞なく、当該一般船舶等保障契約証明書を地方運輸局長に返納しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">地方運輸局長は、一般船舶等保障契約証明書が滅失したことにより再交付を行った場合は、当該滅失した一般船舶等保障契約証明書が無効であることを官報に公示する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第五条第三項の規定は、第一項の申請について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="14">
+        <ArticleCaption>（手数料）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第十二条第一項の規定による一般船舶等保障契約証明書の交付又は前条第一項の規定による一般船舶等保障契約証明書の再交付を申請しようとする者は、次に掲げる額の手数料を納付しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">交付の申請</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">一般船舶等保障契約証明書一枚につき七千円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあっては、六千九百円）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">再交付の申請</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">一般船舶等保障契約証明書一枚につき六千円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあっては、五千九百円）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の手数料は、手数料の額に相当する収入印紙を第十二条第一項又は前条第一項の申請書に貼って納付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="15">
+        <ArticleCaption>（一般船舶等保障契約証明書の様式）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">一般船舶等保障契約証明書の様式は、次の各号に掲げる船舶の区分に応じ、それぞれ当該各号に定める様式による。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">法第四十一条第一項第一号に規定する第一種特定船舶</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">第六号様式</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">法第四十一条第一項第二号に規定する第二種特定船舶</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">第七号様式 </Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="16">
+        <ArticleCaption>（一般船舶等保障契約証明書の有効期間）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">一般船舶等保障契約証明書の有効期間は、交付又は再交付の日（交付の日が、保障契約の保障期間の開始日前である場合又は当該保障契約について既に一般船舶等保障契約証明書の交付を受けている場合において、新たに交付を受けた一般船舶等保障契約証明書の交付の日が既に交付を受けている一般船舶等保障契約証明書（以下「旧一般船舶等保障契約証明書」という。）の有効期間の満了する日前であるときにあっては、それぞれ当該保障契約の保障期間の開始日又は旧一般船舶等保障契約証明書の有効期間の満了する日の翌日。以下この条において同じ。）から保障期間の満了する日までの期間とする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該期間が当該交付又は再交付の日から一年を超える場合は、一年とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定にかかわらず、一般船舶等保障契約証明書の有効期間の満了前に当該一般船舶等保障契約証明書に係る保障契約が効力を失うこととなったときは、当該一般船舶等保障契約証明書もその時において効力を失う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="17">
+        <ArticleCaption>（一般船舶等保障契約証明書の記載事項の変更の届出）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第四十四条において準用する法第十八条第一項の変更の届出を行おうとする者は、第四号様式による保障契約証明書記載事項変更届出書を地方運輸局長に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第五条第三項の規定は、前項の届出について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -379,7 +401,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十九条の七第三項の保障契約の締結を証する書面は、一般船舶に係る次に掲げる事項（同項に規定する保障契約の契約書の写しに記載されている事項を除く。）を証する書面とする。</Sentence>
+            <Sentence WritingMode="vertical">法第四十五条第三項の保障契約の締結を証する書面は、一般船舶に係る次に掲げる事項（同項に規定する保障契約の契約書の写しに記載されている事項を除く。）を証する書面とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -420,36 +442,247 @@
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">保障契約が法第三十九条の五第一項第一号及び第二号に掲げる損害のいずれをもてん補する保険契約又はその賠償の義務の履行及び費用の支払を担保する契約であること。</Sentence>
+              <Sentence WritingMode="vertical">保障契約が一般船舶等油濁損害（法第二条第十六号ロに掲げるものを除く。次号並びに第二十七条第十三号二及びホにおいて同じ。）を塡補する保険契約又はその賠償の義務の履行及び費用の支払を担保する契約であること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">保障契約による法第三十九条の五第一項第一号に掲げる損害をてん補するための保険金額又は賠償の義務の履行が担保されている額及び同項第二号に掲げる損害をてん補するための保険金額又は当該契約に係る一般船舶の撤去その他の措置に要する費用の支払が担保されている額</Sentence>
+              <Sentence WritingMode="vertical">保障契約による一般船舶等油濁損害を塡補するための保険金額又は賠償の義務の履行が担保されている額</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="19">
-        <ArticleCaption>（保障契約情報の通報の方法）</ArticleCaption>
+        <ArticleCaption>（難破物保障契約証明書の交付の申請）</ArticleCaption>
         <ArticleTitle>第十九条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四十一条の二第一項前段の規定による本邦以外の地域の港から本邦内の港に入港（一般船舶にあつては、特定海域への入域を除く。以下この項、次項、第三項及び次条第九号において同じ。）をしようとする特定船舶（特定海域に入域をする一般船舶を除く。）の船長が行う通報は、本邦内の港に入港をする日の前日（その日が行政機関の休日に関する法律（昭和六十三年法律第九十一号）第一条第一項に規定する行政機関の休日に当たるときは、その日前においてその日に最も近い行政機関の休日でない日。以下この条において同じ。）の正午までに入港をしようとする本邦内の港を管轄する地方運輸局長に対して行うものとする。</Sentence>
+            <Sentence WritingMode="vertical">法第五十二条において準用する法第十七条第一項の書面（以下「難破物保障契約証明書」という。）の交付を受けようとする者は、第一号様式による保障契約証明書交付申請書を地方運輸局長に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四十一条の二第一項前段の規定による本邦以外の地域の港から特定海域に入域をしようとする一般船舶であつて本邦内の港に入港をする予定のあるものの船長が行う通報は、特定海域に入域をする日の前日の正午までに、特定海域への入域後に入港をしようとする本邦内の港を管轄する地方運輸局長に対して行うものとする。</Sentence>
+            <Sentence WritingMode="vertical">難破物保障契約証明書の交付の申請は、当該難破物保障契約証明書に係る保障契約における保障期間の開始日（当該保障契約について既に難破物保障契約証明書の交付を受けている場合において、当該難破物保障契約証明書の有効期間が満了していないときは、当該有効期間の満了する日）の三月前からすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四十一条の二第一項前段の規定による本邦以外の地域の港から特定海域に入域をしようとする一般船舶であつて本邦内の港に入港をする予定のないものの船長が行う通報は、特定海域に入域をする日の前日の正午までに、次の各号に掲げる場合の区分に応じ、当該各号に定める地方運輸局長に対して行うものとする。</Sentence>
+            <Sentence WritingMode="vertical">第五条第三項の規定は、第一項の申請について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="20">
+        <ArticleCaption>（難破物保障契約証明書の再交付の申請）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五十二条において準用する法第十七条第四項の再交付を受けようとする者は、第二号様式による保障契約証明書再交付申請書を地方運輸局長に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の申請を、難破物保障契約証明書が損傷し、又はその識別が困難となったことによりしようとする者は、遅滞なく、当該難破物保障契約証明書を地方運輸局長に返納しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">地方運輸局長は、難破物保障契約証明書が滅失したことにより再交付を行った場合は、当該滅失した難破物保障契約証明書が無効であることを官報に公示する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第五条第三項の規定は、第一項の申請について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="21">
+        <ArticleCaption>（手数料）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第十九条第一項の規定による難破物保障契約証明書の交付又は前条第一項の規定による難破物保障契約証明書の再交付を申請しようとする者は、次に掲げる額の手数料を納付しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">交付の申請</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">難破物保障契約証明書一枚につき七千円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあっては、六千九百円）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">再交付の申請</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">難破物保障契約証明書一枚につき六千円（情報通信技術活用法第六条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあっては、五千九百円）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の手数料は、手数料の額に相当する収入印紙を第十九条第一項又は前条第一項の申請書に貼って納付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="22">
+        <ArticleCaption>（難破物保障契約証明書の様式）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">難破物保障契約証明書の様式は、次の各号に掲げる船舶の区分に応じ、それぞれ当該各号に定める様式による。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">法第四十九条第一項第一号に規定する第一種特定船舶</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">第八号様式</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">法第四十九条第一項第二号に規定する第二種特定船舶</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">第九号様式</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="23">
+        <ArticleCaption>（難破物保障契約証明書の有効期間）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">難破物保障契約証明書の有効期間は、交付又は再交付の日（交付の日が、保障契約の保障期間の開始日前である場合又は当該保障契約について既に難破物保障契約証明書の交付を受けている場合において、新たに交付を受けた難破物保障契約証明書の交付の日が既に交付を受けている難破物保障契約証明書（以下「旧難破物保障契約証明書」という。）の有効期間の満了する日前であるときにあっては、それぞれ当該保障契約の保障期間の開始日又は旧難破物保障契約証明書の有効期間の満了する日の翌日。以下この条において同じ。）から保障期間の満了する日までの期間とする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該期間が当該交付又は再交付の日から一年を超える場合は、一年とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の規定にかかわらず、難破物保障契約証明書の有効期間の満了前に当該難破物保障契約証明書に係る保障契約が効力を失うこととなったときは、当該難破物保障契約証明書もその時において効力を失う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="24">
+        <ArticleCaption>（難破物保障契約証明書の記載事項の変更の届出）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五十二条において準用する法第十八条第一項の変更の届出を行おうとする者は、第四号様式による保障契約証明書記載事項変更届出書を地方運輸局長に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第五条第三項の規定は、前項の届出について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="25">
+        <ArticleCaption>（保障契約の締結を証する書面）</ArticleCaption>
+        <ArticleTitle>第二十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五十三条第三項の保障契約の締結を証する書面は、一般船舶に係る次に掲げる事項（同項に規定する保障契約の契約書の写しに記載されている事項を除く。）を証する書面とする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">名称</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">船舶番号又は信号符字</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国際海事機関船舶識別番号</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国籍</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">総トン数</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">保障契約の有効期間</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">保障契約が難破物除去損害（我が国の領域内における法第二条第十七号イからハまでに掲げる措置に要する費用の負担により生ずる損害に限る。次号並びに第二十七条第十三号ニ及びホにおいて同じ。）を塡補する保険契約又はその賠償の義務の履行を担保する契約であること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">保障契約による難破物除去損害を塡補するための保険金額又は賠償の義務の履行が担保されている額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="26">
+        <ArticleCaption>（保障契約情報の通報の方法）</ArticleCaption>
+        <ArticleTitle>第二十六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五十八条第一項前段の規定による本邦以外の地域の港から本邦内の港に入港（一般船舶にあつては、特定海域への入域を除く。以下この項、次項、第三項及び次条第九号において同じ。）をしようとする特定船舶（特定海域に入域をするタンカー及び一般船舶を除く。）の船長が行う通報は、本邦内の港に入港をする日の前日（その日が行政機関の休日に関する法律（昭和六十三年法律第九十一号）第一条第一項に規定する行政機関の休日に当たるときは、その日前においてその日に最も近い行政機関の休日でない日。以下この条において同じ。）の正午までに入港をしようとする本邦内の港を管轄する地方運輸局長に対して行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五十八条第一項前段の規定による本邦以外の地域の港から特定海域に入域をしようとする特定船舶であって本邦内の港に入港をする予定のあるものの船長が行う通報は、特定海域に入域をする日の前日の正午までに、特定海域への入域後に入港をしようとする本邦内の港を管轄する地方運輸局長に対して行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第五十八条第一項前段の規定による本邦以外の地域の港から特定海域に入域をしようとする特定船舶であって本邦内の港に入港をする予定のないものの船長が行う通報は、特定海域に入域をする日の前日の正午までに、次の各号に掲げる場合の区分に応じ、当該各号に定める地方運輸局長に対して行うものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -499,23 +732,23 @@
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前各項の規定にかかわらず、法第四十一条の二第一項の規定による通報は、前各項の通報を行つた特定船舶について入港をしようとする本邦内の港を変更する必要が緊急に生じた場合その他やむを得ない事情があると地方運輸局長が認める場合は、本邦内の港に入港をする日の前日の正午以後に行うことができる。</Sentence>
+            <Sentence WritingMode="vertical">前各項の規定にかかわらず、法第五十八条第一項の規定による通報は、前各項の通報を行った特定船舶について入港をしようとする本邦内の港を変更する必要が緊急に生じた場合その他やむを得ない事情があると地方運輸局長が認める場合は、本邦内の港に入港をする日の前日の正午以後に行うことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四十一条の二第一項後段の規定による保障契約情報の変更の通報は、当該保障契約情報に変更があつた場合に、直ちに、当該保障契約情報の通報を行つた地方運輸局長に対して行うものとする。</Sentence>
+            <Sentence WritingMode="vertical">法第五十八条第一項後段の規定による保障契約情報の変更の通報は、当該保障契約情報に変更があった場合に、直ちに、当該保障契約情報の通報を行った地方運輸局長に対して行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="20">
+      <Article Delete="false" Hide="false" Num="27">
         <ArticleCaption>（保障契約情報の通報事項）</ArticleCaption>
-        <ArticleTitle>第二十条</ArticleTitle>
+        <ArticleTitle>第二十七条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">法第四十一条の二第一項の国土交通省令で定める事項は、特定船舶に係る次に掲げるものとする。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第五十八条第一項の国土交通省令で定める事項は、特定船舶に係る次に掲げるものとする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、二千トンを超えるばら積みの油の輸送の用に供しているタンカーにあつては、第十号に掲げる事項を除く。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
@@ -557,13 +790,13 @@
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">所有者等の氏名又は名称及び住所並びに電話番号その他の連絡先</Sentence>
+              <Sentence WritingMode="vertical">船舶所有者（総トン数が千トン以下の一般船舶にあっては、船舶所有者等。次号において同じ。）の氏名又は名称及び住所並びに電話番号その他の連絡先</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">船長又は所有者等の代理人の氏名又は名称及び住所並びに電話番号その他の連絡先</Sentence>
+              <Sentence WritingMode="vertical">船長又は船舶所有者の代理人の氏名又は名称及び住所並びに電話番号その他の連絡先</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="9">
@@ -587,13 +820,13 @@
           <Item Delete="false" Hide="false" Num="12">
             <ItemTitle>十二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">保障契約証明書、責任条約の締約国である外国が交付した当該船舶について保障契約が締結されていることを証する責任条約の附属書の様式による書面、外国が交付した責任条約第七条第十二項に規定する証明書又は一般船舶保障契約証明書（以下「保障契約証明書等」という。）を有している場合にあつては、当該保障契約証明書等の番号</Sentence>
+              <Sentence WritingMode="vertical">タンカー保障契約証明書、責任条約の締約国である外国が交付した当該船舶について保障契約が締結されていることを証する責任条約の附属書の様式による書面、外国が交付した責任条約第七条第十二項に規定する証明書、一般船舶等保障契約証明書、燃料油条約の締約国である外国が交付した当該船舶について保障契約が締結されていることを証する燃料油条約の附属書の様式による書面、外国が交付した燃料油条約第七条第十四項に規定する証明書、難破物保障契約証明書、難破物除去条約の締約国である外国が交付した当該船舶について保障契約が締結されていることを証する難破物除去条約の附属書の様式による書面又は外国が交付した難破物除去条約第十二条第十四項に規定する証明書（以下「タンカー保障契約証明書等」という。）を有している場合にあっては、当該タンカー保障契約証明書等の番号</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="13">
             <ItemTitle>十三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">保障契約証明書等を有していない場合にあつては、次に掲げる事項</Sentence>
+              <Sentence WritingMode="vertical">タンカー保障契約証明書等を有していない場合にあっては、次に掲げる事項</Sentence>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
@@ -616,13 +849,13 @@
             <Subitem1 Delete="false" Hide="false" Num="4">
               <Subitem1Title>ニ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">保障契約が法第三十九条の五第一項第一号及び第二号に掲げる損害のいずれをもてん補する保険契約又はその賠償の義務の履行及び費用の支払を担保する契約であるか否か。</Sentence>
+                <Sentence WritingMode="vertical">保障契約が一般船舶等油濁損害及び難破物除去損害を塡補する保険契約又はその賠償の義務の履行を担保する契約であるか否か。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="5">
               <Subitem1Title>ホ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">保障契約において法第三十九条の五第一項第一号に掲げる損害をてん補するための保険金額又は賠償の義務の履行が担保されている額及び同項第二号に掲げる損害をてん補するための保険金額又は当該契約に係る一般船舶の撤去その他の措置に要する費用の支払が担保されている額</Sentence>
+                <Sentence WritingMode="vertical">保障契約において一般船舶等油濁損害及び難破物除去損害を塡補するための保険金額又は賠償の義務の履行が担保されている額</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -640,13 +873,13 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="21">
+      <Article Delete="false" Hide="false" Num="28">
         <ArticleCaption>（やむを得ない事由）</ArticleCaption>
-        <ArticleTitle>第二十一条</ArticleTitle>
+        <ArticleTitle>第二十八条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四十一条の二第三項の国土交通省令で定めるやむを得ない事由は、特定船舶に係る次に掲げるものとする。</Sentence>
+            <Sentence WritingMode="vertical">法第五十八条第三項の国土交通省令で定めるやむを得ない事由は、特定船舶に係る次に掲げるものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -676,33 +909,105 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四十一条の二第三項の規定により本邦以外の地域の港から本邦内の港に入港をした特定船舶の船長が行う通報は、前条各号に掲げる事項について、入港後直ちに、入港をした本邦内の港を管轄する地方運輸局長（特定海域に入域した場合にあつては、第十九条第三項各号に掲げる地方運輸局長）に対して行うものとする。</Sentence>
+            <Sentence WritingMode="vertical">法第五十八条第三項の規定により本邦以外の地域の港から本邦内の港に入港をした特定船舶の船長が行う通報は、前条各号に掲げる事項について、入港後直ちに、入港をした本邦内の港を管轄する地方運輸局長（特定海域に入域した場合にあっては、第二十六条第三項各号に掲げる地方運輸局長）に対して行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="22">
+      <Article Delete="false" Hide="false" Num="29">
         <ArticleCaption>（立入検査をする職員の身分証票）</ArticleCaption>
-        <ArticleTitle>第二十二条</ArticleTitle>
+        <ArticleTitle>第二十九条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四十二条第二項の職員の身分を示す証票は、第十号様式による。</Sentence>
+            <Sentence WritingMode="vertical">法第五十九条第二項の職員の身分を示す証票は、第十号様式による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="23">
-        <ArticleCaption>（権限の委任）</ArticleCaption>
-        <ArticleTitle>第二十三条</ArticleTitle>
+      <Article Delete="false" Hide="false" Num="30">
+        <ArticleCaption>（締約国への報告の方法）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十七条第一項、第二項、第四項及び第五項、第十八条並びに第十九条(これらの規定を法第三十九条の六において準用する場合を含む。)並びに法第四十一条の二第一項及び第三項に規定する国土交通大臣の権限は、地方運輸局長が行うものとする。</Sentence>
+            <Sentence WritingMode="vertical">法第六十一条第一項の規定による報告は、電信、電話その他のなるべく早く到達するような手段により行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="31">
+        <ArticleCaption>（締約国への報告事項）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第六十一条第一項の国土交通省令で定める事項は、当該タンカー又は一般船舶に係る次に掲げるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">船舶所有者の氏名又は名称及び住所</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">難破物の位置</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">難破物の種類、大きさ及び構造</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">難破物の状態（損害の程度を含む。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">危険物、有害物その他の貨物の性質及び量</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">積載されている油の種類及び量</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前各号に掲げるもののほか、難破物除去条約第六条の規定による決定をするために必要なもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="32">
+        <ArticleCaption>（法第六十一条第一項ただし書の国土交通省令で定める者）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第六十一条第一項ただし書の国土交通省令で定める者は、難破物除去条約第一条第九項に規定する運航者とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="33">
+        <ArticleCaption>（権限の委任）</ArticleCaption>
+        <ArticleTitle>第三十三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第十七条第一項、第二項、第四項及び第五項、第十八条並びに第十九条（これらの規定を法第四十四条及び第五十二条において準用する場合を含む。）並びに法第五十八条第一項及び第三項に規定する国土交通大臣の権限は、地方運輸局長が行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第四十二条第一項及び第四十二条の二に規定する国土交通大臣の権限は、当該船舶の所在地を管轄する地方運輸局長も行うことができる。</Sentence>
+            <Sentence WritingMode="vertical">法第五十九条第一項及び第二項並びに第六十条に規定する国土交通大臣の権限は、当該船舶の所在地を管轄する地方運輸局長も行うことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1076,7 +1381,7 @@
       <RelatedArticleNum>（附則第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_001.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1085,7 +1390,7 @@
       <RelatedArticleNum>（附則第２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_002.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1407,7 +1712,7 @@
       <RelatedArticleNum>（附則第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_003.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1416,7 +1721,7 @@
       <RelatedArticleNum>（附則第４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_004.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1425,7 +1730,7 @@
       <RelatedArticleNum>（附則第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_005.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1434,7 +1739,7 @@
       <RelatedArticleNum>（附則第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_006.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1910,155 +2215,148 @@
       </Article>
     </SupplProvision>
     <AppdxStyle>
-      <AppdxStyleTitle>別記様式１</AppdxStyleTitle>
-      <RelatedArticleNum>（附則第３条関係）</RelatedArticleNum>
+      <AppdxStyleTitle>別記様式１（附則第３条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_007.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle>別記様式２</AppdxStyleTitle>
-      <RelatedArticleNum>（附則第４条関係）</RelatedArticleNum>
+      <AppdxStyleTitle>別記様式２（附則第４条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_008.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle>別記様式３</AppdxStyleTitle>
-      <RelatedArticleNum>（附則第６条関係）</RelatedArticleNum>
+      <AppdxStyleTitle>別記様式３（附則第６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_009.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle>別記様式４</AppdxStyleTitle>
-      <RelatedArticleNum>（附則第６条関係）</RelatedArticleNum>
+      <AppdxStyleTitle>別記様式４（附則第６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_010.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle>別記様式５</AppdxStyleTitle>
-      <RelatedArticleNum>（附則第６条関係）</RelatedArticleNum>
+      <AppdxStyleTitle>別記様式５（附則第６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_011.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle>別記様式６</AppdxStyleTitle>
-      <RelatedArticleNum>（附則第６条関係）</RelatedArticleNum>
+      <AppdxStyleTitle>別記様式６（附則第６条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_012.pdf"/>
+          <Fig src=""/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle>別記様式７</AppdxStyleTitle>
-      <RelatedArticleNum>（附則第８条関係）</RelatedArticleNum>
+      <AppdxStyleTitle>別記様式７（附則第８条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_013.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第５条、第１２条、第１９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_014.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第２号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第６条、第１３条、第２０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_015.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第３号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（第７条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_016.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第４号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第１０条、第１７条、第２４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_017.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第５号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第１１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_018.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第６号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（第１２条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第１５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_019.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第７号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第１５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_020.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第８号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（第１５条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第２２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_021.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第９号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（第１７条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第２２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_022.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第１０号様式</AppdxStyleTitle>
-      <RelatedArticleNum>（第２２条関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第２９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F03901000003_2006151606_023.pdf"/>
+          <Fig src="./pict/S51F03901000003_2009041509_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Heisei" Lang="ja" LawType="Rule" Num="11" Year="14">
+<Law DataInfo="200831e80k80m01" Era="Heisei" Lang="ja" LawType="Rule" Num="11" Year="14">
   <LawNum>平成十四年国家公安委員会規則第十一号</LawNum>
   <LawBody>
     <LawTitle>国家公安委員会関係自動車運転代行業の業務の適正化に関する法律施行規則</LawTitle>
@@ -1625,57 +1625,68 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日国家公安委員会規則第八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、道路交通法の一部を改正する法律附則第一条第一号に掲げる規定の施行の日（令和二年六月三十日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則による改正前の国家公安委員会関係自動車運転代行業の業務の適正化に関する法律施行規則に規定する様式については、この規則による改正後の国家公安委員会関係自動車運転代行業の業務の適正化に関する法律施行規則に規定する様式にかかわらず、当分の間、なおこれを使用することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">別記様式第一号</AppdxStyleTitle>
-      <RelatedArticleNum>（第三条関係）</RelatedArticleNum>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第一号（第四条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H14F30301000011_2007291107_001.pdf"/>
+          <Fig src="./pict/H14F30301000011_2009171509_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">別記様式第二号</AppdxStyleTitle>
-      <RelatedArticleNum>（第五条関係）</RelatedArticleNum>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第二号（第六条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H14F30301000011_2007291107_002.pdf"/>
+          <Fig src="./pict/H14F30301000011_2009171509_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">別記様式第三号</AppdxStyleTitle>
-      <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第三号（第七条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H14F30301000011_2007291107_003.pdf"/>
+          <Fig src="./pict/H14F30301000011_2009171509_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">別記様式第四号</AppdxStyleTitle>
-      <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第四号（第九条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H14F30301000011_2007291107_004.pdf"/>
+          <Fig src="./pict/H14F30301000011_2009171509_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">別記様式第五号</AppdxStyleTitle>
-      <RelatedArticleNum>（第十二条関係）</RelatedArticleNum>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第五号（第十四条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H14F30301000011_2007291107_005.pdf"/>
+          <Fig src="./pict/H14F30301000011_2009171509_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">別記様式第六号</AppdxStyleTitle>
-      <RelatedArticleNum>（第十五条関係）</RelatedArticleNum>
+      <AppdxStyleTitle WritingMode="vertical">別記様式第六号（第十七条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H14F30301000011_2007291107_006.pdf"/>
+          <Fig src="./pict/H14F30301000011_2009171509_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

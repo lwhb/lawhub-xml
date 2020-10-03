@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="014" Year="05">
+<Law DataInfo="200629e03k03m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="014" Year="05">
   <LawNum>平成五年大蔵省令第十四号</LawNum>
   <LawBody>
     <LawTitle>金融商品取引法第二条に規定する定義に関する内閣府令</LawTitle>
@@ -648,7 +648,7 @@
           <Item Delete="false" Hide="false" Num="10">
             <ItemTitle>十</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">株式会社地域経済活性化支援機構（株式会社地域経済活性化支援機構法（平成二十一年法律第六十三号）第二十二条第一項第一号、第二号イ及びハ、第三号、第五号、第九号並びに第十号に掲げる業務を行う場合に限る。）</Sentence>
+              <Sentence WritingMode="vertical">株式会社地域経済活性化支援機構（株式会社地域経済活性化支援機構法（平成二十一年法律第六十三号）第二十二条第一項第一号、第二号イ及びハ、第三号、第七号並びに第八号に掲げる業務を行う場合に限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="10_2">
@@ -2303,20 +2303,20 @@
                   </Column>
                 </Subitem2Sentence>
               </Subitem2>
-              <Subitem2 Num="2">
+              <Subitem2 Delete="false" Hide="false" Num="2">
                 <Subitem2Title>（２）</Subitem2Title>
                 <Subitem2Sentence>
-                  <Column Num="1">
-                    <Sentence>（１）に掲げる場合以外の場合</Sentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">（１）に掲げる場合以外の場合</Sentence>
                   </Column>
-                  <Column Num="2">
-                    <Sentence>次に掲げる要件のいずれかに該当すること。</Sentence>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">次に掲げる要件のいずれかに該当すること。</Sentence>
                   </Column>
                 </Subitem2Sentence>
-                <Subitem3 Num="1">
+                <Subitem3 Delete="false" Hide="false" Num="1">
                   <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
-                    <Sentence>当該有価証券の発行者と当該有価証券の取得勧誘に応じて当該有価証券を取得しようとする者（以下（２）において「取得者」という。）との間及び当該取得勧誘を行う者と当該取得者との間において、前条第二項に規定する事項（（ｉｉ）において「転売制限」という。）を定めた譲渡に係る契約を締結することを取得の条件として、取得勧誘が行われること。</Sentence>
+                    <Sentence WritingMode="vertical">当該有価証券の発行者と当該有価証券の取得勧誘に応じて当該有価証券を取得しようとする者（以下（２）において「取得者」という。）との間及び当該取得勧誘を行う者と当該取得者との間において、前条第二項に規定する事項（（ｉｉ）において「転売制限」という。）を定めた譲渡に係る契約を締結することを取得の条件として、取得勧誘が行われること。</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
@@ -6814,6 +6814,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一九日内閣府令第四七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、株式会社地域経済活性化支援機構法の一部を改正する法律の施行の日（令和二年六月十九日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

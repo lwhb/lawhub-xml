@@ -3082,7 +3082,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">法第四十三条第一項の規定に基づき特定地域型保育事業者の確認を受けようとする者は、次に掲げる事項を記載した申請書又は書類を、当該確認の申請に係る事業所の所在地を管轄する市町村長（同項の規定に基づき確認を受けようとする地域型保育事業を行う事業所の所在地の市町村以外の市町村（以下この条において「他の市町村」という。）の長から確認を受けようとする場合には、当該他の市町村の長。以下この節において同じ。）に提出しなければならない。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">法第四十三条第一項の規定に基づき特定地域型保育事業者の確認を受けようとする者は、次に掲げる事項を記載した申請書又は書類を、当該確認の申請に係る事業所の所在地を管轄する市町村長に提出しなければならない。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第四号に掲げる事項を記載した申請書又は書類（登記事項証明書を除く。）については、市町村長が、インターネットを利用して当該事項を閲覧することができる場合は、この限りでない。</Sentence>
                 </ParagraphSentence>
                 <Item Delete="false" Hide="false" Num="1">
@@ -3201,7 +3201,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第四十四条第一項の規定に基づき特定地域型保育事業者の確認の変更を受けようとする者は、次に掲げる事項を記載した申請書又は書類を、当該変更に係る事業所の所在地を管轄する市町村長に提出しなければならない。</Sentence>
+                  <Sentence WritingMode="vertical">法第四十四条の規定に基づき特定地域型保育事業者の確認の変更を受けようとする者は、次に掲げる事項を記載した申請書又は書類を、当該変更に係る事業所の所在地を管轄する市町村長に提出しなければならない。</Sentence>
                 </ParagraphSentence>
                 <Item Delete="false" Hide="false" Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -3266,12 +3266,12 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="42">
-              <ArticleCaption>（令第二十一条第一項の内閣府令で定める者）</ArticleCaption>
+              <ArticleCaption>（令第二十条第一項の内閣府令で定める者）</ArticleCaption>
               <ArticleTitle>第四十二条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">令第二十一条第一項の内閣府令で定める者は、市町村長等が法第五十六条第一項その他の規定による報告等の権限を適切に行使し、当該確認の取消しの処分の理由となった事実及び当該事実の発生を防止するための当該特定地域型保育事業者による業務管理体制の整備についての取組の状況その他の当該事実に関して当該特定地域型保育事業者が有していた責任の程度を確認した結果、当該確認の取消しの理由となった事実について組織的に関与していると認められない者とする。</Sentence>
+                  <Sentence WritingMode="vertical">令第二十条第一項の内閣府令で定める者は、市町村長等が法第五十六条第一項その他の規定による報告等の権限を適切に行使し、当該確認の取消しの処分の理由となった事実及び当該事実の発生を防止するための当該特定地域型保育事業者による業務管理体制の整備についての取組の状況その他の当該事実に関して当該特定地域型保育事業者が有していた責任の程度を確認した結果、当該確認の取消しの理由となった事実について組織的に関与していると認められない者とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -3281,7 +3281,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">令第二十一条第二項第四号の規定による通知をするときは、法第五十条第一項の規定による検査が行われた日（以下この条において「検査日」という。）から十日以内に、検査日から起算して六十日以内の特定の日を通知するものとする。</Sentence>
+                  <Sentence WritingMode="vertical">令第二十条第二項第四号の規定による通知をするときは、法第五十条第一項の規定による検査が行われた日（以下この条において「検査日」という。）から十日以内に、検査日から起算して六十日以内の特定の日を通知するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4554,6 +4554,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月二日内閣府令第六〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable Num="1">
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第五十条、第五十二条関係）</RelatedArticleNum>
@@ -4825,7 +4834,7 @@
       <RelatedArticleNum>（第六十条第一項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H26F10001000044_2008251108_001.pdf"/>
+          <Fig src="./pict/H26F10001000044_2009291909_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4834,7 +4843,7 @@
       <RelatedArticleNum>（第六十条第二項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H26F10001000044_2008251108_002.pdf"/>
+          <Fig src="./pict/H26F10001000044_2009291909_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4843,7 +4852,7 @@
       <RelatedArticleNum>（第六十条第三項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H26F10001000044_2008251108_003.pdf"/>
+          <Fig src="./pict/H26F10001000044_2009291909_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

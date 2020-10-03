@@ -756,12 +756,29 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-<SupplProvision AmendLawNum="令和元年六月二八日国土交通省令第二〇号">
+    <SupplProvision AmendLawNum="令和元年六月二八日国土交通省令第二〇号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月一〇日国土交通省令第四五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年五月十一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令の施行前に道路運送車両法の規定により登録された自動車登録番号又は指定を受けた車両番号であって、この省令の施行により新たに自動車登録規則第十三条又は道路運送車両法施行規則第三十六条の十七、第三十六条の十八若しくは第六十三条の二第四項に規定する基準に適合しないこととなったものについては、この省令による改正後の自動車登録規則別表第一の規定にかかわらず、なお従前の例によることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -1407,7 +1424,7 @@
       <AppdxStyleTitle WritingMode="vertical">第１号様式（第１条関係）（日本産業規格Ａ列４番）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S39F03901000063-001.pdf"/>
+          <Fig src="./pict/S39F03901000063_2007312007_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1415,7 +1432,7 @@
       <AppdxStyleTitle WritingMode="vertical">第２号様式（第１条関係）（日本産業規格Ａ列４番）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S39F03901000063-002.pdf"/>
+          <Fig src="./pict/S39F03901000063_2007312007_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1423,7 +1440,7 @@
       <AppdxStyleTitle WritingMode="vertical">第３号様式（第２条関係）（日本産業規格Ａ列６番型）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S39F03901000063-003.pdf"/>
+          <Fig src="./pict/S39F03901000063_2007312007_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1431,7 +1448,7 @@
       <AppdxStyleTitle WritingMode="vertical">第４号様式（第４条関係）（日本産業規格Ａ列４番）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S39F03901000063-004.pdf"/>
+          <Fig src="./pict/S39F03901000063_2007312007_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200831e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="100" Year="24">
+<Law DataInfo="190910e80k10m02" Era="Showa" Lang="ja" LawType="Act" Num="100" Year="24">
   <LawNum>昭和二十四年法律第百号</LawNum>
   <LawBody>
     <LawTitle>建設業法</LawTitle>
@@ -19,9 +19,13 @@
           <SectionTitle>第二節　一般建設業の許可</SectionTitle>
           <ArticleRange>（第五条―第十四条）</ArticleRange>
         </TOCSection>
-        <TOCSection Delete="false" Num="3">
+        <TOCSection Num="3">
           <SectionTitle>第三節　特定建設業の許可</SectionTitle>
           <ArticleRange>（第十五条―第十七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　承継</SectionTitle>
+          <ArticleRange>（第十七条の二・第十七条の三）</ArticleRange>
         </TOCSection>
       </TOCChapter>
       <TOCChapter Delete="false" Num="3">
@@ -32,7 +36,7 @@
         </TOCSection>
         <TOCSection Delete="false" Num="2">
           <SectionTitle>第二節　元請負人の義務</SectionTitle>
-          <ArticleRange>（第二十四条の二―第二十四条の七）</ArticleRange>
+          <ArticleRange>（第二十四条の二―第二十四条の八）</ArticleRange>
         </TOCSection>
       </TOCChapter>
       <TOCChapter Delete="false" Num="3_2">
@@ -228,7 +232,7 @@
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">法人である場合においては、その資本金額（出資総額を含む。以下同じ。）及び役員等（業務を執行する社員、取締役、執行役若しくはこれらに準ずる者又は相談役、顧問その他いかなる名称を有する者であるかを問わず、法人に対し業務を執行する社員、取締役、執行役若しくはこれらに準ずる者と同等以上の支配力を有するものと認められる者をいう。以下同じ。）の氏名</Sentence>
+                  <Sentence WritingMode="vertical">法人である場合においては、その資本金額（出資総額を含む。第二十四条の六第一項において同じ。）及び役員等（業務を執行する社員、取締役、執行役若しくはこれらに準ずる者又は相談役、顧問その他いかなる名称を有する者であるかを問わず、法人に対し業務を執行する社員、取締役、執行役若しくはこれらに準ずる者と同等以上の支配力を有するものと認められる者をいう。以下同じ。）の氏名</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="4">
@@ -240,7 +244,7 @@
               <Item Delete="false" Hide="false" Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">第七条第一号イ又はロに該当する者（法人である場合においては同号に規定する役員のうち常勤であるものの一人に限り、個人である場合においてはその者又はその支配人のうち一人に限る。）及びその営業所ごとに置かれる同条第二号イ、ロ又はハに該当する者の氏名</Sentence>
+                  <Sentence WritingMode="vertical">その営業所ごとに置かれる第七条第二号イ、ロ又はハに該当する者の氏名</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="6">
@@ -320,20 +324,8 @@
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">法人である場合においてはその役員（業務を執行する社員、取締役、執行役又はこれらに準ずる者をいう。以下同じ。）のうち常勤であるものの一人が、個人である場合においてはその者又はその支配人のうち一人が次のいずれかに該当する者であること。</Sentence>
+                  <Sentence WritingMode="vertical">建設業に係る経営業務の管理を適正に行うに足りる能力を有するものとして国土交通省令で定める基準に適合する者であること。</Sentence>
                 </ItemSentence>
-                <Subitem1 Delete="false" Hide="false" Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">許可を受けようとする建設業に関し五年以上経営業務の管理責任者としての経験を有する者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">国土交通大臣がイに掲げる者と同等以上の能力を有するものと認定した者</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
               </Item>
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
@@ -343,7 +335,7 @@
                 <Subitem1 Delete="false" Hide="false" Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">許可を受けようとする建設業に係る建設工事に関し学校教育法（昭和二十二年法律第二十六号）による高等学校（旧中等学校令（昭和十八年勅令第三十六号）による実業学校を含む。以下同じ。）若しくは中等教育学校を卒業した後五年以上又は同法による大学（旧大学令（大正七年勅令第三百八十八号）による大学を含む。以下同じ。）若しくは高等専門学校（旧専門学校令（明治三十六年勅令第六十一号）による専門学校を含む。以下同じ。）を卒業した（同法による専門職大学の前期課程を修了した場合を含む。）後三年以上実務の経験を有する者で在学中に国土交通省令で定める学科を修めたもの</Sentence>
+                    <Sentence WritingMode="vertical">許可を受けようとする建設業に係る建設工事に関し学校教育法（昭和二十二年法律第二十六号）による高等学校（旧中等学校令（昭和十八年勅令第三十六号）による実業学校を含む。第二十六条の七第一項第二号ロにおいて同じ。）若しくは中等教育学校を卒業した後五年以上又は同法による大学（旧大学令（大正七年勅令第三百八十八号）による大学を含む。同号ロにおいて同じ。）若しくは高等専門学校（旧専門学校令（明治三十六年勅令第六十一号）による専門学校を含む。同号ロにおいて同じ。）を卒業した（同法による専門職大学の前期課程を修了した場合を含む。）後三年以上実務の経験を有する者で在学中に国土交通省令で定める学科を修めたもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Delete="false" Hide="false" Num="2">
@@ -389,13 +381,13 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">第二十九条第一項第五号又は第六号に該当することにより一般建設業の許可又は特定建設業の許可を取り消され、その取消しの日から五年を経過しない者</Sentence>
+                  <Sentence WritingMode="vertical">第二十九条第一項第七号又は第八号に該当することにより一般建設業の許可又は特定建設業の許可を取り消され、その取消しの日から五年を経過しない者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">第二十九条第一項第五号又は第六号に該当するとして一般建設業の許可又は特定建設業の許可の取消しの処分に係る行政手続法（平成五年法律第八十八号）第十五条の規定による通知があつた日から当該処分があつた日又は処分をしないことの決定があつた日までの間に第十二条第五号に該当する旨の同条の規定による届出をした者で当該届出の日から五年を経過しないもの</Sentence>
+                  <Sentence WritingMode="vertical">第二十九条第一項第七号又は第八号に該当するとして一般建設業の許可又は特定建設業の許可の取消しの処分に係る行政手続法（平成五年法律第八十八号）第十五条の規定による通知があつた日から当該処分があつた日又は処分をしないことの決定があつた日までの間に第十二条第五号に該当する旨の同条の規定による届出をした者で当該届出の日から五年を経過しないもの</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="4">
@@ -472,7 +464,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">許可に係る建設業者が許可を受けた後次の各号の一に該当して引き続き許可を受けた建設業を営もうとする場合において、第三条第一項の規定により国土交通大臣又は都道府県知事の許可を受けたときは、その者に係る従前の国土交通大臣又は都道府県知事の許可は、その効力を失う。</Sentence>
+                <Sentence WritingMode="vertical">許可に係る建設業者が許可を受けた後次の各号のいずれかに該当して引き続き許可を受けた建設業を営もうとする場合（第十七条の二第一項から第三項まで又は第十七条の三第四項の規定により他の建設業者の地位を承継したことにより第三号に該当して引き続き許可を受けた建設業を営もうとする場合を除く。）において、第三条第一項の規定により国土交通大臣又は都道府県知事の許可を受けたときは、その者に係る従前の国土交通大臣又は都道府県知事の許可は、その効力を失う。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -546,7 +538,7 @@
             <Paragraph Hide="false" Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">許可に係る建設業者は、第七条第一号イ又はロに該当する者として証明された者が、法人である場合においてはその役員、個人である場合においてはその支配人でなくなつた場合若しくは同号ロに該当しなくなつた場合又は営業所に置く同条第二号イ、ロ若しくはハに該当する者として証明された者が当該営業所に置かれなくなつた場合若しくは同号ハに該当しなくなつた場合において、これに代わるべき者があるときは、国土交通省令の定めるところにより、二週間以内に、その者について、第六条第一項第五号に掲げる書面を国土交通大臣又は都道府県知事に提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">許可に係る建設業者は、営業所に置く第七条第二号イ、ロ又はハに該当する者として証明された者が当該営業所に置かれなくなつた場合又は同号ハに該当しなくなつた場合において、これに代わるべき者があるときは、国土交通省令の定めるところにより、二週間以内に、その者について、第六条第一項第五号に掲げる書面を国土交通大臣又は都道府県知事に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="5">
@@ -567,13 +559,13 @@
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">許可に係る建設業者が死亡したときは、その相続人</Sentence>
+                  <Sentence WritingMode="vertical">許可に係る建設業者が死亡したとき（第十七条の三第一項に規定する相続人が同項の認可の申請をしなかつたときに限る。）は、その相続人</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">法人が合併により消滅したときは、その役員であつた者</Sentence>
+                  <Sentence WritingMode="vertical">法人が合併により消滅したとき（当該消滅までに、合併後存続し、又は合併により設立される法人について第十七条の二第二項の認可がされなかつたときに限る。）は、その役員（業務を執行する社員、取締役、執行役又はこれらに準ずる者をいう。以下同じ。）であつた者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -591,7 +583,7 @@
               <Item Delete="false" Hide="false" Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">許可を受けた建設業を廃止したときは、当該許可に係る建設業者であつた個人又は当該許可に係る建設業者であつた法人の役員</Sentence>
+                  <Sentence WritingMode="vertical">許可を受けた建設業を廃止したとき（第十七条の二第一項又は第三項の認可を受けたときを除く。）は、当該許可に係る建設業者であつた個人又は当該許可に係る建設業者であつた法人の役員</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -731,7 +723,309 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第五条、第六条及び第八条から第十四条までの規定は、特定建設業の許可及び特定建設業の許可を受けた者（以下「特定建設業者」という。）について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、第五条第五号中「同条第二号イ、ロ又はハ」とあるのは「第十五条第二号イ、ロ又はハ」と、第六条第一項第五号中「次条第一号及び第二号」とあるのは「第七条第一号及び第十五条第二号」と、第十一条第四項中「同条第二号イ、ロ若しくはハ」とあるのは「第十五条第二号イ、ロ若しくはハ」と、「同号ハ」とあるのは「同号イ、ロ又はハ」と、同条第五項中「第七条第一号若しくは第二号」とあるのは「第七条第一号若しくは第十五条第二号」と読み替えるものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第五条第五号中「第七条第二号イ、ロ又はハ」とあるのは「第十五条第二号イ、ロ又はハ」と、第六条第一項第五号中「次条第一号及び第二号」とあるのは「第七条第一号及び第十五条第二号」と、第十一条第四項中「第七条第二号イ、ロ又はハ」とあるのは「第十五条第二号イ、ロ又はハ」と、「同号ハ」とあるのは「同号イ、ロ若しくはハ」と、同条第五項中「第七条第一号若しくは第二号」とあるのは「第七条第一号若しくは第十五条第二号」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　承継</SectionTitle>
+          <Article Num="17_2">
+            <ArticleCaption>（譲渡及び譲受け並びに合併及び分割）</ArticleCaption>
+            <ArticleTitle>第十七条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>建設業者が許可に係る建設業の全部（以下単に「建設業の全部」という。）の譲渡を行う場合（当該建設業者（以下この条において「譲渡人」という。）が一般建設業の許可を受けている場合にあつては譲受人（建設業の全部を譲り受ける者をいう。以下この条において同じ。）が当該一般建設業の許可に係る建設業と同一の種類の建設業に係る特定建設業の許可を、譲渡人が特定建設業の許可を受けている場合にあつては譲受人が当該特定建設業の許可に係る建設業と同一の種類の建設業に係る一般建設業の許可を受けている場合を除く。）において、譲渡人及び譲受人が、あらかじめ当該譲渡及び譲受けについて、国土交通省令で定めるところにより次の各号に掲げる場合の区分に応じ当該各号に定める者の認可を受けたときは、譲受人は、当該譲渡及び譲受けの日に、譲渡人のこの法律の規定による建設業者としての地位を承継する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>譲渡人が国土交通大臣の許可を受けているとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>国土交通大臣</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>譲渡人が都道府県知事の許可を受けているとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Function="main" Num="1">当該都道府県知事。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、次のいずれかに該当するときは、国土交通大臣とする。</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>譲受人が国土交通大臣の許可を受けているとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>譲受人が当該都道府県知事以外の都道府県知事の許可を受けているとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>建設業者である法人が合併により消滅することとなる場合（当該建設業者である法人（以下この条において「合併消滅法人」という。）（合併消滅法人が二以上あるときは、そのいずれか）が一般建設業の許可を受けている場合にあつては当該一般建設業の許可を受けている合併消滅法人以外の合併消滅法人又は合併存続法人（合併後存続する法人をいう。以下この条において同じ。）が当該一般建設業の許可に係る建設業と同一の種類の建設業に係る特定建設業の許可を、合併消滅法人（合併消滅法人が二以上あるときは、そのいずれか）が特定建設業の許可を受けている場合にあつては合併存続法人が当該特定建設業の許可に係る建設業と同一の種類の建設業に係る一般建設業の許可を受けている場合を除く。）において、合併消滅法人等（合併消滅法人、合併により消滅することとなる法人であつて合併消滅法人でないもの及び合併存続法人をいう。）が、あらかじめ当該合併について、国土交通省令で定めるところにより次の各号に掲げる場合の区分に応じ当該各号に定める者の認可を受けたときは、合併存続法人又は合併により設立される法人は、当該合併の日に、合併消滅法人のこの法律の規定による建設業者としての地位を承継する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>合併消滅法人（合併消滅法人が二以上あるときは、そのいずれか）が国土交通大臣の許可を受けているとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>国土交通大臣</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>合併消滅法人が二以上ある場合において、当該合併消滅法人の全てが都道府県知事の許可を受けており、かつ、当該許可をした都道府県知事が同一でないとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>国土交通大臣</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>合併消滅法人が二以上ある場合において当該合併消滅法人の全てが同一の都道府県知事の許可を受けているとき、又は合併消滅法人が一である場合において当該合併消滅法人が都道府県知事の許可を受けているとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Function="main" Num="1">当該都道府県知事。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、次のいずれかに該当するときは、国土交通大臣とする。</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>合併存続法人が国土交通大臣の許可を受けているとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>合併存続法人が当該都道府県知事以外の都道府県知事の許可を受けているとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>建設業者である法人が分割により建設業の全部を承継させる場合（当該建設業者である法人（以下この条において「分割被承継法人」という。）（分割被承継法人が二以上あるときは、そのいずれか）が一般建設業の許可を受けている場合にあつては当該一般建設業の許可を受けている分割被承継法人以外の分割被承継法人又は分割承継法人（分割により建設業の全部を承継する法人をいう。以下この条において同じ。）が当該一般建設業の許可に係る建設業と同一の種類の建設業に係る特定建設業の許可を、分割被承継法人（分割被承継法人が二以上あるときは、そのいずれか）が特定建設業の許可を受けている場合にあつては分割承継法人が当該特定建設業の許可に係る建設業と同一の種類の建設業に係る一般建設業の許可を受けている場合を除く。）において、分割被承継法人等（分割被承継法人、分割によりその事業に関して有する権利義務の全部又は一部を承継させる法人であつて分割被承継法人でないもの及び分割承継法人をいう。）が、あらかじめ当該分割について、国土交通省令で定めるところにより次の各号に掲げる場合の区分に応じ当該各号に定める者の認可を受けたときは、分割承継法人は、当該分割の日に、分割被承継法人のこの法律の規定による建設業者としての地位を承継する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>分割被承継法人（分割被承継法人が二以上あるときは、そのいずれか）が国土交通大臣の許可を受けているとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>国土交通大臣</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>分割被承継法人が二以上ある場合において、当該分割被承継法人の全てが都道府県知事の許可を受けており、かつ、当該許可をした都道府県知事が同一でないとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>国土交通大臣</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>分割被承継法人が二以上ある場合において当該分割被承継法人の全てが同一の都道府県知事の許可を受けているとき、又は分割被承継法人が一である場合において当該分割被承継法人が都道府県知事の許可を受けているとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Function="main" Num="1">当該都道府県知事。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、次のいずれかに該当するときは、国土交通大臣とする。</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>分割承継法人が国土交通大臣の許可を受けているとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>分割承継法人が当該都道府県知事以外の都道府県知事の許可を受けているとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">第七条及び第八条の規定は一般建設業の許可を受けている譲渡人、合併消滅法人又は分割被承継法人（以下この条において「譲渡人等」という。）に係る前三項の認可について、第八条及び第十五条の規定は特定建設業の許可を受けている譲渡人等に係る前三項の認可について、それぞれ準用する。</Sentence>
+                <Sentence Num="2">この場合において、第七条及び第八条中「許可を受けようとする者」とあり、並びに第十五条中「特定建設業の許可を受けようとする者」とあるのは、「第十七条の二第一項に規定する譲受人、同条第二項に規定する合併存続法人若しくは合併により設立される法人又は同条第三項に規定する分割承継法人」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">国土交通大臣又は都道府県知事は、第一項から第三項までの認可をするに際しては、当該認可をしようとする承継に係る建設業の許可又は譲受人、合併存続法人若しくは分割承継法人が受けている建設業の許可について第三条の二第一項の規定により付された条件（この項（次条第三項において準用する場合を含む。）の規定により変更され、又は新たに付された条件を含む。第二十九条第二項において同じ。）を取り消し、変更し、又は新たに条件を付することができる。</Sentence>
+                <Sentence Num="2">この場合においては、第三条の二第二項の規定を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項から第三項までの規定により譲渡人等の建設業者としての地位を承継した譲受人等（建設業の全部を譲り受けた者、合併存続法人若しくは合併により設立された法人又は分割により建設業の全部を承継した法人をいう。以下この条において同じ。）が次の各号に掲げる場合のいずれかに該当するときは、当該承継の日に、譲受人等は、当該各号に定める建設業について国土交通大臣の許可を受けたものとみなし、譲受人等に係る都道府県知事の許可は、その効力を失う。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>国土交通大臣の許可を受けている譲受人等が都道府県知事の許可を受けている譲渡人等の地位を承継したとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>当該都道府県知事の許可に係る建設業（当該国土交通大臣の許可に係る建設業と同一の種類のものを除く。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>都道府県知事の許可を受けている譲受人等が国土交通大臣の許可を受けている譲渡人等の地位を承継したとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>当該都道府県知事の許可に係る建設業（当該国土交通大臣の許可に係る建設業と同一の種類のものを除く。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>都道府県知事の許可を受けている譲受人等が他の都道府県知事の許可を受けている譲渡人等の地位を承継したとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>当該都道府県知事の許可に係る建設業及び当該他の都道府県知事の許可に係る建設業</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>建設業の許可を受けていない譲受人等が、同時に、国土交通大臣の許可を受けている譲渡人等の地位及び都道府県知事の許可を受けている譲渡人等の地位を承継したとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>当該都道府県知事の許可に係る建設業（当該国土交通大臣の許可に係る建設業と同一の種類のものを除く。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>建設業の許可を受けていない譲受人等が、同時に、都道府県知事の許可を受けている二以上の譲渡人等の地位を承継したとき（当該許可をした都道府県知事が同一であるときを除く。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>当該都道府県知事の許可に係る建設業</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項から第三項までの規定により譲受人等が譲渡人等の建設業者としての地位を承継した場合における承継許可等（当該承継に係る建設業の許可及び当該譲受人等が受けている建設業の許可（当該承継前に自ら受けたものに限る。）をいう。以下この項において同じ。）に係る許可の有効期間については、当該承継の日における承継許可等に係る許可の有効期間の残存期間にかかわらず、当該承継の日の翌日から起算するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17_3">
+            <ArticleCaption>（相続）</ArticleCaption>
+            <ArticleTitle>第十七条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>建設業者が死亡した場合において、当該建設業者（以下この条において「被相続人」という。）の相続人（相続人が二人以上ある場合において、その全員の同意により被相続人の営んでいた建設業の全部を承継すべき相続人を選定したときは、その者。以下この条において単に「相続人」という。）が被相続人の営んでいた建設業の全部を引き続き営もうとするとき（被相続人が一般建設業の許可を受けていた場合にあつては相続人が当該一般建設業の許可に係る建設業と同一の種類の建設業に係る特定建設業の許可を、被相続人が特定建設業の許可を受けていた場合にあつては相続人が当該特定建設業の許可に係る建設業と同一の種類の建設業に係る一般建設業の許可を受けている場合を除く。）は、その相続人は、国土交通省令で定めるところにより、被相続人の死亡後三十日以内に次の各号に掲げる場合の区分に応じ当該各号に定める者に申請して、その認可を受けなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>被相続人が国土交通大臣の許可を受けていたとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>国土交通大臣</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence>被相続人が都道府県知事の許可を受けていたとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Function="main" Num="1">当該都道府県知事。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、次のいずれかに該当するときは、国土交通大臣とする。</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>相続人が国土交通大臣の許可を受けているとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>相続人が当該都道府県知事以外の都道府県知事の許可を受けているとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>相続人が前項の認可の申請をしたときは、被相続人の死亡の日からその認可を受ける日又はその認可をしない旨の通知を受ける日までは、被相続人に対してした建設業の許可は、その相続人に対してしたものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第七条及び第八条の規定又は同条及び第十五条の規定は一般建設業の許可を受けていた被相続人又は特定建設業の許可を受けていた被相続人に係る第一項の認可について、前条第五項の規定は第一項の認可をしようとする承継に係る建設業の許可又は相続人が受けている建設業の許可について、それぞれ準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>第一項の認可を受けた相続人は、被相続人のこの法律の規定による建設業者としての地位を承継する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前条第六項及び第七項の規定は、前項の規定により被相続人の建設業者としての地位を承継した相続人について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -777,70 +1071,82 @@
                   <Sentence WritingMode="vertical">工事着手の時期及び工事完成の時期</Sentence>
                 </ItemSentence>
               </Item>
-              <Item Delete="false" Hide="false" Num="4">
+              <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">請負代金の全部又は一部の前金払又は出来形部分に対する支払の定めをするときは、その支払の時期及び方法</Sentence>
+                  <Sentence>工事を施工しない日又は時間帯の定めをするときは、その内容</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">当事者の一方から設計変更又は工事着手の延期若しくは工事の全部若しくは一部の中止の申出があつた場合における工期の変更、請負代金の額の変更又は損害の負担及びそれらの額の算定方法に関する定め</Sentence>
+                  <Sentence WritingMode="vertical">請負代金の全部又は一部の前金払又は出来形部分に対する支払の定めをするときは、その支払の時期及び方法</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">天災その他不可抗力による工期の変更又は損害の負担及びその額の算定方法に関する定め</Sentence>
+                  <Sentence WritingMode="vertical">当事者の一方から設計変更又は工事着手の延期若しくは工事の全部若しくは一部の中止の申出があつた場合における工期の変更、請負代金の額の変更又は損害の負担及びそれらの額の算定方法に関する定め</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">価格等（物価統制令（昭和二十一年勅令第百十八号）第二条に規定する価格等をいう。）の変動若しくは変更に基づく請負代金の額又は工事内容の変更</Sentence>
+                  <Sentence WritingMode="vertical">天災その他不可抗力による工期の変更又は損害の負担及びその額の算定方法に関する定め</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">工事の施工により第三者が損害を受けた場合における賠償金の負担に関する定め</Sentence>
+                  <Sentence WritingMode="vertical">価格等（物価統制令（昭和二十一年勅令第百十八号）第二条に規定する価格等をいう。）の変動若しくは変更に基づく請負代金の額又は工事内容の変更</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="9">
                 <ItemTitle>九</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">注文者が工事に使用する資材を提供し、又は建設機械その他の機械を貸与するときは、その内容及び方法に関する定め</Sentence>
+                  <Sentence WritingMode="vertical">工事の施工により第三者が損害を受けた場合における賠償金の負担に関する定め</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="10">
                 <ItemTitle>十</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">注文者が工事の全部又は一部の完成を確認するための検査の時期及び方法並びに引渡しの時期</Sentence>
+                  <Sentence WritingMode="vertical">注文者が工事に使用する資材を提供し、又は建設機械その他の機械を貸与するときは、その内容及び方法に関する定め</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="11">
                 <ItemTitle>十一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">工事完成後における請負代金の支払の時期及び方法</Sentence>
+                  <Sentence WritingMode="vertical">注文者が工事の全部又は一部の完成を確認するための検査の時期及び方法並びに引渡しの時期</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="12">
                 <ItemTitle>十二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">工事の目的物が種類又は品質に関して契約の内容に適合しない場合におけるその不適合を担保すべき責任又は当該責任の履行に関して講ずべき保証保険契約の締結その他の措置に関する定めをするときは、その内容</Sentence>
+                  <Sentence WritingMode="vertical">工事完成後における請負代金の支払の時期及び方法</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="13">
                 <ItemTitle>十三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">各当事者の履行の遅滞その他債務の不履行の場合における遅延利息、違約金その他の損害金</Sentence>
+                  <Sentence WritingMode="vertical">工事の目的物が種類又は品質に関して契約の内容に適合しない場合におけるその不適合を担保すべき責任又は当該責任の履行に関して講ずべき保証保険契約の締結その他の措置に関する定めをするときは、その内容</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="14">
                 <ItemTitle>十四</ItemTitle>
                 <ItemSentence>
+                  <Sentence WritingMode="vertical">各当事者の履行の遅滞その他債務の不履行の場合における遅延利息、違約金その他の損害金</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="15">
+                <ItemTitle>十五</ItemTitle>
+                <ItemSentence>
                   <Sentence WritingMode="vertical">契約に関する紛争の解決方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="16">
+                <ItemTitle>十六</ItemTitle>
+                <ItemSentence>
+                  <Sentence>その他国土交通省令で定める事項</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -908,13 +1214,41 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Delete="false" Hide="false" Num="19_5">
-            <ArticleCaption>（発注者に対する勧告）</ArticleCaption>
+          <Article Num="19_5">
+            <ArticleCaption>（著しく短い工期の禁止）</ArticleCaption>
             <ArticleTitle>第十九条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>注文者は、その注文した建設工事を施工するために通常必要と認められる期間に比して著しく短い期間を工期とする請負契約を締結してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19_6">
+            <ArticleCaption>（発注者に対する勧告等）</ArticleCaption>
+            <ArticleTitle>第十九条の六</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">建設業者と請負契約を締結した発注者（私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）第二条第一項に規定する事業者に該当するものを除く。）が前二条の規定に違反した場合において、特に必要があると認めるときは、当該建設業者の許可をした国土交通大臣又は都道府県知事は、当該発注者に対して必要な勧告をすることができる。</Sentence>
+                <Sentence WritingMode="vertical">建設業者と請負契約を締結した発注者（私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）第二条第一項に規定する事業者に該当するものを除く。）が第十九条の三又は第十九条の四の規定に違反した場合において、特に必要があると認めるときは、当該建設業者の許可をした国土交通大臣又は都道府県知事は、当該発注者に対して必要な勧告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>建設業者と請負契約（請負代金の額が政令で定める金額以上であるものに限る。）を締結した発注者が前条の規定に違反した場合において、特に必要があると認めるときは、当該建設業者の許可をした国土交通大臣又は都道府県知事は、当該発注者に対して必要な勧告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>国土交通大臣又は都道府県知事は、前項の勧告を受けた発注者がその勧告に従わないときは、その旨を公表することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>国土交通大臣又は都道府県知事は、第一項又は第二項の勧告を行うため必要があると認めるときは、当該発注者に対して、報告又は資料の提出を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -924,7 +1258,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">建設業者は、建設工事の請負契約を締結するに際して、工事内容に応じ、工事の種別ごとに材料費、労務費その他の経費の内訳を明らかにして、建設工事の見積りを行うよう努めなければならない。</Sentence>
+                <Sentence WritingMode="vertical">建設業者は、建設工事の請負契約を締結するに際して、工事内容に応じ、工事の種別ごとの材料費、労務費その他の経費の内訳並びに工事の工程ごとの作業及びその準備に必要な日数を明らかにして、建設工事の見積りを行うよう努めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -936,7 +1270,17 @@
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">建設工事の注文者は、請負契約の方法が随意契約による場合にあつては契約を締結する以前に、入札の方法により競争に付する場合にあつては入札を行う以前に、第十九条第一項第一号及び第三号から第十四号までに掲げる事項について、できる限り具体的な内容を提示し、かつ、当該提示から当該契約の締結又は入札までに、建設業者が当該建設工事の見積りをするために必要な政令で定める一定の期間を設けなければならない。</Sentence>
+                <Sentence WritingMode="vertical">建設工事の注文者は、請負契約の方法が随意契約による場合にあつては契約を締結するまでに、入札の方法により競争に付する場合にあつては入札を行うまでに、第十九条第一項第一号及び第三号から第十六号までに掲げる事項について、できる限り具体的な内容を提示し、かつ、当該提示から当該契約の締結又は入札までに、建設業者が当該建設工事の見積りをするために必要な政令で定める一定の期間を設けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20_2">
+            <ArticleCaption>（工期等に影響を及ぼす事象に関する情報の提供）</ArticleCaption>
+            <ArticleTitle>第二十条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>建設工事の注文者は、当該建設工事について、地盤の沈下その他の工期又は請負代金の額に影響を及ぼすものとして国土交通省令で定める事象が発生するおそれがあると認めるときは、請負契約を締結するまでに、建設業者に対して、その旨及び当該事象の状況の把握のため必要な情報を提供しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1064,8 +1408,14 @@
                 <Sentence WritingMode="vertical">元請負人は、請負代金の出来形部分に対する支払又は工事完成後における支払を受けたときは、当該支払の対象となつた建設工事を施工した下請負人に対して、当該元請負人が支払を受けた金額の出来形に対する割合及び当該下請負人が施工した出来形部分に相応する下請代金を、当該支払を受けた日から一月以内で、かつ、できる限り短い期間内に支払わなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
+            <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>前項の場合において、元請負人は、同項に規定する下請代金のうち労務費に相当する部分については、現金で支払うよう適切な配慮をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">元請負人は、前払金の支払を受けたときは、下請負人に対して、資材の購入、労働者の募集その他建設工事の着手に必要な費用を前払金として支払うよう適切な配慮をしなければならない。</Sentence>
               </ParagraphSentence>
@@ -1088,19 +1438,29 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Delete="false" Hide="false" Num="24_5">
-            <ArticleCaption>（特定建設業者の下請代金の支払期日等）</ArticleCaption>
+          <Article Num="24_5">
+            <ArticleCaption>（不利益取扱いの禁止）</ArticleCaption>
             <ArticleTitle>第二十四条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>元請負人は、当該元請負人について第十九条の三、第十九条の四、第二十四条の三第一項、前条又は次条第三項若しくは第四項の規定に違反する行為があるとして下請負人が国土交通大臣等（当該元請負人が許可を受けた国土交通大臣又は都道府県知事をいう。）、公正取引委員会又は中小企業庁長官にその事実を通報したことを理由として、当該下請負人に対して、取引の停止その他の不利益な取扱いをしてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="24_6">
+            <ArticleCaption>（特定建設業者の下請代金の支払期日等）</ArticleCaption>
+            <ArticleTitle>第二十四条の六</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">特定建設業者が注文者となつた下請契約（下請契約における請負人が特定建設業者又は資本金額が政令で定める金額以上の法人であるものを除く。以下この条において同じ。）における下請代金の支払期日は、前条第二項の申出の日（同項ただし書の場合にあつては、その一定の日。以下この条において同じ。）から起算して五十日を経過する日以前において、かつ、できる限り短い期間内において定められなければならない。</Sentence>
+                <Sentence WritingMode="vertical">特定建設業者が注文者となつた下請契約（下請契約における請負人が特定建設業者又は資本金額が政令で定める金額以上の法人であるものを除く。以下この条において同じ。）における下請代金の支払期日は、第二十四条の四第二項の申出の日（同項ただし書の場合にあつては、その一定の日。以下この条において同じ。）から起算して五十日を経過する日以前において、かつ、できる限り短い期間内において定められなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">特定建設業者が注文者となつた下請契約において、下請代金の支払期日が定められなかつたときは前条第二項の申出の日が、前項の規定に違反して下請代金の支払期日が定められたときは同条第二項の申出の日から起算して五十日を経過する日が下請代金の支払期日と定められたものとみなす。</Sentence>
+                <Sentence WritingMode="vertical">特定建設業者が注文者となつた下請契約において、下請代金の支払期日が定められなかつたときは第二十四条の四第二項の申出の日が、前項の規定に違反して下請代金の支払期日が定められたときは同条第二項の申出の日から起算して五十日を経過する日が下請代金の支払期日と定められたものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="3">
@@ -1113,13 +1473,13 @@
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">特定建設業者は、当該特定建設業者が注文者となつた下請契約に係る下請代金を第一項の規定により定められた支払期日又は第二項の支払期日までに支払わなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">当該特定建設業者がその支払をしなかつたときは、当該特定建設業者は、下請負人に対して、前条第二項の申出の日から起算して五十日を経過した日から当該下請代金の支払をする日までの期間について、その日数に応じ、当該未払金額に国土交通省令で定める率を乗じて得た金額を遅延利息として支払わなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">当該特定建設業者がその支払をしなかつたときは、当該特定建設業者は、下請負人に対して、第二十四条の四第二項の申出の日から起算して五十日を経過した日から当該下請代金の支払をする日までの期間について、その日数に応じ、当該未払金額に国土交通省令で定める率を乗じて得た金額を遅延利息として支払わなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Delete="false" Hide="false" Num="24_6">
+          <Article Delete="false" Hide="false" Num="24_7">
             <ArticleCaption>（下請負人に対する特定建設業者の指導等）</ArticleCaption>
-            <ArticleTitle>第二十四条の六</ArticleTitle>
+            <ArticleTitle>第二十四条の七</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1139,9 +1499,9 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Delete="false" Hide="false" Num="24_7">
+          <Article Delete="false" Hide="false" Num="24_8">
             <ArticleCaption>（施工体制台帳及び施工体系図の作成等）</ArticleCaption>
-            <ArticleTitle>第二十四条の七</ArticleTitle>
+            <ArticleTitle>第二十四条の八</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1267,14 +1627,13 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">破産者で復権を得ない者</Sentence>
+                <Sentence WritingMode="vertical">破産手続開始の決定を受けて復権を得ない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">禁<Ruby>錮<Rt>こ</Rt>
-</Ruby>以上の刑に処せられ、その執行を終わり、又はその執行を受けることがなくなつた日から五年を経過しない者</Sentence>
+                <Sentence WritingMode="vertical">禁錮以上の刑に処せられ、その執行を終わり、又はその執行を受けることがなくなつた日から五年を経過しない者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1745,13 +2104,13 @@
       </Chapter>
       <Chapter Delete="false" Hide="false" Num="4">
         <ChapterTitle>第四章　施工技術の確保</ChapterTitle>
-        <Article Num="25_27">
+        <Article Delete="false" Hide="false" Num="25_27">
           <ArticleCaption>（施工技術の確保に関する建設業者等の責務）</ArticleCaption>
           <ArticleTitle>第二十五条の二十七</ArticleTitle>
-          <Paragraph Num="1">
+          <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>建設業者は、建設工事の担い手の育成及び確保その他の施工技術の確保に努めなければならない。</Sentence>
+              <Sentence WritingMode="vertical">建設業者は、建設工事の担い手の育成及び確保その他の施工技術の確保に努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1760,10 +2119,10 @@
               <Sentence>建設工事に従事する者は、建設工事を適正に実施するために必要な知識及び技術又は技能の向上に努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="3">
+          <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>国土交通大臣は、前二項の施工技術の確保並びに知識及び技術又は技能の向上に資するため、必要に応じ、講習及び調査の実施、資料の提供その他の措置を講ずるものとする。</Sentence>
+              <Sentence WritingMode="vertical">国土交通大臣は、前二項の施工技術の確保並びに知識及び技術又は技能の向上に資するため、必要に応じ、講習及び調査の実施、資料の提供その他の措置を講ずるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1785,17 +2144,24 @@
           <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">公共性のある施設若しくは工作物又は多数の者が利用する施設若しくは工作物に関する重要な建設工事で政令で定めるものについては、前二項の規定により置かなければならない主任技術者又は監理技術者は、工事現場ごとに、専任の者でなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">公共性のある施設若しくは工作物又は多数の者が利用する施設若しくは工作物に関する重要な建設工事で政令で定めるものについては、前二項の規定により置かなければならない主任技術者又は監理技術者は、工事現場ごとに、専任の者でなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、監理技術者にあつては、発注者から直接当該建設工事を請け負つた特定建設業者が、当該監理技術者の行うべき第二十六条の四第一項に規定する職務を補佐する者として、当該建設工事に関し第十五条第二号イ、ロ又はハに該当する者に準ずる者として政令で定める者を当該工事現場に専任で置くときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="4">
+          <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項の規定により専任の者でなければならない監理技術者は、第二十七条の十八第一項の規定による監理技術者資格者証の交付を受けている者であつて、第二十六条の四から第二十六条の六までの規定により国土交通大臣の登録を受けた講習を受講したもののうちから、これを選任しなければならない。</Sentence>
+              <Sentence>前項ただし書の規定は、同項ただし書の工事現場の数が、同一の特例監理技術者（同項ただし書の規定の適用を受ける監理技術者をいう。次項において同じ。）がその行うべき各工事現場に係る第二十六条の四第一項に規定する職務を行つたとしてもその適切な実施に支障を生ずるおそれがないものとして政令で定める数を超えるときは、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="5">
             <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第三項の規定により専任の者でなければならない監理技術者（特例監理技術者を含む。）は、第二十七条の十八第一項の規定による監理技術者資格者証の交付を受けている者であつて、第二十六条の五から第二十六条の七までの規定により国土交通大臣の登録を受けた講習を受講したもののうちから、これを選任しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">前項の規定により選任された監理技術者は、発注者から請求があつたときは、監理技術者資格者証を提示しなければならない。</Sentence>
             </ParagraphSentence>
@@ -1816,9 +2182,75 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_3">
-          <ArticleCaption>（主任技術者及び監理技術者の職務等）</ArticleCaption>
+        <Article Num="26_3">
           <ArticleTitle>第二十六条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">特定専門工事の元請負人及び下請負人（建設業者である下請負人に限る。以下この条において同じ。）は、その合意により、当該元請負人が当該特定専門工事につき第二十六条第一項の規定により置かなければならない主任技術者が、その行うべき次条第一項に規定する職務と併せて、当該下請負人がその下請負に係る建設工事につき第二十六条第一項の規定により置かなければならないこととされる主任技術者の行うべき次条第一項に規定する職務を行うこととすることができる。</Sentence>
+              <Sentence Num="2">この場合において、当該下請負人は、第二十六条第一項の規定にかかわらず、その下請負に係る建設工事につき主任技術者を置くことを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">前項の「特定専門工事」とは、土木一式工事又は建築一式工事以外の建設工事のうち、その施工技術が画一的であり、かつ、その施工の技術上の管理の効率化を図る必要があるものとして政令で定めるものであつて、当該建設工事の元請負人がこれを施工するために締結した下請契約の請負代金の額（当該下請契約が二以上あるときは、それらの請負代金の額の総額。以下この項において同じ。）が政令で定める金額未満となるものをいう。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、元請負人が発注者から直接請け負つた建設工事であつて、当該元請負人がこれを施工するために締結した下請契約の請負代金の額が第二十六条第二項に規定する金額以上となるものを除く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の合意は、書面により、当該特定専門工事（前項に規定する特定専門工事をいう。第六項において同じ。）の内容、当該元請負人が置く主任技術者の氏名その他の国土交通省令で定める事項を明らかにしてするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の元請負人は、同項の合意をしようとするときは、あらかじめ、注文者の書面による承諾を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">注文者は、前項の規定による書面による承諾に代えて、政令で定めるところにより、同項の元請負人の承諾を得て、電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であつて国土交通省令で定めるものにより、同項の承諾をする旨の通知をすることができる。</Sentence>
+              <Sentence Num="2">この場合において、当該注文者は、当該書面による承諾をしたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の元請負人が置く主任技術者は、次に掲げる要件のいずれにも該当する者でなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該特定専門工事と同一の種類の建設工事に関し一年以上指導監督的な実務の経験を有すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該特定専門工事の工事現場に専任で置かれること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の元請負人が置く主任技術者については、第二十六条第三項の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第一項の下請負人は、その下請負に係る建設工事を他人に請け負わせてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="26_4">
+          <ArticleCaption>（主任技術者及び監理技術者の職務等）</ArticleCaption>
+          <ArticleTitle>第二十六条の四</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1832,23 +2264,23 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_4">
-          <ArticleCaption>（登録）</ArticleCaption>
-          <ArticleTitle>第二十六条の四</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">第二十六条第四項の登録は、同項の講習を行おうとする者の申請により行う。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
         <Article Delete="false" Hide="false" Num="26_5">
-          <ArticleCaption>（欠格条項）</ArticleCaption>
+          <ArticleCaption>（登録）</ArticleCaption>
           <ArticleTitle>第二十六条の五</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">次の各号のいずれかに該当する者が行う講習は、第二十六条第四項の登録を受けることができない。</Sentence>
+              <Sentence WritingMode="vertical">第二十六条第五項の登録は、同項の講習を行おうとする者の申請により行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="26_6">
+          <ArticleCaption>（欠格条項）</ArticleCaption>
+          <ArticleTitle>第二十六条の六</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">次の各号のいずれかに該当する者が行う講習は、第二十六条第五項の登録を受けることができない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1859,24 +2291,24 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条の十五の規定により第二十六条第四項の講習の登録を取り消され、その取消しの日から二年を経過しない者</Sentence>
+                <Sentence WritingMode="vertical">第二十六条の十六の規定により第二十六条第五項の講習の登録を取り消され、その取消しの日から二年を経過しない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法人であつて、第二十六条第四項の講習を行う役員のうちに前二号のいずれかに該当する者があるもの</Sentence>
+                <Sentence WritingMode="vertical">法人であつて、第二十六条第五項の講習を行う役員のうちに前二号のいずれかに該当する者があるもの</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_6">
+        <Article Delete="false" Hide="false" Num="26_7">
           <ArticleCaption>（登録の要件等）</ArticleCaption>
-          <ArticleTitle>第二十六条の六</ArticleTitle>
+          <ArticleTitle>第二十六条の七</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第二十六条の四の規定により申請のあつた講習が次に掲げる要件のすべてに適合しているときは、その登録をしなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第二十六条の五の規定により申請のあつた講習が次に掲げる要件の全てに適合しているときは、その登録をしなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、登録に関して必要な手続は、国土交通省令で定める。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
@@ -1935,7 +2367,7 @@
               <Subitem1 Delete="false" Hide="false" Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence WritingMode="vertical">第二十六条の四の規定により登録を申請した者（以下この号において「登録申請者」という。）が株式会社である場合にあつては、建設業者がその親法人（会社法（平成十七年法律第八十六号）第八百七十九条第一項に規定する親法人をいう。第二十七条の三十一第二項第一号において同じ。）であること。</Sentence>
+                  <Sentence WritingMode="vertical">第二十六条の五の規定により登録を申請した者（以下この号において「登録申請者」という。）が株式会社である場合にあつては、建設業者がその親法人（会社法（平成十七年法律第八十六号）第八百七十九条第一項に規定する親法人をいう。第二十七条の三十一第二項第一号において同じ。）であること。</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="2">
@@ -1966,7 +2398,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条第四項の登録を受けた講習（以下単に「講習」という。）を行う者（以下「登録講習実施機関」という。）の氏名又は名称及び住所並びに法人にあつては、その代表者の氏名</Sentence>
+                <Sentence WritingMode="vertical">第二十六条第五項の登録を受けた講習（以下単に「講習」という。）を行う者（以下「登録講習実施機関」という。）の氏名又は名称及び住所並びに法人にあつては、その代表者の氏名</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -1977,13 +2409,13 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_7">
+        <Article Delete="false" Hide="false" Num="26_8">
           <ArticleCaption>（登録の更新）</ArticleCaption>
-          <ArticleTitle>第二十六条の七</ArticleTitle>
+          <ArticleTitle>第二十六条の八</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第二十六条第四項の登録は、三年を下らない政令で定める期間ごとにその更新を受けなければ、その期間の経過によつて、その効力を失う。</Sentence>
+              <Sentence WritingMode="vertical">第二十六条第五項の登録は、三年を下らない政令で定める期間ごとにその更新を受けなければ、その期間の経過によつて、その効力を失う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -1993,33 +2425,33 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_8">
-          <ArticleCaption>（講習の実施に係る義務）</ArticleCaption>
-          <ArticleTitle>第二十六条の八</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">登録講習実施機関は、公正に、かつ、第二十六条の六第一項第一号及び第二号に掲げる要件並びに国土交通省令で定める基準に適合する方法により講習を行わなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
         <Article Delete="false" Hide="false" Num="26_9">
-          <ArticleCaption>（登録事項の変更の届出）</ArticleCaption>
+          <ArticleCaption>（講習の実施に係る義務）</ArticleCaption>
           <ArticleTitle>第二十六条の九</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">登録講習実施機関は、第二十六条の六第二項第二号又は第三号に掲げる事項を変更しようとするときは、変更しようとする日の二週間前までに、その旨を国土交通大臣に届け出なければならない。</Sentence>
+              <Sentence WritingMode="vertical">登録講習実施機関は、公正に、かつ、第二十六条の七第一項第一号及び第二号に掲げる要件並びに国土交通省令で定める基準に適合する方法により講習を行わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="26_10">
-          <ArticleCaption>（講習規程）</ArticleCaption>
+          <ArticleCaption>（登録事項の変更の届出）</ArticleCaption>
           <ArticleTitle>第二十六条の十</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">登録講習実施機関は、講習に関する規程（以下「講習規程」という。）を定め、講習の開始前に、国土交通大臣に届け出なければならない。</Sentence>
+              <Sentence WritingMode="vertical">登録講習実施機関は、第二十六条の七第二項第二号又は第三号に掲げる事項を変更しようとするときは、変更しようとする日の二週間前までに、その旨を国土交通大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="26_11">
+          <ArticleCaption>（講習規程）</ArticleCaption>
+          <ArticleTitle>第二十六条の十一</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">登録講習実施機関は、講習に関する規程（次項において「講習規程」という。）を定め、講習の開始前に、国土交通大臣に届け出なければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -2030,9 +2462,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_11">
+        <Article Delete="false" Hide="false" Num="26_12">
           <ArticleCaption>（業務の休廃止）</ArticleCaption>
-          <ArticleTitle>第二十六条の十一</ArticleTitle>
+          <ArticleTitle>第二十六条の十二</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2040,9 +2472,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_12">
+        <Article Delete="false" Hide="false" Num="26_13">
           <ArticleCaption>（財務諸表等の備付け及び閲覧等）</ArticleCaption>
-          <ArticleTitle>第二十六条の十二</ArticleTitle>
+          <ArticleTitle>第二十六条の十三</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2081,29 +2513,29 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_13">
-          <ArticleCaption>（適合命令）</ArticleCaption>
-          <ArticleTitle>第二十六条の十三</ArticleTitle>
-          <Paragraph Hide="false" Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">国土交通大臣は、講習が第二十六条の六第一項の規定に適合しなくなつたと認めるときは、その登録講習実施機関に対し、同項の規定に適合するため必要な措置をとるべきことを命ずることができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
         <Article Delete="false" Hide="false" Num="26_14">
-          <ArticleCaption>（改善命令）</ArticleCaption>
+          <ArticleCaption>（適合命令）</ArticleCaption>
           <ArticleTitle>第二十六条の十四</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">国土交通大臣は、登録講習実施機関が第二十六条の八の規定に違反していると認めるときは、その登録講習実施機関に対し、同条の規定による講習を行うべきこと又は講習の方法その他の業務の方法の改善に関し必要な措置をとるべきことを命ずることができる。</Sentence>
+              <Sentence WritingMode="vertical">国土交通大臣は、講習が第二十六条の七第一項の規定に適合しなくなつたと認めるときは、その登録講習実施機関に対し、同項の規定に適合するため必要な措置をとるべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="26_15">
-          <ArticleCaption>（登録の取消し等）</ArticleCaption>
+          <ArticleCaption>（改善命令）</ArticleCaption>
           <ArticleTitle>第二十六条の十五</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国土交通大臣は、登録講習実施機関が第二十六条の九の規定に違反していると認めるときは、その登録講習実施機関に対し、同条の規定による講習を行うべきこと又は講習の方法その他の業務の方法の改善に関し必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="26_16">
+          <ArticleCaption>（登録の取消し等）</ArticleCaption>
+          <ArticleTitle>第二十六条の十六</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2112,19 +2544,19 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条の五第一号又は第三号に該当するに至つたとき。</Sentence>
+                <Sentence WritingMode="vertical">第二十六条の六第一号又は第三号に該当するに至つたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条の九から第二十六条の十一まで、第二十六条の十二第一項又は次条の規定に違反したとき。</Sentence>
+                <Sentence WritingMode="vertical">第二十六条の十から第二十六条の十二まで、第二十六条の十三第一項又は次条の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">正当な理由がないのに第二十六条の十二第二項各号の規定による請求を拒んだとき。</Sentence>
+                <Sentence WritingMode="vertical">正当な理由がないのに第二十六条の十三第二項各号の規定による請求を拒んだとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="4">
@@ -2136,14 +2568,14 @@
             <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">不正の手段により第二十六条第四項の登録を受けたとき。</Sentence>
+                <Sentence WritingMode="vertical">不正の手段により第二十六条第五項の登録を受けたとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_16">
+        <Article Delete="false" Hide="false" Num="26_17">
           <ArticleCaption>（帳簿の記載）</ArticleCaption>
-          <ArticleTitle>第二十六条の十六</ArticleTitle>
+          <ArticleTitle>第二十六条の十七</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2151,13 +2583,13 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_17">
+        <Article Delete="false" Hide="false" Num="26_18">
           <ArticleCaption>（国土交通大臣による講習の実施）</ArticleCaption>
-          <ArticleTitle>第二十六条の十七</ArticleTitle>
+          <ArticleTitle>第二十六条の十八</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">国土交通大臣は、講習を行う者がいないとき、第二十六条の十一の規定による講習の全部又は一部の休止又は廃止の届出があつたとき、第二十六条の十五の規定により第二十六条第四項の登録を取り消し、又は登録講習実施機関に対し講習の全部若しくは一部の停止を命じたとき、登録講習実施機関が天災その他の事由により講習の全部又は一部を実施することが困難となつたとき、その他必要があると認めるときは、講習の全部又は一部を自ら行うことができる。</Sentence>
+              <Sentence WritingMode="vertical">国土交通大臣は、講習を行う者がいないとき、第二十六条の十二の規定による講習の全部又は一部の休止又は廃止の届出があつたとき、第二十六条の十六の規定により第二十六条第五項の登録を取り消し、又は登録講習実施機関に対し講習の全部若しくは一部の停止を命じたとき、登録講習実施機関が天災その他の事由により講習の全部又は一部を実施することが困難となつたとき、その他必要があると認めるときは、講習の全部又は一部を自ら行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -2167,9 +2599,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_18">
+        <Article Delete="false" Hide="false" Num="26_19">
           <ArticleCaption>（手数料）</ArticleCaption>
-          <ArticleTitle>第二十六条の十八</ArticleTitle>
+          <ArticleTitle>第二十六条の十九</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2177,9 +2609,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_19">
+        <Article Delete="false" Hide="false" Num="26_20">
           <ArticleCaption>（報告の徴収）</ArticleCaption>
-          <ArticleTitle>第二十六条の十九</ArticleTitle>
+          <ArticleTitle>第二十六条の二十</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2187,9 +2619,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_20">
+        <Article Delete="false" Hide="false" Num="26_21">
           <ArticleCaption>（立入検査）</ArticleCaption>
-          <ArticleTitle>第二十六条の二十</ArticleTitle>
+          <ArticleTitle>第二十六条の二十一</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2199,19 +2631,19 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項の規定により職員が立入検査をする場合においては、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+              <Sentence WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="26_21">
+        <Article Delete="false" Hide="false" Num="26_22">
           <ArticleCaption>（公示）</ArticleCaption>
-          <ArticleTitle>第二十六条の二十一</ArticleTitle>
+          <ArticleTitle>第二十六条の二十二</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2220,31 +2652,31 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条第四項の登録をしたとき。</Sentence>
+                <Sentence WritingMode="vertical">第二十六条第五項の登録をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条の九の規定による届出があつたとき。</Sentence>
+                <Sentence WritingMode="vertical">第二十六条の十の規定による届出があつたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条の十一の規定による届出があつたとき。</Sentence>
+                <Sentence WritingMode="vertical">第二十六条の十二の規定による届出があつたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条の十五の規定により第二十六条第四項の登録を取り消し、又は講習の停止を命じたとき。</Sentence>
+                <Sentence WritingMode="vertical">第二十六条の十六の規定により第二十六条第五項の登録を取り消し、又は講習の停止を命じたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条の十七の規定により講習の全部若しくは一部を自ら行うこととするとき、又は自ら行つていた講習の全部若しくは一部を行わないこととするとき。</Sentence>
+                <Sentence WritingMode="vertical">第二十六条の十八の規定により講習の全部若しくは一部を自ら行うこととするとき、又は自ら行つていた講習の全部若しくは一部を行わないこととするとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2517,13 +2949,7 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係人の請求があつたときは、これを提示しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Hide="false" Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+              <Sentence WritingMode="vertical">第二十六条の二十一第二項及び第三項の規定は、前項の規定による立入検査について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2776,7 +3202,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">この章に規定するもののほか、第二十六条第四項の登録及び講習の受講並びに第二十七条の十八第一項の資格者証に関し必要な事項は、国土交通省令で定める。</Sentence>
+              <Sentence WritingMode="vertical">この章に規定するもののほか、第二十六条第五項の登録及び講習の受講並びに第二十七条の十八第一項の資格者証に関し必要な事項は、国土交通省令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2823,7 +3249,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前条第二項第一号に掲げる事項の分析（以下「経営状況分析」という。）については、第二十七条の三十一及び第二十七条の三十二において準用する第二十六条の五の規定により国土交通大臣の登録を受けた者（以下「登録経営状況分析機関」という。）が行うものとする。</Sentence>
+              <Sentence WritingMode="vertical">前条第二項第一号に掲げる事項の分析（以下「経営状況分析」という。）については、第二十七条の三十一及び第二十七条の三十二において準用する第二十六条の六の規定により国土交通大臣の登録を受けた者（以下「登録経営状況分析機関」という。）が行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -3001,316 +3427,231 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二十六条の五、第二十六条の七から第二十六条の十六まで及び第二十六条の十九から第二十六条の二十一までの規定は、登録経営状況分析機関について準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二十六条の六、第二十六条の八から第二十六条の十七まで及び第二十六条の二十から第二十六条の二十二までの規定は、登録経営状況分析機関について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</Sentence>
             </ParagraphSentence>
             <TableStruct>
-              <Table WritingMode="vertical">
+              <Table>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の五</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の六</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">該当する者が行う講習</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>該当する者が行う講習は、第二十六条第五項</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">該当する者</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>該当する者は、第二十七条の二十四第一項</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の五、第二十六条の七第一項、第二十六条の十五第五号並びに第二十六条の二十一第一号及び第四号</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の六第二号</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条第四項</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条第五項の講習</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の二十四第一項</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の五第二号及び第二十六条の二十一第四号</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十五</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の三十二において準用する第二十六条の十五</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十七条の二十四第一項</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の五第二号</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の六第三号</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条第四項の講習</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条第五項の講習</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の二十四第一項</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の五第三号</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条第四項の講習</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">経営状況分析の業務</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>経営状況分析の業務</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の七第二項</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の八第一項、第二十六条の十六第五号並びに第二十六条の二十二第一号及び第四号</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">前三条</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条第五項</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の三十一及び第二十七条の三十二において準用する第二十六条の五</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の八の見出し</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">講習の実施に係る</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">経営状況分析の</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十七条の二十四第一項</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の八</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の八第二項</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の六第一項第一号及び第二号に掲げる要件並びに国土交通省令</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>前三条</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">国土交通省令</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の八及び第二十六条の十六</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">講習</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">経営状況分析</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十七条の三十一及び第二十七条の三十二において準用する第二十六条の六</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の九</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の九の見出し</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の六第二項第二号又は第三号</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>講習の実施に係る</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の三十一第三項第二号又は第三号</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十（見出しを含む。）</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">講習規程</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">経営状況分析規程</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>経営状況分析の</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                    <Sentence WritingMode="vertical">第二十六条の十第一項</Sentence>
+                  <TableColumn Valign="top" rowspan="2">
+                    <Sentence>第二十六条の九</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">講習に</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の七第一項第一号及び第二号に掲げる要件並びに国土交通省令</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">経営状況分析の業務に</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">講習の</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">経営状況分析の業務の</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>国土交通省令</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十第二項及び第二十六条の十四</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>講習を</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">講習の</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">経営状況分析の</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>経営状況分析を</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十第二項</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の十</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">講習に</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の七第二項第二号又は第三号</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">経営状況分析に</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十一並びに第二十六条の二十一第四号及び第五号</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">講習</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">経営状況分析の業務</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十七条の三十一第三項第二号又は第三号</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十二第二項</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の十一（見出しを含む。）</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">建設業者</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>講習規程</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の三十一第二項に規定する建設業者</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                    <Sentence WritingMode="vertical">第二十六条の十三</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">講習</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">登録経営状況分析機関</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>経営状況分析規程</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の六第一項</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の十一第一項</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の三十一第二項</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>講習に</Sentence>
                   </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                    <Sentence WritingMode="vertical">第二十六条の十四</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">登録講習実施機関が第二十六条の八</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">登録経営状況分析機関が第二十七条の三十二において準用する第二十六条の八又は第二十七条の三十三</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>経営状況分析の業務に</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">同条の規定による講習を</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の十一第一項、第二十六条の十二並びに第二十六条の二十二第四号及び第五号</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">これらの規定による経営状況分析の業務を</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>講習の</Sentence>
                   </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                    <Sentence WritingMode="vertical">第二十六条の十五</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">当該登録講習実施機関の行う講習の登録</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">その登録</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>経営状況分析の業務の</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">講習の全部</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の十一第二項及び第二十六条の十五</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">経営状況分析の業務の全部</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>講習の</Sentence>
                   </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十五第一号</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の五第一号又は第三号</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の三十二において準用する第二十六条の五第一号又は第三号</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>経営状況分析の</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十五第二号及び第二十六条の二十一第二号</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の十一第二項及び第二十六条の十七</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の九</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>講習に</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の三十二において準用する第二十六条の九</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十五第三号</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十二第二項各号</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の三十二において準用する第二十六条の十二第二項各号</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>経営状況分析に</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十五第四号</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の十三第二項</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">前二条</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>建設業者</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の三十二において準用する第二十六条の十三又は前条</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の二十一第三号</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十一</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の三十二において準用する第二十六条の十一</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十七条の三十一第二項に規定する建設業者</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の二十一第五号</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の十四</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十六条の十七</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>講習が第二十六条の七第一項</Sentence>
                   </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第二十七条の三十五</Sentence>
+                  <TableColumn Valign="top">
+                    <Sentence>登録経営状況分析機関が第二十七条の三十一第二項</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top" rowspan="2">
+                    <Sentence>第二十六条の十五</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の九</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十七条の三十二において準用する第二十六条の九又は第二十七条の三十三</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>同条の規定による講習</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>これらの規定による経営状況分析の業務</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top" rowspan="2">
+                    <Sentence>第二十六条の十六</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>当該登録講習実施機関の行う講習の登録</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>その登録</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>講習の全部</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>経営状況分析の業務の全部</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の二十二第五号</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十六条の十八</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>第二十七条の三十五</Sentence>
                   </TableColumn>
                 </TableRow>
               </Table>
@@ -3343,7 +3684,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">国土交通大臣又は都道府県知事は、第二十七条の二十四第一項の登録を受けた者がいないとき、第二十七条の三十二において準用する第二十六条の十一の規定による経営状況分析の業務の全部又は一部の休止又は廃止の届出があつたとき、第二十七条の三十二において準用する第二十六条の十五の規定により第二十七条の二十四第一項の登録を取り消し、又は登録経営状況分析機関に対し経営状況分析の業務の全部若しくは一部の停止を命じたとき、登録経営状況分析機関が天災その他の事由により経営状況分析の業務の全部又は一部を実施することが困難となつたとき、その他国土交通大臣が必要があると認めるときは、経営状況分析の業務の全部又は一部を自ら行うことができる。</Sentence>
+              <Sentence WritingMode="vertical">国土交通大臣又は都道府県知事は、第二十七条の二十四第一項の登録を受けた者がいないとき、第二十七条の三十二において準用する第二十六条の十二の規定による経営状況分析の業務の全部又は一部の休止又は廃止の届出があつたとき、第二十七条の三十二において準用する第二十六条の十六の規定により第二十七条の二十四第一項の登録を取り消し、又は登録経営状況分析機関に対し経営状況分析の業務の全部若しくは一部の停止を命じたとき、登録経営状況分析機関が天災その他の事由により経営状況分析の業務の全部又は一部を実施することが困難となつたとき、その他国土交通大臣が必要があると認めるときは、経営状況分析の業務の全部又は一部を自ら行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -3438,7 +3779,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">国土交通大臣又は都道府県知事は、その許可を受けた建設業者が次の各号のいずれかに該当する場合又はこの法律の規定（第十九条の三、第十九条の四及び第二十四条の三から第二十四条の五までを除き、公共工事の入札及び契約の適正化の促進に関する法律（平成十二年法律第百二十七号。以下「入札契約適正化法」という。）第十五条第一項の規定により読み替えて適用される第二十四条の七第一項、第二項及び第四項を含む。第四項において同じ。）、入札契約適正化法第十五条第二項若しくは第三項の規定若しくは特定住宅瑕疵担保責任の履行の確保等に関する法律（平成十九年法律第六十六号。以下この条において「履行確保法」という。）第三条第六項、第四条第一項、第七条第二項、第八条第一項若しくは第二項若しくは第十条の規定に違反した場合においては、当該建設業者に対して、必要な指示をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣又は都道府県知事は、その許可を受けた建設業者が次の各号のいずれかに該当する場合又はこの法律の規定（第十九条の三、第十九条の四、第二十四条の三第一項、第二十四条の四、第二十四条の五並びに第二十四条の六第三項及び第四項を除き、公共工事の入札及び契約の適正化の促進に関する法律（平成十二年法律第百二十七号。以下「入札契約適正化法」という。）第十五条第一項の規定により読み替えて適用される第二十四条の八第一項、第二項及び第四項を含む。第四項において同じ。）、入札契約適正化法第十五条第二項若しくは第三項の規定若しくは特定住宅瑕疵担保責任の履行の確保等に関する法律（平成十九年法律第六十六号。以下この条において「履行確保法」という。）第三条第六項、第四条第一項、第七条第二項、第八条第一項若しくは第二項若しくは第十条の規定に違反した場合においては、当該建設業者に対して、必要な指示をすることができる。</Sentence>
               <Sentence Num="2" WritingMode="vertical">特定建設業者が第四十一条第二項又は第三項の規定による勧告に従わない場合において必要があると認めるときも、同様とする。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
@@ -3462,7 +3803,7 @@
             <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">建設業者が第二十二条の規定に違反したとき。</Sentence>
+                <Sentence WritingMode="vertical">建設業者が第二十二条第一項若しくは第二項又は第二十六条の三第八項の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="5">
@@ -3565,32 +3906,38 @@
                 <Sentence WritingMode="vertical">第八条第一号又は第七号から第十四号まで（第十七条において準用する場合を含む。）のいずれかに該当するに至つた場合</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="2_2">
-              <ItemTitle>二の二</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">第九条第一項各号（第十七条において準用する場合を含む。）のいずれかに該当する場合において一般建設業の許可又は特定建設業の許可を受けないとき。</Sentence>
-              </ItemSentence>
-            </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">許可を受けてから一年以内に営業を開始せず、又は引き続いて一年以上営業を休止した場合</Sentence>
+                <Sentence WritingMode="vertical">第九条第一項各号（第十七条において準用する場合を含む。）のいずれかに該当する場合（第十七条の二第一項から第三項まで又は第十七条の三第四項の規定により他の建設業者の地位を承継したことにより第九条第一項第三号（第十七条において準用する場合を含む。）に該当する場合を除く。）において一般建設業の許可又は特定建設業の許可を受けないとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第十二条各号（第十七条において準用する場合を含む。）のいずれかに該当するに至つた場合</Sentence>
+                <Sentence WritingMode="vertical">許可を受けてから一年以内に営業を開始せず、又は引き続いて一年以上営業を休止した場合</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">不正の手段により第三条第一項の許可（同条第三項の許可の更新を含む。）を受けた場合</Sentence>
+                <Sentence WritingMode="vertical">第十二条各号（第十七条において準用する場合を含む。）のいずれかに該当するに至つた場合</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="6">
+            <Item Num="6">
               <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>死亡した場合において第十七条の三第一項の認可をしない旨の処分があつたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">不正の手段により第三条第一項の許可（同条第三項の許可の更新を含む。）又は第十七条の二第一項から第三項まで若しくは第十七条の三第一項の認可を受けた場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
               <ItemSentence>
                 <Sentence WritingMode="vertical">前条第一項各号のいずれかに該当し情状特に重い場合又は同条第三項若しくは第五項の規定による営業の停止の処分に違反した場合</Sentence>
               </ItemSentence>
@@ -3665,7 +4012,7 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">国土交通大臣又は都道府県知事は、第二十九条第一項第五号又は第六号に該当することにより建設業者の許可を取り消す場合においては、当該建設業者が法人であるときはその役員等及び当該処分の原因である事実について相当の責任を有する政令で定める使用人に対して、個人であるときは当該処分の原因である事実について相当の責任を有する政令で定める使用人に対して、当該取消しに係る建設業について、五年間、新たに営業（第三条第一項ただし書の政令で定める軽微な建設工事のみを請け負うものを除く。）を開始することを禁止しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">国土交通大臣又は都道府県知事は、第二十九条第一項第七号又は第八号に該当することにより建設業者の許可を取り消す場合においては、当該建設業者が法人であるときはその役員等及び当該処分の原因である事実について相当の責任を有する政令で定める使用人に対して、個人であるときは当該処分の原因である事実について相当の責任を有する政令で定める使用人に対して、当該取消しに係る建設業について、五年間、新たに営業（第三条第一項ただし書の政令で定める軽微な建設工事のみを請け負うものを除く。）を開始することを禁止しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3725,13 +4072,7 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">当該職員は、前項の規定により立入検査をする場合においては、その身分を示す証票を携帯し、関係人の請求があつたときは、これを呈示しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Hide="false" Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence WritingMode="vertical">当該職員の資格に関し必要な事項は、政令で定める。</Sentence>
+              <Sentence WritingMode="vertical">第二十六条の二十一第二項及び第三項の規定は、前項の規定による立入検査について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3775,7 +4116,7 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>中央建設業審議会は、建設工事の標準請負契約約款、入札の参加者の資格に関する基準、予定価格を構成する材料費及び役務費以外の諸経費に関する基準並びに建設工事の工期に関する基準を作成し、並びにその実施を勧告することができる。</Sentence>
+              <Sentence WritingMode="vertical">中央建設業審議会は、建設工事の標準請負契約約款、入札の参加者の資格に関する基準、予定価格を構成する材料費及び役務費以外の諸経費に関する基準並びに建設工事の工期に関する基準を作成し、並びにその実施を勧告することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3907,7 +4248,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">許可申請書の提出その他のこの法律の規定による国土交通大臣又は都道府県知事（指定経営状況分析機関を含む。）に対する手続であつて国土交通省令で定めるもの（以下「特定手続」という。）については、国土交通省令で定めるところにより、磁気ディスク（これに準ずる方法により一定の事項を確実に記録しておくことができる物を含む。以下同じ。）の提出により行うことができる。</Sentence>
+              <Sentence WritingMode="vertical">許可申請書の提出その他のこの法律の規定による国土交通大臣又は都道府県知事（登録経営状況分析機関を含む。）に対する手続であつて国土交通省令で定めるもの（次項において「特定手続」という。）については、国土交通省令で定めるところにより、磁気ディスク（これに準ずる方法により一定の事項を確実に記録しておくことができる物を含む。同項において同じ。）の提出により行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -3924,7 +4265,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">建設業者は、その店舗及び建設工事の現場ごとに、公衆の見易い場所に、国土交通省令の定めるところにより、許可を受けた別表第一の下欄の区分による建設業の名称、一般建設業又は特定建設業の別その他国土交通省令で定める事項を記載した標識を掲げなければならない。</Sentence>
+              <Sentence WritingMode="vertical">建設業者は、その店舗及び建設工事（発注者から直接請け負つたものに限る。）の現場ごとに、公衆の見やすい場所に、国土交通省令の定めるところにより、許可を受けた別表第一の下欄の区分による建設業の名称、一般建設業又は特定建設業の別その他国土交通省令で定める事項を記載した標識を掲げなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3970,13 +4311,47 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="41_2">
+          <ArticleCaption>（建設資材製造業者等に対する勧告及び命令等）</ArticleCaption>
+          <ArticleTitle>第四十一条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国土交通大臣又は都道府県知事は、その許可を受けた建設業者が第二十八条第一項第一号若しくは第三号に該当することにより当該建設業者に対して同項の規定による指示をする場合又は当該都道府県知事の管轄する区域内で建設工事を施工している第三条第一項の許可を受けないで建設業を営む者が第二十八条第二項第一号に該当することにより当該建設業を営む者に対して同項の規定による指示をする場合において、当該指示に係る違反行為が建設資材（建設工事に使用された資材をいう。以下この条において同じ。）に起因するものであると認められ、かつ、当該建設業者又は建設業を営む者に対する指示のみによつては当該違反行為の再発を防止することが困難であると認められるときは、当該建設業者又は建設業を営む者に当該建設資材を引き渡した建設資材製造業者等（建設資材の製造、加工又は輸入を業として行う者をいう。以下この条において同じ。）に対しても、当該違反行為の再発の防止を図るため適当な措置をとるべきことを勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国土交通大臣又は都道府県知事は、前項の規定による勧告を受けた建設資材製造業者等がその勧告に従わないときは、その旨を公表することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国土交通大臣又は都道府県知事は、第一項の規定による勧告を受けた建設資材製造業者等が、正当な理由がなくてその勧告に係る措置をとらない場合において、同項の建設資材と同一又は類似の建設資材が使用されることにより建設工事の適正な施工の確保が著しく阻害されるおそれがあると認めるときは、当該建設資材製造業者等に対して、相当の期限を定めて、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国土交通大臣又は都道府県知事は、前三項の規定の施行に必要な限度において、その許可を受けた建設業者（都道府県知事にあつては、その許可を受けた建設業者又は当該都道府県の区域内で建設業を営む者）に建設資材を引き渡した建設資材製造業者等に対して、その業務に関し報告をさせ、又はその職員に、事務所、工場、倉庫その他の場所に立ち入り、帳簿書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第二十六条の二十一第二項及び第三項の規定は、前項の規定による立入検査について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Delete="false" Hide="false" Num="42">
           <ArticleCaption>（公正取引委員会への措置請求等）</ArticleCaption>
           <ArticleTitle>第四十二条</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">国土交通大臣又は都道府県知事は、その許可を受けた建設業者が第十九条の三、第十九条の四、第二十四条の三第一項、第二十四条の四又は第二十四条の五第三項若しくは第四項の規定に違反している事実があり、その事実が私的独占の禁止及び公正取引の確保に関する法律第十九条の規定に違反していると認めるときは、公正取引委員会に対し、同法の規定に従い適当な措置をとるべきことを求めることができる。</Sentence>
+              <Sentence WritingMode="vertical">国土交通大臣又は都道府県知事は、その許可を受けた建設業者が第十九条の三、第十九条の四、第二十四条の三第一項、第二十四条の四、第二十四条の五又は第二十四条の六第三項若しくは第四項の規定に違反している事実があり、その事実が私的独占の禁止及び公正取引の確保に関する法律第十九条の規定に違反していると認めるときは、公正取引委員会に対し、同法の規定に従い適当な措置をとるべきことを求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -3997,13 +4372,13 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項の規定により職員が立ち入るときは、その身分を示す証票を携帯し、関係人の請求があつたときは、これを提示しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">第二十六条の二十一第二項及び第三項の規定は、前項の規定による立入検査について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">中小企業庁長官は、第一項の規定による報告又は検査の結果中小企業者である下請負人と下請契約を締結した元請負人が第十九条の三、第十九条の四、第二十四条の三第一項、第二十四条の四又は第二十四条の五第三項若しくは第四項の規定に違反している事実があり、その事実が私的独占の禁止及び公正取引の確保に関する法律第十九条の規定に違反していると認めるときは、公正取引委員会に対し、同法の規定に従い適当な措置をとるべきことを求めることができる。</Sentence>
+              <Sentence WritingMode="vertical">中小企業庁長官は、第一項の規定による報告又は検査の結果中小企業者である下請負人と下請契約を締結した元請負人が第十九条の三、第十九条の四、第二十四条の三第一項、第二十四条の四、第二十四条の五又は第二十四条の六第三項若しくは第四項の規定に違反している事実があり、その事実が私的独占の禁止及び公正取引の確保に関する法律第十九条の規定に違反していると認めるときは、公正取引委員会に対し、同法の規定に従い適当な措置をとるべきことを求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="4">
@@ -4106,7 +4481,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">次の各号の一に該当する者は、三年以下の懲役又は三百万円以下の罰金に処する。</Sentence>
+              <Sentence WritingMode="vertical">次の各号のいずれかに該当する者は、三年以下の懲役又は三百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -4114,28 +4489,28 @@
                 <Sentence WritingMode="vertical">第三条第一項の規定に違反して許可を受けないで建設業を営んだ者</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="1_2">
-              <ItemTitle>一の二</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">第十六条の規定に違反して下請契約を締結した者</Sentence>
-              </ItemSentence>
-            </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十八条第三項又は第五項の規定による営業停止の処分に違反して建設業を営んだ者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="2_2">
-              <ItemTitle>二の二</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">第二十九条の四第一項の規定による営業の禁止の処分に違反して建設業を営んだ者</Sentence>
+                <Sentence WritingMode="vertical">第十六条の規定に違反して下請契約を締結した者</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">虚偽又は不正の事実に基づいて第三条第一項の許可（同条第三項の許可の更新を含む。）を受けた者</Sentence>
+                <Sentence WritingMode="vertical">第二十八条第三項又は第五項の規定による営業停止の処分に違反して建設業を営んだ者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第二十九条の四第一項の規定による営業の禁止の処分に違反して建設業を営んだ者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">虚偽又は不正の事実に基づいて第三条第一項の許可（同条第三項の許可の更新を含む。）又は第十七条の二第一項から第三項まで若しくは第十七条の三第一項の認可を受けた者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -4160,7 +4535,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第二十六条の十五（第二十七条の三十二において準用する場合を含む。）又は第二十七条の十四第二項（第二十七条の十九第五項において準用する場合を含む。）の規定による講習、試験事務、交付等事務又は経営状況分析の停止の命令に違反したときは、その違反行為をした登録講習実施機関（その者が法人である場合にあつては、その役員）若しくはその職員、指定試験機関若しくは指定資格者証交付機関の役員若しくは職員又は登録経営状況分析機関（その者が法人である場合にあつては、その役員）若しくはその職員（第五十一条において「登録講習実施機関等の役職員」という。）は、一年以下の懲役又は百万円以下の罰金に処する。</Sentence>
+              <Sentence WritingMode="vertical">第二十六条の十六（第二十七条の三十二において準用する場合を含む。）又は第二十七条の十四第二項（第二十七条の十九第五項において準用する場合を含む。）の規定による講習、試験事務、交付等事務又は経営状況分析の停止の命令に違反したときは、その違反行為をした登録講習実施機関（その者が法人である場合にあつては、その役員）若しくはその職員、指定試験機関若しくは指定資格者証交付機関の役員若しくは職員又は登録経営状況分析機関（その者が法人である場合にあつては、その役員）若しくはその職員（第五十一条において「登録講習実施機関等の役職員」という。）は、一年以下の懲役又は百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4213,19 +4588,19 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条の十一（第二十七条の三十二において準用する場合を含む。）の規定による届出をしないで講習若しくは経営状況分析の業務の全部を廃止し、又は第二十七条の十三第一項（第二十七条の十九第五項において準用する場合を含む。）の規定による許可を受けないで試験事務若しくは交付等事務の全部を廃止したとき。</Sentence>
+                <Sentence WritingMode="vertical">第二十六条の十二（第二十七条の三十二において準用する場合を含む。）の規定による届出をしないで講習若しくは経営状況分析の業務の全部を廃止し、又は第二十七条の十三第一項（第二十七条の十九第五項において準用する場合を含む。）の規定による許可を受けないで試験事務若しくは交付等事務の全部を廃止したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条の十六（第二十七条の三十二において準用する場合を含む。）又は第二十七条の十の規定に違反して帳簿を備えず、帳簿に記載せず、若しくは帳簿に虚偽の記載をし、又は帳簿を保存しなかつたとき。</Sentence>
+                <Sentence WritingMode="vertical">第二十六条の十七（第二十七条の三十二において準用する場合を含む。）又は第二十七条の十の規定に違反して帳簿を備えず、帳簿に記載せず、若しくは帳簿に虚偽の記載をし、又は帳簿を保存しなかつたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条の十九（第二十七条の三十二において準用する場合を含む。）若しくは第二十七条の十二第一項（第二十七条の十九第五項において準用する場合を含む。以下同じ。）の規定による報告を求められて、報告をせず、若しくは虚偽の報告をし、又は第二十六条の二十（第二十七条の三十二において準用する場合を含む。）若しくは第二十七条の十二第一項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+                <Sentence WritingMode="vertical">第二十六条の二十（第二十七条の三十二において準用する場合を含む。）若しくは第二十七条の十二第一項（第二十七条の十九第五項において準用する場合を含む。以下この号において同じ。）の規定による報告を求められて、報告をせず、若しくは虚偽の報告をし、又は第二十六条の二十一（第二十七条の三十二において準用する場合を含む。）若しくは第二十七条の十二第一項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -4240,7 +4615,7 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第二十六条第一項から第三項までの規定による主任技術者又は監理技術者を置かなかつた者</Sentence>
+                <Sentence WritingMode="vertical">第二十六条第一項から第三項まで又は第二十六条の三第六項の規定による主任技術者又は監理技術者を置かなかつた者</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
@@ -4264,13 +4639,19 @@
             <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第三十一条第一項又は第四十二条の二第一項の規定による報告をせず、又は虚偽の報告をした者</Sentence>
+                <Sentence WritingMode="vertical">第三十一条第一項、第四十一条の二第四項又は第四十二条の二第一項の規定による報告をせず、又は虚偽の報告をした者</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第三十一条第一項又は第四十二条の二第一項の規定による検査を拒み、妨げ、又は忌避した者</Sentence>
+                <Sentence WritingMode="vertical">第三十一条第一項、第四十一条の二第四項又は第四十二条の二第一項の規定による検査を拒み、妨げ、又は忌避した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence>第四十一条の二第三項の規定による命令に違反した者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -4311,7 +4692,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第二十六条の十二第一項（第二十七条の三十二において準用する場合を含む。）の規定に違反して財務諸表等を備えて置かず、財務諸表等に記載すべき事項を記載せず、若しくは虚偽の記載をし、又は正当な理由がないのに第二十六条の十二第二項各号（第二十七条の三十二において準用する場合を含む。）の規定による請求を拒んだ者は、二十万円以下の過料に処する。</Sentence>
+              <Sentence WritingMode="vertical">第二十六条の十三第一項（第二十七条の三十二において準用する場合を含む。）の規定に違反して財務諸表等を備えて置かず、財務諸表等に記載すべき事項を記載せず、若しくは虚偽の記載をし、又は正当な理由がないのに第二十六条の十三第二項各号（第二十七条の三十二において準用する場合を含む。）の規定による請求を拒んだ者は、二十万円以下の過料に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6116,6 +6497,7 @@
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
+      <RelatedArticleNum>（第二条、第三条、第四十条関係）</RelatedArticleNum>
       <TableStruct>
         <Table WritingMode="vertical">
           <TableRow>
@@ -6355,7 +6737,7 @@
     </AppdxTable>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第二</AppdxTableTitle>
-      <RelatedArticleNum>（第二十六条の六関係）</RelatedArticleNum>
+      <RelatedArticleNum>（第二十六条の七関係）</RelatedArticleNum>
       <Item Delete="false" Hide="false" Num="1">
         <ItemTitle>一</ItemTitle>
         <ItemSentence>

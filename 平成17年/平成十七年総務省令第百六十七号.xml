@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="167" Year="17">
+<Law DataInfo="200731e05k09m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="167" Year="17">
   <LawNum>平成十七年総務省令第百六十七号</LawNum>
   <LawBody>
     <LawTitle>携帯音声通信事業者による契約者等の本人確認等及び携帯音声通信役務の不正な利用の防止に関する法律施行規則</LawTitle>
@@ -108,7 +108,7 @@
                 <Sentence WritingMode="vertical">特定事項伝達型本人限定受取郵便等</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">本人限定受取郵便等であって、差出人に代わって名あて人本人の住居を確認し、名あて人本人から本人確認書類（第五条第一項に規定する書類をいう。以下同じ。）の提示を受け、かつ、本人確認記録等の作成に関し必要な事項を差出人に伝達する措置がとられているものをいう。</Sentence>
+                <Sentence WritingMode="vertical">本人限定受取郵便等であって、差出人に代わって名あて人本人の住居を確認し、名あて人本人から写真付き本人確認書類（第十一号に規定する書類をいう。以下同じ。）の提示を受け、かつ、本人確認記録等の作成に関し必要な事項を差出人に伝達する措置がとられているものをいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -374,7 +374,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">第三条第一項及び前条第一項に規定する方法において、携帯音声通信事業者が提示、送付又は送信を受ける書類は、次の各号に掲げる区分に応じ、それぞれ当該各号に定めるもののいずれかとする。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">第三条第一項及び前条第一項に規定する方法において、携帯音声通信事業者が提示、送付又は送信を受ける書類（以下「本人確認書類」という。）は、次の各号に掲げる区分に応じ、それぞれ当該各号に定めるもののいずれかとする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一号イからハまで、ホ及びヘ並びに第二号ロに掲げる書類並びに第三号に規定するものにあっては携帯音声通信事業者が提示、送付又は送信を受ける日において有効なものに、その他の書類にあっては携帯音声通信事業者が提示又は送付を受ける日前六月以内に作成されたものに限る。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
@@ -1510,91 +1510,91 @@
             <Sentence Num="2" WritingMode="vertical">この場合において必要な技術的読替えは、次の表のとおりとする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
-            <Table WritingMode="vertical">
+            <Table>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">読み替える規定</Sentence>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>読み替える規定</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">読み替えられる字句</Sentence>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>読み替えられる字句</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">読み替える字句</Sentence>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>読み替える字句</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">第三条第二項</Sentence>
+                <TableColumn rowspan="3">
+                  <Sentence/>
+                  <Sentence>第三条第二項</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">前項第一号ロ、ホ及びヘ並びに第二号ロ及びハ</Sentence>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>前項第一号ロ、ホ及びヘ並びに第二号ロ及びハ</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">第十三条第一項第一号ロ及び第三号ロ並びに第二項各号</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">携帯音声通信端末設備等</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">契約者確認に係る文書</Sentence>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>第十三条第一項第一号ロ及び第三号ロ並びに第二項各号</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">相手方</Sentence>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>携帯音声通信端末設備等</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">契約者（みなし契約者を含む。）</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">第五条第一項</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">第三条第一項及び前条第一項</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">第十三条第一項及び第二項</Sentence>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>契約者確認に係る文書</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">第五条第二項</Sentence>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>相手方</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">役務提供契約の締結</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">契約者確認</Sentence>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>契約者（みなし契約者を含む。）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">相手方</Sentence>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>第五条第一項</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical"/>
-                  <Sentence WritingMode="vertical">契約者</Sentence>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>第三条第一項及び前条第一項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>第十三条第一項及び第二項</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn rowspan="2">
+                  <Sentence/>
+                  <Sentence>第五条第二項</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>役務提供契約の締結</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>契約者確認</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>相手方</Sentence>
+                </TableColumn>
+                <TableColumn>
+                  <Sentence/>
+                  <Sentence>契約者</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -1995,13 +1995,13 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="20">
+      <Article Num="20">
         <ArticleCaption>（代表者等の貸与時本人確認の方法）</ArticleCaption>
         <ArticleTitle>第二十条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十条第二項において読み替えて準用する法第三条第二項の規定による代表者等の貸与時本人確認の方法は、次に掲げるいずれかの方法とする。</Sentence>
+            <Sentence>法第十条第二項において読み替えて準用する法第三条第二項の規定による代表者等の貸与時本人確認の方法は、次に掲げるいずれかの方法とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -3151,26 +3151,26 @@
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">平成三十年北海道胆振東部地震に際し災害救助法が適用された市町村の区域に住居を有する被災者</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">平成三十一年二月二十八日</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">令和元年台風第十九号に際し災害救助法が適用された市区町村の区域に住居を有する被災者</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">令和二年四月三十日</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">令和二年七月豪雨に際し災害救助法が適用された市町村の区域に住居を有する被災者</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                   <Sentence WritingMode="vertical">令和二年十二月三十一日</Sentence>
                 </TableColumn>
               </TableRow>

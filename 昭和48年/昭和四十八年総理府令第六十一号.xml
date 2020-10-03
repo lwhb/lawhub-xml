@@ -180,7 +180,7 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">汚水等の処理施設の使用時における当該汚水等の処理施設による処理前及び処理後の汚水等の汚染状態（当該特定施設を設置する工場又は事業場の排出水に係る排水基準が定められている事項に関するものに限る。）の通常の値及び最大の値並びに当該汚水等の一日当たりの通常の量及び最大の量（処理後の汚水等に係るものに限る。）が増大しないこと。</Sentence>
+                <Sentence WritingMode="vertical">汚水等の処理施設の使用時における当該汚水等の処理施設による処理後の汚水等の汚染状態（当該特定施設を設置する工場又は事業場の排出水に係る排水基準が定められている事項に関するものに限る。）の通常の値及び最大の値並びに当該汚水等の一日当たりの通常の量及び最大の量が増大しないこと。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="3">
@@ -223,6 +223,24 @@
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence WritingMode="vertical">排水口の使用の全部又は一部を廃止すること（この場合において、既存の排水口を引き続き使用するときは、当該排水口について排出水の排出の方法に変更がない場合に限る。）。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">次のいずれにも該当すること。</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">第二号イに掲げること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">排出水のうち、特定事業場において事業活動その他の人の活動に使用されていない水又は事業活動その他の人の活動に使用された水であって、専ら冷却用、減圧用その他の用途でその用途に供することにより汚染状態が悪化しないものに供された水のみを排出する排水口の位置若しくは数又は排出先を変更すること（当該排水口以外の排水口について排出水の排出の方法に変更がない場合に限る。）。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -638,12 +656,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月二五日環境省令第二二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S48F03101000061_2007311207_001.pdf"/>
+          <Fig src="./pict/S48F03101000061_2009251709_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -652,7 +679,7 @@
       <RelatedArticleNum>（第５条、第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S48F03101000061_2007311207_002.pdf"/>
+          <Fig src="./pict/S48F03101000061_2009251709_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -667,7 +694,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S48F03101000061_2007311207_003.pdf"/>
+          <Fig src="./pict/S48F03101000061_2009251709_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -679,7 +706,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S48F03101000061_2007311207_004.pdf"/>
+          <Fig src="./pict/S48F03101000061_2009251709_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -688,7 +715,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S48F03101000061_2007311207_005.pdf"/>
+          <Fig src="./pict/S48F03101000061_2009251709_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -697,7 +724,7 @@
       <RelatedArticleNum>（第９条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S48F03101000061_2007311207_006.pdf"/>
+          <Fig src="./pict/S48F03101000061_2009251709_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

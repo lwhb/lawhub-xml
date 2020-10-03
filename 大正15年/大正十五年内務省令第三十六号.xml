@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Taisho" Lang="ja" LawType="MinisterialOrdinance" Num="36" Year="15">
+<Law DataInfo="200911e82k10m02" Era="Taisho" Lang="ja" LawType="MinisterialOrdinance" Num="36" Year="15">
   <LawNum>大正十五年内務省令第三十六号</LawNum>
   <LawBody>
     <LawTitle>健康保険法施行規則</LawTitle>
@@ -3294,7 +3294,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第八十八条第一項の厚生労働省令で定める基準は、病状が安定し、又はこれに準ずる状態にあり、かつ、居宅において看護師等（看護師その他次条に規定する者をいう。第七十四条第一項第九号において同じ。）が行う療養上の世話及び必要な診療の補助を要することとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第八十八条第一項の厚生労働省令で定める基準は、病状が安定し、又はこれに準ずる状態にあり、かつ、居宅において看護師等（看護師その他次条に規定する者をいう。第七十四条第一項第九号及び第七十七条において同じ。）が行う療養上の世話及び必要な診療の補助を要することとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -3394,13 +3394,13 @@
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">申請者が、現に他の訪問看護ステーション、病院、診療所又は介護老人保健施設の開設者であるときは、その概要</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">申請者が、現に他の訪問看護ステーション、病院、診療所、介護老人保健施設又は介護医療院の開設者であるときは、その概要</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">申請者が、同時に他の訪問看護ステーション、病院、診療所又は介護老人保健施設を開設しようとするときは、その概要</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">申請者が、同時に他の訪問看護ステーション、病院、診療所、介護老人保健施設又は介護医療院を開設しようとするときは、その概要</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="7">
@@ -3537,7 +3537,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法第九十三条の厚生労働省令で定める事項は、第七十四条第一項第一号、第四号、第五号、第九号及び第十号に掲げる事項とする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法第九十三条の厚生労働省令で定める事項は、第七十四条第一項第一号、第四号、第五号、第九号及び第十号に掲げる事項（同項第九号に掲げる事項については、訪問看護ステーションとなる事業所の管理者の氏名、経歴（看護師等については、免許証の写しを含む。）及び住所に限る。）とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -15618,6 +15618,35 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一〇月二八日厚生労働省令第六五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、医療保険制度の適正かつ効率的な運営を図るための健康保険法等の一部を改正する法律（令和元年法律第九号）附則第一条第四号の政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令による改正前のそれぞれの省令で定める様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後のそれぞれの省令で定める様式によるものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧様式による用紙については、合理的に必要と認められる範囲内で、当分の間、これを取り繕って使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和元年一二月一三日厚生労働省令第八〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -15630,6 +15659,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月五日厚生労働省令第二三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>
@@ -15726,7 +15764,7 @@
       <RelatedArticleNum>（１）（第四十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025428.pdf"/>
+          <Fig src="./pict/2FH00000031131.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15735,7 +15773,7 @@
       <RelatedArticleNum>（２）（第四十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025430.pdf"/>
+          <Fig src="./pict/2FH00000031132.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15744,7 +15782,7 @@
       <RelatedArticleNum>（３）（第四十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025433.pdf"/>
+          <Fig src="./pict/2FH00000031133.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15753,7 +15791,7 @@
       <RelatedArticleNum>（４）（第四十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025435.pdf"/>
+          <Fig src="./pict/2FH00000031134.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15762,7 +15800,7 @@
       <RelatedArticleNum>（１）（第五十二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025439.pdf"/>
+          <Fig src="./pict/2FH00000031135.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15771,7 +15809,7 @@
       <RelatedArticleNum>（２）（第五十二条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025441.pdf"/>
+          <Fig src="./pict/2FH00000031136.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15784,16 +15822,16 @@
       <RelatedArticleNum>（第八十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025446.pdf"/>
+          <Fig src="./pict/2FH00000031138.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle Num="13">
       <AppdxStyleTitle WritingMode="vertical">様式第十三号</AppdxStyleTitle>
-      <RelatedArticleNum>（第九十九条関係）（表面）</RelatedArticleNum>
+      <RelatedArticleNum>（第九十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025448.pdf"/>
+          <Fig src="./pict/2FH00000031139.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15802,7 +15840,7 @@
       <RelatedArticleNum>（第百三条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025451.pdf"/>
+          <Fig src="./pict/2FH00000031140.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -15811,7 +15849,7 @@
       <RelatedArticleNum>（第百五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000025454.pdf"/>
+          <Fig src="./pict/2FH00000031141.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

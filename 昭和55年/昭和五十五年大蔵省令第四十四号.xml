@@ -2569,6 +2569,17 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Delete="false" Hide="false" Num="15">
+        <ArticleCaption>（令和二年七月豪雨に起因して生じた事態に対応するための特例）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和二年七月豪雨に際し災害救助法が適用された同法第二条に規定する市町村の区域に住所若しくは居所又は主たる事務所を有する顧客又は代表者等であつて、第八条に規定する方法による本人確認を行うことが困難であると認められるものに係る法第十八条第一項に規定する財務省令で定める方法は、第八条の規定にかかわらず、同条に規定する方法による本人確認を行うことができるまでの暫定的な措置として、当分の間、当該顧客又は代表者等から申告を受ける方法とすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、銀行等は、当該顧客又は代表者等について、同条に規定する方法による本人確認を行うことができることとなつた後、遅滞なく、同条に規定する方法による本人確認を行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和五五年一一月二八日大蔵省令第四八号" Extract="false">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -3946,6 +3957,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月一〇日財務省令第六一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表（第八条関係）</AppdxTableTitle>
       <Item Delete="false" Hide="false" Num="1">
@@ -4029,7 +4049,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第一</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_001.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4037,7 +4057,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第二</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_002.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4045,7 +4065,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第三</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_003.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4053,7 +4073,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第四</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_004.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4061,7 +4081,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第五</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_005.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4069,7 +4089,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第六</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_006.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4077,7 +4097,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第七</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_007.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4085,7 +4105,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第八</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_008.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4093,7 +4113,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第九</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_009.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4101,7 +4121,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_010.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4109,7 +4129,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十一</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_011.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4117,7 +4137,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十二</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_012.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4125,7 +4145,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十三</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_013.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4133,7 +4153,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十四</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_014.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4141,7 +4161,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十五</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_015.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4149,7 +4169,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十六</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_016.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4157,7 +4177,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十七</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_017.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4165,7 +4185,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十八</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_018.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4173,7 +4193,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第十九</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_019.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4181,7 +4201,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第二十</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_020.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -4189,7 +4209,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第二十一</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S55F03401000044_2008041308_021.pdf"/>
+          <Fig src="./pict/S55F03401000044_2009241009_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
