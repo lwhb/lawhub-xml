@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="150" Year="29">
+<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="150" Year="29">
   <LawNum>昭和二十九年政令第百五十号</LawNum>
   <LawBody>
     <LawTitle>関税法施行令</LawTitle>
@@ -10864,7 +10864,7 @@
         </Article>
       </Chapter>
     </MainProvision>
-    <SupplProvision Extract="true">
+    <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum>１</ParagraphNum>
@@ -10892,6 +10892,18 @@
             <Sentence>関税法、関税定率法及び噸税法の適用上外国とみなされる地域を定める政令（昭和二十七年政令第九十九号）</Sentence>
           </ListSentence>
         </List>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>法附則第七項の規定による書面の提出は、とん税法附則第六項に規定する外国貿易船が同項に規定する国際戦略港湾に入港したときに、法第十五条第三項（入港手続）の入港届の提出に併せて行うものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>法附則第七項に規定する政令で定める事項は、前項に規定する外国貿易船が同項に規定する国際戦略港湾に入港する日前百二十日以内に出港した北アメリカ大陸（メキシコ以南の地域を除く。）又はヨーロッパ大陸（ロシア（ベーリング海、オホーツク海及び日本海を含む太平洋に面する地域を除く。）を含む。）の港（以下この項において「特定港」という。）のうち最後に出港した特定港及び当該特定港を出港してから当該国際戦略港湾に入港するまでの間に寄港した港の港名とし、当該外国貿易船が当該国際戦略港湾に入港する日前百二十日以内に特定港を出港しない場合には、当該国際戦略港湾を出港してから最初に入港しようとする特定港及びその入港前に寄港しようとする港の港名とする。</Sentence>
+        </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和三〇年九月一〇日政令第二三五号" Extract="true">

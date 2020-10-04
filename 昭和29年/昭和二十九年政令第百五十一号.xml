@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="151" Year="29">
+<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="151" Year="29">
   <LawNum>昭和二十九年政令第百五十一号</LawNum>
   <LawBody>
     <LawTitle>警察法施行令</LawTitle>
@@ -1228,7 +1228,7 @@
       <Paragraph Num="25">
         <ParagraphNum>２５</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>成田国際空港警備隊が設置されている間における千葉県警察の地方警察職員たる警察官の定員の基準は、別表第二千葉県の項及び附則第二十三項の規定にかかわらず、同項に定める人員に成田国際空港警備隊の警察官千人を加えた人員とする。</Sentence>
+          <Sentence>成田国際空港警備隊が設置されている間における千葉県警察の地方警察職員たる警察官の定員の基準は、別表第二千葉県の項及び附則第二十三項の規定にかかわらず、同項に定める人員に成田国際空港警備隊の警察官七百五十人を加えた人員とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="26">
@@ -1240,7 +1240,7 @@
       <Paragraph Num="27">
         <ParagraphNum>２７</ParagraphNum>
         <ParagraphSentence>
-          <Sentence>成田国際空港警備隊が設置されている間における千葉県警察の地方警察職員たる警察官の階級別定員の基準は、別表第三第二号の規定にかかわらず、附則第二十三項に定める人員に同号の表埼玉県、千葉県、神奈川県、愛知県、兵庫県及び福岡県の項の階級別欄に掲げる割合を乗じて得た人員に、警視については十三人、警部については三十人、警部補（巡査部長を含む。）については五百七十四人をそれぞれ加えた人員とする。</Sentence>
+          <Sentence>成田国際空港警備隊が設置されている間における千葉県警察の地方警察職員たる警察官の階級別定員の基準は、別表第三第二号の規定にかかわらず、附則第二十三項に定める人員に同号の表埼玉県、千葉県、神奈川県、愛知県、兵庫県及び福岡県の項の階級別欄に掲げる割合を乗じて得た人員に、警視については十三人、警部については二十四人、警部補（巡査部長を含む。）については五百二十二人をそれぞれ加えた人員とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="28">
@@ -2924,12 +2924,13 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年三月三〇日政令第八五号" Extract="true">
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第八五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence Num="1">この政令は、令和二年四月一日から施行する。</Sentence>
+          <Sentence Function="main" Num="1">この政令は、令和二年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2">ただし、附則第二十五項及び第二十七項の改正規定は、同年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -2946,13 +2947,16 @@
               <Sentence/>
               <Sentence>部の名称及び所掌事務</Sentence>
               <Sentence/>
+              <Sentence/>
               <Sentence>一</Sentence>
               <Sentence/>
               <Sentence>警務部</Sentence>
               <Sentence/>
+              <Sentence/>
               <Sentence>イ</Sentence>
               <Sentence/>
               <Sentence>都道府県公安委員会の庶務に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ロ</Sentence>
@@ -2960,9 +2964,11 @@
               <Sentence>機密に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ハ</Sentence>
               <Sentence/>
               <Sentence>公印の管守に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ニ</Sentence>
@@ -2970,9 +2976,11 @@
               <Sentence>公文書類の接受、発送、編集及び保存に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ホ</Sentence>
               <Sentence/>
               <Sentence>事務能率の増進に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ヘ</Sentence>
@@ -2980,9 +2988,11 @@
               <Sentence>警察統計（犯罪統計を除く。）に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ト</Sentence>
               <Sentence/>
               <Sentence>広報に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>チ</Sentence>
@@ -2990,9 +3000,11 @@
               <Sentence>情報の公開に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>リ</Sentence>
               <Sentence/>
               <Sentence>個人情報の保護に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ヌ</Sentence>
@@ -3000,9 +3012,11 @@
               <Sentence>留置施設に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ル</Sentence>
               <Sentence/>
               <Sentence>被疑者の取調べの適正を確保するための監督の措置に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ヲ</Sentence>
@@ -3010,9 +3024,11 @@
               <Sentence>人事、定員及び給与に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ワ</Sentence>
               <Sentence/>
               <Sentence>監察に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>カ</Sentence>
@@ -3020,9 +3036,11 @@
               <Sentence>予算、決算及び会計に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ヨ</Sentence>
               <Sentence/>
               <Sentence>財産及び物品の管理及び処分に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>タ</Sentence>
@@ -3030,9 +3048,11 @@
               <Sentence>会計の監査に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>レ</Sentence>
               <Sentence/>
               <Sentence>警察教養に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ソ</Sentence>
@@ -3040,9 +3060,11 @@
               <Sentence>福利厚生に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ツ</Sentence>
               <Sentence/>
               <Sentence>警察官の職務に協力援助した者の災害給付に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ネ</Sentence>
@@ -3050,9 +3072,11 @@
               <Sentence>犯罪被害者等給付金に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ナ</Sentence>
               <Sentence/>
               <Sentence>オウム真理教犯罪被害者等を救済するための給付金の支給に関する法律第三条第一項に規定する給付金に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ラ</Sentence>
@@ -3060,18 +3084,23 @@
               <Sentence>国外犯罪被害弔慰金等の支給に関する法律第三条に規定する国外犯罪被害弔慰金等に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ム</Sentence>
               <Sentence/>
               <Sentence>警察装備に関すること。</Sentence>
+              <Sentence/>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>二</Sentence>
               <Sentence/>
               <Sentence>生活安全部</Sentence>
               <Sentence/>
+              <Sentence/>
               <Sentence>イ</Sentence>
               <Sentence/>
               <Sentence>犯罪、事故その他の事案に係る市民生活の安全と平穏に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ロ</Sentence>
@@ -3079,9 +3108,11 @@
               <Sentence>地域警察に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ハ</Sentence>
               <Sentence/>
               <Sentence>ロに掲げるもののほか、警らに関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ニ</Sentence>
@@ -3089,9 +3120,11 @@
               <Sentence>犯罪の予防に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ホ</Sentence>
               <Sentence/>
               <Sentence>少年非行の防止に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ヘ</Sentence>
@@ -3099,13 +3132,17 @@
               <Sentence>保安警察に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
+              <Sentence/>
               <Sentence>三</Sentence>
               <Sentence/>
               <Sentence>刑事部</Sentence>
               <Sentence/>
+              <Sentence/>
               <Sentence>イ</Sentence>
               <Sentence/>
               <Sentence>刑事警察に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ロ</Sentence>
@@ -3113,9 +3150,11 @@
               <Sentence>犯罪鑑識に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ハ</Sentence>
               <Sentence/>
               <Sentence>犯罪統計に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ニ</Sentence>
@@ -3123,9 +3162,11 @@
               <Sentence>暴力団対策に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ホ</Sentence>
               <Sentence/>
               <Sentence>薬物及び銃器に関する犯罪の取締りに関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ヘ</Sentence>
@@ -3133,9 +3174,11 @@
               <Sentence>組織犯罪の取締りに関すること（他部の所掌に属するものを除く。）。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ト</Sentence>
               <Sentence/>
               <Sentence>犯罪による収益の移転防止に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>チ</Sentence>
@@ -3143,22 +3186,29 @@
               <Sentence>国際捜査共助に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
+              <Sentence/>
               <Sentence>四</Sentence>
               <Sentence/>
               <Sentence>交通部</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence>イ</Sentence>
               <Sentence/>
               <Sentence>交通警察に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
+              <Sentence/>
               <Sentence>五</Sentence>
               <Sentence/>
               <Sentence>警備部</Sentence>
               <Sentence/>
+              <Sentence/>
               <Sentence>イ</Sentence>
               <Sentence/>
               <Sentence>警備警察に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ロ</Sentence>
@@ -3166,9 +3216,11 @@
               <Sentence>警衛に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ハ</Sentence>
               <Sentence/>
               <Sentence>警護に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ニ</Sentence>
@@ -3176,14 +3228,17 @@
               <Sentence>警備実施に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ホ</Sentence>
               <Sentence/>
               <Sentence>災害警備に関すること。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>ヘ</Sentence>
               <Sentence/>
               <Sentence>機動隊に関すること。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>ト</Sentence>
@@ -3192,14 +3247,18 @@
               <Sentence/>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
+              <Sentence/>
               <Sentence>第二</Sentence>
               <Sentence/>
               <Sentence>警視庁に、警視総監を助け、庁務を整理する職として副総監一人を、大阪府警察本部に、大阪府警察本部長を助け、大阪府警察本部の事務を整理する職として副本部長一人を置くものとする。</Sentence>
               <Sentence/>
               <Sentence/>
+              <Sentence/>
               <Sentence>第三</Sentence>
               <Sentence/>
               <Sentence>人口、犯罪発生状況その他の事情により必要があるときは、第一の基準にかかわらず、第一各号に掲げる部のほか、警務部の所掌事務の一部を所掌する総務部、地域警察その他の警らに関することを所掌する地域部、警備警察に関することを所掌する公安部その他第一各号の部の所掌事務の一部を所掌する部を置き、又は部の名称若しくは所掌事務を変更することができる。</Sentence>
+              <Sentence/>
               <Sentence/>
               <Sentence/>
               <Sentence>第四</Sentence>
