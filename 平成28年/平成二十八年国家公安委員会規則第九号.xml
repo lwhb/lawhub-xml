@@ -61,7 +61,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第九条第二項第一号又は第二号に掲げる小型無人機等の飛行を行おうとする者（以下「操縦者」という。）のうち対象施設の管理者又は土地の所有者若しくは占有者（以下「施設管理者等」という。）が行う同条第三項本文の規定による通報は、小型無人機等の飛行を開始する時間の四十八時間前までに、次の各号に掲げる事項を記載した別記様式第一号の通報書を、当該小型無人機等の飛行に係る対象施設周辺地域を管轄する警察署長（当該対象施設周辺地域が同一の都道府県公安委員会の管理に属する二以上の警察署長の管轄にわたるときは、そのいずれかの所轄警察署長。以下「所轄警察署長」という。）を経由して、当該対象施設周辺地域を管轄する都道府県公安委員会（当該対象施設周辺地域が法第二条第一項第一号ホに掲げる対象施設に係るものである場合には、東京都公安委員会及び皇宮警察本部長。以下「公安委員会等」という。）に提出して行うものとする。</Sentence>
+            <Sentence WritingMode="vertical">法第十条第二項第一号又は第二号に掲げる小型無人機等の飛行を行おうとする者（以下「操縦者」という。）のうち対象施設の管理者又は土地の所有者若しくは占有者（以下「施設管理者等」という。）が行う同条第三項本文の規定による通報は、小型無人機等の飛行を開始する時間の四十八時間前までに、次の各号に掲げる事項を記載した別記様式第一号の通報書を、当該小型無人機等の飛行に係る対象施設周辺地域を管轄する警察署長（当該対象施設周辺地域が同一の都道府県公安委員会の管理に属する二以上の警察署長の管轄にわたるときは、そのいずれかの所轄警察署長。以下「所轄警察署長」という。）を経由して、当該対象施設周辺地域を管轄する都道府県公安委員会（当該対象施設周辺地域が法第二条第一項第一号ホに掲げる対象施設に係るものである場合には、東京都公安委員会及び皇宮警察本部長。以下「公安委員会等」という。）に提出して行うものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -103,7 +103,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の規定は、操縦者のうち施設管理者等以外の者が行う法第九条第三項本文の規定による通報について準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定は、操縦者のうち施設管理者等以外の者が行う法第十条第三項本文の規定による通報について準用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、前項中「通報は」とあるのは「通報は、施設管理者等の同意を得た上で」と、「事項」とあるのは「事項並びに小型無人機等の飛行について同意をした施設管理者等の氏名、住所及び電話番号」と、「通報書」とあるのは「通報書及び小型無人機等の飛行について同意をした施設管理者等の同意を証明する書面の写し」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -114,7 +114,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第九条第二項第三号に掲げる小型無人機等の飛行を行おうとする者（以下「公務操縦者」という。）が行う同条第三項本文の規定による通報は、小型無人機等の飛行を開始する時間の四十八時間前までに、次の各号に掲げる書類を、所轄警察署長を経由して、公安委員会等に提出して行うものとする。</Sentence>
+            <Sentence WritingMode="vertical">法第十条第二項第三号に掲げる小型無人機等の飛行を行おうとする者（以下「公務操縦者」という。）が行う同条第三項本文の規定による通報は、小型無人機等の飛行を開始する時間の四十八時間前までに、次の各号に掲げる書類を、所轄警察署長を経由して、公安委員会等に提出して行うものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -165,7 +165,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第九条第三項本文の規定による通報は、前三条の規定にかかわらず、災害その他緊急やむを得ない場合においては、小型無人機等の飛行を開始する時間の直前までに、次の各号に掲げる者ごとに当該各号に定める事項を所轄警察署長に対して口頭で行うことで足りる。</Sentence>
+            <Sentence WritingMode="vertical">法第十条第三項本文の規定による通報は、前三条の規定にかかわらず、災害その他緊急やむを得ない場合においては、小型無人機等の飛行を開始する時間の直前までに、次の各号に掲げる者ごとに当該各号に定める事項を所轄警察署長に対して口頭で行うことで足りる。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -247,12 +247,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月三日国家公安委員会規則第九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、無人航空機等の飛行による危害の発生を防止するための航空法及び重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律の一部を改正する法律附則第一条第一号に掲げる規定の施行の日（令和二年七月十四日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別記様式第一号</AppdxStyleTitle>
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H28F30301000009_2001141101_001.pdf"/>
+          <Fig src="./pict/H28F30301000009_2009300909_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -261,7 +270,7 @@
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H28F30301000009_2001141101_002.pdf"/>
+          <Fig src="./pict/H28F30301000009_2009300909_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="130" Year="32">
+<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="130" Year="32">
   <LawNum>昭和三十二年政令第百三十号</LawNum>
   <LawBody>
     <LawTitle>国土調査法による不動産登記に関する政令</LawTitle>
@@ -11,14 +11,14 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">登記官は、国土調査法第二十条第一項の規定により地籍簿の送付を受けた場合において、次の各号に掲げるときは、地籍簿に基づいて、職権で、当該各号に定める登記をしなければならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、地籍簿に記載されている事項が地籍調査の実施後に変更したと認められるときは、当該事項については、この限りでない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">登記官は、国土調査法第二十条第一項の規定により国土調査の成果の写しの送付を受けた場合において、次の各号に掲げるときは、当該国土調査の成果のうち簿冊の写し（以下この項において「地籍簿の写し」という。）に基づいて、職権で、当該各号に定める登記をしなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、地籍簿の写しに記載されている事項について、地籍調査の実施後に変更があったと認められるときは、当該事項については、この限りでない。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">地籍簿に記載された土地が表題登記がないものであるとき</Sentence>
+                <Sentence WritingMode="vertical">地籍簿の写しに記載された土地が表題登記がないものであるとき</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">当該土地の表題登記</Sentence>
@@ -29,7 +29,7 @@
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">土地の表題部の登記事項が地籍簿の記載と一致しないとき</Sentence>
+                <Sentence WritingMode="vertical">土地の表題部の登記事項が地籍簿の写しの記載と一致しないとき</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">当該登記事項に関する変更の登記又は更正の登記</Sentence>
@@ -40,7 +40,7 @@
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">所有権の登記名義人の氏名若しくは名称又は住所が地籍簿の記載と一致しないとき</Sentence>
+                <Sentence WritingMode="vertical">所有権の登記名義人の氏名若しくは名称又は住所が地籍簿の写しの記載と一致しないとき</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
                 <Sentence WritingMode="vertical">当該登記名義人の氏名若しくは名称又は住所についての変更の登記又は更正の登記</Sentence>
@@ -55,9 +55,26 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="2">
-        <ArticleCaption>（代位登記の登記識別情報）</ArticleCaption>
+      <Article Num="2">
+        <ArticleCaption>（街区境界調査成果に基づく登記）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">登記官は、国土調査法第二十一条の二第七項の規定により街区境界調査成果の写しの送付を受けた場合において、表題部所有者又は所有権の登記名義人の氏名若しくは名称又は住所が当該街区境界調査成果のうち簿冊の写し（以下この項において「街区境界調査簿の写し」という。）の記載と一致しないときは、街区境界調査簿の写しに基づいて、職権で、当該表題部所有者又は登記名義人の氏名若しくは名称又は住所についての変更の登記又は更正の登記をしなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、街区境界調査簿の写しに記載されている事項について、同条第一項の規定による所有者及び地番の調査の実施後に変更があったと認められるときは、当該事項については、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>登記官は、前項の登記をしたときは、街区境界調査成果により登記した旨を記録しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（代位登記の登記識別情報）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -77,13 +94,13 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="3">
+      <Article Delete="false" Hide="false" Num="4">
         <ArticleCaption>（不動産登記法等の適用）</ArticleCaption>
-        <ArticleTitle>第三条</ArticleTitle>
+        <ArticleTitle>第四条</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前二条に定めるもののほか、国土調査法第二十条第二項又は第三十二条の二第一項の規定による登記の手続に関し必要な事項は、不動産登記法（平成十六年法律第百二十三号）及び不動産登記令（平成十六年政令第三百七十九号）の定めるところによる。</Sentence>
+            <Sentence WritingMode="vertical">前三条に定めるもののほか、国土調査法第二十条第二項、第二十一条の二第八項又は第三十二条の二第一項の規定による登記の手続に関し必要な事項は、不動産登記法（平成十六年法律第百二十三号）及び不動産登記令（平成十六年政令第三百七十九号）の定めるところによる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -137,6 +154,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日政令第一八三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、土地基本法等の一部を改正する法律附則第一項第三号に掲げる規定の施行の日（令和二年九月二十九日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>

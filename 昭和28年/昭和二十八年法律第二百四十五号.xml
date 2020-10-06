@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="190623e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="245" Year="28">
+<Law DataInfo="200911e82k10m02" Era="Showa" Lang="ja" LawType="Act" Num="245" Year="28">
   <LawNum>昭和二十八年法律第二百四十五号</LawNum>
   <LawBody>
     <LawTitle>私立学校教職員共済法</LawTitle>
@@ -44,15 +44,15 @@
       </TOCChapter>
       <TOCChapter Num="8">
         <ChapterTitle>第八章　高齢の教職員等に係る特例</ChapterTitle>
-        <ArticleRange>（第三十九条―第四十五条）</ArticleRange>
+        <ArticleRange>（第三十九条―第四十四条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="9">
         <ChapterTitle>第九章　雑則</ChapterTitle>
-        <ArticleRange>（第四十六条―第四十九条）</ArticleRange>
+        <ArticleRange>（第四十五条―第四十九条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="10">
         <ChapterTitle>第十章　罰則</ChapterTitle>
-        <ArticleRange>（第五十条―第五十二条）</ArticleRange>
+        <ArticleRange>（第五十条―第五十五条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -2914,18 +2914,73 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+      </Chapter>
+      <Chapter Num="9">
+        <ChapterTitle>第九章　雑則</ChapterTitle>
         <Article Num="45">
+          <ArticleCaption>（加入者等記号・番号等の利用制限等）</ArticleCaption>
           <ArticleTitle>第四十五条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>削除</Sentence>
+              <Sentence>文部科学大臣、事業団、保険医療機関等（第二十五条において準用する国家公務員共済組合法第五十五条第一項に規定する保険医療機関等をいう。第四十七条の四において同じ。）、指定訪問看護事業者（第二十五条において準用する同法第五十六条の二第一項に規定する指定訪問看護事業者をいう。次条第二項及び第三項において同じ。）その他の短期給付及び退職等年金給付の事業並びに福祉事業又はこれらの事業に関連する事務の遂行のため加入者等記号・番号等（保険者番号（文部科学大臣が健康保険法第三条第十一項に規定する保険者番号に準じて定めるものをいう。）及び加入者等記号・番号（事業団が加入者又は被扶養者の資格を管理するための記号、番号その他の符号として、加入者又は被扶養者ごとに定めるものをいう。）をいう。以下この条において同じ。）を利用する者として文部科学省令で定める者（以下この条において「文部科学大臣等」という。）は、これらの事業又は事務の遂行のため必要がある場合を除き、何人に対しても、その者又はその者以外の者に係る加入者等記号・番号等を告知することを求めてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>文部科学大臣等以外の者は、短期給付及び退職等年金給付の事業並びに福祉事業又はこれらの事業に関連する事務の遂行のため加入者等記号・番号等の利用が特に必要な場合として文部科学省令で定める場合を除き、何人に対しても、その者又はその者以外の者に係る加入者等記号・番号等を告知することを求めてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>何人も、次に掲げる場合を除き、その者が業として行う行為に関し、その者に対し売買、貸借、雇用その他の契約（以下この項において「契約」という。）の申込みをしようとする者若しくは申込みをする者又はその者と契約の締結をした者に対し、当該者又は当該者以外の者に係る加入者等記号・番号等を告知することを求めてはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>文部科学大臣等が、第一項に規定する場合に、加入者等記号・番号等を告知することを求めるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>文部科学大臣等以外の者が、前項に規定する文部科学省令で定める場合に、加入者等記号・番号等を告知することを求めるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>何人も、次に掲げる場合を除き、業として、加入者等記号・番号等の記録されたデータベース（その者以外の者に係る加入者等記号・番号等を含む情報の集合物であつて、それらの情報を電子計算機を用いて検索することができるように体系的に構成したものをいう。）であつて、当該データベースに記録された情報が他に提供されることが予定されているもの（以下この項において「提供データベース」という。）を構成してはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>文部科学大臣等が、第一項に規定する場合に、提供データベースを構成するとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>文部科学大臣等以外の者が、第二項に規定する文部科学省令で定める場合に、提供データベースを構成するとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>文部科学大臣は、前二項の規定に違反する行為が行われた場合において、当該行為をした者が更に反復してこれらの規定に違反する行為をするおそれがあると認めるときは、当該行為をした者に対し、当該行為を中止することを勧告し、又は当該行為が中止されることを確保するために必要な措置を講ずることを勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>文部科学大臣は、前項の規定による勧告を受けた者がその勧告に従わないときは、その者に対し、期限を定めて、当該勧告に従うべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-      </Chapter>
-      <Chapter Num="9">
-        <ChapterTitle>第九章　雑則</ChapterTitle>
         <Article Num="46">
           <ArticleCaption>（報告の請求及び検査）</ArticleCaption>
           <ArticleTitle>第四十六条</ArticleTitle>
@@ -2938,13 +2993,31 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>文部科学大臣は、事業団の訪問看護療養費及び家族訪問看護療養費に関する短期給付についての費用の支払の適正化を図るため必要があると認めるときは、指定訪問看護事業者（第二十五条において準用する国家公務員共済組合法第五十六条の二第一項に規定する指定訪問看護事業者をいう。以下この条において同じ。）若しくは指定訪問看護事業者であつた者若しくは当該指定に係る訪問看護事業所（第二十五条において準用する国家公務員共済組合法第五十八条第二項に規定する訪問看護事業所をいう。以下この項において同じ。）の看護師その他の従業者であつた者に対し、その行つた訪問看護療養費若しくは家族訪問看護療養費の支給に関して必要な報告を求め、又は当該職員をして当該指定訪問看護事業者の当該指定に係る訪問看護事業所について、当該指定訪問看護事業者の同意を得て、実地に帳簿書類その他の物件を検査させることができる。</Sentence>
+              <Sentence>文部科学大臣は、事業団の訪問看護療養費及び家族訪問看護療養費に関する短期給付についての費用の支払の適正化を図るため必要があると認めるときは、指定訪問看護事業者若しくは指定訪問看護事業者であつた者若しくは当該指定に係る訪問看護事業所（第二十五条において準用する国家公務員共済組合法第五十八条第二項に規定する訪問看護事業所をいう。以下この項において同じ。）の看護師その他の従業者であつた者に対し、その行つた訪問看護療養費若しくは家族訪問看護療養費の支給に関して必要な報告を求め、又は当該職員をして当該指定訪問看護事業者の当該指定に係る訪問看護事業所について、当該指定訪問看護事業者の同意を得て、実地に帳簿書類その他の物件を検査させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence>保険医療機関若しくは保険薬局若しくはその管理者又は指定訪問看護事業者が、正当な理由がなく、前二項の報告の求めに応ぜず、若しくは虚偽の報告をし、又はこれらの規定の同意を拒んだときは、文部科学大臣は、事業団に対して当該保険医療機関、保険薬局又は指定訪問看護事業者に対する費用の支払を一時差し止めるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>文部科学大臣は、前条第五項及び第六項の規定による措置に関し必要があると認めるときは、その必要と認められる範囲内において、同条第三項若しくは第四項の規定に違反していると認めるに足りる相当の理由がある者に対し、必要な事項に関し報告を求め、又は当該職員をして当該者の事務所若しくは事業所に立ち入つて質問し、若しくは帳簿書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>当該職員は、前項の規定により質問又は検査をする場合には、その身分を示す証票を携帯し、関係人にこれを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第四項の質問又は検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2997,7 +3070,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>第二十条第一項に規定する短期給付の支給その他の文部科学省令で定める事務に係る加入者等に係る情報の利用又は提供に関する事務</Sentence>
+                <Sentence>第二十条第一項に規定する短期給付の支給、第二十六条第一項及び第二項に規定する福祉事業の実施その他の文部科学省令で定める事務に係る加入者等に係る情報の利用又は提供に関する事務</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -3009,8 +3082,18 @@
           </Paragraph>
         </Article>
         <Article Num="47_4">
-          <ArticleCaption>（秘密保持義務）</ArticleCaption>
+          <ArticleCaption>（関係者の連携及び協力）</ArticleCaption>
           <ArticleTitle>第四十七条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国、事業団及び保険医療機関等その他の関係者は、電子資格確認（第二十五条において準用する国家公務員共済組合法第五十五条第一項に規定する電子資格確認をいう。）の仕組みの導入その他手続における情報通信の技術の利用の推進により、医療保険各法等（高齢者の医療の確保に関する法律第七条第一項に規定する医療保険各法及び高齢者の医療の確保に関する法律をいう。）の規定により行われる事務が円滑に実施されるよう、相互に連携を図りながら協力するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="47_5">
+          <ArticleCaption>（秘密保持義務）</ArticleCaption>
+          <ArticleTitle>第四十七条の五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -3075,7 +3158,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>第四十七条の規定による報告、申出若しくは届出をせず、虚偽の報告、申出若しくは届出をし、又は文書の提示若しくは提出を怠つた者は、十万円以下の過料に処する。</Sentence>
+              <Sentence>第四十五条第六項の規定による命令に違反した者は、一年以下の懲役又は五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3084,7 +3167,40 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>第四十七条の四の規定に違反して秘密を漏らし、又は盗用した者は、一年以下の懲役又は百万円以下の罰金に処する。</Sentence>
+              <Sentence>正当な理由がなく、第四十六条第四項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による当該職員の質問に対して、答弁をせず、若しくは虚偽の答弁をし、若しくは同項の規定による検査を拒み、妨げ、若しくは忌避した者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="53">
+          <ArticleTitle>第五十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法人（法人でない社団又は財団で代表者又は管理人の定めがあるもの（以下この条において「人格のない社団等」という。）を含む。以下この項において同じ。）の代表者（人格のない社団等の管理人を含む。）又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、前二条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>人格のない社団等について前項の規定の適用がある場合には、その代表者又は管理人がその訴訟行為につき当該人格のない社団等を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="54">
+          <ArticleTitle>第五十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第四十七条の規定による報告、申出若しくは届出をせず、虚偽の報告、申出若しくは届出をし、又は文書の提示若しくは提出を怠つた者は、十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="55">
+          <ArticleTitle>第五十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第四十七条の五の規定に違反して秘密を漏らし、又は盗用した者は、一年以下の懲役又は百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -9114,6 +9230,16 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にした行為及び附則第四条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="16">
