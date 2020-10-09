@@ -2220,6 +2220,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一〇月一日人事院規則九―一七―一六三" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
@@ -9516,17 +9525,6 @@
             <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                 <Sentence WritingMode="vertical">気象測器検定試験センター</Sentence>
-              </TableColumn>
-              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                <Sentence WritingMode="vertical">所長</Sentence>
-              </TableColumn>
-              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                <Sentence WritingMode="vertical">四種</Sentence>
-              </TableColumn>
-            </TableRow>
-            <TableRow>
-              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                <Sentence WritingMode="vertical">大気環境観測所</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                 <Sentence WritingMode="vertical">所長</Sentence>

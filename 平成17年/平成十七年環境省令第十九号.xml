@@ -710,7 +710,7 @@
           <Item Delete="false" Hide="false" Num="26">
             <ItemTitle>二十六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">中小企業等経営強化法（平成十一年法律第十八号）に基づく経営革新計画、異分野連携新事業分野開拓計画、経営力向上計画及び社外高度人材活用新事業分野開拓計画に関すること（廃棄物処理業に係るものに限る）。</Sentence>
+              <Sentence WritingMode="vertical">中小企業等経営強化法（平成十一年法律第十八号）に基づく経営革新計画、経営力向上計画及び社外高度人材活用新事業分野開拓計画に関すること（廃棄物処理業に係るものに限る。）。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="27">
@@ -2413,102 +2413,102 @@
             <Sentence WritingMode="vertical">次の表の上欄に掲げる事務に関しては、環境省組織令（平成十二年政令第二百五十六号）第四十九条第一項の規定にかかわらず、同表の中欄に掲げる地方環境事務所（当該地方環境事務所に、支所を置く場合は、地方環境事務所及び支所）が、同表の下欄に掲げるそれぞれの区域を管轄するものとする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
-            <Table>
+            <Table WritingMode="vertical">
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>事務</Sentence>
+                  <Sentence WritingMode="vertical">事務</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>地方環境事務所</Sentence>
+                  <Sentence WritingMode="vertical">地方環境事務所</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>区域</Sentence>
+                  <Sentence WritingMode="vertical">区域</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>第八条第十三号及び第十四号、第九条第一号から第十二号まで及び第二十号から第三十六号まで、第十条第一号から第二十二号まで、第十二条第一号から第五号まで、第七号及び第十八号から第二十一号まで、第十三条第一号から第十二号まで、第二十一号、第二十二号及び第二十八号から第四十号まで並びに第十四条第一号、第二号、第四号、第八号、第九号及び第十一号から第十三号までに掲げる事務（第十二条第十八号、第十九号及び第二十一号並びに第十四条第八号については国立公園に係るものを、第十三条第三十九号及び第四十号並びに第十四条第十二号については国指定鳥獣保護区に係るものを、第十四条第十三号については国立公園及び国指定鳥獣保護区に係るものを除く。）</Sentence>
+                  <Sentence WritingMode="vertical">第八条第十三号及び第十四号、第九条第一号から第十二号まで及び第二十号から第三十六号まで、第十条第一号から第二十二号まで、第十二条第一号から第五号まで、第七号及び第十八号から第二十一号まで、第十三条第一号から第十二号まで、第二十一号、第二十二号及び第二十八号から第四十号まで並びに第十四条第一号、第二号、第四号、第八号、第九号及び第十一号から第十三号までに掲げる事務（第十二条第十八号、第十九号及び第二十一号並びに第十四条第八号については国立公園に係るものを、第十三条第三十九号及び第四十号並びに第十四条第十二号については国指定鳥獣保護区に係るものを、第十四条第十三号については国立公園及び国指定鳥獣保護区に係るものを除く。）</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>東北地方環境事務所</Sentence>
+                  <Sentence WritingMode="vertical">東北地方環境事務所</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>福島県内の区域</Sentence>
+                  <Sentence WritingMode="vertical">福島県内の区域</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="4">
-                  <Sentence>第十二条第八号から第十九号まで及び第二十一号並びに第十四条第五号から第八号まで及び第十三号に掲げる事務（第十二条第十八号、第十九号及び第二十一号並びに第十四条第八号及び第十三号については、国立公園に係るものに限る。）</Sentence>
+                  <Sentence WritingMode="vertical">第十二条第八号から第十九号まで及び第二十一号並びに第十四条第五号から第八号まで及び第十三号に掲げる事務（第十二条第十八号、第十九号及び第二十一号並びに第十四条第八号及び第十三号については、国立公園に係るものに限る。）</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>東北地方環境事務所</Sentence>
+                  <Sentence WritingMode="vertical">東北地方環境事務所</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>磐梯朝日国立公園のうち、新潟県内の区域</Sentence>
-                  <Sentence>福島県内の区域（日光国立公園及び尾瀬国立公園に係る区域を除く。）</Sentence>
+                  <Sentence WritingMode="vertical">磐梯朝日国立公園のうち、新潟県内の区域</Sentence>
+                  <Sentence WritingMode="vertical">福島県内の区域（日光国立公園及び尾瀬国立公園に係る区域を除く。）</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>関東地方環境事務所</Sentence>
+                  <Sentence WritingMode="vertical">関東地方環境事務所</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>日光国立公園及び尾瀬国立公園のうち、福島県内の区域並びに秩父多摩甲斐国立公園及び南アルプス国立公園のうち、長野県内の区域</Sentence>
+                  <Sentence WritingMode="vertical">日光国立公園及び尾瀬国立公園のうち、福島県内の区域並びに秩父多摩甲斐国立公園及び南アルプス国立公園のうち、長野県内の区域</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>中部地方環境事務所</Sentence>
+                  <Sentence WritingMode="vertical">中部地方環境事務所</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>上信越高原国立公園のうち、群馬県内の区域並びに上信越高原国立公園、中部山岳国立公園及び妙高戸隠連山国立公園のうち、新潟県内の区域</Sentence>
+                  <Sentence WritingMode="vertical">上信越高原国立公園のうち、群馬県内の区域並びに上信越高原国立公園、中部山岳国立公園及び妙高戸隠連山国立公園のうち、新潟県内の区域</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>近畿地方環境事務所</Sentence>
+                  <Sentence WritingMode="vertical">近畿地方環境事務所</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>吉野熊野国立公園のうち、三重県内の区域及び山陰海岸国立公園のうち、鳥取県内の区域</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="3">
-                  <Sentence>第十三条第十三号から第二十号まで、第二十三号から第二十七号まで、第三十九号及び第四十号並びに第十四条第十号、第十二号及び第十三号に掲げる事務（第十三条第三十九号及び第四十号並びに第十四条第十二号及び第十三号については、国指定鳥獣保護区に係るものに限る。）</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>東北地方環境事務所</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>国指定大鳥朝日鳥獣保護区のうち、新潟県内の区域</Sentence>
-                  <Sentence>福島県内の区域</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>中部地方環境事務所</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>国指定浅間鳥獣保護区のうち、群馬県内の区域</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>近畿地方環境事務所</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>国指定大台山系鳥獣保護区のうち、三重県内の区域</Sentence>
+                  <Sentence WritingMode="vertical">吉野熊野国立公園のうち、三重県内の区域及び山陰海岸国立公園のうち、鳥取県内の区域</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="3">
-                  <Sentence>第四十二条第七号に掲げる事務</Sentence>
+                  <Sentence WritingMode="vertical">第十三条第十三号から第二十号まで、第二十三号から第二十七号まで、第三十九号及び第四十号並びに第十四条第十号、第十二号及び第十三号に掲げる事務（第十三条第三十九号及び第四十号並びに第十四条第十二号及び第十三号については、国指定鳥獣保護区に係るものに限る。）</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>福島地方環境事務所及び県北支所</Sentence>
+                  <Sentence WritingMode="vertical">東北地方環境事務所</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence>岩手県及び宮城県内の区域</Sentence>
+                  <Sentence WritingMode="vertical">国指定大鳥朝日鳥獣保護区のうち、新潟県内の区域</Sentence>
+                  <Sentence WritingMode="vertical">福島県内の区域</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence WritingMode="vertical">中部地方環境事務所</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence WritingMode="vertical">国指定浅間鳥獣保護区のうち、群馬県内の区域</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence WritingMode="vertical">近畿地方環境事務所</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence WritingMode="vertical">国指定大台山系鳥獣保護区のうち、三重県内の区域</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="3">
+                  <Sentence WritingMode="vertical">第四十二条第七号に掲げる事務</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence WritingMode="vertical">福島地方環境事務所及び県北支所</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                  <Sentence WritingMode="vertical">岩手県及び宮城県内の区域</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -3233,6 +3233,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月三〇日環境省令第二三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、中小企業の事業承継の促進のための中小企業における経営の承継の円滑化に関する法律等の一部を改正する法律の施行の日（令和二年十月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
