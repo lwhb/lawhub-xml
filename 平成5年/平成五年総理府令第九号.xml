@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="9" Year="05">
+<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="9" Year="05">
   <LawNum>平成五年総理府令第九号</LawNum>
   <LawBody>
     <LawTitle>絶滅のおそれのある野生動植物の種の保存に関する法律施行規則</LawTitle>
@@ -5905,12 +5905,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日環境省令第九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03101000009_2004142104_001.pdf"/>
+          <Fig src="./pict/H05F03101000009_2010061110_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5919,7 +5928,7 @@
       <RelatedArticleNum>（第３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03101000009_2004142104_002.pdf"/>
+          <Fig src="./pict/H05F03101000009_2010061110_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5928,7 +5937,7 @@
       <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03101000009_2004142104_003.pdf"/>
+          <Fig src="./pict/H05F03101000009_2010061110_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5937,7 +5946,7 @@
       <RelatedArticleNum>（第１１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03101000009_2004142104_004.pdf"/>
+          <Fig src="./pict/H05F03101000009_2010061110_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5946,7 +5955,7 @@
       <RelatedArticleNum>（第１８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03101000009_2004142104_005.pdf"/>
+          <Fig src="./pict/H05F03101000009_2010061110_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5955,7 +5964,7 @@
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03101000009_2004142104_006.pdf"/>
+          <Fig src="./pict/H05F03101000009_2010061110_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5964,7 +5973,7 @@
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03101000009_2004142104_007.pdf"/>
+          <Fig src="./pict/H05F03101000009_2010061110_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5973,7 +5982,7 @@
       <RelatedArticleNum>（第３５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03101000009_2004142104_008.pdf"/>
+          <Fig src="./pict/H05F03101000009_2010061110_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5982,7 +5991,7 @@
       <RelatedArticleNum>（第４７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03101000009_2004142104_009.pdf"/>
+          <Fig src="./pict/H05F03101000009_2010061110_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -5991,7 +6000,7 @@
       <RelatedArticleNum>（第４８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03101000009_2004142104_010.pdf"/>
+          <Fig src="./pict/H05F03101000009_2010061110_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="52" Year="24">
+<Law DataInfo="190618e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="52" Year="24">
   <LawNum>平成二十四年法律第五十二号</LawNum>
   <LawBody>
     <LawTitle>特定タンカーに係る特定賠償義務履行担保契約等に関する特別措置法</LawTitle>
@@ -10,7 +10,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律は、欧州連合により講じられるイラン・イスラム共和国（次条第五号及び附則第二条において「イラン」という。）を原産地とする原油（以下「イラン産原油」という。）を輸送するタンカーに係る保険契約についての再保険の引受けを禁止する措置により、特定タンカーについて船舶油濁損害賠償保障法（昭和五十年法律第九十五号。以下「油賠法」という。）第十三条第一項に規定する保障契約の締結等が困難となることに対応して、特定タンカー所有者との間で特定賠償義務履行担保契約を締結する者に対し、当該特定賠償義務履行担保契約の義務の履行として支払われる金銭の額に相当する金額の交付金を政府が交付する制度を設ける等の特別の措置について定めるものとする。</Sentence>
+            <Sentence>この法律は、欧州連合により講じられるイラン・イスラム共和国（次条第五号及び附則第二条において「イラン」という。）を原産地とする原油（以下「イラン産原油」という。）を輸送するタンカーに係る保険契約についての再保険の引受けを禁止する措置により、特定タンカーについて船舶油濁等損害賠償保障法（昭和五十年法律第九十五号。以下「油賠法」という。）第十三条第一項に規定する保障契約の締結等が困難となることに対応して、特定タンカー所有者との間で特定賠償義務履行担保契約を締結する者に対し、当該特定賠償義務履行担保契約の義務の履行として支払われる金銭の額に相当する金額の交付金を政府が交付する制度を設ける等の特別の措置について定めるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -29,7 +29,7 @@
                 <Sentence>タンカー</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>油賠法第二条第四号に規定するタンカーをいう。</Sentence>
+                <Sentence>油賠法第二条第九号に規定するタンカーをいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -51,7 +51,7 @@
                 <Sentence>タンカー所有者</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>油賠法第二条第五号に規定するタンカー所有者をいう。</Sentence>
+                <Sentence>油賠法第二条第十一号に規定するタンカー所有者をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -84,7 +84,7 @@
                 <Sentence>タンカー油濁損害</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>油賠法第二条第六号に規定するタンカー油濁損害をいう。</Sentence>
+                <Sentence>油賠法第二条第十四号に規定するタンカー油濁損害をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -140,7 +140,7 @@
                 <Sentence>特定損害保険契約</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>特定タンカーごとに締結される、特定タンカー所有者が特定損害の賠償の責めに任ずる場合又は特定タンカー所有者が特定費用を支払うべき場合においてその賠償の義務の履行又は費用の支払により当該特定タンカー所有者に生ずる損害（以下「特定タンカー所有者損害」という。）を填補する保険契約であって、次に掲げる要件を満たすものをいう。</Sentence>
+                <Sentence>特定タンカーごとに締結される、特定タンカー所有者が特定損害の賠償の責任を負う場合又は特定タンカー所有者が特定費用を支払うべき場合においてその賠償の義務の履行又は費用の支払により当該特定タンカー所有者に生ずる損害（以下「特定タンカー所有者損害」という。）を填補する保険契約であって、次に掲げる要件を満たすものをいう。</Sentence>
               </Column>
             </ItemSentence>
             <Subitem1 Num="1">
@@ -155,6 +155,18 @@
                 <Sentence>二千トンを超えるばら積みの原油の輸送の用に供する特定タンカーについて締結されるものにあっては、油賠法第十四条第一項、第二項及び第四項の規定に適合するものであること。</Sentence>
               </Subitem1Sentence>
             </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>総トン数が千トンを超える特定タンカー（その航行に際し油賠法第二条第七号に規定する燃料油等を用いることを要しないものを除く。）について締結されるものにあっては、油賠法第四十二条第一項、第二項及び第四項の規定に適合するものであること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>総トン数が三百トン以上の特定タンカーについて締結されるものにあっては、油賠法第五十条第一項、第二項及び第四項の規定に適合するものであること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
           </Item>
           <Item Num="11">
             <ItemTitle>十一</ItemTitle>
@@ -163,7 +175,7 @@
                 <Sentence>特定賠償義務履行担保契約</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>特定損害保険契約の保険者（以下「特定保険者」という。）がその被保険者である特定タンカー所有者との間で特定タンカーごとに締結する契約であって、特定タンカー所有者が特定損害の賠償の責めに任ずる場合又は特定タンカー所有者が特定費用を支払うべき場合において特定損害等（当該特定損害保険契約により填補される特定タンカー所有者損害に係るものを除く。）についてその賠償の義務の履行及び費用の支払を担保するもの（次に掲げる要件を満たすものに限る。）をいう。</Sentence>
+                <Sentence>特定損害保険契約の保険者（以下「特定保険者」という。）がその被保険者である特定タンカー所有者との間で特定タンカーごとに締結する契約であって、特定タンカー所有者が特定損害の賠償の責任を負う場合又は特定タンカー所有者が特定費用を支払うべき場合において特定損害等（当該特定損害保険契約により填補される特定タンカー所有者損害に係るものを除く。）についてその賠償の義務の履行及び費用の支払を担保するもの（次に掲げる要件を満たすものに限る。）をいう。</Sentence>
               </Column>
             </ItemSentence>
             <Subitem1 Num="1">
@@ -186,6 +198,18 @@
             </Subitem1>
             <Subitem1 Num="4">
               <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>総トン数が千トンを超える特定タンカー（その航行に際し油賠法第二条第七号に規定する燃料油等を用いることを要しないものを除く。）について締結されるものにあっては、当該特定損害保険契約と併せて油賠法第四十二条の規定に適合するものであること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>総トン数が三百トン以上の特定タンカーについて締結されるものにあっては、当該特定損害保険契約と併せて油賠法第五十条の規定に適合するものであること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
               <Subitem1Sentence>
                 <Sentence>手数料その他これに類する名目で特定タンカー所有者が特定保険者に支払う金銭の額が、当該契約の締結及び履行のために要する費用の額に相当する金額を超えないものであること。</Sentence>
               </Subitem1Sentence>
@@ -533,13 +557,26 @@
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Hide="false" Num="1">
+      <Paragraph Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence Function="main" Num="1">この法律は、民法改正法の施行の日から施行する。</Sentence>
           <Sentence Function="proviso" Num="2">ただし、第百三条の二、第百三条の三、第二百六十七条の二、第二百六十七条の三及び第三百六十二条の規定は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、二千一年の燃料油による汚染損害についての民事責任に関する国際条約及び二千七年の難破物の除去に関するナイロビ国際条約が日本国について効力を生ずる日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

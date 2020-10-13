@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="71" Year="32">
+<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="71" Year="32">
   <LawNum>昭和三十二年総理府令第七十一号</LawNum>
   <LawBody>
     <LawTitle>地籍調査作業規程準則</LawTitle>
@@ -22,7 +22,7 @@
         </TOCSection>
         <TOCSection Delete="false" Num="2">
           <SectionTitle>第二節　現地調査等</SectionTitle>
-          <ArticleRange>（第二十三条―第三十六条）</ArticleRange>
+          <ArticleRange>（第二十三条―第三十六条の二）</ArticleRange>
         </TOCSection>
       </TOCChapter>
       <TOCChapter Delete="false" Num="4">
@@ -51,12 +51,54 @@
           </TOCSubsection>
           <TOCSubsection Delete="false" Num="5">
             <SubsectionTitle>第五款　一筆地測量</SubsectionTitle>
-            <ArticleRange>（第六十八条―第七十五条）</ArticleRange>
+            <ArticleRange>（第六十八条―第七十三条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Delete="false" Num="6">
+            <SubsectionTitle>第六款　地籍図原図の作成</SubsectionTitle>
+            <ArticleRange>（第七十四条・第七十五条）</ArticleRange>
           </TOCSubsection>
         </TOCSection>
         <TOCSection Delete="false" Num="3">
           <SectionTitle>第三節　航測法</SectionTitle>
-          <ArticleRange>（第七十六条―第八十四条）</ArticleRange>
+          <TOCSubsection Delete="false" Num="1">
+            <SubsectionTitle>第一款　総則</SubsectionTitle>
+            <ArticleRange>（第七十六条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Delete="false" Num="2">
+            <SubsectionTitle>第二款　地籍図根三角測量</SubsectionTitle>
+            <ArticleRange>（第七十六条の二）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Delete="false" Num="3">
+            <SubsectionTitle>第三款　航空測量</SubsectionTitle>
+            <TOCDivision Delete="false" Num="1">
+              <DivisionTitle>第一目　総則</DivisionTitle>
+              <ArticleRange>（第七十六条の三―第七十八条）</ArticleRange>
+            </TOCDivision>
+            <TOCDivision Delete="false" Num="2">
+              <DivisionTitle>第二目　空中写真測量</DivisionTitle>
+              <ArticleRange>（第七十九条―第八十一条の二）</ArticleRange>
+            </TOCDivision>
+            <TOCDivision Delete="false" Num="3">
+              <DivisionTitle>第三目　航空レーザ測量</DivisionTitle>
+              <ArticleRange>（第八十一条の三―第八十一条の五）</ArticleRange>
+            </TOCDivision>
+            <TOCDivision Delete="false" Num="4">
+              <DivisionTitle>第四目　既存資料の収集及び解析</DivisionTitle>
+              <ArticleRange>（第八十一条の六―第八十一条の八）</ArticleRange>
+            </TOCDivision>
+            <TOCDivision Delete="false" Num="5">
+              <DivisionTitle>第五目　補備測量</DivisionTitle>
+              <ArticleRange>（第八十二条―第八十三条）</ArticleRange>
+            </TOCDivision>
+            <TOCDivision Delete="false" Num="6">
+              <DivisionTitle>第六目　筆界点の座標値の算出</DivisionTitle>
+              <ArticleRange>（第八十三条の二）</ArticleRange>
+            </TOCDivision>
+          </TOCSubsection>
+          <TOCSubsection Delete="false" Num="4">
+            <SubsectionTitle>第四款　地籍図原図の作成</SubsectionTitle>
+            <ArticleRange>（第八十四条）</ArticleRange>
+          </TOCSubsection>
         </TOCSection>
       </TOCChapter>
       <TOCChapter Delete="false" Num="5">
@@ -64,7 +106,7 @@
         <ArticleRange>（第八十五条―第八十七条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Delete="false" Num="6">
-        <ChapterTitle>第六章　地籍図及び地籍簿の作成</ChapterTitle>
+        <ChapterTitle>第六章　地籍図及び地籍簿並びに街区境界調査図及び街区境界調査簿の作成</ChapterTitle>
         <ArticleRange>（第八十八条―第九十条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
@@ -105,19 +147,19 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">毎筆の土地についてのその所有者、地番、地目及び境界の調査（以下「一筆地調査」という。）</Sentence>
+                <Sentence WritingMode="vertical">毎筆の土地についてのその所有者、地番、地目及び境界の調査</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">一筆地調査に基いて行う毎筆の土地の境界（以下「筆界」という。）の測量（以下「地籍測量」という。）</Sentence>
+                <Sentence WritingMode="vertical">前号の調査に基づいて行う毎筆の土地の境界（以下「筆界」という。）の測量</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">地籍測量に基いて行う毎筆の土地の面積の測定（以下「地積測定」という。）</Sentence>
+                <Sentence WritingMode="vertical">前号の測量に基づいて行う毎筆の土地の面積の測定（以下「地積測定」という。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="4">
@@ -127,6 +169,42 @@
               </ItemSentence>
             </Item>
           </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第二十一条の二第一項の規定に基づく調査及び測量（以下「街区境界調査」という。）の作業は、次の各号に掲げるとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第二十一条の二第一項に規定する一筆又は二筆以上の土地（以下「街区内土地」という。）の所有者及び地番並びに街区内土地と同項に規定する街区外土地との境界（以下「街区境界」という。）の調査</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前号の調査に基づいて行う街区境界の測量</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前号の測量に基づいて行う街区の面積の測定（以下「街区面積測定」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">街区境界調査図及び街区境界調査簿の作成</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第一項第一号及び前項第一号に掲げる作業を一筆地調査と、第一項第二号及び前項第二号に掲げる作業を地籍測量と総称する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="4">
           <ArticleCaption>（計量単位）</ArticleCaption>
@@ -134,7 +212,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">地籍測量及び地積測定における計量単位は、計量法（平成四年法律第五十一号）第八条第一項に規定する法定計量単位（同法附則第三条及び第四条の規定により法定計量単位とみなされる計量単位を含む。）によるものとする。</Sentence>
+              <Sentence WritingMode="vertical">地籍測量及び地積測定（街区境界調査にあつては街区面積測定。以下同じ。）における計量単位は、計量法（平成四年法律第五十一号）第八条第一項に規定する法定計量単位（同法附則第三条及び第四条の規定により法定計量単位とみなされる計量単位を含む。）によるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -154,7 +232,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">地籍調査を行う者は、調査図、地籍調査票、測量記録その他地籍調査に関する記録を保管しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">地籍調査を行う者は、調査図、地籍調査票（街区境界調査にあつては街区境界調査票。以下同じ。）、測量記録その他地籍調査に関する記録を保管しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -289,14 +367,14 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項の単位作業とは、一筆地調査、地籍測量、地積測定並びに地籍図及び地籍簿の作成の各作業をいい、地籍測量は、第四十二条及び第七十六条に定める地籍測量の順序に従つて区分することができる。</Sentence>
+              <Sentence WritingMode="vertical">前項の単位作業とは、一筆地調査、地籍測量、地積測定並びに地籍図又は街区境界調査図及び地籍簿又は街区境界調査簿の作成の各作業をいい、地籍測量は、第四十二条及び第七十六条に定める地籍測量の順序に従つて区分することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項の規定により作業計画を作成するに当たつては、作業の経済的運用、単位作業間の相互の関連及び進度並びに他の単位区域における作業との関連を考慮するものとする。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、地上法による地籍測量における一筆地測量又は航測法による地籍測量における空中写真撮影の時期と現地について行う一筆地調査の時期との間隔をできるだけ少なくするように特に考慮するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、地上法による地籍測量における一筆地測量又は航測法による地籍測量における航空測量の時期と現地について行う一筆地調査の時期との間隔をできるだけ少なくするように特に考慮するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -446,7 +524,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">地籍調査票は、毎筆の土地について、登記簿に基づいて作成するものとする。</Sentence>
+                <Sentence WritingMode="vertical">地籍調査票は、毎筆（街区境界調査にあつては街区境界に接する毎筆）の土地について、登記簿に基づいて作成するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -501,7 +579,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">地籍調査を実施する者は、現地調査又は図面等調査（以下「現地調査等」という。）を実施するために必要があると認めるときは、土地の所有者等の協力を求め、現地調査等に着手する日までに（やむを得ない理由がある場合にあつては、現地調査等時に）、毎筆の土地について、筆界標示杭を設置するものとする。</Sentence>
+                <Sentence WritingMode="vertical">地籍調査を実施する者は、現地調査又は図面等調査（以下「現地調査等」という。）を実施するために必要があると認めるときは、土地の所有者等の協力を求め、現地調査等に着手する日までに（やむを得ない理由がある場合にあつては、現地調査等時に）、筆界（街区境界調査にあつては街区境界に限る。）について、筆界標示杭を設置するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -523,18 +601,19 @@
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の規定による調査を行うに当たつては、関係市町村の関係職員の立会いを求めるとともに境界に接する土地の所有者等を立ち会わせ、それらの者の同意を得て、分岐点、屈曲点その他必要な地点に境界標を設置するものとする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定による調査を行うに当たつては、関係市町村の関係職員及び境界に接する土地の所有者等の立会いを求め、それらの者の同意を得て、分岐点、屈曲点その他必要な地点に境界標を設置するものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、土地の勾配が急であることその他の事情により、当該関係職員及び当該所有者等の立会いを求めることが適当でないと認める場合において、他の方法により当該境界を調査することができるときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の規定による境界標の設置ができないときは、調査図素図の当該部分に「境界未定」と朱書するものとする。</Sentence>
+                <Sentence WritingMode="vertical">第一項の規定による調査を行うことができないときは、調査図素図の当該部分に「境界未定」と朱書するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
         </Section>
-        <Section Num="2">
+        <Section Delete="false" Hide="false" Num="2">
           <SectionTitle>第二節　現地調査等</SectionTitle>
           <Article Delete="false" Hide="false" Num="23">
             <ArticleCaption>（現地調査の実施）</ArticleCaption>
@@ -542,7 +621,8 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">現地調査は、調査図素図に基いて、おおむね土地の配列の順序に従い、毎筆の土地について、その所有者、地番、地目及び筆界の調査を行うものとする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">現地調査は、調査図素図に基づいて、おおむね土地の配列の順序に従い、毎筆の土地について、その所有者、地番、地目及び筆界の調査を行うものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、街区境界調査にあつては、各街区について、街区内土地の所有者及び地番並びに街区境界の調査を行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -564,7 +644,8 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">図面等調査は、調査図素図に基づいて、次に掲げるいずれかの方法により、毎筆の土地について、その所有者、地番、地目及び筆界の調査を行うものとする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">図面等調査は、調査図素図に基づいて、次に掲げるいずれかの方法により、毎筆の土地について、その所有者、地番、地目及び筆界の調査を行うものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、街区境界調査にあつては、各街区について、街区内土地の所有者及び地番並びに街区境界の調査を行うものとする。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -745,13 +826,13 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">筆界は、登記簿、登記所地図、登記簿の附属書類（不動産登記法第百二十一条第一項の登記簿の附属書類をいう。）、筆界特定手続記録その他の資料の内容、地形及び地物の状況、慣習その他の筆界に関する情報（次項において単に「筆界に関する情報」という。）を総合的に考慮し、かつ、土地の所有者等の確認を得て調査するものとする。</Sentence>
+                <Sentence WritingMode="vertical">筆界は、登記簿、登記所地図、登記簿の附属書類（不動産登記法第百二十一条第一項の登記簿の附属書類をいう。）、筆界特定手続記録その他の資料の内容、地形及び地物の状況、慣習その他の筆界に関する情報（以下「筆界に関する情報」という。）を総合的に考慮し、かつ、土地の所有者等の確認を得て調査するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">図面等調査を行う場合においては、筆界に関する情報を総合的に考慮し、当該筆界の現地における位置と推定される位置を図面等に表示したもの（以下この条において「筆界案」という。）を作成し、これを用いて前項の確認を求めるものとする。</Sentence>
+                <Sentence WritingMode="vertical">図面等調査を行う場合においては、筆界に関する情報を総合的に考慮し、当該筆界の現地における位置と推定される位置を図面等に表示したもの（以下「筆界案」という。）を作成し、これを用いて前項の確認を求めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="3">
@@ -769,7 +850,7 @@
             <Paragraph Hide="false" Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">第一項、第三項又は前項の規定に基づき調査することができないときは、調査図素図の当該部分に「筆界未定」と朱書するものとする。</Sentence>
+                <Sentence WritingMode="vertical">第一項、第三項又は前項の規定に基づき調査することができないときは、調査図素図の当該部分に「筆界未定」（街区境界調査にあつては「街区境界未定」）と朱書するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -900,6 +981,16 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Delete="false" Hide="false" Num="36_2">
+            <ArticleCaption>（街区境界調査における現地調査等に関する特則）</ArticleCaption>
+            <ArticleTitle>第三十六条の二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第二十四条から第二十七条まで及び第三十一条から第三十六条までの規定は、街区境界調査における現地調査等について、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
         </Section>
       </Chapter>
       <Chapter Delete="false" Hide="false" Num="4">
@@ -923,7 +1014,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">空中写真測量による方式（以下「航測法」という。）</Sentence>
+                  <Sentence WritingMode="vertical">空中写真測量又は航空レーザ測量による方式（以下「航測法」という。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -937,6 +1028,12 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">地籍測量は、座標計算により筆界点の位置を求める方式によつて行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">航測法による地籍測量は、令別表第四に定める精度区分乙二又は乙三が適用される区域において行うことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -967,22 +1064,22 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="40">
-            <ArticleCaption>（地籍図の図郭）</ArticleCaption>
+            <ArticleCaption>（地籍図又は街区境界調査図の図郭）</ArticleCaption>
             <ArticleTitle>第四十条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">令第二条第一項第十号の規定による地籍図の図郭は、地図上において座標系原点からＸ軸の方向に二十五センチメートル、Ｙ軸の方向に三十五センチメートルごとに区画して定めるものとする。</Sentence>
+                <Sentence WritingMode="vertical">令第二条第一項第十号の規定による地籍図又は街区境界調査図の図郭は、地図上において座標系原点からＸ軸の方向に二十五センチメートル、Ｙ軸の方向に三十五センチメートルごとに区画して定めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="41">
-            <ArticleCaption>（原図）</ArticleCaption>
+            <ArticleCaption>（地籍図原図）</ArticleCaption>
             <ArticleTitle>第四十一条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">地籍測量の結果作成された地図（複製されたものを除く。）を地籍図原図（以下「原図」という。）とする。</Sentence>
+                <Sentence WritingMode="vertical">地籍測量の結果作成された地図（複製されたものを除く。）を地籍図原図（街区境界調査にあつては街区境界調査図原図。以下同じ。）とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1021,6 +1118,12 @@
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
                     <Sentence WritingMode="vertical">一筆地測量</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">地籍図原図の作成</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -1149,12 +1252,12 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="50">
-              <ArticleCaption>（選点図）</ArticleCaption>
+              <ArticleCaption>（選点図及び平均図）</ArticleCaption>
               <ArticleTitle>第五十条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">地籍図根三角点及び多角路線の選定の結果は、地籍図根三角点選点図に取りまとめるものとする。</Sentence>
+                  <Sentence WritingMode="vertical">地籍図根三角点及び多角路線の選定の結果は、地籍図根三角点選点図及び地籍図根三角点平均図に取りまとめるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1230,12 +1333,12 @@
               </Paragraph>
             </Article>
             <Article Delete="false" Hide="false" Num="56">
-              <ArticleCaption>（選点図）</ArticleCaption>
+              <ArticleCaption>（選点図及び平均図）</ArticleCaption>
               <ArticleTitle>第五十六条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">地籍図根多角点及び多角路線の選定の結果は、地籍図根多角点選点図に取りまとめるものとする。</Sentence>
+                  <Sentence WritingMode="vertical">地籍図根多角点及び多角路線の選定の結果は、地籍図根多角点選点図及び地籍図根多角点平均図に取りまとめるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1323,7 +1426,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">多角測量法による細部図根測量における多角路線（以下この条において単に「多角路線」という。）の選定に当たつては、地籍図根点等又は細部多角点（以下「細部多角点等」と総称する。）を結合する多角網又は単路線を形成するように努めなければならない。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">多角測量法による細部図根測量における多角路線（以下この条及び次条において単に「多角路線」という。）の選定に当たつては、地籍図根点等又は細部多角点（以下「細部多角点等」と総称する。）を結合する多角網又は単路線を形成するように努めなければならない。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、見通し障害等により真にやむを得ない場合には、閉合路線を形成することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
@@ -1337,6 +1440,16 @@
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence WritingMode="vertical">多角路線の次数は、地籍図根点等を基礎として二次までとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Delete="false" Hide="false" Num="63_2">
+              <ArticleCaption>（選点図及び平均図）</ArticleCaption>
+              <ArticleTitle>第六十三条の二</ArticleTitle>
+              <Paragraph Hide="false" Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">細部多角点及び多角路線の選定の結果は、細部多角点選点図及び細部多角点平均図に取りまとめるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1496,7 +1609,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">観測に使用する測位衛星の数は五以上とし、受信高度角は十五度以上とする。</Sentence>
+                  <Sentence WritingMode="vertical">単点観測法による一筆地測量において、観測に使用する測位衛星の数は五以上とし、受信高度角は十五度以上とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -1536,29 +1649,32 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
+          </Subsection>
+          <Subsection Delete="false" Hide="false" Num="6">
+            <SubsectionTitle>第六款　地籍図原図の作成</SubsectionTitle>
             <Article Delete="false" Hide="false" Num="74">
-              <ArticleCaption>（原図の作成）</ArticleCaption>
+              <ArticleCaption>（地籍図原図の作成）</ArticleCaption>
               <ArticleTitle>第七十四条</ArticleTitle>
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">原図は、仮作図を行い図形その他の事項に誤りがないことを確かめた後、地籍図の様式を定める省令（昭和六十一年総理府令第五十四号）に基づいて必要な事項を表示した上、原図用紙に製図して作成するものとする。</Sentence>
+                  <Sentence WritingMode="vertical">地籍図原図は、仮作図を行い図形その他の事項に誤りがないことを確かめた後、国土調査法施行規則（平成二十二年国土交通省令第五十号）第二条第一号に基づいて必要な事項を表示して作成するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">前項の作業を終えたときは、筆界点番号図、筆界点成果簿及び地籍図一覧図を作成するものとする。</Sentence>
+                  <Sentence WritingMode="vertical">前項の作業を終えたときは、筆界点番号図、筆界点成果簿及び地籍図一覧図（街区境界調査にあつては街区境界調査図一覧図）を作成するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Delete="false" Hide="false" Num="75">
+            <Article Num="75">
               <ArticleCaption>（地籍明細図）</ArticleCaption>
               <ArticleTitle>第七十五条</ArticleTitle>
-              <Paragraph Hide="false" Num="1">
+              <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">原図の一部について当該部分に属する一筆地の状況が当該原図の縮尺では、所要の精度をもつて表示されることが困難である場合には、当該部分について所要の精度を表示するに足りる縮尺の地籍明細図を別に作成することができる。</Sentence>
+                  <Sentence>地籍図原図の一部について当該部分に属する一筆地の状況が当該地籍図原図の縮尺では、所要の精度をもつて表示されることが困難である場合には、当該部分について所要の精度を表示するに足りる縮尺の地籍明細図（街区境界調査にあつては街区境界調査明細図）を別に作成することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1566,258 +1682,465 @@
         </Section>
         <Section Delete="false" Hide="false" Num="3">
           <SectionTitle>第三節　航測法</SectionTitle>
-          <Article Delete="false" Hide="false" Num="76">
-            <ArticleCaption>（作業の順序）</ArticleCaption>
-            <ArticleTitle>第七十六条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">航測法による地籍測量は、次の各号に掲げる作業の順序に従つて行うものとする。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三号の作業は、第二号の作業の前に行うことができる。</Sentence>
-              </ParagraphSentence>
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">対空標識の設置（標定点及び航測図根点の選定を含む。）</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">空中写真撮影</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="3">
-                <ItemTitle>三</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">標定点測量</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="4">
-                <ItemTitle>四</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">空中三角測量（補備測量を含む。）</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="5">
-                <ItemTitle>五</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">図化</Sentence>
-                </ItemSentence>
-              </Item>
-            </Paragraph>
-            <Paragraph Hide="false" Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">併用法による地籍測量については、第四十二条及び前項に規定する作業の順序を考慮してその順序を定めるものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Delete="false" Hide="false" Num="77">
-            <ArticleCaption>（標定点及び航測図根点の選定）</ArticleCaption>
-            <ArticleTitle>第七十七条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">標定点は、既設の地籍図根三角点等のほか、必要な場合には新設点をこれに充てるものとする。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、既設の地籍図根三角点等が他市町村に属する場合には、あらかじめ標定点として使用することについて他市町村に了解を求めておくものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Hide="false" Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">標定点は、次の各号に掲げる条件に基づいて選定しなければならない。</Sentence>
-              </ParagraphSentence>
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">対空標識が明瞭に撮影される地点であること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">多角測量法により著しい困難を伴うことなく当該地点の位置を決定することができる地点であること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="3">
-                <ItemTitle>三</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">後続の測量を行うのに便利な地点であること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="4">
-                <ItemTitle>四</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">対空標識及び標識の設置が容易であり、かつ、これらが確実に保存される地点であること。</Sentence>
-                </ItemSentence>
-              </Item>
-            </Paragraph>
-            <Paragraph Hide="false" Num="3">
-              <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">前二項の選定の結果は、標定点選点図に取りまとめるものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Hide="false" Num="4">
-              <ParagraphNum>４</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">航測図根点は、第二項第一号、第三号及び第四号に掲げる条件に基づいて選定しなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Hide="false" Num="5">
-              <ParagraphNum>５</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の選定の結果は、航測図根点選点図に取りまとめるものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Hide="false" Num="6">
-              <ParagraphNum>６</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">標定点及び航測図根点（以下「航測図根点等」という。）には、標識を設置するものとする。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、航測図根点にあつては、自然物又は既設の工作物を利用することを妨げない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Delete="false" Hide="false" Num="78">
-            <ArticleCaption>（対空標識の設置）</ArticleCaption>
-            <ArticleTitle>第七十八条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">対空標識は、航測図根点等及び筆界点に設置するものとする。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、所要点の位置を間接的に決定できるような地点に設置することができる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Delete="false" Hide="false" Num="79">
-            <ArticleCaption>（空中写真撮影）</ArticleCaption>
-            <ArticleTitle>第七十九条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">空中写真撮影は、次の各号に掲げる条件に従つて行わなければならない。</Sentence>
-              </ParagraphSentence>
-              <Item Delete="false" Hide="false" Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">空中写真撮影及び空中三角測量に使用する器械及び器材の組合せ並びに地形その他の条件を考慮して、適切な撮影縮尺を選定すること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">同一コースに属する相隣る写真画面は、コース方向について、その六割の画面が重複するのを原則とすること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="3">
-                <ItemTitle>三</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">相隣るコースに属する各コースの相隣る写真画面は、コース方向に直角な方向について、その三割の画面が重複するのを原則とすること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="4">
-                <ItemTitle>四</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">写真画面の水平面に対する傾斜角は、五度以内であること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="5">
-                <ItemTitle>五</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">写真画面のコース方向に対する水平回転角は、十度以内であること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="6">
-                <ItemTitle>六</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">空中写真撮影は、原則として、気象条件が良好で、かつ、撮影に適した時期に行うこと。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="7">
-                <ItemTitle>七</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">露出時間は、飛行速度、使用フィルム、フィルター、撮影高度等を考慮して、画像が十分な鮮明さを保つよう適正に定めること。</Sentence>
-                </ItemSentence>
-              </Item>
-            </Paragraph>
-            <Paragraph Hide="false" Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の空中写真撮影を終えた後、引き伸ばした空中写真を用いる現地確認により、対空標識の確認を行うものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Delete="false" Hide="false" Num="80">
-            <ArticleCaption>（標定点測量）</ArticleCaption>
-            <ArticleTitle>第八十条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">第四十三条第二項、第四十五条、第四十九条及び第五十二条の規定は、標定点測量を行う場合について準用する。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Hide="false" Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の測量の結果は、標定点網図及び標定点成果簿に取りまとめるものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Delete="false" Hide="false" Num="81">
-            <ArticleCaption>（空中三角測量）</ArticleCaption>
-            <ArticleTitle>第八十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">空中三角測量における調整及び座標計算は、解析法によるものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Delete="false" Hide="false" Num="82">
-            <ArticleCaption>（補備測量等）</ArticleCaption>
-            <ArticleTitle>第八十二条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">対空標識の破損その他の理由により航測図根点及び筆界点の位置が求められない場合には、補備測量を行わなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Hide="false" Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">第四十五条、第四十六条、第五十四条、第五十八条から第六十四条まで、第六十七条、第六十八条及び第七十条から第七十一条までの規定は、補備測量を行う場合について準用する。</Sentence>
-                <Sentence Function="main" Num="2" WritingMode="vertical">この場合において、航測図根点等の配置状況等によりやむを得ない場合には、航測図根点と同等の精度を有すると認められる筆界点を一筆地測量の基礎とすることができる。</Sentence>
-                <Sentence Function="proviso" Num="3" WritingMode="vertical">ただし、当該一筆地測量の次数は、一次までとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Hide="false" Num="3">
-              <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">前二項の補備測量を終えたとき又は補備測量を必要としないときには、第七十二条に規定する点検を行うものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Delete="false" Hide="false" Num="83">
-            <ArticleCaption>（航測図根点配置図等）</ArticleCaption>
-            <ArticleTitle>第八十三条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">前二条の測量の結果は、航測図根点配置図、航測図根点成果簿、筆界点番号図及び筆界点成果簿に取りまとめるものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Delete="false" Hide="false" Num="84">
-            <ArticleCaption>（原図の作成）</ArticleCaption>
-            <ArticleTitle>第八十四条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">第七十四条及び第七十五条の規定は、航測法において原図を作成する場合について準用する。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
+          <Subsection Delete="false" Hide="false" Num="1">
+            <SubsectionTitle>第一款　総則</SubsectionTitle>
+            <Article Num="76">
+              <ArticleCaption>（作業の順序）</ArticleCaption>
+              <ArticleTitle>第七十六条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence>航測法による地籍測量は、次の各号に掲げる作業の順序に従つて行うものとする。</Sentence>
+                </ParagraphSentence>
+                <Item Delete="false" Hide="false" Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">地籍図根三角測量
+</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">航空測量
+</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Delete="false" Hide="false" Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence WritingMode="vertical">地籍図原図の作成
+</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Hide="false" Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">前項第二号に掲げる作業において、令別表第四に定める誤差の限度内の精度を保つことができる場合は、同項第一号に掲げる作業の全部又は一部を省略することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">航空測量は、一筆地調査と併行して行うものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Hide="false" Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">併用法による地籍測量については、第四十二条及び第一項に規定する作業の順序を考慮してその順序を定めるものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Delete="false" Hide="false" Num="2">
+            <SubsectionTitle>第二款　地籍図根三角測量</SubsectionTitle>
+            <Article Delete="false" Hide="false" Num="76_2">
+              <ArticleTitle>第七十六条の二</ArticleTitle>
+              <Paragraph Hide="false" Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十五条及び第四十八条から第五十二条までの規定は、航測法による地籍測量について準用する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、第四十五条中「地籍図根測量」とあるのは「地籍図根三角測量」と、第五十二条第一項中「一筆地測量」とあるのは「航空測量」と読み替えるものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Delete="false" Hide="false" Num="3">
+            <SubsectionTitle>第三款　航空測量</SubsectionTitle>
+            <Division Delete="false" Hide="false" Num="1">
+              <DivisionTitle>第一目　総則</DivisionTitle>
+              <Article Delete="false" Hide="false" Num="76_3">
+                <ArticleCaption>（航空測量の実施）</ArticleCaption>
+                <ArticleTitle>第七十六条の三</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">航空測量は、次の各号に掲げる作業により実施するものとする。</Sentence>
+                  </ParagraphSentence>
+                  <Item Delete="false" Hide="false" Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Sentence WritingMode="vertical">空中写真測量</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Delete="false" Hide="false" Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Sentence WritingMode="vertical">航空レーザ測量</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Delete="false" Hide="false" Num="3">
+                    <ItemTitle>三</ItemTitle>
+                    <ItemSentence>
+                      <Sentence WritingMode="vertical">既存資料の収集及び解析</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Delete="false" Hide="false" Num="4">
+                    <ItemTitle>四</ItemTitle>
+                    <ItemSentence>
+                      <Sentence WritingMode="vertical">補備測量</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Delete="false" Hide="false" Num="5">
+                    <ItemTitle>五</ItemTitle>
+                    <ItemSentence>
+                      <Sentence WritingMode="vertical">筆界点の座標値の算出</Sentence>
+                    </ItemSentence>
+                  </Item>
+                </Paragraph>
+                <Paragraph Hide="false" Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">前項第五号に掲げる作業において、令別表第四に定める誤差の限度内の精度を保つことができる場合は、同項第一号から第四号までに掲げる作業の一部を省略することができる。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Num="77">
+                <ArticleCaption>（標定点等及び航測図根点の選定）</ArticleCaption>
+                <ArticleTitle>第七十七条</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Function="main" Num="1">空中写真測量に必要な水平位置及び標高の基準となる点（以下「標定点」という。）又は航空レーザ測量における航空レーザ計測（航空機又は無人航空機に搭載したレーザ測距装置と地表面又は地物との距離並びに当該レーザ測距装置の位置及び傾きの計測をいう。以下同じ。）の結果得られたデータ（第八十一条の四において「航空レーザ計測データ」という。）の点検及び調整を行うために必要な水平位置及び標高の基準となる点（以下「調整用基準点」という。）は、地籍図根三角点等を使用するものとする。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、自然物又は既設の工作物を利用することを妨げない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">標定点及び調整用基準点（以下「標定点等」という。
+）は、次の各号に掲げる条件に基づいて選定しなければならない。
+</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">
+</Sentence>
+                  </ParagraphSentence>
+                  <Item Delete="false" Hide="false" Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Sentence WritingMode="vertical">上空視界が十分に確保され、空中写真又は航空レーザ測量の結果得られたデータ（第七十八条及び第八十三条の二において「航空レーザ測量データ」という。
+）において明瞭に識別することができる地点であること。
+
+</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Delete="false" Hide="false" Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Sentence WritingMode="vertical">対空標識を設置する場合には、当該対空標識の設置が容易であり、かつ、これが確実に保存される地点であること。
+
+</Sentence>
+                    </ItemSentence>
+                  </Item>
+                </Paragraph>
+                <Paragraph Hide="false" Num="3">
+                  <ParagraphNum>３</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">前二項の選定の結果は、標定点選点図又は調整用基準点選点図に取りまとめるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="4">
+                  <ParagraphNum>４</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">第八十二条に規定する補備測量の実施が見込まれる場合には、空中写真測量又は航空レーザ測量の実施前に、必要に応じて、航測図根点（補備測量に必要な水平位置及び標高の基準となる点であつて、空中写真測量又は航空レーザ測量によつて当該点の座標値及び標高を求めるものをいう。
+以下同じ。
+）を選定するものとする。
+</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">
+</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="5">
+                  <ParagraphNum>５</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">前項の選定の結果は、航測図根点選点図に取りまとめるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="6">
+                  <ParagraphNum>６</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">航測図根点には、標識を設置するものとする。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、自然物又は既設の工作物を航測図根点として利用するときは、この限りではない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Num="78">
+                <ArticleCaption>（対空標識の設置）</ArticleCaption>
+                <ArticleTitle>第七十八条</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Function="main" Num="1">対空標識は、標定点等及び航測図根点（以下「航測図根点等」という。）に設置するものとする。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、航測図根点等として自然物又は既設の工作物を利用する場合であつて、空中写真又は航空レーザ測量データにおいて明瞭に識別できることが確実である場合については、この限りではない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+            </Division>
+            <Division Delete="false" Hide="false" Num="2">
+              <DivisionTitle>第二目　空中写真測量</DivisionTitle>
+              <Article Delete="false" Hide="false" Num="79">
+                <ArticleCaption>（空中写真撮影）</ArticleCaption>
+                <ArticleTitle>第七十九条</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">空中写真撮影は、撮影に必要な装備を有し、所定の高度で安定飛行を行うことができる航空機又は無人航空機を用いて行うものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">空中写真の撮影計画は、撮影を行う区域ごとに、地形の状況や地籍図根点等の配置状況等を考慮して作成するものとする。
+</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">
+</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="3">
+                  <ParagraphNum>３</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">空中写真撮影は、原則として、気象条件が良好で、かつ、撮影に適した時期に行うものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="4">
+                  <ParagraphNum>４</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">空中写真の地上画素寸法は、筆界の調査に当たつて必要となる地形、地物その他の特徴点を明瞭に判読することができるよう適切に設定するものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Delete="false" Hide="false" Num="80">
+                <ArticleTitle>第八十条</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">削除</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Delete="false" Hide="false" Num="81">
+                <ArticleCaption>（空中三角測量）</ArticleCaption>
+                <ArticleTitle>第八十一条</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">空中三角測量における調整及び座標計算は、解析法によるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Delete="false" Hide="false" Num="81_2">
+                <ArticleCaption>（空中写真等を用いた基礎資料の作成）</ArticleCaption>
+                <ArticleTitle>第八十一条の二</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">空中写真測量においては、地目の調査及び筆界案の作成の基礎となる資料（以下「基礎資料」という。）を、空中写真及び空中三角測量の成果を用いて作成するものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+            </Division>
+            <Division Delete="false" Hide="false" Num="3">
+              <DivisionTitle>第三目　航空レーザ測量</DivisionTitle>
+              <Article Delete="false" Hide="false" Num="81_3">
+                <ArticleCaption>（航空レーザ計測）</ArticleCaption>
+                <ArticleTitle>第八十一条の三</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">航空レーザ計測は、計測に必要な装備を有し、所定の高度で安定飛行を行うことができる航空機又は無人航空機を用いて行うものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">航空レーザ計測の計画は、計測を行う区域ごとに、地形の状況や地籍図根点等の配置状況等を考慮して作成するものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="3">
+                  <ParagraphNum>３</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">航空レーザ計測は、原則として、気象条件が良好で、かつ、計測に適した時期に行うものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="4">
+                  <ParagraphNum>４</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">航空レーザ計測の点密度は、筆界の調査に当たつて必要となる地形、地物その他の特徴点を明瞭に判読することができるよう適切に設定するものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Delete="false" Hide="false" Num="81_4">
+                <ArticleCaption>（航空レーザ計測データの解析）</ArticleCaption>
+                <ArticleTitle>第八十一条の四</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">計測範囲における地表面及び地物の形状を示す三次元の座標値データは、航空レーザ計測データを解析し、作成するものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Delete="false" Hide="false" Num="81_5">
+                <ArticleCaption>（三次元の座標値データを用いた基礎資料の作成）</ArticleCaption>
+                <ArticleTitle>第八十一条の五</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">航空レーザ測量においては、基礎資料を、前条の規定により作成した三次元の座標値データを用いて作成するものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+            </Division>
+            <Division Delete="false" Hide="false" Num="4">
+              <DivisionTitle>第四目　既存資料の収集及び解析</DivisionTitle>
+              <Article Delete="false" Hide="false" Num="81_6">
+                <ArticleCaption>（既存資料の収集）</ArticleCaption>
+                <ArticleTitle>第八十一条の六</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">調査地域について、既存の空中写真又は航空レーザ測量の成果が存在する場合には、当該資料の収集に努めるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Delete="false" Hide="false" Num="81_7">
+                <ArticleCaption>（既存の空中写真の活用）</ArticleCaption>
+                <ArticleTitle>第八十一条の七</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">航測法による地籍測量においては、既存の空中写真を活用することができるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">既存の空中写真を用いて空中三角測量を行う場合には、調整及び座標計算は、解析法によるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="3">
+                  <ParagraphNum>３</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">既存の空中写真を活用する場合には、基礎資料を、当該空中写真及び当該空中写真を用いた空中三角測量の成果を用いて作成するものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="4">
+                  <ParagraphNum>４</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">収集した既存の空中写真の地上画素寸法その他の仕様が前項の規定による基礎資料の作成に適さない場合であつても、当該空中写真は、基礎資料を作成する際の参考資料とすることができる。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Delete="false" Hide="false" Num="81_8">
+                <ArticleCaption>（既存の航空レーザ測量の成果の活用）</ArticleCaption>
+                <ArticleTitle>第八十一条の八</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">航測法による地籍測量においては、既存の航空レーザ測量の成果を活用することができるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">既存の航空レーザ測量の成果を活用する場合には、基礎資料を、当該航空レーザ測量の結果得られた三次元の座標値データを用いて作成するものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+            </Division>
+            <Division Delete="false" Hide="false" Num="5">
+              <DivisionTitle>第五目　補備測量</DivisionTitle>
+              <Article Delete="false" Hide="false" Num="82">
+                <ArticleCaption>（補備測量の実施）</ArticleCaption>
+                <ArticleTitle>第八十二条</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence WritingMode="vertical">第八十一条の二、第八十一条の五、第八十一条の七第三項又は前条第二項の基礎資料及び筆界に関する情報を用いるのみでは筆界点の座標値を算出することができない場合には、補備測量を行うものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Hide="false" Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">補備測量は、次に掲げる作業の順序に従つて行うものとする。
+</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">
+</Sentence>
+                  </ParagraphSentence>
+                  <Item Delete="false" Hide="false" Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Sentence WritingMode="vertical">細部図根測量</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Delete="false" Hide="false" Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Sentence WritingMode="vertical">一筆地測量</Sentence>
+                    </ItemSentence>
+                  </Item>
+                </Paragraph>
+                <Paragraph Hide="false" Num="3">
+                  <ParagraphNum>３</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">前項第二号に掲げる作業において、令別表第四に定める誤差の限度内の精度を保つことができる場合は、同項第一号に掲げる作業の全部又は一部を省略することができる。
+</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">
+</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Delete="false" Hide="false" Num="82_2">
+                <ArticleCaption>（補備測量における細部図根測量）</ArticleCaption>
+                <ArticleTitle>第八十二条の二</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">第四十六条、第五十九条から第六十四条並びに第六十七条第一項及び第二項の規定は、前条第二項第一号の細部図根測量について準用する。</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">この場合において、第六十三条第一項中「地籍図根点等又は細部多角点（以下「細部多角点等」と総称する。）」とあるのは「細部多角点等又は航測図根点のいずれか」と、第六十四条（第二項を除く。）中「細部多角点等」とあるのは「細部多角点等又は航測図根点」と、同条第二項中「地籍図根測量又は多角測量法による細部図根測量に引き続き行う場合を除き、」とあるのは「与点とする細部多角点等又は航測図根点が地籍測量の着手前に設置された既設のものである場合は、」と読み替えるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Num="83">
+                <ArticleCaption>（補備測量における一筆地測量）</ArticleCaption>
+                <ArticleTitle>第八十三条</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1">第四十六条、第六十八条及び第七十条から第七十二条までの規定は、第八十二条第二項第二号の一筆地測量について準用する。</Sentence>
+                    <Sentence Num="2">この場合において、第六十八条中「地籍図根点等及び細部図根点（以下「細部図根点等」という。）」とあるのは「細部図根点等又は航測図根点」と、第七十条の二第一項及び第三項、第七十条の三、第七十条の五第二項及び第七十一条中「細部図根点等」とあるのは「細部図根点等又は航測図根点」と、第七十条の二第二項中「地籍図根測量又は細部図根測量に引き続き行う場合を除き」とあるのは「与点とする細部図根点等又は航測図根点が地籍測量の着手前に設置された既設のものである場合は」と読み替えるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+            </Division>
+            <Division Delete="false" Hide="false" Num="6">
+              <DivisionTitle>第六目　筆界点の座標値の算出</DivisionTitle>
+              <Article Delete="false" Hide="false" Num="83_2">
+                <ArticleCaption>（筆界点の座標値の算出）</ArticleCaption>
+                <ArticleTitle>第八十三条の二</ArticleTitle>
+                <Paragraph Hide="false" Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">筆界点の座標値は、空中写真又は航空レーザ測量データを用いて算出したものを採用するものとする。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、補備測量を行つた場合に、対象となつた筆界点については、当該補備測量により得られた座標値を採用するものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+            </Division>
+          </Subsection>
+          <Subsection Delete="false" Hide="false" Num="4">
+            <SubsectionTitle>第四款　地籍図原図の作成</SubsectionTitle>
+            <Article Delete="false" Hide="false" Num="84">
+              <ArticleCaption>（地籍図原図の作成）</ArticleCaption>
+              <ArticleTitle>第八十四条</ArticleTitle>
+              <Paragraph Hide="false" Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence WritingMode="vertical">第七十四条及び第七十五条の規定は、航測法において地籍図原図を作成する場合について準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
         </Section>
       </Chapter>
       <Chapter Delete="false" Hide="false" Num="5">
@@ -1838,7 +2161,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">地積測定を行つた場合には、原則として単位区域ごとに、単位区域を構成する各筆の面積の合計と当該単位区域の面積が等しくなるかどうかを点検するものとする。</Sentence>
+              <Sentence WritingMode="vertical">地積測定を行つた場合には、原則として単位区域ごとに、単位区域を構成する各筆（街区境界調査にあつては各街区及び長狭物その他街区外の土地の各筆）の面積の合計と当該単位区域の面積が等しくなるかどうかを点検するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1848,19 +2171,19 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">地積測定の結果は、地積測定成果簿に取りまとめるものとする。</Sentence>
+              <Sentence WritingMode="vertical">地積測定の結果は、地積測定成果簿（街区境界調査にあつては街区面積測定成果簿。以下同じ。）に取りまとめるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">地積測定成果簿における地積は、平方メートルを単位とし、一平方メートルの千分の一未満の端数を四捨五入して表示するものとする。</Sentence>
+              <Sentence>地積測定成果簿における地積（街区境界調査にあつては街区面積）は、平方メートルを単位とし、一平方メートルの百分の一未満の端数を切り捨てて表示するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
       </Chapter>
       <Chapter Delete="false" Hide="false" Num="6">
-        <ChapterTitle>第六章　地籍図及び地籍簿の作成</ChapterTitle>
+        <ChapterTitle>第六章　地籍図及び地籍簿並びに街区境界調査図及び街区境界調査簿の作成</ChapterTitle>
         <Article Delete="false" Hide="false" Num="88">
           <ArticleCaption>（地籍簿案）</ArticleCaption>
           <ArticleTitle>第八十八条</ArticleTitle>
@@ -1870,10 +2193,10 @@
               <Sentence WritingMode="vertical">一筆地調査、地籍測量及び地積測定を終了したときは、地籍簿案を作成するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Hide="false" Num="2">
+          <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項の地籍簿案は、地籍調査票、調査図、原図及び地積測定成果簿に基づいて、地籍簿用紙に必要な事項を記載して作成するものとする。</Sentence>
+              <Sentence>前項の地籍簿案は、地籍調査票、調査図、地籍図原図及び地積測定成果簿に基づいて、必要な事項を記載して作成するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3">
@@ -1891,40 +2214,79 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">宅地及び鉱泉地以外の土地の地積は、平方メートルを単位とし、一平方メートル未満の端数は、切り捨てる。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、一筆の地積が十平方メートル未満のものについては、一平方メートルの百分の一未満の端数は、切り捨てる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、一筆の地積が十平方メートル以下のものについては、一平方メートルの百分の一未満の端数は、切り捨てる。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
         </Article>
-        <Article Delete="false" Hide="false" Num="89">
-          <ArticleCaption>（地籍図及び地籍簿）</ArticleCaption>
-          <ArticleTitle>第八十九条</ArticleTitle>
+        <Article Delete="false" Hide="false" Num="88_2">
+          <ArticleCaption>（街区境界調査簿案）</ArticleCaption>
+          <ArticleTitle>第八十八条の二</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">原図及び地籍簿案について、法第十七条の規定による手続が終了したときは、それぞれを地籍調査の成果としての地籍図及び地籍簿とする。</Sentence>
+              <Sentence WritingMode="vertical">前条の規定にかかわらず、街区境界調査を行い、一筆地調査、地籍測量及び街区面積測定を終了したときは、街区境界調査簿案を作成するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前項の街区境界調査簿案は、街区境界調査票、調査図、街区境界調査図原図及び街区面積測定成果簿に基づいて、必要な事項を記載して作成するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">街区境界調査簿案における面積は、平方メートルを単位とし、一平方メートルの百分の一未満の端数を切り捨てて表示するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="89">
+          <ArticleCaption>（地籍図及び地籍簿）</ArticleCaption>
+          <ArticleTitle>第八十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>地籍図原図及び地籍簿案について、法第十七条の規定による手続が終了したときは、それぞれを地籍調査の成果としての地籍図及び地籍簿とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">地籍図及び地籍簿は、そのままで保管しなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、地籍調査後の土地の異動等については、地籍図写及び地籍簿写又は電磁的記録を用いて継続的に補正するものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、地籍調査後の土地の異動等については、地籍図び地籍簿の写し又は電磁的記録を用いて継続的に補正することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="89_2">
+          <ArticleCaption>（街区境界調査図及び街区境界調査簿）</ArticleCaption>
+          <ArticleTitle>第八十九条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">街区境界調査図原図及び街区境界調査簿案について、法第二十一条の二第三項及び第四項の規定において読み替えて準用する法第十七条の規定による手続が終了したときは、それぞれを街区境界調査の成果としての街区境界調査図及び街区境界調査簿とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">街区境界調査図及び街区境界調査簿は、そのままで保管しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、地籍図及び地籍簿が作成されるまでの間、街区境界調査後の土地の異動等があるときは、街区境界調査図及び街区境界調査簿の写し又は電磁的記録を用いて継続的に補正するよう努めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="90">
-          <ArticleCaption>（地籍図写）</ArticleCaption>
+          <ArticleCaption>（地籍図又は街区境界調査図の写し）</ArticleCaption>
           <ArticleTitle>第九十条</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">地籍図写は、次の各号に掲げるところに従つて複製するものとする。</Sentence>
+              <Sentence WritingMode="vertical">地籍図又は街区境界調査図の写しは、次の各号に掲げるところに従つて複製するものとする。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">地籍図と同一縮尺であること。</Sentence>
+                <Sentence WritingMode="vertical">地籍図又は街区境界調査図と同一縮尺であること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
@@ -2159,6 +2521,29 @@
           <Sentence WritingMode="vertical">この省令の施行前に、この省令による改正前の地籍調査作業規程準則に基づいて作成され国土調査法第五条第三項、第六条第二項又は第六条の四第二項の届出のあった作業規程については、この省令による改正後の地籍調査作業規程準則に基づいて作成され同法第五条第三項、第六条第二項又は第六条の四第二項の届出のあったものとみなす。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月二九日国土交通省令第七九号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（地籍調査作業規程準則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行前に、第二条による改正前の地籍調査作業規程準則に基づいて作成され国土調査法第五条第三項、第六条第二項又は第六条の四第二項の届出のあった作業規程については、第二条の規定による改正後の地籍調査作業規程準則に基づいて作成され同法第五条第三項、第六条第二項又は第六条の四第二項の届出のあったものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

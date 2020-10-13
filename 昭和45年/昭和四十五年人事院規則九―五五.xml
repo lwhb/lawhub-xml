@@ -2802,6 +2802,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一〇月一日人事院規則九―五五―一三八" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、公布の日から施行し、この規則による改正後の規則九―五五別表の二の表北海道の項の規定中大雪山国立公園管理事務所に係る部分は、令和二年四月一日から適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第一条、第二条関係）</RelatedArticleNum>
@@ -4792,7 +4801,7 @@
               </TableColumn>
             </TableRow>
             <TableRow>
-              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="55">
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="57">
                 <Sentence WritingMode="vertical">沖縄県</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
@@ -4858,7 +4867,7 @@
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                 <Sentence WritingMode="vertical">八重山財務出張所</Sentence>
               </TableColumn>
-              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="47">
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="49">
                 <Sentence WritingMode="vertical">三級地</Sentence>
               </TableColumn>
             </TableRow>
@@ -4988,6 +4997,14 @@
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                 <Sentence WritingMode="vertical">那覇植物防疫事務所石垣出張所</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="none" BorderRight="solid" BorderTop="none">
+                <Sentence WritingMode="vertical">石垣市字白保一九六〇の一〇四</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence WritingMode="vertical">動物検疫所沖縄支所検疫課石垣分室</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>
@@ -5191,6 +5208,14 @@
               </TableColumn>
             </TableRow>
             <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence WritingMode="vertical">宮古島市平良字下里一〇二〇の一一</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence WritingMode="vertical">動物検疫所沖縄支所検疫課平良分室</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
                 <Sentence WritingMode="vertical">宮古島市平良字下里一六五七</Sentence>
               </TableColumn>
@@ -5255,7 +5280,7 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>１</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">この表の所在地欄に掲げる所在地の表示は、平成二十九年四月一日（沖縄地区税関石垣税関支署石垣空港出張所に係るものにあつては平成三十年七月一日、沖縄森林管理署安波森林事務所に係るものにあつては同年十月一日、那覇検疫所平良出張所に係るものにあつては平成三十一年四月一日、門司税関厳原税関支署比田勝監視署及び長崎税関鹿児島税関支署名瀬監視署に係るものにあつては令和二年四月一日）における区域を示し、その後における当該区域に係る表示の変更によつて影響されるものではない。</Sentence>
+                <Sentence WritingMode="vertical">この表の所在地欄に掲げる所在地の表示は、平成二十九年四月一日（沖縄地区税関石垣税関支署石垣空港出張所に係るものにあつては平成三十年七月一日、沖縄森林管理署安波森林事務所に係るものにあつては同年十月一日、那覇検疫所平良出張所に係るものにあつては平成三十一年四月一日、門司税関厳原税関支署比田勝監視署及び長崎税関鹿児島税関支署名瀬監視署に係るものにあつては令和二年四月一日、動物検疫所沖縄支所検疫課石垣分室及び動物検疫所沖縄支所検疫課平良分室に係るものにあつては同年十月一日）における区域を示し、その後における当該区域に係る表示の変更によつて影響されるものではない。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
@@ -5371,7 +5396,7 @@
                 <Sentence WritingMode="vertical">上川郡上川町中央町六〇三</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                <Sentence WritingMode="vertical">上川自然保護官事務所</Sentence>
+                <Sentence WritingMode="vertical">大雪山国立公園管理事務所</Sentence>
               </TableColumn>
             </TableRow>
             <TableRow>

@@ -1691,7 +1691,7 @@
             <Subitem1 Delete="false" Hide="false" Num="23">
               <Subitem1Title>ム</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">認定経営革新等支援機関（中小企業等経営強化法（平成十一年法律第十八号）第三十二条第二項に規定する者をいう。）</Sentence>
+                <Sentence WritingMode="vertical">認定経営革新等支援機関（中小企業等経営強化法（平成十一年法律第十八号）第三十一条第二項に規定する者をいう。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
@@ -3313,12 +3313,6 @@
               <Sentence WritingMode="vertical">地域における商鉱工業一般の振興に関すること。</Sentence>
             </ItemSentence>
           </Item>
-          <Item Delete="false" Hide="false" Num="6">
-            <ItemTitle>六</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">中小企業等経営強化法の施行に関すること（地域産業資源を活用して行う事業環境の整備に関することに限る。）。</Sentence>
-            </ItemSentence>
-          </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="54">
@@ -3705,7 +3699,7 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">中小企業等経営強化法の施行に関すること（企画振興課及び地域経済課の所掌に属するものを除く。）。</Sentence>
+              <Sentence WritingMode="vertical">中小企業等経営強化法の施行に関すること（地域経済課の所掌に属するものを除く。）。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
@@ -4766,19 +4760,13 @@
           <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">建設業者、測量業者、建設コンサルタント、地質調査業者、宅地建物取引業者、不動産特定共同事業者、小規模不動産特定共同事業者、マンション管理業者、住宅宿泊管理業者、賃貸住宅管理業者及び不動産鑑定業者の組織する中小企業等協同組合、協業組合及び商工組合に関すること。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="6_2">
-            <ItemTitle>六の二</ItemTitle>
-            <ItemSentence>
               <Sentence WritingMode="vertical">建設業者の労働力の調達に関する指導に関すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">下請中小企業振興法（昭和四十五年法律第百四十五号）に基づく特定下請連携事業計画、中小企業等経営強化法に基づく社外高度人材活用新事業分野開拓計画、経営革新計画、異分野連携新事業分野開拓計画及び経営力向上計画、中小企業による地域産業資源を活用した事業活動の促進に関する法律（平成十九年法律第三十九号）に基づく地域産業資源活用事業計画及び地域産業資源活用支援事業計画、中小企業者と農林漁業者との連携による事業活動の促進に関する法律（平成二十年法律第三十八号）に基づく農商工等連携事業計画並びに地域資源を活用した農林漁業者等による新事業の創出等及び地域の農林水産物の利用促進に関する法律（平成二十二年法律第六十七号）に基づく研究開発・成果利用事業計画に関すること。</Sentence>
+              <Sentence WritingMode="vertical">下請中小企業振興法（昭和四十五年法律第百四十五号）に基づく特定下請連携事業計画、中小企業等経営強化法に基づく社外高度人材活用新事業分野開拓計画、経営革新計画及び経営力向上計画、中小企業者と農林漁業者との連携による事業活動の促進に関する法律（平成二十年法律第三十八号）に基づく農商工等連携事業計画並びに地域資源を活用した農林漁業者等による新事業の創出等及び地域の農林水産物の利用促進に関する法律（平成二十二年法律第六十七号）に基づく研究開発・成果利用事業計画に関すること。</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="8">
@@ -8019,6 +8007,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この府令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月三〇日内閣府令第六三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この府令は、令和二年十月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
