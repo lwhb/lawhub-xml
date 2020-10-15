@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="46" Year="63">
+<Law DataInfo="201012e03k04m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="46" Year="63">
   <LawNum>昭和六十三年郵政省令第四十六号</LawNum>
   <LawBody>
     <LawTitle>電気通信事業報告規則</LawTitle>
@@ -158,7 +158,7 @@
                 <Sentence WritingMode="vertical">第五世代移動通信アクセスサービス</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">携帯電話・ＰＨＳアクセスサービスであつて、第五世代移動通信システム（無線設備規則第四十九条の六の十二で定める条件に適合する無線設備（ローカル５Ｇの基地局又は陸上移動局のものを除く。）をいう。以下同じ。）を用いて提供されるものをいう。</Sentence>
+                <Sentence WritingMode="vertical">携帯電話・ＰＨＳアクセスサービスであつて、第五世代移動通信システム（無線設備規則第四十九条の六の十二又は第四十九条の六の十三で定める条件に適合する無線設備（ローカル５Ｇの基地局又は陸上移動局のものを除く。）をいう。以下同じ。）を用いて提供されるものをいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -185,9 +185,14 @@
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="14_2">
-            <ItemTitle>十四の二　全国ＢＷＡアクセスサービス　利用者の電気通信設備と接続される一端が無線により構成される端末系伝送路設備（その一端が移動端末設備と接続されるものに限る。）を用いてインターネットへの接続点までの間の通信を媒介する電気通信役務（主としてインターネットへの接続点までの間の通信を媒介するものを含む。）であつて、広帯域移動無線アクセスシステム（無線設備規則第三条第十号に規定する広帯域移動無線アクセスシステムをいう。）を用いて提供されるもの（地域ＢＷＡアクセスサービス及び自営等ＢＷＡアクセスサービスを除く。）をいう。</ItemTitle>
+            <ItemTitle>十四の二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical"/>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">全国ＢＷＡアクセスサービス</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">利用者の電気通信設備と接続される一端が無線により構成される端末系伝送路設備（その一端が移動端末設備と接続されるものに限る。）を用いてインターネットへの接続点までの間の通信を媒介する電気通信役務（主としてインターネットへの接続点までの間の通信を媒介するものを含む。）であつて、広帯域移動無線アクセスシステム（無線設備規則第三条第十号に規定する広帯域移動無線アクセスシステムをいう。）を用いて提供されるもの（地域ＢＷＡアクセスサービス及び自営等ＢＷＡアクセスサービスを除く。）をいう。</Sentence>
+              </Column>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="14_3">
@@ -263,7 +268,7 @@
                 <Sentence WritingMode="vertical">仮想移動電気通信サービス</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">移動端末設備（携帯電話、ＰＨＳ端末、無線設備規則第四十九条の六の十二第二項で定める条件に適合する無線設備（ローカル５Ｇの基地局又は陸上移動局のものに限る。）又は同令第四十九条の二十八若しくは第四十九条の二十九で定める条件に適合する無線設備に限る。以下この号において同じ。）を用いて利用される電気通信役務であつて、一端が無線により構成される端末系伝送路設備に移動端末設備を接続する利用者に対し、当該電気通信役務に係る基地局を設置せずに提供されるもの（当該電気通信役務に係る利用者料金の設定権を有する者が提供するものに限る。）をいう。</Sentence>
+                <Sentence WritingMode="vertical">移動端末設備（携帯電話、ＰＨＳ端末、無線設備規則第四十九条の六の十二第二項で定める条件に適合する無線設備（ローカル５Ｇの基地局又は陸上移動局のものに限る。）又は同令第四十九条の二十八、第四十九条の二十九若しくは第四十九条の二十九の二で定める条件に適合する無線設備に限る。以下この号において同じ。）を用いて利用される電気通信役務であつて、一端が無線により構成される端末系伝送路設備に移動端末設備を接続する利用者に対し、当該電気通信役務に係る基地局を設置せずに提供されるもの（当該電気通信役務に係る利用者料金の設定権を有する者が提供するものに限る。）をいう。</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -344,313 +349,313 @@
             <Sentence WritingMode="vertical">次の表の報告対象事業者の欄に掲げる電気通信事業者は、それぞれ同表の様式番号の欄に掲げる様式により、毎四半期経過後一月以内（様式第一第二表、様式第二、様式第四、様式第五第二表、様式第六及び様式第十五の三の二によるものについては、毎報告年度経過後二月以内）に、同表の報告対象役務の欄に掲げる電気通信役務に関する当該四半期末（様式第一第二表、様式第二、様式第四、様式第五第二表、様式第六及び様式第十五の三の二によるものについては、当該報告年度末）の契約等の状況について、書面又は別に定める磁気ディスクその他これに準ずるもの（以下「書面等」という。）により総務大臣に提出しなければならない。</Sentence>
           </ParagraphSentence>
           <TableStruct>
-            <Table>
+            <Table WritingMode="vertical">
               <TableRow>
-                <TableColumn>
-                  <Sentence>報告対象役務</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">報告対象役務</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>報告対象事業者</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">報告対象事業者</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>様式番号</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式番号</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>加入電話</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">加入電話</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>電気通信回線設備を設置して加入電話を提供する電気通信事業者</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">電気通信回線設備を設置して加入電話を提供する電気通信事業者</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第一及び様式第四</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>総合デジタル通信サービス</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>端末系伝送路設備を設置して総合デジタル通信サービスを提供する電気通信事業者</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第一及び様式第四</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第一及び様式第四</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>公衆電話</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">総合デジタル通信サービス</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>電気通信回線設備を設置して公衆電話を提供する電気通信事業者</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">端末系伝送路設備を設置して総合デジタル通信サービスを提供する電気通信事業者</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第二</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>携帯電話</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>電気通信回線設備を設置して携帯電話を提供する電気通信事業者</Sentence>
-                </TableColumn>
-                <TableColumn colspan="1" rowspan="2">
-                  <Sentence>様式第三及び様式第四</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第一及び様式第四</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>ＰＨＳ</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">公衆電話</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>電気通信回線設備を設置してＰＨＳを提供する電気通信事業者</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">電気通信回線設備を設置して公衆電話を提供する電気通信事業者</Sentence>
                 </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>ＩＰ電話（当該ＩＰ電話の提供のために電気通信番号規則別表第一号に掲げる固定電話番号又は同表第六号に掲げる特定ＩＰ電話番号を使用するものに限る。）</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>ＩＰ電話を提供する電気通信事業者であつて、ＩＰ電話の提供のために電気通信番号規則別表第一号に掲げる固定電話番号又は同表第六号に掲げる特定ＩＰ電話番号の指定を受けたもの</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第四及び様式第五</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第二</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>衛星移動通信サービス</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">携帯電話</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>電気通信回線設備を設置して衛星移動通信サービスを提供する電気通信事業者</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">電気通信回線設備を設置して携帯電話を提供する電気通信事業者</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第六</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>インターネット接続サービス</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>インターネット接続サービスを提供する電気通信事業者であつて、四半期末におけるインターネット接続サービスの契約数が五万以上であるもの</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第七</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="1" rowspan="2">
+                  <Sentence WritingMode="vertical">様式第三及び様式第四</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn colspan="1" rowspan="3">
-                  <Sentence>ＦＴＴＨアクセスサービス</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">ＰＨＳ</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>次のいずれかに該当する電気通信事業者</Sentence>
-                  <Sentence>一 光信号伝送用の端末系伝送路設備を設置してＦＴＴＨアクセスサービスを提供する電気通信事業者（以下この項において「設備を設置して提供する事業者」という。）</Sentence>
-                  <Sentence>二 他の電気通信事業者が設置した光信号伝送用の端末系伝送路設備と自らの電気通信設備を接続してＦＴＴＨアクセスサービスを提供する電気通信事業者（以下この項において「接続により提供する事業者」という。）（共同住宅等内にＶＤＳＬ設備その他の電気通信設備を用いるＦＴＴＨアクセスサービスにあつては、当該電気通信設備を設置してＦＴＴＨアクセスサービスを提供する電気通信事業者）</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第八</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">電気通信回線設備を設置してＰＨＳを提供する電気通信事業者</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>次のいずれかに該当する電気通信事業者であつて、当該電気通信事業者が提供する四半期末におけるＦＴＴＨアクセスサービスの契約数が三万以上であるもの</Sentence>
-                  <Sentence>一 設備を設置して提供する事業者又は接続により提供する事業者から電気通信事業者の電気通信事業の用に供するＦＴＴＨアクセスサービス（以下この項において「ＦＴＴＨアクセスサービスに係る卸電気通信役務」という。）の提供を受ける電気通信事業者</Sentence>
-                  <Sentence>二 前号の電気通信事業者からＦＴＴＨアクセスサービスに係る卸電気通信役務の提供を受ける電気通信事業者</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">ＩＰ電話（当該ＩＰ電話の提供のために電気通信番号規則別表第一号に掲げる固定電話番号又は同表第六号に掲げる特定ＩＰ電話番号を使用するものに限る。）</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第八の二</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">ＩＰ電話を提供する電気通信事業者であつて、ＩＰ電話の提供のために電気通信番号規則別表第一号に掲げる固定電話番号又は同表第六号に掲げる特定ＩＰ電話番号の指定を受けたもの</Sentence>
                 </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>次のいずれかに該当する電気通信事業者であつて、当該電気通信事業者が提供する四半期末におけるＦＴＴＨアクセスサービスの契約数が三万未満であるもの（ＦＴＴＨアクセスサービスに係る卸電気通信役務を他の電気通信事業者の電気通信事業の用に供している電気通信事業者に限る。）</Sentence>
-                  <Sentence>一 設備を設置して提供する事業者又は接続により提供する事業者からＦＴＴＨアクセスサービスに係る卸電気通信役務の提供を受ける電気通信事業者</Sentence>
-                  <Sentence>二 前号の電気通信事業者からＦＴＴＨアクセスサービスに係る卸電気通信役務の提供を受ける電気通信事業者</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第八の三</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第四及び様式第五</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>ＤＳＬアクセスサービス</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">衛星移動通信サービス</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>デジタル加入者回線アクセス多重化装置を設置してＤＳＬアクセスサービスを提供する電気通信事業者</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">電気通信回線設備を設置して衛星移動通信サービスを提供する電気通信事業者</Sentence>
                 </TableColumn>
-                <TableColumn colspan="1" rowspan="2">
-                  <Sentence>様式第九</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>ＣＡＴＶアクセスサービス</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>有線テレビジョン放送施設の線路と同一の線路を使用する電気通信設備を設置してＣＡＴＶアクセスサービスを提供する電気通信事業者</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第六</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>ＦＷＡアクセスサービス</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">インターネット接続サービス</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>無線設備により構成される端末系伝送路設備を設置してＦＷＡアクセスサービスを提供する電気通信事業者</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">インターネット接続サービスを提供する電気通信事業者であつて、四半期末におけるインターネット接続サービスの契約数が五万以上であるもの</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>携帯電話・ＰＨＳアクセスサービス</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>基地局を設置して携帯電話・ＰＨＳアクセスサービスを提供する電気通信事業者</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十一</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第七</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>三・九―四世代移動通信アクセスサービス</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="1" rowspan="3">
+                  <Sentence WritingMode="vertical">ＦＴＴＨアクセスサービス</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>基地局を設置して三・九―四世代移動通信アクセスサービスを提供する電気通信事業者</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">次のいずれかに該当する電気通信事業者</Sentence>
+                  <Sentence WritingMode="vertical">一 光信号伝送用の端末系伝送路設備を設置してＦＴＴＨアクセスサービスを提供する電気通信事業者（以下この項において「設備を設置して提供する事業者」という。）</Sentence>
+                  <Sentence WritingMode="vertical">二 他の電気通信事業者が設置した光信号伝送用の端末系伝送路設備と自らの電気通信設備を接続してＦＴＴＨアクセスサービスを提供する電気通信事業者（以下この項において「接続により提供する事業者」という。）（共同住宅等内にＶＤＳＬ設備その他の電気通信設備を用いるＦＴＴＨアクセスサービスにあつては、当該電気通信設備を設置してＦＴＴＨアクセスサービスを提供する電気通信事業者）</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十二</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>第五世代移動通信アクセスサービス</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>基地局を設置して第五世代移動通信アクセスサービスを提供する電気通信事業者</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十二の二</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第八</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>ローカル５Ｇサービス</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">次のいずれかに該当する電気通信事業者であつて、当該電気通信事業者が提供する四半期末におけるＦＴＴＨアクセスサービスの契約数が三万以上であるもの</Sentence>
+                  <Sentence WritingMode="vertical">一 設備を設置して提供する事業者又は接続により提供する事業者から電気通信事業者の電気通信事業の用に供するＦＴＴＨアクセスサービス（以下この項において「ＦＴＴＨアクセスサービスに係る卸電気通信役務」という。）の提供を受ける電気通信事業者</Sentence>
+                  <Sentence WritingMode="vertical">二 前号の電気通信事業者からＦＴＴＨアクセスサービスに係る卸電気通信役務の提供を受ける電気通信事業者</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>基地局を設置してローカル５Ｇサービスを提供する電気通信事業者</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十二の三</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>全国ＢＷＡアクセスサービス</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>基地局を設置して全国ＢＷＡアクセスサービスを提供する電気通信事業者</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十三</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第八の二</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>地域ＢＷＡアクセスサービス</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">次のいずれかに該当する電気通信事業者であつて、当該電気通信事業者が提供する四半期末におけるＦＴＴＨアクセスサービスの契約数が三万未満であるもの（ＦＴＴＨアクセスサービスに係る卸電気通信役務を他の電気通信事業者の電気通信事業の用に供している電気通信事業者に限る。）</Sentence>
+                  <Sentence WritingMode="vertical">一 設備を設置して提供する事業者又は接続により提供する事業者からＦＴＴＨアクセスサービスに係る卸電気通信役務の提供を受ける電気通信事業者</Sentence>
+                  <Sentence WritingMode="vertical">二 前号の電気通信事業者からＦＴＴＨアクセスサービスに係る卸電気通信役務の提供を受ける電気通信事業者</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>基地局を設置して地域ＢＷＡアクセスサービスを提供する電気通信事業者</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十三の二</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>自営等ＢＷＡアクセスサービス</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>基地局を設置して自営等ＢＷＡアクセスサービスを提供する電気通信事業者</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十三の三</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第八の三</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>公衆無線ＬＡＮアクセスサービス</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">ＤＳＬアクセスサービス</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>次のいずれかに該当する電気通信事業者</Sentence>
-                  <Sentence>一 公衆無線ＬＡＮアクセスサービスを提供する電気通信事業者であつて、四半期末における公衆無線ＬＡＮアクセスサービスの契約数が三万以上であるもの</Sentence>
-                  <Sentence>二 公衆無線ＬＡＮアクセスサービスを提供する電気通信事業者に対して、卸電気通信役務の提供又は電気通信設備の接続により自ら設置した基地局（公衆無線ＬＡＮアクセスサービスに係るものに限る。）を提供する電気通信事業者</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">デジタル加入者回線アクセス多重化装置を設置してＤＳＬアクセスサービスを提供する電気通信事業者</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十四</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="1" rowspan="2">
+                  <Sentence WritingMode="vertical">様式第九</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>ＩＰ―ＶＰＮサービス</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">ＣＡＴＶアクセスサービス</Sentence>
                 </TableColumn>
-                <TableColumn colspan="1" rowspan="2">
-                  <Sentence>自ら設定したネットワークを用いて仮想閉域網を設定する電気通信事業者</Sentence>
-                </TableColumn>
-                <TableColumn colspan="1" rowspan="2">
-                  <Sentence>様式第十五</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">有線テレビジョン放送施設の線路と同一の線路を使用する電気通信設備を設置してＣＡＴＶアクセスサービスを提供する電気通信事業者</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>広域イーサネットサービス</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">ＦＷＡアクセスサービス</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">無線設備により構成される端末系伝送路設備を設置してＦＷＡアクセスサービスを提供する電気通信事業者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>アンライセンスＬＰＷＡサービス</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">携帯電話・ＰＨＳアクセスサービス</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>次のいずれかに該当する電気通信事業者</Sentence>
-                  <Sentence>一　電気通信設備（電波法施行規則第六条第四項第二号（１）、（１３）若しくは第三号又は第十六条第十一号に掲げる無線局の無線設備に限る。次号及び様式第十五の二において同じ。）を設置してアンライセンスＬＰＷＡサービスを提供する電気通信事業者</Sentence>
-                  <Sentence>二　アンライセンスＬＰＷＡサービスに係る電気通信設備を設置している他の電気通信事業者の電気通信回線設備と接続し、又は当該電気通信事業者から卸電気通信役務の提供を受けてアンライセンスＬＰＷＡサービスを提供する電気通信事業者であつて、四半期末におけるアンライセンスＬＰＷＡサービスの回線数が三万以上であるもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">基地局を設置して携帯電話・ＰＨＳアクセスサービスを提供する電気通信事業者</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十五の二</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十一</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn colspan="1" rowspan="2">
-                  <Sentence>仮想移動電気通信サービス</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">三・九―四世代移動通信アクセスサービス</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>仮想移動電気通信サービスを提供する電気通信事業者であつて、四半期末における仮想移動電気通信サービスの契約数が三万以上であるもの</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">基地局を設置して三・九―四世代移動通信アクセスサービスを提供する電気通信事業者</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十五の三</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn>
-                  <Sentence>仮想移動電気通信サービスを提供する電気通信事業者であつて、携帯電話、ＰＨＳ、ローカル５Ｇサービス又はＢＷＡアクセスサービスに係る基地局を設置している電気通信事業者の電気通信回線設備と接続し、又は当該電気通信事業者から卸電気通信役務の提供を受けて自ら提供する仮想移動電気通信サービスを卸電気通信役務として他の電気通信事業者に提供するもの（年度末における仮想移動電気通信サービスの契約数が三万未満であるものに限る。）</Sentence>
-                </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十五の三の二</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十二</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn>
-                  <Sentence>ドメイン名電気通信役務</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">第五世代移動通信アクセスサービス</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>ドメイン名電気通信役務を提供する電気通信事業者</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">基地局を設置して第五世代移動通信アクセスサービスを提供する電気通信事業者</Sentence>
                 </TableColumn>
-                <TableColumn>
-                  <Sentence>様式第十五の四</Sentence>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十二の二</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">ローカル５Ｇサービス</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">基地局を設置してローカル５Ｇサービスを提供する電気通信事業者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十二の三</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">全国ＢＷＡアクセスサービス</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">基地局を設置して全国ＢＷＡアクセスサービスを提供する電気通信事業者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十三</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">地域ＢＷＡアクセスサービス</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">基地局を設置して地域ＢＷＡアクセスサービスを提供する電気通信事業者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十三の二</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">自営等ＢＷＡアクセスサービス</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">基地局を設置して自営等ＢＷＡアクセスサービスを提供する電気通信事業者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十三の三</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">公衆無線ＬＡＮアクセスサービス</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">次のいずれかに該当する電気通信事業者</Sentence>
+                  <Sentence WritingMode="vertical">一 公衆無線ＬＡＮアクセスサービスを提供する電気通信事業者であつて、四半期末における公衆無線ＬＡＮアクセスサービスの契約数が三万以上であるもの</Sentence>
+                  <Sentence WritingMode="vertical">二 公衆無線ＬＡＮアクセスサービスを提供する電気通信事業者に対して、卸電気通信役務の提供又は電気通信設備の接続により自ら設置した基地局（公衆無線ＬＡＮアクセスサービスに係るものに限る。）を提供する電気通信事業者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十四</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">ＩＰ―ＶＰＮサービス</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="1" rowspan="2">
+                  <Sentence WritingMode="vertical">自ら設定したネットワークを用いて仮想閉域網を設定する電気通信事業者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="1" rowspan="2">
+                  <Sentence WritingMode="vertical">様式第十五</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">広域イーサネットサービス</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">アンライセンスＬＰＷＡサービス</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">次のいずれかに該当する電気通信事業者</Sentence>
+                  <Sentence WritingMode="vertical">一　電気通信設備（電波法施行規則第六条第四項第二号（１）、（１３）若しくは第三号又は第十六条第十一号に掲げる無線局の無線設備に限る。次号及び様式第十五の二において同じ。）を設置してアンライセンスＬＰＷＡサービスを提供する電気通信事業者</Sentence>
+                  <Sentence WritingMode="vertical">二　アンライセンスＬＰＷＡサービスに係る電気通信設備を設置している他の電気通信事業者の電気通信回線設備と接続し、又は当該電気通信事業者から卸電気通信役務の提供を受けてアンライセンスＬＰＷＡサービスを提供する電気通信事業者であつて、四半期末におけるアンライセンスＬＰＷＡサービスの回線数が三万以上であるもの</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十五の二</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="1" rowspan="2">
+                  <Sentence WritingMode="vertical">仮想移動電気通信サービス</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">仮想移動電気通信サービスを提供する電気通信事業者であつて、四半期末における仮想移動電気通信サービスの契約数が三万以上であるもの</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十五の三</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">仮想移動電気通信サービスを提供する電気通信事業者であつて、携帯電話、ＰＨＳ、ローカル５Ｇサービス又はＢＷＡアクセスサービスに係る基地局を設置している電気通信事業者の電気通信回線設備と接続し、又は当該電気通信事業者から卸電気通信役務の提供を受けて自ら提供する仮想移動電気通信サービスを卸電気通信役務として他の電気通信事業者に提供するもの（年度末における仮想移動電気通信サービスの契約数が三万未満であるものに限る。）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十五の三の二</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">ドメイン名電気通信役務</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">ドメイン名電気通信役務を提供する電気通信事業者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">様式第十五の四</Sentence>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -1995,12 +2000,12 @@
       <AppdxStyleTitle WritingMode="vertical">様式</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_001.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_001.pdf"/>
         </Style>
       </StyleStruct>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_002.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2271,6 +2276,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月二九日総務省令第九三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表　電気通信役務の種類</AppdxTableTitle>
       <RelatedArticleNum>（第四条の六関係）</RelatedArticleNum>
@@ -2512,7 +2526,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_003.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2521,7 +2535,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_004.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2530,7 +2544,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_005.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2539,7 +2553,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_006.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2548,7 +2562,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_007.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2557,7 +2571,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_008.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2566,7 +2580,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_009.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2575,7 +2589,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_010.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2584,7 +2598,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_011.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2593,7 +2607,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_012.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2602,7 +2616,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_013.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2611,7 +2625,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_014.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2620,7 +2634,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_015.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2629,7 +2643,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_016.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2638,7 +2652,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_017.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2646,7 +2660,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第１２の３（第２条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_018.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2655,7 +2669,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_019.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2663,15 +2677,15 @@
       <AppdxStyleTitle WritingMode="vertical">様式第１３の２（第２条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_020.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
-      <AppdxStyleTitle>様式第１３の３（第２条第１項関係）</AppdxStyleTitle>
+      <AppdxStyleTitle WritingMode="vertical">様式第１３の３（第２条第１項関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_021.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2680,7 +2694,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_022.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2689,7 +2703,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_023.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2698,7 +2712,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_024.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2707,7 +2721,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_025.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2716,7 +2730,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_026.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2725,7 +2739,7 @@
       <RelatedArticleNum>（第２条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_027.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2734,7 +2748,7 @@
       <RelatedArticleNum>（第２条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_028.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2743,7 +2757,7 @@
       <RelatedArticleNum>（第２条第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_029.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2752,7 +2766,7 @@
       <RelatedArticleNum>（第２条第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_030.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2761,7 +2775,7 @@
       <RelatedArticleNum>（第２条第４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_031.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2770,7 +2784,7 @@
       <RelatedArticleNum>（第２条第４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_032.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2779,7 +2793,7 @@
       <RelatedArticleNum>（第２条第４項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_033.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2788,7 +2802,7 @@
       <RelatedArticleNum>（第２条の２第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_034.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2797,7 +2811,7 @@
       <RelatedArticleNum>（第２条の２第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_035.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2806,7 +2820,7 @@
       <RelatedArticleNum>（第２条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_036.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2815,7 +2829,7 @@
       <RelatedArticleNum>（第２条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_037.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2824,7 +2838,7 @@
       <RelatedArticleNum>（第２条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_038.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_038.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2833,7 +2847,7 @@
       <RelatedArticleNum>（第２条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_039.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_039.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2842,7 +2856,7 @@
       <RelatedArticleNum>（第２条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_040.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_040.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2851,7 +2865,7 @@
       <RelatedArticleNum>（第３条第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_041.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_041.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2860,7 +2874,7 @@
       <RelatedArticleNum>（第３条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_042.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_042.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2869,7 +2883,7 @@
       <RelatedArticleNum>（第３条第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_043.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_043.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2878,7 +2892,7 @@
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_044.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_044.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2887,7 +2901,7 @@
       <RelatedArticleNum>（第４条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_045.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_045.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2896,7 +2910,7 @@
       <RelatedArticleNum>（第４条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_046.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_046.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2905,7 +2919,7 @@
       <RelatedArticleNum>（第４条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_047.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_047.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2914,7 +2928,7 @@
       <RelatedArticleNum>（第４条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_048.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_048.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2923,7 +2937,7 @@
       <RelatedArticleNum>（第４条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_049.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_049.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2932,7 +2946,7 @@
       <RelatedArticleNum>（第４条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_050.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_050.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2941,7 +2955,7 @@
       <RelatedArticleNum>（第４条の８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_051.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_051.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2950,7 +2964,7 @@
       <RelatedArticleNum>（第４条の９第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_052.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_052.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2959,7 +2973,7 @@
       <RelatedArticleNum>（第４条の９第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_053.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_053.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2968,7 +2982,7 @@
       <RelatedArticleNum>（第４条の９第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_054.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_054.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2977,7 +2991,7 @@
       <RelatedArticleNum>（第４条の９第５項及び第６項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_055.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_055.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2986,7 +3000,7 @@
       <RelatedArticleNum>（第４条の１０第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_056.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_056.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2995,7 +3009,7 @@
       <RelatedArticleNum>（第４条の１０第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_057.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_057.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3004,7 +3018,7 @@
       <RelatedArticleNum>（第４条の１０第３項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_058.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_058.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3013,7 +3027,7 @@
       <RelatedArticleNum>（第４条の１１関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_059.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_059.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3022,7 +3036,7 @@
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_060.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_060.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3031,7 +3045,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_061.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_061.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3043,7 +3057,7 @@
       <RelatedArticleNum>（第７条の２第１項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_062.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_062.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3052,7 +3066,7 @@
       <RelatedArticleNum>（第７条の２第２項関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_063.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_063.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3061,7 +3075,7 @@
       <RelatedArticleNum>（第７条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_064.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_064.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3070,7 +3084,7 @@
       <RelatedArticleNum>（第７条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_065.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_065.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3079,7 +3093,7 @@
       <RelatedArticleNum>（第７条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_066.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_066.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3088,7 +3102,7 @@
       <RelatedArticleNum>（第７条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_067.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_067.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3097,7 +3111,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_068.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_068.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3106,7 +3120,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_069.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_069.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3115,7 +3129,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_070.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_070.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3124,7 +3138,7 @@
       <RelatedArticleNum>（第８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_071.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_071.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3133,7 +3147,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_072.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_072.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3142,7 +3156,7 @@
       <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S63F04001000046_2010091210_073.pdf"/>
+          <Fig src="./pict/S63F04001000046_2010121710_073.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
