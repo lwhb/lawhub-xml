@@ -1349,7 +1349,7 @@
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
                       <FigStruct>
-                        <Fig src="./pict/H05F03801000071_2008281508_001.jpg"/>
+                        <Fig src="./pict/H05F03801000071_2010151210_001.jpg"/>
                       </FigStruct>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -1759,22 +1759,6 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">イ　基準液柱圧力計及び基準重錘型圧力計</Sentence>
-                    </TableColumn>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">四年</Sentence>
-                    </TableColumn>
-                  </TableRow>
-                  <TableRow>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">ロ　血圧計用基準圧力計</Sentence>
-                    </TableColumn>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">一年</Sentence>
-                    </TableColumn>
-                  </TableRow>
-                  <TableRow>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">八　電気基準器</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -1832,12 +1816,6 @@
                 </Table>
               </TableStruct>
             </Paragraph>
-            <Paragraph Hide="false" Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の規定にかかわらず、災害その他やむを得ない事由により第二条の表の下欄に掲げる基準器検査を受けることができる者が前項の表の下欄に掲げる有効期間内に基準器検査を受けることが困難であるときは、当該有効期間は経済産業大臣が当該事由を勘案して定める期間とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="22">
             <ArticleCaption>（基準器検査証印の除去）</ArticleCaption>
@@ -1868,7 +1846,7 @@
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
                       <FigStruct>
-                        <Fig src="./pict/H05F03801000071_2008281508_002.jpg"/>
+                        <Fig src="./pict/H05F03801000071_2010151210_002.jpg"/>
                       </FigStruct>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -2129,7 +2107,7 @@
                 <Sentence WritingMode="vertical">法第百五条第三項の規定により基準器検査成績書に記載する消印は、一辺の長さが三センチメートルの正方形であって次の形状のものとする。</Sentence>
               </ParagraphSentence>
               <FigStruct>
-                <Fig src="./pict/H05F03801000071_2008281508_003.jpg"/>
+                <Fig src="./pict/H05F03801000071_2010151210_003.jpg"/>
               </FigStruct>
             </Paragraph>
           </Article>
@@ -4247,11 +4225,11 @@
                   </ItemSentence>
                   <FigStruct>
                     <FigStructTitle>図の一</FigStructTitle>
-                    <Fig src="./pict/H05F03801000071_2008281508_004.jpg"/>
+                    <Fig src="./pict/H05F03801000071_2010151210_004.jpg"/>
                   </FigStruct>
                   <FigStruct>
                     <FigStructTitle>図の二</FigStructTitle>
-                    <Fig src="./pict/H05F03801000071_2008281508_005.jpg"/>
+                    <Fig src="./pict/H05F03801000071_2010151210_005.jpg"/>
                   </FigStruct>
                 </Item>
                 <Item Delete="false" Hide="false" Num="2">
@@ -4261,11 +4239,11 @@
                   </ItemSentence>
                   <FigStruct>
                     <FigStructTitle>図の一</FigStructTitle>
-                    <Fig src="./pict/H05F03801000071_2008281508_006.jpg"/>
+                    <Fig src="./pict/H05F03801000071_2010151210_006.jpg"/>
                   </FigStruct>
                   <FigStruct>
                     <FigStructTitle>図の二</FigStructTitle>
-                    <Fig src="./pict/H05F03801000071_2008281508_007.jpg"/>
+                    <Fig src="./pict/H05F03801000071_2010151210_007.jpg"/>
                   </FigStruct>
                 </Item>
               </Paragraph>
@@ -8885,7 +8863,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">血圧計用基準圧力計の表記事項は、日本産業規格Ｔ一一一五（二〇一八）附属書による。</Sentence>
+                  <Sentence WritingMode="vertical">血圧計用基準圧力計の表記事項は、日本工業規格Ｔ一一一五（二〇一八）附属書による。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -8895,7 +8873,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">血圧計用基準圧力計の機構及び作用は、日本産業規格Ｔ一一一五（二〇一八） 附属書による。</Sentence>
+                  <Sentence WritingMode="vertical">血圧計用基準圧力計の機構及び作用は、日本工業規格Ｔ一一一五（二〇一八） 附属書による。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -8929,7 +8907,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">血圧計用基準圧力計の基準器公差は、日本産業規格Ｔ一一一五（二〇一八） 附属書による。</Sentence>
+                <Sentence WritingMode="vertical">血圧計用基準圧力計の基準器公差は、日本工業規格Ｔ一一一五（二〇一八） 附属書による。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -8950,7 +8928,7 @@
               <Paragraph Hide="false" Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">血圧計用基準圧力計の検査の条件は、日本産業規格Ｔ一一一五（二〇一八）附属書による。</Sentence>
+                  <Sentence WritingMode="vertical">血圧計用基準圧力計の検査の条件は、日本工業規格Ｔ一一一五（二〇一八）附属書による。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -9072,7 +9050,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">血圧計用基準圧力計の機構及び作用の検査は、日本産業規格Ｔ一一一五（二〇一八）附属書による。</Sentence>
+                  <Sentence WritingMode="vertical">血圧計用基準圧力計の機構及び作用の検査は、日本工業規格Ｔ一一一五（二〇一八）附属書による。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -9082,7 +9060,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">血圧計用基準圧力計の器差の検査は、日本産業規格Ｔ一一一五（二〇一八） 附属書による。</Sentence>
+                  <Sentence WritingMode="vertical">血圧計用基準圧力計の器差の検査は、日本工業規格Ｔ一一一五（二〇一八） 附属書による。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -11761,12 +11739,12 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成三〇年九月六日経済産業省令第五六号">
+    <SupplProvision AmendLawNum="令和元年七月一日経済産業省令第一七号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">この省令は、平成三十一年二月一日から施行する。</Sentence>
+          <Sentence WritingMode="vertical">この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -11963,7 +11941,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071_2008281508_008.pdf"/>
+          <Fig src="./pict/H05F03801000071_2010151210_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11972,7 +11950,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071_2008281508_009.pdf"/>
+          <Fig src="./pict/H05F03801000071_2010151210_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11981,7 +11959,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071_2008281508_010.pdf"/>
+          <Fig src="./pict/H05F03801000071_2010151210_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -11993,7 +11971,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071_2008281508_011.pdf"/>
+          <Fig src="./pict/H05F03801000071_2010151210_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12002,7 +11980,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071_2008281508_012.pdf"/>
+          <Fig src="./pict/H05F03801000071_2010151210_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12011,7 +11989,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071_2008281508_013.pdf"/>
+          <Fig src="./pict/H05F03801000071_2010151210_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12020,7 +11998,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071_2008281508_014.pdf"/>
+          <Fig src="./pict/H05F03801000071_2010151210_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12029,7 +12007,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071_2008281508_015.pdf"/>
+          <Fig src="./pict/H05F03801000071_2010151210_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12038,7 +12016,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071_2008281508_016.pdf"/>
+          <Fig src="./pict/H05F03801000071_2010151210_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12047,7 +12025,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071_2008281508_017.pdf"/>
+          <Fig src="./pict/H05F03801000071_2010151210_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12056,7 +12034,7 @@
       <RelatedArticleNum>（第２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071_2008281508_018.pdf"/>
+          <Fig src="./pict/H05F03801000071_2010151210_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12065,7 +12043,7 @@
       <RelatedArticleNum>（第２７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H05F03801000071_2008281508_019.pdf"/>
+          <Fig src="./pict/H05F03801000071_2010151210_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

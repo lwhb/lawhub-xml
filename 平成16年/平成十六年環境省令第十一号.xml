@@ -997,7 +997,7 @@
           <Item Delete="false" Hide="false" Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">ポリ塩化ビフェニル廃棄物の適正な処理の推進に関する特別措置法（平成十三年法律第六十五号）第十三条第一項の規定に基づく処分等措置（同法第十二条第一項に規定する処分等措置をいう。）に要する費用</Sentence>
+              <Sentence WritingMode="vertical">廃棄物の処理及び清掃に関する法律（昭和四十五年法律第百三十七号）第十九条の八第一項の規定に基づく生活環境の保全上の支障の除去等の措置（ポリ塩化ビフェニル廃棄物の適正な処理の推進に関する特別措置法（平成十三年法律第六十五号。以下「特措法」という。）第二条第二項に規定する高濃度ポリ塩化ビフェニル廃棄物の処理に係るものに限る。）及び特措法第十三条第一項の規定に基づく処分等措置（同法第十二条第一項に規定する処分等措置をいう。）に要する費用</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -1478,6 +1478,15 @@
       </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和二年三月二四日環境省令第八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月四日環境省令第二一号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>

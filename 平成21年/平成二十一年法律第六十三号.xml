@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200831e80k80m01" Era="Heisei" Lang="ja" LawType="Act" Num="063" Year="21">
+<Law DataInfo="200731e01k01m01" Era="Heisei" Lang="ja" LawType="Act" Num="063" Year="21">
   <LawNum>平成二十一年法律第六十三号</LawNum>
   <LawBody>
     <LawTitle>株式会社地域経済活性化支援機構法</LawTitle>
@@ -401,13 +401,13 @@
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence>第三十二条の十二第三項の特定組合出資をするかどうかの決定</Sentence>
+                  <Sentence>第三十二条の十第三項の特定組合出資をするかどうかの決定</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="9">
                 <ItemTitle>九</ItemTitle>
                 <ItemSentence>
-                  <Sentence>第三十三条第一項の債権又は株式若しくは持分の譲渡その他の処分の決定（再生支援対象事業者（第二十六条第一項に規定する再生支援対象事業者をいう。第二十二条第一項及び第三項並びに第二十五条第四項において同じ。）、特定支援対象事業者（第三十二条の三第一項に規定する特定支援対象事業者をいう。第二十二条第一項第三号及び第三項並びに第三十二条の二第三項において同じ。）又は第二十二条第一項第七号に規定する対象特定組合に係るものに限る。）</Sentence>
+                  <Sentence>第三十三条第一項の債権又は株式若しくは持分の譲渡その他の処分の決定（再生支援対象事業者（第二十六条第一項に規定する再生支援対象事業者をいう。第二十二条第一項及び第三項並びに第二十五条第四項において同じ。）、特定支援対象事業者（第三十二条の三第一項に規定する特定支援対象事業者をいう。第二十二条第一項第三号及び第三項並びに第三十二条の二第三項において同じ。）又は第二十二条第一項第五号に規定する対象特定組合に係るものに限る。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="10">
@@ -686,7 +686,7 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>出資（再生支援対象事業者の株式の取得を含む。第十号及び第三十一条第一項において同じ。）</Sentence>
+                    <Sentence>出資（再生支援対象事業者の株式の取得を含む。第八号及び第三十一条第一項において同じ。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
@@ -711,71 +711,47 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>特定信託引受対象事業者（第三十二条の九第五項に規定する特定信託引受決定の対象となった事業者をいう。以下同じ。）に対して一又は二以上の金融機関等（当該特定信託引受対象事業者に対して有する債権の額が最も多いものを除く。）が有する全ての貸付債権等の信託の引受け（以下「特定信託引受け」という。）</Sentence>
+                  <Sentence>特定専門家派遣対象機関（第三十三条第二項第二号に規定する特定専門家派遣決定により専門家の派遣の対象となった者をいう。第三項において同じ。）に対する事業の再生に関する専門家又は新たな事業の創出その他の地域経済の活性化に資する事業活動で主務省令で定めるもの（第三十二条の九第一項において「地域経済活性化事業活動」という。）に関する専門家の派遣（以下「特定専門家派遣」という。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>特定事業再生支援会社（第三十二条の十第四項に規定する特定出資決定の対象となった中小企業者その他の事業者の事業の再生を支援することを目的とする株式会社をいう。以下同じ。）に対する次に掲げる業務（以下「特定出資」という。）</Sentence>
+                  <Sentence>対象特定組合（第三十二条の十第四項に規定する特定組合出資決定の対象となった特定組合（投資事業有限責任組合契約に関する法律（平成十年法律第九十号）第二条第二項に規定する投資事業有限責任組合であって、地域経済の活性化に資する資金供給を行うもので主務省令で定めるものをいう。以下同じ。）をいう。以下同じ。）に対する出資（当該出資により当該対象特定組合の有限責任組合員となるものに限る。以下「特定組合出資」という。）</Sentence>
                 </ItemSentence>
-                <Subitem1 Num="1">
-                  <Subitem1Title>イ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence>出資（その発行の時において議決権を行使することができる事項のない株式であって、剰余金の配当及び残余財産の分配について優先的内容を有するものの引受けに係るものに限る。）</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Num="2">
-                  <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence>劣後特約付金銭消費貸借（元利金の支払について劣後的内容を有する特約が付された金銭の消費貸借であって主務省令で定めるものをいう。）による資金の貸付け（劣後特約付社債（元利金の支払について劣後的内容を有する特約が付された社債であって主務省令で定めるものをいう。）の引受けを含む。）</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
               </Item>
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence>特定専門家派遣対象機関（第三十三条第二項第三号に規定する特定専門家派遣決定により専門家の派遣の対象となった者をいう。第三項において同じ。）に対する事業の再生に関する専門家又は新たな事業の創出その他の地域経済の活性化に資する事業活動で主務省令で定めるもの（第三十二条の十一第一項において「地域経済活性化事業活動」という。）に関する専門家の派遣（以下「特定専門家派遣」という。）</Sentence>
+                  <Sentence>単独で又は民間事業者と共同して、特定組合の無限責任組合員となる株式会社の設立の発起人となり、及び設立のための出資を行い、並びに当該株式会社の経営管理を行うこと（以下「特定経営管理」という。）。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence>対象特定組合（第三十二条の十二第四項に規定する特定組合出資決定の対象となった特定組合（投資事業有限責任組合契約に関する法律（平成十年法律第九十号）第二条第二項に規定する投資事業有限責任組合であって、地域経済の活性化に資する資金供給を行うもので主務省令で定めるものをいう。以下同じ。）をいう。以下同じ。）に対する出資（当該出資により当該対象特定組合の有限責任組合員となるものに限る。以下「特定組合出資」という。）</Sentence>
+                  <Sentence>債権買取り等又は特定債権買取りに係る債権の管理及び譲渡その他の処分（債権者としての権利の行使に関する一切の裁判上又は裁判外の行為を含む。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence>単独で又は民間事業者と共同して、特定組合の無限責任組合員となる株式会社の設立の発起人となり、及び設立のための出資を行い、並びに当該株式会社の経営管理を行うこと（以下「特定経営管理」という。）。</Sentence>
+                  <Sentence>出資に係る株式又は持分の譲渡その他の処分</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="9">
                 <ItemTitle>九</ItemTitle>
                 <ItemSentence>
-                  <Sentence>債権買取り等、特定債権買取り又は特定信託引受けに係る債権の管理及び譲渡その他の処分（債権者としての権利の行使に関する一切の裁判上又は裁判外の行為を含む。）</Sentence>
+                  <Sentence>前各号に掲げる業務に関連して必要な交渉及び調査として行う法律事務</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="10">
                 <ItemTitle>十</ItemTitle>
                 <ItemSentence>
-                  <Sentence>出資に係る株式又は持分の譲渡その他の処分</Sentence>
+                  <Sentence>前各号に掲げる業務に附帯する業務</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="11">
                 <ItemTitle>十一</ItemTitle>
-                <ItemSentence>
-                  <Sentence>前各号に掲げる業務に関連して必要な交渉及び調査として行う法律事務</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="12">
-                <ItemTitle>十二</ItemTitle>
-                <ItemSentence>
-                  <Sentence>前各号に掲げる業務に附帯する業務</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="13">
-                <ItemTitle>十三</ItemTitle>
                 <ItemSentence>
                   <Sentence>前各号に掲げるもののほか、機構の目的を達成するために必要な業務</Sentence>
                 </ItemSentence>
@@ -784,13 +760,13 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>機構は、前項第十三号に掲げる業務を営もうとするときは、あらかじめ、主務大臣の認可を受けなければならない。</Sentence>
+                <Sentence>機構は、前項第十一号に掲げる業務を営もうとするときは、あらかじめ、主務大臣の認可を受けなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>機構は、第一項各号に掲げる業務のほか、当該業務の完了までの間、その業務の遂行に支障のない範囲内で、事業者（再生支援対象事業者、特定支援対象事業者、特定信託引受対象事業者、特定事業再生支援会社、特定専門家派遣対象機関（特定事業再生支援会社であるものを除く。）、対象特定組合及び特定経営管理に係る株式会社（第三十三条第一項及び第二項において「再生支援対象事業者等」という。）を除く。）の依頼に応じて、その事業活動に関し必要な助言を行うことができる。</Sentence>
+                <Sentence>機構は、第一項各号に掲げる業務のほか、当該業務の完了までの間、その業務の遂行に支障のない範囲内で、事業者（再生支援対象事業者、特定支援対象事業者、特定専門家派遣対象機関、対象特定組合及び特定経営管理に係る株式会社（第三十三条第一項及び第二項において「再生支援対象事業者等」という。）を除く。）の依頼に応じて、その事業活動に関し必要な助言を行うことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -807,13 +783,13 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>機構が前条第一項第一号に掲げる貸付債権等の信託の引受けの業務又は特定信託引受けの業務を行う場合には、機構を金融機関の信託業務の兼営等に関する法律（昭和十八年法律第四十三号）第一条第一項の認可を受けた金融機関とみなして、同法第二条第一項において準用する信託業法（平成十六年法律第百五十四号）第二十四条第一項、第二十八条並びに第二十九条第一項及び第二項の規定並びに金融機関の信託業務の兼営等に関する法律第十五条の二（第一号に係る部分に限る。）、第十七条（第一号及び第三号に係る部分に限る。）及び第二十二条（第三号に係る部分に限る。）の規定を適用する。</Sentence>
+                <Sentence>機構が前条第一項第一号に掲げる貸付債権等の信託の引受けの業務を行う場合には、機構を金融機関の信託業務の兼営等に関する法律（昭和十八年法律第四十三号）第一条第一項の認可を受けた金融機関とみなして、同法第二条第一項において準用する信託業法（平成十六年法律第百五十四号）第二十四条第一項、第二十八条並びに第二十九条第一項及び第二項の規定並びに金融機関の信託業務の兼営等に関する法律第十五条の二（第一号に係る部分に限る。）、第十七条（第一号及び第三号に係る部分に限る。）及び第二十二条（第三号に係る部分に限る。）の規定を適用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>機構が貸金業法第二条第二項に規定する貸金業者（第三十二条の十第一項において単に「貸金業者」という。）から債権買取り等、特定債権買取り又は特定信託引受けを行う場合には、同法第二十四条の規定は、適用しない。</Sentence>
+                <Sentence>機構が貸金業法第二条第二項に規定する貸金業者から債権買取り等又は特定債権買取りを行う場合には、同法第二十四条の規定は、適用しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -825,7 +801,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>主務大臣は、機構が、第二十二条第一項第一号及び第二号に掲げる業務（これらの業務に関連する同項第九号から第十三号までに掲げる業務を含む。）の実施による事業の再生の支援（以下「再生支援」という。）並びに同項第三号に掲げる業務（当該業務に関連する同項第九号及び第十一号から第十三号までに掲げる業務を含む。）の実施による地域経済の活性化に資する事業活動の実施に寄与するために必要な債務の整理の支援（以下「特定支援」という。）をするかどうかを決定するに当たって従うべき基準並びに次に掲げる業務を行うかどうかを決定するに当たって従うべき基準（以下「支援基準」と総称する。）を定めるものとする。</Sentence>
+                <Sentence>主務大臣は、機構が、第二十二条第一項第一号及び第二号に掲げる業務（これらの業務に関連する同項第七号から第十一号までに掲げる業務を含む。）の実施による事業の再生の支援（以下「再生支援」という。）並びに同項第三号に掲げる業務（当該業務に関連する同項第七号及び第九号から第十一号までに掲げる業務を含む。）の実施による地域経済の活性化に資する事業活動の実施に寄与するために必要な債務の整理の支援（以下「特定支援」という。）をするかどうかを決定するに当たって従うべき基準並びに次に掲げる業務を行うかどうかを決定するに当たって従うべき基準（以下「支援基準」と総称する。）を定めるものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -842,29 +818,17 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>特定信託引受け</Sentence>
+                  <Sentence>特定専門家派遣</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>特定出資</Sentence>
+                  <Sentence>特定組合出資</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
-                <ItemSentence>
-                  <Sentence>特定専門家派遣</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="6">
-                <ItemTitle>六</ItemTitle>
-                <ItemSentence>
-                  <Sentence>特定組合出資</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="7">
-                <ItemTitle>七</ItemTitle>
                 <ItemSentence>
                   <Sentence>特定経営管理</Sentence>
                 </ItemSentence>
@@ -873,7 +837,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>主務大臣は、前項の規定により支援基準（同項第四号から第七号までに掲げる業務に係るものを除く。）を定めようとするときは、あらかじめ、再生支援、特定支援及び特定信託引受けの対象となる事業者の事業を所管する大臣の意見を聴かなければならない。</Sentence>
+                <Sentence>主務大臣は、前項の規定により支援基準（同項第三号から第五号までに掲げる業務に係るものを除く。）を定めようとするときは、あらかじめ、再生支援及び特定支援の対象となる事業者の事業を所管する大臣の意見を聴かなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -959,7 +923,7 @@
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">再生支援決定は、平成三十三年三月三十一日までに行わなければならない。</Sentence>
+                <Sentence Function="main" Num="1">再生支援決定は、令和八年三月三十一日までに行わなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、機構があらかじめ主務大臣の認可を受けた事業者に対しては、同年九月三十日までの間、行うことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1177,7 +1141,7 @@
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">特定支援決定は、平成三十三年三月三十一日までに行わなければならない。</Sentence>
+                <Sentence Function="main" Num="1">特定支援決定は、令和八年三月三十一日までに行わなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2">ただし、機構があらかじめ主務大臣の認可を受けた事業者及びその代表者等に対しては、同年九月三十日までの間、行うことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1337,119 +1301,12 @@
             </Paragraph>
           </Article>
           <Article Num="32_9">
-            <ArticleCaption>（特定信託引受決定）</ArticleCaption>
+            <ArticleCaption>（特定専門家派遣に係る決定）</ArticleCaption>
             <ArticleTitle>第三十二条の九</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>過大な債務を負っている事業者であって、当該事業者に対して有する債権の額が最も多い金融機関等その他の者と協力してその事業の再生を図ろうとするもの（第二十五条第一項第一号の政令で定める事業者及び同項第二号から第四号までに掲げる法人並びに再生支援対象事業者を除く。）は、機構に対し、当該金融機関等及び貸付債権等を信託しようとする当該事業者の債権者である金融機関等と連名で、特定信託引受けの申込みをすることができる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence>前項の申込みは、当該申込みをする事業者の事業の再生のおおよその見通しを記載した書面その他主務省令で定める書面を添付して行わなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence>機構は、第一項の申込みがあったときは、遅滞なく、支援基準に従って、特定信託引受けをするかどうかを決定するとともに、その結果を当該申込みをした事業者及び金融機関等に通知しなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence>機構は、特定信託引受けをするかどうかを決定するに当たっては、第一項の申込みをした事業者の企業規模が小さいことのみを理由として不利益な取扱いをしてはならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="5">
-              <ParagraphNum>５</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence>機構は、特定信託引受けをする旨の決定（以下「特定信託引受決定」という。）を行ったときは、速やかに、主務大臣にその旨を報告しなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="6">
-              <ParagraphNum>６</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Function="main" Num="1">特定信託引受決定は、平成三十年三月三十一日までに行わなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、機構があらかじめ主務大臣の認可を受けた事業者及び金融機関等に対しては、同年九月三十日までの間、行うことができる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="32_10">
-            <ArticleCaption>（特定出資決定等）</ArticleCaption>
-            <ArticleTitle>第三十二条の十</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1">中小企業者その他の事業者の事業の再生を支援することを目的とする株式会社（貸金業者であるものに限る。）に分割又は現物出資により事業者に対する貸付債権を移転し、その対価として当該株式会社の株式を取得することにより、その総株主の議決権の全部を保有することとなる一又は二以上の金融機関等は、機構に対し、特定出資の申込みをすることができる。</Sentence>
-                <Sentence Num="2">この場合において、当該申込みは、当該一又は二以上の金融機関等及び当該株式会社の連名でするものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence>前項の申込みは、次に掲げる書面を添付して行わなければならない。</Sentence>
-              </ParagraphSentence>
-              <Item Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Sentence>当該株式会社に移転する貸付債権に係る事業者（以下「貸付債権移転対象事業者」という。）の事業の再生のおおよその見通しを記載した書面</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Sentence>貸付債権移転対象事業者が経営の改善のための計画を作成し、かつ、当該計画を達成することができると見込まれるとき、又は貸付債権移転対象事業者の経営が改善したと認められるときは、当該貸付債権移転対象事業者に対し、当該貸付債権移転対象事業者に対する貸付債権を当該株式会社に移転する金融機関等が資金の貸付けを行う旨を約していることを証する書面</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="3">
-                <ItemTitle>三</ItemTitle>
-                <ItemSentence>
-                  <Sentence>当該株式会社が貸付債権移転対象事業者に対して資金の貸付けを行う場合には、当該資金の貸付けは、当該金融機関等が当該貸付債権移転対象事業者に対して前号に規定する資金の貸付けを行うまでの間における当該貸付債権移転対象事業者の事業の継続に欠くことができないものに限る旨を約していることを証する書面</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="4">
-                <ItemTitle>四</ItemTitle>
-                <ItemSentence>
-                  <Sentence>その他主務省令で定める書面</Sentence>
-                </ItemSentence>
-              </Item>
-            </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence>機構は、第一項の申込みがあったときは、遅滞なく、支援基準に従って、特定出資をするかどうかを決定するとともに、その結果を当該申込みをした金融機関等に通知しなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence>機構は、特定出資をする旨の決定（次項及び第三十三条第二項第二号において「特定出資決定」という。）を行ったときは、速やかに、主務大臣にその旨を報告しなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="5">
-              <ParagraphNum>５</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Function="main" Num="1">特定出資決定は、平成三十年三月三十一日までに行わなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、機構があらかじめ主務大臣の認可を受けた金融機関等に対しては、同年九月三十日までの間、行うことができる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="6">
-              <ParagraphNum>６</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence>金融機関等は、機構が特定出資に係る株式又は債権の全部につき譲渡その他の処分をするまでの間、当該特定出資に係る特定事業再生支援会社の株式（機構が保有するものを除く。）の全部を継続して保有しなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="32_11">
-            <ArticleCaption>（特定専門家派遣に係る決定）</ArticleCaption>
-            <ArticleTitle>第三十二条の十一</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence>金融機関等、特定事業再生支援会社その他事業者の事業の再生又は地域経済活性化事業活動を支援する業務を行う者として主務省令で定めるものは、その業務を行うために必要があると認めるときは、機構に対し、当該者又は当該者の支援の対象となる事業者であって主務省令で定めるものに対する特定専門家派遣の申込みをすることができる。</Sentence>
+                <Sentence>金融機関等その他事業者の事業の再生又は地域経済活性化事業活動を支援する業務を行う者として主務省令で定めるものは、その業務を行うために必要があると認めるときは、機構に対し、当該者又は当該者の支援の対象となる事業者であって主務省令で定めるものに対する特定専門家派遣の申込みをすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1465,13 +1322,13 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="32_12">
+          <Article Num="32_10">
             <ArticleCaption>（特定組合出資決定等）</ArticleCaption>
-            <ArticleTitle>第三十二条の十二</ArticleTitle>
+            <ArticleTitle>第三十二条の十</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence>特定組合の無限責任組合員（無限責任組合員となろうとする者又は無限責任組合員となる法人を設立しようとする者を含む。第三項及び第三十八条第一項第九号において同じ。）は、機構に対し、特定組合出資の申込みをすることができる。</Sentence>
+                <Sentence>特定組合の無限責任組合員（無限責任組合員となろうとする者又は無限責任組合員となる法人を設立しようとする者を含む。第三項及び第三十八条第一項第五号において同じ。）は、機構に対し、特定組合出資の申込みをすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1489,19 +1346,19 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>機構は、特定組合出資をする旨の決定（次項及び第三十三条第二項第三号において「特定組合出資決定」という。）を行ったときは、速やかに、主務大臣にその旨を報告しなければならない。</Sentence>
+                <Sentence>機構は、特定組合出資をする旨の決定（次項及び第三十三条第二項第二号において「特定組合出資決定」という。）を行ったときは、速やかに、主務大臣にその旨を報告しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>特定組合出資決定は、平成三十三年三月三十一日までに行わなければならない。</Sentence>
+                <Sentence>特定組合出資決定は、令和八年三月三十一日までに行わなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="32_13">
+          <Article Num="32_11">
             <ArticleCaption>（特定経営管理決定等）</ArticleCaption>
-            <ArticleTitle>第三十二条の十三</ArticleTitle>
+            <ArticleTitle>第三十二条の十一</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -1517,7 +1374,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>特定経営管理決定は、平成三十三年三月三十一日までに行わなければならない。</Sentence>
+                <Sentence>特定経営管理決定は、令和八年三月三十一日までに行わなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -1548,7 +1405,7 @@
                     <Sentence>再生支援決定又は特定支援決定</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>これらの決定の日から五年以内（第二十五条第八項ただし書又は第三十二条の二第七項ただし書の認可を受けてこれらの決定を行った場合は、平成三十八年三月三十一日まで）で、かつ、できる限り短い期間</Sentence>
+                    <Sentence>これらの決定の日から五年以内（第二十五条第八項ただし書又は第三十二条の二第七項ただし書の認可を受けてこれらの決定を行った場合は、令和十三年三月三十一日まで）で、かつ、できる限り短い期間</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -1556,21 +1413,10 @@
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence>特定信託引受決定又は特定出資決定</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence>これらの決定の日から五年以内（第三十二条の九第六項ただし書又は第三十二条の十第五項ただし書の認可を受けてこれらの決定を行った場合は、平成三十五年三月三十一日まで）で、かつ、できる限り短い期間</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
-              <Item Num="3">
-                <ItemTitle>三</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
                     <Sentence>特定専門家派遣決定（特定専門家派遣をする旨の決定をいう。）、特定組合出資決定又は特定経営管理決定</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence>これらの決定の日から平成三十八年三月三十一日までの期間</Sentence>
+                    <Sentence>これらの決定の日から令和十三年三月三十一日までの期間</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -1578,13 +1424,13 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>機構が貸付債権等の信託の引受けを行う場合における信託契約の終了の日は、再生支援決定の日から五年以内（第二十五条第八項ただし書の認可を受けて再生支援決定を行った場合は、平成三十八年三月三十一日まで）又は特定信託引受決定の日から五年以内（第三十二条の九第六項ただし書の認可を受けて特定信託引受決定を行った場合は、平成三十五年三月三十一日まで）でなければならない。</Sentence>
+                <Sentence>機構が貸付債権等の信託の引受けを行う場合における信託契約の終了の日は、再生支援決定の日から五年以内（第二十五条第八項ただし書の認可を受けて再生支援決定を行った場合は、令和十三年三月三十一日まで）でなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence>機構が債務の保証を行う場合におけるその対象となる貸付金の償還期限は、再生支援決定の日から五年以内（第二十五条第八項ただし書の認可を受けて再生支援決定を行った場合は、平成三十八年三月三十一日まで）でなければならない。</Sentence>
+                <Sentence>機構が債務の保証を行う場合におけるその対象となる貸付金の償還期限は、再生支援決定の日から五年以内（第二十五条第八項ただし書の認可を受けて再生支援決定を行った場合は、令和十三年三月三十一日まで）でなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1765,50 +1611,6 @@
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence>特定信託引受けの申込みをした事業者又は当該事業者に係る当該申込みをした金融機関等</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence>当該事業者</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
-              <Item Num="6">
-                <ItemTitle>六</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
-                    <Sentence>特定信託引受対象事業者又は特定信託引受対象事業者に係る特定信託引受けの申込みをした金融機関等</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence>特定信託引受対象事業者</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
-              <Item Num="7">
-                <ItemTitle>七</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
-                    <Sentence>特定出資の申込みをした金融機関等</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence>貸付債権移転対象事業者</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
-              <Item Num="8">
-                <ItemTitle>八</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
-                    <Sentence>特定事業再生支援会社又は特定事業再生支援会社の株主である金融機関等</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence>貸付債権移転対象事業者</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
-              <Item Num="9">
-                <ItemTitle>九</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
                     <Sentence>特定組合出資の申込みをした特定組合の無限責任組合員</Sentence>
                   </Column>
                   <Column Num="2">
@@ -1816,8 +1618,8 @@
                   </Column>
                 </ItemSentence>
               </Item>
-              <Item Num="10">
-                <ItemTitle>十</ItemTitle>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
                     <Sentence>対象特定組合の無限責任組合員</Sentence>
@@ -2175,7 +1977,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">この法律における主務大臣は、内閣総理大臣、総務大臣、財務大臣及び経済産業大臣とする。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、第二十四条、第二十五条第一項第一号、第七項及び第八項、第二十八条第四項、第三十一条第二項、第三十二条の二第六項及び第七項、第三十二条の五第四項、第三十二条の九第五項及び第六項、第三十三条第一項（再生支援対象事業者、特定支援対象事業者及び特定信託引受対象事業者に係る部分に限る。）、第四十五条並びに第四十六条第一項に規定する主務大臣は、内閣総理大臣、総務大臣、財務大臣、厚生労働大臣及び経済産業大臣とする。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、第二十四条、第二十五条第一項第一号、第七項及び第八項、第二十八条第四項、第三十一条第二項、第三十二条の二第六項及び第七項、第三十二条の五第四項、第三十三条第一項（再生支援対象事業者及び特定支援対象事業者に係る部分に限る。）、第四十五条並びに第四十六条第一項に規定する主務大臣は、内閣総理大臣、総務大臣、財務大臣、厚生労働大臣及び経済産業大臣とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -2900,6 +2702,30 @@
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
           <Sentence>政府は、この法律の施行後三年を目途として、新法の施行の状況について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一九日法律第五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（政令への委任）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphCaption>（検討）</ParagraphCaption>
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>政府は、この法律の施行後五年を目途として、この法律による改正後の株式会社地域経済活性化支援機構法の施行の状況について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

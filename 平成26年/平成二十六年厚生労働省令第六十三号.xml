@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="63" Year="26">
+<Law DataInfo="200407e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="63" Year="26">
   <LawNum>平成二十六年厚生労働省令第六十三号</LawNum>
   <LawBody>
     <LawTitle>放課後児童健全育成事業の設備及び運営に関する基準</LawTitle>
@@ -193,7 +193,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">放課後児童支援員は、次の各号のいずれかに該当する者であって、都道府県知事又は地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市の長が行う研修を修了したものでなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">放課後児童支援員は、次の各号のいずれかに該当する者であって、都道府県知事又は地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市若しくは同法第二百五十二条の二十二第一項の中核市の長が行う研修を修了したものでなければならない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -589,6 +589,15 @@
       </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和元年一〇月三日厚生労働省令第六一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月四日厚生労働省令第二一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

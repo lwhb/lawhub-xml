@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="21">
+<Law DataInfo="200608e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="1" Year="21">
   <LawNum>平成二十一年内閣府・総務省・財務省・経済産業省令第一号</LawNum>
   <LawBody>
     <LawTitle>株式会社地域経済活性化支援機構法施行規則</LawTitle>
@@ -642,28 +642,12 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="8_3">
-        <ArticleCaption>（劣後特約付金銭消費貸借等）</ArticleCaption>
+        <ArticleCaption>（地域経済活性化事業活動）</ArticleCaption>
         <ArticleTitle>第八条の三</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十二条第一項第五号ロに規定する金銭の消費貸借であって主務省令で定めるものは、元利金の支払について劣後的内容を有する特約が付された金銭の消費貸借であって、担保が付されていないものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Hide="false" Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十二条第一項第五号ロに規定する社債であって主務省令で定めるものは、元利金の支払について劣後的内容を有する特約が付された社債であって、担保が付されていないものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="8_4">
-        <ArticleCaption>（地域経済活性化事業活動）</ArticleCaption>
-        <ArticleTitle>第八条の四</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十二条第一項第六号に規定する主務省令で定めるものは、地域における中小企業者その他の事業者（事業を開始する者を含む。次条第二号において同じ。）が行う次に掲げる事業活動であって、地域産業の高度化若しくは活性化又は雇用機会の増大に資するものとする。</Sentence>
+            <Sentence WritingMode="vertical">法第二十二条第一項第四号に規定する主務省令で定めるものは、地域における中小企業者その他の事業者（事業を開始する者を含む。次条第二号において同じ。）が行う次に掲げる事業活動であって、地域産業の高度化若しくは活性化又は雇用機会の増大に資するものとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -685,13 +669,13 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="8_5">
+      <Article Delete="false" Hide="false" Num="8_4">
         <ArticleCaption>（地域経済の活性化に資する資金供給を行う投資事業有限責任組合）</ArticleCaption>
-        <ArticleTitle>第八条の五</ArticleTitle>
+        <ArticleTitle>第八条の四</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第二十二条第一項第七号に規定する主務省令で定めるものは、次に掲げる者に対して投資事業有限責任組合契約に関する法律第三条第一項各号に掲げる事業の全部又は一部を営むことを約した投資事業有限責任組合（特定経営管理に係る投資事業有限責任組合にあっては、金銭の借入れを行わないことを約しているものに限る。）とする。</Sentence>
+            <Sentence WritingMode="vertical">法第二十二条第一項第五号に規定する主務省令で定めるものは、次に掲げる者に対して投資事業有限責任組合契約に関する法律第三条第一項各号に掲げる事業の全部又は一部を営むことを約した投資事業有限責任組合（特定経営管理に係る投資事業有限責任組合にあっては、金銭の借入れを行わないことを約しているものに限る。）とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1076,93 +1060,31 @@
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="14_4">
-        <ArticleCaption>（特定信託引受けの申込みに係る添付書面）</ArticleCaption>
+        <ArticleCaption>（特定専門家派遣の申込みができる者）</ArticleCaption>
         <ArticleTitle>第十四条の四</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十二条の九第二項に規定する主務省令で定める書面は、次に掲げる書面とする。</Sentence>
+            <Sentence WritingMode="vertical">法第三十二条の九第一項に規定する事業の再生又は地域経済活性化事業活動を支援する業務を行う者として主務省令で定める者は、第八条の四に規定する投資事業有限責任組合（次条第二号において単に「投資事業有限責任組合」という。）の無限責任組合員である者とする。</Sentence>
           </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">特定信託引受けの申込みに至った経緯を記載した書面</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">特定信託引受けの申込みをした事業者に対して有する債権の額が最も多い金融機関等による当該事業者に対する事業の再生の支援の方針を記載した書面</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">その他参考となるべき事項を記載した書面</Sentence>
-            </ItemSentence>
-          </Item>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="14_5">
-        <ArticleCaption>（特定出資の申込みに係る添付書面）</ArticleCaption>
+        <ArticleCaption>（特定専門家派遣対象機関）</ArticleCaption>
         <ArticleTitle>第十四条の五</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十二条の十第二項第四号に規定する主務省令で定める書面は、次に掲げる書面とする。</Sentence>
+            <Sentence WritingMode="vertical">法第三十二条の九第一項に規定する金融機関等その他事業者の事業の再生又は地域経済活性化事業活動を支援する業務を行う者の支援の対象となる事業者であって主務省令で定めるものは、次に掲げる者とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定出資の申込みに至った経緯を記載した書面</Sentence>
+              <Sentence WritingMode="vertical">特定専門家派遣対象機関である金融機関等の支援の対象となる事業者</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">特定出資の申込みをした金融機関等による貸付債権移転対象事業者に対する事業の再生の支援の方針を記載した書面</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">その他参考となるべき事項を記載した書面</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="14_6">
-        <ArticleCaption>（特定専門家派遣の申込みができる者）</ArticleCaption>
-        <ArticleTitle>第十四条の六</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十二条の十一第一項に規定する事業の再生又は地域経済活性化事業活動を支援する業務を行う者として主務省令で定める者は、第八条の五に規定する投資事業有限責任組合（次条第三号において単に「投資事業有限責任組合」という。）の無限責任組合員である者とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="14_7">
-        <ArticleCaption>（特定専門家派遣対象機関）</ArticleCaption>
-        <ArticleTitle>第十四条の七</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十二条の十一第一項に規定する金融機関等、特定事業再生支援会社その他事業者の事業の再生又は地域経済活性化事業活動を支援する業務を行う者の支援の対象となる事業者であって主務省令で定めるものは、次に掲げる者とする。</Sentence>
-          </ParagraphSentence>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">金融機関等の支援の対象となる事業者（特定専門家派遣対象機関である金融機関等の支援の対象となる事業者又は特定信託引受対象事業者に限る。）</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">特定事業再生支援会社の支援の対象となる貸付債権移転対象事業者</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="3">
-            <ItemTitle>三</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">投資事業有限責任組合による資金供給の対象となる事業者（次に掲げるものに限る。）</Sentence>
             </ItemSentence>
@@ -1181,23 +1103,23 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="14_8">
+      <Article Delete="false" Hide="false" Num="14_6">
         <ArticleCaption>（特定専門家派遣の申込みに係る添付書面）</ArticleCaption>
-        <ArticleTitle>第十四条の八</ArticleTitle>
+        <ArticleTitle>第十四条の六</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十二条の十一第二項に規定する主務省令で定める書面は、特定専門家派遣の申込みをした者における事業者の事業の再生又は地域経済活性化事業活動を支援する業務の実施体制を記載した書面その他参考となるべき事項を記載した書面とする。</Sentence>
+            <Sentence WritingMode="vertical">法第三十二条の九第二項に規定する主務省令で定める書面は、特定専門家派遣の申込みをした者における事業者の事業の再生又は地域経済活性化事業活動を支援する業務の実施体制を記載した書面その他参考となるべき事項を記載した書面とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="14_9">
+      <Article Delete="false" Hide="false" Num="14_7">
         <ArticleCaption>（特定組合出資の申込みに係る添付書面）</ArticleCaption>
-        <ArticleTitle>第十四条の九</ArticleTitle>
+        <ArticleTitle>第十四条の七</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第三十二条の十二第二項に規定する主務省令で定める書面は、次に掲げる書面とする。</Sentence>
+            <Sentence WritingMode="vertical">法第三十二条の十第二項に規定する主務省令で定める書面は、次に掲げる書面とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -1226,7 +1148,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">機構は、毎年、四月一日から六月三十日まで、七月一日から九月三十日まで、十月一日から十二月三十一日まで及び翌年一月一日から三月三十一日までの各期間ごとに、法第三十四条の規定による公表を行うものとする。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第四項第二十一号に掲げる事項については、事業年度ごとに当該公表を行うことができる。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第四項第十七号に掲げる事項については、事業年度ごとに当該公表を行うことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -1357,47 +1279,23 @@
           <Item Delete="false" Hide="false" Num="14">
             <ItemTitle>十四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定信託引受対象事業者の概要及び特定信託引受けに係る貸付債権の元本総額</Sentence>
+              <Sentence WritingMode="vertical">特定専門家派遣決定を行った件数</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="15">
             <ItemTitle>十五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">一の特定信託引受決定に係る全ての業務を完了した特定信託引受対象事業者の概要</Sentence>
+              <Sentence WritingMode="vertical">対象特定組合の概要及び特定組合出資の額</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="16">
             <ItemTitle>十六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定事業再生支援会社の名称及び特定事業再生支援会社ごとの特定出資の額</Sentence>
+              <Sentence WritingMode="vertical">特定経営管理に係る株式会社の事業の概況</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="17">
             <ItemTitle>十七</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">一の特定出資決定に係る全ての業務を完了した特定事業再生支援会社の名称</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="18">
-            <ItemTitle>十八</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">特定専門家派遣決定を行った件数</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="19">
-            <ItemTitle>十九</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">対象特定組合の概要及び特定組合出資の額</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="20">
-            <ItemTitle>二十</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">特定経営管理に係る株式会社の事業の概況</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="21">
-            <ItemTitle>二十一</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">業務の実施状況に関する機構の評価</Sentence>
             </ItemSentence>
@@ -1897,6 +1795,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この命令は、産業競争力強化法等の一部を改正する法律の施行の日（平成三十年七月九日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一九日内閣府・総務省・財務省・経済産業省令第一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この命令は、株式会社地域経済活性化支援機構法の一部を改正する法律（令和二年法律第五十七号）の施行の日（令和二年六月十九日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
