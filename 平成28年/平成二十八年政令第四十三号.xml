@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200909e05k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="043" Year="28">
+<Law DataInfo="200923e05k07m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="043" Year="28">
   <LawNum>平成二十八年政令第四十三号</LawNum>
   <LawBody>
     <LawTitle>電気事業法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令　抄</LawTitle>
@@ -181,13 +181,13 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第十一条の規定による改正後の法人税法施行令（以下この条において「新法人税法施行令」という。）第十三条の規定は、法人（法人税法（昭和四十年法律第三十四号）第二条第八号に規定する人格のない社団等を含む。以下この項において同じ。）が施行日以後に取得する新法人税法施行令第十三条第八号ヨに掲げる電気ガス供給施設利用権について適用し、法人が施行日前に取得した第十一条の規定による改正前の法人税法施行令第十三条第八号ヨに掲げる電気ガス供給施設利用権については、なお従前の例による。</Sentence>
+            <Sentence WritingMode="vertical">第十一条の規定による改正後の法人税法施行令（以下この項において「新法人税法施行令」という。）第十三条の規定は、法人（法人税法（昭和四十年法律第三十四号）第二条第八号に規定する人格のない社団等を含む。以下この項において同じ。）が施行日以後に取得する新法人税法施行令第十三条第八号ヨに掲げる電気ガス供給施設利用権について適用し、法人が施行日前に取得した第十一条の規定による改正前の法人税法施行令第十三条第八号ヨに掲げる電気ガス供給施設利用権については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">改正法附則第二十三条第一項に規定する特別小売供給を行う事業を営む改正法附則第四条第二項に規定するみなし登録特定送配電事業者に対して当該事業に係る電気の供給施設を設けるために要する費用を負担し、その施設を利用して電気の供給を受ける権利（平成三十三年三月三十一日までに取得されたものに限る。）は、新法人税法施行令第十三条の規定の適用については、同条第八号ヨに掲げる電気ガス供給施設利用権とみなす。</Sentence>
+            <Sentence WritingMode="vertical">改正法附則第二十三条第一項に規定する特別小売供給を行う事業を営む改正法附則第四条第二項に規定するみなし登録特定送配電事業者に対して当該事業に係る電気の供給施設を設けるために要する費用を負担し、その施設を利用して電気の供給を受ける権利（令和三年三月三十一日までに取得されたものに限る。）は、法人税法施行令第十三条の規定の適用については、同条第八号タに掲げる電気ガス供給施設利用権とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -223,7 +223,33 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年七月一二日政令第五八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、中小企業の事業活動の継続に資するための中小企業等経営強化法等の一部を改正する法律（次条において「改正法」という。）の施行の日（令和元年七月十六日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和二年三月三一日政令第一一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この政令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一一二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
