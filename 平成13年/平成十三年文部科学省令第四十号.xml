@@ -825,7 +825,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国立美術館法附則第五条第三項及び第六条第二項に規定する評価に関する庶務は、文化庁文化部において処理する。</Sentence>
+            <Sentence WritingMode="vertical">国立美術館法附則第五条第三項及び第六条第二項に規定する評価に関する庶務は、文化庁企画調整課において処理する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -987,6 +987,19 @@
           <Sentence WritingMode="vertical">この省令は、平成三十年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年一〇月一日文部科学省令第二九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、平成三十年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

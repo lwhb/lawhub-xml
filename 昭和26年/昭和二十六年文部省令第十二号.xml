@@ -94,45 +94,45 @@
               <Sentence WritingMode="vertical">社会教育主事となる資格を得ようとする者は、講習において次の表に掲げるすべての科目の単位を修得しなければならない。</Sentence>
             </ParagraphSentence>
             <TableStruct>
-              <Table>
+              <Table WritingMode="vertical">
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>科目</Sentence>
+                    <Sentence WritingMode="vertical">科目</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>単位数</Sentence>
+                    <Sentence WritingMode="vertical">単位数</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>生涯学習概論</Sentence>
+                    <Sentence WritingMode="vertical">生涯学習概論</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>二</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>生涯学習支援論</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>二</Sentence>
+                    <Sentence WritingMode="vertical">二</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>社会教育経営論</Sentence>
+                    <Sentence WritingMode="vertical">生涯学習支援論</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>二</Sentence>
+                    <Sentence WritingMode="vertical">二</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>社会教育演習</Sentence>
+                    <Sentence WritingMode="vertical">社会教育経営論</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>二</Sentence>
+                    <Sentence WritingMode="vertical">二</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence WritingMode="vertical">社会教育演習</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence WritingMode="vertical">二</Sentence>
                   </TableColumn>
                 </TableRow>
               </Table>
@@ -227,8 +227,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">受講者の人数、選定の方法並びに講習を行う大学その他の教育機関、講習の期間その他講習実施の細目については、毎年官報で公告する。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特別の事情がある場合には、適宜な方法によつて公示するものとする。</Sentence>
+              <Sentence WritingMode="vertical">受講者の人数、選定の方法並びに講習を行う大学その他の教育機関、講習の期間その他講習実施の細目については、毎年インターネットの利用その他の適切な方法により公示する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -273,61 +272,61 @@
               <Sentence WritingMode="vertical">法第九条の四第三号の規定により大学において修得すべき社会教育主事の養成に係る社会教育に関する科目の単位は、次の表に掲げるものとする。</Sentence>
             </ParagraphSentence>
             <TableStruct>
-              <Table>
+              <Table WritingMode="vertical">
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>科目</Sentence>
+                    <Sentence WritingMode="vertical">科目</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>単位数</Sentence>
+                    <Sentence WritingMode="vertical">単位数</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>生涯学習概論</Sentence>
+                    <Sentence WritingMode="vertical">生涯学習概論</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>四</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>生涯学習支援論</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>四</Sentence>
+                    <Sentence WritingMode="vertical">四</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>社会教育経営論</Sentence>
+                    <Sentence WritingMode="vertical">生涯学習支援論</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>四</Sentence>
-                  </TableColumn>
-                </TableRow>
-                <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>社会教育特講</Sentence>
-                  </TableColumn>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>八</Sentence>
+                    <Sentence WritingMode="vertical">四</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>社会教育実習</Sentence>
+                    <Sentence WritingMode="vertical">社会教育経営論</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>一</Sentence>
+                    <Sentence WritingMode="vertical">四</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>社会教育演習、社会教育実習又は社会教育課題研究のうち一以上の科目</Sentence>
+                    <Sentence WritingMode="vertical">社会教育特講</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                    <Sentence>三</Sentence>
+                    <Sentence WritingMode="vertical">八</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence WritingMode="vertical">社会教育実習</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence WritingMode="vertical">一</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence WritingMode="vertical">社会教育演習、社会教育実習又は社会教育課題研究のうち一以上の科目</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
+                    <Sentence WritingMode="vertical">三</Sentence>
                   </TableColumn>
                 </TableRow>
               </Table>
@@ -845,6 +844,15 @@
         <ParagraphNum>８</ParagraphNum>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">附則第二項又は第四項、第五項若しくは第六項については、第八条第三項又は第十一条第三項の規定は、適用しない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月二五日文部科学省令第三三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

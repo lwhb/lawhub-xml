@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200127e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="23" Year="42">
+<Law DataInfo="200828e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="23" Year="42">
   <LawNum>昭和四十二年法律第二十三号</LawNum>
   <LawBody>
     <LawTitle>印紙税法</LawTitle>
@@ -6443,6 +6443,19 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一九日法律第五八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一　課税物件表</AppdxTableTitle>
       <RelatedArticleNum>（第二条―第五条、第七条、第十二条関係）</RelatedArticleNum>
@@ -7361,7 +7374,7 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>独立行政法人中小企業基盤整備機構法（平成十四年法律第百四十七号）第十五条第一項第一号から第四号まで、第五号ロ及びハ、第六号、第八号（中心市街地の活性化に関する法律（平成十年法律第九十二号）第三十九条第一項の規定による特定の地域における施設の整備等の業務に限る。）、第九号（中小企業等経営強化法（平成十一年法律第十八号）第七十二条第一項の規定による特定の地域における工場又は事業場の整備、出資等の業務に限る。）、第十二号、第十四号、第十八号並びに第十九号（業務の範囲）に掲げる業務並びに独立行政法人中小企業基盤整備機構法第十五条第二項の業務（同項第七号に掲げる業務を除く。）並びに同法附則第八条（旧繊維法に係る業務の特例）、第八条の二第一項（旧新事業創出促進法に係る業務の特例）及び第八条の四第一項（旧特定産業集積活性化法に係る業務の特例）の業務に関する文書</Sentence>
+              <Sentence>独立行政法人中小企業基盤整備機構法（平成十四年法律第百四十七号）第十五条第一項第一号から第四号まで、第五号ロ及びハ、第六号、第八号（中心市街地の活性化に関する法律（平成十年法律第九十二号）第三十九条第一項の規定による特定の地域における施設の整備等の業務に限る。）、第十一号、第十三号、第十七号並びに第十八号（業務の範囲）に掲げる業務並びに独立行政法人中小企業基盤整備機構法第十五条第二項の業務（同項第六号に掲げる業務を除く。）並びに同法附則第八条（旧繊維法に係る業務の特例）、第八条の二第一項（旧新事業創出促進法に係る業務の特例）及び第八条の四第一項（旧特定産業集積活性化法に係る業務の特例）の業務並びに同法附則第八条の八第一号及び第二号（改正前中小強化法等に係る業務の特例）に掲げる業務に関する文書</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>独立行政法人中小企業基盤整備機構</Sentence>

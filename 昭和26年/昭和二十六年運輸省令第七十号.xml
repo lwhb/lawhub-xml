@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200813e03k03m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="070" Year="26">
+<Law DataInfo="201021e03k03m02" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="070" Year="26">
   <LawNum>昭和二十六年運輸省令第七十号</LawNum>
   <LawBody>
     <LawTitle>自動車点検基準</LawTitle>
@@ -1022,21 +1022,6 @@
             </TableColumn>
           </TableRow>
         </Table>
-        <Remarks>
-          <RemarksLabel LineBreak="false">（注）</RemarksLabel>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>○１</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">（※１）印の点検は、当該自動車の走行距離、運行時の状態等から判断した適切な時期に行うことで足りる。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>○２</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">（※２）印の点検は、車両総重量８トン以上又は乗車定員３０人以上の自動車に限る。</Sentence>
-            </ItemSentence>
-          </Item>
-        </Remarks>
         <Remarks>
           <RemarksLabel LineBreak="false">（注）</RemarksLabel>
           <Item Delete="false" Hide="false" Num="1">
@@ -3901,27 +3886,6 @@
             </ItemSentence>
           </Item>
         </Remarks>
-        <Remarks>
-          <RemarksLabel LineBreak="false">（注）</RemarksLabel>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>○１</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">法第６１条第２項の規定により自動車検査証の有効期間を３年とされた自動車にあつては、２年目の点検は１年ごとの欄に掲げる基準によるものとし、３年目の点検は２年ごとの欄に掲げる基準によるものとする。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>○２</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">（※１）印の点検は、自動車検査証の交付を受けた日又は当該点検を行つた日以降の走行距離が１年当たり５千キロメートル以下の自動車については、前回の当該点検を行うべきこととされる時期に当該点検を行わなかつた場合を除き、行わないことができる。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="3">
-            <ItemTitle>○３</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">（※２）印の点検は、点火プラグが白金プラグ又はイリジウム・プラグの場合は、行わないことができる。</Sentence>
-            </ItemSentence>
-          </Item>
-        </Remarks>
       </TableStruct>
     </AppdxTable>
     <AppdxTable>
@@ -4392,27 +4356,6 @@
             </TableColumn>
           </TableRow>
         </Table>
-        <Remarks>
-          <RemarksLabel LineBreak="false">（注）</RemarksLabel>
-          <Item Delete="false" Hide="false" Num="1">
-            <ItemTitle>○１</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">法第６１条第２項の規定により自動車検査証の有効期間を３年とされた自動車にあつては、２年目の点検は１年ごとの欄に掲げる基準によるものとし、３年目の点検は２年ごとの欄に掲げる基準によるものとする。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="2">
-            <ItemTitle>○２</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">（※１）印の点検は、自動車検査証の交付を受けた日又は当該点検を行つた日以降の走行距離が１年当たり１千５百キロメートル以下の自動車については、前回の当該点検を行うべきこととされる時期に当該点検を行わなかつた場合を除き、行わないことができる。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Delete="false" Hide="false" Num="3">
-            <ItemTitle>○３</ItemTitle>
-            <ItemSentence>
-              <Sentence WritingMode="vertical">（※２）印の点検は、点火プラグが白金プラグ又はイリジウム・プラグの場合は、行わないことができる。</Sentence>
-            </ItemSentence>
-          </Item>
-        </Remarks>
         <Remarks>
           <RemarksLabel LineBreak="false">（注）</RemarksLabel>
           <Item Delete="false" Hide="false" Num="1">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200831e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="016" Year="02">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="016" Year="02">
   <LawNum>平成二年法務省令第十六号</LawNum>
   <LawBody>
     <LawTitle>出入国管理及び難民認定法第七条第一項第二号の基準を定める省令</LawTitle>
@@ -93,7 +93,7 @@
                 <Sentence WritingMode="vertical">法別表第一の二の表の技術・人文知識・国際業務の項の下欄に掲げる活動</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                <Sentence WritingMode="vertical">申請人が次のいずれにも該当していること。ただし、申請人が、外国弁護士による法律事務の取扱いに関する特別措置法（昭和六十一年法律第六十六号）第五十八条の二に規定する国際仲裁事件の手続についての代理に係る業務に従事しようとする場合は、この限りでない。</Sentence>
+                <Sentence WritingMode="vertical">申請人が次のいずれにも該当していること。ただし、申請人が、外国弁護士による法律事務の取扱いに関する特別措置法（昭和六十一年法律第六十六号）第五十八条の二に規定する国際仲裁事件の手続等及び国際調停事件の手続についての代理に係る業務に従事しようとする場合は、この限りでない。</Sentence>
                 <Sentence WritingMode="vertical">一　申請人が自然科学又は人文科学の分野に属する技術又は知識を必要とする業務に従事しようとする場合は、従事しようとする業務について、次のいずれかに該当し、これに必要な技術又は知識を修得していること。ただし、申請人が情報処理に関する技術又は知識を要する業務に従事しようとする場合で、法務大臣が告示をもって定める情報処理技術に関する試験に合格し又は法務大臣が告示をもって定める情報処理技術に関する資格を有しているときは、この限りでない。</Sentence>
                 <Sentence WritingMode="vertical">イ　当該技術若しくは知識に関連する科目を専攻して大学を卒業し、又はこれと同等以上の教育を受けたこと。</Sentence>
                 <Sentence WritingMode="vertical">ロ　当該技術又は知識に関連する科目を専攻して本邦の専修学校の専門課程を修了（当該修了に関し法務大臣が告示をもって定める要件に該当する場合に限る。）したこと。</Sentence>
@@ -1180,6 +1180,16 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月二八日法務省令第四七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、外国弁護士による法律事務の取扱いに関する特別措置法の一部を改正する法律（令和二年法律第三十三号）の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条の規定は、同法附則第一条ただし書に規定する規定の施行の日（令和二年八月二十九日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

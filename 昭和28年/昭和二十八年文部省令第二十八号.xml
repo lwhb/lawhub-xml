@@ -14,7 +14,7 @@
         <ChapterTitle>第二章　給付の請求手続等</ChapterTitle>
         <TOCSection Delete="false" Num="1">
           <SectionTitle>第一節　短期給付</SectionTitle>
-          <ArticleRange>（第四条―第十六条の四）</ArticleRange>
+          <ArticleRange>（第四条―第十六条の五）</ArticleRange>
         </TOCSection>
         <TOCSection Delete="false" Num="2">
           <SectionTitle>第二節　退職等年金給付</SectionTitle>
@@ -39,7 +39,7 @@
       </TOCChapter>
       <TOCChapter Delete="false" Num="6">
         <ChapterTitle>第六章　雑則</ChapterTitle>
-        <ArticleRange>（第三十八条―第四十一条）</ArticleRange>
+        <ArticleRange>（第三十七条の四―第四十一条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Delete="false" Num="7">
         <ChapterTitle>第七章　厚生年金保険給付</ChapterTitle>
@@ -268,7 +268,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号（法第四十五条第一項に規定する加入者等記号・番号をいう。以下同じ。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -326,7 +326,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -459,7 +459,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -496,16 +496,16 @@
             <ParagraphSentence>
               <Sentence WritingMode="vertical">法附則第二十項の規定により健康保険法による保険給付及び退職等年金給付を受けることができる加入者（以下この条において「短期給付適用除外加入者」という。）となつた者に国民年金法（昭和三十四年法律第百四十一号）第七条第一項第三号に規定する国民年金第三号被保険者（以下「国民年金第三号被保険者」という。）に該当する配偶者がある場合若しくは配偶者が国民年金第三号被保険者に該当することとなつた場合又は国民年金第三号被保険者に該当する配偶者が当該国民年金第三号被保険者に該当しなくなつた場合には、その短期給付適用除外加入者は、直ちに、次に掲げる事項（第五号に掲げる事項にあつては、国民年金第三号被保険者に該当する配偶者がある場合又は配偶者が国民年金第三号被保険者に該当することとなつた場合に限る。）を記載した届書に、配偶者が国民年金第三号被保険者に該当しなくなつた場合を除き、これらの事実を証明する書類を添えて、当該学校法人等を経て、事業団に提出しなければならない。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
+            <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>短期給付適用除外加入者の氏名、生年月日及び住所</Sentence>
+                <Sentence WritingMode="vertical">短期給付適用除外加入者の氏名、生年月日及び住所</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -548,7 +548,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -748,7 +748,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -772,7 +772,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -1004,7 +1004,7 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">厚生年金保険法第二十一条から第二十三条の三までの規定による厚生年金保険の標準報酬月額を決定し又は改定する場合においては、第一条の二の八の規定による届出を厚生年金保険の標準報酬月額の決定又は改定に係る届出とみなす。</Sentence>
+              <Sentence WritingMode="vertical">厚生年金保険法第二十一条から第二十三条の三までの規定による厚生年金保険の標準報酬月額を決定し又は改定する場合においては、第一条の二の六の規定による届出を厚生年金保険の標準報酬月額の決定又は改定に係る届出とみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1152,14 +1152,23 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第一項各号に掲げる医療機関又は指定訪問看護事業者（法第二十五条において準用する組合法第五十六条の二第一項に規定する指定訪問看護事業者をいう。以下同じ。）から療養の給付若しくは入院時食事療養費に係る療養、入院時生活療養費に係る療養若しくは保険外併用療養費に係る療養又は指定訪問看護（同項に規定する指定訪問看護をいう。以下同じ。）を受けようとする者は、加入者証又は第七条第三項の規定により交付を受けた資格喪失後継続給付証明書を（その者が法第二十五条において準用する組合法第五十五条第二項第二号又は第三号の規定の適用を受ける場合には高齢受給者証を添えて）当該医療機関又は当該指定訪問看護事業者に提出しなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、緊急その他やむを得ない事情により、提出することができない場合には、この限りでない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第一項及び第五十六条の二第一項に規定する文部科学省令で定める方法は、加入者証を、同法第五十五条第一項各号に掲げる医療機関若しくは薬局又は指定訪問看護事業者（法第二十五条において準用する組合法第五十六条の二第一項に規定する指定訪問看護事業者をいう。以下同じ。）に提出する方法とする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該薬局において、処方箋の提出により加入者であることの確認を行う場合には、当該薬局に処方箋を提出する方法とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項ただし書の場合においては、その事情がなくなつた後、直ちに、加入者証、資格喪失後継続給付証明書又は高齢受給者証を当該医療機関又は当該指定訪問看護事業者に提出しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第二項第二号又は第三号の規定の適用を受ける加入者が、同条第一項各号に掲げる医療機関若しくは薬局（以下「保険医療機関等」という。）又は指定訪問看護事業者に加入者証又は処方箋を提出する方法により加入者であることの確認を受けるときは、加入者証又は処方箋に高齢受給者証を添えて提出するものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該保険医療機関等又は指定訪問看護事業者において、当該加入者が法第二十五条において準用する組合法第五十五条第二項第二号又は第三号の規定の適用を受けることの確認を行うことができるときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">
+
+３　前二項の規定は、法第二十五条において準用する組合法第五十五条の三第一項、第五十五条の四第一項及び第五十五条の五第一項の規定の適用を受ける加入者について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1186,7 +1195,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -1237,8 +1246,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">法第二十五条において準用する組合法第五十五条第一項各号に掲げる薬局から薬剤の支給を受けようとする者は、同項各号に掲げる医療機関において診療に従事する保険医又は医師若しくは歯科医師から処方箋の交付を受けた上、当該薬局に提出しなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該薬局から加入者証の提出を求められたときは、当該処方箋及び加入者証を（その者が法第二十五条において準用する組合法第五十五条第二項第二号又は第三号の規定の適用を受ける場合には高齢受給者証を添えて）提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">法第二十五条において準用する組合法第五十五条第一項各号に掲げる薬局から薬剤の支給を受けようとする者は、同項各号に掲げる医療機関において診療に従事する保険医又は医師若しくは歯科医師から処方箋の交付を受けた上、当該薬局に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1248,7 +1256,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">加入者が第四条の十三第二項に規定する限度額適用証を医療機関に提出しないことにより減額がされない食事療養標準負担額（法第二十五条において準用する組合法第五十五条の三第二項に規定する食事療養標準負担額をいう。以下同じ。）を支払つた場合で、事業団がその提出しないことがやむを得ないものと認めたときは、その食事療養（法第二十五条において準用する組合法第五十四条第二項第一号に規定する食事療養をいう。以下同じ。）について支払つた食事療養標準負担額から食事療養標準負担額の減額があつたとすれば支払うべきであつた食事療養標準負担額を控除した額に相当する額を入院時食事療養費又は保険外併用療養費として加入者に支給することができる。</Sentence>
+                <Sentence WritingMode="vertical">加入者が第四条の十三第五項の規定により限度額適用証（同条第二項に規定する限度額適用証をいう。次項第九号及び次条第一項において同じ。）を法第二十五条において準用する組合法第五十五条第一項各号に掲げる医療機関に提出しなければならない場合において、提出しないことにより減額がされない食事療養標準負担額（法第二十五条において準用する組合法第五十五条の三第二項に規定する食事療養標準負担額をいう。以下同じ。）を支払つた場合で、事業団がその提出しないことがやむを得ないものと認めたときは、その食事療養（法第二十五条において準用する組合法第五十四条第二項第一号に規定する食事療養をいう。以下同じ。）について支払つた食事療養標準負担額から食事療養標準負担額の減額があつたとすれば支払うべきであつた食事療養標準負担額を控除した額に相当する額を入院時食事療養費又は保険外併用療養費として加入者に支給することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -1265,7 +1273,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -1307,7 +1315,7 @@
               <Item Delete="false" Hide="false" Num="9">
                 <ItemTitle>九</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">第四条の十三第二項に規定する限度額適用証を提出できなかつた理由</Sentence>
+                  <Sentence WritingMode="vertical">限度額適用証を提出できなかつた理由</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="10">
@@ -1330,7 +1338,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前条の規定は、第四条の十三第二項に規定する限度額適用証を法第二十五条において準用する組合法第五十五条第一項各号に掲げる医療機関に提出しないことにより減額がされない生活療養標準負担額（法第二十五条において準用する組合法第五十五条の四第二項に規定する生活療養標準負担額をいう。以下同じ。）を支払つた者に対する入院時生活療養費の支給について準用する。</Sentence>
+                <Sentence WritingMode="vertical">前条の規定は、第四条の十三第五項の規定により限度額適用証を法第二十五条において準用する組合法第五十五条第一項各号に掲げる医療機関に提出しなければならない場合において、提出しないことにより減額がされない生活療養標準負担額（法第二十五条において準用する組合法第五十五条の四第二項に規定する生活療養標準負担額をいう。以下同じ。）を支払つた者に対する入院時生活療養費の支給について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1379,7 +1387,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -1447,7 +1455,7 @@
             <Paragraph Hide="false" Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">認定を受けた者（施行令第六条において準用する組合法施行令第十一条の三の五第三項第一号から第四号までに掲げる者及び第四条の十一の二第一項又は第四条の十三第一項の申請書の提出に基づく事業団の認定を受けた者を除く。）が特定疾病給付対象療養を受けた場合において、同一の月に同一の法第二十五条において準用する組合法第五十五条第一項各号に掲げる医療機関若しくは薬局（以下「保険医療機関等」という。）又は指定訪問看護事業者から療養（食事療養及び生活療養並びに施行令第六条において準用する組合法施行令第十一条の三の三第一項第一号に規定する加入者又はその被扶養者が同条第八項の規定に該当する場合における同項に規定する療養を除く。第四条の十一の二第五項及び第四条の十三第五項において同じ。）を受けたときの施行令第六条において準用する組合法施行令第十一条の三の六第一項又は第三項から第五項までの規定の適用については、当該認定を受けた者は、第四条の十一の二第一項又は第四条の十三第一項の申請書の提出に基づく事業団の認定を受けているものとみなす。</Sentence>
+                <Sentence WritingMode="vertical">認定を受けた者（施行令第六条において準用する組合法施行令第十一条の三の五第三項第一号から第四号までに掲げる者及び第四条の十一の二第一項の事業団の認定又は第四条の十三第一項の申請書の提出に基づく事業団の認定を受けた者を除く。）が特定疾病給付対象療養を受けた場合において、同一の月に同一の保険医療機関等又は指定訪問看護事業者から療養（食事療養及び生活療養並びに施行令第六条において準用する組合法施行令第十一条の三の三第一項第一号に規定する加入者又はその被扶養者が同条第八項の規定に該当する場合における同項に規定する療養を除く。第四条の十一の二第五項及び第四条の十三第五項において同じ。）を受けたときの施行令第六条において準用する組合法施行令第十一条の三の六第一項又は第三項から第五項までの規定の適用については、当該認定を受けた者は、第四条の十一の二第一項の事業団の認定又は第四条の十三第一項の申請書の提出に基づく事業団の認定を受けているものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1468,7 +1476,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -1499,7 +1507,7 @@
             <Paragraph Hide="false" Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">認定を受けた者は、法第二十五条において準用する組合法第五十五条第一項各号に掲げる医療機関又は薬局から施行令第六条において準用する組合法施行令第十一条の三の三第九項に規定する療養を受けようとするときは、特定疾病療養受療証を当該医療機関又は薬局に提出しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">認定を受け、保険医療機関等から施行令第六条において準用する組合法施行令第十一条の三の三第九項に規定する療養を受けようとする者が、第四条の二第一項に規定する方法により加入者であることの確認を受けるとき（第五条第八項において準用する第四条の二第一項に規定する方法により被扶養者であることの確認を受けるときを含む。）は、特定疾病療養受療証を当該保険医療機関等に提出しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、緊急その他やむを得ない事情により、提出できない場合には、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1627,13 +1635,19 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="4_11_2">
-            <ArticleCaption>（限度額適用認定証の交付等）</ArticleCaption>
+            <ArticleCaption>（限度額適用の認定等）</ArticleCaption>
             <ArticleTitle>第四条の十一の二</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">施行令第六条において準用する組合法施行令第十一条の三の六第一項第一号イ、ロ、ハ若しくはニ、第二号ハ若しくはニ若しくは第三号ハ若しくはニ（これらの規定を同条第四項又は第五項において引用する場合を含む。）に規定する文部科学省令で定めるところによる事業団の認定又は同条第四項若しくは第五項に規定する文部科学省令で定めるところによる事業団の認定（施行令第六条において準用する組合法施行令第十一条の三の五第二項第一号から第四号までのいずれかに掲げる区分に該当する者に対して行われるものに限る。）（以下この条において単に「認定」という。）を受けようとする者（その者が被扶養者であるときは、その者を扶養する加入者）は、その事実を証明する証拠書類を添えて、次に掲げる事項を記載した申請書を、当該学校法人等を経て、事業団に提出しなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合においては、第四条第三項の規定を準用する。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">事業団は、第四条の十三第一項の規定による認定を受けている場合を除き、加入者の標準報酬月額に基づき、施行令第六条において準用する組合法施行令第十一条の三の六第一項第一号イ、ロ、ハ若しくはニ、第二号ハ若しくはニ若しくは第三号ハ若しくはニ（これらの規定を同条第四項又は第五項において引用する場合を含む。）に規定する文部科学省令で定めるところによる事業団の認定又は同条第四項若しくは第五項に規定する文部科学省令で定めるところによる事業団の認定（施行令第六条において準用する組合法施行令第十一条の三の五第二項第一号から第四号までのいずれかに掲げる区分に該当する者に対して行われるものに限る。）を行わなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この項の規定による認定を受けた者が第四条の十三第一項の規定による認定を受けるに至つたときは、この項の規定による認定を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">事業団は、前項の規定による認定を受けた者（その者が被扶養者であるときは、その者を扶養する加入者。以下この項において同じ。）から次に掲げる事項を記載した申請書の提出があつたときは、前項の規定による認定を受けた者に対して限度額適用認定証を交付する。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -1644,7 +1658,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -1656,7 +1670,7 @@
               <Item Delete="false" Hide="false" Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">認定を受けようとする者の氏名及び生年月日</Sentence>
+                  <Sentence WritingMode="vertical">認定を受けた者の氏名及び生年月日</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="5">
@@ -1665,12 +1679,6 @@
                   <Sentence WritingMode="vertical">その他必要な事項</Sentence>
                 </ItemSentence>
               </Item>
-            </Paragraph>
-            <Paragraph Hide="false" Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">事業団は、前項の申請書の提出に基づき認定を行つたときは、認定を受けた者（その者が被扶養者であるときは、その者を扶養する加入者）に対して限度額適用認定証を交付する。</Sentence>
-              </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>３</ParagraphNum>
@@ -1692,11 +1700,17 @@
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">認定を受けている者が当該認定の区分に該当しなくなつたとき。</Sentence>
+                  <Sentence WritingMode="vertical">第一項ただし書の規定により認定が取り消されたとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="4">
                 <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第一項の規定による認定を受けている者が当該認定の区分に該当しなくなつたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
                 <ItemSentence>
                   <Sentence WritingMode="vertical">限度額適用認定証の有効期限に至つたとき。</Sentence>
                 </ItemSentence>
@@ -1712,7 +1726,7 @@
             <Paragraph Hide="false" Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">認定を受けた者は、保険医療機関等又は指定訪問看護事業者から療養を受けようとするときは、限度額適用認定証を当該保険医療機関等又は指定訪問看護事業者に提出しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第一項の規定による認定を受け、保険医療機関等又は指定訪問看護事業者から療養を受けようとする者は、第四条の二第一項に規定する方法により加入者であることの確認を受ける場合（第五条第八項において準用する第四条の二第一項に規定する方法により被扶養者であることの確認を受けるときを含む。）において、当該保険医療機関等又は指定訪問看護事業者から第一項の規定による認定を受けていることの確認を求められたときは、限度額適用認定証を当該保険医療機関等又は指定訪問看護事業者に提出しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、緊急その他やむを得ない事情により、提出できない場合には、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1734,7 +1748,7 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="4_13">
-            <ArticleCaption>（限度額適用証の交付等）</ArticleCaption>
+            <ArticleCaption>（限度額適用・標準負担額減額の認定等）</ArticleCaption>
             <ArticleTitle>第四条の十三</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
@@ -1751,7 +1765,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -1782,7 +1796,7 @@
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">事業団は、前項の申請書の提出に基づき認定を行つたときは、認定を受けた者（その者が被扶養者であるときは、その者を扶養する加入者）に対して限度額適用証を交付する。</Sentence>
+                <Sentence WritingMode="vertical">事業団は、前項の申請書の提出に基づき認定を行つたときは、認定を受けた者（その者が被扶養者であるときは、その者を扶養する加入者）に対して限度額適用・標準負担額減額認定証（以下この条において「限度額適用証」という。）を交付する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="3">
@@ -1825,7 +1839,7 @@
             <Paragraph Hide="false" Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">認定を受けた者は、保険医療機関等又は指定訪問看護事業者から療養を受けようとするときは、限度額適用証を当該保険医療機関等又は指定訪問看護事業者に提出しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">認定を受けた、保険医療機関等又は指定訪問看護事業者から療養を受けようとする者は、第四条の二第一項に規定する方法により加入者であることの確認を受ける場合（第五条第八項において準用する第四条の二第一項に規定する方法により被扶養者であることの確認を受けるときを含む。）において、当該保険医療機関等又は指定訪問看護事業者から認定を受けていることの確認を求められたときは、限度額適用証を当該保険医療機関等又は指定訪問看護事業者に提出しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、緊急その他やむを得ない事情により、提出できない場合には、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1875,7 +1889,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -1979,7 +1993,7 @@
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第四条の二、第四条の四及び第四条の五（第四条の六において準用する場合を含む。）の規定は、被扶養者が保険医療機関等又は指定訪問看護事業者から療養又は指定訪問看護を受ける場合について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、第四条の二及び第四条の四中「加入者証」とあるのは「加入者被扶養者証」と、第四条の五第一項中「入院時食事療養費又は保険外併用療養費」とあるのは「家族療養費」と読み替えるものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第四条の二中「加入者証」とあるのは「加入者被扶養者証」と、「加入者」とあるのは「被扶養者」と、第四条の五第一項中「入院時食事療養費又は保険外併用療養費」とあるのは「家族療養費」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2000,7 +2014,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">申請者の加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">申請者の加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -2109,7 +2123,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">申請者の加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">申請者の加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -2170,7 +2184,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">申請者の加入者番号</Sentence>
+                  <Sentence WritingMode="vertical">申請者の加入者等記号・番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -3063,7 +3077,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">申請者の加入者番号</Sentence>
+                  <Sentence WritingMode="vertical">申請者の加入者等記号・番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -3172,7 +3186,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">申請者の加入者番号</Sentence>
+                  <Sentence WritingMode="vertical">申請者の加入者等記号・番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -3227,7 +3241,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">申請者の加入者番号</Sentence>
+                  <Sentence WritingMode="vertical">申請者の加入者等記号・番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -3291,7 +3305,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -3391,7 +3405,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者の資格を喪失した際における加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者の資格を喪失した際における加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -3465,19 +3479,32 @@
             <Paragraph Hide="false" Num="9">
               <ParagraphNum>９</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">事業団は、第一項又は第二項の届出をした者が法第二十五条において準用する組合法第五十五条第二項第二号若しくは第三号又は第五十七条第二項第一号ハ若しくはニの規定に該当するときは、その者に対して高齢受給者証を交付する。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">資格喪失後継続給付証明書を受けた者は、法第二十五条において準用する組合法第五十五条第一項各号に掲げる医療機関又は指定訪問看護事業者から療養を受けようとするときは、資格喪失後継続給付証明書を当該医療機関又は当該指定訪問看護事業者に提出しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、緊急その他やむを得ない事情により、提出することができない場合には、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="10">
               <ParagraphNum>１０</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">第七項の規定は、前項の規定に基づき交付された高齢受給者証について準用する。</Sentence>
+                <Sentence WritingMode="vertical">前項ただし書の場合においては、その事情がなくなつた後、直ちに、資格喪失後継続給付証明書を当該医療機関又は当該指定訪問看護事業者に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="11">
               <ParagraphNum>１１</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">第九項の規定に基づき交付された高齢受給者証に係る第三条の二第三項の規定の適用において、同項中「この場合において、同条第四項中」とあるのは「この場合において、「当該学校法人等を経て、事業団に」とあるのは「事業団に」と、」と読み替えるものとする。</Sentence>
+                <Sentence WritingMode="vertical">事業団は、第一項又は第二項の届出をした者が法第二十五条において準用する組合法第五十五条第二項第二号若しくは第三号又は第五十七条第二項第一号ハ若しくはニの規定に該当するときは、その者に対して高齢受給者証を交付する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="12">
+              <ParagraphNum>１２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第七項の規定は、前項の規定に基づき交付された高齢受給者証について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="13">
+              <ParagraphNum>１３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第十一項の規定に基づき交付された高齢受給者証に係る第三条の二第三項の規定の適用において、同項中「この場合において、同条第四項中」とあるのは「この場合において、「当該学校法人等を経て、事業団に」とあるのは「事業団に」と、」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3498,7 +3525,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -3556,7 +3583,7 @@
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="2">
@@ -3683,7 +3710,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -3753,7 +3780,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -3823,7 +3850,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -3887,7 +3914,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -4015,7 +4042,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -4120,7 +4147,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号又は個人番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号又は個人番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -4231,6 +4258,16 @@
                   <Sentence WritingMode="vertical">事業団の名称</Sentence>
                 </ItemSentence>
               </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16_5">
+            <ArticleCaption>（療養の給付等に関する記録の提供）</ArticleCaption>
+            <ArticleTitle>第十六条の五</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">事業団は、加入者又はその被扶養者の求めに応じ、当該加入者又はその被扶養者の健康の保持増進のため必要な範囲内において、当該加入者又はその被扶養者に対し、事業団が保有する当該加入者又はその被扶養者が受けた療養の給付等に関する記録を電磁的方法により提供することができる。</Sentence>
+              </ParagraphSentence>
             </Paragraph>
           </Article>
         </Section>
@@ -4405,7 +4442,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -4512,7 +4549,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -4979,7 +5016,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">退職年金について、法第二十五条において準用する組合法第三十九条第一項の規定による決定（以下「決定」という。）を受けようとする者（法第二十五条において準用する組合法第七十九条の三又は第七十九条の四の規定による一時金について、法第二十五条において準用する組合法第三十九条第一項の規定による決定を受けようとする者を除く。）は、次に掲げる事項を記載した請求書を事業団に提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">退職年金について、法第二十五条において準用する組合法第三十九条第一項の規定による決定（以下「決定」という。）を受けようとする者（法第二十五条において準用する組合法第七十九条の三又は第七十九条の四の規定による一時金について、決定を受けようとする者を除く。）は、次に掲げる事項を記載した請求書を事業団に提出しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -4990,7 +5027,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号、所属学校法人等の名称及び退職年月日</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号、所属学校法人等の名称及び退職年月日</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -5091,7 +5128,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第二十五条において準用する組合法第七十九条の三の規定による一時金について、法第二十五条において準用する組合法第三十九条第一項の規定による決定を受けようとする者は、次に掲げる事項を記載した請求書を事業団に提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">法第二十五条において準用する組合法第七十九条の三の規定による一時金について、決定を受けようとする者は、次に掲げる事項を記載した請求書を事業団に提出しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -5102,7 +5139,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号、所属学校法人等の名称及び退職年月日</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号、所属学校法人等の名称及び退職年月日</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -5161,7 +5198,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第二十五条において準用する組合法第七十九条の四の規定による一時金について、法第二十五条において準用する組合法第三十九条第一項の規定による決定を受けようとする者は、次に掲げる事項を記載した請求書を事業団に提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">法第二十五条において準用する組合法第七十九条の四の規定による一時金について、決定を受けようとする者は、次に掲げる事項を記載した請求書を事業団に提出しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -5178,7 +5215,7 @@
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者又は加入者であつた者の退職当時又は死亡当時の加入者番号、所属学校法人等の名称及び退職年月日</Sentence>
+                  <Sentence WritingMode="vertical">加入者又は加入者であつた者の退職当時又は死亡当時の加入者等記号・番号、所属学校法人等の名称及び退職年月日</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="4">
@@ -5457,7 +5494,7 @@
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号、所属学校法人等の名称及び退職年月日</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号、所属学校法人等の名称及び退職年月日</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="4">
@@ -5492,7 +5529,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者番号、所属学校法人等の名称及び退職年月日</Sentence>
+                  <Sentence WritingMode="vertical">加入者等記号・番号、所属学校法人等の名称及び退職年月日</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -5976,7 +6013,7 @@
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">加入者又は加入者であつた者の退職当時又は死亡当時の加入者番号、所属学校法人等の名称及び退職年月日</Sentence>
+                  <Sentence WritingMode="vertical">加入者又は加入者であつた者の退職当時又は死亡当時の加入者等記号・番号、所属学校法人等の名称及び退職年月日</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="4">
@@ -6652,7 +6689,7 @@
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">退職のときに交付されていた加入者証の加入者番号又は個人番号</Sentence>
+                <Sentence WritingMode="vertical">退職のときに交付されていた加入者証の加入者等記号・番号又は個人番号</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -6670,7 +6707,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">任意継続加入者でなくなることを希望する旨を事業団に申し出るときに交付されている加入者証の加入者番号</Sentence>
+                <Sentence WritingMode="vertical">任意継続加入者でなくなることを希望する旨を事業団に申し出るときに交付されている加入者証の加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -6687,7 +6724,7 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">任意継続加入者に係る第一条の五、第一条の七、第二条第一項から第六項まで、第三条の二第二項、第三条の三第一項及び第二項、第四条の三第二項、第四条の九の三第一項、第四条の十一の二第一項及び第三項並びに第四条の十三第一項及び第三項の規定の適用については、第一条の五中「当該学校法人等を経て、事業団に」とあるのは「事業団に」と、第一条の七中「加入者の資格を取得した者」とあるのは「任意継続加入者となつた者」と、第二条第一項から第六項まで、第三条の二第二項、第三条の三第一項及び第二項、第四条の三第二項、第四条の九の三第一項、第四条の十一の二第一項及び第三項並びに第四条の十三第一項及び第三項中「当該学校法人等を経て、事業団に」とあるのは「事業団に」とする。</Sentence>
+              <Sentence WritingMode="vertical">任意継続加入者に係る第一条の五、第一条の七、第二条第一項から第六項まで、第三条の二第二項、第三条の三第一項及び第二項、第四条の三第二項、第四条の九の三第一項、第四条の十一の二第三項並びに第四条の十三第一項及び第三項の規定の適用については、第一条の五中「当該学校法人等を経て、事業団に」とあるのは「事業団に」と、第一条の七中「加入者の資格を取得した者」とあるのは「任意継続加入者となつた者」と、第二条第一項から第六項まで、第三条の二第二項、第三条の三第一項及び第二項、第四条の三第二項、第四条の九の三第一項、第四条の十一の二第三項並びに第四条の十三第一項及び第三項中「当該学校法人等を経て、事業団に」とあるのは「事業団に」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6761,7 +6798,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">任意継続加入者であつた者の氏名及び生年月日並びにその者の加入者証の加入者番号又は個人番号</Sentence>
+                <Sentence WritingMode="vertical">任意継続加入者であつた者の氏名及び生年月日並びにその者の加入者証の加入者等記号・番号又は個人番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -6829,7 +6866,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -6872,7 +6909,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -6898,7 +6935,7 @@
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項（後段及び第四号を除く。）及び前項（後段を除く。）の規定は、法第二十八条第三項の規定により掛金の免除の申出をしようとする学校法人等について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、第一項中「第二十八条第二項」とあるのは「第二十八条第三項」と、「、当該学校法人等を経て、事業団に」とあるのは「事業団に」と、「加入者」とあるのは「育児休業等をする加入者」と、「加入者番号」とあるのは「前号の者に係る加入者番号」と、「所属する学校法人等」とあるのは「学校法人等」と、前項中「第二十八条第二項」とあるのは「第二十八条第三項」と、「育児休業等の期間を」とあるのは「当該掛金の免除に係る加入者について育児休業等の期間を」と、「、当該学校法人等を経て、事業団に」とあるのは「事業団に」と、「加入者」とあるのは「育児休業等をする加入者」と、「加入者番号」とあるのは「前号の者に係る加入者番号」と、「所属する学校法人等」とあるのは「学校法人等」と読み替えるものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第一項中「第二十八条第二項」とあるのは「第二十八条第三項」と、「、当該学校法人等を経て、事業団に」とあるのは「事業団に」と、「加入者」とあるのは「育児休業等をする加入者」と、「加入者等記号・番号」とあるのは「前号の者に係る加入者等記号・番号」と、「所属する学校法人等」とあるのは「学校法人等」と、前項中「第二十八条第二項」とあるのは「第二十八条第三項」と、「育児休業等の期間を」とあるのは「当該掛金の免除に係る加入者について育児休業等の期間を」と、「、当該学校法人等を経て、事業団に」とあるのは「事業団に」と、「加入者」とあるのは「育児休業等をする加入者」と、「加入者等記号・番号」とあるのは「前号の者に係る加入者等記号・番号」と、「所属する学校法人等」とあるのは「学校法人等」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="4">
@@ -6959,7 +6996,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -7014,7 +7051,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -7040,7 +7077,7 @@
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項（後段並びに第四号及び第五号を除く。）及び前項（後段を除く。）の規定は、法第二十八条第五項の規定により掛金の免除の申出をしようとする学校法人等について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、第一項中「第二十八条第四項」とあるのは「第二十八条第五項」と、「、当該学校法人等を経て、事業団に」とあるのは「事業団に」と、「加入者」とあるのは「産前産後休業をする加入者」と、「加入者番号」とあるのは「前号の者に係る加入者番号」と、「所属する学校法人等」とあるのは「学校法人等」と、前項中「第二十八条第四項」とあるのは「第二十八条第五項」と、「産前産後休業の期間を」とあるのは「当該掛金の免除に係る加入者について産前産後休業の期間を」と、「当該学校法人等を経て、事業団に」とあるのは「事業団に」と、「加入者」とあるのは「産前産後休業をする加入者」と、「加入者番号」とあるのは「前号の者に係る加入者番号」と、「所属する学校法人等」とあるのは「学校法人等」と読み替えるものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第一項中「第二十八条第四項」とあるのは「第二十八条第五項」と、「、当該学校法人等を経て、事業団に」とあるのは「事業団に」と、「加入者」とあるのは「産前産後休業をする加入者」と、「加入者等記号・番号」とあるのは「前号の者に係る加入者等記号・番号」と、「所属する学校法人等」とあるのは「学校法人等」と、前項中「第二十八条第四項」とあるのは「第二十八条第五項」と、「産前産後休業の期間を」とあるのは「当該掛金の免除に係る加入者について産前産後休業の期間を」と、「当該学校法人等を経て、事業団に」とあるのは「事業団に」と、「加入者」とあるのは「産前産後休業をする加入者」と、「加入者等記号・番号」とあるのは「前号の者に係る加入者等記号・番号」と、「所属する学校法人等」とあるのは「学校法人等」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="4">
@@ -7181,7 +7218,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -7211,7 +7248,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">加入者番号</Sentence>
+                <Sentence WritingMode="vertical">加入者等記号・番号</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -7234,7 +7271,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">次の各号のいずれにも該当する教職員等を使用する学校法人等は、当該教職員等に関し、第一条、第一条の二の八及び第一条の四の規定の例による異動報告書、届書及び支給報告書を、理事長が定めるところにより、事業団に提出しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">次の各号のいずれにも該当する教職員等を使用する学校法人等は、当該教職員等に関し、第一条、第一条の二の六及び第一条の四の規定の例による異動報告書、届書及び支給報告書を、理事長が定めるところにより、事業団に提出しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -7271,6 +7308,199 @@
       </Chapter>
       <Chapter Delete="false" Hide="false" Num="6">
         <ChapterTitle>第六章　雑則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="37_4">
+          <ArticleCaption>（加入者等記号・番号等の利用制限等）</ArticleCaption>
+          <ArticleTitle>第三十七条の四</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第四十五条第一項の文部科学省令で定める者は、次の各号のいずれかに該当する者とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">文部科学大臣</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事業団</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">学校法人等</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）による社会保険診療報酬支払基金</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">国民健康保険法（昭和三十三年法律第百九十二号）第四十五条第五項に規定する国民健康保険団体連合会</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">国民健康保険法第四十五条第六項に規定する厚生労働大臣が指定する法人</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">保険医療機関等</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第二十五条において準用する組合法第五十六条第一項に規定する診療、手当又は薬剤の支給を行う保険医療機関等以外の病院、診療所、薬局その他の療養機関</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">指定訪問看護事業者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">都道府県知事</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">市町村長</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">厚生年金保険法第二条の五第一項各号に定める実施機関（事業団を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">日本年金機構</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">法第四十五条第二項の文部科学省令で定める場合は、次の各号のいずれかに該当する場合とする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">医療保険者（事業団を除く。）が、高齢者の医療の確保に関する法律第七条第一項に規定する医療保険各法（法を除く。）又は高齢者の医療の確保に関する法律に基づく事業又は当該事業に関連する事務を行う場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">国立研究開発法人国立がん研究センターが、がん登録等の推進に関する法律（平成二十五年法律第百十一号）第二十三条第一項の規定により厚生労働大臣から委任を受けた事務を行う場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">がん登録等の推進に関する法律第二十四条第一項の規定により都道府県知事から事務の委任を受けた者が、当該事務を行う場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">独立行政法人医薬品医療機器総合機構が、独立行政法人医薬品医療機器総合機構法（平成十四年法律第百九十二号）第十五条第一項第五号ハに掲げる業務（これに附帯する業務を含む。）を行う場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">医療分野の研究開発に資するための匿名加工医療情報に関する法律（平成二十九年法律第二十八号）第九条第一項に規定する認定匿名加工医療情報作成事業者が、同法第二条第四項に規定する匿名加工医療情報作成事業を行う場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第二号から前号に掲げる場合のほか、次のイからハまでに掲げる者の区分に応じ、当該イからハまでに定めるものを行う場合</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">国の行政機関（前項第一号に掲げる者を除く。）</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">適正な保健医療サービスの提供に資する施策の企画及び立案に関する調査</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">大学、研究機関その他の学術研究を目的とする機関又は団体</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">疾病の原因並びに疾病の予防、診断及び治療の方法に関する研究その他の公衆衛生の向上及び増進に関する研究</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">民間事業者</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">医療分野の研究開発に資する分析（特定の商品又は役務の広告又は宣伝に利用するために行うものを除く。）</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第二十六条第一項第一号に規定する特定健康診査等、労働安全衛生法（昭和四十七年法律第五十七号）第六十六条第一項に規定する健康診断その他の健康診断を実施する機関が、当該健康診断を実施する場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">社会保険労務士（社会保険労務士法人を含む。）が、社会保険労務士法（昭和四十三年法律第八十九号）第二条第一項各号に掲げる業務を行う場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">加入者の同意を得た者又は加入者から委託を受けた者が、それぞれ当該同意を得た又は当該委託を受けた事業団（事業団から委託を受けた者を含む。）に対する保険給付に係る請求その他の行為を行う場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">事業団から委託を受けた者が、当該委託を受けた短期給付及び退職等年金給付の事業並びに福祉事業に関連する事務を行う場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">独立行政法人環境再生保全機構が、石綿による健康被害の救済に関する法律（平成十八年法律第四号）第十一条の規定により医療費を支給する場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
         <Article Delete="false" Hide="false" Num="38">
           <ArticleCaption>（貯金事業等に関する事務の処理）</ArticleCaption>
           <ArticleTitle>第三十八条</ArticleTitle>
@@ -7343,6 +7573,12 @@
             </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第二十六条第一項（同項第二号から第七号までを除く。）及び同条第二項に規定する福祉事業の実施に関する事務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Sentence WritingMode="vertical">行政手続における特定の個人を識別するための番号の利用等に関する法律別表第二の主務省令で定める事務及び情報を定める命令（平成二十六年内閣府・総務省令第七号）第二十二条の三各号に規定する事務</Sentence>
               </ItemSentence>
@@ -13367,11 +13603,28 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月三〇日文部科学省令第三五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令の施行の際、現に存する改正前の様式による用紙は、当分の間、これを取り繕って使用することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">様式第一号（第一条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S28F03501000028_1910231710_001.pdf"/>
+          <Fig src="./pict/S28F03501000028_2010161610_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13379,7 +13632,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第二号（第一条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S28F03501000028_1910231710_002.pdf"/>
+          <Fig src="./pict/S28F03501000028_2010161610_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13387,7 +13640,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第三号（第一条、第三十三条の二、第三十三条の四関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S28F03501000028_1910231710_003.pdf"/>
+          <Fig src="./pict/S28F03501000028_2010161610_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13395,7 +13648,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第三号の二（第一条、第三十三条の二、第三十三条の四関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S28F03501000028_1910231710_004.pdf"/>
+          <Fig src="./pict/S28F03501000028_2010161610_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13403,7 +13656,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第四号（第一条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S28F03501000028_1910231710_005.pdf"/>
+          <Fig src="./pict/S28F03501000028_2010161610_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13411,7 +13664,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第五号（第一条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S28F03501000028_1910231710_006.pdf"/>
+          <Fig src="./pict/S28F03501000028_2010161610_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13419,7 +13672,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第六号（第一条の二の六関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S28F03501000028_1910231710_007.pdf"/>
+          <Fig src="./pict/S28F03501000028_2010161610_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13427,7 +13680,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第七号（第一条の二の六関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S28F03501000028_1910231710_008.pdf"/>
+          <Fig src="./pict/S28F03501000028_2010161610_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13435,7 +13688,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第七号の二（第一条の三関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S28F03501000028_1910231710_009.pdf"/>
+          <Fig src="./pict/S28F03501000028_2010161610_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13443,7 +13696,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第八号（第一条の五、第三十三条の四関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S28F03501000028_1910231710_010.pdf"/>
+          <Fig src="./pict/S28F03501000028_2010161610_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13451,7 +13704,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第九号（第二条、第三条の二、第三十三条の四関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S28F03501000028_1910231710_011.pdf"/>
+          <Fig src="./pict/S28F03501000028_2010161610_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13459,7 +13712,7 @@
       <AppdxStyleTitle WritingMode="vertical">様式第十号（第三十九条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S28F03501000028_1910231710_012.pdf"/>
+          <Fig src="./pict/S28F03501000028_2010161610_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
