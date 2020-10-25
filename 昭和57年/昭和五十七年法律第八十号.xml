@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="Act" Num="80" Year="57">
+<Law DataInfo="201021e01k01m01" Era="Showa" Lang="ja" LawType="Act" Num="80" Year="57">
   <LawNum>昭和五十七年法律第八十号</LawNum>
   <LawBody>
     <LawTitle>高齢者の医療の確保に関する法律</LawTitle>
@@ -2251,7 +2251,7 @@
               <Paragraph Hide="false" Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence WritingMode="vertical">療養の給付又は入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、特別療養費若しくは移送費の支給は、被保険者の当該疾病又は負傷につき、労働者災害補償保険法（昭和二十二年法律第五十号）の規定による療養補償給付若しくは療養給付、国家公務員災害補償法（昭和二十六年法律第百九十一号。他の法律において準用する場合を含む。）の規定による療養補償、地方公務員災害補償法（昭和四十二年法律第百二十一号）若しくは同法に基づく条例の規定による療養補償その他政令で定める法令に基づく医療に関する給付を受けることができる場合、介護保険法の規定によつて、それぞれの給付に相当する給付を受けることができる場合又はこれらの法令以外の法令により国若しくは地方公共団体の負担において医療に関する給付が行われた場合には、行わない。</Sentence>
+                  <Sentence WritingMode="vertical">療養の給付又は入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、特別療養費若しくは移送費の支給は、被保険者の当該疾病又は負傷につき、労働者災害補償保険法（昭和二十二年法律第五十号）の規定による療養補償給付、複数事業労働者療養給付若しくは療養給付、国家公務員災害補償法（昭和二十六年法律第百九十一号。他の法律において準用する場合を含む。）の規定による療養補償、地方公務員災害補償法（昭和四十二年法律第百二十一号）若しくは同法に基づく条例の規定による療養補償その他政令で定める法令に基づく医療に関する給付を受けることができる場合、介護保険法の規定によつて、それぞれの給付に相当する給付を受けることができる場合又はこれらの法令以外の法令により国若しくは地方公共団体の負担において医療に関する給付が行われた場合には、行わない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Hide="false" Num="2">
@@ -2465,8 +2465,8 @@
                 <Paragraph Hide="false" Num="3">
                   <ParagraphNum>３</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Function="main" Num="1" WritingMode="vertical">被保険者が第一項の給付を受けようとするときは、自己の選定する保険医療機関等に被保険者証を提出して受けるものとする。</Sentence>
-                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、厚生労働省令で定める場合に該当するときは、被保険者証を提出することを要しない。</Sentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">被保険者が第一項の給付を受けようとするときは、自己の選定する保険医療機関等から、電子資格確認（保険医療機関等から療養を受けようとする者又は指定訪問看護事業者から第七十八条第一項に規定する指定訪問看護を受けようとする者が、後期高齢者医療広域連合に対し、個人番号カード（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードをいう。）に記録された利用者証明用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第二十二条第一項に規定する利用者証明用電子証明書をいう。）を送信する方法により、被保険者の資格に係る情報（保険給付に係る費用の請求に必要な情報を含む。）の照会を行い、電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法により、後期高齢者医療広域連合から回答を受けて当該情報を当該保険医療機関等又は指定訪問看護事業者に提供し、当該保険医療機関等又は指定訪問看護事業者から被保険者であることの確認を受けることをいう。以下同じ。）その他厚生労働省令で定める方法（以下「電子資格確認等」という。）により、被保険者であることの確認を受け、第一項の給付を受けるものとする。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、厚生労働省令で定める場合に該当するときは、当該確認を受けることを要しない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Hide="false" Num="4">
@@ -2891,11 +2891,11 @@
                     <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該被保険者が被保険者資格証明書の交付を受けている間は、この限りでない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
-                <Paragraph Hide="false" Num="2">
+                <Paragraph Num="2">
                   <ParagraphNum>２</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Function="main" Num="1" WritingMode="vertical">後期高齢者医療広域連合は、被保険者が被保険者証を提出しないで保険医療機関等について診療又は薬剤の支給を受けた場合において、被保険者証を提出しなかつたことが、緊急その他やむを得ない理由によるものと認めるときは、療養の給付等に代えて、療養費を支給するものとする。</Sentence>
-                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該被保険者が被保険者資格証明書の交付を受けている間は、この限りでない。</Sentence>
+                    <Sentence Function="main" Num="1">後期高齢者医療広域連合は、被保険者が電子資格確認等により被保険者であることの確認を受けないで保険医療機関等について診療又は薬剤の支給を受けた場合において、当該確認を受けなかつたことが、緊急その他やむを得ない理由によるものと認めるときは、療養の給付等に代えて、療養費を支給するものとする。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、当該被保険者が被保険者資格証明書の交付を受けている間は、この限りでない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Hide="false" Num="3">
@@ -2931,10 +2931,10 @@
                     <Sentence WritingMode="vertical">前項の訪問看護療養費は、厚生労働省令で定めるところにより、後期高齢者医療広域連合が必要と認める場合に限り、支給するものとする。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
-                <Paragraph Hide="false" Num="3">
+                <Paragraph Num="3">
                   <ParagraphNum>３</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence WritingMode="vertical">被保険者が指定訪問看護を受けようとするときは、自己の選定する指定訪問看護事業者に被保険者証を提出して受けるものとする。</Sentence>
+                    <Sentence>被保険者が指定訪問看護を受けようとするときは、厚生労働省令で定めるところにより、自己の選定する指定訪問看護事業者から、電子資格確認等により、被保険者であることの確認を受け、当該指定訪問看護を受けるものとする。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Hide="false" Num="4">
@@ -3074,7 +3074,7 @@
                 <Paragraph Hide="false" Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence WritingMode="vertical">第一項に規定する場合において、被保険者が被保険者資格証明書を提出しないで保険医療機関等について診療又は薬剤の支給を受け、被保険者資格証明書を提出しなかつたことが、緊急その他やむを得ない理由によるものと認めるときは、後期高齢者医療広域連合は、療養費を支給するものとする。</Sentence>
+                    <Sentence WritingMode="vertical">第一項に規定する場合において、被保険者が電子資格確認等により被保険者であることの確認を受けないで保険医療機関等について診療又は薬剤の支給を受け、当該確認を受けなかつたことが、緊急その他やむを得ない理由によるものと認めるときは、後期高齢者医療広域連合は、療養費を支給するものとする。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Hide="false" Num="5">
@@ -4620,7 +4620,7 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第十六条の七第二項の規定は前項の規定による検査について、同条第四項の規定は前項の規定による権限について、それぞれ準用する。</Sentence>
+              <Sentence WritingMode="vertical">第十六条の七第二項の規定は前項の規定による検査について、同条第三項の規定は前項の規定による権限について、それぞれ準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="3">
@@ -4801,6 +4801,86 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Delete="false" Hide="false" Num="161_2">
+          <ArticleCaption>（被保険者番号等の利用制限等）</ArticleCaption>
+          <ArticleTitle>第百六十一条の二</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">厚生労働大臣、後期高齢者医療広域連合、保険医療機関等、指定訪問看護事業者その他の後期高齢者医療の事業又は当該事業に関連する事務の遂行のため被保険者番号等（保険者番号（厚生労働大臣が後期高齢者医療の事業において後期高齢者医療広域連合を識別するための番号として、後期高齢者医療広域連合ごとに定めるものをいう。）及び被保険者番号（後期高齢者医療広域連合が被保険者の資格を管理するための番号として、被保険者ごとに定めるものをいう。）をいう。以下この条において同じ。）を利用する者として厚生労働省令で定める者（以下この条において「厚生労働大臣等」という。）は、当該事業又は事務の遂行のため必要がある場合を除き、何人に対しても、その者又はその者以外の者に係る被保険者番号等を告知することを求めてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">厚生労働大臣等以外の者は、後期高齢者医療の事業又は当該事業に関連する事務の遂行のため被保険者番号等の利用が特に必要な場合として厚生労働省令で定める場合を除き、何人に対しても、その者又はその者以外の者に係る被保険者番号等を告知することを求めてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">何人も、次に掲げる場合を除き、その者が業として行う行為に関し、その者に対し売買、貸借、雇用その他の契約（以下この項において「契約」という。）の申込みをしようとする者若しくは申込みをする者又はその者と契約の締結をした者に対し、当該者又は当該者以外の者に係る被保険者番号等を告知することを求めてはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">厚生労働大臣等が、第一項に規定する場合に、被保険者番号等を告知することを求めるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">厚生労働大臣等以外の者が、前項に規定する厚生労働省令で定める場合に、被保険者番号等を告知することを求めるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">何人も、次に掲げる場合を除き、業として、被保険者番号等の記録されたデータベース（その者以外の者に係る被保険者番号等を含む情報の集合物であつて、それらの情報を電子計算機を用いて検索することができるように体系的に構成したものをいう。）であつて、当該データベースに記録された情報が他に提供されることが予定されているもの（以下この項において「提供データベース」という。）を構成してはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">厚生労働大臣等が、第一項に規定する場合に、提供データベースを構成するとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">厚生労働大臣等以外の者が、第二項に規定する厚生労働省令で定める場合に、提供データベースを構成するとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">厚生労働大臣は、前二項の規定に違反する行為が行われた場合において、当該行為をした者が更に反復してこれらの規定に違反する行為をするおそれがあると認めるときは、当該行為をした者に対し、当該行為を中止することを勧告し、又は当該行為が中止されることを確保するために必要な措置を講ずることを勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">厚生労働大臣は、前項の規定による勧告を受けた者がその勧告に従わないときは、その者に対し、期限を定めて、当該勧告に従うべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="161_3">
+          <ArticleCaption>（報告及び検査）</ArticleCaption>
+          <ArticleTitle>第百六十一条の三</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">厚生労働大臣は、前条第五項及び第六項の規定による措置に関し必要があると認めるときは、その必要と認められる範囲内において、同条第三項若しくは第四項の規定に違反していると認めるに足りる相当の理由がある者に対し、必要な事項に関し報告を求め、又は当該職員に当該者の事務所若しくは事業所に立ち入つて質問させ、若しくは帳簿書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第十六条の七第二項の規定は前項の規定による質問又は検査について、同条第三項の規定は前項の規定による権限について、それぞれ準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Delete="false" Hide="false" Num="162">
           <ArticleCaption>（国保連合会に対する監督）</ArticleCaption>
           <ArticleTitle>第百六十二条</ArticleTitle>
@@ -4864,7 +4944,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第五十六条に規定する後期高齢者医療給付の実施、第百四条第一項の規定による保険料の徴収その他の厚生労働省令で定める事務に係る情報の利用又は提供に関する事務</Sentence>
+                <Sentence WritingMode="vertical">第五十六条に規定する後期高齢者医療給付の実施、第百四条第一項の規定による保険料の徴収、第百二十五条第一項の規定による高齢者保健事業の実施その他の厚生労働省令で定める事務に係る情報の利用又は提供に関する事務</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -4872,6 +4952,16 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence WritingMode="vertical">後期高齢者医療広域連合は、前項の規定により同項各号に掲げる事務を委託する場合は、他の後期高齢者医療広域連合及び保険者と共同して委託するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="165_3">
+          <ArticleCaption>（関係者の連携及び協力）</ArticleCaption>
+          <ArticleTitle>第百六十五条の三</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国、後期高齢者医療広域連合及び保険医療機関等その他の関係者は、電子資格確認の仕組みの導入その他手続における情報通信の技術の利用の推進により、医療保険各法及びこの法律の規定により行われる事務が円滑に実施されるよう、相互に連携を図りながら協力するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4948,6 +5038,15 @@
             </Item>
           </Paragraph>
         </Article>
+        <Article Delete="false" Hide="false" Num="167_3">
+          <ArticleTitle>第百六十七条の三</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第百六十一条の二第六項の規定による命令に違反した者は、一年以下の懲役又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Delete="false" Hide="false" Num="168">
           <ArticleTitle>第百六十八条</ArticleTitle>
           <Paragraph Hide="false" Num="1">
@@ -5000,6 +5099,12 @@
                 <Sentence WritingMode="vertical">被保険者又は被保険者であつた者が、第六十一条第二項の規定により報告を命ぜられ、正当な理由がなくこれに従わず、又は同項の規定による当該職員の質問に対して、正当な理由がなく答弁せず、若しくは虚偽の答弁をしたとき。</Sentence>
               </ItemSentence>
             </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">正当な理由がなく第百六十一条の三第一項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による当該職員の質問に対して、正当な理由がなく答弁せず、若しくは虚偽の答弁をし、若しくは正当な理由がなく同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="169_2">
@@ -5016,7 +5121,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法人（法人でない社団又は財団で代表者又は管理人の定めがあるもの（以下この条において「人格のない社団等」という。）を含む。以下この項において同じ。）の代表者（人格のない社団等の管理人を含む。）又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、第百六十七条の二又は第百六十八条第三項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
+              <Sentence WritingMode="vertical">法人（法人でない社団又は財団で代表者又は管理人の定めがあるもの（以下この条において「人格のない社団等」という。）を含む。以下この項において同じ。）の代表者（人格のない社団等の管理人を含む。）又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、第百六十七条の二、第百六十七条の三、第百六十八条第三項又は第百六十九条第三号の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -7783,13 +7888,13 @@
                   <Sentence WritingMode="vertical">次に掲げる額の合計額に特別調整基準率を乗じて得た額</Sentence>
                 </Subitem2Sentence>
                 <Subitem3 Delete="false" Hide="false" Num="1">
-                  <Subitem3Title>（i）</Subitem3Title>
+                  <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">特別調整前概算医療費拠出金相当額</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
-                  <Subitem3Title>（ii）</Subitem3Title>
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者の給付であって旧老健法第六条第一項に規定する医療保険各法の規定による医療に関する給付（第一条の規定による改正前の健康保険法第六十九条ノ三に規定するその他の給付及びこれに相当する給付を除く。）のうち厚生労働省令で定めるものに該当するものに要する費用（同法第七十九条ノ九第二項に規定する日雇拠出金の納付に要する費用及び第四条の規定による改正前の国民健康保険法第八十一条の二第一項に規定する療養給付費拠出金の納付に要する費用を含む。第三項において「保険者の給付に要する費用」という。）の平成十四年度における見込額として厚生労働省令で定めるところにより算定される額</Sentence>
                   </Subitem3Sentence>
@@ -7835,13 +7940,13 @@
                   <Sentence WritingMode="vertical">次に掲げる額の合計額に施行日以後負担調整基準率を乗じて得た額</Sentence>
                 </Subitem2Sentence>
                 <Subitem3 Delete="false" Hide="false" Num="1">
-                  <Subitem3Title>（i）</Subitem3Title>
+                  <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">施行日以後負担調整前概算医療費拠出金相当額</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
-                  <Subitem3Title>（ii）</Subitem3Title>
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者の給付であって新老健法第六条第一項の医療保険各法の規定による医療に関する給付（健康保険法第五十三条に規定するその他の給付及びこれに相当する給付を除く。以下この条、次条第一項、附則第十六条第一項及び附則第十七条第一項において「医療関連給付」という。）のうち厚生労働省令で定めるものに該当するものに要する費用（同法第百七十三条第二項に規定する日雇拠出金の納付に要する費用及び国民健康保険法第八十一条の二第一項に規定する療養給付費等拠出金の納付に要する費用を含む。次条第一項、附則第十六条第一項及び附則第十七条第一項において「保険者の給付に要する費用」という。）の平成十四年度における見込額のうち施行日以後に行われる医療関連給付に要する費用の見込額として厚生労働省令で定めるところにより算定される額</Sentence>
                   </Subitem3Sentence>
@@ -7962,13 +8067,13 @@
                   <Sentence WritingMode="vertical">次に掲げる額の合計額に前条第三項の特別調整基準率を乗じて得た額</Sentence>
                 </Subitem2Sentence>
                 <Subitem3 Delete="false" Hide="false" Num="1">
-                  <Subitem3Title>（i）</Subitem3Title>
+                  <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">施行日前特別調整前確定医療費拠出金相当額</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
-                  <Subitem3Title>（ii）</Subitem3Title>
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者の給付に要する費用の平成十四年度における額のうち施行日前に行われた医療関連給付に要する費用の額</Sentence>
                   </Subitem3Sentence>
@@ -8014,13 +8119,13 @@
                   <Sentence WritingMode="vertical">次に掲げる額の合計額に前条第八項の施行日以後負担調整基準率を乗じて得た額</Sentence>
                 </Subitem2Sentence>
                 <Subitem3 Delete="false" Hide="false" Num="1">
-                  <Subitem3Title>（i）</Subitem3Title>
+                  <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">施行日以後負担調整前確定医療費拠出金相当額</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
-                  <Subitem3Title>（ii）</Subitem3Title>
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者の給付に要する費用の平成十四年度における額のうち施行日以後に行われた医療関連給付に要する費用の額</Sentence>
                   </Subitem3Sentence>
@@ -8147,13 +8252,13 @@
                   <Sentence WritingMode="vertical">次に掲げる額の合計額</Sentence>
                 </Subitem2Sentence>
                 <Subitem3 Delete="false" Hide="false" Num="1">
-                  <Subitem3Title>（i）</Subitem3Title>
+                  <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者に係る前期老人医療費見込額（市町村が平成十五年度において支弁する一の保険者に係る七十五歳以上の加入者等に対する平成十五年十月一日前に行われる医療等に要する費用の見込額として厚生労働省令で定めるところにより算定される額をいう。以下この条において同じ。）に、一から前期特定費用概算率を控除して得た率を乗じて得た額の百分の六十六に相当する額</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
-                  <Subitem3Title>（ii）</Subitem3Title>
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者に係る前期老人医療費見込額に前期特定費用概算率を乗じて得た額</Sentence>
                   </Subitem3Sentence>
@@ -8165,13 +8270,13 @@
                   <Sentence WritingMode="vertical">次に掲げる額の合計額に前期負担調整基準率を乗じて得た額</Sentence>
                 </Subitem2Sentence>
                 <Subitem3 Delete="false" Hide="false" Num="1">
-                  <Subitem3Title>（i）</Subitem3Title>
+                  <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">前期負担調整前概算医療費拠出金相当額</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
-                  <Subitem3Title>（ii）</Subitem3Title>
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者の給付に要する費用の平成十五年度における見込額のうち平成十五年十月一日前に行われる医療関連給付に要する費用の額</Sentence>
                   </Subitem3Sentence>
@@ -8211,13 +8316,13 @@
                   <Sentence WritingMode="vertical">次に掲げる額の合計額</Sentence>
                 </Subitem2Sentence>
                 <Subitem3 Delete="false" Hide="false" Num="1">
-                  <Subitem3Title>（i）</Subitem3Title>
+                  <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者に係る後期老人医療費見込額（市町村が平成十五年度において支弁する一の保険者に係る七十五歳以上の加入者等に対する平成十五年十月一日以後に行われる医療等に要する費用の見込額として厚生労働省令で定めるところにより算定される額をいう。以下この条において同じ。）に、一から後期特定費用概算率を控除して得た率を乗じて得た額の百分の六十二に相当する額</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
-                  <Subitem3Title>（ii）</Subitem3Title>
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者に係る後期老人医療費見込額に後期特定費用概算率を乗じて得た額</Sentence>
                   </Subitem3Sentence>
@@ -8229,13 +8334,13 @@
                   <Sentence WritingMode="vertical">次に掲げる額の合計額に後期負担調整基準率を乗じて得た額</Sentence>
                 </Subitem2Sentence>
                 <Subitem3 Delete="false" Hide="false" Num="1">
-                  <Subitem3Title>（i）</Subitem3Title>
+                  <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">後期負担調整前概算医療費拠出金相当額</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
-                  <Subitem3Title>（ii）</Subitem3Title>
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者の給付に要する費用の平成十五年度における見込額のうち平成十五年十月一日以後に行われる医療関連給付に要する費用の額</Sentence>
                   </Subitem3Sentence>
@@ -8300,7 +8405,7 @@
         <Paragraph Hide="false" Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第一項第一号イ（１）（i）の前期特定費用概算率は、各保険者に係る前期特定費用見込額（市町村が平成十五年度において支弁する一の保険者に係る新老健法第二十八条第一項第二号に掲げる場合に該当する者に対する平成十五年十月一日前に行われる医療等に要する費用の見込額として厚生労働省令で定めるところにより算定される額をいう。）を各保険者に係る前期老人医療費見込額で除して得た率とする。</Sentence>
+            <Sentence WritingMode="vertical">第一項第一号イ（１）（ｉ）の前期特定費用概算率は、各保険者に係る前期特定費用見込額（市町村が平成十五年度において支弁する一の保険者に係る新老健法第二十八条第一項第二号に掲げる場合に該当する者に対する平成十五年十月一日前に行われる医療等に要する費用の見込額として厚生労働省令で定めるところにより算定される額をいう。）を各保険者に係る前期老人医療費見込額で除して得た率とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="6">
@@ -8354,7 +8459,7 @@
         <Paragraph Hide="false" Num="10">
           <ParagraphNum>１０</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第一項第二号イ（１）（i）の後期特定費用概算率は、各保険者に係る後期特定費用見込額（市町村が平成十五年度において支弁する一の保険者に係る新老健法第二十八条第一項第二号に掲げる場合に該当する者に対する平成十五年十月一日以後に行われる医療等に要する費用の見込額として厚生労働省令で定めるところにより算定される額をいう。）を各保険者に係る後期老人医療費見込額で除して得た率とする。</Sentence>
+            <Sentence WritingMode="vertical">第一項第二号イ（１）（ｉ）の後期特定費用概算率は、各保険者に係る後期特定費用見込額（市町村が平成十五年度において支弁する一の保険者に係る新老健法第二十八条第一項第二号に掲げる場合に該当する者に対する平成十五年十月一日以後に行われる医療等に要する費用の見込額として厚生労働省令で定めるところにより算定される額をいう。）を各保険者に係る後期老人医療費見込額で除して得た率とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="11">
@@ -8392,13 +8497,13 @@
                   <Sentence WritingMode="vertical">次に掲げる額の合計額</Sentence>
                 </Subitem2Sentence>
                 <Subitem3 Delete="false" Hide="false" Num="1">
-                  <Subitem3Title>（i）</Subitem3Title>
+                  <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者に係る前期老人医療費額（市町村が平成十五年度において支弁した一の保険者に係る七十五歳以上の加入者等に対する平成十五年十月一日前に行われた医療等に要する費用の額をいう。以下この条において同じ。）に、一から前期特定費用確定率を控除して得た率を乗じて得た額の百分の六十六に相当する額</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
-                  <Subitem3Title>（ii）</Subitem3Title>
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者に係る前期老人医療費額に前期特定費用確定率を乗じて得た額</Sentence>
                   </Subitem3Sentence>
@@ -8410,13 +8515,13 @@
                   <Sentence WritingMode="vertical">次に掲げる額の合計額に前条第六項の前期負担調整基準率を乗じて得た額</Sentence>
                 </Subitem2Sentence>
                 <Subitem3 Delete="false" Hide="false" Num="1">
-                  <Subitem3Title>（i）</Subitem3Title>
+                  <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">前期負担調整前確定医療費拠出金相当額</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
-                  <Subitem3Title>（ii）</Subitem3Title>
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者の給付に要する費用の平成十五年度における額のうち平成十五年十月一日前に行われた医療関連給付に要する費用の額</Sentence>
                   </Subitem3Sentence>
@@ -8456,13 +8561,13 @@
                   <Sentence WritingMode="vertical">次に掲げる額の合計額</Sentence>
                 </Subitem2Sentence>
                 <Subitem3 Delete="false" Hide="false" Num="1">
-                  <Subitem3Title>（i）</Subitem3Title>
+                  <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者に係る後期老人医療費額（市町村が平成十五年度において支弁した一の保険者に係る七十五歳以上の加入者等に対する平成十五年十月一日以後に行われた医療等に要する費用の額をいう。以下この条において同じ。）に、一から後期特定費用確定率を控除して得た率を乗じて得た額の百分の六十二に相当する額</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
-                  <Subitem3Title>（ii）</Subitem3Title>
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者に係る後期老人医療費額に後期特定費用確定率を乗じて得た額</Sentence>
                   </Subitem3Sentence>
@@ -8474,13 +8579,13 @@
                   <Sentence WritingMode="vertical">次に掲げる額の合計額に前条第十一項の後期負担調整基準率を乗じて得た額</Sentence>
                 </Subitem2Sentence>
                 <Subitem3 Delete="false" Hide="false" Num="1">
-                  <Subitem3Title>（i）</Subitem3Title>
+                  <Subitem3Title>（ｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">後期負担調整前確定医療費拠出金相当額</Sentence>
                   </Subitem3Sentence>
                 </Subitem3>
                 <Subitem3 Delete="false" Hide="false" Num="2">
-                  <Subitem3Title>（ii）</Subitem3Title>
+                  <Subitem3Title>（ｉｉ）</Subitem3Title>
                   <Subitem3Sentence>
                     <Sentence WritingMode="vertical">当該保険者の給付に要する費用の平成十五年度における額のうち平成十五年十月一日以後に行われた医療関連給付に要する費用の額</Sentence>
                   </Subitem3Sentence>
@@ -8545,7 +8650,7 @@
         <Paragraph Hide="false" Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第一項第一号イ（１）（i）の前期特定費用確定率は、各保険者に係る前期特定費用額（市町村が平成十五年度において支弁した一の保険者に係る新老健法第二十八条第一項第二号に掲げる場合に該当する者に対する平成十五年十月一日前に行われた医療等に要する費用の額をいう。）を、各保険者に係る前期老人医療費額で除して得た率とする。</Sentence>
+            <Sentence WritingMode="vertical">第一項第一号イ（１）（ｉ）の前期特定費用確定率は、各保険者に係る前期特定費用額（市町村が平成十五年度において支弁した一の保険者に係る新老健法第二十八条第一項第二号に掲げる場合に該当する者に対する平成十五年十月一日前に行われた医療等に要する費用の額をいう。）を、各保険者に係る前期老人医療費額で除して得た率とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="6">
@@ -8593,7 +8698,7 @@
         <Paragraph Hide="false" Num="9">
           <ParagraphNum>９</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第一項第二号イ（１）（i）の後期特定費用確定率は、各保険者に係る後期特定費用額（市町村が平成十五年度において支弁した一の保険者に係る新老健法第二十八条第一項第二号に掲げる場合に該当する者に対する平成十五年十月一日以後に行われた医療等に要する費用の額をいう。）を、各保険者に係る後期老人医療費額で除して得た率とする。</Sentence>
+            <Sentence WritingMode="vertical">第一項第二号イ（１）（ｉ）の後期特定費用確定率は、各保険者に係る後期特定費用額（市町村が平成十五年度において支弁した一の保険者に係る新老健法第二十八条第一項第二号に掲げる場合に該当する者に対する平成十五年十月一日以後に行われた医療等に要する費用の額をいう。）を、各保険者に係る後期老人医療費額で除して得た率とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -9320,13 +9425,13 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第二十六条の規定の施行の際現に同条の規定による改正前の介護保険法（以下この条において「旧介護保険法」という。）第四十八条第一項第三号の指定を受けている旧介護保険法第八条第二十六項に規定する介護療養型医療施設については、第五条の規定による改正前の健康保険法の規定、第九条の規定による改正前の高齢者の医療の確保に関する法律の規定、第十四条の規定による改正前の国民健康保険法の規定、第二十条の規定による改正前の船員保険法の規定、旧介護保険法の規定、附則第五十八条の規定による改正前の国家公務員共済組合法の規定、附則第六十七条の規定による改正前の地方公務員等共済組合法の規定、附則第九十条の規定による改正前の船員職業安定法の規定、附則第九十一条の規定による改正前の生活保護法の規定、附則第九十六条の規定による改正前の船員の雇用の促進に関する特別措置法の規定、附則第百十一条の規定による改正前の高齢者虐待の防止、高齢者の養護者に対する支援等に関する法律の規定及び附則第百十一条の二の規定による改正前の道州制特別区域における広域行政の推進に関する法律の規定（これらの規定に基づく命令の規定を含む。）は、平成三十六年三月三十一日までの間、なおその効力を有する。</Sentence>
+            <Sentence WritingMode="vertical">第二十六条の規定の施行の際現に同条の規定による改正前の介護保険法（以下この条において「旧介護保険法」という。）第四十八条第一項第三号の指定を受けている旧介護保険法第八条第二十六項に規定する介護療養型医療施設については、第五条の規定による改正前の健康保険法の規定、第九条の規定による改正前の高齢者の医療の確保に関する法律の規定、第十四条の規定による改正前の国民健康保険法の規定、第二十条の規定による改正前の船員保険法の規定、旧介護保険法の規定、附則第五十八条の規定による改正前の国家公務員共済組合法の規定、附則第六十七条の規定による改正前の地方公務員等共済組合法の規定、附則第九十条の規定による改正前の船員職業安定法の規定、附則第九十一条の規定による改正前の生活保護法の規定、附則第九十六条の規定による改正前の船員の雇用の促進に関する特別措置法の規定、附則第百十一条の規定による改正前の高齢者虐待の防止、高齢者の養護者に対する支援等に関する法律の規定及び附則第百十一条の二の規定による改正前の道州制特別区域における広域行政の推進に関する法律の規定（これらの規定に基づく命令の規定を含む。）は、令和六年三月三十一日までの間、なおその効力を有する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項の規定によりなおその効力を有するものとされた旧介護保険法第四十八条第一項第三号の規定により平成三十六年三月三十一日までに行われた指定介護療養施設サービスに係る保険給付については、同日後も、なお従前の例による。</Sentence>
+            <Sentence WritingMode="vertical">前項の規定によりなおその効力を有するものとされた旧介護保険法第四十八条第一項第三号の規定により令和六年三月三十一日までに行われた指定介護療養施設サービスに係る保険給付については、同日後も、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
@@ -10694,7 +10799,38 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号" Extract="true">
+    <SupplProvision AmendLawNum="平成二八年一二月二六日法律第一一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第七条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">平成二十九年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
@@ -10740,7 +10876,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">政府は、この法律の公布後三年を目途として、第八条の規定による改正後の社会福祉法第百六条の三第一項に規定する体制を全国的に整備するための方策について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+            <Sentence WritingMode="vertical">政府は、前項に定める事項のほか、この法律の施行後五年を目途として、この法律の規定による改正後の規定の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -10773,7 +10909,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成三十二年四月一日から施行する。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和二年四月一日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
@@ -10805,7 +10941,7 @@
                 <Sentence WritingMode="vertical">第一条の規定（健康保険法第三条第七項の改正規定を除く。）、第四条の規定、第六条の規定（第一号に掲げる改正規定を除く。）、第九条中国民健康保険法第八十二条第二項の改正規定、同法第八十五条の次に二条を加える改正規定及び同法第百四条の改正規定、第十二条の規定（第五号に掲げる改正規定並びに介護保険法第百十五条の四十五中第五項を第九項とし、第四項の次に四項を加える改正規定及び同法第百十七条第三項第六号の改正規定を除く。）並びに第十四条中船員保険法第百十一条第二項の改正規定並びに附則第七条中私立学校教職員共済法（昭和二十八年法律第二百四十五号）第二十六条第三項の改正規定、附則第八条中国家公務員共済組合法（昭和三十三年法律第百二十八号）第九十八条第二項の改正規定、附則第九条中地方公務員等共済組合法（昭和三十七年法律第百五十二号）第百十二条第三項の改正規定及び附則第十四条の規定</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">平成三十二年十月一日</Sentence>
+                <Sentence WritingMode="vertical">令和二年十月一日</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -10827,7 +10963,7 @@
                 <Sentence WritingMode="vertical">第五条中高齢者の医療の確保に関する法律第百四十五条第三項の改正規定、第七条の規定及び第十二条中介護保険法第百六十六条第三項の改正規定並びに附則第四条、第五条、第十二条及び第十五条の規定</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">平成三十三年四月一日</Sentence>
+                <Sentence WritingMode="vertical">令和三年四月一日</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -10838,7 +10974,7 @@
                 <Sentence WritingMode="vertical">第二条中健康保険法第百五十条の二第二項の改正規定及び同項を同条第三項とし同条第一項の次に一項を加える改正規定、第五条中高齢者の医療の確保に関する法律第十六条の二第二項の改正規定並びに第十三条の規定</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">平成三十四年四月一日</Sentence>
+                <Sentence WritingMode="vertical">令和四年四月一日</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -10864,36 +11000,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="14">
-        <ArticleCaption>（厚生労働省設置法の一部改正）</ArticleCaption>
-        <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">厚生労働省設置法（平成十一年法律第九十七号）の一部を次のように改正する。</Sentence>
-          </ParagraphSentence>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence WritingMode="vertical">第七条第一項第四号中「（昭和十四年法律第七十三号）」の下に「、高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）」を加える。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-          <AmendProvision>
-            <AmendProvisionSentence>
-              <Sentence WritingMode="vertical">第十四条中「（昭和五十七年法律第八十号）」を削る。</Sentence>
-            </AmendProvisionSentence>
-          </AmendProvision>
-        </Paragraph>
-      </Article>
-      <Article Delete="false" Hide="false" Num="15">
-        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第十五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence WritingMode="vertical">この法律の施行前にした行為及び附則第四条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Delete="false" Hide="false" Num="16">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第十六条</ArticleTitle>
@@ -10902,6 +11008,156 @@
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和三年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1:2">
+              <Subitem1Title>イ・ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>第十五条中租税特別措置法第四十一条の四の二の次に一条を加える改正規定、同法第四十一条の十九第一項の改正規定（「千万円」を「八百万円」に改める部分に限る。）、同法第九十三条の改正規定（同条第一項第四号を同項第五号とし、同項第三号の次に一号を加える部分を除く。）、同法第九十四条の改正規定、同法第九十五条の改正規定及び同法第九十六条の改正規定並びに附則第七十四条第一項及び第三項、第百十一条、第百四十四条並びに第百四十九条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="171">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="172">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中雇用保険法第十九条第一項の改正規定、同法第三十六条の見出しを削る改正規定並びに同法第四十八条及び第五十四条の改正規定並びに同法附則第四条、第五条、第十条及び第十一条の二第一項の改正規定並びに附則第十条、第二十六条及び第二十八条から第三十二条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中雇用保険法第三十七条の見出しを削る改正規定及び同条第八項の改正規定、第二条の規定（労働者災害補償保険法第八条の二第一項第二号の改正規定及び同法第四十二条に一項を加える改正規定を除く。）並びに第四条中労働保険の保険料の徴収等に関する法律第十二条第二項及び第三項、第十四条第一項並びに第十四条の二第一項の改正規定並びに附則第六条第一項及び第二項、第七条並びに第十二条の規定、附則第十三条中厚生年金保険法（昭和二十九年法律第百十五号）第五十六条第三号の改正規定並びに附則第十七条、第二十一条、第二十二条及び第二十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日法律第五二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条中介護保険法附則第十三条（見出しを含む。）及び第十四条（見出しを含む。）の改正規定、第四条中健康保険法等の一部を改正する法律附則第百三十条の二第一項の規定によりなおその効力を有するものとされた同法第二十六条の規定による改正前の介護保険法附則第十一条（見出しを含む。）及び第十二条（見出しを含む。）の改正規定、第六条及び第八条の規定並びに附則第六条の規定、附則第七条の規定（介護サービスの基盤強化のための介護保険法等の一部を改正する法律（平成二十三年法律第七十二号）附則第十条第三項及び第四項の改正規定を除く。）並びに附則第八条及び第九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>
