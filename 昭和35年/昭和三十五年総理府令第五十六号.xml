@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200402e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="056" Year="35">
+<Law DataInfo="201023e03k03m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="056" Year="35">
   <LawNum>昭和三十五年総理府令第五十六号</LawNum>
   <LawBody>
     <LawTitle>放射性同位元素等の規制に関する法律施行規則</LawTitle>
@@ -3889,8 +3889,7 @@
           <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">法第二十条第二項の放射性同位元素による汚染の状況の測定は、放射線測定器を用い、次に定めるところにより行う。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、放射線測定器を用いて測定することが著しく困難である場合には、計算によつてこの値を算出することができる。</Sentence>
+              <Sentence WritingMode="vertical">法第二十条第二項の放射性同位元素による汚染の状況の測定は、次に定めるところにより行う。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -3940,12 +3939,12 @@
                   <Sentence WritingMode="vertical">測定箇所</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
-            </Item>
-            <Item Num="ハ">
-              <ItemTitle>ハ</ItemTitle>
-              <ItemSentence>
-                <Sentence>測定をした者の氏名（測定をした者の氏名を記録しなくても測定の適正な実施を確保できる場合にあつては、名称）</Sentence>
-              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>測定をした者の氏名（測定をした者の氏名を記録しなくても測定の適正な実施を確保できる場合にあつては、名称）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="4">
                 <Subitem1Title>ニ</Subitem1Title>
                 <Subitem1Sentence>
@@ -3976,12 +3975,12 @@
                   <Sentence WritingMode="vertical">測定対象者の氏名</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
-            </Item>
-            <Item Num="ロ">
-              <ItemTitle>ロ</ItemTitle>
-              <ItemSentence>
-                <Sentence>測定をした者の氏名（測定をした者の氏名を記録しなくても測定の適正な実施を確保できる場合にあつては、名称）</Sentence>
-              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>測定をした者の氏名（測定をした者の氏名を記録しなくても測定の適正な実施を確保できる場合にあつては、名称）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="3">
                 <Subitem1Title>ハ</Subitem1Title>
                 <Subitem1Sentence>
@@ -4150,12 +4149,12 @@
                   <Sentence WritingMode="vertical">対象者の氏名</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
-            </Item>
-            <Item Num="ハ">
-              <ItemTitle>ハ</ItemTitle>
-              <ItemSentence>
-                <Sentence>集計した者の氏名（集計した者の氏名を記録しなくても集計の適正な実施を確保できる場合にあつては、名称）</Sentence>
-              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence>集計した者の氏名（集計した者の氏名を記録しなくても集計の適正な実施を確保できる場合にあつては、名称）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
               <Subitem1 Delete="false" Hide="false" Num="4">
                 <Subitem1Title>ニ</Subitem1Title>
                 <Subitem1Sentence>
@@ -8086,20 +8085,10 @@
           <Sentence Function="main" Num="1" WritingMode="vertical">この規則は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第四十四条の規定は、放射性同位元素等による放射線障害の防止に関する法律施行規則の一部を改正する規則（平成三十年原子力規制委員会規則第十一号）の施行の日（令和元年九月一日）から施行する。</Sentence>
         </ParagraphSentence>
-        <List>
-          <ListSentence>
-            <Column Num="1">
-              <Sentence>附</Sentence>
-            </Column>
-            <Column Num="2">
-              <Sentence>則</Sentence>
-            </Column>
-            <Column Num="3">
-              <Sentence>（令和二年九月十一日原子力規制委員会規則第十七号）</Sentence>
-            </Column>
-          </ListSentence>
-        </List>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月一一日原子力規制委員会規則第一七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
         <ParagraphSentence>

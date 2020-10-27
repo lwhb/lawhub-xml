@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="235" Year="28">
+<Law DataInfo="200731e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="235" Year="28">
   <LawNum>昭和二十八年政令第二百三十五号</LawNum>
   <LawBody>
     <LawTitle>家畜伝染病予防法施行令</LawTitle>
@@ -66,7 +66,8 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>水胞性口炎</Sentence>
+                  <Sentence>水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>性口内炎</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>水牛、鹿、いのしし</Sentence>
@@ -100,7 +101,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>ブルセラ病</Sentence>
+                  <Sentence>ブルセラ症</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>水牛、鹿、いのしし</Sentence>
@@ -108,7 +109,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>結核病</Sentence>
+                  <Sentence>結核</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>水牛、鹿</Sentence>
@@ -124,7 +125,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>ピロプラズマ病（農林水産省令で定める病原体によるものに限る。）</Sentence>
+                  <Sentence>ピロプラズマ症（農林水産省令で定める病原体によるものに限る。）</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>水牛、鹿</Sentence>
@@ -132,7 +133,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>アナプラズマ病（農林水産省令で定める病原体によるものに限る。）</Sentence>
+                  <Sentence>アナプラズマ症（農林水産省令で定める病原体によるものに限る。）</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>水牛、鹿</Sentence>
@@ -173,7 +174,8 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>豚水胞病</Sentence>
+                  <Sentence>豚水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>病</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>いのしし</Sentence>
@@ -205,7 +207,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>ニユーカツスル病（病原性が高いものとして農林水産省令で定めるものに限る。以下同じ。）</Sentence>
+                  <Sentence>ニューカッスル病（病原性が高いものとして農林水産省令で定めるものに限る。以下同じ。）</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>七面鳥</Sentence>
@@ -213,7 +215,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn>
-                  <Sentence>家きんサルモネラ感染症（農林水産省令で定める病原体によるものに限る。以下同じ。）</Sentence>
+                  <Sentence>家きんサルモネラ症（農林水産省令で定める病原体によるものに限る。以下同じ。）</Sentence>
                 </TableColumn>
                 <TableColumn>
                   <Sentence>七面鳥</Sentence>
@@ -224,7 +226,7 @@
         </Paragraph>
       </Article>
       <Article Num="2">
-        <ArticleCaption>（消毒設備の設置の義務に係る家畜）</ArticleCaption>
+        <ArticleCaption>（衛生管理区域における消毒設備の設置の義務に係る家畜）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
@@ -303,7 +305,7 @@
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence>都道府県知事（法第四十六条第一項の検査に係る場合にあつては動物検疫所長）が家畜防疫員に検査させた結果家畜伝染病の病原体をひろげるおそれがないと認めた牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt>
+                <Sentence>都道府県知事（法第四十六条第一項の検査に係る場合にあつては動物検疫所長）が家畜防疫員に検査させた結果家畜伝染病の病原体を拡散するおそれがないと認めた牛疫、牛肺疫、口<Ruby>蹄<Rt>てい</Rt>
 </Ruby>疫、炭<Ruby>疽<Rt>そ</Rt>
 </Ruby>、鼻<Ruby>疽<Rt>そ</Rt>
 </Ruby>、豚熱又はアフリカ豚熱の疑似患畜の死体</Sentence>
@@ -312,7 +314,9 @@
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence>水胞性口炎、リフトバレー熱、出血性敗血症、豚水胞病、流行性脳炎、ブルセラ病、結核病、ヨーネ病、馬伝染性貧血、アフリカ馬疫又は小反<Ruby>芻<Rt>すう</Rt>
+                <Sentence>水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>性口内炎、リフトバレー熱、出血性敗血症、豚水<Ruby>疱<Rt>ほう</Rt>
+</Ruby>病、流行性脳炎、ブルセラ症、結核、ヨーネ病、馬伝染性貧血、アフリカ馬疫又は小反<Ruby>芻<Rt>すう</Rt>
 </Ruby>獣疫の患畜又は疑似患畜の死体</Sentence>
               </Subitem1Sentence>
             </Subitem1>
@@ -320,14 +324,24 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence>家畜防疫員の指示に従い、家きんコレラ、高病原性鳥インフルエンザ、低病原性鳥インフルエンザ、ニユーカツスル病又は家きんサルモネラ感染症の患畜又は疑似患畜の死体を消毒する場合</Sentence>
+              <Sentence>家畜防疫員の指示に従い、家きんコレラ、高病原性鳥インフルエンザ、低病原性鳥インフルエンザ、ニューカッスル病又は家きんサルモネラ症の患畜又は疑似患畜の死体を消毒する場合</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
       </Article>
       <Article Num="7">
-        <ArticleCaption>（政令で定める使用人）</ArticleCaption>
+        <ArticleCaption>（家畜以外の動物における伝染性疾病のまん延による当該伝染性疾病の病原体の拡散を防止するための通行の制限又は遮断）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第五条の規定は、法第二十五条の二第三項の政令で定める手続について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令で定める使用人）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -347,9 +361,9 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="8">
+      <Article Num="9">
         <ArticleCaption>（家畜の評価額の最高限度額）</ArticleCaption>
-        <ArticleTitle>第八条</ArticleTitle>
+        <ArticleTitle>第九条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -357,9 +371,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="9">
+      <Article Num="10">
         <ArticleCaption>（政令で定める売上げの減少額等）</ArticleCaption>
-        <ArticleTitle>第九条</ArticleTitle>
+        <ArticleTitle>第十条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -389,9 +403,9 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="10">
+      <Article Num="11">
         <ArticleCaption>（補償の対象となる損失等）</ArticleCaption>
-        <ArticleTitle>第十条</ArticleTitle>
+        <ArticleTitle>第十一条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -441,13 +455,13 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="11">
+      <Article Num="12">
         <ArticleCaption>（事務の区分）</ArticleCaption>
-        <ArticleTitle>第十一条</ArticleTitle>
+        <ArticleTitle>第十二条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>第五条第一項及び第二項の規定により都道府県又は市町村が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+            <Sentence>第五条第一項及び第二項（これらの規定を第七条において準用する場合を含む。）の規定により都道府県又は市町村が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -768,6 +782,16 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この政令は、家畜伝染病予防法の一部を改正する法律（令和二年法律第二号）の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月二四日政令第二〇一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令は、家畜伝染病予防法の一部を改正する法律（令和二年法律第十六号）の施行の日（令和二年七月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
