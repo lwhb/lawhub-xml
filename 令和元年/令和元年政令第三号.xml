@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Reiwa" Lang="ja" LawType="CabinetOrder" Num="003" Year="01">
+<Law DataInfo="200731e01k01m01" Era="Reiwa" Lang="ja" LawType="CabinetOrder" Num="003" Year="01">
   <LawNum>令和元年政令第三号</LawNum>
   <LawBody>
     <LawTitle>平成三十七年に開催される国際博覧会の準備及び運営のために必要な特別措置に関する法律施行令</LawTitle>
@@ -43,7 +43,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">厚生年金保険法施行令（昭和二十九年政令第百十号）第四条の二第二項第八号の規定により博覧会協会及び国が負担すべき保険料の額は、各月ごとに、次の各号に掲げる者の区分に応じ、それぞれ当該各号に定める額とする。</Sentence>
+            <Sentence WritingMode="vertical">厚生年金保険法施行令（昭和二十九年政令第百十号）第四条の二第二項第九号の規定により博覧会協会及び国が負担すべき保険料の額は、各月ごとに、次の各号に掲げる者の区分に応じ、それぞれ当該各号に定める額とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -738,6 +738,19 @@
           </NewProvision>
         </AmendProvision>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日政令第一八五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

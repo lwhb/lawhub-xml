@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="178" Year="29">
+<Law DataInfo="200731e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="178" Year="29">
   <LawNum>昭和二十九年政令第百七十八号</LawNum>
   <LawBody>
     <LawTitle>防衛省組織令</LawTitle>
@@ -30,7 +30,7 @@
             </TOCDivision>
             <TOCDivision Num="2">
               <DivisionTitle>第二目　防衛政策局</DivisionTitle>
-              <ArticleRange>（第十八条―第二十五条）</ArticleRange>
+              <ArticleRange>（第十八条―第二十五条の二）</ArticleRange>
             </TOCDivision>
             <TOCDivision Num="3">
               <DivisionTitle>第三目　整備計画局</DivisionTitle>
@@ -1322,12 +1322,12 @@
             <Division Num="2">
               <DivisionTitle>第二目　防衛政策局</DivisionTitle>
               <Article Num="18">
-                <ArticleCaption>（防衛政策局に置く課）</ArticleCaption>
+                <ArticleCaption>（防衛政策局に置く課等）</ArticleCaption>
                 <ArticleTitle>第十八条</ArticleTitle>
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence>防衛政策局に、次の七課を置く。</Sentence>
+                    <Sentence>防衛政策局に、次の七課及び参事官一人を置く。</Sentence>
                   </ParagraphSentence>
                   <List>
                     <ListSentence>
@@ -1455,7 +1455,7 @@
                   <Item Num="1">
                     <ItemTitle>一</ItemTitle>
                     <ItemSentence>
-                      <Sentence>防衛の分野における国際的な交流の基本及び調整に関すること。</Sentence>
+                      <Sentence>防衛の分野における国際的な交流の基本及び調整に関すること（参事官の所掌に属するものを除く。）。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="2">
@@ -1511,7 +1511,7 @@
                   <Item Num="1">
                     <ItemTitle>一</ItemTitle>
                     <ItemSentence>
-                      <Sentence>第十九条第二号及び第三号並びに第二十条第一号に掲げる事務、第二十一条に規定する事務並びに第二十二条第一号及び第二号、前条第一号及び第二号、第二十七条第二号並びに第二十八条第二号（指揮通信の基本に係る部分に限る。）及び第四号に掲げる事務に必要な情報の収集整理に関すること。</Sentence>
+                      <Sentence>第十九条第二号及び第三号並びに第二十条第一号に掲げる事務、第二十一条に規定する事務、第二十二条第一号及び第二号並びに前条第一号及び第二号に掲げる事務、第二十五条の二に規定する事務並びに第二十七条第二号並びに第二十八条第二号（指揮通信の基本に係る部分に限る。）及び第四号に掲げる事務に必要な情報の収集整理に関すること。</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="2">
@@ -1535,6 +1535,16 @@
                   <ParagraphNum/>
                   <ParagraphSentence>
                     <Sentence>訓練課は、自衛隊の部隊訓練の基本に関する事務をつかさどる。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Num="25_2">
+                <ArticleCaption>（参事官の職務）</ArticleCaption>
+                <ArticleTitle>第二十五条の二</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence>参事官は、防衛の分野における国際的な交流の基本及び調整に関する事務のうち、インド太平洋地域の安全保障環境の安定に資するものをつかさどる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -10846,6 +10856,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月二六日政令第二〇四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年七月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
