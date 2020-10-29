@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="056" Year="17">
+<Law DataInfo="200731e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="056" Year="17">
   <LawNum>平成十七年政令第五十六号</LawNum>
   <LawBody>
     <LawTitle>特定障害者に対する特別障害給付金の支給に関する法律施行令</LawTitle>
@@ -269,6 +269,16 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="8_2">
+        <ArticleCaption>（未支払の特別障害給付金を受けることができる者の順位）</ArticleCaption>
+        <ArticleTitle>第八条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第十六条の二第一項に規定する未支払の特別障害給付金を受けることができる者の順位は、同項に規定する順序による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="9">
         <ArticleCaption>（社会保険審査官及び社会保険審査会法等の規定の適用）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
@@ -318,6 +328,12 @@
           </Item>
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>法第十六条の二第一項の規定による請求の受理及び当該請求に係る事実についての審査に関する事務</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
             <ItemSentence>
               <Sentence>法第二十七条第一項及び第二項の規定による届出又は提出に係る事実についての審査に関する事務</Sentence>
             </ItemSentence>
@@ -946,13 +962,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>第一条の規定による改正後の国民年金法施行令第五条の四第一項の規定は、平成三十一年八月以後の月分の国民年金法第三十条の四の規定による障害基礎年金の支給停止について適用し、同年七月以前の月分の当該障害基礎年金の支給停止については、なお従前の例による。</Sentence>
+            <Sentence>第一条の規定による改正後の国民年金法施行令第五条の四第一項の規定は、令和元年八月以後の月分の国民年金法第三十条の四の規定による障害基礎年金の支給停止について適用し、同年七月以前の月分の当該障害基礎年金の支給停止については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第五条の規定による改正後の特定障害者に対する特別障害給付金の支給に関する法律施行令第二条第一項の規定は、平成三十一年八月以後の月分の特定障害者に対する特別障害給付金の支給に関する法律の規定による特別障害給付金の支給の制限について適用し、同年七月以前の月分の当該特別障害給付金の支給の制限については、なお従前の例による。</Sentence>
+            <Sentence>第五条の規定による改正後の特定障害者に対する特別障害給付金の支給に関する法律施行令第二条第一項の規定は、令和元年八月以後の月分の特定障害者に対する特別障害給付金の支給に関する法律の規定による特別障害給付金の支給の制限について適用し、同年七月以前の月分の当該特別障害給付金の支給の制限については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -999,7 +1015,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この政令は、平成三十年改正法の施行の日（平成三十二年四月一日）から施行する。</Sentence>
+            <Sentence>この政令は、平成三十年改正法の施行の日（令和二年四月一日）から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1018,6 +1034,37 @@
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence>令和二年三月以前の月分の特定障害者に対する特別障害給付金の支給に関する法律による特別障害給付金の額については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第一〇一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一三八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月五日政令第一七八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
