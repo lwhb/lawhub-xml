@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="121" Year="26">
+<Law DataInfo="200818e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="121" Year="26">
   <LawNum>平成二十六年厚生労働省令第百二十一号</LawNum>
   <LawBody>
     <LawTitle>難病の患者に対する医療等に関する法律施行規則</LawTitle>
@@ -1676,6 +1676,23 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="3_2">
+        <ArticleCaption>（新型コロナウイルス感染症に関する特例）</ArticleCaption>
+        <ArticleTitle>第三条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">児童福祉法施行規則等の一部を改正する省令（令和二年厚生労働省令第九十二号。次項において「令和二年改正省令」という。）の施行の日から令和三年二月二十八日までの間に支給認定の有効期間が満了する支給認定患者等が新型コロナウイルス感染症（病原体がベータコロナウイルス属のコロナウイルス（令和二年一月に、中華人民共和国から世界保健機関に対して、人に伝染する能力を有することが新たに報告されたものに限る。）であるものに限る。）の発生又はまん延の影響により指定医の診断書を提出することが困難となった者である場合における第三十一条の規定の適用については、「一年以内であって、支給認定を受けた指定難病の患者が、当該支給認定を受けた指定難病の病状の程度及び治療の状況からみて指定特定医療を受けることが必要な期間とする。ただし、当該期間を延長する特別の事情があると認められるときは、一年三月を超えない範囲内において都道府県知事が定める」とあるのは、「児童福祉法施行規則等の一部を改正する省令（令和二年厚生労働省令第九十二号）の施行の際現に効力を有する支給認定の有効期間に一年を加えた」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和二年三月一日から令和二年改正省令の施行の日の前日までの間に支給認定の有効期間が満了した支給認定患者等が前項に規定する者である場合には、当該支給認定については、令和二年改正省令の施行の際現に効力を有するものとみなして、同項の規定を適用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同項の適用については、同項中「児童福祉法施行規則等の一部を改正する省令（令和二年厚生労働省令第九十二号）の施行の際現に効力を有する」とあるのは、「令和二年三月一日に効力を有していた」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="平成二七年九月三〇日厚生労働省令第一五三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -1754,6 +1771,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三〇日厚生労働省令第九二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第一号</AppdxStyleTitle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="38" Year="11">
+<Law DataInfo="200818e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="38" Year="11">
   <LawNum>平成十一年厚生省令第三十八号</LawNum>
   <LawBody>
     <LawTitle>指定居宅介護支援等の事業の人員及び運営に関する基準</LawTitle>
@@ -471,7 +471,7 @@
               <ItemTitle>十三の二</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">介護支援専門員は、指定居宅サービス事業者等から利用者に係る情報の提供を受けたときその他必要と認めるときは、利用者の服薬状況、口<Ruby>腔<Rt>くう</Rt>
-                  </Ruby>機能その他の利用者の心身又は生活の状況に係る情報のうち必要と認めるものを、利用者の同意を得て主治の医師若しくは歯科医師又は薬剤師に提供するものとする。</Sentence>
+</Ruby>機能その他の利用者の心身又は生活の状況に係る情報のうち必要と認めるものを、利用者の同意を得て主治の医師若しくは歯科医師又は薬剤師に提供するものとする。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="14">
@@ -1172,10 +1172,26 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">平成三十三年三月三十一日までの間は、第二条の規定による改正後の指定居宅介護支援等基準第三条第二項の規定にかかわらず、介護支援専門員（介護保険法施行規則（平成十一年厚生省令第三十六号）第百四十条の六十六第一号イ（３）に規定する主任介護支援専門員を除く。）を指定居宅介護支援等基準第三条第一項に規定する管理者とすることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">令和九年三月三十一日までの間は、第二条の規定による改正後の指定居宅介護支援等基準第三条第二項の規定にかかわらず、介護支援専門員（介護保険法施行規則（平成十一年厚生省令第三十六号）第百四十条の六十六第一号イ（３）に規定する主任介護支援専門員を除く。）を指定居宅介護支援等基準第三条第一項に規定する管理者とすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和三年四月一日以後における前項の規定の適用については、前項中「、第二条」とあるのは「令和三年三月三十一日までに介護保険法第四十六条第一項の指定を受けている事業所（同日において当該事業所における指定居宅介護支援等基準第三条第一項に規定する管理者（以下この条において「管理者」という。）が、介護保険法施行規則（平成十一年厚生省令第三十六号）第百四十条の六十六第一号イ（３）に規定する主任介護支援専門員でないものに限る。）については、第二条」と、「介護支援専門員（介護保険法施行規則（平成十一年厚生省令第三十六号）第百四十条の六十六第一号イ（３）に規定する主任介護支援専門員を除く。）を指定居宅介護支援等基準第三条第一項に規定する」とあるのは「引き続き、令和三年三月三十一日における管理者である介護支援専門員を」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月五日厚生労働省令第一一三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和三年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>
