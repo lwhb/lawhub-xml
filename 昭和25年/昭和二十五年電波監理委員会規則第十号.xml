@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="Rule" Num="010" Year="25">
+<Law DataInfo="201009e01k01m01" Era="Showa" Lang="ja" LawType="Rule" Num="010" Year="25">
   <LawNum>昭和二十五年電波監理委員会規則第十号</LawNum>
   <LawBody>
     <LawTitle>放送法施行規則</LawTitle>
@@ -6009,7 +6009,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>認定基幹放送事業者、特定地上基幹放送事業者及び基幹放送局提供事業者は、毎年四月から各六箇月までの期間ごとにその期間中における基幹放送設備、特定地上基幹放送局等設備又は基幹放送局設備の状況について、次の各号に掲げる設備の区分に応じ、当該各号に定める様式の報告書を総務大臣に提出しなければならない。</Sentence>
+                  <Sentence>認定基幹放送事業者、特定地上基幹放送事業者及び基幹放送局提供事業者は、毎年六月末日までに、前年四月一日から当年三月三十一日までの基幹放送設備、特定地上基幹放送局等設備又は基幹放送局設備の状況について、次の各号に掲げる設備の区分に応じ、当該各号に定める様式の報告書（当該報告書に記載すべき事項を記録した電磁的記録（法第八十四条の二に規定する電磁的記録をいう。）を含む。第百五十九条において同じ。）を総務大臣に提出しなければならない。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -11725,6 +11725,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月一二日総務省令第七五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行し、報告期限が令和三年四月一日以降である報告から適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一号</AppdxTableTitle>
       <RelatedArticleNum>（第１６条第２項関係）</RelatedArticleNum>
@@ -12378,7 +12387,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S25F30901000010_2007101115_044.pdf"/>
+                <Fig src="./pict/S25F30901000010_2010230850_044.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -12393,7 +12402,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S25F30901000010_2007101115_045.pdf"/>
+                <Fig src="./pict/S25F30901000010_2010230850_045.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -12408,7 +12417,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S25F30901000010_2007101115_046.pdf"/>
+                <Fig src="./pict/S25F30901000010_2010230850_046.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -12768,7 +12777,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S25F30901000010_2007101115_070.pdf"/>
+                <Fig src="./pict/S25F30901000010_2010230850_070.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>
@@ -12783,7 +12792,7 @@
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
               <FigStruct>
-                <Fig src="./pict/S25F30901000010_2007101115_071.pdf"/>
+                <Fig src="./pict/S25F30901000010_2010230850_071.pdf"/>
               </FigStruct>
             </TableColumn>
           </TableRow>

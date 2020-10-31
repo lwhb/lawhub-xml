@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201023e03k03m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="056" Year="35">
+<Law DataInfo="201026e03k03m02" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="056" Year="35">
   <LawNum>昭和三十五年総理府令第五十六号</LawNum>
   <LawBody>
     <LawTitle>放射性同位元素等の規制に関する法律施行規則</LawTitle>
@@ -3815,12 +3815,6 @@
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
-            <Item Delete="false" Hide="false" Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">第二号の測定に用いる放射線測定器については、点検及び校正を、一年ごとに、適切に組み合わせて行うこと。</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -3873,47 +3867,23 @@
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、作業室その他放射性同位元素を吸入摂取し、又は経口摂取するおそれのある場所に一時的に立ち入る者であつて放射線業務従事者でないものにあつては、その者の内部被ばくによる線量が原子力規制委員会が定める線量を超えるおそれのないときはこの限りでない。</Sentence>
               </ItemSentence>
             </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">第一号の測定の信頼性を確保するための措置を講じること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">第二号の測定に用いる放射線測定器については、点検及び校正を、一年ごとに、適切に組み合わせて行うこと。</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Hide="false" Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第二十条第二項の放射性同位元素による汚染の状況の測定は、次に定めるところにより行う。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">法第二十条第二項の放射性同位元素による汚染の状況の測定は、放射線測定器を用い、次に定めるところにより行う。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、放射線測定器を用いて測定することが著しく困難である場合には、計算によつてこの値を算出することができる。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">放射線測定器を用いて行うこと。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、放射線測定器を用いて測定することが著しく困難である場合には、計算によつてこれらの値を算出することができる。</Sentence>
+                <Sentence WritingMode="vertical">手、足その他放射性同位元素によつて汚染されるおそれのある人体部位の表面及び作業衣、履物、保護具その他人体に着用している物の表面であつて放射性同位元素によつて汚染されるおそれのある部分について行うこと。</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">手、足その他放射性同位元素によつて汚染されるおそれのある人体部位の表面及び作業衣、履物、保護具その他人体に着用している物の表面であつて放射性同位元素によつて汚染されるおそれのある部分について行うこと。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
                 <Sentence WritingMode="vertical">密封されていない放射性同位元素等の使用、詰替え、焼却又はコンクリートその他の固型化材料による固型化を行う放射線施設に立ち入る者について、当該施設から退出するときに行うこと。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence WritingMode="vertical">測定に用いる放射線測定器については、点検及び校正を、一年ごとに、適切に組み合わせて行うこと。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>

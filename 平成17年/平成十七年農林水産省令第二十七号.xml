@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="27" Year="17">
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="27" Year="17">
   <LawNum>平成十七年農林水産省令第二十七号</LawNum>
   <LawBody>
     <LawTitle>農業協同組合法施行規則</LawTitle>
@@ -5923,7 +5923,7 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">中小企業者（中小企業等経営強化法（平成十一年法律第十八号）第二条第一項に規定する中小企業者をいう。次号及び第三号において同じ。）であって、設立の日又は新事業活動（会社が現に行っている事業と異なる種類の事業であって、新商品の開発又は生産、新役務の開発又は提供、商品の新たな生産又は販売の方式の導入、役務の新たな提供の方式の導入その他の新たな事業活動をいう。次号及び第三号において同じ。）の開始の日以後十年を経過しておらず、かつ、前事業年度又は前年においてイに掲げる金額のロに掲げる金額に対する割合が百分の三を超えているもの</Sentence>
+                <Sentence WritingMode="vertical">中小企業者（中小企業等経営強化法（平成十一年法律第十八号）第二条第一項に規定する中小企業者をいう。次号及び第三号において同じ。）であって、設立の日又は新事業活動（会社が現に行っている事業と異なる種類の事業であって、新商品の開発又は生産、新役務の開発又は提供、商品の新たな生産又は販売の方式の導入、技術に関する研究開発及びその成果の利用、役務の新たな提供の方式の導入その他の新たな事業活動をいう。次号及び第三号において同じ。）の開始の日以後十年を経過しておらず、かつ、前事業年度又は前年においてイに掲げる金額のロに掲げる金額に対する割合が百分の三を超えているもの</Sentence>
               </ItemSentence>
               <Subitem1 Delete="false" Hide="false" Num="1">
                 <Subitem1Title>イ</Subitem1Title>
@@ -5941,7 +5941,7 @@
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">中小企業者であって、設立の日又は新事業活動の開始の日以後二年を経過しておらず、常勤の新事業活動従事者（新商品の開発又は生産、新役務の開発又は提供、商品の新たな生産又は販売の方式の導入、役務の新たな提供の方式の導入その他の新たな事業活動に従事する者であって、研究者に該当しない者に限る。以下この号において同じ。）の数が二人以上であり、かつ、当該新事業活動従事者の数の常勤の役員及び従業員の数の合計に対する割合が十分の一以上であるもの</Sentence>
+                <Sentence WritingMode="vertical">中小企業者であって、設立の日又は新事業活動の開始の日以後二年を経過しておらず、常勤の新事業活動従事者（新商品の開発又は生産、新役務の開発又は提供、商品の新たな生産又は販売の方式の導入、役務の新たな提供の方式の導入、技術に関する研究開発及びその成果の利用その他の新たな事業活動に従事する者であって、研究者に該当しない者に限る。以下この号において同じ。）の数が二人以上であり、かつ、当該新事業活動従事者の数の常勤の役員及び従業員の数の合計に対する割合が十分の一以上であるもの</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -5959,47 +5959,41 @@
             <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">中小企業等経営強化法第十六条第一項の認定を受けている会社</Sentence>
+                <Sentence Num="1" WritingMode="vertical">民事再生法（平成十一年法律第二百二十五号）第百七十四条第一項の規定による再生計画認可の決定を受けている会社</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">民事再生法（平成十一年法律第二百二十五号）第百七十四条第一項の規定による再生計画認可の決定を受けている会社</Sentence>
+                <Sentence Num="1" WritingMode="vertical">会社更生法（平成十四年法律第百五十四号）第百九十九条第一項の規定による更生計画認可の決定を受けている会社</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">会社更生法（平成十四年法律第百五十四号）第百九十九条第一項の規定による更生計画認可の決定を受けている会社</Sentence>
+                <Sentence Num="1" WritingMode="vertical">株式会社地域経済活性化支援機構法（平成二十一年法律第六十三号）第二十五条第四項に規定する再生支援決定を受けている会社</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">株式会社地域経済活性化支援機構法（平成二十一年法律第六十三号）第二十五条第四項に規定する再生支援決定を受けている会社</Sentence>
+                <Sentence Num="1" WritingMode="vertical">株式会社東日本大震災事業者再生支援機構法（平成二十三年法律第百十三号）第十九条第四項に規定する支援決定を受けている会社</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">株式会社東日本大震災事業者再生支援機構法（平成二十三年法律第百十三号）第十九条第四項に規定する支援決定を受けている会社</Sentence>
+                <Sentence Num="1" WritingMode="vertical">株式会社東日本大震災事業者再生支援機構法第五十九条第一項に規定する産業復興機構による支援を受けている会社</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">株式会社東日本大震災事業者再生支援機構法第五十九条第一項に規定する産業復興機構による支援を受けている会社</Sentence>
+                <Sentence Num="1" WritingMode="vertical">産業競争力強化法（平成二十五年法律第九十八号）第二十三条第一項又は第二十五条第一項の認定を受けている会社</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="11">
               <ItemTitle>十一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">産業競争力強化法（平成二十五年法律第九十八号）第二十三条第一項又は第二十五条第一項の認定を受けている会社</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="12">
-              <ItemTitle>十二</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">合理的な経営改善のための計画（法第九十二条の三第一項に規定する銀行等、株式会社商工組合中央金庫、保険会社（保険業法第二条第七項に規定する外国保険会社等を含む。）、銀行法第二条第十三項に規定する銀行持株会社、長期信用銀行法第十六条の四第一項に規定する長期信用銀行持株会社若しくは保険業法第二条第十六項に規定する保険持株会社又はこれらの子会社（以下この号において「特定金融機関等」という。）が、当該特定金融機関等に対する会社の債務について次に掲げる措置のいずれかを実施することを内容とするものであって、当該措置の実施により相当の期間内に当該会社の経営の状況が改善されることが見込まれるものに限る。）を実施している会社</Sentence>
               </ItemSentence>
@@ -20615,7 +20609,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-<SupplProvision AmendLawNum="令和二年四月六日農林水産省令第三二号" Type="Amend">
+    <SupplProvision AmendLawNum="令和二年四月六日農林水産省令第三二号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Delete="false" Hide="false" Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -20634,6 +20628,28 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">第一条の規定による改正後の農業協同組合法施行規則第二百四条第一項に規定する説明書類の記載事項は、施行の日以後に終了する事業年度に係る説明書類について適用し、施行日前に終了する事業年度に係る説明書類については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+<SupplProvision AmendLawNum="令和二年一〇月一日農林水産省令第六七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、中小企業の事業承継の促進のための中小企業における経営の承継の円滑化に関する法律等の一部を改正する法律（次条において「改正法」という。）の施行の日（令和二年十月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行の際現に改正法第二条の規定による改正前の中小企業等経営強化法（平成十一年法律第十八号。以下この条において「改正前中小強化法」という。）第十六条第一項の認定を受けている会社（改正法附則第二条第一項の規定によりなお従前の例によることとされた改正前中小強化法第十六条第一項の認定を受けた会社を含む。）については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

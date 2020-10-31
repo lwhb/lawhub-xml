@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200831e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="23" Year="23">
+<Law DataInfo="200818e81k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="23" Year="23">
   <LawNum>昭和二十三年厚生省令第二十三号</LawNum>
   <LawBody>
     <LawTitle>食品衛生法施行規則</LawTitle>
@@ -577,12 +577,39 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="13:16">
-          <ArticleTitle>第十三条から第十六条まで</ArticleTitle>
+        <Article Num="13">
+          <ArticleTitle>第十三条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+              <Sentence>削除</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>削除</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>削除</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>削除</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -727,12 +754,21 @@
       </Chapter>
       <Chapter Num="3">
         <ChapterTitle>第三章　削除</ChapterTitle>
-        <Article Num="22:23">
-          <ArticleTitle>第二十二条及び第二十三条</ArticleTitle>
+        <Article Num="22">
+          <ArticleTitle>第二十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+              <Sentence>削除</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>削除</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3159,7 +3195,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">当該中毒が別表第十七に掲げる病因物質に起因し、又は起因すると疑われるとき</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該中毒が別表第十九に掲げる病因物質に起因し、又は起因すると疑われるとき</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
@@ -6245,6 +6281,26 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一八日厚生労働省令第一三〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月一四日厚生労働省令第一四〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和二年十二月十五日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中食品衛生法施行規則第七十三条第二項第三号の改正規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第二十六条関係）</RelatedArticleNum>
@@ -7491,1661 +7547,1667 @@
       <Item Num="189">
         <ItemTitle>百八十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ジブチルヒドロキシトルエン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ジフェノコナゾール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="190">
         <ItemTitle>百九十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ジベンゾイルチアミン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ジブチルヒドロキシトルエン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="191">
         <ItemTitle>百九十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ジベンゾイルチアミン塩酸塩</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ジベンゾイルチアミン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="192">
         <ItemTitle>百九十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">脂肪酸類</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ジベンゾイルチアミン塩酸塩</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="193">
         <ItemTitle>百九十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">脂肪族高級アルコール類</Sentence>
+          <Sentence Num="1" WritingMode="vertical">脂肪酸類</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="194">
         <ItemTitle>百九十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">脂肪族高級アルデヒド類（毒性が激しいと一般に認められるものを除く。）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">脂肪族高級アルコール類</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="195">
         <ItemTitle>百九十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">脂肪族高級炭化水素類（毒性が激しいと一般に認められるものを除く。）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">脂肪族高級アルデヒド類（毒性が激しいと一般に認められるものを除く。）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="196">
         <ItemTitle>百九十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２・３―ジメチルピラジン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">脂肪族高級炭化水素類（毒性が激しいと一般に認められるものを除く。）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="197">
         <ItemTitle>百九十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２・５―ジメチルピラジン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">２・３―ジメチルピラジン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="198">
         <ItemTitle>百九十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２・６―ジメチルピラジン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">２・５―ジメチルピラジン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="199">
         <ItemTitle>百九十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２・６―ジメチルピリジン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">２・６―ジメチルピラジン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="200">
         <ItemTitle>二百</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">シュウ酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical">２・６―ジメチルピリジン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="201">
         <ItemTitle>二百一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">臭素酸カリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">シュウ酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="202">
         <ItemTitle>二百二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ＤＬ―酒石酸（別名ｄｌ―酒石酸）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">臭素酸カリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="203">
         <ItemTitle>二百三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―酒石酸（別名ｄ―酒石酸）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ＤＬ―酒石酸（別名ｄｌ―酒石酸）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="204">
         <ItemTitle>二百四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ＤＬ―酒石酸水素カリウム（別名ｄｌ―酒石酸水素カリウム又はＤＬ―重酒石酸カリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―酒石酸（別名ｄ―酒石酸）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="205">
         <ItemTitle>二百五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―酒石酸水素カリウム（別名ｄ―酒石酸水素カリウム又はＬ―重酒石酸カリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ＤＬ―酒石酸水素カリウム（別名ｄｌ―酒石酸水素カリウム又はＤＬ―重酒石酸カリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="206">
         <ItemTitle>二百六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ＤＬ―酒石酸ナトリウム（別名ｄｌ―酒石酸ナトリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―酒石酸水素カリウム（別名ｄ―酒石酸水素カリウム又はＬ―重酒石酸カリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="207">
         <ItemTitle>二百七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―酒石酸ナトリウム（別名ｄ―酒石酸ナトリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ＤＬ―酒石酸ナトリウム（別名ｄｌ―酒石酸ナトリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="208">
         <ItemTitle>二百八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">硝酸カリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―酒石酸ナトリウム（別名ｄ―酒石酸ナトリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="209">
         <ItemTitle>二百九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">硝酸ナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">硝酸カリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="210">
         <ItemTitle>二百十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食用赤色二号（別名アマランス）及びそのアルミニウムレーキ</Sentence>
+          <Sentence Num="1" WritingMode="vertical">硝酸ナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="211">
         <ItemTitle>二百十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食用赤色三号（別名エリスロシン）及びそのアルミニウムレーキ</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食用赤色二号（別名アマランス）及びそのアルミニウムレーキ</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="212">
         <ItemTitle>二百十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食用赤色四〇号（別名アルラレッドＡＣ）及びそのアルミニウムレーキ</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食用赤色三号（別名エリスロシン）及びそのアルミニウムレーキ</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="213">
         <ItemTitle>二百十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食用赤色一〇二号（別名ニューコクシン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食用赤色四〇号（別名アルラレッドＡＣ）及びそのアルミニウムレーキ</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="214">
         <ItemTitle>二百十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食用赤色一〇四号（別名フロキシン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食用赤色一〇二号（別名ニューコクシン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="215">
         <ItemTitle>二百十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食用赤色一〇五号（別名ローズベンガル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食用赤色一〇四号（別名フロキシン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="216">
         <ItemTitle>二百十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食用赤色一〇六号（別名アシッドレッド）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食用赤色一〇五号（別名ローズベンガル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="217">
         <ItemTitle>二百十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食用黄色四号（別名タートラジン）及びそのアルミニウムレーキ</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食用赤色一〇六号（別名アシッドレッド）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="218">
         <ItemTitle>二百十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食用黄色五号（別名サンセットイエローＦＣＦ）及びそのアルミニウムレーキ</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食用黄色四号（別名タートラジン）及びそのアルミニウムレーキ</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="219">
         <ItemTitle>二百十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食用緑色三号（別名ファストグリーンＦＣＦ）及びそのアルミニウムレーキ</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食用黄色五号（別名サンセットイエローＦＣＦ）及びそのアルミニウムレーキ</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="220">
         <ItemTitle>二百二十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食用青色一号（別名ブリリアントブルーＦＣＦ）及びそのアルミニウムレーキ</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食用緑色三号（別名ファストグリーンＦＣＦ）及びそのアルミニウムレーキ</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="221">
         <ItemTitle>二百二十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">食用青色二号（別名インジゴカルミン）及びそのアルミニウムレーキ</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食用青色一号（別名ブリリアントブルーＦＣＦ）及びそのアルミニウムレーキ</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="222">
         <ItemTitle>二百二十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ショ糖脂肪酸エステル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">食用青色二号（別名インジゴカルミン）及びそのアルミニウムレーキ</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="223">
         <ItemTitle>二百二十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">シリコーン樹脂（別名ポリジメチルシロキサン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ショ糖脂肪酸エステル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="224">
         <ItemTitle>二百二十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">シンナミルアルコール（別名ケイ皮アルコール）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">シリコーン樹脂（別名ポリジメチルシロキサン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="225">
         <ItemTitle>二百二十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">シンナムアルデヒド（別名ケイ皮アルデヒド）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">シンナミルアルコール（別名ケイ皮アルコール）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="226">
         <ItemTitle>二百二十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">水酸化カリウム（別名カセイカリ）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">シンナムアルデヒド（別名ケイ皮アルデヒド）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="227">
         <ItemTitle>二百二十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">水酸化カルシウム（別名消石灰）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">水酸化カリウム（別名カセイカリ）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="228">
         <ItemTitle>二百二十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">水酸化ナトリウム（別名カセイソーダ）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">水酸化カルシウム（別名消石灰）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="229">
         <ItemTitle>二百二十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">水酸化マグネシウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">水酸化ナトリウム（別名カセイソーダ）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="230">
         <ItemTitle>二百三十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">スクラロース（別名トリクロロガラクトスクロース）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">水酸化マグネシウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="231">
         <ItemTitle>二百三十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ステアリン酸カルシウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">スクラロース（別名トリクロロガラクトスクロース）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="232">
         <ItemTitle>二百三十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ステアリン酸マグネシウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ステアリン酸カルシウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="233">
         <ItemTitle>二百三十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ステアロイル乳酸カルシウム（別名ステアリル乳酸カルシウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ステアリン酸マグネシウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="234">
         <ItemTitle>二百三十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ステアロイル乳酸ナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ステアロイル乳酸カルシウム（別名ステアリル乳酸カルシウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="235">
         <ItemTitle>二百三十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ソルビタン脂肪酸エステル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ステアロイル乳酸ナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="236">
         <ItemTitle>二百三十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｄ―ソルビトール（別名Ｄ―ソルビット）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ソルビタン脂肪酸エステル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="237">
         <ItemTitle>二百三十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ソルビン酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｄ―ソルビトール（別名Ｄ―ソルビット）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="238">
         <ItemTitle>二百三十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ソルビン酸カリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ソルビン酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="239">
         <ItemTitle>二百三十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ソルビン酸カルシウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ソルビン酸カリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="240">
         <ItemTitle>二百四十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">炭酸アンモニウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ソルビン酸カルシウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="241">
         <ItemTitle>二百四十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">炭酸カリウム（無水）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">炭酸アンモニウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="242">
         <ItemTitle>二百四十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">炭酸カルシウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">炭酸カリウム（無水）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="243">
         <ItemTitle>二百四十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">炭酸水素アンモニウム（別名重炭酸アンモニウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">炭酸カルシウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="244">
         <ItemTitle>二百四十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">炭酸水素ナトリウム（別名重炭酸ナトリウム又は重炭酸ソーダ）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">炭酸水素アンモニウム（別名重炭酸アンモニウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="245">
         <ItemTitle>二百四十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">炭酸ナトリウム（結晶物の場合にあつては別名炭酸ソーダ、無水物の場合にあつては別名ソーダ灰）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">炭酸水素ナトリウム（別名重炭酸ナトリウム又は重炭酸ソーダ）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="246">
         <ItemTitle>二百四十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">炭酸マグネシウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">炭酸ナトリウム（結晶物の場合にあつては別名炭酸ソーダ、無水物の場合にあつては別名ソーダ灰）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="247">
         <ItemTitle>二百四十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">チアベンダゾール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">炭酸マグネシウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="248">
         <ItemTitle>二百四十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">チアミン塩酸塩（別名ビタミンＢ<Sub>１</Sub>塩酸塩）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">チアベンダゾール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="249">
         <ItemTitle>二百四十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">チアミン硝酸塩（別名ビタミンＢ<Sub>１</Sub>硝酸塩）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">チアミン塩酸塩（別名ビタミンＢ<Sub>１</Sub>塩酸塩）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="250">
         <ItemTitle>二百五十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">チアミンセチル硫酸塩（別名ビタミンＢ<Sub>１</Sub>セチル硫酸塩）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">チアミン硝酸塩（別名ビタミンＢ<Sub>１</Sub>硝酸塩）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="251">
         <ItemTitle>二百五十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">チアミンチオシアン酸塩（別名ビタミンＢ<Sub>１</Sub>ロダン酸塩）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">チアミンセチル硫酸塩（別名ビタミンＢ<Sub>１</Sub>セチル硫酸塩）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="252">
         <ItemTitle>二百五十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">チアミンナフタレン―１・５―ジスルホン酸塩（別名チアミンナフタリン―１・５―ジスルホン酸塩又はビタミンＢ<Sub>１</Sub>ナフタレン―１・５―ジスルホン酸塩）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">チアミンチオシアン酸塩（別名ビタミンＢ<Sub>１</Sub>ロダン酸塩）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="253">
         <ItemTitle>二百五十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">チアミンラウリル硫酸塩（別名ビタミンＢ<Sub>１</Sub>ラウリル硫酸塩）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">チアミンナフタレン―１・５―ジスルホン酸塩（別名チアミンナフタリン―１・５―ジスルホン酸塩又はビタミンＢ<Sub>１</Sub>ナフタレン―１・５―ジスルホン酸塩）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="254">
         <ItemTitle>二百五十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">チオエーテル類（毒性が激しいと一般に認められるものを除く。）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">チアミンラウリル硫酸塩（別名ビタミンＢ<Sub>１</Sub>ラウリル硫酸塩）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="255">
         <ItemTitle>二百五十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">チオール類（別名チオアルコール類）（毒性が激しいと一般に認められるものを除く。）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">チオエーテル類（毒性が激しいと一般に認められるものを除く。）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="256">
         <ItemTitle>二百五十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―テアニン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">チオール類（別名チオアルコール類）（毒性が激しいと一般に認められるものを除く。）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="257">
         <ItemTitle>二百五十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">デカナール（別名デシルアルデヒド）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―テアニン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="258">
         <ItemTitle>二百五十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">デカノール（別名デシルアルコール）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">デカナール（別名デシルアルデヒド）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="259">
         <ItemTitle>二百五十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">デカン酸エチル（別名カプリン酸エチル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">デカノール（別名デシルアルコール）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="260">
         <ItemTitle>二百六十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">鉄クロロフィリンナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">デカン酸エチル（別名カプリン酸エチル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="261">
         <ItemTitle>二百六十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">５・６・７・８―テトラヒドロキノキサリン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">鉄クロロフィリンナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="262">
         <ItemTitle>二百六十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２・３・５・６―テトラメチルピラジン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">５・６・７・８―テトラヒドロキノキサリン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="263">
         <ItemTitle>二百六十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">デヒドロ酢酸ナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">２・３・５・６―テトラメチルピラジン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="264">
         <ItemTitle>二百六十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">テルピネオール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">デヒドロ酢酸ナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="265">
         <ItemTitle>二百六十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">テルペン系炭化水素類</Sentence>
+          <Sentence Num="1" WritingMode="vertical">テルピネオール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="266">
         <ItemTitle>二百六十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">デンプングリコール酸ナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">テルペン系炭化水素類</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="267">
         <ItemTitle>二百六十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">銅塩類（グルコン酸銅及び硫酸銅に限る。）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">デンプングリコール酸ナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="268">
         <ItemTitle>二百六十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">銅クロロフィリンナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">銅塩類（グルコン酸銅及び硫酸銅に限る。）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="269">
         <ItemTitle>二百六十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">銅クロロフィル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">銅クロロフィリンナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="270">
         <ItemTitle>二百七十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ｄｌ―α―トコフェロール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">銅クロロフィル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="271">
         <ItemTitle>二百七十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">トコフェロール酢酸エステル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ｄｌ―α―トコフェロール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="272">
         <ItemTitle>二百七十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ｄ―α―トコフェロール酢酸エステル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">トコフェロール酢酸エステル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="273">
         <ItemTitle>二百七十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ＤＬ―トリプトファン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ｄ―α―トコフェロール酢酸エステル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="274">
         <ItemTitle>二百七十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―トリプトファン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ＤＬ―トリプトファン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="275">
         <ItemTitle>二百七十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">トリメチルアミン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―トリプトファン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="276">
         <ItemTitle>二百七十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２・３・５―トリメチルピラジン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">トリメチルアミン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="277">
         <ItemTitle>二百七十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ＤＬ―トレオニン（別名ＤＬ―スレオニン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">２・３・５―トリメチルピラジン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="278">
         <ItemTitle>二百七十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―トレオニン（別名Ｌ―スレオニン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ＤＬ―トレオニン（別名ＤＬ―スレオニン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="279">
         <ItemTitle>二百七十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ナイシン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―トレオニン（別名Ｌ―スレオニン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="280">
         <ItemTitle>二百八十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ナタマイシン（別名ピマリシン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ナイシン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="281">
         <ItemTitle>二百八十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ナトリウムメトキシド（別名ナトリウムメチラート）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ナタマイシン（別名ピマリシン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="282">
         <ItemTitle>二百八十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ニコチン酸（別名ナイアシン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ナトリウムメトキシド（別名ナトリウムメチラート）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="283">
         <ItemTitle>二百八十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ニコチン酸アミド（別名ナイアシンアミド）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ニコチン酸（別名ナイアシン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="284">
         <ItemTitle>二百八十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">二酸化硫黄（別名無水亜硫酸）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ニコチン酸アミド（別名ナイアシンアミド）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="285">
         <ItemTitle>二百八十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">二酸化塩素</Sentence>
+          <Sentence Num="1" WritingMode="vertical">二酸化硫黄（別名無水亜硫酸）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="286">
         <ItemTitle>二百八十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">二酸化ケイ素（別名シリカゲル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">二酸化塩素</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="287">
         <ItemTitle>二百八十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">二酸化炭素（別名炭酸ガス）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">二酸化ケイ素（別名シリカゲル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="288">
         <ItemTitle>二百八十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">二酸化チタン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">二酸化炭素（別名炭酸ガス）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="289">
         <ItemTitle>二百八十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">二炭酸ジメチル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">二酸化チタン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="290">
         <ItemTitle>二百九十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">乳酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical">二炭酸ジメチル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="291">
         <ItemTitle>二百九十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">乳酸カリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">乳酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="292">
         <ItemTitle>二百九十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">乳酸カルシウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">乳酸カリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="293">
         <ItemTitle>二百九十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">乳酸鉄</Sentence>
+          <Sentence Num="1" WritingMode="vertical">乳酸カルシウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="294">
         <ItemTitle>二百九十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">乳酸ナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">乳酸鉄</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="295">
         <ItemTitle>二百九十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ネオテーム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">乳酸ナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="296">
         <ItemTitle>二百九十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">γ―ノナラクトン（別名ノナラクトン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ネオテーム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="297">
         <ItemTitle>二百九十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ノルビキシンカリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">γ―ノナラクトン（別名ノナラクトン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="298">
         <ItemTitle>二百九十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ノルビキシンナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ノルビキシンカリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="299">
         <ItemTitle>二百九十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">バニリン（別名ワニリン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ノルビキシンナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="300">
         <ItemTitle>三百</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">パラオキシ安息香酸イソブチル（別名パラヒドロキシ安息香酸イソブチル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">バニリン（別名ワニリン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="301">
         <ItemTitle>三百一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">パラオキシ安息香酸イソプロピル（別名パラヒドロキシ安息香酸イソプロピル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">パラオキシ安息香酸イソブチル（別名パラヒドロキシ安息香酸イソブチル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="302">
         <ItemTitle>三百二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">パラオキシ安息香酸エチル（別名パラヒドロキシ安息香酸エチル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">パラオキシ安息香酸イソプロピル（別名パラヒドロキシ安息香酸イソプロピル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="303">
         <ItemTitle>三百三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">パラオキシ安息香酸ブチル（別名パラヒドロキシ安息香酸ブチル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">パラオキシ安息香酸エチル（別名パラヒドロキシ安息香酸エチル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="304">
         <ItemTitle>三百四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">パラオキシ安息香酸プロピル（別名パラヒドロキシ安息香酸プロピル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">パラオキシ安息香酸ブチル（別名パラヒドロキシ安息香酸ブチル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="305">
         <ItemTitle>三百五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">パラメチルアセトフェノン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">パラオキシ安息香酸プロピル（別名パラヒドロキシ安息香酸プロピル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="306">
         <ItemTitle>三百六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―バリン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">パラメチルアセトフェノン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="307">
         <ItemTitle>三百七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">バレルアルデヒド</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―バリン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="308">
         <ItemTitle>三百八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">パントテン酸カルシウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">バレルアルデヒド</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="309">
         <ItemTitle>三百九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">パントテン酸ナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">パントテン酸カルシウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="310">
         <ItemTitle>三百十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ビオチン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">パントテン酸ナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="311">
         <ItemTitle>三百十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―ヒスチジン塩酸塩</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ビオチン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="312">
         <ItemTitle>三百十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ビスベンチアミン（別名ベンゾイルチアミンジスルフィド）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―ヒスチジン塩酸塩</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="313">
         <ItemTitle>三百十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ビタミンＡ（別名レチノール）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ビスベンチアミン（別名ベンゾイルチアミンジスルフィド）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="314">
         <ItemTitle>三百十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ビタミンＡ脂肪酸エステル（別名レチノール脂肪酸エステル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ビタミンＡ（別名レチノール）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="315">
         <ItemTitle>三百十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">１―ヒドロキシエチリデン―１・１―ジホスホン酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ビタミンＡ脂肪酸エステル（別名レチノール脂肪酸エステル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="316">
         <ItemTitle>三百十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ヒドロキシシトロネラール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">１―ヒドロキシエチリデン―１・１―ジホスホン酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="317">
         <ItemTitle>三百十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ヒドロキシシトロネラールジメチルアセタール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ヒドロキシシトロネラール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="318">
         <ItemTitle>三百十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ヒドロキシプロピル化リン酸架橋デンプン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ヒドロキシシトロネラールジメチルアセタール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="319">
         <ItemTitle>三百十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ヒドロキシプロピルセルロース</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ヒドロキシプロピル化リン酸架橋デンプン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="320">
         <ItemTitle>三百二十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ヒドロキシプロピルデンプン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ヒドロキシプロピルセルロース</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="321">
         <ItemTitle>三百二十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ヒドロキシプロピルメチルセルロース</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ヒドロキシプロピルデンプン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="322">
         <ItemTitle>三百二十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピペリジン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ヒドロキシプロピルメチルセルロース</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="323">
         <ItemTitle>三百二十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピペロナール（別名ヘリオトロピン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピペリジン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="324">
         <ItemTitle>三百二十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピペロニルブトキシド（別名ピペロニルブトキサイド）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピペロナール（別名ヘリオトロピン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="325">
         <ItemTitle>三百二十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ヒマワリレシチン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピペロニルブトキシド（別名ピペロニルブトキサイド）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="326">
         <ItemTitle>三百二十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">氷酢酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ヒマワリレシチン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="327">
         <ItemTitle>三百二十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピラジン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">氷酢酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="328">
         <ItemTitle>三百二十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピリドキシン塩酸塩（別名ビタミンＢ<Sub>６</Sub>）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピラジン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="329">
         <ItemTitle>三百二十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピリメタニル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピリドキシン塩酸塩（別名ビタミンＢ<Sub>６</Sub>）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="330">
         <ItemTitle>三百三十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピロ亜硫酸カリウム（別名亜硫酸水素カリウム又はメタ重亜硫酸カリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピリメタニル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="331">
         <ItemTitle>三百三十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピロ亜硫酸ナトリウム（別名亜硫酸水素ナトリウム、メタ重亜硫酸ナトリウム又は酸性亜硫酸ソーダ）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピロ亜硫酸カリウム（別名亜硫酸水素カリウム又はメタ重亜硫酸カリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="332">
         <ItemTitle>三百三十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピロリジン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピロ亜硫酸ナトリウム（別名亜硫酸水素ナトリウム、メタ重亜硫酸ナトリウム又は酸性亜硫酸ソーダ）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="333">
         <ItemTitle>三百三十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピロリン酸四カリウム（別名ピロリン酸カリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピロリジン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="334">
         <ItemTitle>三百三十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピロリン酸二水素カルシウム（別名酸性ピロリン酸カルシウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピロリン酸四カリウム（別名ピロリン酸カリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="335">
         <ItemTitle>三百三十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピロリン酸二水素二ナトリウム（別名酸性ピロリン酸ナトリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピロリン酸二水素カルシウム（別名酸性ピロリン酸カルシウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="336">
         <ItemTitle>三百三十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピロリン酸第二鉄</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピロリン酸二水素二ナトリウム（別名酸性ピロリン酸ナトリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="337">
         <ItemTitle>三百三十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピロリン酸四ナトリウム（別名ピロリン酸ナトリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピロリン酸第二鉄</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="338">
         <ItemTitle>三百三十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ピロール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピロリン酸四ナトリウム（別名ピロリン酸ナトリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="339">
         <ItemTitle>三百三十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―フェニルアラニン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ピロール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="340">
         <ItemTitle>三百四十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">フェニル酢酸イソアミル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―フェニルアラニン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="341">
         <ItemTitle>三百四十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">フェニル酢酸イソブチル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">フェニル酢酸イソアミル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="342">
         <ItemTitle>三百四十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">フェニル酢酸エチル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">フェニル酢酸イソブチル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="343">
         <ItemTitle>三百四十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２―（３―フェニルプロピル）ピリジン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">フェニル酢酸エチル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="344">
         <ItemTitle>三百四十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">フェネチルアミン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">２―（３―フェニルプロピル）ピリジン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="345">
         <ItemTitle>三百四十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">フェノールエーテル類（毒性が激しいと一般に認められるものを除く。）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">フェネチルアミン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="346">
         <ItemTitle>三百四十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">フェノール類（毒性が激しいと一般に認められるものを除く。）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">フェノールエーテル類（毒性が激しいと一般に認められるものを除く。）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="347">
         <ItemTitle>三百四十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">フェロシアン化物（フェロシアン化カリウム（別名ヘキサシアノ鉄（Ⅱ）酸カリウム）、フェロシアン化カルシウム（別名ヘキサシアノ鉄（Ⅱ）酸カルシウム）及びフェロシアン化ナトリウム（別名ヘキサシアノ鉄（Ⅱ）酸ナトリウム）に限る。）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">フェノール類（毒性が激しいと一般に認められるものを除く。）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="348">
         <ItemTitle>三百四十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プシコースエピメラーゼ</Sentence>
+          <Sentence Num="1" WritingMode="vertical">フェロシアン化物（フェロシアン化カリウム（別名ヘキサシアノ鉄（Ⅱ）酸カリウム）、フェロシアン化カルシウム（別名ヘキサシアノ鉄（Ⅱ）酸カルシウム）及びフェロシアン化ナトリウム（別名ヘキサシアノ鉄（Ⅱ）酸ナトリウム）に限る。）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="349">
         <ItemTitle>三百四十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ブタノール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プシコースエピメラーゼ</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="350">
         <ItemTitle>三百五十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ブチルアミン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ブタノール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="351">
         <ItemTitle>三百五十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ｓｅｃ―ブチルアミン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ブチルアミン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="352">
         <ItemTitle>三百五十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ブチルアルデヒド</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ｓｅｃ―ブチルアミン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="353">
         <ItemTitle>三百五十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ブチルヒドロキシアニソール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ブチルアルデヒド</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="354">
         <ItemTitle>三百五十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">フマル酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ブチルヒドロキシアニソール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="355">
         <ItemTitle>三百五十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">フマル酸一ナトリウム（別名フマル酸ナトリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">フマル酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="356">
         <ItemTitle>三百五十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">フルジオキソニル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">フマル酸一ナトリウム（別名フマル酸ナトリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="357">
         <ItemTitle>三百五十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">フルフラール及びその誘導体（毒性が激しいと一般に認められるものを除く。）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">フルジオキソニル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="358">
         <ItemTitle>三百五十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プロパノール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">フルフラール及びその誘導体（毒性が激しいと一般に認められるものを除く。）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="359">
         <ItemTitle>三百五十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プロピオンアルデヒド</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プロパノール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="360">
         <ItemTitle>三百六十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プロピオン酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プロピオンアルデヒド</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="361">
         <ItemTitle>三百六十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プロピオン酸イソアミル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プロピオン酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="362">
         <ItemTitle>三百六十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プロピオン酸エチル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プロピオン酸イソアミル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="363">
         <ItemTitle>三百六十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プロピオン酸カルシウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プロピオン酸エチル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="364">
         <ItemTitle>三百六十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プロピオン酸ナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プロピオン酸カルシウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="365">
         <ItemTitle>三百六十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プロピオン酸ベンジル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プロピオン酸ナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="366">
         <ItemTitle>三百六十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プロピコナゾール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プロピオン酸ベンジル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="367">
         <ItemTitle>三百六十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プロピルアミン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プロピコナゾール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="368">
         <ItemTitle>三百六十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プロピレングリコール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プロピルアミン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="369">
         <ItemTitle>三百六十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">プロピレングリコール脂肪酸エステル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プロピレングリコール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="370">
         <ItemTitle>三百七十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ヘキサン酸（別名カプロン酸）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">プロピレングリコール脂肪酸エステル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="371">
         <ItemTitle>三百七十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ヘキサン酸アリル（別名カプロン酸アリル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ヘキサン酸（別名カプロン酸）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="372">
         <ItemTitle>三百七十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ヘキサン酸エチル（別名カプロン酸エチル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ヘキサン酸アリル（別名カプロン酸アリル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="373">
         <ItemTitle>三百七十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ヘキシルアミン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ヘキサン酸エチル（別名カプロン酸エチル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="374">
         <ItemTitle>三百七十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ヘプタン酸エチル（別名エナント酸エチル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ヘキシルアミン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="375">
         <ItemTitle>三百七十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ｌ―ペリルアルデヒド（別名ｌ―ペリラアルデヒド）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ヘプタン酸エチル（別名エナント酸エチル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="376">
         <ItemTitle>三百七十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ベンジルアルコール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ｌ―ペリルアルデヒド（別名ｌ―ペリラアルデヒド）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="377">
         <ItemTitle>三百七十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ベンズアルデヒド</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ベンジルアルコール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="378">
         <ItemTitle>三百七十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２―ペンタノール（別名ｓｅｃ―アミルアルコール）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ベンズアルデヒド</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="379">
         <ItemTitle>三百七十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ペンチルアミン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">２―ペンタノール（別名ｓｅｃ―アミルアルコール）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="380">
         <ItemTitle>三百八十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ｔｒａｎｓ―２―ペンテナール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ペンチルアミン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="381">
         <ItemTitle>三百八十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">１―ペンテン―３―オール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ｔｒａｎｓ―２―ペンテナール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="382">
         <ItemTitle>三百八十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">芳香族アルコール類</Sentence>
+          <Sentence Num="1" WritingMode="vertical">１―ペンテン―３―オール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="383">
         <ItemTitle>三百八十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">芳香族アルデヒド類（毒性が激しいと一般に認められるものを除く。）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">芳香族アルコール類</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="384">
         <ItemTitle>三百八十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">没食子酸プロピル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">芳香族アルデヒド類（毒性が激しいと一般に認められるものを除く。）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="385">
         <ItemTitle>三百八十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ポリアクリル酸ナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">没食子酸プロピル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="386">
         <ItemTitle>三百八十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ポリイソブチレン（別名ブチルゴム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ポリアクリル酸ナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="387">
         <ItemTitle>三百八十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ポリソルベート二〇</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ポリイソブチレン（別名ブチルゴム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="388">
         <ItemTitle>三百八十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ポリソルベート六〇</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ポリソルベート二〇</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="389">
         <ItemTitle>三百八十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ポリソルベート六五</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ポリソルベート六〇</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="390">
         <ItemTitle>三百九十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ポリソルベート八〇</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ポリソルベート六五</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="391">
         <ItemTitle>三百九十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ポリビニルピロリドン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ポリソルベート八〇</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="392">
         <ItemTitle>三百九十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ポリビニルポリピロリドン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ポリビニルピロリドン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="393">
         <ItemTitle>三百九十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ポリブテン（別名ポリブチレン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ポリビニルポリピロリドン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="394">
         <ItemTitle>三百九十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ポリリン酸カリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ポリブテン（別名ポリブチレン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="395">
         <ItemTitle>三百九十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ポリリン酸ナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ポリリン酸カリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="396">
         <ItemTitle>三百九十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ｄ―ボルネオール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ポリリン酸ナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="397">
         <ItemTitle>三百九十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">マルトール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ｄ―ボルネオール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="398">
         <ItemTitle>三百九十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｄ―マンニトール（別名Ｄ―マンニット）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">マルトール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="399">
         <ItemTitle>三百九十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">メタリン酸カリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｄ―マンニトール（別名Ｄ―マンニット）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="400">
         <ItemTitle>四百</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">メタリン酸ナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">メタリン酸カリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="401">
         <ItemTitle>四百一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ＤＬ―メチオニン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">メタリン酸ナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="402">
         <ItemTitle>四百二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―メチオニン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ＤＬ―メチオニン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="403">
         <ItemTitle>四百三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｎ―メチルアントラニル酸メチル（別名Ｎ―メチルアンスラニル酸メチル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―メチオニン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="404">
         <ItemTitle>四百四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">５―メチルキノキサリン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｎ―メチルアントラニル酸メチル（別名Ｎ―メチルアンスラニル酸メチル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="405">
         <ItemTitle>四百五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">６―メチルキノリン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">５―メチルキノキサリン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="406">
         <ItemTitle>四百六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">５―メチル―６・７―ジヒドロ―５Ｈ―シクロペンタピラジン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">６―メチルキノリン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="407">
         <ItemTitle>四百七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">メチルセルロース</Sentence>
+          <Sentence Num="1" WritingMode="vertical">５―メチル―６・７―ジヒドロ―５Ｈ―シクロペンタピラジン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="408">
         <ItemTitle>四百八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">１―メチルナフタレン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">メチルセルロース</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="409">
         <ItemTitle>四百九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">メチルβ―ナフチルケトン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">１―メチルナフタレン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="410">
         <ItemTitle>四百十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２―メチルピラジン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">メチルβ―ナフチルケトン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="411">
         <ItemTitle>四百十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２―メチルブタノール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">２―メチルピラジン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="412">
         <ItemTitle>四百十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">３―メチル―２―ブタノール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">２―メチルブタノール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="413">
         <ItemTitle>四百十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２―メチルブチルアミン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">３―メチル―２―ブタノール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="414">
         <ItemTitle>四百十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">２―メチルブチルアルデヒド</Sentence>
+          <Sentence Num="1" WritingMode="vertical">２―メチルブチルアミン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="415">
         <ItemTitle>四百十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ｔｒａｎｓ―２―メチル―２―ブテナール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">２―メチルブチルアルデヒド</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="416">
         <ItemTitle>四百十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">３―メチル―２―ブテナール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ｔｒａｎｓ―２―メチル―２―ブテナール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="417">
         <ItemTitle>四百十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">３―メチル―２―ブテノール</Sentence>
+          <Sentence Num="1" WritingMode="vertical">３―メチル―２―ブテナール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="418">
         <ItemTitle>四百十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">メチルヘスペリジン（別名溶性ビタミンＰ）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">３―メチル―２―ブテノール</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="419">
         <ItemTitle>四百十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ｄｌ―メントール（別名ｄｌ―ハッカ脳）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">メチルヘスペリジン（別名溶性ビタミンＰ）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="420">
         <ItemTitle>四百二十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ｌ―メントール（別名ハッカ脳）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ｄｌ―メントール（別名ｄｌ―ハッカ脳）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="421">
         <ItemTitle>四百二十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">モルホリン脂肪酸塩</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ｌ―メントール（別名ハッカ脳）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="422">
         <ItemTitle>四百二十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">葉酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical">モルホリン脂肪酸塩</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="423">
         <ItemTitle>四百二十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">酪酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical">葉酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="424">
         <ItemTitle>四百二十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">酪酸イソアミル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">酪酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="425">
         <ItemTitle>四百二十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">酪酸エチル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">酪酸イソアミル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="426">
         <ItemTitle>四百二十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">酪酸シクロヘキシル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">酪酸エチル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="427">
         <ItemTitle>四百二十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">酪酸ブチル</Sentence>
+          <Sentence Num="1" WritingMode="vertical">酪酸シクロヘキシル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="428">
         <ItemTitle>四百二十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ラクトン類（毒性が激しいと一般に認められるものを除く。）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">酪酸ブチル</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="429">
         <ItemTitle>四百二十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―リシンＬ―アスパラギン酸塩（別名Ｌ―リジンＬ―アスパラギン酸塩）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ラクトン類（毒性が激しいと一般に認められるものを除く。）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="430">
         <ItemTitle>四百三十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―リシン塩酸塩（別名Ｌ―リジン塩酸塩）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―リシンＬ―アスパラギン酸塩（別名Ｌ―リジンＬ―アスパラギン酸塩）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="431">
         <ItemTitle>四百三十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">Ｌ―リシンＬ―グルタミン酸塩（別名Ｌ―リジンＬ―グルタミン酸塩）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―リシン塩酸塩（別名Ｌ―リジン塩酸塩）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="432">
         <ItemTitle>四百三十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リナロオール（別名リナロール）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">Ｌ―リシンＬ―グルタミン酸塩（別名Ｌ―リジンＬ―グルタミン酸塩）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="433">
         <ItemTitle>四百三十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">５'―リボヌクレオチドカルシウム（別名５'―リボヌクレオタイドカルシウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リナロオール（別名リナロール）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="434">
         <ItemTitle>四百三十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">５'―リボヌクレオチド二ナトリウム（別名５'―リボヌクレオタイドナトリウム又は５'―リボヌクレオチドナトリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">５'―リボヌクレオチドカルシウム（別名５'―リボヌクレオタイドカルシウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="435">
         <ItemTitle>四百三十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リボフラビン（別名ビタミンＢ<Sub>２</Sub>）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">５'―リボヌクレオチド二ナトリウム（別名５'―リボヌクレオタイドナトリウム又は５'―リボヌクレオチドナトリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="436">
         <ItemTitle>四百三十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リボフラビン酪酸エステル（別名ビタミンＢ<Sub>２</Sub>酪酸エステル）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リボフラビン（別名ビタミンＢ<Sub>２</Sub>）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="437">
         <ItemTitle>四百三十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リボフラビン５'―リン酸エステルナトリウム（別名リボフラビンリン酸エステルナトリウム又はビタミンＢ<Sub>２</Sub>リン酸エステルナトリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リボフラビン酪酸エステル（別名ビタミンＢ<Sub>２</Sub>酪酸エステル）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="438">
         <ItemTitle>四百三十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">硫酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リボフラビン５'―リン酸エステルナトリウム（別名リボフラビンリン酸エステルナトリウム又はビタミンＢ<Sub>２</Sub>リン酸エステルナトリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="439">
         <ItemTitle>四百三十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">硫酸アルミニウムアンモニウム（結晶物の場合にあつては別名アンモニウムミョウバン、乾燥物の場合にあつては別名焼アンモニウムミョウバン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">硫酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="440">
         <ItemTitle>四百四十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">硫酸アルミニウムカリウム（結晶物の場合にあつては別名ミョウバン又はカリミョウバン、乾燥物の場合にあつては別名焼ミョウバン）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">硫酸アルミニウムアンモニウム（結晶物の場合にあつては別名アンモニウムミョウバン、乾燥物の場合にあつては別名焼アンモニウムミョウバン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="441">
         <ItemTitle>四百四十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">硫酸アンモニウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">硫酸アルミニウムカリウム（結晶物の場合にあつては別名ミョウバン又はカリミョウバン、乾燥物の場合にあつては別名焼ミョウバン）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="442">
         <ItemTitle>四百四十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">硫酸カリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">硫酸アンモニウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="443">
         <ItemTitle>四百四十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">硫酸カルシウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">硫酸カリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="444">
         <ItemTitle>四百四十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">硫酸第一鉄</Sentence>
+          <Sentence Num="1" WritingMode="vertical">硫酸カルシウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="445">
         <ItemTitle>四百四十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">硫酸ナトリウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">硫酸第一鉄</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="446">
         <ItemTitle>四百四十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">硫酸マグネシウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">硫酸ナトリウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="447">
         <ItemTitle>四百四十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ＤＬ―リンゴ酸（別名ｄｌ―リンゴ酸）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">硫酸マグネシウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="448">
         <ItemTitle>四百四十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">ＤＬ―リンゴ酸ナトリウム（別名ｄｌ―リンゴ酸ナトリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ＤＬ―リンゴ酸（別名ｄｌ―リンゴ酸）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="449">
         <ItemTitle>四百四十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸</Sentence>
+          <Sentence Num="1" WritingMode="vertical">ＤＬ―リンゴ酸ナトリウム（別名ｄｌ―リンゴ酸ナトリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="450">
         <ItemTitle>四百五十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸架橋デンプン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="451">
         <ItemTitle>四百五十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸化デンプン</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸架橋デンプン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="452">
         <ItemTitle>四百五十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸三カリウム（別名第三リン酸カリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸化デンプン</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="453">
         <ItemTitle>四百五十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸三カルシウム（別名第三リン酸カルシウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸三カリウム（別名第三リン酸カリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="454">
         <ItemTitle>四百五十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸三マグネシウム（別名第三リン酸マグネシウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸三カルシウム（別名第三リン酸カルシウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="455">
         <ItemTitle>四百五十五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸水素二アンモニウム（別名リン酸二アンモニウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸三マグネシウム（別名第三リン酸マグネシウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="456">
         <ItemTitle>四百五十六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸二水素アンモニウム（別名リン酸一アンモニウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸水素二アンモニウム（別名リン酸二アンモニウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="457">
         <ItemTitle>四百五十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸水素二カリウム（別名リン酸二カリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸二水素アンモニウム（別名リン酸一アンモニウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="458">
         <ItemTitle>四百五十八</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸二水素カリウム（別名リン酸一カリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸水素二カリウム（別名リン酸二カリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="459">
         <ItemTitle>四百五十九</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸一水素カルシウム（別名第二リン酸カルシウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸二水素カリウム（別名リン酸一カリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="460">
         <ItemTitle>四百六十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸二水素カルシウム（別名第一リン酸カルシウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸一水素カルシウム（別名第二リン酸カルシウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="461">
         <ItemTitle>四百六十一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸水素二ナトリウム（別名リン酸二ナトリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸二水素カルシウム（別名第一リン酸カルシウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="462">
         <ItemTitle>四百六十二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸二水素ナトリウム（別名リン酸一ナトリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸水素二ナトリウム（別名リン酸二ナトリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="463">
         <ItemTitle>四百六十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸一水素マグネシウム</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸二水素ナトリウム（別名リン酸一ナトリウム）</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="464">
         <ItemTitle>四百六十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">リン酸三ナトリウム（別名第三リン酸ナトリウム）</Sentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸一水素マグネシウム</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="465">
         <ItemTitle>四百六十五</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">リン酸三ナトリウム（別名第三リン酸ナトリウム）</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="466">
+        <ItemTitle>四百六十六</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">リン酸モノエステル化リン酸架橋デンプン</Sentence>
         </ItemSentence>
@@ -9422,7 +9484,7 @@
               <Sentence Num="29" WritingMode="vertical">糖類</Sentence>
               <Sentence Num="30" WritingMode="vertical">
                 <Ruby>杜<Rt>と</Rt>
-                </Ruby>仲茶</Sentence>
+</Ruby>仲茶</Sentence>
               <Sentence Num="31" WritingMode="vertical">煮豆</Sentence>
               <Sentence Num="32" WritingMode="vertical">はちの子の水煮</Sentence>
               <Sentence Num="33" WritingMode="vertical">はちの巣入りはちみつ</Sentence>
@@ -10527,8 +10589,8 @@
             <Subitem2Title>（１）</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Num="1" WritingMode="vertical">黄<Ruby>疸<Rt>だん</Rt>
-                </Ruby>
-              </Sentence>
+</Ruby>
+</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="2">
@@ -10553,7 +10615,7 @@
             <Subitem2Title>（５）</Subitem2Title>
             <Subitem2Sentence>
               <Sentence Num="1" WritingMode="vertical">皮膚の化<Ruby>膿<Rt>のう</Rt>
-                </Ruby>性疾患等</Sentence>
+</Ruby>性疾患等</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="6">
@@ -10621,7 +10683,7 @@
             <Subitem2Sentence>
               <Sentence Num="1" WritingMode="vertical">
                 <Ruby>痰<Rt>たん</Rt>
-                </Ruby>又は唾を吐くこと。</Sentence>
+</Ruby>又は唾を吐くこと。</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="3">

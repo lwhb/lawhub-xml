@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200803e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="21" Year="17">
+<Law DataInfo="200818e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="21" Year="17">
   <LawNum>平成十七年厚生労働省令第二十一号</LawNum>
   <LawBody>
     <LawTitle>石綿障害予防規則</LawTitle>
@@ -318,6 +318,36 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="6_2">
+            <ArticleCaption>（石綿含有成形品の除去に係る措置）</ArticleCaption>
+            <ArticleTitle>第六条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、成形された材料であって石綿等が使用されているもの（石綿含有保温材等を除く。次項において「石綿含有成形品」という。）を建築物、工作物又は船舶から除去する作業においては、切断等以外の方法により当該作業を実施しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、切断等以外の方法により当該作業を実施することが技術上困難なときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">事業者は、前項ただし書の場合において、石綿含有成形品のうち特に石綿等の粉じんが発散しやすいものとして厚生労働大臣が定めるものを切断等の方法により除去する作業を行うときは、次に掲げる措置を講じなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該措置と同等以上の効果を有する措置を講じたときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該作業を行う作業場所を、当該作業以外の作業を行う作業場所からビニルシート等で隔離すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該作業中は、当該石綿含有成形品を常時湿潤な状態に保つこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
           <Article Num="7">
             <ArticleCaption>（保温材、耐火被覆材等の除去等に係る措置）</ArticleCaption>
             <ArticleTitle>第七条</ArticleTitle>
@@ -438,7 +468,7 @@
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">石綿等の切断、<Ruby>穿<Rt>せん</Rt>
-                    </Ruby>孔、研磨等の作業</Sentence>
+</Ruby>孔、研磨等の作業</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -1401,7 +1431,7 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">胸部のエックス線直接撮影による検査の結果、異常な陰影（石綿肺による線維増殖性の変化によるものを除く。）がある場合で、医師が必要と認めるときは、特殊なエックス線撮影による検査、<Ruby>喀痰<Rt>かくたん</Rt>
-                  </Ruby>の細胞診又は気管支鏡検査</Sentence>
+</Ruby>の細胞診又は気管支鏡検査</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1743,42 +1773,42 @@
         </Article>
       </Chapter>
     </MainProvision>
-    <SupplProvision Extract="true">
+    <SupplProvision>
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Delete="false" Hide="false" Num="1">
+      <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令は、平成十七年七月一日から施行する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、平成十七年七月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="2">
+      <Article Num="2">
         <ArticleCaption>（解体等の作業に関する経過措置）</ArticleCaption>
         <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令の施行の際現に行われている建築物又は工作物の解体等の作業については、第四条、第五条第一項及び第二十七条第一項の規定は、適用しない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に行われている建築物又は工作物の解体等の作業については、第四条、第五条第一項及び第二十七条第一項の規定は、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="3">
+      <Article Num="3">
         <ArticleCaption>（石綿等を吹き付ける作業に関する経過措置）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令の施行の際現に附則第十二条の規定による改正前の特定化学物質等障害予防規則（昭和四十七年労働省令第三十九号。以下「旧特化則」という。）第三十八条の七第二項各号に掲げる措置を講じて同項に規定する作業に労働者を従事させている事業者は、第十一条の規定にかかわらず、当該作業に労働者を従事させることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に附則第十二条の規定による改正前の特定化学物質等障害予防規則（昭和四十七年労働省令第三十九号。以下「旧特化則」という。）第三十八条の七第二項各号に掲げる措置を講じて同項に規定する作業に労働者を従事させている事業者は、第十一条の規定にかかわらず、当該作業に労働者を従事させることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="4">
+      <Article Num="4">
         <ArticleCaption>（作業に係る設備等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に事業者がその作業場（特定石綿等に係るものに限る。以下この条において同じ。）について旧特化則第六条第一項の認定を受けている場合における当該作業場については、第十二条の規定は、適用しない。</Sentence>
@@ -1786,43 +1816,43 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="5">
+      <Article Num="5">
         <ArticleCaption>（床に関する経過措置）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令の施行の際現に存する特定石綿等を常時、製造し、又は取り扱う作業を行う作業場の床であって、不浸透性の材料で造られたものについては、第二十九条の規定は、適用しない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現に存する特定石綿等を常時、製造し、又は取り扱う作業を行う作業場の床であって、不浸透性の材料で造られたものについては、第二十九条の規定は、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="7">
+      <Article Num="7">
         <ArticleCaption>（処分等の効力の引継ぎ）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令の施行前に旧特化則の規定によりされた処分、手続その他の行為は、この省令の相当規定によりされた処分、手続その他の行為とみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行前に旧特化則の規定によりされた処分、手続その他の行為は、この省令の相当規定によりされた処分、手続その他の行為とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="8">
+      <Article Num="8">
         <ArticleCaption>（様式に関する経過措置）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令の施行の際現にある改正前の様式による用紙は、当分の間、これを取り繕って使用することができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行の際現にある改正前の様式による用紙は、当分の間、これを取り繕って使用することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="9">
+      <Article Num="9">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この省令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2303,12 +2333,85 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月一日厚生労働省令第一三四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中石綿障害予防規則第六条の二の改正規定並びに附則第三条第二項及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和二年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中石綿障害予防規則第四条の二の改正規定、同令第五条の改正規定（「様式第一号」を「様式第一号の二」に改める部分に限る。）及び同令様式第一号を様式第一号の二とし、附則の次に一様式を加える改正規定並びに附則第五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和四年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和五年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（除去等の作業に係る措置等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新石綿則第六条の二第一項に規定する石綿含有成形品の除去の作業であって、附則第一条第一号に掲げる規定の施行の日前に開始されるものについては、新石綿則第六条の二の規定は適用せず、旧石綿則第十三条の規定は、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令（附則第一条各号に掲げる規定については、当該各規定。以下この条において同じ。）の施行前にした行為並びに附則第二条第一項、第三条及び第四条第一項の規定によりなおその効力を有することとされる場合におけるこの省令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第１号</AppdxStyleTitle>
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_001.pdf"/>
+          <Fig src="./pict/2FH00000022429.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2317,7 +2420,7 @@
       <RelatedArticleNum>（第４１条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_002.pdf"/>
+          <Fig src="./pict/3FH00000035265.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2326,7 +2429,7 @@
       <RelatedArticleNum>（第４１条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_003.pdf"/>
+          <Fig src="./pict/3FH00000035266.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2335,7 +2438,7 @@
       <RelatedArticleNum>（第４３条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_004.pdf"/>
+          <Fig src="./pict/2FH00000027352.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2344,7 +2447,7 @@
       <RelatedArticleNum>（第４３条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_005.pdf"/>
+          <Fig src="./pict/3FH00000035271.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2353,7 +2456,7 @@
       <RelatedArticleNum>（第４６条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_006.pdf"/>
+          <Fig src="./pict/2FH00000022924.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2362,7 +2465,7 @@
       <RelatedArticleNum>（第４７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_007.pdf"/>
+          <Fig src="./pict/2FH00000019870.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2371,7 +2474,7 @@
       <RelatedArticleNum>（第４７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_008.pdf"/>
+          <Fig src="./pict/3FH00000035268.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2380,7 +2483,7 @@
       <RelatedArticleNum>（第４８条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_009.pdf"/>
+          <Fig src="./pict/2FH00000019871.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2389,16 +2492,16 @@
       <RelatedArticleNum>（第４８条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_010.pdf"/>
+          <Fig src="./pict/2FH00000019872.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
-    <AppdxStyle>
-      <AppdxStyleTitle WritingMode="vertical">様式第５号の４</AppdxStyleTitle>
+    <AppdxStyle Num="5_4">
+      <AppdxStyleTitle WritingMode="vertical">様式５号の４</AppdxStyleTitle>
       <RelatedArticleNum>（第４８条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_011.pdf"/>
+          <Fig src="./pict/2FH00000019875.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -2407,7 +2510,7 @@
       <RelatedArticleNum>（第４９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/_012.pdf"/>
+          <Fig src="./pict/3FH00000035269.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

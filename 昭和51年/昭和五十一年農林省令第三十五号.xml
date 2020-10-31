@@ -1016,11 +1016,30 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一〇月一五日農林水産省令第七一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条の規定は、公布の日から起算して六月を経過した日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一〇月二二日農林水産省令第七四号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別表第１（第１条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F00601000035_2009161709_001.pdf"/>
+          <Fig src="./pict/S51F00601000035_2010281910_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -1028,7 +1047,7 @@
       <AppdxStyleTitle WritingMode="vertical">別表第２（第２条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S51F00601000035_2009161709_002.pdf"/>
+          <Fig src="./pict/S51F00601000035_2010281910_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
