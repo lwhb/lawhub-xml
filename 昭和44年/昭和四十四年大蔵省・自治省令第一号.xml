@@ -5402,53 +5402,82 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定取引（法第十条の五第七項第三号に規定する特定取引をいう。以下第十六条の七まで、第十六条の十二及び第十六条の十三において同じ。）を行う者（特定取引を行う者が特定組合員（同項第六号に規定する特定組合員をいう。以下この号、第四号及び第十六条の十二第一項第一号イにおいて同じ。）である場合にあつては、当該特定取引をその業務として行う当該特定組合員が締結している組合契約（法第十条の五第七項第七号に規定する組合契約をいう。第十六条の四第二項第四号及び第十六条の十二第一項第一号において同じ。）によつて成立する組合とする。第四号を除き、以下この項において同じ。）の氏名、住所及び生年月日又は名称及び本店若しくは主たる事務所の所在地</Sentence>
+              <Sentence WritingMode="vertical">特定取引（法第十条の五第八項第三号に規定する特定取引をいう。以下第十六条の七まで、第十六条の十二及び第十六条の十三において同じ。）を行う者（特定取引を行う者が特定組合員等（同項第六号に規定する特定組合員等をいう。以下この項、第十六条の八第一項第七号及び第十六条の十二第一項第一号イにおいて同じ。）である場合には、当該特定取引をその業務として行う当該特定組合員等に係る組合等（法第十条の五第八項第六号イからハまでに掲げるものをいう。次号ロ、第十六条の八第一項第七号ロ及び第十六条の十二第一項第一号イにおいて同じ。）。次号及び第三号において同じ。）の氏名、住所及び生年月日又は名称及び本店若しくは主たる事務所の所在地</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定取引を行う者の居住地国（法第十条の五第七項第八号に規定する居住地国をいう。以下次条まで、第十六条の五第一項及び第十六条の十二第一項第一号において同じ。）の名称（その者が居住地国を有しない場合には、その旨）及びその者が当該居住地国（外国に限る。）において納税者番号を有する場合には、当該納税者番号</Sentence>
+              <Sentence WritingMode="vertical">特定取引を行う者（次に掲げる場合には、それぞれ次に定めるもの）の居住地国（法第十条の五第八項第七号に規定する居住地国をいう。以下第十六条の五まで及び第十六条の八第一項第七号イにおいて同じ。）の名称及び当該居住地国（外国に限る。）においてその者の納税者番号がある場合には、当該納税者番号</Sentence>
             </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">当該特定取引を行う者が特定組合員等（法第十条の五第八項第七号イに掲げる法人等に該当する信託以外の信託の受託者に限る。以下この号及び第四号並びに第十六条の十二第一項第一号ロにおいて「特定信託受託者」という。）である場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該特定信託受託者</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">当該特定取引を行う者（当該特定取引を行う者が特定組合員等以外の者である場合には法人に限るものとし、当該特定取引を行う者が特定組合員等である場合には当該特定組合員等に係る組合等とする。第五号において同じ。）が遺産法人等（遺産の準拠法によつて被相続人の遺産が法第十条の五第八項第七号イに規定する法人等とされるものをいう。以下この号及び第五号、第十六条の八第一項第七号並びに第十六条の十二第一項第一号イ⑵において同じ。）である場合</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該遺産法人等に係る被相続人</Sentence>
+                </Column>
+              </Subitem1Sentence>
+            </Subitem1>
           </Item>
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定取引を行う者の住所又は本店若しくは主たる事務所の所在する国又は地域と前号の居住地国とが異なる場合（居住地国を有しない場合を含む。）には、その事情の詳細</Sentence>
+              <Sentence WritingMode="vertical">特定取引を行う者の住所又は本店若しくは主たる事務所の所在する国又は地域と前号の居住地国とが異なる場合には、その事情の詳細
+</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定取引を行う者が特定組合員である場合にあつては、当該特定組合員の氏名又は名称及び住所又は本店若しくは主たる事務所の所在地</Sentence>
+              <Sentence WritingMode="vertical">特定取引を行う者が特定組合員等である場合には、当該特定組合員等の氏名又は名称及び住所又は本店若しくは主たる事務所の所在地（当該特定組合員等が特定信託受託者である場合には、その旨を含む。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定取引を行う者が特定法人（法第十条の五第七項第四号に規定する特定法人をいう。以下第十六条の四まで及び第十六条の十二第一項第一号において同じ。）である場合において、当該特定法人に係る実質的支配者（法第十条の五第七項第五号に規定する実質的支配者をいう。以下第十六条の四まで及び第十六条の十二第一項第一号ハにおいて同じ。）があるときは、当該実質的支配者に係る第一号から第三号までに掲げる事項</Sentence>
+              <Sentence WritingMode="vertical">特定取引を行う者が遺産法人等である場合には、当該遺産法人等に係る被相続人の氏名、その死亡の時における住所及び生年月日</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">前号の場合において、同号の特定法人が内国法人であり、かつ、同号の実質的支配者の居住地国が外国であるときは、当該特定法人の法人番号（当該特定法人が法人番号を有する場合に限る。）</Sentence>
+              <Sentence WritingMode="vertical">特定取引を行う者が特定法人（法第十条の五第八項第四号に規定する特定法人をいう。以下第十六条の五まで及び第十六条の十二第一項第一号において同じ。）である場合において、当該特定法人に係る実質的支配者（法第十条の五第八項第五号に規定する実質的支配者をいう。以下第十六条の五まで及び第十六条の十二第一項第一号ハにおいて同じ。）があるときは、当該実質的支配者に係る第一号から第三号までに掲げる事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定取引が令第六条の七第一号トに掲げる信託に係る契約の締結である場合には、当該信託の受益者に係る第一号から第三号までに掲げる事項</Sentence>
+              <Sentence WritingMode="vertical">前号の場合において、同号の特定法人が内国法人であり、かつ、同号の実質的支配者の居住地国が外国であるときは、当該特定法人の法人番号（当該特定法人が法人番号を有する場合に限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定取引を行う者が令第六条の十二第一項に規定する者に該当する場合には、その旨及びその該当する事実</Sentence>
+              <Sentence WritingMode="vertical">特定取引が令第六条の七第一号トに掲げる信託に係る契約の締結である場合には、当該信託の受益者に係る第一号から第三号までに掲げる事項</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="9">
             <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">特定取引を行う者が令第六条の十三第一項に規定する政令で定める者に該当する場合には、その旨及びその該当する事実</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="10">
+            <ItemTitle>十</ItemTitle>
             <ItemSentence>
               <Sentence WritingMode="vertical">その他参考となるべき事項</Sentence>
             </ItemSentence>
@@ -5457,19 +5486,19 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項第二号、第五号及び第七号に掲げる事項（納税者番号に係る部分に限る。）については、当該納税者番号が、当該納税者番号を発行した国又は地域の法令により報告金融機関等（法第十条の五第七項第一号に規定する報告金融機関等をいう。以下第十六条の七まで、第十六条の十二及び第十六条の十三において同じ。）に提供することができないこととされている場合には、その旨を記載することにより、当該事項の記載を省略することができる。</Sentence>
+            <Sentence WritingMode="vertical">前項第二号、第六号及び第八号に掲げる事項（納税者番号に係る部分に限る。）については、当該納税者番号が、当該納税者番号を発行した国又は地域の法令により報告金融機関等（法第十条の五第八項第一号に規定する報告金融機関等をいう。以下第十六条の八まで、第十六条の十二及び第十六条の十三において同じ。）に提供することができないこととされている場合には、その旨を記載することにより、当該事項の記載を省略することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">報告金融機関等の営業所等（法第十条の五第七項第二号に規定する営業所等をいう。以下この条及び第十六条の四において同じ。）の長は、特定取引を行う者から法第十条の五第一項の規定による届出書の提出を受けたときは、当該届出書に記載されている事項がその特定取引を行う際にその者から提出又は提示を受けた他の書類の内容と合致していることを確認しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">報告金融機関等の営業所等（法第十条の五第八項第二号に規定する営業所等をいう。以下第十六条の四まで及び第十六条の八第一項第七号において同じ。）の長は、特定取引を行う者から法第十条の五第一項の規定による届出書の提出を受けたときは、当該届出書に記載されている事項がその特定取引を行う際にその者から提出又は提示を受けた他の書類の内容と合致していることを確認しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第六条の二第一項に規定する総務省令、財務省令で定める書類は、次に掲げるいずれかの書類とする。</Sentence>
+            <Sentence WritingMode="vertical">令第六条の二第一項に規定する総務省令、財務省令で定める書類は、次に掲げる書類のいずれかとする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -5499,7 +5528,7 @@
         <Paragraph Hide="false" Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">前項第二号に規定する法人確認書類とは、内国法人の次に掲げるいずれかの書類（当該内国法人の名称及び本店又は主たる事務所の所在地の記載のあるものに限る。）をいう。</Sentence>
+            <Sentence WritingMode="vertical">前項第二号に規定する法人確認書類とは、内国法人の次に掲げる書類（当該内国法人の名称及び本店又は主たる事務所の所在地の記載のあるものに限る。）のいずれかをいう。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -5517,12 +5546,18 @@
         <Paragraph Hide="false" Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第六条の二第二項第二号に規定する総務省令、財務省令で定める情報は、第一項各号（第九号を除く。）に掲げる事項とする。</Sentence>
+            <Sentence WritingMode="vertical">法第十条の五第一項の規定による届出書の提出をする者（内国法人である特定法人のうち、当該特定法人に係る実質的支配者（その居住地国が外国であるものに限る。）があるものに限る。以下この項において同じ。）がその提出する報告金融機関等の営業所等の長に同条第一項の特定取引を行う際、当該報告金融機関等の営業所等の長が、当該届出書に記載された名称及び本店又は主たる事務所の所在地につき、電気通信回線による登記情報の提供に関する法律（平成十一年法律第二百二十六号）第三条第二項に規定する指定法人から送信を受けた同法第二条第一項に規定する登記情報に記録された当該提出をする者の名称及び本店又は主たる事務所の所在地と同じであることの確認をした場合には、当該提出をする者は、当該報告金融機関等の営業所等の長に、令第六条の二第一項の規定による前項に規定する法人確認書類の提示をしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第六条の二第三項第二号に規定する総務省令、財務省令で定める情報は、第一項各号（第十号を除く。）に掲げる事項とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="16_3">
-        <ArticleCaption>（報告金融機関等による住所等所在地国と認められる国又は地域の特定手続等）</ArticleCaption>
+        <ArticleCaption>（既存特定取引契約者等の住所等所在地国と認められる国又は地域の特定手続）</ArticleCaption>
         <ArticleTitle>第十六条の三</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
@@ -5544,20 +5579,20 @@
           <Item Delete="false" Hide="false" Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定取引に係る契約に係る代理権（次項及び第十一項第五号において「代理権」という。）を証する書類</Sentence>
+              <Sentence WritingMode="vertical">特定取引に係る契約に係る代理権（次項及び第十四項第五号において「代理権」という。）を証する書類</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">特定取引（令第六条の七第一号イ及びロに掲げるものを除く。）に係る契約に係る資産のうちから継続的に送金をするための指図（次項及び第十一項において「自動送金指図」という。）に関する書類</Sentence>
+              <Sentence WritingMode="vertical">特定取引（令第六条の七第一号イ及びロに掲げるものを除く。）に係る契約に係る資産のうちから継続的に送金をするための指図（次項及び第十四項第四号において「自動送金指図」という。）に関する書類</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第六条の三第三項に規定する総務省令、財務省令で定める情報は、同条第二十二項第二号に規定する個人既存特定取引契約者の居住地国を示す情報、住所若しくは居所、電話番号若しくは自動送金指図、第十二項各号に掲げる情報又は代理権とする。</Sentence>
+            <Sentence WritingMode="vertical">令第六条の三第三項に規定する総務省令、財務省令で定める情報は、同条第二十四項第二号に規定する個人既存特定取引契約者の居住地国を示す情報、住所若しくは居所、電話番号若しくは自動送金指図、第十五項各号に掲げる情報又は代理権とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
@@ -5568,7 +5603,7 @@
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">犯罪による収益の移転防止に関する法律施行規則（平成二十年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号）第七条第一号、第三号及び第四号（同条第一号に準ずるものに限る。）に定める書類（その写しを含む。）であつて、当該書類の提出若しくは提示をした個人既存低額特定取引契約者（令第六条の三第二十二項第一号に規定する個人既存低額特定取引契約者をいう。以下この号及び次号において同じ。）の住居の記載があるもの又は当該書類に基づき行つた確認を記録した書類であつて、当該個人既存低額特定取引契約者の氏名及び住所若しくは居所、当該書類の名称、記号番号その他の当該書類を特定するに足りる事項並びに当該書類の提出若しくは提示を受けた年月日の記載があるもの（同令第七条第一号ハに掲げる書類（国民健康保険、健康保険、船員保険、後期高齢者医療又は介護保険の被保険者証、健康保険日雇特例被保険者手帳、国家公務員共済組合又は地方公務員共済組合の組合員証及び私立学校教職員共済制度の加入者証に限る。以下この号及び第十六条の六第二項第一号において「被保険者証等」という。）及び同令第七条第四号に定める書類で被保険者証等に準ずるもの又はこれらに基づき行つた確認を記録した書類にあつては、報告金融機関等がこれらの書類の提出又は提示を受けた日から五年を経過していないものに限る。）</Sentence>
+              <Sentence WritingMode="vertical">犯罪による収益の移転防止に関する法律施行規則（平成二十年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号）第七条第一号、第三号及び第四号（同条第一号に準ずるものに限る。）に定める書類（その写しを含む。）であつて、当該書類の提出若しくは提示をした個人既存低額特定取引契約者（令第六条の三第二十四項第一号に規定する個人既存低額特定取引契約者をいう。以下この号及び次号において同じ。）の住居の記載があるもの又は当該書類に基づき行つた確認を記録した書類であつて、当該個人既存低額特定取引契約者の氏名及び住所若しくは居所、当該書類の名称、記号番号その他の当該書類を特定するに足りる事項並びに当該書類の提出若しくは提示を受けた年月日の記載があるもの（同令第七条第一号ハに掲げる書類（国民健康保険、健康保険、船員保険、後期高齢者医療又は介護保険の被保険者証、健康保険日雇特例被保険者手帳、国家公務員共済組合又は地方公務員共済組合の組合員証及び私立学校教職員共済制度の加入者証に限る。以下この号及び第十六条の六第二項第一号において「被保険者証等」という。）及び同令第七条第四号に定める書類で被保険者証等に準ずるもの又はこれらに基づき行つた確認を記録した書類にあつては、報告金融機関等がこれらの書類の提出又は提示を受けた日から五年を経過していないものに限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -5587,8 +5622,42 @@
         <Paragraph Hide="false" Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第六条の三第十項に規定する総務省令、財務省令で定める情報は、本店又は主たる事務所の所在地、その事業が管理され、かつ、支配されている場所その他これらに類する場所とする。</Sentence>
+            <Sentence WritingMode="vertical">令第六条の三第十項に規定する総務省令、財務省令で定める情報は、次の各号に掲げるものの区分に応じ当該各号に定める場所とする。</Sentence>
           </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">令第六条の三第十項に規定する法人既存特定取引契約者等（次号において「法人既存特定取引契約者等」といい、同号に掲げるものを除く。）</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">本店又は主たる事務所の所在地、その事業が管理され、かつ、支配されている場所その他これらに類する場所</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">法人既存特定取引契約者等（法第十条の五第八項第六号ハに掲げる信託に限る。以下この号において「特定信託」という。）</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">次に掲げる場所</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該特定信託が法第十条の五第八項第七号イに掲げる法人等に該当する場合には、当該法人等に係る同号イに定める国又は地域に所在する同号イの本店又は主たる事務所の所在地、その事業が管理され、かつ、支配されている場所その他これらに類する場所</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該特定信託がイに規定する場合に該当しない場合には、当該特定信託に係る法第十条の五第八項第六号ハに定める者の本店又は主たる事務所の所在地（その者が個人である場合には、住所又は居所）、その事業が管理され、かつ、支配されている場所その他これらに類する場所</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
         </Paragraph>
         <Paragraph Hide="false" Num="6">
           <ParagraphNum>６</ParagraphNum>
@@ -5605,25 +5674,43 @@
         <Paragraph Hide="false" Num="8">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第六条の三第二十項に規定する総務省令、財務省令で定める情報は、特定対象者（法第十条の五第一項に規定する特定対象者をいう。以下第十六条の六まで及び第十六条の十三において同じ。）の生年月日及び外国納税者番号等（当該特定対象者の住所等所在地国（法第十条の五第二項に規定する住所等所在地国をいう。以下この条、第十六条の六第一項及び第十六条の十三において同じ。）と認められる国若しくは地域（外国に限る。）として特定された国若しくは地域において当該特定対象者が有する納税者番号又は内国法人である特定法人のうち当該特定法人に係る実質的支配者（住所等所在地国と認められる国又は地域が外国であるものに限る。）があるものが有する法人番号をいう。次項において同じ。）とする。</Sentence>
+            <Sentence WritingMode="vertical">二以上の者が一以上の他の者との間で締結している特定取引に係る契約は、令第六条の三第十九項の特定取引に係る契約及び既存特定取引契約者に係る合算対象特定取引契約に含まれるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="9">
           <ParagraphNum>９</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">報告金融機関等は、法第十条の五第二項の規定により特定対象者の住所等所在地国と認められる国又は地域（外国に限る。）の特定をした場合において、その保存している記録に、当該特定対象者の生年月日又は外国納税者番号等がないときは、当該特定をした日から二年を経過する日までの間、少なくとも年一回、当該特定対象者に係る特定取引を行つた者に対し、電話、返送を求める書面の送付その他の方法により、これらの情報を取得するための措置をとらなければならない。</Sentence>
+            <Sentence WritingMode="vertical">令第六条の三第十九項第二号ロに規定する総務省令、財務省令で定める法人は、同号ロの個人既存特定取引契約者が犯罪による収益の移転防止に関する法律施行規則第十一条第二項各号に定める者に該当する場合における当該各号に定める者に係る当該各号に掲げる法人とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="10">
           <ParagraphNum>１０</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第六条の三第二十二項第三号に定める特定取引に係る契約に係る資産の価額は、外国通貨で表示された資産にあつては、外国通貨で表示された金額を、その年の十二月三十一日（同条第二十一項第二号の規定の適用がある場合にあつては同号に規定する該当しないこととなつた日とし、同項第四号の規定の適用がある場合にあつては同号に規定する行うこととなつた日とする。）における外国為替の売買相場により、本邦通貨表示の金額に換算した金額とする。</Sentence>
+            <Sentence WritingMode="vertical">令第六条の三第二十二項に規定する総務省令、財務省令で定める情報は、特定対象者（法第十条の五第一項に規定する特定対象者をいう。以下第十六条の六まで及び第十六条の十三において同じ。）の生年月日及び外国納税者番号等（当該特定対象者の住所等所在地国（法第十条の五第二項に規定する住所等所在地国をいう。以下この条、第十六条の六第一項及び第十六条の十三において同じ。）と認められる国若しくは地域（外国に限る。）として特定された国若しくは地域における当該特定対象者の納税者番号又は内国法人である特定法人のうち当該特定法人に係る実質的支配者（住所等所在地国と認められる国又は地域が外国であるものに限る。）があるものが有する法人番号をいう。次項において同じ。）とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="11">
           <ParagraphNum>１１</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第六条の三第二十二項第五号イに規定する総務省令、財務省令で定める情報は、次に掲げる情報とする。</Sentence>
+            <Sentence WritingMode="vertical">報告金融機関等は、法第十条の五第二項の規定により特定対象者の住所等所在地国と認められる国又は地域（外国に限る。以下この項において同じ。）の特定をした場合において、その保存している記録に、当該特定対象者の生年月日又は外国納税者番号等がないときは、当該特定をした日（同日において当該特定をした国又は地域が報告対象国（法第十条の六第二項第一号に規定する報告対象国をいう。以下この項及び第十六条の十二第一項第一号において同じ。）に該当しない場合には、当該特定をした国又は地域が報告対象国に該当することとなつた日）から二年を経過する日までの間、少なくとも年一回、当該特定対象者に係る特定取引を行つた者に対し、電話、返送を求める書面の送付その他の方法により、これらの情報を取得するための措置をとらなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="12">
+          <ParagraphNum>１２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第六条の三第二十四項第三号に定める特定取引に係る契約に係る資産の価額は、外国通貨で表示された資産にあつては、外国通貨で表示された金額を、その年の十二月三十一日（同条第二十三項第二号の規定の適用がある場合にあつては同号に規定する該当しないこととなつた日とし、同項第四号の規定の適用がある場合にあつては同号に規定する行うこととなつた日とする。）における外国為替の売買相場により、本邦通貨表示の金額に換算した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="13">
+          <ParagraphNum>１３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第六条の三第二十四項第三号の特定取引に係る契約が二以上の者と報告金融機関等との間でその営業所等を通じて締結されている場合には、当該特定取引に係る契約に係る同号に規定する特定取引契約資産額は、当該特定取引に係る契約に係る資産の価額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="14">
+          <ParagraphNum>１４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第六条の三第二十四項第五号イに規定する総務省令、財務省令で定める情報は、次に掲げる情報とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -5656,15 +5743,15 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Hide="false" Num="12">
-          <ParagraphNum>１２</ParagraphNum>
+        <Paragraph Hide="false" Num="15">
+          <ParagraphNum>１５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第六条の三第二十二項第五号ロに規定する総務省令、財務省令で定める情報は、次に掲げる情報とする。</Sentence>
+            <Sentence WritingMode="vertical">令第六条の三第二十四項第五号ロに規定する総務省令、財務省令で定める情報は、次に掲げる情報とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">報告金融機関等との間で特定取引に係る契約を締結している者宛ての郵便物（令第六条の三第二十二項第五号ロに規定する郵便物をいう。次号において同じ。）を受け取る場所としてその者（その代理人を含む。）により指定されている同項第五号ロに規定する郵便局（以下この号において「郵便局」という。）又は外国における郵便局に相当するものの所在地</Sentence>
+              <Sentence WritingMode="vertical">報告金融機関等との間で特定取引に係る契約を締結している者宛ての郵便物（令第六条の三第二十四項第五号ロに規定する郵便物をいう。次号において同じ。）を受け取る場所としてその者（その代理人を含む。）により指定されている同項第五号ロに規定する郵便局（以下この号において「郵便局」という。）又は外国における郵便局に相当するものの所在地</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="2">
@@ -5761,7 +5848,7 @@
                 <Sentence WritingMode="vertical">法人</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">当該法人の次に掲げるいずれかの書類</Sentence>
+                <Sentence WritingMode="vertical">当該法人の次に掲げる書類のいずれか</Sentence>
               </Column>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
@@ -5790,7 +5877,7 @@
                 <Sentence WritingMode="vertical">人格のない社団等（法人税法第二条第八号に規定する人格のない社団等をいう。以下この号において同じ。）</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">当該人格のない社団等の次に掲げるいずれかの書類</Sentence>
+                <Sentence WritingMode="vertical">当該人格のない社団等の次に掲げる書類のいずれか</Sentence>
               </Column>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
@@ -5816,10 +5903,10 @@
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
               <Column LineBreak="false" Num="1">
-                <Sentence WritingMode="vertical">組合契約によつて成立する組合</Sentence>
+                <Sentence WritingMode="vertical">法第十条の五第八項第六号イに掲げる組合</Sentence>
               </Column>
               <Column LineBreak="false" Num="2">
-                <Sentence WritingMode="vertical">当該組合の次に掲げるいずれかの書類</Sentence>
+                <Sentence WritingMode="vertical">当該組合の次に掲げる書類のいずれか</Sentence>
               </Column>
             </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="1">
@@ -5828,6 +5915,40 @@
                 <Sentence WritingMode="vertical">当該組合の組合契約書の写しで、その代表者その他これに準ずるものの当該組合のものである旨を証する事項の記載のあるもの</Sentence>
               </Subitem1Sentence>
             </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">イに掲げる書類のほか、官公署から発行され、又は発給された書類その他これらに類するもの（報告金融機関等の営業所等の長に提示する日前六月以内に作成されたもの（有効期間又は有効期限のあるものにあつては、報告金融機関等の営業所等の長に提示する日において有効なもの）に限る。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">法第十条の五第八項第六号ロに掲げる事業体</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">当該事業体の前号イ又はロに掲げる書類に準ずるもののいずれか</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">法第十条の五第八項第六号ハに掲げる信託</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">当該信託の次に掲げる書類のいずれか（当該信託が同項第七号イに掲げる法人等に該当する信託以外の信託である場合には、次に掲げる書類のいずれか及び第一号から第三号までに掲げる当該信託の受託者の区分に応じ当該各号に定める書類（当該受託者の氏名又は名称及び住所又は本店若しくは主たる事務所の所在地の記載のあるものに限る。））</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="イ">
+            <ItemTitle>イ</ItemTitle>
+            <ItemSentence>
+              <Sentence>当該信託に係る信託契約書の写しで、その受託者の当該信託のものである旨を証する事項の記載のあるもの</Sentence>
+            </ItemSentence>
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
@@ -5848,14 +5969,20 @@
             <Sentence WritingMode="vertical">第十六条の二第四項の規定は、令第六条の四第一項において準用する令第六条の二第一項に規定する総務省令、財務省令で定める書類について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第十六条の二第六項の規定は、法第十条の五第二項の特定取引に係る契約を締結している者（内国法人である特定法人のうち、当該特定法人に係る実質的支配者（その居住地国が外国であるものに限る。）があるものに限る。）が同条第三項の規定により届出書を提出する場合について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
       </Article>
-      <Article Delete="false" Hide="false" Num="16_5">
+      <Article Num="16_5">
         <ArticleCaption>（異動届出書の記載事項等）</ArticleCaption>
         <ArticleTitle>第十六条の五</ArticleTitle>
-        <Paragraph Hide="false" Num="1">
+        <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十条の五第四項に規定する総務省令、財務省令で定める事項は、同項の規定により同項に規定する異動届出書（以下この項及び第十六条の十三第一項において「異動届出書」という。）を提出する者が法第十条の五第四項各号に掲げる場合に該当することとなる前に提出した同条第一項若しくは第三項の届出書又は異動届出書に特定対象者の居住地国として記載した国又は地域（居住地国を有しなかつた場合には、その旨）及び第十六条の二第一項各号に掲げる事項とする。</Sentence>
+            <Sentence>法第十条の五第四項に規定する総務省令、財務省令で定める事項は、同項の規定により同項に規定する異動届出書（以下この条及び第十六条の十三第一項において「異動届出書」という。）を提出する者が法第十条の五第四項各号に掲げる場合に該当することとなる前に提出した同条第一項若しくは第三項の届出書又は異動届出書に特定対象者の居住地国として記載した国又は地域（居住地国を有しなかつた場合には、その旨）及び第十六条の二第一項各号に掲げる事項とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -5864,14 +5991,20 @@
             <Sentence WritingMode="vertical">第十六条の二第三項の規定は、法第十条の五第五項において準用する同条第一項後段の規定を適用する場合について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第十六条の二第六項の規定は、法第十条の五第一項又は第三項の規定により届出書を提出した者（内国法人である特定法人に限る。）が同条第四項第一号又は第二号に掲げる場合に該当することにより異動届出書を提出する場合（当該特定法人に係る実質的支配者のこれらの号に定める居住地国が外国である場合に限る。）について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
       </Article>
       <Article Delete="false" Hide="false" Num="16_6">
-        <ArticleCaption>（報告金融機関等による住所等所在地国と認められる国又は地域の再特定手続）</ArticleCaption>
+        <ArticleCaption>（既存特定取引契約者等の住所等所在地国と認められる国又は地域の再特定手続）</ArticleCaption>
         <ArticleTitle>第十六条の六</ArticleTitle>
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十条の五第六項に規定する同条第二項の特定対象者の住所等所在地国と認められる国又は地域が同項の規定により特定した国又は地域と異なることを示す総務省令、財務省令で定める情報は、第十六条の三第十一項各号及び第十二項各号に掲げる情報並びに令第六条の三第十項に規定する総務省令、財務省令で定める情報とする。</Sentence>
+            <Sentence WritingMode="vertical">法第十条の五第六項に規定する同条第二項の特定対象者の住所等所在地国と認められる国又は地域が同項の規定により特定した国又は地域と異なることを示す総務省令、財務省令で定める情報は、第十六条の三第十四項各号及び第十五項各号に掲げる情報並びに令第六条の三第十項に規定する総務省令、財務省令で定める情報とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -5905,19 +6038,22 @@
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第六条の五第三項第二号に規定する総務省令、財務省令で定める情報は、第十六条の三第十一項第一号及び第二号に掲げる情報とする。</Sentence>
+            <Sentence WritingMode="vertical">令第六条の五第三項第二号に規定する総務省令、財務省令で定める情報は、第十六条の三第十四項第一号及び第二号に掲げる情報とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十条の五第六項に規定する報告金融機関等の保有する特定対象者の住所その他の総務省令、財務省令で定める情報は、第十六条の三第十一項各号及び第十二項各号に掲げる情報とする。</Sentence>
+            <Sentence WritingMode="vertical">法第十条の五第六項に規定する報告金融機関等の保有する特定対象者の住所その他の総務省令、財務省令で定める情報は、第十六条の三第十四項各号及び第十五項各号に掲げる情報とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">第十六条の三第八項の規定は令第六条の五第十四項において準用する令第六条の三第二十項に規定する総務省令、財務省令で定める情報について、第十六条の三第九項の規定は令第六条の五第十四項において準用する令第六条の三第二十項の規定を適用する場合について、それぞれ準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第十六条の三第九項の規定は令第六条の五第十四項において準用する令第六条の三第十九項第二号ロに規定する総務省令、財務省令で定める法人について、第十六条の三第十項の規定は令第六条の五第十四項において準用する令第六条の三第二十二項に規定する総務省令、財務省令で定める情報について、第十六条の三第十一項の規定は令第六条の五第十四項において準用する令第六条の三第二十二項の規定を適用する場合について、それぞれ準用する。
+</Sentence>
+            <Sentence Num="2" WritingMode="vertical">
+</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -6017,7 +6153,7 @@
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">保険契約（令第六条の七第一号ニに規定する保険契約をいう。以下この号及び次条第六号において同じ。）又は共済に係る契約（令第六条の七第一号ホに規定する共済に係る契約をいう。ロ及び次条第六号において同じ。）であつて、年金（人の生存を事由として支払が行われるものに限る。）、満期保険金、満期返戻金又は満期共済金を支払う旨の定めがないもの（期間の限定がなく、人の死亡を事由として支払が行われるものであつて、かつ、保険料又は共済掛金を一時に払い込むことを内容とするものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">保険契約（令第六条の七第一号ニに規定する保険契約をいう。ロ及び次条第六号において同じ。）又は共済に係る契約（令第六条の七第一号ホに規定する共済に係る契約をいう。ロ及び次条第六号において同じ。）であつて、年金（人の生存を事由として支払が行われるものに限る。）、満期保険金、満期返戻金又は満期共済金を支払う旨の定めがないもの（期間の限定がなく、人の死亡を事由として支払が行われるものであつて、かつ、保険料又は共済掛金を一時に払い込むことを内容とするものを除く。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
@@ -6071,12 +6207,6 @@
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">租税特別措置法第二十九条の二第一項及び第二十九条の三第一項の規定によりその取得に係る経済的利益について所得税を課さないこととされる株式</Sentence>
-              </Subitem1Sentence>
-            </Subitem1>
-            <Subitem1 Delete="false" Hide="false" Num="3">
-              <Subitem1Title>ハ</Subitem1Title>
-              <Subitem1Sentence>
                 <Sentence WritingMode="vertical">租税特別措置法第三十七条の十四第五項第一号に規定する非課税口座及び同法第三十七条の十四の二第五項第一号に規定する未成年者口座</Sentence>
               </Subitem1Sentence>
             </Subitem1>
@@ -6086,6 +6216,24 @@
             <ItemSentence>
               <Sentence WritingMode="vertical">令第六条の七第二号に掲げる取引のうち、次項に掲げるもの（以下この号において「株式等」という。）が振替機関によつて取り扱われるもの又は株式等に係る権利を表示する有価証券が金融商品取引業者等を通じて取得されるものに係るもの</Sentence>
             </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">令第六条の七各号に掲げる取引のうち、次に掲げるものに係るもの</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">報告金融機関等との間でその営業所等を通じて当該取引を行う者（内国法人に限るものとし、特定組合員等に相当する者を除く。）が遺産法人等（当該遺産法人等に係る被相続人の居住地国が我が国である場合における当該遺産法人等に限る。）である場合における当該取引に係る契約</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">報告金融機関等との間でその営業所等を通じて当該取引に係る契約を締結していた者（個人に限るものとし、特定組合員等である者を除く。ロにおいて同じ。）が死亡した場合において、当該個人に係る遺産（当該取引に係る契約に係るものに限る。）が遺産法人等であるとき（当該報告金融機関等が当該個人の死亡診断書、死体検案書その他当該個人の死亡の事実及び死亡の年月日を証明することができる書類又はその写しのいずれかを取得しているときに限る。）における当該取引に係る契約</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
           </Item>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -6190,7 +6338,7 @@
           <Item Delete="false" Hide="false" Num="10">
             <ItemTitle>十</ItemTitle>
             <ItemSentence>
-              <Sentence WritingMode="vertical">匿名組合契約（令第六条の九第一項に規定する契約を含む。）に基づいて受ける利益の分配</Sentence>
+              <Sentence WritingMode="vertical">令第六条の六第一項第五号ロに規定する匿名組合契約に基づいて受ける利益の分配</Sentence>
             </ItemSentence>
           </Item>
           <Item Delete="false" Hide="false" Num="11">
@@ -6207,7 +6355,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十条の五第七項第五号に規定する総務省令、財務省令で定める者は、犯罪による収益の移転防止に関する法律第四条第一項若しくは第二項又は犯罪による収益の移転防止に関する法律施行規則第二十条第三項（同条第一項第二十四号に係る部分に限る。）の規定により、同令第十一条第二項各号に定める者として確認された者とする。</Sentence>
+            <Sentence WritingMode="vertical">法第十条の五第八項第五号に規定する総務省令、財務省令で定める者は、犯罪による収益の移転防止に関する法律第四条第一項若しくは第二項又は犯罪による収益の移転防止に関する法律施行規則第二十条第三項（同条第一項第二十四号に係る部分に限る。）の規定により、同令第十一条第二項各号に定める者として確認された者とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -6217,7 +6365,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十条の五第八項に規定する総務省令、財務省令で定める方法は、送信者等（送信者又は当該送信者との契約によりファイルを自己の管理する電子計算機に備え置き、これを受信者若しくは当該送信者の用に供する者をいう。）の使用に係る電子計算機と受信者等（受信者又は当該受信者との契約により受信者ファイル（専ら当該受信者の用に供せられるファイルをいう。以下この項及び次項において同じ。）を自己の管理する電子計算機に備え置く者をいう。以下この項において同じ。）の使用に係る電子計算機とを接続する電気通信回線を通じてその提供すべき事項に係る情報（次項において「記載情報」という。）を送信し、受信者等の使用に係る電子計算機に備えられた受信者ファイルに記録する方法とする。</Sentence>
+            <Sentence WritingMode="vertical">法第十条の五第九項に規定する総務省令、財務省令で定める方法は、送信者等（送信者又は当該送信者との契約によりファイルを自己の管理する電子計算機に備え置き、これを受信者若しくは当該送信者の用に供する者をいう。）の使用に係る電子計算機と受信者等（受信者又は当該受信者との契約により受信者ファイル（専ら当該受信者の用に供せられるファイルをいう。以下この項及び次項において同じ。）を自己の管理する電子計算機に備え置く者をいう。以下この項において同じ。）の使用に係る電子計算機とを接続する電気通信回線を通じてその提供すべき事項に係る情報（次項において「記載情報」という。）を送信し、受信者等の使用に係る電子計算機に備えられた受信者ファイルに記録する方法とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -6248,19 +6396,41 @@
             <Subitem1 Delete="false" Hide="false" Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該報告対象契約に係る特定取引を行つた者（特定取引を行つた者が特定組合員である場合にあつては、当該特定取引をその業務として行う当該特定組合員が締結している組合契約によつて成立する組合とする。以下この号において同じ。）の氏名、住所及び生年月日又は名称及び本店若しくは主たる事務所の所在地（報告金融機関等が保有している場合に限る。）</Sentence>
+                <Sentence WritingMode="vertical">当該報告対象契約に係る特定取引を行つた者（次に掲げる場合には、それぞれ次に定めるもの。イ及びロにおいて同じ。）の氏名、住所（⑵に定める者にあつては、その者の死亡の時における住所）及び生年月日又は名称及び本店若しくは主たる事務所の所在地（報告金融機関等が保有している場合に限る。）</Sentence>
               </Subitem1Sentence>
+              <Subitem2 Delete="false" Hide="false" Num="1">
+                <Subitem2Title>（１）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">当該報告対象契約に係る特定取引を行つた者が特定組合員等である場合（⑵に掲げる場合を除く。）</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">当該報告対象契約に係る特定取引をその業務として行つた当該特定組合員等に係る組合等</Sentence>
+                  </Column>
+                </Subitem2Sentence>
+              </Subitem2>
+              <Subitem2 Delete="false" Hide="false" Num="2">
+                <Subitem2Title>（２）</Subitem2Title>
+                <Subitem2Sentence>
+                  <Column LineBreak="false" Num="1">
+                    <Sentence WritingMode="vertical">当該報告対象契約に係る特定取引を行つた者（当該報告対象契約に係る特定取引を行つた者が特定組合員等以外の者である場合には法人に限るものとし、当該報告対象契約に係る特定取引を行つた者が特定組合員等である場合には当該特定組合員等に係る組合等とする。）が遺産法人等である場合</Sentence>
+                  </Column>
+                  <Column LineBreak="false" Num="2">
+                    <Sentence WritingMode="vertical">当該遺産法人等に係る被相続人</Sentence>
+                  </Column>
+                </Subitem2Sentence>
+              </Subitem2>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該報告対象契約に係る特定取引を行つた者の特定居住地国（法第十条の六第一項に規定する特定居住地国をいう。以下この号において同じ。）の名称及びその者が当該特定居住地国（外国に限る。）において納税者番号を有する場合には、当該納税者番号（報告金融機関等が保有している場合に限る。）</Sentence>
+                <Sentence WritingMode="vertical">当該報告対象契約に係る特定取引を行つた者（当該報告対象契約に係る特定取引を行つた者が特定信託受託者である場合には、当該特定信託受託者。ロにおいて同じ。）の特定居住地国（法第十条の六第一項に規定する特定居住地国をいう。以下この号において同じ。）の名称及び当該特定居住地国（外国に限る。）において当該特定取引を行つた者の納税者番号がある場合には、当該納税者番号（報告金融機関等が保有している場合に限る。）</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="3">
               <Subitem1Title>ハ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence WritingMode="vertical">当該報告対象契約に係る特定取引を行つた者が特定法人である場合において、当該特定法人に係る実質的支配者（特定居住地国が報告対象国（法第十条の六第二項第一号に規定する報告対象国をいう。ホにおいて同じ。）である者に限る。）があるときは、当該実質的支配者に係るイ及びロに掲げる事項</Sentence>
+                <Sentence WritingMode="vertical">当該報告対象契約に係る特定取引を行つた者が特定法人である場合において、当該特定法人に係る実質的支配者（特定居住地国が報告対象国である者に限る。）があるときは、当該実質的支配者に係るイ及びロに掲げる事項</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Delete="false" Hide="false" Num="4">
@@ -6333,7 +6503,7 @@
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">令第六条の十二第四項の規定により読み替えて適用される法第十条の六第一項に規定する総務省令、財務省令で定める事項は、前項第一号（トを除く。）に掲げる事項及び報告対象契約の終了の事実とする。</Sentence>
+            <Sentence WritingMode="vertical">令第六条の十三第四項の規定により読み替えて適用される法第十条の六第一項に規定する総務省令、財務省令で定める事項は、前項第一号（トを除く。）に掲げる事項及び報告対象契約の終了の事実とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="3">
@@ -6394,7 +6564,7 @@
         <Paragraph Hide="false" Num="8">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十条の六第二項第一号に規定する総務省令、財務省令で定める国又は地域は、法第二条第二号に規定する租税条約等の相手国等（別表に掲げる国又は地域に係るものに限る。）とする。</Sentence>
+            <Sentence WritingMode="vertical">法第十条の六第二項第一号に規定する総務省令、財務省令で定める国又は地域は、相手国等（別表に掲げる国又は地域に係るものに限る。）とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -6404,13 +6574,13 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">報告金融機関等は、法第十条の五第一項若しくは第三項の規定による届出書若しくは同条第四項の規定による異動届出書（次項において「届出書等」という。）の提出を受けた場合又は同条第二項若しくは第六項の規定による特定対象者の住所等所在地国と認められる国若しくは地域の特定を行つた場合には、次項各号に掲げる事項に関する記録を、文書、電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。次項第一号ロにおいて同じ。）又はマイクロフィルムを用いて作成しなければならない。</Sentence>
+            <Sentence WritingMode="vertical">報告金融機関等は、法第十条の五第一項若しくは第三項の規定による届出書若しくは異動届出書（次項第一号において「届出書等」という。）の提出を受けた場合又は同条第二項若しくは第六項の規定による特定対象者の住所等所在地国と認められる国若しくは地域の特定を行つた場合には、次項各号に掲げる事項に関する記録を、文書、電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。次項第一号ロにおいて同じ。）又はマイクロフィルムを用いて作成しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十条の七第一項に規定する総務省令、財務省令で定める事項は、次に掲げる事項とする。</Sentence>
+            <Sentence WritingMode="vertical">法第十条の八第一項に規定する総務省令、財務省令で定める事項は、次に掲げる事項とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -6481,6 +6651,24 @@
           <Item Delete="false" Hide="false" Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
+              <Sentence WritingMode="vertical">前三号に掲げる事項のうち法第十条の七の規定の適用に係るものがある場合には、次に掲げる事項</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該事項につき法第十条の七の規定の適用がないものとした場合における前三号に掲げる事項</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">当該事項に係る特定行為（法第十条の七第一項の規定によりなかつたものとされた行為又は同条第二項の規定によりあつたものとされた行為を行わなかつたことをいう。ロにおいて同じ。）の内容及び当該特定行為が同条第一項又は第二項の主たる目的の一つとして行われたものであることについての事情の詳細</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
               <Sentence WritingMode="vertical">その他参考となるべき事項</Sentence>
             </ItemSentence>
           </Item>
@@ -6488,7 +6676,7 @@
         <Paragraph Hide="false" Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">法第十条の七第二項に規定する総務省令、財務省令で定める日は、次の各号に掲げる特定取引の区分に応じ当該各号に定める日とする。</Sentence>
+            <Sentence WritingMode="vertical">法第十条の八第二項に規定する総務省令、財務省令で定める日は、次の各号に掲げる特定取引の区分に応じ当該各号に定める日とする。</Sentence>
           </ParagraphSentence>
           <Item Delete="false" Hide="false" Num="1">
             <ItemTitle>一</ItemTitle>
@@ -6520,7 +6708,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国税通則法施行令第三十条の三の規定は、法第十条の八第二項の規定により物件を留め置く場合について準用する。</Sentence>
+            <Sentence WritingMode="vertical">国税通則法施行令第三十条の三の規定は、法第十条の九第二項の規定により物件を留め置く場合について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -8342,6 +8530,118 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日総務省・財務省令第三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（特定取引を行う者の届出書の提出等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一条の規定による改正後の租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律の施行に関する省令（以下「新規則」という。）第十六条の二第六項の規定は、この省令の施行の日（以下「施行日」という。）以後に所得税法等の一部を改正する法律（令和二年法律第八号）第十八条の規定による改正後の租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（以下「新法」という。）第十条の五第一項の特定取引を行う場合について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（報告金融機関等による住所等所在地国と認められる国又は地域の特定手続等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>報告金融機関等（所得税法等の一部を改正する法律（令和二年法律第八号）第十八条の規定による改正前の租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（以下「旧法」という。）第十条の五第七項第一号に規定する報告金融機関等をいう。附則第六条において同じ。）が旧法第十条の五第二項の規定により特定対象者（同条第一項に規定する特定対象者をいう。附則第六条において同じ。）の住所等所在地国（旧法第十条の五第二項に規定する住所等所在地国をいう。附則第六条において同じ。）と認められる国又は地域の特定をした場合において、次の各号に掲げる場合に該当していたとき（施行日の前日において、当該特定をした国又は地域が旧法第十条の六第二項第一号に規定する報告対象国以外の国又は地域（所得税法等の一部を改正する法律（令和二年法律第八号）第十七条の規定による改正前の外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律（昭和三十七年法律第百四十四号）第四十一条の二第二項第一号に規定する総務省令、財務省令で定める外国を除く。）であるときに限る。）は、当該各号に掲げる場合の区分に応じ当該各号に定める措置をとったものとみなして、新規則第十六条の三第十一項の規定を適用する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">当該特定をした日（以下この項において「特定日」という。）から施行日の前日（同日が当該特定日から一年を経過する日後に到来する場合（施行日の前日が当該特定日から二年を経過する日以後に到来する場合を除く。）に限る。）までの間のうち、当該特定日から一年を経過する日まで及び同日の翌日から施行日の前日までのそれぞれの期間内において、少なくとも一回、第一条による改正前の租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律の施行に関する省令（次号及び附則第七条において「旧規則」という。）第十六条の三第九項の規定による措置をとっていた場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">当該特定をした国又は地域が新法第十条の六第二項第一号に規定する報告対象国に該当することとなった日（次号において「該当日」という。）から二年を経過する日までの間、年一回、新規則第十六条の三第十一項の規定による措置をとること。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">当該特定日から一年を経過する日（同日が施行日以後に到来する場合には、当該特定日から施行日の前日）までの間においてのみ、少なくとも一回、旧規則第十六条の三第九項の規定による措置をとっていた場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">当該特定をした国又は地域に係る該当日から一年を経過する日まで又は同日の翌日から一年を経過する日までの期間のいずれかの期間内において、一回、新規則第十六条の三第十一項の規定による措置をとること。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（任意届出書の記載事項等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新規則第十六条の四第五項の規定は、施行日以後に新法第十条の五第三項の規定により届出書を提出する場合について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（異動届出書の記載事項等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">新規則第十六条の五第三項の規定は、施行日以後に新法第十条の五第四項第一号又は第二号に掲げる場合に該当することにより同項に規定する異動届出書を提出する場合について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（報告金融機関等による住所等所在地国と認められる国又は地域の再特定手続に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第三条の規定は、報告金融機関等が旧法第十条の五第六項の規定により特定対象者の住所等所在地国と認められる国又は地域（外国に限る。）の特定をした場合について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、附則第三条中「新規則」とあるのは、「新規則第十六条の六第五項において準用する新規則」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（特定取引から除かれる取引等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第十条の五第八項第一号に規定する報告金融機関等は、施行日前に当該報告金融機関等との間でその旧法第十条の五第七項第二号に規定する営業所等を通じて旧規則第十六条の八第一項第五号に掲げる取引（同号ロに係るものに限る。）を行った者で施行日において当該取引（施行日において新法第十条の五第八項第三号に規定する特定取引に該当するものに限る。以下この条において「特定対象取引」という。）に係る契約を締結しているものにつき、新法第十条の五第二項の規定の例により、施行日から二年を経過する日（施行日の前日における当該特定対象取引に係る契約に係る資産の価額が一億円を超えるものにあっては、施行日から一年を経過する日）までに、当該報告金融機関等の保有する同項に規定する特定対象者の住所その他の情報に基づき当該特定対象者の同項に規定する住所等所在地国と認められる国又は地域の特定をしなければならないものとする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該特定をした国又は地域は同項の規定により特定した同項の特定対象者の住所等所在地国と認められる国又は地域とみなして、同条の規定を適用するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption>（租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律の施行に関する省令の一部を改正する省令の一部改正）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律の施行に関する省令の一部を改正する省令（平成二十八年総務省・財務省令第三号）の一部を次のように改正する。</Sentence>
+          </ParagraphSentence>
+          <AmendProvision>
+            <AmendProvisionSentence>
+              <Sentence WritingMode="vertical">附則第二項中「いずれかの書類」を「書類のいずれか」に改める。</Sentence>
+            </AmendProvisionSentence>
+          </AmendProvision>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第十六条の十二関係）</RelatedArticleNum>
@@ -8915,7 +9215,7 @@
       <AppdxFormatTitle WritingMode="vertical">別紙書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S44F03402011001_2002211802_001.pdf"/>
+          <Fig src="./pict/S44F03402011001_2010302110_001.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>

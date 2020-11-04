@@ -201,7 +201,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">遺伝子を導入する操作を行った細胞又は当該細胞に培養その他の加工を施したものを用いる医療技術（前号に掲げるものを除く。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">遺伝子を導入若しくは改変する操作を行った細胞又は当該細胞に培養その他の加工を施したものを用いる医療技術（前号に掲げるものを除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -6405,12 +6405,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月二六日厚生労働省令第一三一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第二十七条関係）（第一面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021789.pdf"/>
+          <Fig src="./pict/_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6419,7 +6428,7 @@
       <RelatedArticleNum>（第二十七条関係）（第二面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021790.pdf"/>
+          <Fig src="./pict/_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6428,7 +6437,7 @@
       <RelatedArticleNum>（第二十七条関係）（第三面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021791.pdf"/>
+          <Fig src="./pict/_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6437,7 +6446,7 @@
       <RelatedArticleNum>（第二十七条関係）（第四面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021792.pdf"/>
+          <Fig src="./pict/_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6446,7 +6455,7 @@
       <RelatedArticleNum>（第二十七条関係）（第五面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021793.pdf"/>
+          <Fig src="./pict/_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6455,7 +6464,7 @@
       <RelatedArticleNum>（第二十七条関係）（第六面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021794.pdf"/>
+          <Fig src="./pict/_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6464,7 +6473,7 @@
       <RelatedArticleNum>（第二十七条関係）（第七面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021795.pdf"/>
+          <Fig src="./pict/_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6473,7 +6482,7 @@
       <RelatedArticleNum>（第二十七条関係）（第八面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021796.pdf"/>
+          <Fig src="./pict/_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6482,7 +6491,7 @@
       <RelatedArticleNum>（第二十七条関係）（第九面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021797.pdf"/>
+          <Fig src="./pict/_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6491,7 +6500,7 @@
       <RelatedArticleNum>（第二十七条関係）（第十面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027180.pdf"/>
+          <Fig src="./pict/_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6500,7 +6509,7 @@
       <RelatedArticleNum>（第二十七条関係）（第一面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021799.pdf"/>
+          <Fig src="./pict/_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6509,7 +6518,7 @@
       <RelatedArticleNum>（第二十七条関係）（第二面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021800.pdf"/>
+          <Fig src="./pict/_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6518,7 +6527,7 @@
       <RelatedArticleNum>（第二十七条関係）（第三面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021801.pdf"/>
+          <Fig src="./pict/_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6527,7 +6536,7 @@
       <RelatedArticleNum>（第二十七条関係）（第四面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021802.pdf"/>
+          <Fig src="./pict/_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6536,7 +6545,7 @@
       <RelatedArticleNum>（第二十七条関係）（第五面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027181.pdf"/>
+          <Fig src="./pict/_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6545,7 +6554,7 @@
       <RelatedArticleNum>（第二十八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027182.pdf"/>
+          <Fig src="./pict/_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6554,7 +6563,7 @@
       <RelatedArticleNum>（第三十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027183.pdf"/>
+          <Fig src="./pict/_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6563,7 +6572,7 @@
       <RelatedArticleNum>（第三十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027184.pdf"/>
+          <Fig src="./pict/_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6572,7 +6581,7 @@
       <RelatedArticleNum>（第四十三条関係）（第一面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021807.pdf"/>
+          <Fig src="./pict/_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6581,7 +6590,7 @@
       <RelatedArticleNum>（第四十三条関係）（第二面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021808.pdf"/>
+          <Fig src="./pict/_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6590,7 +6599,7 @@
       <RelatedArticleNum>（第四十三条関係）（第三面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027185.pdf"/>
+          <Fig src="./pict/_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6599,7 +6608,7 @@
       <RelatedArticleNum>（第五十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000008879.pdf"/>
+          <Fig src="./pict/_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6608,7 +6617,7 @@
       <RelatedArticleNum>（第五十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027186.pdf"/>
+          <Fig src="./pict/_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6617,7 +6626,7 @@
       <RelatedArticleNum>（第五十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027187.pdf"/>
+          <Fig src="./pict/_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6626,7 +6635,7 @@
       <RelatedArticleNum>（第五十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027188.pdf"/>
+          <Fig src="./pict/_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6635,7 +6644,7 @@
       <RelatedArticleNum>（第五十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027189.pdf"/>
+          <Fig src="./pict/_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6644,7 +6653,7 @@
       <RelatedArticleNum>（第五十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027190.pdf"/>
+          <Fig src="./pict/_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6653,7 +6662,7 @@
       <RelatedArticleNum>（第五十八条関係）（第一面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021815.pdf"/>
+          <Fig src="./pict/_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6662,7 +6671,7 @@
       <RelatedArticleNum>（第五十八条関係）（第二面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021816.pdf"/>
+          <Fig src="./pict/_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6671,7 +6680,7 @@
       <RelatedArticleNum>（第五十八条関係）（第三面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021817.pdf"/>
+          <Fig src="./pict/_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6680,7 +6689,7 @@
       <RelatedArticleNum>（第五十八条関係）（第四面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027191.pdf"/>
+          <Fig src="./pict/_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6689,7 +6698,7 @@
       <RelatedArticleNum>（第五十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027192.pdf"/>
+          <Fig src="./pict/_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6698,7 +6707,7 @@
       <RelatedArticleNum>（第七十二条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021820.pdf"/>
+          <Fig src="./pict/_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6707,7 +6716,7 @@
       <RelatedArticleNum>（第七十二条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027193.pdf"/>
+          <Fig src="./pict/_034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6716,7 +6725,7 @@
       <RelatedArticleNum>（第七十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000008891.pdf"/>
+          <Fig src="./pict/_035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6725,7 +6734,7 @@
       <RelatedArticleNum>（第七十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027194.pdf"/>
+          <Fig src="./pict/_036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6734,7 +6743,7 @@
       <RelatedArticleNum>（第七十六条、第八十四条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021823.pdf"/>
+          <Fig src="./pict/_037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6743,7 +6752,7 @@
       <RelatedArticleNum>（第七十六条、第八十四条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027195.pdf"/>
+          <Fig src="./pict/_038.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6752,7 +6761,7 @@
       <RelatedArticleNum>（第七十七条、第八十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027196.pdf"/>
+          <Fig src="./pict/_039.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6761,7 +6770,7 @@
       <RelatedArticleNum>（第七十八条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021825.pdf"/>
+          <Fig src="./pict/_040.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6770,7 +6779,7 @@
       <RelatedArticleNum>（第七十八条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027197.pdf"/>
+          <Fig src="./pict/_041.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6779,7 +6788,7 @@
       <RelatedArticleNum>（第八十一条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027198.pdf"/>
+          <Fig src="./pict/_042.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6788,7 +6797,7 @@
       <RelatedArticleNum>（第八十一条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027199.pdf"/>
+          <Fig src="./pict/_043.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6797,7 +6806,7 @@
       <RelatedArticleNum>（第八十二条、第八十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027200.pdf"/>
+          <Fig src="./pict/_044.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6806,7 +6815,7 @@
       <RelatedArticleNum>（第八十三条関係）（第一面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021827.pdf"/>
+          <Fig src="./pict/_045.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6815,7 +6824,7 @@
       <RelatedArticleNum>（第八十三条関係）（第二面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021828.pdf"/>
+          <Fig src="./pict/_046.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6824,7 +6833,7 @@
       <RelatedArticleNum>（第八十三条関係）（第三面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027201.pdf"/>
+          <Fig src="./pict/_047.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6833,7 +6842,7 @@
       <RelatedArticleNum>（第八十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000008930.pdf"/>
+          <Fig src="./pict/_048.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6842,7 +6851,7 @@
       <RelatedArticleNum>（第八十四条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021830.pdf"/>
+          <Fig src="./pict/_049.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6851,7 +6860,7 @@
       <RelatedArticleNum>（第八十四条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027202.pdf"/>
+          <Fig src="./pict/_050.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6860,7 +6869,7 @@
       <RelatedArticleNum>（第八十四条関係）（第一面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021832.pdf"/>
+          <Fig src="./pict/_051.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6869,7 +6878,7 @@
       <RelatedArticleNum>（第八十四条関係）（第二面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021833.pdf"/>
+          <Fig src="./pict/_052.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6878,7 +6887,7 @@
       <RelatedArticleNum>（第八十四条関係）（第三面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027203.pdf"/>
+          <Fig src="./pict/_053.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6887,7 +6896,7 @@
       <RelatedArticleNum>（第八十四条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000008910.pdf"/>
+          <Fig src="./pict/_054.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6896,7 +6905,7 @@
       <RelatedArticleNum>（第八十四条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027204.pdf"/>
+          <Fig src="./pict/_055.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6905,7 +6914,7 @@
       <RelatedArticleNum>（第八十五条関係）（表面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021835.pdf"/>
+          <Fig src="./pict/_056.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6914,7 +6923,7 @@
       <RelatedArticleNum>（第八十五条関係）（裏面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027206.pdf"/>
+          <Fig src="./pict/_057.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6923,7 +6932,7 @@
       <RelatedArticleNum>（第八十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027207.pdf"/>
+          <Fig src="./pict/_058.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6932,7 +6941,7 @@
       <RelatedArticleNum>（第八十八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027208.pdf"/>
+          <Fig src="./pict/_059.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6941,7 +6950,7 @@
       <RelatedArticleNum>（第百十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021839.pdf"/>
+          <Fig src="./pict/_060.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6950,7 +6959,7 @@
       <RelatedArticleNum>（第百十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027209.pdf"/>
+          <Fig src="./pict/_061.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6959,7 +6968,7 @@
       <RelatedArticleNum>（第百十六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027210.pdf"/>
+          <Fig src="./pict/_062.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -6968,7 +6977,7 @@
       <RelatedArticleNum>（第百十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000008934.pdf"/>
+          <Fig src="./pict/_063.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

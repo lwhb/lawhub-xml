@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="180524e01k01m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="77" Year="07">
+<Law DataInfo="200128e01k01m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="77" Year="07">
   <LawNum>平成七年通商産業省令第七十七号</LawNum>
   <LawBody>
     <LawTitle>電気事業法施行規則</LawTitle>
@@ -5471,7 +5471,7 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence>行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して第二項の届出をする場合は、経済産業省の所管する法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則（平成十五年経済産業省令第八号）第三条第三項の規定は、適用しない。</Sentence>
+                  <Sentence>情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。以下「情報通信技術活用法」という。）第六条第一項の規定により電子情報処理組織（経済産業省の所管する法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則（平成十五年経済産業省令第八号。以下「情報通信技術活用法施行規則」という。）第三条に規定する電子情報処理組織をいう。以下同じ。）を使用して第二項の届出をする場合は、情報通信技術活用法施行規則第四条第三項の規定は、適用しない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -7972,7 +7972,7 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>学校教育法に基づく大学、高等専門学校、高等学校若しくは中等教育学校、旧大学令（大正七年勅令第三百八十八号）に基づく大学、旧専門学校令（明治三十六年勅令第六十一号）に基づく専門学校又は旧中等学校令（昭和十八年勅令第三十六号）に基づく実業学校において電気工学の課程又はこれに相当する課程を修めて卒業した者</Sentence>
+                    <Sentence>学校教育法に基づく大学、高等専門学校、高等学校若しくは中等教育学校、旧大学令（大正七年勅令第三百八十八号）に基づく大学、旧専門学校令（明治三十六年勅令第六十一号）に基づく専門学校又は旧中等学校令（昭和十八年勅令第三十六号）に基づく実業学校において電気工学の課程又はこれに相当する課程を修めて卒業した者（当該課程を修めて同法による専門職大学の前期課程を修了した者を含む。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -9015,7 +9015,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>学校教育法による大学若しくは高等専門学校、旧大学令による大学又は旧専門学校令による専門学校において電気工学に関する学科を修めて卒業し、かつ、電気技術に関する業務に十年以上従事した経験を有する者</Sentence>
+                  <Sentence>学校教育法による大学若しくは高等専門学校、旧大学令による大学又は旧専門学校令による専門学校において電気工学に関する学科を修めて卒業し（当該学科を修めて同法による専門職大学の前期課程を修了した場合を含む。）、かつ、電気技術に関する業務に十年以上従事した経験を有する者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
@@ -9947,7 +9947,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して前項の表中第二号に掲げる届出（法第四十二条第二項の規定による届出に限る。）に係る書類の写しを提出する場合は、経済産業省の所管する法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則（平成十五年経済産業省令第八号）第三条第三項の規定は、適用しない。</Sentence>
+              <Sentence>情報通信技術活用法第六条第一項の規定により電子情報処理組織を使用して前項の表中第二号に掲げる届出（法第四十二条第二項の規定による届出に限る。）に係る書類の写しを提出する場合は、情報通信技術活用法施行規則第四条第三項の規定は、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -10363,7 +10363,7 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="平成一一年一二月三日通商産業省令第一〇八号">
+    <SupplProvision AmendLawNum="平成一一年一二月三日通商産業省令第一〇八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -10543,9 +10543,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <SupplProvisionAppdxTable>
-        <SupplProvisionAppdxTableTitle>附則様式（附則第４条関係）</SupplProvisionAppdxTableTitle>
-      </SupplProvisionAppdxTable>
     </SupplProvision>
     <SupplProvision AmendLawNum="平成一二年一月一四日通商産業省令第四号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -12586,12 +12583,39 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年七月六日経済産業省令第四五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、平成三十一年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年七月一日経済産業省令第一七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一三日経済産業省令第四九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle>様式第１</AppdxStyleTitle>
       <RelatedArticleNum>（第３条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_001.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_001.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12600,7 +12624,7 @@
       <RelatedArticleNum>（第３条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_002.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_002.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12609,7 +12633,7 @@
       <RelatedArticleNum>（第３条の５、第４５条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_003.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_003.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12618,7 +12642,7 @@
       <RelatedArticleNum>（第３条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_004.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12627,7 +12651,7 @@
       <RelatedArticleNum>（第３条の８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_005.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_005.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12636,7 +12660,7 @@
       <RelatedArticleNum>（第３条の８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_006.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12645,7 +12669,7 @@
       <RelatedArticleNum>（第３条の９関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_007.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_007.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12654,7 +12678,7 @@
       <RelatedArticleNum>（第３条の１０関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_008.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_008.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12663,7 +12687,7 @@
       <RelatedArticleNum>（第３条の１０関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_009.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_009.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12672,7 +12696,7 @@
       <RelatedArticleNum>（第４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_010.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_010.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12681,7 +12705,7 @@
       <RelatedArticleNum>（第４条、第４１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_011.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_011.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12690,7 +12714,7 @@
       <RelatedArticleNum>（第４条、第６条、第１０条、第１１条、第１５条、第４１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_012.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_012.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12699,7 +12723,7 @@
       <RelatedArticleNum>（第４条、第１０条、第１１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_013.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_013.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12708,7 +12732,7 @@
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_014.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_014.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12717,7 +12741,7 @@
       <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_015.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_015.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12726,7 +12750,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_016.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_016.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12735,7 +12759,7 @@
       <RelatedArticleNum>（第９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_017.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_017.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12744,7 +12768,7 @@
       <RelatedArticleNum>（第１０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_018.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_018.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12753,7 +12777,7 @@
       <RelatedArticleNum>（第１１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_019.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_019.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12762,7 +12786,7 @@
       <RelatedArticleNum>（第１１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_020.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_020.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12771,7 +12795,7 @@
       <RelatedArticleNum>（第１２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_021.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_021.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12780,7 +12804,7 @@
       <RelatedArticleNum>（第１３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_022.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_022.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12789,7 +12813,7 @@
       <RelatedArticleNum>（第１５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_023.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_023.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12798,7 +12822,7 @@
       <RelatedArticleNum>（第１６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_024.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_024.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12807,7 +12831,7 @@
       <RelatedArticleNum>（第１９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_025.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_025.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12816,20 +12840,25 @@
       <RelatedArticleNum>（第１９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_026.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_026.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第１８</AppdxStyleTitle>
       <RelatedArticleNum>（第２０条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H07F03801000077_2010301910_027.jpg"/>
+        </Style>
+      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第１９</AppdxStyleTitle>
       <RelatedArticleNum>（第２２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_027.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_028.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12838,7 +12867,7 @@
       <RelatedArticleNum>（第２４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_028.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_029.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12847,7 +12876,7 @@
       <RelatedArticleNum>（第２７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_029.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_030.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12856,7 +12885,7 @@
       <RelatedArticleNum>（第２７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_030.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_031.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12865,7 +12894,7 @@
       <RelatedArticleNum>（第２８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_031.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_032.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12874,7 +12903,7 @@
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_032.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_033.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12883,7 +12912,7 @@
       <RelatedArticleNum>（第３１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_033.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_034.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12892,7 +12921,7 @@
       <RelatedArticleNum>（第３２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_034.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_035.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12901,7 +12930,7 @@
       <RelatedArticleNum>（第３４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_035.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_036.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12910,7 +12939,7 @@
       <RelatedArticleNum>（第３５条、第４７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_036.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_037.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12919,7 +12948,7 @@
       <RelatedArticleNum>（第４１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_037.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_038.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12928,7 +12957,7 @@
       <RelatedArticleNum>（第４１条、第４５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_038.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_039.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12937,7 +12966,7 @@
       <RelatedArticleNum>（第４４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_039.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_040.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12946,7 +12975,7 @@
       <RelatedArticleNum>（第４４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_040.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_041.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12955,7 +12984,7 @@
       <RelatedArticleNum>（第４５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_041.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_042.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12964,7 +12993,7 @@
       <RelatedArticleNum>（第４５条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_042.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_043.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12973,7 +13002,7 @@
       <RelatedArticleNum>（第４５条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_043.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_044.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12982,7 +13011,7 @@
       <RelatedArticleNum>（第４５条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_044.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_045.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -12991,7 +13020,7 @@
       <RelatedArticleNum>（第４５条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_045.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_046.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13000,7 +13029,7 @@
       <RelatedArticleNum>（第４５条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_046.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_047.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13009,7 +13038,7 @@
       <RelatedArticleNum>（第４５条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_047.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_048.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13018,7 +13047,7 @@
       <RelatedArticleNum>（第４５条の９関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_048.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_049.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13027,7 +13056,7 @@
       <RelatedArticleNum>（第４５条の１０関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_049.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_050.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13036,7 +13065,7 @@
       <RelatedArticleNum>（第４５条の１０関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_050.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_051.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13045,7 +13074,7 @@
       <RelatedArticleNum>（第４５条の１１関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_051.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_052.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13054,7 +13083,7 @@
       <RelatedArticleNum>（第４５条の１３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_052.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_053.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13063,7 +13092,7 @@
       <RelatedArticleNum>（第４５条の１４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_053.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_054.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13072,7 +13101,7 @@
       <RelatedArticleNum>（第４５条の１４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_054.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_055.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13081,7 +13110,7 @@
       <RelatedArticleNum>（第４５条の１９関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_055.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_056.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13090,7 +13119,7 @@
       <RelatedArticleNum>（第４５条の１９関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_056.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_057.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13099,7 +13128,7 @@
       <RelatedArticleNum>（第４５条の２０関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_057.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_058.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13108,7 +13137,7 @@
       <RelatedArticleNum>（第４５条の２１関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_058.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_059.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13117,7 +13146,7 @@
       <RelatedArticleNum>（第４５条の２１関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_059.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_060.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13126,7 +13155,7 @@
       <RelatedArticleNum>（第４５条の２３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_060.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_061.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13135,7 +13164,7 @@
       <RelatedArticleNum>（第４５条の２５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_061.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_062.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13144,7 +13173,7 @@
       <RelatedArticleNum>（第４５条の２６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_062.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_063.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13153,7 +13182,7 @@
       <RelatedArticleNum>（第４５条の２８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_063.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_064.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13162,7 +13191,7 @@
       <RelatedArticleNum>（第４５条の２８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_064.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_065.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13171,7 +13200,7 @@
       <RelatedArticleNum>（第４５条の２８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_065.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_066.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13180,7 +13209,7 @@
       <RelatedArticleNum>（第４５条の２８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_066.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_067.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13189,7 +13218,7 @@
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_067.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_068.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13198,7 +13227,7 @@
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_068.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_069.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13207,7 +13236,7 @@
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_069.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_070.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13216,7 +13245,7 @@
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_070.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_071.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13225,7 +13254,7 @@
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_071.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_072.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13234,7 +13263,7 @@
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_072.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_073.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13243,7 +13272,7 @@
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_073.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_074.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13252,7 +13281,7 @@
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_074.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_075.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13261,7 +13290,7 @@
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_075.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_076.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13270,7 +13299,7 @@
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_076.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_077.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13279,7 +13308,7 @@
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_077.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_078.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13288,7 +13317,7 @@
       <RelatedArticleNum>（第４６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_078.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_079.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13297,7 +13326,7 @@
       <RelatedArticleNum>（第４７条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_079.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_080.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13306,7 +13335,7 @@
       <RelatedArticleNum>（第４７条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_080.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_081.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13315,7 +13344,7 @@
       <RelatedArticleNum>（第５１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_081.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_082.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13324,7 +13353,7 @@
       <RelatedArticleNum>（第５１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_082.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_083.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13333,7 +13362,7 @@
       <RelatedArticleNum>（第５３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_083.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_084.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13342,7 +13371,7 @@
       <RelatedArticleNum>（第５３条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_084.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_085.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13351,7 +13380,7 @@
       <RelatedArticleNum>（第５４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_085.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_086.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13360,7 +13389,7 @@
       <RelatedArticleNum>（第５５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_086.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_087.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13369,7 +13398,7 @@
       <RelatedArticleNum>（第６１条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_087.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_088.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13378,7 +13407,7 @@
       <RelatedArticleNum>（第６１条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_088.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_089.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13387,7 +13416,7 @@
       <RelatedArticleNum>（第６１条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_089.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_090.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13396,7 +13425,7 @@
       <RelatedArticleNum>（第６１条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_090.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_091.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13405,7 +13434,7 @@
       <RelatedArticleNum>（第６１条の９関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_091.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_092.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13414,7 +13443,7 @@
       <RelatedArticleNum>（第６３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_092.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_093.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13423,7 +13452,7 @@
       <RelatedArticleNum>（第６４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_093.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_094.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13432,7 +13461,7 @@
       <RelatedArticleNum>（第６６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_094.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_095.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13441,7 +13470,7 @@
       <RelatedArticleNum>（第７１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_095.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_096.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13450,7 +13479,7 @@
       <RelatedArticleNum>（第７２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_096.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_097.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13462,7 +13491,7 @@
       <RelatedArticleNum>（第７３条の７関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_097.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_098.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13471,7 +13500,7 @@
       <RelatedArticleNum>（第７８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_098.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_099.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13495,7 +13524,7 @@
       <RelatedArticleNum>（第８８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_099.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_100.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13507,7 +13536,7 @@
       <RelatedArticleNum>（第９４条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_100.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_101.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13516,7 +13545,7 @@
       <RelatedArticleNum>（第９４条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_101.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_102.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13525,7 +13554,7 @@
       <RelatedArticleNum>（第９５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_102.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_103.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13534,7 +13563,7 @@
       <RelatedArticleNum>（第９５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_103.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_104.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13543,7 +13572,7 @@
       <RelatedArticleNum>（第９５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_104.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_105.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13552,7 +13581,7 @@
       <RelatedArticleNum>（第９７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_105.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_106.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13561,7 +13590,7 @@
       <RelatedArticleNum>（第９７条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_106.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_107.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13570,7 +13599,7 @@
       <RelatedArticleNum>（第９８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_107.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_108.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13579,7 +13608,7 @@
       <RelatedArticleNum>（第９８条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_108.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_109.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13588,7 +13617,7 @@
       <RelatedArticleNum>（第９９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_109.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_110.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13597,7 +13626,7 @@
       <RelatedArticleNum>（第１０４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_110.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_111.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13606,7 +13635,7 @@
       <RelatedArticleNum>（第１０４条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_111.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_112.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13615,7 +13644,7 @@
       <RelatedArticleNum>（第１０４条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_112.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_113.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13624,7 +13653,7 @@
       <RelatedArticleNum>（第１０４条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_113.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_114.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13633,7 +13662,7 @@
       <RelatedArticleNum>（第１０４条の５関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_114.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_115.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13642,24 +13671,34 @@
       <RelatedArticleNum>（第１０４条の６関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_115.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_116.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第６９</AppdxStyleTitle>
       <RelatedArticleNum>（第１０８条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H07F03801000077_2010301910_117.jpg"/>
+        </Style>
+      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第７０</AppdxStyleTitle>
       <RelatedArticleNum>（第１１４条及び第１２０条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H07F03801000077_2010301910_118.jpg"/>
+        </Style>
+      </StyleStruct>
     </AppdxStyle>
     <AppdxStyle>
       <AppdxStyleTitle>様式第７１</AppdxStyleTitle>
       <RelatedArticleNum>（第１１５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_116.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_119.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13668,7 +13707,7 @@
       <RelatedArticleNum>（第１１５条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_117.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_120.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13677,7 +13716,7 @@
       <RelatedArticleNum>（第１１６条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_118.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_121.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13695,7 +13734,7 @@
       <RelatedArticleNum>（第１１９条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_119.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_122.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13704,7 +13743,7 @@
       <RelatedArticleNum>（第１２２条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_120.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_123.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13713,7 +13752,7 @@
       <RelatedArticleNum>（第１２２条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_121.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_124.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13722,7 +13761,7 @@
       <RelatedArticleNum>（第１２２条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_122.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_125.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13731,7 +13770,7 @@
       <RelatedArticleNum>（第１２２条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_123.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_126.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13740,7 +13779,7 @@
       <RelatedArticleNum>（第１２２条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_124.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_127.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13749,7 +13788,7 @@
       <RelatedArticleNum>（第１２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_125.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_128.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13758,7 +13797,7 @@
       <RelatedArticleNum>（第１２３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_126.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_129.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13767,7 +13806,7 @@
       <RelatedArticleNum>（第１２４条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_127.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_130.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13776,7 +13815,7 @@
       <RelatedArticleNum>（第１２７条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_128.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_131.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13791,7 +13830,7 @@
       <RelatedArticleNum>（第１３０条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_129.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_132.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13800,7 +13839,7 @@
       <RelatedArticleNum>（第１３１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_130.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_133.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13809,7 +13848,7 @@
       <RelatedArticleNum>（第１３１条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_131.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_134.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13818,7 +13857,7 @@
       <RelatedArticleNum>（第１３２条の２関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_132.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_135.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13827,7 +13866,7 @@
       <RelatedArticleNum>（第１３２条の３関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_133.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_136.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13836,7 +13875,7 @@
       <RelatedArticleNum>（第１３２条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_134.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_137.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13845,7 +13884,7 @@
       <RelatedArticleNum>（第１３２条の４関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_135.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_138.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13854,7 +13893,7 @@
       <RelatedArticleNum>（第１３２条の８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_136.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_139.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13863,7 +13902,7 @@
       <RelatedArticleNum>（第１３２条の８関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_137.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_140.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13872,7 +13911,7 @@
       <RelatedArticleNum>（第１３２条の１０関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_138.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_141.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13881,7 +13920,7 @@
       <RelatedArticleNum>（第１３２条の１１関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_139.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_142.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13890,7 +13929,7 @@
       <RelatedArticleNum>（第１３３条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H07F03801000077_2010221510_140.pdf"/>
+          <Fig src="./pict/H07F03801000077_2010301910_143.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -13994,8 +14033,7 @@
               <Sentence>一　水力発電所</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14122,8 +14160,7 @@
               <Sentence>二　火力発電所（地熱を利用するものを除く。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14276,8 +14313,7 @@
               <Sentence>三　火力発電所（地熱を利用するものに限る。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14419,8 +14455,7 @@
               <Sentence>四　風力発電所</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14592,17 +14627,15 @@
               <Sentence>二　変更の工事</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（一）発電設備の設置</Sentence>
+              <Sentence>（一）　発電設備の設置</Sentence>
             </TableColumn>
             <TableColumn>
               <Sentence>出力二十キロワット以上の発電設備の設置であって、次に掲げるもの以外のもの</Sentence>
@@ -14628,21 +14661,18 @@
           </TableRow>
           <TableRow>
             <TableColumn rowspan="19">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>（二）発電設備の設置の工事以外の変更の工事であって、次の設備に係るもの</Sentence>
+              <Sentence>（二）　発電設備の設置の工事以外の変更の工事であって、次の設備に係るもの</Sentence>
               <Sentence>１　原動力設備</Sentence>
               <Sentence>（１）　水力設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14650,8 +14680,7 @@
               <Sentence>イ　ダム</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　ダムの設置</Sentence>
@@ -14665,8 +14694,7 @@
               <Sentence>ロ　取水設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力三万キロワット以上の発電設備に係る取水設備の設置</Sentence>
@@ -14678,8 +14706,7 @@
               <Sentence>ハ　沈砂池</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>出力三万キロワット以上の発電設備に係る沈砂池の設置</Sentence>
@@ -14690,8 +14717,7 @@
               <Sentence>ニ　導水路</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力三万キロワット以上の発電設備に係る導水路の設置及び延長</Sentence>
@@ -14707,8 +14733,7 @@
               <Sentence>ホ　放水路</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力三万キロワット以上の発電設備に係る放水路の設置及び延長</Sentence>
@@ -14722,8 +14747,7 @@
               <Sentence>ヘ　ヘッドタンク</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>出力三万キロワット以上の発電設備に係るヘッドタンクの設置</Sentence>
@@ -14734,8 +14758,7 @@
               <Sentence>ト　サージタンク</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>出力三万キロワット以上の発電設備に係るサージタンクの設置</Sentence>
@@ -14746,8 +14769,7 @@
               <Sentence>チ　水圧管路</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力三万キロワット以上の発電設備に係る水圧管路の設置及び延長</Sentence>
@@ -14761,8 +14783,7 @@
               <Sentence>リ　水車</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力三万キロワット以上の発電設備に係る水車の設置</Sentence>
@@ -14774,8 +14795,7 @@
               <Sentence>ヌ　揚水式発電設備に係る揚水用のポンプ</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力三万キロワット以上の揚水式発電設備に係る揚水用のポンプの設置</Sentence>
@@ -14787,8 +14807,7 @@
               <Sentence>ル　貯水池又は調整池</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　貯水池又は調整池の設置</Sentence>
@@ -14801,12 +14820,10 @@
               <Sentence>（２）　火力設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14814,8 +14831,7 @@
               <Sentence>イ　蒸気タービン</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力千キロワット以上の発電設備に係る蒸気タービンの設置</Sentence>
@@ -14831,8 +14847,7 @@
               <Sentence>ロ　ボイラー若しくは独立過熱器（バーナーを含む。以下同じ。）又は蒸気貯蔵器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　発電設備に係るボイラー、独立過熱器又は蒸気貯蔵器の設置</Sentence>
@@ -14849,8 +14864,7 @@
               <Sentence>ハ　蒸気井</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>設置</Sentence>
@@ -14861,8 +14875,7 @@
               <Sentence>ニ　ガスタービン（空気圧縮機、ガス発生機及び燃焼器を含む。以下同じ。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力千キロワット以上の発電設備に係るガスタービンの設置</Sentence>
@@ -14879,8 +14892,7 @@
               <Sentence>ホ　内燃機関</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>出力一万キロワット以上の発電設備に係る内燃機関の設置又は取替え</Sentence>
@@ -14891,8 +14903,7 @@
               <Sentence>ヘ　燃料設備（内燃力発電設備に係るものを除く。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力千キロワット以上の発電設備に係る燃料設備の設置</Sentence>
@@ -14902,16 +14913,13 @@
           </TableRow>
           <TableRow>
             <TableColumn rowspan="5">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>（２）　液化ガス用燃料設備に属するものであって、ガス・液化ガス用容器若しくは配管の最高使用圧力、最高使用温度若しくは最低使用温度（通常の使用状態の温度が零度以下のものに限る。以下別表第二及び別表第三において同じ。）又は導管の最高使用圧力の変更を伴うもの</Sentence>
@@ -14932,8 +14940,7 @@
               <Sentence>ト　液化ガス設備（液化ガス用燃料設備を除く。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力千キロワット以上の発電設備に係る液化ガス設備の設置</Sentence>
@@ -14953,8 +14960,7 @@
               <Sentence>チ　ガス化炉設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　発電設備に係るガス化炉設備の設置</Sentence>
@@ -14974,8 +14980,7 @@
               <Sentence>リ　脱水素設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　発電設備に係る脱水素設備（水素化合物から触媒反応によって水素を製造する設備をいう。以下別表第二及び別表第三において同じ。）の設置</Sentence>
@@ -14994,8 +14999,7 @@
               <Sentence>ヌ　汽力、ガスタービン及び内燃力以外を原動力とする火力設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　設置</Sentence>
@@ -15007,15 +15011,13 @@
           </TableRow>
           <TableRow>
             <TableColumn rowspan="2">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>（３）　燃料電池設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力五百キロワット以上の燃料電池設備の設置</Sentence>
@@ -15039,8 +15041,7 @@
               <Sentence>太陽電池</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力二千キロワット以上の太陽電池の設置</Sentence>
@@ -15053,16 +15054,14 @@
           </TableRow>
           <TableRow>
             <TableColumn rowspan="14">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>（５）　風力設備</Sentence>
               <Sentence>風力機関</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力五百キロワット以上の発電設備に係る風力機関の設置</Sentence>
@@ -15081,12 +15080,10 @@
               <Sentence>２　電気設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15129,8 +15126,7 @@
               <Sentence>（３）　電圧調整器又は電圧位相調整器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　送電電圧十七万ボルト以上の発電所に係る容量一万キロボルトアンペア以上の電圧調整器又は電圧位相調整器の設置</Sentence>
@@ -15143,8 +15139,7 @@
               <Sentence>（４）　調相機</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　送電電圧十七万ボルト以上の発電所に係る容量二万キロボルトアンペア以上の調相機の設置</Sentence>
@@ -15157,8 +15152,7 @@
               <Sentence>（５）　電力用コンデンサー</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　送電電圧十七万ボルト以上の発電所に係る容量一万キロボルトアンペア以上の群の設置</Sentence>
@@ -15171,8 +15165,7 @@
               <Sentence>（６）　分路リアクトル又は限流リアクトル</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　送電電圧十七万ボルト以上の発電所に係る容量一万キロボルトアンペア以上の分路リアクトル又は限流リアクトルの設置</Sentence>
@@ -15185,8 +15178,7 @@
               <Sentence>（７）　周波数変換機器又は整流機器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　容量十五万キロボルトアンペア以上又は出力十五万キロワット以上の周波数変換機器又は整流機器の設置</Sentence>
@@ -15215,8 +15207,7 @@
               <Sentence>（９）　逆変換装置</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>燃料電池発電所における出力五百キロワット以上の発電設備、太陽電池発電所における出力二千キロワット以上の発電設備又は風力発電所における出力五百キロワット以上の発電設備に係る逆変換装置の設置、取替え又は改造であって二十パーセント以上の電圧若しくは出力の変更を伴うもの</Sentence>
@@ -15227,8 +15218,7 @@
               <Sentence>（１０）　電力貯蔵装置</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　（一）下欄の発電設備に係る容量八万キロワットアワー以上の電力貯蔵装置の設置</Sentence>
@@ -15240,12 +15230,10 @@
               <Sentence>３　附帯設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15253,8 +15241,7 @@
               <Sentence>（１）　発電所の運転を管理するための制御装置</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>水力発電所、出力千キロワット未満（内燃力を原動力とするものにあっては一万キロワット未満）の火力発電所、出力五百キロワット未満の燃料電池発電所、出力二千キロワット未満の太陽電池発電所又は出力五百キロワット未満の風力発電所以外の発電所に係る制御装置の改造であって、制御方式の変更を伴うもの</Sentence>
@@ -15268,8 +15255,7 @@
               <Sentence>一　設置の工事</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>電圧十七万ボルト以上（構内以外の場所から伝送される電気を変成するために設置する変圧器その他の電気工作物の総合体であって、構内以外の場所に伝送するためのもの以外のもの（以下「受電所」という。）にあっては十万ボルト以上）の変電所の設置</Sentence>
@@ -15277,28 +15263,24 @@
           </TableRow>
           <TableRow>
             <TableColumn rowspan="9">
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>二　変更の工事であって、次の設備に係るもの</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（一）変圧器</Sentence>
+              <Sentence>（一）　変圧器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　電圧十七万ボルト以上であって、容量十万キロボルトアンペア以上（受電所にあっては、電圧十万ボルト以上であって、容量一万キロボルトアンペア以上）の変圧器の設置</Sentence>
@@ -15310,11 +15292,10 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（二）電圧調整器又は電圧位相調整器</Sentence>
+              <Sentence>（二）　電圧調整器又は電圧位相調整器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量一万キロボルトアンペア以上の電圧調整器又は電圧位相調整器の設置</Sentence>
@@ -15324,11 +15305,10 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（三）調相機</Sentence>
+              <Sentence>（三）　調相機</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　電圧十七万ボルト以上の変電所に係る容量二万キロボルトアンペア以上の調相機（受電所にあっては、電圧十万ボルト以上の変電所に係る容量一万キロボルトアンペア以上の調相機）の設置</Sentence>
@@ -15338,11 +15318,10 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（四）電力用コンデンサー</Sentence>
+              <Sentence>（四）　電力用コンデンサー</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量一万キロボルトアンペア以上の群の設置</Sentence>
@@ -15352,11 +15331,10 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（五）分路リアクトル又は限流リアクトル</Sentence>
+              <Sentence>（五）　分路リアクトル又は限流リアクトル</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量一万キロボルトアンペア以上の分路リアクトル又は限流リアクトルの設置</Sentence>
@@ -15366,11 +15344,10 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（六）周波数変換機器又は整流機器（鉄道営業法、軌道法又は鉄道事業法が適用され又は準用される変電所の直流き電側のものを除く。）</Sentence>
+              <Sentence>（六）　周波数変換機器又は整流機器（鉄道営業法、軌道法又は鉄道事業法が適用され又は準用される変電所の直流き電側のものを除く。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　容量十五万キロボルトアンペア以上又は出力十五万キロワット以上（受電所にあっては、容量十万キロボルトアンペア以上又は出力十万キロワット以上）の周波数変換機器又は整流機器の設置</Sentence>
@@ -15380,11 +15357,10 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（七）遮断器</Sentence>
+              <Sentence>（七）　遮断器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）であって、電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）のものの設置（ガス遮断器又はガス遮断器以外の遮断器に替え、ガス遮断器を設置する場合を除く。）</Sentence>
@@ -15395,11 +15371,10 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（八）電力貯蔵装置</Sentence>
+              <Sentence>（八）　電力貯蔵装置</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　電圧十七万ボルト以上（受電所にあっては、電圧十万ボルト以上）の変電所に係る容量八万キロワットアワー以上の電力貯蔵装置の設置</Sentence>
@@ -15414,8 +15389,7 @@
               <Sentence>一　設置の工事</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>電圧十七万ボルト以上の送電線路又は電圧十七万ボルト以上の電気鉄道用送電線路（鉄道営業法、軌道法又は鉄道事業法が適用され又は準用される送電線路であって、電気鉄道の専用敷地内に設置されるものをいう。以下同じ。）の設置</Sentence>
@@ -15426,21 +15400,18 @@
               <Sentence>二　変更の工事であって、次の設備に係るもの</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（一）電線路（電線路と一体的に工事が行われる送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）を含む。以下この項において同じ。）</Sentence>
+              <Sentence>（一）　電線路（電線路と一体的に工事が行われる送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）を含む。以下この項において同じ。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　電圧十七万ボルト以上の電線路又は電気鉄道用送電線路に属する電圧十七万ボルト以上の電線路の一キロメートル以上の延長</Sentence>
@@ -15458,11 +15429,10 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（二）開閉所</Sentence>
+              <Sentence>（二）　開閉所</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　電圧十七万ボルト以上の開閉所の設置</Sentence>
@@ -15472,16 +15442,13 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>（２）　送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）の設置（ガス遮断器又はガス遮断器以外の遮断器に替え、ガス遮断器を設置する場合を除く。）</Sentence>
@@ -15499,8 +15466,7 @@
               <Sentence>一　設置の工事</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>受電電圧一万ボルト以上の需要設備の設置</Sentence>
@@ -15511,21 +15477,18 @@
               <Sentence>二　変更の工事であって、次の設備に係るもの</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（一）遮断器</Sentence>
+              <Sentence>（一）　遮断器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　他の者が設置する電気工作物と電気的に接続するための遮断器（受電電圧一万ボルト以上の需要設備に属するものに限る。）であって、電圧一万ボルト以上のものの設置</Sentence>
@@ -15535,11 +15498,10 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（二）電力貯蔵装置</Sentence>
+              <Sentence>（二）　電力貯蔵装置</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　受電電圧一万ボルト以上の需要設備に属する電力貯蔵装置であって、容量八万キロワットアワー以上のものの設置</Sentence>
@@ -15548,11 +15510,10 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（三）（一）及び（二）の機器以外の機器（計器用変成器を除く。）</Sentence>
+              <Sentence>（三）　（一）及び（二）の機器以外の機器（計器用変成器を除く。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　電圧一万ボルト以上の機器であって、容量一万キロボルトアンペア以上又は出力一万キロワット以上のものの設置</Sentence>
@@ -15562,11 +15523,10 @@
           </TableRow>
           <TableRow>
             <TableColumn>
-              <Sentence>（四）電線路</Sentence>
+              <Sentence>（四）　電線路</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　電圧五万ボルト以上の電線路の設置</Sentence>
@@ -15621,8 +15581,7 @@
               <Sentence>５　環境影響評価法第二条第三項に規定する第二種事業（特定対象事業を除く。）に係るものにあっては、同法第四条第三項第二号（同条第四項及び同法第二十九条第二項において準用する場合を含む。）の措置がとられたものである旨</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>送電関係一覧図</Sentence>
@@ -15648,12 +15607,10 @@
               <Sentence>（一）　水力設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>流量資料</Sentence>
@@ -15668,8 +15625,7 @@
               <Sentence>１　ダム</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、高さ、余裕高、頂長、頂幅、越流頂標高、越流幅及び越流水深</Sentence>
@@ -15703,8 +15659,7 @@
               <Sentence>２　取水設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　取水する河川又は湖沼の名称及び取水地点の位置（都道府県郡市区町村字番地を記載すること。）</Sentence>
@@ -15713,8 +15668,7 @@
               <Sentence>４　制水門の種類及び主要寸法</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15722,15 +15676,13 @@
               <Sentence>３　沈砂池</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>主要寸法</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15738,8 +15690,7 @@
               <Sentence>４　導水路</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　こう長（本水路及び支水路の別並びにトンネル、暗きょ、開きょ、水路橋、サイホン及びその他の別に記載すること。）及び圧力</Sentence>
@@ -15758,8 +15709,7 @@
               <Sentence>５　放水路</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　放水する河川又は湖沼の名称及び放水地点の位置（都道府県郡市区町村字番地を記載すること。）</Sentence>
@@ -15778,16 +15728,14 @@
               <Sentence>６　ヘッドタンク又はサージタンク</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類及び圧力</Sentence>
               <Sentence>２　水槽の主要寸法</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15795,8 +15743,7 @@
               <Sentence>７　水圧管路</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　圧力</Sentence>
@@ -15814,8 +15761,7 @@
               <Sentence>８　水車</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、出力、回転速度並びにポンプ水車にあっては揚水量、揚程及び入力</Sentence>
@@ -15825,8 +15771,7 @@
               <Sentence>５　ポンプ水車の場合は、駆動装置の種類及び出力</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15834,8 +15779,7 @@
               <Sentence>９　揚水式発電所における揚水用のポンプ</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、揚水量、揚程、入力及び回転速度</Sentence>
@@ -15843,8 +15787,7 @@
               <Sentence>３　駆動装置の種類及び出力</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15852,8 +15795,7 @@
               <Sentence>１０　貯水池又は調整池</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>全容量、有効容量、サーチャージ容量、利用水深、常時満水位、最低水位、設計洪水位、サーチャージ水位、制限水位及びたん水面積</Sentence>
@@ -15870,16 +15812,13 @@
               <Sentence>（二）　火力設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15887,8 +15826,7 @@
               <Sentence>１　蒸気タービン</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、出力、主蒸気止め弁の入口の圧力及び温度、回転速度並びに被動機一体の危険速度</Sentence>
@@ -15915,8 +15853,7 @@
               <Sentence>２　ボイラー</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、最大蒸発量、最高使用圧力、最高使用温度、排出ガス量、ばい煙量、ばい煙濃度及び伝熱面積</Sentence>
@@ -15964,8 +15901,7 @@
               <Sentence>３　独立過熱器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、最大通過蒸気量、最高使用圧力、最高使用温度及び伝熱面積</Sentence>
@@ -15996,8 +15932,7 @@
               <Sentence>４　蒸気貯蔵器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、容量、最高使用圧力及び使用圧力の範囲</Sentence>
@@ -16019,8 +15954,7 @@
               <Sentence>５　蒸気井</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　孔径、深さ並びに噴出蒸気の圧力、温度及び量</Sentence>
@@ -16043,8 +15977,7 @@
               <Sentence>６　ガスタービン（空気圧縮機、ガス発生機、燃焼器を含む。以下同じ。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、出力、入口及び出口の圧力及び温度、設計外気温度、回転速度、被動機一体の危険速度、排出ガス量、ばい煙量並びにばい煙濃度</Sentence>
@@ -16077,8 +16010,7 @@
               <Sentence>７　内燃機関</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、出力、回転速度、燃料の種類、発熱量、硫黄分、窒素分、灰分及び使用量、排出ガス量、ばい煙量並びにばい煙濃度</Sentence>
@@ -16103,8 +16035,7 @@
               <Sentence>８　燃料設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　燃料運搬設備に係る次の事項</Sentence>
@@ -16155,8 +16086,7 @@
               <Sentence>９　ばい煙処理設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　ばい煙処理設備に係る次の事項</Sentence>
@@ -16174,8 +16104,7 @@
               <Sentence>１０　液化ガス設備（液化ガス用燃料設備を除く。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　液化ガス用気化器の種類、能力、加熱用熱源の種類及び容量、出口の圧力及び温度、最高使用圧力（一次側及び二次側の別に記載すること。）、最高使用温度（一次側及び二次側の別に記載すること。）及び最低使用温度（一次側及び二次側の別に記載すること。）、主要寸法、材料及び個数並びに当該液化ガス用気化器の安全弁の種類、吹出圧力、吹出量、個数及び取付箇所</Sentence>
@@ -16199,8 +16128,7 @@
               <Sentence>１１　ガス化炉設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　ガス化炉に係る次の事項</Sentence>
@@ -16239,8 +16167,7 @@
               <Sentence>１２　脱水素設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　脱水素設備（蒸発器を除く。）に係る次の事項</Sentence>
@@ -16270,8 +16197,7 @@
               <Sentence>１３　汽力、ガスタービン及び内燃力以外を原動力とする火力設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、出力、最高使用圧力、最高使用温度、最低使用温度、ばい煙量及びばい煙濃度</Sentence>
@@ -16296,8 +16222,7 @@
               <Sentence>（三）　燃料電池設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　燃料電池の種類、出力、電圧、電流、冷却法、台数及び保護継電装置の種類</Sentence>
@@ -16331,8 +16256,7 @@
               <Sentence>太陽電池</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>種類、出力、開放電圧、短絡電流及びモジュールの個数</Sentence>
@@ -16348,8 +16272,7 @@
               <Sentence>風力機関</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、出力、回転速度及び台数</Sentence>
@@ -16369,12 +16292,10 @@
               <Sentence>（六）　電気設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>電磁誘導電圧計算書（電圧十七万ボルト以上の電力系統に係る中性点接地装置の工事を含む場合に限る。）</Sentence>
@@ -16385,8 +16306,7 @@
               <Sentence>１　発電機</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、容量、力率、電圧、相、周波数、回転速度、結線法及び冷却法並びに発電電動機の場合は、出力</Sentence>
@@ -16403,8 +16323,7 @@
               <Sentence>２　変圧器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>第二号（一）の中欄に準ずるもの</Sentence>
@@ -16418,8 +16337,7 @@
               <Sentence>３　電圧調整器又は電圧位相調整器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>第二号（二）の中欄に準ずるもの</Sentence>
@@ -16433,8 +16351,7 @@
               <Sentence>４　調相機</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>第二号（三）の中欄に準ずるもの</Sentence>
@@ -16448,8 +16365,7 @@
               <Sentence>５　電力用コンデンサー</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>第二号（四）の中欄に準ずるもの</Sentence>
@@ -16463,8 +16379,7 @@
               <Sentence>６　分路リアクトル又は限流リアクトル</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>第二号（五）の中欄に準ずるもの</Sentence>
@@ -16478,8 +16393,7 @@
               <Sentence>７　周波数変換機器又は整流機器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>第二号（六）の中欄に準ずるもの</Sentence>
@@ -16493,8 +16407,7 @@
               <Sentence>８　遮断器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>第二号（七）の中欄に準ずるもの</Sentence>
@@ -16508,8 +16421,7 @@
               <Sentence>９　逆変換装置</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、容量、電圧、電流、相、周波数、結線法及び個数</Sentence>
@@ -16524,8 +16436,7 @@
               <Sentence>１０　電力貯蔵装置</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、容量、主要寸法、電圧、電流、個数及び用途</Sentence>
@@ -16541,16 +16452,13 @@
               <Sentence>（七）　附帯設備</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -16558,8 +16466,7 @@
               <Sentence>１　発電所の運転を管理するための制御装置</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>制御方式</Sentence>
@@ -16577,8 +16484,7 @@
               <Sentence>２　変電所の出力及び周波数</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>送電関係一覧図</Sentence>
@@ -16595,8 +16501,7 @@
               <Sentence>（一）　変圧器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、容量、電圧（一次、二次及び三次の別に記載し、電圧調整装置を有するものの場合は、電圧調整範囲及びタップ数を付記すること。）、相、周波数、結線法、冷却法並びに電気事業の用に供するものにあっては、常用及び予備の別</Sentence>
@@ -16611,8 +16516,7 @@
               <Sentence>（二）　電圧調整器又は電圧位相調整器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、容量、電圧（電圧調整範囲及びタップ数を付記すること。）、相、周波数、結線法及び冷却法</Sentence>
@@ -16627,8 +16531,7 @@
               <Sentence>（三）　調相機</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、容量（進相及び遅相の別に記載すること。）、電圧、周波数、回転速度及び冷却法</Sentence>
@@ -16645,8 +16548,7 @@
               <Sentence>（四）　電力用コンデンサー</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　並列用及び直列用の別、一群の容量、一群当たりの個数、電圧並びに結線法</Sentence>
@@ -16661,8 +16563,7 @@
               <Sentence>（五）　分路リアクトル又は限流リアクトル</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　容量、電圧、相、周波数、結線法及び冷却法</Sentence>
@@ -16677,8 +16578,7 @@
               <Sentence>（六）　周波数変換機器又は整流機器（鉄道営業法、軌道法又は鉄道事業法が適用され又は準用される変電所の直流き電側のものを除く。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、容量又は出力、電圧、電流、相、周波数、回転速度、結線法及び励磁法</Sentence>
@@ -16694,8 +16594,7 @@
               <Sentence>（七）　遮断器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、電圧、電流、遮断電流及び遮断時間</Sentence>
@@ -16710,8 +16609,7 @@
               <Sentence>（八）　電力貯蔵装置</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、容量、主要寸法、電圧、電流、個数及び用途</Sentence>
@@ -16727,8 +16625,7 @@
               <Sentence>（九）　変電所の運転を管理するための制御装置</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>第一号（七）１の中欄に準ずるもの</Sentence>
@@ -16746,8 +16643,7 @@
               <Sentence>２　送電線路の電圧（設計電圧と異なる場合は、設計電圧を付記すること。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>送電関係一覧図</Sentence>
@@ -16763,8 +16659,7 @@
               <Sentence>（一）　電線路（電線路と一体的に工事が行われる送電線引出口の遮断器（需要設備と電気的に接続するためのものを除く。）を含む。以下この項において同じ。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　こう長（架空、地中、水底及びその他の別に記載すること。）</Sentence>
@@ -16793,8 +16688,7 @@
               <Sentence>（二）　開閉所</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　開閉所の位置（都道府県郡市区町村字を記載すること。）</Sentence>
@@ -16815,8 +16709,7 @@
               <Sentence>３　需要設備に直接電気を供給する発電所又は変電所の名称</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>主要設備の配置の状況及び受電点の位置を明示した平面図及び断面図</Sentence>
@@ -16830,8 +16723,7 @@
               <Sentence>（一）　遮断器</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>第二号（七）の中欄に準ずるもの</Sentence>
@@ -16845,8 +16737,7 @@
               <Sentence>（二）　電力貯蔵装置</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　種類、容量、主要寸法、電圧、電流、個数及び用途</Sentence>
@@ -16862,8 +16753,7 @@
               <Sentence>（三）　（一）及び（二）の機器以外の機器（計器用変成器を除く。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>電圧一万ボルト以上の機器に係る次の事項</Sentence>
@@ -16879,8 +16769,7 @@
               <Sentence>（四）　電線路</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>電圧一万ボルト以上の電線路に係る次の事項</Sentence>
@@ -17060,12 +16949,10 @@
               <Sentence>事業場の名称及び位置</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -17073,8 +16960,7 @@
               <Sentence>（一）　ばい煙発生施設</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　ばい煙発生施設の種類、出力又は能力及び個数</Sentence>
@@ -17091,8 +16977,7 @@
               <Sentence>（二）　ばい煙処理施設</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　ばい煙処理設備に係る次の事項</Sentence>
@@ -17112,8 +16997,7 @@
               <Sentence>（三）　粉じん発生施設</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　運炭機又は灰じん輸送装置の種類、容量及び個数</Sentence>
@@ -17130,8 +17014,7 @@
               <Sentence>（四）　水銀排出施設</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　水銀排出施設の種類、容量及び個数</Sentence>
@@ -17145,8 +17028,7 @@
               <Sentence>（五）　ダイオキシン類対策特別措置法第二条第二項に規定する特定施設</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　廃棄物焼却炉に係る次の事項</Sentence>
@@ -17164,8 +17046,7 @@
               <Sentence>（六）　水質汚濁防止法第二条第二項に規定する特定施設</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　廃ガス洗浄施設の種類、容量、個数並びに用水及び排水の系統</Sentence>
@@ -17179,8 +17060,7 @@
               <Sentence>（七）　水質汚濁防止法第五条第三項に規定する有害物質貯蔵指定施設</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　有害物質貯蔵指定施設の種類、容量及び個数並びにその施設において貯蔵される有害物質に係る搬入及び搬出の系統</Sentence>
@@ -17194,8 +17074,7 @@
               <Sentence>（八）　騒音発生施設</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　空気圧縮機、送風機、通風機、破砕機、粉砕機、摩砕機、ふるい又は分級機の種類、容量及び個数</Sentence>
@@ -17210,8 +17089,7 @@
               <Sentence>（九）　振動発生施設</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　圧縮機、破砕機、粉砕機、摩砕機、ふるい又は分級機の種類、容量及び個数</Sentence>
@@ -17226,8 +17104,7 @@
               <Sentence>（十）　鉱山に属する工作物（海域にあり、定置式のものに限る。）に設置する電気工作物（内燃機関であって、ディーゼル発電機に限る。）</Sentence>
             </TableColumn>
             <TableColumn>
-              <Sentence>
-              </Sentence>
+              <Sentence/>
             </TableColumn>
             <TableColumn>
               <Sentence>１　出力又は能力及び個数</Sentence>
@@ -17351,7 +17228,7 @@
         <Subitem1 Num="1">
           <Subitem1Title>一</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence>発電設備の設置</Sentence>
+            <Sentence>出力五百キロワット以上二千キロワット未満の発電設備の設置</Sentence>
           </Subitem1Sentence>
         </Subitem1>
         <Subitem1 Num="2">
@@ -17362,19 +17239,19 @@
           <Subitem2 Num="1">
             <Subitem2Title>（１）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>太陽電池の設置</Sentence>
+              <Sentence>出力五百キロワット以上二千キロワット未満の太陽電池の設置</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="2">
             <Subitem2Title>（２）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>太陽電池の取替え</Sentence>
+              <Sentence>出力五百キロワット以上二千キロワット未満の太陽電池の取替え</Sentence>
             </Subitem2Sentence>
           </Subitem2>
           <Subitem2 Num="3">
             <Subitem2Title>（３）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>太陽電池の改造であって次に掲げるもの</Sentence>
+              <Sentence>出力五百キロワット以上二千キロワット未満の太陽電池の改造であって次に掲げるもの</Sentence>
             </Subitem2Sentence>
             <Subitem3 Num="1">
               <Subitem3Title>イ</Subitem3Title>
@@ -17392,7 +17269,7 @@
           <Subitem2 Num="4">
             <Subitem2Title>（４）</Subitem2Title>
             <Subitem2Sentence>
-              <Sentence>太陽電池の修理であって、支持物の強度に影響を及ぼすもの</Sentence>
+              <Sentence>出力五百キロワット以上二千キロワット未満の太陽電池の修理であって、支持物の強度に影響を及ぼすもの</Sentence>
             </Subitem2Sentence>
           </Subitem2>
         </Subitem1>

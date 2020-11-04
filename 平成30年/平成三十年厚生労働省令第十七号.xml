@@ -2844,7 +2844,7 @@
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">認定臨床研究審査委員会は、法第二十三条第一項第一号に規定する業務を行う場合であって、災害その他やむを得ない事由があり、かつ、保健衛生上の危害の発生若しくは拡大の防止又は臨床研究の対象者（臨床研究の対象者となるべき者を含む。）の保護の観点から、緊急に実施計画を提出し、又は変更する必要がある場合には、第一項及び第八十二条の規定にかかわらず、書面により審査意見業務を行い、結論を得ることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">認定臨床研究審査委員会は、法第二十三条第一項第一号に規定する業務を行う場合であって、災害その他やむを得ない事由があり、かつ、保健衛生上の危害の発生若しくは拡大の防止又は臨床研究の対象者（臨床研究の対象者となるべき者を含む。）の保護の観点から、緊急に実施計画を提出し、又は変更する必要がある場合には、第一項及び第八十二条の規定にかかわらず、書面（電磁的記録を含む。）により審査意見業務を行い、結論を得ることができる。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、当該認定臨床研究審査委員会は、後日、当該臨床研究の実施にあたって留意すべき事項又は改善すべき事項について、第八十二条の規定に基づき、認定臨床研究審査委員会の結論を得なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -3546,12 +3546,21 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年五月一五日厚生労働省令第一〇〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxStyle Num="1">
       <AppdxStyleTitle WritingMode="vertical">様式第一</AppdxStyleTitle>
       <RelatedArticleNum>（第三十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027124.pdf"/>
+          <Fig src="./pict/_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3560,7 +3569,7 @@
       <RelatedArticleNum>（第四十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027126.pdf"/>
+          <Fig src="./pict/_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3569,7 +3578,7 @@
       <RelatedArticleNum>（第四十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027127.pdf"/>
+          <Fig src="./pict/_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3578,7 +3587,7 @@
       <RelatedArticleNum>（第四十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027128.pdf"/>
+          <Fig src="./pict/_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3587,7 +3596,7 @@
       <RelatedArticleNum>（第六十五条関係）（第一面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021782.pdf"/>
+          <Fig src="./pict/_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3596,7 +3605,7 @@
       <RelatedArticleNum>（第六十五条関係）（第二面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021783.pdf"/>
+          <Fig src="./pict/_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3605,7 +3614,7 @@
       <RelatedArticleNum>（第六十五条関係）（第三面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027129.pdf"/>
+          <Fig src="./pict/_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3614,7 +3623,7 @@
       <RelatedArticleNum>（第六十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000019575.pdf"/>
+          <Fig src="./pict/_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3623,7 +3632,7 @@
       <RelatedArticleNum>（第六十九条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027130.pdf"/>
+          <Fig src="./pict/_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3632,7 +3641,7 @@
       <RelatedArticleNum>（第七十一条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027132.pdf"/>
+          <Fig src="./pict/_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3641,7 +3650,7 @@
       <RelatedArticleNum>（第七十三条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027133.pdf"/>
+          <Fig src="./pict/_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3650,7 +3659,7 @@
       <RelatedArticleNum>（第七十四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027134.pdf"/>
+          <Fig src="./pict/_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3659,7 +3668,7 @@
       <RelatedArticleNum>（第七十五条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027135.pdf"/>
+          <Fig src="./pict/_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3668,7 +3677,7 @@
       <RelatedArticleNum>（第七十六条関係）（第一面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021785.pdf"/>
+          <Fig src="./pict/_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3677,7 +3686,7 @@
       <RelatedArticleNum>（第七十六条関係）（第二面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021786.pdf"/>
+          <Fig src="./pict/_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3686,7 +3695,7 @@
       <RelatedArticleNum>（第七十六条関係）（第三面）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027136.pdf"/>
+          <Fig src="./pict/_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3695,7 +3704,7 @@
       <RelatedArticleNum>（第七十七条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000027137.pdf"/>
+          <Fig src="./pict/_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3704,7 +3713,7 @@
       <RelatedArticleNum>（第九十一条の三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/2FH00000021788.pdf"/>
+          <Fig src="./pict/_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -243,10 +243,10 @@
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">外開き式の窓及び換気装置、後写鏡、後方等確認装置（自動車の外側線付近及び後方の状況の画像を撮影し、運転者席において確認できる位置に備えられた当該画像を表示する装置をいう。以下同じ。）並びに第四十四条第六項の装置は、告示で定める方法により測定した場合において、その自動車の最外側から二百五十ミリメートル以上、その自動車の高さから三百ミリメートル以上突出していてはならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その自動車より幅の広い被<Ruby>牽<Rt>けん</Rt>
-                </Ruby>引自動車を<Ruby>牽<Rt>けん</Rt>
-                </Ruby>引する<Ruby>牽<Rt>けん</Rt>
-                </Ruby>引自動車の後写鏡及び後方等確認装置に限り、被<Ruby>牽<Rt>けん</Rt>
-                </Ruby>引自動車の最外側から二百五十ミリメートルまで突出することができる。</Sentence>
+</Ruby>引自動車を<Ruby>牽<Rt>けん</Rt>
+</Ruby>引する<Ruby>牽<Rt>けん</Rt>
+</Ruby>引自動車の後写鏡及び後方等確認装置に限り、被<Ruby>牽<Rt>けん</Rt>
+</Ruby>引自動車の最外側から二百五十ミリメートルまで突出することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3058,13 +3058,13 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号に掲げる自動車には、消火器を備えなければならない。</Sentence>
+              <Sentence WritingMode="vertical">次に掲げる自動車には、消火器を備えなければならない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">火薬類（第五十一条第二項各号に掲げる数量以下のものを除く。）を運送する自動車（被<Ruby>牽<Rt>けん</Rt>
-                  </Ruby>引自動車を除く。）</Sentence>
+                <Sentence WritingMode="vertical">火薬類（第五十一条各号に掲げる数量以下のものを除く。）を運送する自動車（被<Ruby>牽<Rt>けん</Rt>
+</Ruby>引自動車を除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
@@ -3096,10 +3096,10 @@
                   </Ruby>引自動車</Sentence>
               </ItemSentence>
             </Item>
-            <Item Num="6">
+            <Item Delete="false" Hide="false" Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence>放射性同位元素等の規制に関する法律施行規則（昭和三十五年総理府令第五十六号）第十八条の三第一項に規定する放射性輸送物（Ｌ型輸送物を除き、同条第二項に定めるＩＰ―１型輸送物、ＩＰ―２型輸送物及びＩＰ―３型輸送物を含む。）を運送する場合若しくは放射性同位元素等車両運搬規則（昭和五十二年運輸省令第三十三号）第十八条の規定により運送する場合又は核燃料物質等の工場又は事業所の外における運搬に関する規則（昭和五十三年総理府令第五十七号）第三条に規定する核燃料輸送物（Ｌ型輸送物を除く。）若しくは同令第十一条に規定する核分裂性輸送物を運送する場合若しくは核燃料物質等車両運搬規則（昭和五十三年運輸省令第七十二号）第十九条の規定により運送する場合に使用する自動車</Sentence>
+                <Sentence WritingMode="vertical">放射性同位元素等の規制に関する法律施行規則（昭和三十五年総理府令第五十六号）第十八条の三第一項に規定する放射性輸送物（Ｌ型輸送物を除き、同条第二項に定めるＩＰ―１型輸送物、ＩＰ―２型輸送物及びＩＰ―３型輸送物を含む。）を運送する場合若しくは放射性同位元素等車両運搬規則（昭和五十二年運輸省令第三十三号）第十八条の規定により運送する場合又は核燃料物質等の工場又は事業所の外における運搬に関する規則（昭和五十三年総理府令第五十七号）第三条に規定する核燃料輸送物（Ｌ型輸送物を除く。）若しくは同令第十一条に規定する核分裂性輸送物を運送する場合若しくは核燃料物質等車両運搬規則（昭和五十三年運輸省令第七十二号）第十九条の規定により運送する場合に使用する自動車</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="7">
@@ -6720,6 +6720,42 @@
           <Sentence WritingMode="vertical">第四条の規定による改正前の自動車事故報告規則別記様式による自動車事故報告書は、同条の規定による改正後の自動車事故報告規則別記様式にかかわらず、当分の間、なおこれを使用することができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一〇月一五日国土交通省令第四〇号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和元年十一月十五日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中道路運送車両の保安基準第四十七条の改正規定、第三条中装置型式指定規則第五条の表第五号の九、第五号の十及び第五号の十三の改正規定並びに第五条の規定並びに次条第一項及び第二項の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令による改正前の装置型式指定規則（以下「旧規則」という。）第五条の表第五号の九及び第五号の十下欄に掲げる規則に基づき行われた認定（令和七年八月三十一日以前に行われたものに限る。）は、この省令による改正後の装置型式指定規則（以下「新規則」という。）第五条の表第五号の九及び第五号の十下欄に掲げる規則に基づき行われた認定とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">旧規則第五条の表第五号の十三下欄に掲げる規則に基づき行われた認定（令和四年八月三十一日以前に行われたもの又はこの省令による改正に係る事項の認定以外に係るものに限る。）は、新規則第五条の表第五号の十三下欄に掲げる規則に基づき行われた認定とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">旧規則第五条の表第十五号の四、第十五号の五、第十八号から第三十一号の三まで、第三十四号及び第三十五号下欄に掲げる規則に基づき行われた認定は、新規則第五条の表第十五号の四、第十五号の五、第十八号から第三十一号の三まで、第三十四号及び第三十五号下欄に掲げる規則に基づき行われた認定とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
