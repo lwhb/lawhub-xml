@@ -5689,6 +5689,29 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年二月二八日国土交通省令第一一号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、令和二年三月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令の施行の際現に交付されているこの省令による改正前の海洋汚染等及び海上災害の防止に関する法律の規定に基づく船舶の設備等の検査等に関する規則第十二号の五様式による国際大気汚染防止証書は、この省令による改正後の海洋汚染等及び海上災害の防止に関する法律の規定に基づく船舶の設備等の検査等に関する規則第十二条の五様式による国際大気汚染防止証書とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一（第十七条、第四十五条関係）</AppdxTableTitle>
       <TableStruct>
@@ -10604,7 +10627,7 @@
       <RelatedArticleNum>（第一条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_001.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10613,7 +10636,7 @@
       <RelatedArticleNum>（第一条の二の三関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_002.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10622,7 +10645,7 @@
       <RelatedArticleNum>（第一条の二の八関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_003.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10631,7 +10654,7 @@
       <RelatedArticleNum>（第一条の二の十一関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_004.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10640,7 +10663,7 @@
       <RelatedArticleNum>（第一条の二の十二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_005.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_005.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10649,7 +10672,7 @@
       <RelatedArticleNum>（第一条の二の十七関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_006.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10658,7 +10681,7 @@
       <RelatedArticleNum>（第一条の五関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_007.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10667,7 +10690,7 @@
       <RelatedArticleNum>（第一条の五の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_008.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_008.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10676,7 +10699,7 @@
       <RelatedArticleNum>（第一条の五の四関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_009.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_009.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10685,7 +10708,7 @@
       <RelatedArticleNum>（第一条の八関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_010.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_010.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10694,7 +10717,7 @@
       <RelatedArticleNum>（第一条の九関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_011.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_011.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10703,7 +10726,7 @@
       <RelatedArticleNum>（第一条の十二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_012.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_012.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10711,7 +10734,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号の四様式（第一条の十三関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_013.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_013.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10719,7 +10742,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号の五様式（第一条の十四関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_014.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_014.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10727,7 +10750,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号の五の二様式（第一条の二十四関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_015.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_015.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10735,7 +10758,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号の五の三様式（第一条の二十五関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_016.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_016.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10743,7 +10766,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号の五の四様式（第一条の二十八関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_017.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_017.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10751,7 +10774,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号の五の五様式（第一条の二十九関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_018.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_018.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10759,7 +10782,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号の五の六様式（第一条の三十関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_019.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_019.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10767,7 +10790,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号の五の七様式（第一条の三十一関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_020.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_020.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10775,7 +10798,7 @@
       <AppdxStyleTitle WritingMode="vertical">第一号の六様式（第三条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_021.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_021.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10783,7 +10806,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二号様式（第五条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_022.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_022.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10791,7 +10814,7 @@
       <AppdxStyleTitle WritingMode="vertical">第三号様式（第五条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_023.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_023.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10799,7 +10822,7 @@
       <AppdxStyleTitle WritingMode="vertical">第四号様式（第五条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_024.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_024.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10810,7 +10833,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号様式（第十八条の二関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_025.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_025.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10818,7 +10841,7 @@
       <AppdxStyleTitle WritingMode="vertical">第七号様式（第十九条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_026.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_026.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10826,7 +10849,7 @@
       <AppdxStyleTitle WritingMode="vertical">第八号様式（第二十一条、第二十八条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_027.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_027.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10834,7 +10857,7 @@
       <AppdxStyleTitle WritingMode="vertical">第九号様式（第二十三条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_028.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_028.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10842,7 +10865,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十号様式（第二十四条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_029.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_029.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10850,7 +10873,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十一号様式（第二十五条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_030.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_030.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10858,7 +10881,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十二号様式（第二十六条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_031.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_031.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10866,7 +10889,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十二号の二様式（第二十六条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_032.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_032.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10874,7 +10897,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十二号の三様式（第二十六条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_033.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_033.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10882,7 +10905,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十二号の四様式（第二十六条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_034.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_034.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10890,7 +10913,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十二号の五様式（第二十六条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_035.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_035.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10898,7 +10921,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十三号様式（第二十七条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_036.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_036.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10906,7 +10929,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十四号様式（第二十九条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_037.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_037.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10915,7 +10938,7 @@
       <RelatedArticleNum>（第三十条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_038.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_038.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10923,7 +10946,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十六号様式（第三十三条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_039.jpg"/>
+          <Fig src="./pict/S58F03901000039_2010281810_039.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10931,7 +10954,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十七号様式（第三十三条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_040.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_040.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10939,7 +10962,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十八号様式（第三十三条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_041.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_041.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10947,7 +10970,7 @@
       <AppdxStyleTitle WritingMode="vertical">第十九号様式（第三十三条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_042.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_042.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -10955,7 +10978,7 @@
       <AppdxStyleTitle WritingMode="vertical">第二十号様式（第四十五条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/S58F03901000039_2010222010_043.pdf"/>
+          <Fig src="./pict/S58F03901000039_2010281810_043.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
