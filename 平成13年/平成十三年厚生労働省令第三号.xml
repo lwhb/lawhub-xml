@@ -14,49 +14,49 @@
             <Sentence Num="1" WritingMode="vertical">厚生労働省の本省及び中央労働委員会の定員は、次の表のとおりとする。</Sentence>
           </ParagraphSentence>
           <TableStruct>
-            <Table WritingMode="vertical">
+            <Table>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
-                  <Sentence Num="1" WritingMode="vertical">区分</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>区分</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
-                  <Sentence Num="1" WritingMode="vertical">定員</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>定員</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
-                  <Sentence Num="1" WritingMode="vertical">備考</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>備考</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
-                  <Sentence Num="1" WritingMode="vertical">本省</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>本省</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
-                  <Sentence Num="1" WritingMode="vertical">三一、七二二人</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>三三、〇〇三人</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
-                  <Sentence Num="1" WritingMode="vertical">うち、一人は、特別職の職員の定員とする。</Sentence>
-                </TableColumn>
-              </TableRow>
-              <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
-                  <Sentence Num="1" WritingMode="vertical">中央労働委員会</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
-                  <Sentence Num="1" WritingMode="vertical">一〇〇人</Sentence>
-                </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
-                  <Sentence Num="1" WritingMode="vertical">事務局の職員の定員とする。</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>うち、一人は、特別職の職員の定員とする。</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
-                  <Sentence Num="1" WritingMode="vertical">合計</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>中央労働委員会</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
-                  <Sentence Num="1" WritingMode="vertical">三一、八二二人</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>一〇〇人</Sentence>
                 </TableColumn>
-                <TableColumn BorderBottom="solid" BorderRight="solid">
-                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                <TableColumn Valign="top">
+                  <Sentence>事務局の職員の定員とする。</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>合計</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>三三、一〇三人</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence/>
                 </TableColumn>
               </TableRow>
             </Table>
@@ -93,7 +93,7 @@
       <Paragraph Num="4">
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">第一条の規定にかかわらず、次の表の区分の欄に掲げる機関の同条に規定する定員は、厚生労働省定員規則の一部を改正する省令（令和二年厚生労働省令第九十九号）の施行の日から令和三年一月三十一日までの間においては、それぞれ同表の定員の欄及び備考の欄に掲げるとおりとする。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">第一条の規定にかかわらず、次の表の区分の欄に掲げる機関の同条に規定する定員は、厚生労働省定員規則の一部を改正する省令（令和二年厚生労働省令第百二十九号）の施行の日から令和三年一月三十一日までの間においては、それぞれ同表の定員の欄及び備考の欄に掲げるとおりとする。</Sentence>
         </ParagraphSentence>
         <TableStruct>
           <Table WritingMode="vertical">
@@ -113,7 +113,7 @@
                 <Sentence Num="1" WritingMode="vertical">本省</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderRight="solid">
-                <Sentence Num="1" WritingMode="vertical">三一、七六二人</Sentence>
+                <Sentence Num="1" WritingMode="vertical">三三、〇四三人</Sentence>
               </TableColumn>
               <TableColumn BorderBottom="solid" BorderRight="solid">
                 <Sentence Num="1" WritingMode="vertical">うち、一人は、特別職の職員の定員とする。</Sentence>
@@ -474,6 +474,15 @@
       </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和二年五月一三日厚生労働省令第九九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一六日厚生労働省令第一二九号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphNum/>

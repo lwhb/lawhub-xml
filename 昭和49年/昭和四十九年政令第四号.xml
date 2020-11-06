@@ -1,49 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200622e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="4" Year="49">
+<Law DataInfo="200930e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="4" Year="49">
   <LawNum>昭和四十九年政令第四号</LawNum>
   <LawBody>
     <LawTitle>国民生活安定緊急措置法施行令</LawTitle>
     <EnactStatement>内閣は、国民生活安定緊急措置法（昭和四十八年法律第百二十一号）第三条第一項、第三十条第一項及び第二項、第三十二条並びに第三十三条の規定に基づき、並びに同法を実施するため、この政令を制定する。</EnactStatement>
     <MainProvision>
       <Article Num="1">
-        <ArticleCaption>（法第二十六条第一項の政令で指定する生活関連物資等）</ArticleCaption>
+        <ArticleCaption>（報告の徴収）</ArticleCaption>
         <ArticleTitle>第一条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国民生活安定緊急措置法（以下「法」という。）第二十六条第一項の政令で指定する生活関連物資等は、次のとおりとする。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence>衛生マスク</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence>消毒等用アルコール（アルコール（これを含む製剤を含む。）（医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号）第二条第一項に規定する医薬品及び同条第二項に規定する医薬部外品以外のものにあつては、アルコール分（温度十五度の時において原容量百分中に含有するエチルアルコールの容量をいう。）が六十度以上のものに限る。）であつて、消毒等（消毒、殺菌その他これらに類する行為をいう。）に使用されることが目的とされているもの（これを染み込ませた脱脂綿、紙、不織布その他の材料を含む。）をいう。）</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-      <Article Num="2">
-        <ArticleCaption>（特定生活関連物資等の転売の禁止）</ArticleCaption>
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>前条各号に掲げる生活関連物資等（以下この条において「特定生活関連物資等」という。）を不特定の相手方に対し売り渡す者から特定生活関連物資等の購入をした者は、当該購入をした特定生活関連物資等の譲渡（不特定又は多数の者に対し、当該特定生活関連物資等の売買契約の締結の申込み又は誘引をして行うものであつて、当該特定生活関連物資等の購入価格を超える価格によるものに限る。）をしてはならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="3">
-        <ArticleCaption>（報告の徴収）</ArticleCaption>
-        <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>法第三十条第一項の規定により主務大臣が報告させることができる事項は、次のとおりとする。</Sentence>
+            <Sentence>国民生活安定緊急措置法（以下「法」という。）第三十条第一項の規定により主務大臣が報告させることができる事項は、次のとおりとする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -77,9 +45,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="4">
+      <Article Num="2">
         <ArticleCaption>（主務大臣）</ArticleCaption>
-        <ArticleTitle>第四条</ArticleTitle>
+        <ArticleTitle>第二条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -129,9 +97,9 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="5">
+      <Article Num="3">
         <ArticleCaption>（協議）</ArticleCaption>
-        <ArticleTitle>第五条</ArticleTitle>
+        <ArticleTitle>第三条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -139,9 +107,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="6">
+      <Article Num="4">
         <ArticleCaption>（地方公共団体が処理する事務等）</ArticleCaption>
-        <ArticleTitle>第六条</ArticleTitle>
+        <ArticleTitle>第四条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -191,7 +159,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第二項本文の場合においては、法及びこの政令中同項本文に規定する事務に係る主務大臣に関する規定は、都道府県知事又は指定都市の長に関する規定として都道府県知事又は指定都市の長に適用があるものとする。</Sentence>
+            <Sentence>第一項本文の場合においては、法及びこの政令中同項本文に規定する事務に係る主務大臣に関する規定は、都道府県知事又は指定都市の長に関する規定として都道府県知事又は指定都市の長に適用があるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
@@ -233,22 +201,6 @@
               </Column>
             </ItemSentence>
           </Item>
-        </Paragraph>
-      </Article>
-      <Article Num="7">
-        <ArticleCaption>（罰則）</ArticleCaption>
-        <ArticleTitle>第七条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence>第二条の規定に違反した場合には、当該違反行為をした者は、一年以下の懲役若しくは百万円以下の罰金に処し、又はこれを併科する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業員が、その法人又は人の業務に関し、前項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して同項の罰金刑を科する。</Sentence>
-          </ParagraphSentence>
         </Paragraph>
       </Article>
     </MainProvision>
@@ -600,6 +552,23 @@
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence>改正後の第二条の規定（改正後の第一条第二号に係る部分に限る。）は、改正後の第二条に規定する譲渡のうちこの政令の施行の日前に締結された売買契約によるものについては、適用しない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月二八日政令第二五四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令は、公布の日の翌日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

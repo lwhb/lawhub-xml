@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="207" Year="33">
+<Law DataInfo="200930e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="207" Year="33">
   <LawNum>昭和三十三年政令第二百七号</LawNum>
   <LawBody>
     <LawTitle>国家公務員共済組合法施行令</LawTitle>
@@ -865,8 +865,57 @@
           </Paragraph>
         </Article>
         <Article Num="11_2">
-          <ArticleCaption>（組合員の資格取得時における標準報酬の特例）</ArticleCaption>
+          <ArticleCaption>（退職等年金給付に係る標準報酬の区分の特例）</ArticleCaption>
           <ArticleTitle>第十一条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第四十条第四項の規定による改定後の標準報酬の区分については、同条第一項の表中「<QuoteStruct>
+<Table>
+<TableRow>
+<TableColumn Valign="middle">
+<Sentence>第三〇級</Sentence>
+</TableColumn>
+<TableColumn Valign="middle">
+<Sentence>六二〇、〇〇〇円</Sentence>
+</TableColumn>
+<TableColumn Valign="middle">
+<Sentence>六〇五、〇〇〇円以上</Sentence>
+</TableColumn>
+</TableRow>
+</Table>
+</QuoteStruct>」とあるのは、「<QuoteStruct>
+<Table>
+<TableRow>
+<TableColumn Valign="middle">
+<Sentence>第三〇級</Sentence>
+</TableColumn>
+<TableColumn Valign="middle">
+<Sentence>六二〇、〇〇〇円</Sentence>
+</TableColumn>
+<TableColumn Valign="middle">
+<Sentence>六〇五、〇〇〇円以上　六三五、〇〇〇円未満</Sentence>
+</TableColumn>
+</TableRow>
+<TableRow>
+<TableColumn Valign="middle">
+<Sentence>第三一級</Sentence>
+</TableColumn>
+<TableColumn Valign="middle">
+<Sentence>六五〇、〇〇〇円</Sentence>
+</TableColumn>
+<TableColumn Valign="middle">
+<Sentence>六三五、〇〇〇円以上</Sentence>
+</TableColumn>
+</TableRow>
+</Table>
+</QuoteStruct>」と読み替えて、法の規定（他の法令において引用する場合を含む。）を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11_2_2">
+          <ArticleCaption>（組合員の資格取得時における標準報酬の特例）</ArticleCaption>
+          <ArticleTitle>第十一条の二の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -874,9 +923,19 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="11_2_2">
+        <Article Num="11_2_3">
+          <ArticleCaption>（退職等年金給付に係る標準期末手当等の額の最高限度額の特例）</ArticleCaption>
+          <ArticleTitle>第十一条の二の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第四十一条第三項の規定により読み替えて適用する同条第一項に規定する政令で定める金額は、百五十万円とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11_2_4">
           <ArticleCaption>（支払未済の給付を受けるべき者の順位）</ArticleCaption>
-          <ArticleTitle>第十一条の二の二</ArticleTitle>
+          <ArticleTitle>第十一条の二の四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -19174,7 +19233,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この政令は、平成三十年改正法の施行の日（平成三十二年四月一日）から施行する。</Sentence>
+            <Sentence>この政令は、平成三十年改正法の施行の日（令和二年四月一日）から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -19187,6 +19246,35 @@
           <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月一四日政令第二四七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、令和二年九月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令の施行の日前に国家公務員共済組合の組合員の資格を取得して、同日まで引き続きその資格を有する者（国家公務員共済組合法第百二十六条の五第二項に規定する任意継続組合員を除く。）のうち、令和二年九月の標準報酬（同法第四十条第一項に規定する標準報酬をいう。以下同じ。）の月額が六十二万円であるもの（当該標準報酬の月額の基礎となった報酬月額が六十三万五千円未満であるものを除く。）の標準報酬は、当該標準報酬の月額の基礎となった報酬月額をこの政令による改正後の国家公務員共済組合法施行令第十一条の二の規定により読み替えて適用する同法第四十条第一項の規定による標準報酬の基礎となる報酬月額とみなして、同日において国家公務員共済組合が改定するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により改定された標準報酬は、令和二年九月から令和三年八月までの各月の標準報酬とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表（第三十七条関係）</AppdxTableTitle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201026e03k03m03" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="227" Year="37">
+<Law DataInfo="201102e03k07m04" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="227" Year="37">
   <LawNum>昭和三十七年政令第二百二十七号</LawNum>
   <LawBody>
     <LawTitle>外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令</LawTitle>
@@ -3944,10 +3944,10 @@
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence>第一条中地方税法施行令第六条の九の二第二項第三号及び第四号、第二十五条、第二十七条第一項第一号、第三十二条の二第一項第一号、第三十二条の三第一項第一号、第三十三条の三第二項第一号イ並びに第三十四条第二項の改正規定並びに同令附則第六条の二に一項を加える改正規定並びに附則第八条（外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令（昭和三十七年政令第二百二十七号）第三十二条第七項第一号の改正規定に限る。）の規定</Sentence>
+                <Sentence>第一条中地方税法施行令第六条の九の二第二項第三号及び第四号、第二十五条、第二十七条第一項第一号、第三十二条の二第一項第一号、第三十二条の三第一項第一号、第三十三条の三第二項第一号イ、第三十四条第二項、第三十五条の四の六第二項第二号並びに第五十七条の二の六第二項第二号の改正規定並びに同令附則第六条の二に一項を加える改正規定並びに第九条中地方税法施行令等の一部を改正する等の政令（平成二十八年政令第百三十三号）附則第十六条の規定によりなおその効力を有するものとされた同令第九条の規定による廃止前の地方法人特別税等に関する暫定措置法施行令第五条第一項及び第三項の改正規定並びに附則第八条（外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令（昭和三十七年政令第二百二十七号）第三十二条第七項第一号の改正規定に限る。）及び第九条の規定</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>平成三十二年四月一日</Sentence>
+                <Sentence>令和二年四月一日</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -4023,6 +4023,32 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二九日政令第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、平成三十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二九日政令第八九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、平成三十一年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="平成三一年三月二九日政令第一〇三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
@@ -4055,6 +4081,37 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月二一日政令第三二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この政令は、日本国の自衛隊とフランス共和国の軍隊との間における物品又は役務の相互の提供に関する日本国政府とフランス共和国政府との間の協定の効力発生の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第十条の二の二第八項、第十二条の四第四項第一号イからハまで及び第五項、第十五条第二項から第五項まで並びに第三十三条第四項第一号イからハまで及び第五項の改正規定並びに附則第三条から第十二条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和二年三月三一日政令第一〇九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
