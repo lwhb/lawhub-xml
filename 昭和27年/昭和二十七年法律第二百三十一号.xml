@@ -1668,7 +1668,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>当該空港等又は航空保安施設の位置、構造等の設置の計画が国土交通省令で定める基準（空港にあつては、当該基準及び空港法第三条第一項に規定する基本方針（第四十七条第一項において単に「基本方針」という。）。第三号において同じ。）に適合するものであること。</Sentence>
+                <Sentence>当該空港等又は航空保安施設の位置、構造等の設置の計画が国土交通省令で定める基準（空港にあつては、当該基準及び空港法第三条第一項に規定する基本方針（第三号において単に「基本方針」という。））に適合するものであること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -1680,7 +1680,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>当該空港等又は航空保安施設の管理の計画が第四十七条第一項の保安上の基準に適合するものであること。</Sentence>
+                <Sentence>当該空港等又は航空保安施設の管理の計画が第四十七条第二項に規定する機能確保基準（空港にあつては、当該機能確保基準及び基本方針）に適合するものであること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
@@ -1848,54 +1848,96 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>空港等の設置者又は航空保安施設の設置者は、国土交通省令で定める保安上の基準（空港にあつては、当該基準及び基本方針）に従つて当該施設を管理しなければならない。</Sentence>
+              <Sentence>空港等の設置者又は航空保安施設の設置者は、国土交通省令で定める空港等及び航空保安施設の機能の確保に関する基準に従つて当該施設を管理しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>国土交通大臣は、前項の空港等又は航空保安施設が同項の基準に従つて管理されることを確保するため、政令で定めるところにより当該施設について定期に検査をしなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="47_2">
-          <ArticleCaption>（空港保安管理規程）</ArticleCaption>
-          <ArticleTitle>第四十七条の二</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1">空港の設置者は、空港保安管理規程を定め、国土交通省令で定めるところにより、国土交通大臣に届け出なければならない。</Sentence>
-              <Sentence Num="2">これを変更しようとするときも、同様とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence>空港保安管理規程は、前条第一項の保安上の基準に従つて空港（空港における航空機の離陸又は着陸の安全を確保するために必要なものとして国土交通省令で定める航空保安施設であつて、空港の設置者が設置するものを含む。以下この条、第五十五条の二第二項及び第百四十八条第四号において同じ。）の保安を確保するために空港の設置者が遵守すべき次に掲げる事項に関し、国土交通省令で定めるところにより、必要な内容を定めたものでなければならない。</Sentence>
+              <Sentence>前項の基準（以下「機能確保基準」という。）は、次に掲げる事項について定めるものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>空港の保安を確保するための管理の方針に関する事項</Sentence>
+                <Sentence>第三十九条第一項第一号の規定への適合の確保に関する事項</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>空港の保安を確保するための管理の体制に関する事項</Sentence>
+                <Sentence>施設の点検その他の維持管理及び改修に関する事項</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>空港の保安を確保するための管理の方法に関する事項</Sentence>
+                <Sentence>施設の周辺における無人航空機の異常な飛行その他の航空機の飛行に影響を及ぼすおそれのある行為の防止に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>自然災害、航空事故、上空への無人航空機の侵入その他の空港等の機能を損なうおそれのある事象が生じた場合における措置に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（平成二十八年法律第九号）第十一条第四項に規定する措置並びに同条第五項において準用する同条第一項及び第二項に規定する措置に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>前各号に掲げるもののほか、国土交通大臣が施設の機能の確保のために必要と認める事項</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>国土交通大臣は、空港保安管理規程が前項の規定に適合していないと認めるときは、空港の設置者に対し、これを変更すべきことを命ずることができる。</Sentence>
+              <Sentence>国土交通大臣は、第一項の空港等又は航空保安施設が機能確保基準に従つて管理されることを確保するため、政令で定めるところにより当該施設について定期に検査をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="47_2">
+          <ArticleCaption>（空港機能管理規程）</ArticleCaption>
+          <ArticleTitle>第四十七条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">空港の設置者は、空港機能管理規程を定め、国土交通省令で定めるところにより、国土交通大臣に届け出なければならない。</Sentence>
+              <Sentence Num="2">これを変更しようとするときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>空港機能管理規程は、機能確保基準に従つて空港（空港における航空機の離陸又は着陸の安全を確保するために必要なものとして国土交通省令で定める航空保安施設であつて、空港の設置者が設置するものを含む。以下この条、第五十五条の二第二項及び第百四十八条第四号において同じ。）の機能を確保するために空港の設置者が遵守すべき次に掲げる事項に関し、国土交通省令で定めるところにより、必要な内容を定めたものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>空港の機能を確保するための管理の方針に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>空港の機能を確保するための管理の体制に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>空港の機能を確保するための管理の方法に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国土交通大臣は、空港機能管理規程が前項の規定に適合していないと認めるときは、空港の設置者に対し、これを変更すべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1905,7 +1947,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>空港保安管理規程を定めた空港の設置者を構成員に含む空港法第十四条に規定する協議会（次項において単に「協議会」という。）は、同条に規定する事項のほか、空港における安全の確保に関し必要な事項について協議することができる。</Sentence>
+              <Sentence>空港機能管理規程を定めた空港の設置者を構成員に含む空港法第十四条に規定する協議会（次項において単に「協議会」という。）は、同条に規定する事項のほか、空港における安全の確保に関し必要な事項について協議することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1922,7 +1964,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1">国土交通大臣は、次に掲げる場合には、空港等若しくは航空保安施設の設置の許可を取り消し、又は期間を定めて、空港等の全部若しくは一部の供用の停止を命ずることができる。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、第二号から第五号までの場合について設置の許可を取り消すことができる場合は、国土交通大臣が空港等の設置者又は航空保安施設の設置者に対し、相当の期間を定めて、当該施設を申請書に記載した計画若しくは第三十九条第一項第一号の基準に適合させるための措置をとるべきこと又は当該施設を第四十七条第一項の保安上の基準に従つて管理すべきことを命じ、その期間内に空港等の設置者又は航空保安施設の設置者が、その命令に従わなかつた場合に限る。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、第二号から第五号までの場合について設置の許可を取り消すことができる場合は、国土交通大臣が空港等の設置者又は航空保安施設の設置者に対し、相当の期間を定めて、当該施設を申請書に記載した計画若しくは第三十九条第一項第一号の基準に適合させるための措置をとるべきこと又は当該施設を機能確保基準に従つて管理すべきことを命じ、その期間内に空港等の設置者又は航空保安施設の設置者が、その命令に従わなかつた場合に限る。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1945,7 +1987,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence>空港等又は航空保安施設の管理が第四十七条第一項の保安上の基準に従つて行われていないと認めるとき。</Sentence>
+                <Sentence>空港等又は航空保安施設の管理が機能確保基準に従つて行われていないと認めるとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -2225,7 +2267,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1">国土交通大臣は、その設置する空港について、第四十七条の二第一項の空港保安管理規程を定めなければならない。</Sentence>
+              <Sentence Num="1">国土交通大臣は、その設置する空港について、第四十七条の二第一項の空港機能管理規程を定めなければならない。</Sentence>
               <Sentence Num="2">この場合において、同条第二項中「空港の設置者」とあるのは、「空港の設置者又は国土交通大臣」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -4743,8 +4785,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">何人も、次に掲げる空域においては、無人航空機を飛行させてはならない。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、国土交通大臣がその飛行により航空機の航行の安全並びに地上及び水上の人及び物件の安全が損なわれるおそれがないと認めて許可した場合においては、この限りでない。</Sentence>
+              <Sentence>何人も、次に掲げる空域においては、無人航空機を飛行させてはならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -4759,6 +4800,24 @@
               </ItemSentence>
             </Item>
           </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定は、次に掲げる場合には、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>航空機の航行の安全並びに地上及び水上の人及び物件の安全を損なうおそれがないものとして国土交通省令で定める飛行を行う場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>前号に掲げるもののほか、国土交通大臣がその飛行により航空機の航行の安全並びに地上及び水上の人及び物件の安全が損なわれるおそれがないと認めて許可した場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
         </Article>
         <Article Num="132_2">
           <ArticleCaption>（飛行の方法）</ArticleCaption>
@@ -4766,8 +4825,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1">無人航空機を飛行させる者は、次に掲げる方法によりこれを飛行させなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2">ただし、国土交通省令で定めるところにより、あらかじめ、第五号から第十号までに掲げる方法のいずれかによらずに飛行させることが航空機の航行の安全並びに地上及び水上の人及び物件の安全を損なうおそれがないことについて国土交通大臣の承認を受けたときは、その承認を受けたところに従い、これを飛行させることができる。</Sentence>
+              <Sentence>無人航空機を飛行させる者は、次に掲げる方法によりこれを飛行させなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -4830,6 +4888,24 @@
               </ItemSentence>
             </Item>
           </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定にかかわらず、無人航空機を飛行させる者は、次に掲げる場合には、同項第五号から第十号までに掲げる方法のいずれかによらずに飛行させることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>前項第五号から第十号までに掲げる方法のいずれかによらずに無人航空機を飛行させることが航空機の航行の安全並びに地上及び水上の人及び物件の安全を損なうおそれがないものとして国土交通省令で定める場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>前号に掲げるもののほか、国土交通省令で定めるところにより、あらかじめ、前項第五号から第十号までに掲げる方法のいずれかによらずに無人航空機を飛行させることが航空機の航行の安全並びに地上及び水上の人及び物件の安全を損なうおそれがないことについて国土交通大臣の承認を受けて、その承認を受けたところに従い、これを飛行させる場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
         </Article>
         <Article Num="132_3">
           <ArticleCaption>（捜索、救助等のための特例）</ArticleCaption>
@@ -4837,7 +4913,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>第百三十二条及び前条（第一号から第四号までに係る部分を除く。）の規定は、都道府県警察その他の国土交通省令で定める者が航空機の事故その他の事故に際し捜索、救助その他の緊急性があるものとして国土交通省令で定める目的のために行う無人航空機の飛行については、適用しない。</Sentence>
+              <Sentence>第百三十二条及び前条（第一項第一号から第四号までに係る部分を除く。）の規定は、都道府県警察その他の国土交通省令で定める者が航空機の事故その他の事故に際し捜索、救助その他の緊急性があるものとして国土交通省令で定める目的のために行う無人航空機の飛行については、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5129,13 +5205,13 @@
             <Item Num="20">
               <ItemTitle>二十</ItemTitle>
               <ItemSentence>
-                <Sentence>空港等について第四十七条第二項の検査を受ける者</Sentence>
+                <Sentence>空港等について第四十七条第三項の検査を受ける者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="21">
               <ItemTitle>二十一</ItemTitle>
               <ItemSentence>
-                <Sentence>航空保安施設について第四十七条第二項の検査を受ける者</Sentence>
+                <Sentence>航空保安施設について第四十七条第三項の検査を受ける者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="22">
@@ -6275,7 +6351,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence>第百三十二条の二第一号の規定に違反して、道路、公園、広場その他の公共の場所の上空において無人航空機を飛行させた者は、一年以下の懲役又は三十万円以下の罰金に処する。</Sentence>
+              <Sentence>第百三十二条の二第一項第一号の規定に違反して、道路、公園、広場その他の公共の場所の上空において無人航空機を飛行させた者は、一年以下の懲役又は三十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6289,31 +6365,31 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>第百三十二条の規定に違反して、無人航空機を飛行させたとき。</Sentence>
+                <Sentence>第百三十二条第一項の規定に違反して、無人航空機を飛行させたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence>第百三十二条の二第二号、第三号又は第五号から第八号までの規定に違反して、無人航空機を飛行させたとき。</Sentence>
+                <Sentence>第百三十二条の二第一項第二号、第三号又は第五号から第八号までの規定に違反して、無人航空機を飛行させたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence>第百三十二条の二第四号の規定に違反して、道路、公園、広場その他の公共の場所の上空において無人航空機を飛行させたとき。</Sentence>
+                <Sentence>第百三十二条の二第一項第四号の規定に違反して、道路、公園、広場その他の公共の場所の上空において無人航空機を飛行させたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence>第百三十二条の二第九号の規定に違反して、無人航空機により同号の物件を輸送したとき。</Sentence>
+                <Sentence>第百三十二条の二第一項第九号の規定に違反して、無人航空機により同号の物件を輸送したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence>第百三十二条の二第十号の規定に違反して、無人航空機から物件を投下したとき。</Sentence>
+                <Sentence>第百三十二条の二第一項第十号の規定に違反して、無人航空機から物件を投下したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -6338,7 +6414,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>第四十七条第二項又は第百三十四条第二項の規定による検査を拒み、妨げ、又は忌避したとき。</Sentence>
+                <Sentence>第四十七条第三項又は第百三十四条第二項の規定による検査を拒み、妨げ、又は忌避したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -9567,6 +9643,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="4">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第一条第二号に掲げる規定の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="5">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
@@ -9574,6 +9660,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence>前三条及び附則第十条に定めるもののほか、この法律の施行に関し必要となる経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、附則第一条第二号に掲げる規定の施行後五年を経過した場合において、新航空法第四十七条及び第四十七条の二の規定の施行状況について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
