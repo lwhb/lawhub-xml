@@ -672,7 +672,7 @@
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">一　請求者の氏名、生年月日及び住所並びに請求者と死亡した者との続柄</Sentence>
-                      <Sentence WritingMode="vertical">一の二　請求者の個人番号</Sentence>
+                      <Sentence WritingMode="vertical">一の二　請求者の行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第五項に規定する個人番号</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -684,7 +684,7 @@
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">二　死亡した者の氏名及び生年月日</Sentence>
-                      <Sentence WritingMode="vertical">二の二　死亡した者の個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第五項に規定する個人番号をいう。）又は基礎年金番号</Sentence>
+                      <Sentence WritingMode="vertical">二の二　死亡した者の基礎年金番号</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -699,7 +699,7 @@
                     </TableColumn>
                   </TableRow>
                   <TableRow>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
                       <Sentence WritingMode="vertical">第九十七条第二項第一号</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -715,6 +715,14 @@
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">、区長又は総合区長</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">又は除籍抄本若しくは除籍謄本</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">、除籍抄本若しくは除籍謄本又は不動産登記規則（平成十七年法務省令第十八号）第二百四十七号第五項の規定により交付を受けた同条第一項に規定する法定相続情報一覧図の写し</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -2132,17 +2140,6 @@
                     </TableColumn>
                   </TableRow>
                   <TableRow>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">第百十四条の二十六第一項第二号</Sentence>
-                    </TableColumn>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">生年月日、</Sentence>
-                    </TableColumn>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">生年月日、個人番号又は</Sentence>
-                    </TableColumn>
-                  </TableRow>
-                  <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
                       <Sentence WritingMode="vertical">第百十四条の二十六第一項第四号</Sentence>
                     </TableColumn>
@@ -2200,6 +2197,17 @@
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">預金口座の口座番号</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">第百十四条の二十六第二項第二号 </Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">又は除籍謄本</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">、除籍謄本又は不動産登記規則（平成十七年法務省令第十八号）第二百四十七号第五項の規定により交付を受けた同条第一項に規定する法定相続情報一覧図の写し</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -3096,7 +3104,7 @@
                     </TableColumn>
                   </TableRow>
                   <TableRow>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="6">
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="7">
                       <Sentence WritingMode="vertical">第百十四条の四十四第一項各号列記以外の部分</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3136,6 +3144,14 @@
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">事項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">事項（受給権者が死亡した場合にあつては、個人番号を除く。）</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -3299,7 +3315,7 @@
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">一　請求者の氏名、生年月日及び住所並びに請求者と死亡した者との続柄</Sentence>
-                      <Sentence WritingMode="vertical">一の二　請求者の個人番号</Sentence>
+                      <Sentence WritingMode="vertical">一の二　請求者の行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下「番号利用法」という。）第二条第五項に規定する個人番号（以下「個人番号」という。）</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -3311,7 +3327,7 @@
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">二　死亡した者の氏名及び生年月日</Sentence>
-                      <Sentence WritingMode="vertical">二の二　死亡した者の個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下「番号利用法」という。）第二条第五項に規定する個人番号をいう。以下同じ。）又は基礎年金番号</Sentence>
+                      <Sentence WritingMode="vertical">二の二　死亡した者の基礎年金番号</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -3326,7 +3342,7 @@
                     </TableColumn>
                   </TableRow>
                   <TableRow>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
                       <Sentence WritingMode="vertical">第九十七条第二項第一号</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3342,6 +3358,14 @@
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">、区長又は総合区長</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">又は除籍抄本若しくは除籍謄本</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">、除籍抄本若しくは除籍謄本又は不動産登記規則（平成十七年法務省令第十八号）第二百四十七号第五項の規定により交付を受けた同条第一項に規定する法定相続情報一覧図の写し</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -5113,7 +5137,7 @@
                     </TableColumn>
                   </TableRow>
                   <TableRow>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="4">
                       <Sentence WritingMode="vertical">第百十四条の四十四第一項各号列記以外の部分</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -5129,6 +5153,14 @@
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">事項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">事項（受給権者が死亡した場合にあつては、個人番号を除く。）</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -5784,6 +5816,15 @@
             </Column>
           </ItemSentence>
         </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一〇月二六日財務省令第六七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
   </LawBody>

@@ -241,13 +241,25 @@
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">外開き式の窓及び換気装置、後写鏡、後方等確認装置（自動車の外側線付近及び後方の状況の画像を撮影し、運転者席において確認できる位置に備えられた当該画像を表示する装置をいう。以下同じ。）並びに第四十四条第六項の装置は、告示で定める方法により測定した場合において、その自動車の最外側から二百五十ミリメートル以上、その自動車の高さから三百ミリメートル以上突出していてはならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">次に掲げるものは、告示で定める方法により測定した場合において、第一号に掲げるものにあつてはその自動車の最外側から二百五十ミリメートル以上、その自動車の高さから三百ミリメートル以上、第二号に掲げるものにあつてはその自動車の最外側から百ミリメートルを超えて突出していてはならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その自動車より幅の広い被<Ruby>牽<Rt>けん</Rt>
 </Ruby>引自動車を<Ruby>牽<Rt>けん</Rt>
 </Ruby>引する<Ruby>牽<Rt>けん</Rt>
-</Ruby>引自動車の後写鏡及び後方等確認装置に限り、被<Ruby>牽<Rt>けん</Rt>
+</Ruby>引自動車の後写鏡及び後方等確認装置（自動車の外側線付近及び後方の状況の画像を撮影し、運転者席において確認できる位置に備えられた当該画像を表示する装置をいう。以下同じ。）に限り、被<Ruby>牽<Rt>けん</Rt>
 </Ruby>引自動車の最外側から二百五十ミリメートルまで突出することができる。</Sentence>
             </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">外開き式の窓及び換気装置、後写鏡、後方等確認装置並びに第四十四条第六項の装置</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">側方衝突警報装置</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="3">
@@ -2959,6 +2971,28 @@
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">被<Ruby>牽<Rt>けん</Rt>
                   </Ruby>引自動車</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="43_9">
+          <ArticleCaption>（側方衝突警報装置）</ArticleCaption>
+          <ArticleTitle>第四十三条の九</ArticleTitle>
+          <Paragraph Hide="false" Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">次に掲げる自動車（被牽引自動車及び側方衝突警報装置を備えることができないものとして告示で定める自動車を除く。）には、自転車の乗車人員が当該自動車の左側面に衝突するおそれがある場合に、その旨を運転者に警報するものとして、機能、性能等に関し告示で定める基準に適合する側方衝突警報装置を備えなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">貨物の運送の用に供する普通自動車であつて、車両総重量が八トンを超えるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前号の自動車に該当する被牽引自動車を牽引する牽引自動車</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
