@@ -622,7 +622,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">自動車重量譲与税を市町村に譲与した後において、その譲与した額の算定に錯誤があつたため、譲与した額を増加し、又は減少する必要が生じた場合においては、当該錯誤があつたことを発見した日以後最初に到来する譲与時期（当該錯誤に係る額が本項後段に規定するものである場合には、当該錯誤があつたことを発見した日の属する年度における最後の譲与時期）において当該錯誤に係る額を当該譲与すべき額に加算し、又はこれから減額するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">自動車重量譲与税を市町村に譲与した後において、その譲与した額の算定に錯誤があつたため、譲与した額を増加し、又は減少する必要が生じた場合においては、当該錯誤があつたことを発見した日以後に到来する譲与時期のうち総務大臣が定める譲与時期において当該錯誤に係る額を当該譲与すべき額に加算し、又はこれから減額するものとする。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、当該市町村に係る道路の延長又は面積（第三条の規定による補正をした後の延長又は面積をいう。以下本項において同じ。）に錯誤があつたことにより生じた錯誤に係る額は、次の算式によつて得た率（小数点以下三位未満の端数があるときは、これを四捨五入する。）を錯誤があつた年度において当該市町村に譲与した自動車重量譲与税額に乗じて得た額とする。</Sentence>
           </ParagraphSentence>
           <List>
@@ -974,6 +974,15 @@
       </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和元年一一月二八日総務省令第五九号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一〇月一日総務省令第九五号" Type="Amend">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Hide="false" Num="1">
         <ParagraphNum/>
