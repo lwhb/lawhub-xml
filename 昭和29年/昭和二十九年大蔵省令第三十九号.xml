@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="039" Year="29">
+<Law DataInfo="201022e03k11m02" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="039" Year="29">
   <LawNum>昭和二十九年大蔵省令第三十九号</LawNum>
   <LawBody>
     <LawTitle>国税収納金整理資金事務取扱規則</LawTitle>
@@ -1485,7 +1485,7 @@
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、取引店から小切手用紙、国庫金振替書用紙、第七十六条第一項及び第二項に規定する書類（第二十二号書式の国庫金振込請求書及び第二十四号書式の国庫金送金請求書を除く。）並びに第七十八条第一項及び第二項に規定する書類（第二十三号書式の国庫金振込通知書及び第二十五号書式の国庫金送金通知書を除く。）の用紙の交付を受けなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、取引店から小切手用紙、国庫金振替書用紙（第二十九号書式の国庫金振替書を除く。）、第七十六条第一項及び第二項に規定する書類（第二十二号書式の国庫金振込請求書及び第二十四号書式の国庫金送金請求書を除く。）並びに第七十八条第一項及び第二項に規定する書類（第二十三号書式の国庫金振込通知書並びに第二十五号書式の国庫金送金通知書及び第二十五号の二書式の国庫金送金通知書を除く。）の用紙の交付を受けなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1558,7 +1558,7 @@
             <Paragraph Hide="false" Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">財務大臣が小切手の振出し及び支払指図書の交付又は送信（書面等の情報を電子情報処理組織を使用して電気通信回線を通じて転送することをいう。以下同じ。）の事務のために指定する国税資金支払命令官等（以下「センター国税資金支払命令官等」という。）が支払の決定に基づいて小切手の振出し又は支払指図書の交付若しくは送信を行う場合には、国税資金支払命令官等（センター国税資金支払命令官等を除く。以下この条において同じ。）は、支払の決定をした旨をセンター国税資金支払命令官等に通知しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">財務大臣が小切手の振出し並びに支払指図書及び国庫金振替書（第八十一条第二項に規定する資金への払込みに係るものに限る。以下この条において同じ。）の交付又は送信（書面等の情報を電子情報処理組織を使用して電気通信回線を通じて転送することをいう。以下同じ。）の事務のために指定する国税資金支払命令官等（以下「センター国税資金支払命令官等」という。）が支払の決定に基づいて小切手の振出し又は支払指図書若しくは国庫金振替書の交付若しくは送信を行う場合には、国税資金支払命令官等（センター国税資金支払命令官等を除く。以下この条において同じ。）は、支払の決定をした旨をセンター国税資金支払命令官等に通知しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="5">
@@ -1575,27 +1575,52 @@
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">支払を受けるべき債権者の住所及び氏名又は名称</Sentence>
+                  <Sentence WritingMode="vertical">小切手の振出し、送金、振込み又は国庫内移換のための支払の決定の別
+</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="2">
-                <ItemTitle>二</ItemTitle>
+                <ItemTitle>二　小切手の振出し、送金又は振込みのための支払の決定をしたときは、その支払を受けるべき債権者の住所及び氏名又は名称 </ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">支払の決定の金額並びに当該金額に係る支払年度、取扱庁名及び目</Sentence>
+                  <Sentence WritingMode="vertical"/>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">小切手の振出し又は支払指図書の交付若しくは送信の年月日</Sentence>
+                  <Sentence WritingMode="vertical">支払の決定の金額並びに当該金額に係る支払年度、取扱庁名及び目</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">振込先の金融機関（日本銀行が指定した銀行（日本銀行を含む。）その他の金融機関をいう。）及びその店舗並びに預金又は貯金の種別及び口座番号</Sentence>
+                  <Sentence WritingMode="vertical">小切手の振出し又は支払指図書若しくは国庫金振替書の交付若しくは送信の年月日</Sentence>
                 </ItemSentence>
               </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前三項の場合において、送金（外国送金を除く。）のための支払の決定をしたときは、前項各号に掲げる事項のほか、支払場所となる金融機関（日本銀行が指定した銀行（日本銀行を含む。以下同じ。）その他の金融機関をいう。）及びその店舗又は郵便局（簡易郵便局法（昭和二十四年法律第二百十三号）第二条に規定する郵便窓口業務を行う日本郵便株式会社の営業所であつて郵便貯金銀行を所属銀行とする銀行代理業（銀行法（昭和五十六年法律第五十九号）第二条第十四項に規定する銀行代理業をいう。）の業務を行うものをいう。以下同じ。）を明らかにしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第四項から第六項までの場合において、外国送金のための支払の決定をしたとき（当該支払の決定の金額が邦貨を基礎とするものであるときに限る。）は、第六項各号に掲げる事項のほか、送金すべき貨幣の名称を明らかにしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第四項から第六項までの場合において、振込みのための支払の決定をしたときは、第六項各号に掲げる事項のほか、振込先の金融機関（日本銀行が指定した銀行その他の金融機関をいう。）及びその店舗並びに預金又は貯金の種別及び口座番号を明らかにしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第四項から第六項までの場合において、国庫内の移換（第八十一条第二項に規定する資金への払込みに係るものに限る。）のための支払の決定をしたときは、第六項各号に掲げる事項のほか、振替先として納付する国税、特定地方税又は滞納処分費の取扱庁名、受入科目として年度及び国税収納金整理資金である旨並びにその他の事項として納付書に記載された受入科目、番号及び納付目的を明らかにしなければならない。</Sentence>
+              </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="73">
@@ -1663,19 +1688,19 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等（センター国税資金支払命令官等を除く。以下この節において同じ。）は、隔地の債権者（次項に規定する振込みの請求をした債権者を除く。）に支払をしようとするとき又は債権者（次項に規定する振込みの請求をした債権者を除く。）に郵便貯金銀行の営業所及び郵便局（簡易郵便局法（昭和二十四年法律第二百十三号）第二条に規定する郵便窓口業務を行う日本郵便株式会社の営業所であつて郵便貯金銀行を所属銀行とする銀行代理業（銀行法（昭和五十六年法律第五十九号）第二条第十四項に規定する銀行代理業をいう。）の業務を行うものをいう。以下同じ。）から支払をしようとするときは、日本銀行を受取人とする小切手を振り出し、国庫金振替書その他国庫金の払出しに関する書類の様式を定める省令（昭和四十三年大蔵省令第五十一号。以下「省令」という。）第二号書式の国庫金送金請求書又は第二十四号書式の国庫金送金請求書を添え、これをその取引店に交付しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等（センター国税資金支払命令官等を除く。以下この節において同じ。）は、第三項の場合を除き、隔地の債権者（次項に規定する振込みの請求をした債権者を除く。）に支払をしようとするとき又は債権者（次項に規定する振込みの請求をした債権者を除く。）に郵便貯金銀行の営業所及び郵便局から支払をしようとするときは、日本銀行を受取人とする小切手を振り出し、国庫金振替書その他国庫金の払出しに関する書類の様式を定める省令（昭和四十三年大蔵省令第五十一号。以下「省令」という。）第二号書式の国庫金送金請求書又は第二十四号書式の国庫金送金請求書を添え、これをその取引店に交付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、次項の場合を除いては、債権者から、日本銀行が指定した銀行その他の金融機関の当該債権者の預金又は貯金に振込みの請求があつたときは、日本銀行を受取人とする小切手を振り出し、第二十二号書式又は省令第三号書式の国庫金振込請求書を添え、これをその取引店に交付しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、次項の場合を除き、債権者から、日本銀行が指定した銀行その他の金融機関の当該債権者の預金又は貯金に振込みの請求があつたときは、日本銀行を受取人とする小切手を振り出し、第二十二号書式又は省令第三号書式の国庫金振込請求書を添え、これをその取引店に交付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">センター国税資金支払命令官等は、日本銀行に振込みによる支払をさせるときは、第二十三号の三書式による支払指図書を作成し、これを日本銀行本店に交付し、又は送信しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">センター国税資金支払命令官等は、日本銀行に送金又は振込みによる支払をさせるときは、第二十八号の二書式による支払指図書を作成し、これを日本銀行本店に交付し、又は送信しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="4">
@@ -1691,7 +1716,13 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前条第一項の場合において、国税資金支払命令官等は、日本銀行が指定した銀行（日本銀行を含む。以下同じ。）その他の金融機関の店舗又は郵便局で債権者のため最も便利と認めるものを支払場所としなければならない。</Sentence>
+                <Sentence WritingMode="vertical">前条第一項の場合において、国税資金支払命令官等は、日本銀行が指定した銀行その他の金融機関の店舗又は郵便局で債権者のため最も便利と認めるものを支払場所としなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第七十二条第七項に規定する支払場所となる金融機関及びその店舗又は郵便局は、国税資金支払命令官等が受取人にとって最も便利であると認めるものでなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1701,19 +1732,19 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、第七十六条第一項の手続をしたときは、省令第四号書式の国庫金送金通知書又は第二十五号書式の国庫金送金通知書を債権者に送付しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、第七十六条第一項の手続をしたとき又はセンター国税資金支払命令官等により第七十六条第三項の送金に係る手続がなされたときは、省令第四号書式の国庫金送金通知書、第二十五号書式の国庫金送金通知書又は第二十五号の二書式の国庫金送金通知書を債権者に送付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、第七十六条第二項の手続をしたとき又はセンター国税資金支払命令官等により第七十六条第三項の手続がなされたときは、第二十三号書式（その一）、同書式（その二）又は同書式（その三）の国庫金振込通知書を債権者に送付しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、第七十六条第二項の手続をしたとき又はセンター国税資金支払命令官等により第七十六条第三項の振込に係る手続がなされたときは、第二十三号書式（その一）、同書式（その二）又は同書式（その三）の国庫金振込通知書を債権者に送付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、第七十六条第二項の手続をする場合又はセンター国税資金支払命令官等により第七十六条第三項の手続がなされる場合において、特に必要があると認めるときは、あらかじめ第二十三号書式（その一）、同書式（その二）又は同書式（その三）の国庫金振込通知書を債権者に送付することができる。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、第七十六条第二項の手続をする場合又はセンター国税資金支払命令官等により第七十六条第三項の振込に係る手続がなされる場合において、特に必要があると認めるときは、あらかじめ第二十三号書式（その一）、同書式（その二）又は同書式（その三）の国庫金振込通知書を債権者に送付することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="4">
@@ -1745,7 +1776,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、外国にいる債権者に対し邦貨を基礎とする金額の支払をしようとするときは、日本銀行を受取人とする小切手を振り出し、第二十八号書式の外国送金請求書を添え、これをその取引店に交付し、直ちにその旨を債権者に通知しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、第七十六条第三項の場合を除き、外国にいる債権者に対し邦貨を基礎とする金額の支払をしようとするときは、日本銀行を受取人とする小切手を振り出し、第二十八号書式の外国送金請求書を添え、これをその取引店に交付し、直ちにその旨を債権者に通知しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -1764,6 +1795,12 @@
                 <Sentence WritingMode="vertical">国税資金支払命令官等は、官署支出官（支出官代理（官署支出官の事務を代理する職員に限る。）を含む。）、歳入徴収官（歳入徴収官代理、分任歳入徴収官及び分任歳入徴収官代理を含む。）又は日本銀行に預託金を有する出納官吏から納入告知書又は納付書（日本銀行を納付場所とするものに限る。）の交付を受け、これに基づいて資金から歳出の金額に返納し、歳入に納付するため支払をし、又は預託金に払い込もうとするときには、会計法（昭和二十二年法律第三十五号）第四十九条の規定により国庫内の移換のための国庫金振替書を発し、これを日本銀行に交付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">センター国税資金支払命令官等は、法令の規定により納付することを委託された未納の国税、特定地方税又は滞納処分費について、国税収納命令官等から納付書（日本銀行を納付場所とするものに限る。）の交付を受け、これに基づいて資金に払い込もうとするときには、会計法第四十九条の規定により国庫内の移換のための国庫金振替書を作成し、これを日本銀行本店に交付し、又は送信しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="82">
             <ArticleCaption>（国庫金振替書の交付及び添付書類）</ArticleCaption>
@@ -1771,13 +1808,25 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、前条に規定する国庫内の移換のため資金から支払をしようとするときは、省令第一号書式の国庫金振替書を発し、これをその取引店に交付し、国庫内に移換の手続をさせなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、前条第一項に規定する国庫内の移換のため資金から支払をしようとするときは、省令第一号書式の国庫金振替書を発し、これをその取引店に交付し、国庫内の移換の手続をさせなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、前条の場合において国庫金振替書を発するときは、これに納入告知書又は納付書を添え、その取引店に交付しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、前条第一項の場合において国庫金振替書を発するときは、これに納入告知書又は納付書を添え、その取引店に交付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">センター国税資金支払命令官等は、前条第二項に規定する国庫内の移換のため資金から支払をしようとするときは、第二十九号書式の国庫金振替書を作成し、これを日本銀行本店に交付し、又は送信し、国庫内の移換の手続をさせなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">センター国税資金支払命令官等は、前条第二項の場合において国庫金振替書を交付するときは、これに納付書を添え、日本銀行本店に交付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1790,13 +1839,25 @@
                 <Sentence WritingMode="vertical">国税資金支払命令官等は、前条第一項の規定により発する国庫金振替書には、払出科目として国税収納金整理資金と記載する外、年度及び番号を附記し、且つ、その表面余白に「国税収納金整理資金」の印をおさなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">センター国税資金支払命令官等は、前条第三項の規定により交付し、又は送信する国庫金振替書には、払出科目として、年度及び国税収納金整理資金である旨並びに支払を行う取扱庁名ごとの金額を記載し、又は記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="84">
             <ArticleTitle>第八十四条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、第八十一条の規定により発する国庫金振替書には、振替先としてセンター支出官名、歳入の取扱庁名又は出納官吏名を、その受入科目として、歳出に返納する場合には、歳出年度、所管、会計名、部局等及び項を記載するとともに、返納金戻入れの旨を付記し、歳入に納付する場合には、歳入年度、主管（特別会計にあつては所管）及び会計名を記載し、預託金に払込む場合には、預託金を記載するとともに、その出納官吏の預託金を取り扱う日本銀行名を付記しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、第八十一条第一項の規定により発する国庫金振替書には、振替先としてセンター支出官名、歳入の取扱庁名又は出納官吏名を、その受入科目として、歳出に返納する場合には、歳出年度、所管、会計名、部局等及び項を記載するとともに、返納金戻入れの旨を付記し、歳入に納付する場合には、歳入年度、主管（特別会計にあつては所管）及び会計名を記載し、預託金に払込む場合には、預託金を記載するとともに、その出納官吏の預託金を取り扱う日本銀行名を付記しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２　センター国税資金支払命令官等は、第八十一条第二項の規定により交付し、又は送信する国庫金振替書には、振替先として納付する国税、特定地方税又は滞納処分費の取扱庁名を、その受入科目として、年度及び国税収納金整理資金である旨並びに第七十二条第十項の規定によりその他の事項として明らかにされた事項を記載し、又は記録しなければならない。</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"/>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1806,7 +1867,19 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、日本銀行に国庫金振替書を交付した場合には、日本銀行から振替済書を徴さなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、第八十一条第一項の規定により、日本銀行に国庫金振替書を交付した場合には、日本銀行から振替済書を徴さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">センター国税資金支払命令官等は、第八十一条第二項の規定により、日本銀行に国庫金振替書を交付し、又は送信した場合には、日本銀行から振替済書を徴さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">センター国税資金支払命令官等は、日本銀行本店から振替済書の交付又は送信を受けたときは、国税資金支払命令官等に電子情報処理組織を使用して、振替済みの通知をしなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1867,7 +1940,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、小切手を振り出し、若しくは国庫金振替書を交付し、又は支払指図書を交付若しくは送信し、受取人若しくは取引店から領収証書若しくは振替済書の交付又は支払済書の交付若しくは送信を受けたときは、直ちに支払決議書又は電子情報処理組織に支払命令済の旨を記載又は記録するとともに、支払命令済の年月日、支払命令済額、小切手、国庫金振替書又は支払指図書の番号その他必要な事項を資金支払簿に登記しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、小切手を振り出し、又は支払指図書若しくは国庫金振替書を交付若しくは送信し、受取人又は取引店から領収証書の交付又は支払済書若しくは振替済書の交付若しくは送信を受けたときは、直ちに支払決議書又は電子情報処理組織に支払命令済の旨を記載又は記録するとともに、支払命令済の年月日、支払命令済額、小切手、支払指図書又は国庫金振替書の番号その他必要な事項を資金支払簿に登記しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1984,20 +2057,20 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">国税資金支払命令官等は、日本銀行から国税収納金整理資金支払金月計突合表（以下「資金支払金月計突合表」という。）又は国税資金支払未済繰越金月計突合表（以下「資金支払未済繰越金月計突合表」という。）の送付を受けたときは、これを調査し、適正であると認めたときは、当該突合表に記名押印しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">国税資金支払命令官等は、日本銀行から国税収納金整理資金支払金月計突合表（以下「資金支払金月計突合表」という。）又は国税資金支払未済繰越金月計突合表（以下「資金支払未済繰越金月計突合表」という。）の送付又は送信を受けたときは、これを調査し、適正であると認めたときは、当該突合表に記名押印し、又は当該突合表が適正である旨を電子情報処理組織に記録しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、相違のある点については、その事由を付記するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、前項の規定により送付を受けた資金支払金月計突合表又は資金支払未済繰越金月計突合表に誤りがあることを発見したときは、当該突合表の送付を受けた月の第十二営業日までにその旨を日本銀行に通知しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、前項の規定により送付又は送信を受けた資金支払金月計突合表又は資金支払未済繰越金月計突合表に誤りがあることを発見したときは、当該突合表の送付を受けた月の第十二営業日までにその旨を日本銀行に通知しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">第一項の規定は、国税資金支払命令官等が前項の通知をした後、日本銀行から再度資金支払金月計突合表又は資金支払未済繰越金月計突合表の送付を受けた場合について準用する。</Sentence>
+                <Sentence WritingMode="vertical">第一項の規定は、国税資金支払命令官等が前項の通知をした後、日本銀行から再度資金支払金月計突合表又は資金支払未済繰越金月計突合表の送付又は送信を受けた場合について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2087,12 +2160,12 @@
         <Section Delete="false" Hide="false" Num="6">
           <SectionTitle>第六節　雑則</SectionTitle>
           <Article Delete="false" Hide="false" Num="100">
-            <ArticleCaption>（小切手、国庫金振替書及び支払指図書の記載事項の訂正）</ArticleCaption>
+            <ArticleCaption>（小切手、支払指図書及び国庫金振替書の記載事項の訂正）</ArticleCaption>
             <ArticleTitle>第百条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、その振り出した小切手に記載された年度、その発した国庫金振替書に記載された年度又はその交付若しくは送信した支払指図書に記載された年度、受入科目及び振替先に誤りがあることを発見したときは、翌年度五月三十一日までにその取引店にその訂正を請求することができる。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、その振り出した小切手に記載された年度又はその交付し、若しくは送信した支払指図書若しくは国庫金振替書に記載し、若しくは記録された年度、受入科目及び振替先に誤りがあることを発見したときは、翌年度五月三十一日までにその取引店にその訂正を請求することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2127,7 +2200,13 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等（センター国税資金支払命令官等を除く。）は、第七十二条第四項の通知をした後、同条第六項に掲げる事項に誤りがあることを発見したときは、センター国税資金支払命令官等にその訂正の請求を求めなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等（センター国税資金支払命令官等を除く。）は、第七十二条第四項の通知をした後、同条第六項から第十項までに掲げる事項の中で、金額以外のものについて誤りがあることを発見したときは、センター国税資金支払命令官等にその訂正の請求を求めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">センター国税資金支払命令官等は、前項の規定により国税資金支払命令官等から訂正の請求を受けたときは、日本銀行本店にその訂正を請求しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2143,7 +2222,7 @@
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">センター国税資金支払命令官等は、第七十六条第三項の手続をした後において、当該振込みを取り消す必要があり、かつ、当該振込みに係る支払金が支払未済であることを確かめたときは、日本銀行本店に対し、第三十一号の四書式の国庫金振込取消請求書を送付又は送信し、当該振込みの取消しを請求するとともに、その旨を国税収納命令官等に通知して、日本銀行本店に交付した金額を資金に返納させるため必要な手続をとらなければならない。</Sentence>
+                <Sentence WritingMode="vertical">センター国税資金支払命令官等は、第七十六条第三項の手続をした後において、当該送金又は振込みを取り消す必要があり、かつ、当該送金又は振込みに係る支払金が支払未済であることを確かめたときは、日本銀行本店に対し、第三十一号の四書式の国庫金送金又は振込取消請求書を送付又は送信し、当該送金又は振込みの取消しを請求するとともに、その旨を国税収納命令官等に通知して、日本銀行本店に交付した金額を資金に返納させるため必要な手続をとらなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="3">
@@ -2155,7 +2234,7 @@
             <Paragraph Hide="false" Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">第百一条の規定は、国税資金支払命令官等が、第一項の国庫金送金又は振込取消請求書及び第二項の国庫金振込取消請求書の記載事項について誤りのあることを発見したときについて準用する。</Sentence>
+                <Sentence WritingMode="vertical">第百一条の規定は、国税資金支払命令官等が、第一項の国庫金送金又は振込取消請求書及び第二項の国庫金送金又は振込取消請求書の記載事項について誤りのあることを発見したときについて準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2165,7 +2244,25 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国税資金支払命令官等は、第七十八条第一項の規定により受取人に送付した国庫金送金通知書が、受取人の受領前に亡失し、支払未済であることを確めたときは、その取引店をしてその支払の停止の手続をさせ、更に国庫金送金通知書を作製し、表面余白に「再発行」の印をおし、これを受取人に送付し、その旨をその取引店に通知しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等（センター国税資金支払命令官等を除く。以下この条において同じ。）は、第七十八条第一項の規定により受取人に送付した国庫金送金通知書（第七十六条第一項の手続に係るものに限る。）が、受取人の受領前に亡失し、支払未済であることを確めたときは、その取引店をしてその支払の停止の手続をさせ、更に国庫金送金通知書を作製し、表面余白に「再発行」の印をおし、これを受取人に送付し、その旨をその取引店に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、第七十八条第一条の規定により受取人に送付した国庫金送金通知書（第七十六条第三項の手続に係るものに限る。）が受取人の受領前に亡失し、支払未済であることを確めたときは、その旨をセンター国税資金支払命令官等に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">センター国税資金支払命令官等は、国税資金支払命令官等から前項の通知を受けた場合において、日本銀行本店にその支払の停止の手続を請求した後、支払停止済みの通知を受けたときは、その旨を国税資金支払命令官等に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国税資金支払命令官等は、センター国税資金支払命令官等から前項の通知を受けたときは、再度国庫金送金通知書を作製し、表面余白に「再発行」の印をおし、これを受取人に送付するとともに、その旨をセンター国税資金支払命令官等及び日本銀行本店に通知しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3796,6 +3893,15 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月二五日財務省令第五二号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年六月二十九日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第１号書式　削除</AppdxFormatTitle>
     </AppdxFormat>
@@ -3803,7 +3909,7 @@
       <AppdxFormatTitle WritingMode="vertical">第２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_001.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_001.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3814,7 +3920,7 @@
       <AppdxFormatTitle WritingMode="vertical">第４号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_002.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_002.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3825,7 +3931,7 @@
       <AppdxFormatTitle WritingMode="vertical">第６号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_003.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_003.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3833,7 +3939,7 @@
       <AppdxFormatTitle WritingMode="vertical">第７号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_004.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_004.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3841,7 +3947,7 @@
       <AppdxFormatTitle WritingMode="vertical">第８号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_005.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_005.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3849,7 +3955,7 @@
       <AppdxFormatTitle WritingMode="vertical">第８号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_006.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_006.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3857,7 +3963,7 @@
       <AppdxFormatTitle WritingMode="vertical">第９号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_007.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_007.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3865,7 +3971,7 @@
       <AppdxFormatTitle WritingMode="vertical">第９号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_008.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_008.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3873,7 +3979,7 @@
       <AppdxFormatTitle WritingMode="vertical">第１０号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_009.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_009.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3881,7 +3987,7 @@
       <AppdxFormatTitle WritingMode="vertical">第１１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_010.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_010.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3889,7 +3995,7 @@
       <AppdxFormatTitle WritingMode="vertical">第１２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_011.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_011.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3897,7 +4003,7 @@
       <AppdxFormatTitle WritingMode="vertical">第１３号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_012.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_012.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3905,7 +4011,7 @@
       <AppdxFormatTitle WritingMode="vertical">第１３号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_013.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_013.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3913,7 +4019,7 @@
       <AppdxFormatTitle WritingMode="vertical">第１４号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_014.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_014.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3921,7 +4027,7 @@
       <AppdxFormatTitle WritingMode="vertical">第１５号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_015.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_015.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3929,7 +4035,7 @@
       <AppdxFormatTitle WritingMode="vertical">第１６号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_016.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_016.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3940,7 +4046,7 @@
       <AppdxFormatTitle WritingMode="vertical">第１８号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_017.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_017.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3948,7 +4054,7 @@
       <AppdxFormatTitle WritingMode="vertical">第１８号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_018.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_018.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3956,7 +4062,7 @@
       <AppdxFormatTitle WritingMode="vertical">第１９号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_019.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_019.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3964,7 +4070,7 @@
       <AppdxFormatTitle WritingMode="vertical">第２０号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_020.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_020.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3972,7 +4078,7 @@
       <AppdxFormatTitle WritingMode="vertical">第２１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_021.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_021.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3980,7 +4086,7 @@
       <AppdxFormatTitle WritingMode="vertical">第２２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_022.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_022.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3988,7 +4094,7 @@
       <AppdxFormatTitle WritingMode="vertical">第２３号書式（その１）</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_023.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_023.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -3996,7 +4102,7 @@
       <AppdxFormatTitle WritingMode="vertical">第２３号書式（その２）</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_024.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_024.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4004,7 +4110,7 @@
       <AppdxFormatTitle WritingMode="vertical">第２３号書式（その３）</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_025.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_025.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4012,15 +4118,7 @@
       <AppdxFormatTitle WritingMode="vertical">第２３号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_026.pdf"/>
-        </Format>
-      </FormatStruct>
-    </AppdxFormat>
-    <AppdxFormat>
-      <AppdxFormatTitle WritingMode="vertical">第二十三号の三書式</AppdxFormatTitle>
-      <FormatStruct>
-        <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_027.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_026.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4028,7 +4126,7 @@
       <AppdxFormatTitle WritingMode="vertical">第２４号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_028.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_027.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4036,7 +4134,15 @@
       <AppdxFormatTitle WritingMode="vertical">第２５号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_029.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_028.pdf"/>
+        </Format>
+      </FormatStruct>
+    </AppdxFormat>
+    <AppdxFormat>
+      <AppdxFormatTitle WritingMode="vertical">第２５号の２書式</AppdxFormatTitle>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/S29F03401000039_2010212110_045.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4050,18 +4156,31 @@
       <AppdxFormatTitle WritingMode="vertical">第２８号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_030.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_029.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
     <AppdxFormat>
-      <AppdxFormatTitle WritingMode="vertical">第２９号書式　削除</AppdxFormatTitle>
+      <AppdxFormatTitle WritingMode="vertical">第２８号の２書式</AppdxFormatTitle>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/S29F03401000039_2010212110_046.pdf"/>
+        </Format>
+      </FormatStruct>
+    </AppdxFormat>
+    <AppdxFormat>
+      <AppdxFormatTitle WritingMode="vertical">第２９号書式</AppdxFormatTitle>
+      <FormatStruct>
+        <Format>
+          <Fig src="./pict/S29F03401000039_2010212110_047.pdf"/>
+        </Format>
+      </FormatStruct>
     </AppdxFormat>
     <AppdxFormat>
       <AppdxFormatTitle WritingMode="vertical">第３０号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_031.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_030.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4069,7 +4188,7 @@
       <AppdxFormatTitle WritingMode="vertical">第３０号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_032.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_031.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4077,7 +4196,7 @@
       <AppdxFormatTitle WritingMode="vertical">第３０号の３書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_033.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_032.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4085,7 +4204,7 @@
       <AppdxFormatTitle WritingMode="vertical">第３１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_034.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_033.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4093,7 +4212,7 @@
       <AppdxFormatTitle WritingMode="vertical">第３１号の２書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_035.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_034.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4101,7 +4220,7 @@
       <AppdxFormatTitle WritingMode="vertical">第３１号の３書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_036.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_035.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4109,7 +4228,7 @@
       <AppdxFormatTitle WritingMode="vertical">第三十一号の四書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_037.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_036.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4138,7 +4257,7 @@
       <AppdxFormatTitle WritingMode="vertical">第３５号の３書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_038.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_037.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4146,7 +4265,7 @@
       <AppdxFormatTitle WritingMode="vertical">第３６号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_039.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_038.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4157,7 +4276,7 @@
       <AppdxFormatTitle WritingMode="vertical">第３８号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_040.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_039.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4165,7 +4284,7 @@
       <AppdxFormatTitle WritingMode="vertical">第３９号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_041.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_040.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4173,7 +4292,7 @@
       <AppdxFormatTitle WritingMode="vertical">第４０号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_042.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_041.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4181,7 +4300,7 @@
       <AppdxFormatTitle WritingMode="vertical">第４１号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_043.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_042.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4189,7 +4308,7 @@
       <AppdxFormatTitle WritingMode="vertical">第４２号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_044.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_043.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>
@@ -4197,7 +4316,7 @@
       <AppdxFormatTitle WritingMode="vertical">第４３号書式</AppdxFormatTitle>
       <FormatStruct>
         <Format>
-          <Fig src="./pict/S29F03401000039_1911190911_045.pdf"/>
+          <Fig src="./pict/S29F03401000039_2010212110_044.pdf"/>
         </Format>
       </FormatStruct>
     </AppdxFormat>

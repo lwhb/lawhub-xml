@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="72" Year="26">
+<Law DataInfo="200818e81k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="72" Year="26">
   <LawNum>平成二十六年厚生労働省令第七十二号</LawNum>
   <LawBody>
     <LawTitle>生活保護法別表第一に規定する厚生労働省令で定める情報を定める省令</LawTitle>
-    <EnactStatement>生活保護法の一部を改正する法律（平成二十五年法律第百四号）の施行に伴い、及び生活保護法（昭和二十五年法律第百四十四号）別表第一の規定に基づき、生活保護法別表第一に規定する厚生労働省令で定める情報を定める省令を次のように定める。</EnactStatement>
     <MainProvision>
       <Article Num="1">
         <ArticleTitle>第一条</ArticleTitle>
@@ -42,47 +41,83 @@
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第二十二条の二第一項の規定により支給される休業給付</Sentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第二十条の四第一項の規定により支給される複数事業労働者休業給付</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第二十二条の三第一項の規定により支給される障害給付（同条第二項の障害年金に限る。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第二十条の五第一項の規定により支給される複数事業労働者障害給付（同条第二項の複数事業労働者障害年金に限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第二十二条の四第一項の規定により支給される遺族給付（同条第二項の遺族年金に限る。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第二十条の六第一項の規定により支給される複数事業労働者遺族給付（同条第二項の複数事業労働者遺族年金に限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第二十三条第一項の規定により支給される傷病年金</Sentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第二十条の八第一項の規定により支給される複数事業労働者傷病年金</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法附則第五十九条第一項の規定により支給される障害補償年金前払一時金</Sentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第二十二条の二第一項の規定により支給される休業給付</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法附則第六十条第一項の規定により支給される遺族補償年金前払一時金</Sentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第二十二条の三第一項の規定により支給される障害給付（同条第二項の障害年金に限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="10">
             <ItemTitle>十</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法附則第六十二条第一項の規定により支給される障害年金前払一時金</Sentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第二十二条の四第一項の規定により支給される遺族給付（同条第二項の遺族年金に限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="11">
             <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第二十三条第一項の規定により支給される傷病年金</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法附則第五十九条第一項の規定により支給される障害補償年金前払一時金</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法附則第六十条第一項の規定により支給される遺族補償年金前払一時金</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="14">
+            <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第六十条の三第一項の規定により支給される複数事業労働者障害年金前払一時金</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="15">
+            <ItemTitle>十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法第六十条の四第一項の規定により支給される複数事業労働者遺族年金前払一時金</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="16">
+            <ItemTitle>十六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法附則第六十二条第一項の規定により支給される障害年金前払一時金</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="17">
+            <ItemTitle>十七</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">労働者災害補償保険法附則第六十三条第一項の規定により支給される遺族年金前払一時金</Sentence>
             </ItemSentence>
@@ -898,6 +933,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月一七日厚生労働省令第一四一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この省令は、令和二年九月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

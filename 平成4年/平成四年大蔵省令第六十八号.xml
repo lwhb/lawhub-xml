@@ -501,11 +501,34 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年四月三日内閣府令第三五号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令は、情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日（令和二年五月一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この府令の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの府令の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">別紙様式第一</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H04F03401000068_1905101405_001.pdf"/>
+          <Fig src="./pict/H04F03401000068_2009021409_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -513,7 +536,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第一の二</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H04F03401000068_1905101405_002.pdf"/>
+          <Fig src="./pict/H04F03401000068_2009021409_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -521,7 +544,7 @@
       <AppdxStyleTitle WritingMode="vertical">別紙様式第二</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H04F03401000068_1905101405_003.pdf"/>
+          <Fig src="./pict/H04F03401000068_2009021409_003.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="412" Year="10">
+<Law DataInfo="200901e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="412" Year="10">
   <LawNum>平成十年政令第四百十二号</LawNum>
   <LawBody>
     <LawTitle>介護保険法施行令</LawTitle>
@@ -572,7 +572,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn>
-                      <Sentence>労働者災害補償保険法（昭和二十二年法律第五十号）の規定による療養補償給付及び療養給付</Sentence>
+                      <Sentence>労働者災害補償保険法（昭和二十二年法律第五十号）の規定による療養補償給付、複数事業労働者療養給付及び療養給付</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -662,7 +662,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn>
-                      <Sentence>労働者災害補償保険法の規定による介護補償給付及び介護給付</Sentence>
+                      <Sentence>労働者災害補償保険法の規定による介護補償給付、複数事業労働者介護給付及び介護給付</Sentence>
                     </TableColumn>
                     <TableColumn rowspan="13">
                       <Sentence>受けることができる給付（介護に要する費用を支出して介護を受けた部分に限る。）</Sentence>
@@ -17407,6 +17407,15 @@
         <ParagraphNum/>
         <ParagraphSentence>
           <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月八日政令第二一九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、雇用保険法等の一部を改正する法律附則第一条第三号に掲げる規定の施行の日（令和二年九月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
