@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200623e01k01m01" Era="Showa" Lang="ja" LawType="Rule" Num="14" Year="25">
+<Law DataInfo="200907e01k01m01" Era="Showa" Lang="ja" LawType="Rule" Num="14" Year="25">
   <LawNum>昭和二十五年電波監理委員会規則第十四号</LawNum>
   <LawBody>
     <LawTitle>電波法施行規則　抄</LawTitle>
@@ -3401,7 +3401,7 @@
                 <Subitem1 Num="6">
                   <Subitem1Title>（６）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>二四・七七ＧＨｚ以上二五・二三ＧＨｚ以下の周波数であつて二四・七七ＧＨｚ若しくは二四・七七ＧＨｚに一〇ＭＨｚの整数倍を加えたもの又は二七・〇二ＧＨｚ以上二七・四六ＧＨｚ以下の周波数であつて二七・〇二ＧＨｚ若しくは二七・〇二ＧＨｚに一〇ＭＨｚの整数倍を加えたもの</Sentence>
+                    <Sentence>二四・七七ＧＨｚ以上二五・二三ＧＨｚ以下の周波数であつて二四・七七ＧＨｚ又は二四・七七ＧＨｚに一〇ＭＨｚの整数倍を加えたもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="7">
@@ -5557,41 +5557,53 @@
                 <Subitem1 Num="13">
                   <Subitem1Title>（１３）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>設備規則第四十九条の十五第一項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence>設備規則第四十九条の六の十二第一項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="14">
                   <Subitem1Title>（１４）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>設備規則第四十九条の十九第一項及び第二項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence>設備規則第四十九条の六の十二第二項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="15">
                   <Subitem1Title>（１５）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence>設備規則第四十九条の十五第一項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="16">
                   <Subitem1Title>（１６）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>設備規則第四十九条の二十五に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence>設備規則第四十九条の十九第一項及び第二項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="17">
                   <Subitem1Title>（１７）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>設備規則第四十九条の二十八に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence>設備規則第四十九条の二十一第一項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="18">
                   <Subitem1Title>（１８）</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>設備規則第四十九条の二十九第一項、第三項及び第八項並びに第一項、第四項及び第八項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                    <Sentence>設備規則第四十九条の二十五に規定する技術基準のうち陸上移動局に係るもの</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="19">
                   <Subitem1Title>（１９）</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>設備規則第四十九条の二十八に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="20">
+                  <Subitem1Title>（２０）</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>設備規則第四十九条の二十九第一項、第三項及び第八項並びに第一項、第四項及び第八項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="21">
+                  <Subitem1Title>（２１）</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence>設備規則第四十九条の二十九第一項、第七項及び第八項に規定する技術基準のうち陸上移動局に係るもの</Sentence>
                   </Subitem1Sentence>
@@ -22789,6 +22801,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年一月二四日総務省令第四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一号　呼出符号又は呼出名称指定申請書の様式</AppdxTableTitle>

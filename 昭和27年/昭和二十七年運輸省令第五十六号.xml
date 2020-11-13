@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="200903e05k09m01" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="056" Year="27">
+<Law DataInfo="201030e03k11m02" Era="Showa" Lang="ja" LawType="MinisterialOrdinance" Num="056" Year="27">
   <LawNum>昭和二十七年運輸省令第五十六号</LawNum>
   <LawBody>
     <LawTitle>航空法施行規則</LawTitle>
@@ -740,12 +740,6 @@
             <Item Delete="false" Hide="false" Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">航空機に装備する発動機、プロペラ及び第三十一条第一項の装備品の限界使用時間</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Delete="false" Hide="false" Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
                 <Sentence WritingMode="vertical">その他必要な事項</Sentence>
               </ItemSentence>
             </Item>
@@ -818,7 +812,7 @@
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence Num="1" WritingMode="vertical">次のいずれかの修理作業</Sentence>
                     <Sentence Num="2" WritingMode="vertical">一　次に掲げる修理作業その他の耐空性に大きな影響を及ぼす複雑な修理作業</Sentence>
-                    <Sentence Num="3" WritingMode="vertical">イ　主要構造部材の強度に相当の影響を及ぼすおそれのある伸ばし、継ぎ、容接又はこれに類似した作業</Sentence>
+                    <Sentence Num="3" WritingMode="vertical">イ　主要構造部材の強度に相当の影響を及ぼすおそれのある伸ばし、継ぎ、溶接又はこれに類似した作業</Sentence>
                     <Sentence Num="4" WritingMode="vertical">ロ　複雑な又は特殊な技量又は装置を必要とする作業</Sentence>
                     <Sentence Num="5" WritingMode="vertical">二　その仕様について第十四条第一項の国土交通大臣の承認を受けていない装備品又は部品を用いる修理作業</Sentence>
                   </TableColumn>
@@ -1313,6 +1307,12 @@
                 <Sentence WritingMode="vertical">前項の規定により行うべき表示の方法については、第三項の装備品等型式（仕様）承認書において指定する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Hide="false" Num="12">
+              <ParagraphNum>１２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第二十三条の十の規定は、前条第一項の承認を受けた者であつて、本邦内に住所（法人にあつては、その主たる事務所）を有するものについて準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="15">
             <ArticleTitle>第十五条</ArticleTitle>
@@ -1331,7 +1331,7 @@
             <Paragraph Hide="false" Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">第一項の認定を受けた装備品又は部品は、法第十条第四項又は法第十七条第二項の検査においては、法第十条第四項第一号の基準に適合しているものとみなす。</Sentence>
+                <Sentence WritingMode="vertical">第一項の認定を受けた装備品又は部品は、法第十条第四項又は法第十八条第二項の検査においては、法第十条第四項第一号の基準に適合しているものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1349,7 +1349,13 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">航空機の使用者は、耐空証明書を失い、破り、又は汚したため再交付を申請しようとするときは、再交付申請書（第八号の二様式）に、耐空証明書（失つた場合を除く。）を添えて、その耐空証明書を交付した者に提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">航空機の使用者は、耐空証明書の記載事項に変更（国土交通大臣が軽微と認めるものに限る。）を生じ、又はこれを失い、破り、若しくは汚したため再交付を申請しようとするときは、再交付申請書（第八号の二様式）に、書換えの理由を証する書類（記載事項を変更しようとする場合に限る。）及び当該耐空証明書（失つた場合を除く。）を添えて、当該耐空証明書を交付した者に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の申請を受けた者は、当該申請が正当であると認めるときは、耐空証明書を再交付する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1584,7 +1590,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">耐空検査員は、法第十条の二第一項の耐空証明を行つたとき、又は法第十六条第二項の検査を行つたときは、次の各号に掲げる事項を記載した報告書及び検査記録書を作成し、遅滞なく国土交通大臣に提出しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">耐空検査員は、法第十条の二第一項の耐空証明を行つたとき、又は法第十七条第二項の検査を行つたときは、次の各号に掲げる事項を記載した報告書及び検査記録書を作成し、遅滞なく国土交通大臣に提出しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、検査記録書の提出にあつては、国土交通大臣の要求があつた場合に限るものとする。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
@@ -1661,7 +1667,7 @@
                 <Subitem1 Delete="false" Hide="false" Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">法第十六条第二項の検査を行つたとき</Sentence>
+                    <Sentence WritingMode="vertical">法第十七条第二項の検査を行つたとき</Sentence>
                   </Subitem1Sentence>
                   <Subitem2 Delete="false" Hide="false" Num="1">
                     <Subitem2Title>（一）</Subitem2Title>
@@ -1767,7 +1773,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十一条第一項ただし書（同条第三項、法第十六条第三項及び法第十九条第三項において準用する場合を含む。）の許可を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">法第十一条第一項ただし書（同条第三項、法第十七条第三項及び法第十九条第三項において準用する場合を含む。）の許可を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -1808,7 +1814,7 @@
               <Item Delete="false" Hide="false" Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">法第十六条第三項又は法第十九条第三項において準用する法第十一条第一項ただし書の許可を受けようとする者にあつては、当該許可に係る修理、改造又は整備の内容</Sentence>
+                  <Sentence WritingMode="vertical">法第十七条第三項又は法第十九条第三項において準用する法第十一条第一項ただし書の許可を受けようとする者にあつては、当該許可に係る修理、改造又は整備の内容</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="8">
@@ -1937,6 +1943,12 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二項の規定にかかわらず、その型式の設計について国際民間航空条約の締約国たる外国が我が国と同等以上の基準及び手続により型式証明その他の行為をしたと国土交通大臣が認めた航空機については、設計、製造過程又は現状について検査の一部を行わないことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="19">
             <ArticleTitle>第十九条</ArticleTitle>
@@ -1986,7 +1998,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十三条第四項の国土交通省令で定める変更は、第六条の表に掲げる設計の変更の区分のうちの小変更であつて、次に掲げる変更に該当しないものとする。</Sentence>
+                <Sentence WritingMode="vertical">法第十三条第四項の国土交通省令で定める変更は、次に掲げる変更に該当しないものとする。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -2040,7 +2052,7 @@
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の規定にかかわらず、法第十三条の三第一項の規定による国土交通大臣の命令を受けて設計の変更を行う場合には、当該変更は法第十三条第四項の変更に含まれないものとする。</Sentence>
+                <Sentence WritingMode="vertical">前項の規定にかかわらず、法第十三条の五第一項の規定による国土交通大臣の命令を受けて設計の変更を行う場合には、当該変更は法第十三条第四項の変更に含まれないものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2261,6 +2273,12 @@
                 </ItemSentence>
               </Item>
             </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二項の規定にかかわらず、その追加型式設計について国際民間航空条約の締約国たる外国が我が国と同等以上の基準及び手続により承認その他の行為をしたと国土交通大臣が認めた航空機については、設計、製造過程又は現状について検査の一部を行わないことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="23_3">
             <ArticleTitle>第二十三条の三</ArticleTitle>
@@ -2310,13 +2328,13 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十三条の二第四項の国土交通省令で定める変更は、第六条の表に掲げる設計の変更の区分のうちの小変更であつて、第二十二条の二第一項各号に掲げる設計の変更に該当しないものとする。</Sentence>
+                <Sentence WritingMode="vertical">法第十三条の二第四項の国土交通省令で定める変更は、第二十二条の二第一項各号に掲げる設計の変更に該当しないものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の規定にかかわらず、法第十三条の三第一項の規定による国土交通大臣の命令を受けて設計の変更を行う場合には、当該変更は法第十三条の二第四項の変更に含まれないものとする。</Sentence>
+                <Sentence WritingMode="vertical">前項の規定にかかわらず、法第十三条の五第一項の規定による国土交通大臣の命令を受けて設計の変更を行う場合には、当該変更は法第十三条の二第四項の変更に含まれないものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2420,18 +2438,113 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="23_9">
-            <ArticleCaption>（型式証明書等の提出）</ArticleCaption>
+            <ArticleCaption>（航空機の整備及び改造に関する情報）</ArticleCaption>
             <ArticleTitle>第二十三条の九</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">型式証明又は追加型式設計の承認（以下この条において「型式証明等」という。）を受けた者は、法第十三条の三第二項の規定により型式証明等を取り消されたときは、直ちに、当該型式証明等に係る型式証明書又は追加型式設計承認書を国土交通大臣に提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">法第十三条の三の国土交通省令で定める技術上の情報は、整備及び改造の箇所、時期及び実施の方法とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="23_10">
-            <ArticleCaption>（耐空証明の有効期間の起算日）</ArticleCaption>
+            <ArticleCaption>（法第十三条の四の国土交通省令で定める事態の報告等）</ArticleCaption>
             <ArticleTitle>第二十三条の十</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>法第十三条の四（法第十七条の二第五項において準用する場合を含む。）の規定により情報を収集し、これを報告する者（以下この条において「本邦型式証明保有者等」という。）は、型式証明を受けた型式の航空機、追加型式設計の承認を受けた設計に係る航空機又は耐空証明のある航空機の修理若しくは改造のための設計の一部の変更（以下「修理改造設計」という。）の承認を受けた設計に係る航空機（当該本邦型式証明保有者等が受けた当該型式証明又は承認に係るものに限る。以下この条及び次条において「国産航空機等」という。）について、次条各号に掲げる事態（追加型式設計又は修理改造設計の承認を受けた者にあつては、当該設計に係る部分に限る。第三項において同じ。）に関する情報を、国産航空機等の使用者又は国産航空機等若しくはその装備品若しくは部品の製造、整備若しくは改造をする者から収集し、整理し、及び分析するための体制を整備しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">本邦型式証明保有者等は、前項の規定により情報の収集、整理及び分析を行つたときは、その結果を記載し、又は記録した書面又は電磁的記録を作成し、保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">本邦型式証明保有者等は、国産航空機等について次条各号に掲げる事態の発生を知つた時から七十二時間以内においてできる限り速やかに、次に掲げる事項を国土交通大臣に速報しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">氏名又は名称</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">航空機の国籍、登録記号及び型式</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">報告に係る事態が発生した日時及び場所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">報告に係る事態の概要</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">その他参考となる事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">本邦型式証明保有者等は、前項の規定により速報した事態の原因が設計又は製造過程にあると認める場合、必要な改善措置について、国土交通大臣に報告するとともに、当該改善措置の内容が適切であるかどうかの技術的な検証のために必要な事項を記載した書類を国土交通大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23_11">
+            <ArticleTitle>第二十三条の十一</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第十三条の四の国土交通省令で定める事態は、次に掲げる事態とする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">法第七十六条第一項各号に掲げる事故</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">法第七十六条の二に規定する事態（設計又は製造過程に起因し、又は起因すると疑われるものに限る。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前二号に掲げるもののほか、国産航空機等が法第十条第四項の基準に適合せず、又は同項の基準に適合しなくなるおそれがあるものとして国土交通大臣が認める事態</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23_12">
+            <ArticleCaption>（型式証明書等の提出）</ArticleCaption>
+            <ArticleTitle>第二十三条の十二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">型式証明又は追加型式設計の承認（以下この条において「型式証明等」という。）を受けた者は、法第十三条の五第二項の規定により型式証明等を取り消されたときは、直ちに、当該型式証明等に係る型式証明書又は追加型式設計承認書を国土交通大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23_13">
+            <ArticleCaption>（耐空証明の有効期間の起算日）</ArticleCaption>
+            <ArticleTitle>第二十三条の十三</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -2440,13 +2553,117 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Delete="false" Hide="false" Num="23_11">
-            <ArticleCaption>（耐空証明書等の提出等）</ArticleCaption>
-            <ArticleTitle>第二十三条の十一</ArticleTitle>
+          <Article Delete="false" Hide="false" Num="23_14">
+            <ArticleCaption>（法第十四条の二第一項の整備規程）</ArticleCaption>
+            <ArticleTitle>第二十三条の十四</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">航空機の使用者は、法第十四条の二第二項の規定により当該航空機の耐空証明の効力が停止されたときは、直ちに、当該航空機の耐空証明書を国土交通大臣に提出しなければならない。</Sentence>
+                <Sentence>法第十四条の二第一項の国土交通省令で定める航空機の整備に関する事項は第二百十四条の表第二号の上欄に掲げるとおりとし、法第十四条の二第二項の国土交通省令で定める技術上の基準は同号の上欄に掲げる事項についてそれぞれ同号の下欄に掲げるとおりとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23_15">
+            <ArticleCaption>（整備規程の認定の申請等）</ArticleCaption>
+            <ArticleTitle>第二十三条の十五</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>法第十四条の二第一項の規定により、整備規程の設定の認定を申請しようとする者は、次に掲げる事項を記載した整備規程設定認定申請書を国土交通大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">氏名又は名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">設定しようとする整備規程</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第十四条の二第三項の規定により、整備規程の変更の認定を申請しようとする者は、次に掲げる事項を記載した整備規程変更認定申請書を国土交通大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">氏名又は名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">変更しようとする整備規程（新旧の対照を明示すること。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">変更を必要とする理由</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第十四条の二第三項の国土交通省令で定める軽微な変更は、次のとおりとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">機体並びに装備品、部品及び救急用具（以下この節及び第七章第一節において「装備品等」という。）の製造者等の作成する整備に関する技術的資料に準拠した変更</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">整備に関する職務を実施する組織の名称の変更であつて、その職務の範囲及び内容の変更を伴わないもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前二号に掲げるもののほか、航空機の運航の安全に影響を及ぼすおそれの少ないものとして国土交通大臣が認める事項の変更</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第十四条の二第五項の規定により整備規程の変更の届出をしようとする者は、次に掲げる事項を記載した整備規程変更届出書を国土交通大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">氏名又は名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">変更した事項（新旧の対照を明示すること。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">実施日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23_16">
+            <ArticleCaption>（耐空証明書等の提出等）</ArticleCaption>
+            <ArticleTitle>第二十三条の十六</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">航空機の使用者は、法第十四条の三第二項の規定により当該航空機の耐空証明の効力が停止されたときは、直ちに、当該航空機の耐空証明書を国土交通大臣に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -2456,14 +2673,66 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Delete="false" Hide="false" Num="23_12">
+          <Article Delete="false" Hide="false" Num="23_17">
             <ArticleCaption>（航空の用に供してはならない航空機）</ArticleCaption>
-            <ArticleTitle>第二十三条の十二</ArticleTitle>
+            <ArticleTitle>第二十三条の十七</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence WritingMode="vertical">法第十五条第二号の国土交通省令で定める航空機は、第十四条第二項の基準に適合しないターボジェット発動機又はターボファン発動機を装備する航空機であつて、最大離陸重量が三万四千キログラムを超えるものとする。</Sentence>
               </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23_18">
+            <ArticleCaption>（使用者の整備及び改造の義務）</ArticleCaption>
+            <ArticleTitle>第二十三条の十八</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第十六条の規定により航空機を法第十条第四項の基準に適合するように維持しなければならない者は、次の各号に掲げる航空機について、それぞれ当該各号に定める措置を講ずることとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">航空運送事業の用に供する航空機　法第百四条第一項の認可を受けた整備規程により整備をし、及び必要に応じ改造をすること</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">法第十四条の二第一項の認定を受けた整備規程（同条第三項の変更の認定又は同条第五項の規定による届出があつたときは、その変更後のもの）により整備をする航空機　当該整備規程により整備をし、及び必要に応じ改造をすること</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前二号に掲げる航空機以外の航空機　次に定めるところにより行うこと</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">機体及び装備品等の製造者等の作成する整備に関する技術的資料に準拠して適切な日常整備、定時整備又はオーバーホールを実施すること</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">航空機に発生した不具合を適切に是正すること</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">整備作業の結果を適確に記録し、保存すること</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">その他航空機を法第十条第四項の基準に適合するように維持するため必要な整備又は改造をすること</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="24">
@@ -2472,7 +2741,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十六条第一項の検査を受けるべき国土交通省令で定める範囲の修理又は改造は、次の表の上欄に掲げる航空機の区分に応じ、それぞれ同表の下欄に掲げるものとする。</Sentence>
+                <Sentence WritingMode="vertical">法第十七条第一項の検査を受けるべき国土交通省令で定める範囲の修理又は改造は、次の表の上欄に掲げる航空機の区分に応じ、それぞれ同表の下欄に掲げるものとする。</Sentence>
               </ParagraphSentence>
               <TableStruct>
                 <Table WritingMode="vertical">
@@ -2517,8 +2786,29 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十六条第一項の検査を受けることを要しない国土交通省令で定める範囲の修理は、第五条の六の表に掲げる作業の区分のうちの大修理であつて、前条の表第二号の下欄ロ及びハに掲げる修理に該当しないものとする。</Sentence>
+                <Sentence WritingMode="vertical">法第十七条第一項の検査を受けることを要しない国土交通省令で定める範囲の修理は、第五条の六の表に掲げる作業の区分のうちの大修理であつて、前条の表第二号の下欄ロ及びハに掲げる修理に該当しないものとする。</Sentence>
               </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="24_3">
+            <ArticleTitle>第二十四条の三</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第十七条第一項の国土交通省令で定める輸入した航空機の修理又は改造のための設計は、次に掲げるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">耐空性、騒音又は発動機の排出物について国際民間航空条約の締約国たる外国が我が国と同等以上の基準及び手続により承認その他の行為をしたと国土交通大臣が認めた航空機の修理又は改造のための設計</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">航空機の設計の能力についての認定その他の行為に関して我が国と同等以上の基準及び手続を有すると国土交通大臣が認めた外国において、当該基準及び手続により当該認定その他の行為を受けた者が設計し、かつ、耐空性、騒音又は発動機の排出物について確認した航空機の修理又は改造のための設計</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="25">
@@ -2526,42 +2816,141 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十六条第一項又は第二項の検査を受けようとする者は、修理改造検査申請書（第十二号様式）を国土交通大臣又は耐空検査員に提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">法第十七条第一項又は第二項の検査を受けようとする者は、修理改造検査申請書（第十二号様式）を国土交通大臣又は耐空検査員に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の申請書に添付すべき書類及び提出の時期は、次の表による。</Sentence>
+                <Sentence WritingMode="vertical">前項の申請書に添付すべき書類及び提出の時期は、次の表に掲げる区分による。</Sentence>
               </ParagraphSentence>
               <TableStruct>
-                <Table WritingMode="vertical">
+                <Table>
                   <TableRow>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">添付書類</Sentence>
+                    <TableColumn Align="center" Valign="middle" colspan="3">
+                      <Sentence>区分</Sentence>
                     </TableColumn>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">提出の時期</Sentence>
+                    <TableColumn Align="center" Valign="middle">
+                      <Sentence>添付書類</Sentence>
+                    </TableColumn>
+                    <TableColumn Align="center" Valign="middle">
+                      <Sentence>提出の時期</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">一　修理又は改造の計画</Sentence>
+                    <TableColumn Align="center" Valign="middle" rowspan="2">
+                      <Sentence>一</Sentence>
                     </TableColumn>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">作業着手前</Sentence>
+                    <TableColumn Valign="middle" colspan="2" rowspan="2">
+                      <Sentence>法第十七条の二第一項の承認を受けた設計に基づき修理又は改造をする航空機</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence Num="1">一　第二十六条の五の規定により交付がされた修理改造設計承認書の写し又は第四十一条第一項の規定により交付を受けた設計基準適合証</Sentence>
+                      <Sentence Num="2">二　修理又は改造の計画（航空機の修理又は改造のための設計に係る部分を除く。）</Sentence>
+                      <Sentence/>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>作業着手前</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">二　飛行規程（変更に係る部分に限る。）</Sentence>
-                      <Sentence Num="2" WritingMode="vertical">三　整備手順書（変更に係る部分に限る。）</Sentence>
-                      <Sentence Num="3" WritingMode="vertical">四　航空機の重量及び重心位置の算出に必要な事項を記載した書類</Sentence>
-                      <Sentence Num="4" WritingMode="vertical">五　第三十九条の四第一項の規定により検査の確認をした旨を証する書類（次条第二項に掲げる航空機に限る。）</Sentence>
-                      <Sentence Num="5" WritingMode="vertical">六　前各号に掲げるもののほか、参考事項を記載した書類</Sentence>
+                    <TableColumn Valign="middle">
+                      <Sentence Num="1">三　飛行規程（変更に係る部分に限る。）</Sentence>
+                      <Sentence Num="2">四　整備手順書（変更に係る部分に限る。）</Sentence>
+                      <Sentence Num="3">五　航空機の重量及び重心位置の算出に必要な事項を記載した書類</Sentence>
+                      <Sentence Num="4">六　前三号に掲げるもののほか、参考事項を記載した書類</Sentence>
                     </TableColumn>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">現状についての検査実施前</Sentence>
+                    <TableColumn Valign="middle">
+                      <Sentence>現状についての検査実施前</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Align="center" Valign="middle" rowspan="2">
+                      <Sentence>二</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle" colspan="2" rowspan="2">
+                      <Sentence>前条各号に掲げる輸入した航空機の修理又は改造のための設計に基づき修理又は改造をする航空機</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence Num="1">一　前条第一号に規定する承認その他の行為がされたことを証明する書類又は同条第二号に規定する確認がされた旨を証する書類</Sentence>
+                      <Sentence Num="2">二　修理又は改造の計画（航空機の修理又は改造のための設計に係る部分を除く。）</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>作業着手前</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="middle">
+                      <Sentence Num="1">三　飛行規程（変更に係る部分に限る。）</Sentence>
+                      <Sentence Num="2">四　整備手順書（変更に係る部分に限る。）</Sentence>
+                      <Sentence Num="3">五　航空機の重量及び重心位置の算出に必要な事項を記載した書類</Sentence>
+                      <Sentence Num="4">六　前三号に掲げるもののほか、参考事項を記載した書類</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>現状についての検査実施前</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Align="center" Valign="middle" rowspan="5">
+                      <Sentence>三</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle" rowspan="5">
+                      <Sentence>一及び二に掲げる航空機以外の航空機</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle" rowspan="3">
+                      <Sentence>次条第二項に規定する航空機以外のもの</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>一　設計計画書</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>設計の初期</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="middle">
+                      <Sentence Num="1">二　設計書</Sentence>
+                      <Sentence Num="2">三　図面目録</Sentence>
+                      <Sentence Num="3">四　設計図面</Sentence>
+                      <Sentence Num="4">五　部品表</Sentence>
+                      <Sentence Num="5">六　修理又は改造の計画（航空機の修理又は改造のための設計に係る部分を除く。）</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>作業着手前</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="middle">
+                      <Sentence Num="1">七　飛行規程（変更に係る部分に限る。）</Sentence>
+                      <Sentence Num="2">八　整備手順書（変更に係る部分に限る。）</Sentence>
+                      <Sentence Num="3">九　航空機の重量及び重心位置の算出に必要な事項を記載した書類</Sentence>
+                      <Sentence Num="4">十　前三号に掲げるもののほか、参考事項を記載した書類</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>現状についての検査実施前</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="middle" rowspan="2">
+                      <Sentence>次条第二項に規定する航空機</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence Num="1">一　第二十二条の規定により交付がされた型式証明書の写し、第二十三条の三若しくは第二十三条の六の規定により交付がされた追加型式設計承認書の写し又は第四十一条第一項の規定により交付がされた設計基準適合証の写し</Sentence>
+                      <Sentence Num="2">二　修理又は改造の計画（航空機の修理又は改造のための設計に係る部分を除く。）</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>作業着手前</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="middle">
+                      <Sentence Num="1">三　飛行規程（変更に係る部分に限る。）</Sentence>
+                      <Sentence Num="2">四　整備手順書（変更に係る部分に限る。）</Sentence>
+                      <Sentence Num="3">五　航空機の重量及び重心位置の算出に必要な事項を記載した書類</Sentence>
+                      <Sentence Num="4">六　前三号に掲げるもののほか、参考事項を記載した書類</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>現状についての検査実施前</Sentence>
                     </TableColumn>
                   </TableRow>
                 </Table>
@@ -2573,13 +2962,13 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十六条第一項又は第二項の検査は、修理又は改造の計画、過程及び作業完了後の現状について行う。</Sentence>
+                <Sentence WritingMode="vertical">法第十七条第一項又は第二項の検査は、修理又は改造の計画、過程及び作業完了後の現状について行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の規定にかかわらず、法第二十条第一項第一号の能力について同項の認定を受けた者が、第三十五条第七号の規定により、当該認定に係る設計及び設計後の検査をした航空機については、修理又は改造の計画又は過程について検査の一部を行わないことができる。</Sentence>
+                <Sentence WritingMode="vertical">前項の規定にかかわらず、法第十三条第一項、法第十三条の二第一項若しくは第三項の承認を受けた設計に基づき修理又は改造をする航空機については、修理又は改造の計画（航空機の修理又は改造のための設計に係るものに限る。）又は過程について検査の一部を行わないことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2588,7 +2977,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">国土交通大臣又は耐空検査員は、法第十六条第一項又は第二項の検査の結果、航空機が次の表の上欄に掲げる航空機の区分及び同表の中欄に掲げる修理又は改造の範囲に応じ、それぞれ同表の下欄に掲げる基準に適合すると認めるときは、これを合格とするものとする。</Sentence>
+                <Sentence WritingMode="vertical">国土交通大臣又は耐空検査員は、法第十七条第一項又は第二項の検査の結果、航空機が次の表の上欄に掲げる航空機の区分及び同表の中欄に掲げる修理又は改造の範囲に応じ、それぞれ同表の下欄に掲げる基準に適合すると認めるときは、これを合格とするものとする。</Sentence>
               </ParagraphSentence>
               <TableStruct>
                 <Table WritingMode="vertical">
@@ -2661,13 +3050,281 @@
               </TableStruct>
             </Paragraph>
           </Article>
+          <Article Delete="false" Hide="false" Num="26_3">
+            <ArticleCaption>（修理改造設計の承認）</ArticleCaption>
+            <ArticleTitle>第二十六条の三</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">修理改造設計について法第十七条の二第一項の承認を申請しようとする者は、修理改造設計承認申請書（第十二号の二様式）を国土交通大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の申請書に添付すべき書類及び提出の時期は、次の表による。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table>
+                  <TableRow>
+                    <TableColumn Align="center" Valign="middle">
+                      <Sentence>添付書類</Sentence>
+                    </TableColumn>
+                    <TableColumn Align="center" Valign="middle">
+                      <Sentence>提出の時期</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="middle">
+                      <Sentence>一　設計計画書</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>設計の初期</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="middle">
+                      <Sentence Num="1">二　設計書</Sentence>
+                      <Sentence Num="2">三　図面目録</Sentence>
+                      <Sentence Num="3">四　設計図面</Sentence>
+                      <Sentence Num="4">五　部品表</Sentence>
+                      <Sentence Num="5">六　仕様書（変更に係る部分に限る。）</Sentence>
+                      <Sentence Num="6">七　飛行規程（変更に係る部分に限る。）</Sentence>
+                      <Sentence Num="7">八　整備手順書（変更に係る部分に限る。）</Sentence>
+                      <Sentence Num="8">九　航空機の重量及び重心位置の算出に必要な事項を記載した書類</Sentence>
+                      <Sentence Num="9">十　第三十九条の四第一項の規定により検査の確認をした旨を証する書類（次条第二項に規定する修理改造設計に係る設計に限る。）</Sentence>
+                      <Sentence Num="10">十一　第二号から前号までに掲げるもののほか、参考事項を記載した書類</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="middle">
+                      <Sentence>検査希望時期まで</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26_4">
+            <ArticleTitle>第二十六条の四</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">修理改造設計の承認を行うための検査は、当該修理改造設計に係る設計について行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定にかかわらず、法第十七条の二第一項の承認を申請した者であつて、法第二十条第一項第一号の能力について同項の認定を受けたものが、第三十五条第七号の規定により、当該認定に係る設計及び設計後の検査をした設計については、検査の一部を行わないことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26_5">
+            <ArticleTitle>第二十六条の五</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第十七条の二第一項の承認は、申請者に修理改造設計承認書（第十二号の三様式）を交付することによつて行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26_6">
+            <ArticleTitle>第二十六条の六</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第十七条の二第二項の規定による確認をした旨の届出をしようとする者は、同条第五項において準用する法第十三条第五項の規定により、次に掲げる事項を記載した届出書を国土交通大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">氏名又は名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">認定事業場の名称及び所在地</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該確認をした設計の内容</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の届出書には、次に掲げる書類を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">設計書</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">図面目録</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">設計図面</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">部品表</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">仕様書</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">飛行規程</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">整備手順書</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">航空機の重量及び重心位置の算出に必要な事項を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第四十一条第一項の規定により交付した設計基準適合証の写し</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前各号に掲げるもののほか、参考事項を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26_7">
+            <ArticleCaption>（修理改造設計の変更の承認）</ArticleCaption>
+            <ArticleTitle>第二十六条の七</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第十七条の二第三項の承認を受けようとする者は、修理改造設計変更申請書（第十二号の四様式）に現に有する修理改造設計承認書又は第四十一条第一項の規定により交付した設計基準適合証の写し及び第二十六条の三第二項の表に従い当該変更に係る事項を記載した添付書類を添えて国土交通大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第二十六条の三第二項の規定は、前項の添付書類の提出の時期について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26_8">
+            <ArticleTitle>第二十六条の八</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第二十六条の四の規定は、前条の場合に準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26_9">
+            <ArticleTitle>第二十六条の九</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第十七条の二第三項の承認は、新たに修理改造設計承認書を交付することによつて行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26_10">
+            <ArticleTitle>第二十六条の十</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第十七条の二第四項の国土交通省令で定める変更は、第二十二条の二第一項各号に掲げる設計の変更に該当しないものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定にかかわらず、法第十七条の二第五項において準用する法第十三条の五第一項の規定による国土交通大臣の命令を受けて設計の変更を行う場合には、当該変更は法第十七条の二第四項の変更に含まれないものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26_11">
+            <ArticleTitle>第二十六条の十一</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法第十七条の二第四項の規定による確認をした旨の届出をしようとする者は、同条第五項において準用する法第十三条第五項の規定により、次に掲げる事項を記載した届出書を国土交通大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">氏名又は名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">認定事業場の名称及び所在地</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">修理改造設計承認書又は設計基準適合証の番号及び修理改造設計の内容</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該確認をした設計の変更の内容</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第二十六条の六第二項の規定は、前項の届出書について準用する。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同項第一号から第八号までに掲げる書類にあつては、変更に係る部分に限る。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26_12">
+            <ArticleTitle>第二十六条の十二</ArticleTitle>
+            <Paragraph Hide="false" Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第二十三条の十二の規定は、法第十七条の二第五項において法第十三条の五第二項の規定を準用する場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Delete="false" Hide="false" Num="27">
             <ArticleCaption>（予備品証明）</ArticleCaption>
             <ArticleTitle>第二十七条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十七条第一項の国土交通省令で定める安全性の確保のため重要な装備品とは、次に掲げるものをいう。</Sentence>
+                <Sentence WritingMode="vertical">法第十八条第一項の国土交通省令で定める安全性の確保のため重要な装備品とは、次に掲げるものをいう。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -2702,7 +3359,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十七条第一項の予備品証明を受けようとする者は、予備品証明申請書（第十三号様式）を国土交通大臣に提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">法第十八条第一項の予備品証明を受けようとする者は、予備品証明申請書（第十三号様式）を国土交通大臣に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2711,7 +3368,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十七条第二項の検査は、設計、製造過程、整備又は改造の過程及び現状について行う。</Sentence>
+                <Sentence WritingMode="vertical">法第十八条第二項の検査は、設計、製造過程、整備又は改造の過程及び現状について行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Hide="false" Num="2">
@@ -2759,7 +3416,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十七条第二項の予備品証明は、同項の検査に合格した装備品について、予備品証明書（第十四号様式）を交付するか、又は予備品検査合格の表示（第十五号様式又は第十五号の二様式）をすることによつて行う。</Sentence>
+                <Sentence WritingMode="vertical">法第十八条第二項の予備品証明は、同項の検査に合格した装備品について、予備品証明書（第十四号様式）を交付するか、又は予備品検査合格の表示（第十五号様式又は第十五号の二様式）をすることによつて行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2769,7 +3426,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十七条第三項第四号の国土交通省令で定める輸入した装備品は、次に掲げるものとする。</Sentence>
+                <Sentence WritingMode="vertical">法第十八条第三項第四号の国土交通省令で定める輸入した装備品は、次に掲げるものとする。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -2791,30 +3448,13 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十七条第四項の国土交通省令で定める範囲の修理及び改造は、第五条の六の表に掲げる作業の区分のうちの大修理又は改造（滑空機に装備する予備品にあつては、小改造を除く。）とする。</Sentence>
+                <Sentence WritingMode="vertical">法第十八条第四項の国土交通省令で定める範囲の修理及び改造は、第五条の六の表に掲げる作業の区分のうちの大修理又は改造（滑空機に装備する予備品にあつては、小改造を除く。）とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="31">
-            <ArticleCaption>（発動機等の整備）</ArticleCaption>
-            <ArticleTitle>第三十一条</ArticleTitle>
-            <Paragraph Hide="false" Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十八条の国土交通省令で定める安全性の確保のため重要な装備品とは、滑油ポンプ、気化器、磁石発電機、排気タービン、点火用ディストリビューター、燃料管制器、燃料噴射ポンプ、発動機駆動式燃料ポンプ及びプロペラ調速器をいう。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Hide="false" Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">法第十八条の国土交通省令で定める時間は、発動機、プロペラ及び前項の装備品（以下「発動機等」という。）の構造及び性能を考慮して国土交通大臣が告示で指定する時間とし、同条の国土交通省令で定める方法は、オーバーホールとする。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、オーバーホール以外の方法で整備することにより常に良好な状態を確保することができる発動機等については、当該発動機等に係る航空機の使用者の申請を受けて国土交通大臣が当該発動機等の整備の状況、構造及び性能を考慮して別に指定する時間及び方法又は整備規程に定める時間及び方法（当該発動機等の使用者が本邦航空運送事業者であつて、当該本邦航空運送事業者の整備規程に当該時間及び当該方法が定められている場合に限る。）とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Delete="false" Hide="false" Num="31_2">
             <ArticleCaption>（法第十九条第一項の国土交通省令で定める航空機）</ArticleCaption>
-            <ArticleTitle>第三十一条の二</ArticleTitle>
+            <ArticleTitle>第三十一条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -2838,7 +3478,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十九条第二項の確認は、航空機の整備又は改造の計画及び過程並びにその作業完了後の現状について行うものとし、搭載用航空日誌（滑空機にあつては、滑空機用航空日誌）に署名又は記名押印することにより行うものとする。</Sentence>
+                <Sentence WritingMode="vertical">法第十九条第二項の確認は、航空機の整備又は改造の計画（修理又は改造のための設計に係るものを除く。）及び過程並びにその作業完了後の現状について行うものとし、搭載用航空日誌（滑空機にあつては、滑空機用航空日誌）に署名又は記名押印をすることにより行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3014,7 +3654,7 @@
                         <Sentence WritingMode="vertical">学校教育法（昭和二十二年法律第二十六号）による大学又は高等専門学校の工学に関する学科において所定の課程を修めて卒業し（当該学科において所定の課程を修めて同法による専門職大学の前期課程を修了した場合を含む。以下この表において同じ。）、上欄に掲げる認定業務について大学卒業者（同法による短期大学の卒業者を除く。以下この表において同じ。）にあつては六年以上、その他の者にあつては八年以上の経験を有し、かつ、構造、電気その他の当該業務を行うのに必要な分野について専門的知識を有すること。</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">法第十三条第四項若しくは法第十三条の二第四項の確認又は第三十九条の四第一項の表第一号の検査の確認</Sentence>
+                        <Sentence WritingMode="vertical">法第十三条第四項、法第十三条の二第四項又は法第十七条の二第二項若しくは第四項の確認又は第三十九条の四第一項の表第一号の検査の確認</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
@@ -3025,7 +3665,7 @@
                         <Sentence WritingMode="vertical">学校教育法による大学又は高等専門学校の航空又は機械に関する学科において所定の課程を修めて卒業し（当該学科において所定の課程を修めて同法による専門職大学の前期課程を修了した場合を含む。）、かつ、上欄に掲げる認定業務について大学卒業者にあつては三年以上、その他の者にあつては五年以上の経験を有すること。</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">法第十条第六項第一号又は法第十七条第三項第二号の確認</Sentence>
+                        <Sentence WritingMode="vertical">法第十条第六項第一号又は法第十八条第三項第二号の確認</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
@@ -3069,7 +3709,7 @@
                         <Sentence WritingMode="vertical">学校教育法による大学又は高等専門学校の工学に関する学科において所定の課程を修めて卒業し、かつ、上欄に掲げる認定業務について大学卒業者にあつては三年以上、その他の者にあつては五年以上の経験を有すること。</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">法第十七条第三項第一号の確認</Sentence>
+                        <Sentence WritingMode="vertical">法第十八条第三項第一号の確認</Sentence>
                       </TableColumn>
                     </TableRow>
                     <TableRow>
@@ -3082,7 +3722,7 @@
                         <Sentence Num="3" WritingMode="vertical">２　学校教育法による大学又は高等専門学校の工学に関する学科において所定の課程を修めて卒業し、かつ、上欄に掲げる認定業務について大学卒業者にあつては三年以上、その他の者にあつては五年以上の経験を有すること。</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">法第十七条第三項第三号の確認</Sentence>
+                        <Sentence WritingMode="vertical">法第十八条第三項第三号の確認</Sentence>
                       </TableColumn>
                     </TableRow>
                   </Table>
@@ -3195,7 +3835,7 @@
                         <Sentence WritingMode="vertical">法第二十条第一項第一号に係る認定業務</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">法第十条第五項第四号、法第十三条第四項、法第十三条の二第四項、第十八条第二項第二号（第二十一条において準用する場合を含む。）、第二十三条の二第二項第二号（第二十三条の五において準用する場合を含む。）又は第二十六条第二項の設計後の検査</Sentence>
+                        <Sentence WritingMode="vertical">法第十条第五項第四号、法第十三条第四項、法第十三条の二第四項、法第十七条の二第二項若しくは第四項、第十八条第二項第二号（第二十一条において準用する場合を含む。）、第二十三条の二第二項第二号（第二十三条の五において準用する場合を含む。）又は第二十六条の四第二項（第二十六条の八において準用する場合を含む。）の設計後の検査</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence WritingMode="vertical">設計書類の審査、地上試験、飛行試験その他の方法</Sentence>
@@ -3236,7 +3876,7 @@
                         <Sentence WritingMode="vertical">法第二十条第一項第六号に係る認定業務</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                        <Sentence WritingMode="vertical">法第十七条第三項第一号の完成後の検査</Sentence>
+                        <Sentence WritingMode="vertical">法第十八条第三項第一号の完成後の検査</Sentence>
                       </TableColumn>
                       <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                         <Sentence WritingMode="vertical">機能試験その他の方法</Sentence>
@@ -3470,7 +4110,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第二十条第一項第一号又は第五号に係る認定業務を行う確認主任者は、次の表の上欄に掲げる区分に応じ、それぞれ同表の下欄に掲げる検査を行うものとし、すべての検査事項が適切に行われ、かつ、当該検査の結果が記録されたことを確認したときは、その旨を証する書類に署名又は記名押印するものとする。</Sentence>
+                <Sentence WritingMode="vertical">法第二十条第一項第一号又は第五号に係る認定業務を行う確認主任者は、次の表の上欄に掲げる区分に応じ、それぞれ同表の下欄に掲げる検査を行うものとし、全ての検査事項が適切に行われ、かつ、当該検査の結果が記録されたことを確認したときは、その旨を証する書類に署名又は記名押印をするものとする。</Sentence>
               </ParagraphSentence>
               <TableStruct>
                 <Table WritingMode="vertical">
@@ -3487,7 +4127,7 @@
                       <Sentence WritingMode="vertical">一　法第二十条第一項第一号に係る認定業務</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">法第十条第五項第四号、法第十三条第四項、法第十三条の二第四項、第十八条第二項第二号（第二十一条において準用する場合を含む。）、第二十三条の二第二項第二号（第二十三条の五において準用する場合を含む。）又は第二十六条第二項の設計後の検査</Sentence>
+                      <Sentence WritingMode="vertical">法第十条第五項第四号、法第十三条第四項、法第十三条の二第四項、法第十七条の二第二項若しくは第四項、第十八条第二項第二号（第二十一条において準用する場合を含む。）、第二十三条の二第二項第二号（第二十三条の五において準用する場合を含む。）又は第二十六条の四第二項（第二十六条の八において準用する場合を含む。）の設計後の検査</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -3514,7 +4154,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第十条第四項の基準に適合することの確認は、次の表の上欄に掲げる区分に応じ、それぞれ同表の中欄に掲げる事項について確認主任者（同表第三号及び第四号の場合にあつては、当該確認に係る設計を担当した者を除く。）に行わせるものとし、当該確認主任者の確認は、同表の下欄に掲げる基準適合証又は航空日誌に署名又は記名押印することにより行うものとする。</Sentence>
+                <Sentence WritingMode="vertical">法第十条第四項の基準に適合することの確認は、次の表の上欄に掲げる区分に応じ、それぞれ同表の中欄に掲げる事項について確認主任者（同表第三号から第六号までの場合にあつては、当該確認に係る設計を担当した者を除く。）に行わせるものとし、当該確認主任者の確認は、同表の下欄に掲げる基準適合証又は航空日誌に署名又は記名押印をすることにより行うものとする。</Sentence>
               </ParagraphSentence>
               <TableStruct>
                 <Table WritingMode="vertical">
@@ -3555,7 +4195,7 @@
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">型式証明を受けた型式の航空機の設計の変更について、当該設計の変更後の航空機が法第十条第四項の基準に適合すること。</Sentence>
                     </TableColumn>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="4">
                       <Sentence WritingMode="vertical">次条第一項の設計基準適合証</Sentence>
                     </TableColumn>
                   </TableRow>
@@ -3569,7 +4209,27 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">五　法第十七条第三項第一号の確認</Sentence>
+                      <Sentence WritingMode="vertical">五　法第十七条の二第二項の確認</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">修理改造設計が法第十条第四項の基準に適合すること。</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">六　法第十七条の二第四項の確認</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">修理改造設計の承認を受けた設計の変更について、当該変更後の修理改造設計が法第十条第四項の基準に適合すること。</Sentence>
+                    </TableColumn>
+                  </TableRow>
+
+
+
+
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">七　法第十八条第三項第一号の確認</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">装備品の製造過程及び完成後の現状について、当該装備品が法第十条第四項第一号の基準に適合すること。</Sentence>
@@ -3580,7 +4240,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">六　法第十七条第三項第二号の確認</Sentence>
+                      <Sentence WritingMode="vertical">八　法第十八条第三項第二号の確認</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">装備品の製造過程（装備品を製造する場合に限る。）及び完成後の現状について、当該装備品が法第十条第四項第一号の基準に適合すること。</Sentence>
@@ -3588,18 +4248,18 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">七　法第十七条第三項第三号の確認</Sentence>
+                      <Sentence WritingMode="vertical">九　法第十八条第三項第三号の確認</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">装備品の修理又は改造の計画及び過程並びにその作業完了後の現状について、当該装備品が法第十条第四項第一号の基準に適合すること。</Sentence>
+                      <Sentence WritingMode="vertical">装備品の修理又は改造の過程及びその作業完了後の現状について、当該装備品が法第十条第四項第一号の基準に適合すること。</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">八　法第十九条第一項又は法第十九条の二の確認</Sentence>
+                      <Sentence WritingMode="vertical">十　法第十九条第一項又は法第十九条の二の確認</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">航空機の整備又は改造の計画及び過程並びにその作業完了後の現状について、次のイからハまでに掲げる航空機がそれぞれ当該イからハまでに定める基準に適合すること。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">航空機の整備又は改造の計画（修理又は改造のための設計に係るものを除く。）及び過程並びにその作業完了後の現状について、次のイからハまでに掲げる航空機がそれぞれ当該イからハまでに定める基準に適合すること。</Sentence>
                       <Sentence Num="2" WritingMode="vertical">イ　整備又は改造をした航空機（ロ及びハに掲げるものを除く。）　法第十条第四項第一号の基準</Sentence>
                       <Sentence Num="3" WritingMode="vertical">ロ　第二十四条の表第二号の下欄ロに掲げる修理又は改造をした航空機　法第十条第四項第一号及び第二号の基準</Sentence>
                       <Sentence Num="4" WritingMode="vertical">ハ　第二十四条の表第二号の下欄ハに掲げる修理又は改造をした航空機　法第十条第四項第一号及び第三号の基準</Sentence>
@@ -3614,7 +4274,7 @@
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">第十四条の二第六項の確認は、第十四条第一項の承認を受けた型式又は仕様の装備品又は部品の設計の変更について、当該設計の変更後の装備品又は部品が当該承認を受けた型式又は仕様に適合することについて確認主任者（当該確認に係る設計を担当した者を除く。）に行わせるものとし、当該確認主任者の確認は、次条第二項の設計基準適合証に署名又は記名押印することにより行うものとする。</Sentence>
+                <Sentence WritingMode="vertical">第十四条の二第六項の確認は、第十四条第一項の承認を受けた型式又は仕様の装備品又は部品の設計の変更について、当該設計の変更後の装備品又は部品が当該承認を受けた型式又は仕様に適合することについて確認主任者（当該確認に係る設計を担当した者を除く。）に行わせるものとし、当該確認主任者の確認は、次条第二項の設計基準適合証に署名又は記名押印をすることにより行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3654,7 +4314,7 @@
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">前条第一項の表第三号に掲げる確認</Sentence>
                     </TableColumn>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
                       <Sentence WritingMode="vertical">設計基準適合証（第十七号の二様式）</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -3671,7 +4331,15 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">前条第一項の表第五号から第七号までに掲げる確認</Sentence>
+                      <Sentence WritingMode="vertical">前条第一項の表第五号及び第六号に掲げる確認</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">当該航空機の使用者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence WritingMode="vertical">前条第一項の表第七号から第九号までに掲げる確認</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence WritingMode="vertical">装備品基準適合証（第十八号様式）</Sentence>
@@ -8922,12 +9590,12 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="92">
-            <ArticleCaption>（保安上の基準）</ArticleCaption>
+            <ArticleCaption>（空港等の機能の確保に関する基準）</ArticleCaption>
             <ArticleTitle>第九十二条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第四十七条第一項（法第五十五条の二第三項において準用する場合を含む。）の保安上の基準は、次に掲げるとおりとする。</Sentence>
+                <Sentence WritingMode="vertical">法第四十七条第一項（法第五十五条の二第三項において準用する場合を含む。）の国土交通省令で定める空港等の機能の確保に関する基準は、次のとおりとする。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -8944,7 +9612,7 @@
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">改修その他の工事を行う場合は、必要な標識の設置その他適当な措置をとり、航空機の航行を阻害しないようにすること。</Sentence>
+                  <Sentence WritingMode="vertical">改修その他の工事を行う場合は、必要な標識の設置その他適当な措置を講じ、航空機の航行を阻害しないようにすること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="4">
@@ -8956,29 +9624,47 @@
               <Item Delete="false" Hide="false" Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">法第五十三条第三項の立入禁止区域に境界を明確にする標識等を設置し、且つ、当該区域に人、車両等がみだりに立ち入らないようにすること。</Sentence>
+                  <Sentence WritingMode="vertical">法第五十三条第三項の立入禁止区域に境界を明確にする標識等を設置し、かつ、当該区域に人、車両等がみだりに立ち入らないようにすること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">空港等における航空機の火災その他の事故に対処するため必要な消火設備及び救難設備を備え、事故が発生したときは、直ちに必要な措置をとること。</Sentence>
+                  <Sentence WritingMode="vertical">空港にあつては、法第百三十二条第一項（第一号に係る部分に限る。）の規定により無人航空機の飛行が禁止されている旨の周知、同項の規定に違反して飛行する無人航空機の有無及びその所在を把握するために必要な巡視その他の空港及びその周辺における無人航空機の異常な飛行を防止するために必要な措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">天災その他の原因により航空機の離着陸の安全を阻害するおそれが生じたときは、直ちにその供用を一時停止する等危害予防のため必要な措置をするとともに、この場合に必要となる国土交通大臣との連絡体制を整備すること。</Sentence>
+                  <Sentence WritingMode="vertical">空港にあつては、法第百三十四条の三第一項の規定により航空機の飛行に影響を及ぼすおそれのある行為が禁止されている旨の周知、同項の規定に違反した行為の有無を把握するために必要な巡視その他の空港及びその周辺における航空機の飛行に影響を及ぼす行為を防止するために必要な措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">関係行政機関と随時連絡できるような設備を有すること。</Sentence>
+                  <Sentence WritingMode="vertical">空港等における航空機の火災その他の事故に対処するため必要な消火設備及び救難設備を備え、事故が発生したときは、直ちに必要な措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="9">
                 <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">自然災害、航空事故、上空への無人航空機の侵入その他の空港等の機能を損なうおそれのある事象が生じたときは、当該機能を確保するために必要な措置を講ずるとともに、この場合に必要となる関係機関との連絡体制を整備すること（次号に掲げるものを除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（平成二十八年法律第九号）第七条第一項の規定により対象空港として指定された空港にあつては、同法第十一条第四項に規定する措置並びに同条第五項において準用する同条第一項及び第二項に規定する措置を講ずるために必要な設備及び体制を整備すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="11">
+                <ItemTitle>十一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">関係行政機関と随時連絡できるような設備を有すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="12">
+                <ItemTitle>十二</ItemTitle>
                 <ItemSentence>
                   <Sentence WritingMode="vertical">空港等業務日誌を備え付け、次に掲げる事項を記録し、これを一年間保存すること。</Sentence>
                 </ItemSentence>
@@ -9019,45 +9705,45 @@
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
-              <Item Delete="false" Hide="false" Num="10">
-                <ItemTitle>十</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">空港にあつては、国土交通大臣が必要と認める場合に、空港において離陸又は着陸を行う航空機の利用に供するための気象の観測に必要な設備を備え、気象の観測を行うこと。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="11">
-                <ItemTitle>十一</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">空港にあつては、国土交通大臣が必要と認める場合に、航空通信を行うための無線電話を備え、空港において離陸又は着陸を行う航空機に対し、その運航のため必要な情報を提供すること。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Delete="false" Hide="false" Num="12">
-                <ItemTitle>十二</ItemTitle>
-                <ItemSentence>
-                  <Sentence WritingMode="vertical">空港にあつては、空港で営業を行う者に対して、航空機強取等防止措置（航空機の強取及び破壊の防止に関する措置をいう。以下同じ。）を講じさせること。</Sentence>
-                </ItemSentence>
-              </Item>
               <Item Delete="false" Hide="false" Num="13">
                 <ItemTitle>十三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">空港にあつては、空港における航空機強取等防止措置に関し、関係諸機関との間で必要な協議を行うため、空港の設置者及び関係諸機関を構成員とする協議会を組織すること。</Sentence>
+                  <Sentence WritingMode="vertical">空港にあつては、国土交通大臣が必要と認める場合に、空港において離陸又は着陸を行う航空機の利用に供するための気象の観測に必要な設備を備え、気象の観測を行うこと。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="14">
                 <ItemTitle>十四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">空港にあつては、前各号に掲げるもののほか、航空交通及び空港の業務に従事する者の安全を確保するために必要な措置を講じること。</Sentence>
+                  <Sentence WritingMode="vertical">空港にあつては、国土交通大臣が必要と認める場合に、航空通信を行うための無線電話を備え、空港において離陸又は着陸を行う航空機に対し、その運航のため必要な情報を提供すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="15">
+                <ItemTitle>十五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">空港にあつては、空港で営業を行う者に対して、航空機強取等防止措置（航空機の強取及び破壊の防止に関する措置をいう。以下同じ。）を講じさせること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="16">
+                <ItemTitle>十六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">空港にあつては、空港における航空機強取等防止措置に関し、関係諸機関との間で必要な協議を行うため、空港の設置者及び関係諸機関を構成員とする協議会を組織すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="17">
+                <ItemTitle>十七</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">空港にあつては、前各号に掲げるもののほか、航空交通及び空港の業務に従事する者の安全を確保するために必要な措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="92_2">
-            <ArticleCaption>（空港保安管理規程の届出）</ArticleCaption>
+            <ArticleCaption>（空港機能管理規程の届出）</ArticleCaption>
             <ArticleTitle>第九十二条の二</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第四十七条の二第一項の規定により、空港保安管理規程の設定又は変更の届出をしようとする者は、空港の設置又は法第四十三条第一項に規定する重要な変更に伴い空港保安管理規程の設定又は変更が行われる場合にあつては、法第四十二条第一項（法第四十三条第二項において準用する場合を含む。）の規定による検査が行われる日までに、その他の事由により空港保安管理規程の変更が行われる場合にあつては、変更後の空港保安管理規程の実施の日までに、次に掲げる事項を記載した空港保安管理規程設定（変更）届出書を国土交通大臣に提出しなければならない。</Sentence>
+                <Sentence WritingMode="vertical">法第四十七条の二第一項の規定により、空港機能管理規程の設定又は変更の届出をしようとする者は、空港の設置又は法第四十三条第一項に規定する重要な変更に伴い空港機能管理規程の設定又は変更が行われる場合にあつては、法第四十二条第一項（法第四十三条第二項において準用する場合を含む。）の規定による検査が行われる日までに、その他の事由により空港機能管理規程の変更が行われる場合にあつては、変更後の空港機能管理規程の実施の日までに、次に掲げる事項を記載した空港機能管理規程設定（変更）届出書を国土交通大臣に提出しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -9074,7 +9760,7 @@
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">変更の届出の場合は、変更後の空港保安管理規程の実施予定日</Sentence>
+                  <Sentence WritingMode="vertical">変更の届出の場合は、変更後の空港機能管理規程の実施予定日</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="4">
@@ -9092,7 +9778,7 @@
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">設定し、又は変更しようとする空港保安管理規程（変更の届出の場合は、新旧の対照を明示すること。）</Sentence>
+                  <Sentence WritingMode="vertical">設定し、又は変更しようとする空港機能管理規程（変更の届出の場合は、新旧の対照を明示すること。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="2">
@@ -9104,7 +9790,7 @@
               <Item Delete="false" Hide="false" Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">その他設定し、又は変更しようとする空港保安管理規程に関し必要な事項を記載した書類</Sentence>
+                  <Sentence WritingMode="vertical">その他設定し、又は変更しようとする空港機能管理規程に関し必要な事項を記載した書類</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -9120,41 +9806,41 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="92_4">
-            <ArticleCaption>（空港保安管理規程の内容）</ArticleCaption>
+            <ArticleCaption>（空港機能管理規程の内容）</ArticleCaption>
             <ArticleTitle>第九十二条の四</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第四十七条の二第二項の国土交通省令で定める空港保安管理規程の内容は、次の表の上欄に掲げる事項ごとに、それぞれ同表の下欄に掲げるものとする。</Sentence>
+                <Sentence WritingMode="vertical">法第四十七条の二第二項の国土交通省令で定める空港機能管理規程の内容は、次の表の上欄に掲げる事項ごとに、それぞれ同表の下欄に掲げるものとする。</Sentence>
               </ParagraphSentence>
               <TableStruct>
                 <Table WritingMode="vertical">
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">空港の保安を確保するための管理の方針に関する事項</Sentence>
+                      <Sentence WritingMode="vertical">空港の機能を確保するための管理の方針に関する事項</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">一　空港における安全の確保のために遵守すべき法令及び内部規則その他これに準ずるもの</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">一　空港における機能の確保のために遵守すべき法令及び内部規則その他これに準ずるもの</Sentence>
                       <Sentence Num="2" WritingMode="vertical">二　空港における航空機強取等防止措置に関し遵守すべき法令及び内部規則その他これに準ずるもの</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">空港の保安を確保するための管理の体制に関する事項</Sentence>
+                      <Sentence WritingMode="vertical">空港の機能を確保するための管理の体制に関する事項</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">一　空港における安全の確保のための組織体制に関する事項</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">一　空港における機能の確保のための組織体制に関する事項</Sentence>
                       <Sentence Num="2" WritingMode="vertical">二　空港における航空機強取等防止措置に関する組織体制に関する事項</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">空港の保安を確保するための管理の方法に関する事項</Sentence>
+                      <Sentence WritingMode="vertical">空港の機能を確保するための管理の方法に関する事項</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">一　空港における保安の確保に係る情報の伝達及び共有に関する事項</Sentence>
-                      <Sentence Num="2" WritingMode="vertical">二　空港における保安の確保に係る教育及び訓練に関する事項</Sentence>
-                      <Sentence Num="3" WritingMode="vertical">三　空港における保安の確保に係る文書の整備及び管理に関する事項</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">一　空港における機能の確保に係る情報の伝達及び共有に関する事項</Sentence>
+                      <Sentence Num="2" WritingMode="vertical">二　空港における機能の確保に係る教育及び訓練に関する事項</Sentence>
+                      <Sentence Num="3" WritingMode="vertical">三　空港における機能の確保に係る文書の整備及び管理に関する事項</Sentence>
                       <Sentence Num="4" WritingMode="vertical">四　第九十二条各号の基準に従つて管理するための具体的方法（前三号に含まれるものを除く。）</Sentence>
                       <Sentence Num="5" WritingMode="vertical">五　空港の管理に関し必要な次に掲げる事項</Sentence>
                       <Sentence Num="6" WritingMode="vertical">イ　空港の標点の位置</Sentence>
@@ -9181,7 +9867,7 @@
             <Paragraph Hide="false" Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">前項の規定は、法第五十五条の二第二項の規定により国土交通大臣が空港保安管理規程を定める場合について準用する。</Sentence>
+                <Sentence WritingMode="vertical">前項の規定は、法第五十五条の二第二項の規定により国土交通大臣が空港機能管理規程を定める場合について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -9765,7 +10451,7 @@
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第三十九条第一項（法第四十三条第二項において準用する場合を含む。）に規定する航空保安無線施設の位置、構造等の設置の基準は、次のとおりとする。</Sentence>
+                <Sentence WritingMode="vertical">法第三十九条第一項第一号（法第四十三条第二項において準用する場合を含む。）に規定する航空保安無線施設の位置、構造等の設置の基準は、次のとおりとする。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -9787,9 +10473,7 @@
                 <Subitem1 Delete="false" Hide="false" Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">電波の水平<Ruby>ふ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>く<Rt>ヽ</Rt>
+                    <Sentence WritingMode="vertical">電波の水平<Ruby>輻<Rt>ふく</Rt>
 </Ruby>射特性は、できるだけ無指向性であり、かつ、その偏波は、垂直偏波で、できるだけ水平偏波を含まないものであること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
@@ -9820,10 +10504,8 @@
                 <Subitem1 Delete="false" Hide="false" Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">識別符号送信中定格通達距離（当該施設から<Ruby>ふ<Rt>ヽ</Rt>
-</Ruby>
-<Ruby>く<Rt>ヽ</Rt>
-</Ruby>射された電波の昼間における垂直電界強度が毎メートル七〇マイクロボルトに達する距離をいう。以下ＮＤＢにおいて同じ。）を超えない範囲内において、その符号を明確に識別できるような放射特性を有するものであること。</Sentence>
+                    <Sentence WritingMode="vertical">識別符号送信中定格通達距離（当該施設から<Ruby>輻<Rt>ふく</Rt>
+</Ruby>射された電波の昼間における垂直電界強度が毎メートル七〇マイクロボルトに達する距離をいう。チにおいて同じ。）を超えない範囲内において、その符号を明確に識別できるような放射特性を有するものであること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Delete="false" Hide="false" Num="7">
@@ -9847,8 +10529,7 @@
                 <Subitem1 Delete="false" Hide="false" Num="10">
                   <Subitem1Title>ヌ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">送信空中線系の構成は、その各部分の損失をできるだけ小さくするものであり、かつ、<Ruby>き<Rt>ヽ</Rt>
-</Ruby>電線に生ずる定在波ができるだけ小さいものであること。</Sentence>
+                    <Sentence WritingMode="vertical">送信空中線系の構成は、その各部分の損失をできるだけ小さくするものであり、かつ、き電線に生ずる定在波ができるだけ小さいものであること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Delete="false" Hide="false" Num="11">
@@ -10804,7 +11485,7 @@
                     <Subitem3 Delete="false" Hide="false" Num="1">
                       <Subitem3Title>ａ</Subitem3Title>
                       <Subitem3Sentence>
-                        <Sentence WritingMode="vertical">偏位感度（距離の変化量に対するＤＤＭ変化量の割合をいう。）は、半コースセクターと滑走路進入端を含む鉛直面との交線上において、毎メートル〇・〇〇一四五であり、かつ、その偏差は、カテゴリー一ＩＬＳ又はカテゴリー二ＩＬＳのローカライザー装置にあつては一七パーセントを、カテゴリー三ＩＬＳのローカライザー装置にあつては一〇パーセントを超えないこと。</Sentence>
+                        <Sentence WritingMode="vertical">偏位感度（距離の変化量に対するＤＤＭ変化量の割合をいう。（二十八）ｂにおいて同じ。）は、半コースセクターと滑走路進入端を含む鉛直面との交線上において、毎メートル〇・〇〇一四五であり、かつ、その偏差は、カテゴリー一ＩＬＳ又はカテゴリー二ＩＬＳのローカライザー装置にあつては一七パーセントを、カテゴリー三ＩＬＳのローカライザー装置にあつては一〇パーセントを超えないこと。</Sentence>
                       </Subitem3Sentence>
                     </Subitem3>
                     <Subitem3 Delete="false" Hide="false" Num="2">
@@ -10900,7 +11581,7 @@
                     <Subitem3 Delete="false" Hide="false" Num="1">
                       <Subitem3Title>ａ</Subitem3Title>
                       <Subitem3Sentence>
-                        <Sentence WritingMode="vertical">コースラインの位置が(十五)の基準に適合しなくなつたとき。ただし、カテゴリー三ＩＬＳのローカライザー装置にあつては、コースラインの投影線と滑走路進入端の中心点との距離が六・〇メートルを超えたとき。</Sentence>
+                        <Sentence WritingMode="vertical">コースラインの位置が（十五）の基準に適合しなくなつたとき。ただし、カテゴリー三ＩＬＳのローカライザー装置にあつては、コースラインの投影線と滑走路進入端の中心点との距離が六・〇メートルを超えたとき。</Sentence>
                       </Subitem3Sentence>
                     </Subitem3>
                     <Subitem3 Delete="false" Hide="false" Num="2">
@@ -11323,7 +12004,7 @@
                     <Subitem2Sentence>
                       <Sentence WritingMode="vertical">定格<Ruby>輻<Rt>ふく</Rt>
 </Ruby>射範囲（グライドパス上において、当該施設から<Ruby>輻<Rt>ふく</Rt>
-</Ruby>射された電波の水平電界強度が毎メートル一・五ミリボルト以上である範囲をいう。以下（七）において同じ。）は、次のとおりであること。</Sentence>
+</Ruby>射された電波の水平電界強度が毎メートル一・五ミリボルト以上である範囲をいう。（七）において同じ。）は、次のとおりであること。</Sentence>
                     </Subitem2Sentence>
                     <Subitem3 Delete="false" Hide="false" Num="1">
                       <Subitem3Title>ａ</Subitem3Title>
@@ -11553,7 +12234,7 @@
                     <Sentence WritingMode="vertical">識別信号のパルス対の発射数は、次のとおりであること。</Sentence>
                   </Subitem1Sentence>
                   <Subitem2 Delete="false" Hide="false" Num="1">
-                    <Subitem2Title>(一)</Subitem2Title>
+                    <Subitem2Title>（一）</Subitem2Title>
                     <Subitem2Sentence>
                       <Column LineBreak="false" Num="1">
                         <Sentence WritingMode="vertical">単一のパルス対により構成されている識別信号</Sentence>
@@ -11564,7 +12245,7 @@
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Delete="false" Hide="false" Num="2">
-                    <Subitem2Title>(二)</Subitem2Title>
+                    <Subitem2Title>（二）</Subitem2Title>
                     <Subitem2Sentence>
                       <Column LineBreak="false" Num="1">
                         <Sentence WritingMode="vertical">対のパルス対により構成されている識別信号</Sentence>
@@ -11578,7 +12259,7 @@
                 <Subitem1 Delete="false" Hide="false" Num="13">
                   <Subitem1Title>ワ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">ヲ(一)に掲げる識別信号のパルス対相互の間隔及びヲ(二)に掲げる識別信号の対のパルス対相互の間隔は、できるだけ等しいこと。</Sentence>
+                    <Sentence WritingMode="vertical">ヲ（一）に掲げる識別信号のパルス対相互の間隔及びヲ（二）に掲げる識別信号の対のパルス対相互の間隔は、できるだけ等しいこと。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Delete="false" Hide="false" Num="14">
@@ -11645,7 +12326,7 @@
                 <Subitem1 Delete="false" Hide="false" Num="24">
                   <Subitem1Title>ウ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">監視装置は、次のいずれかの状態が四秒以上継続する場合には、その状態が発生した時から一〇秒以内のできるだけ短い時間内に、制御所にその旨を報知するとともに予備の送受信装置に切り替えることができ、かつ、予備の送受信装置の作動後においてもその状態が継続するときは、ＤＭＥからの電波の発射を停止することができるものであること。</Sentence>
+                    <Sentence WritingMode="vertical">監視装置は、次のいずれかの状態が四秒以上継続する場合には、その状態が発生した時から一〇秒以内のできるだけ短い時間内に、制御所にその旨を報知するとともに予備の送受信装置に切り換えることができ、かつ、予備の送受信装置の作動後においてもその状態が継続するときは、ＤＭＥからの電波の発射を停止することができるものであること。</Sentence>
                   </Subitem1Sentence>
                   <Subitem2 Delete="false" Hide="false" Num="1">
                     <Subitem2Title>（一）</Subitem2Title>
@@ -11677,265 +12358,357 @@
               <Item Delete="false" Hide="false" Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">衛星航法補助施設にあつては、次の性能、構造等を有するものであること。</Sentence>
+                  <Sentence WritingMode="vertical">衛星航法補助施設にあつては、次のイ又はロに掲げる施設の種類に応じ、それぞれ次のイ又はロに掲げる性能、構造等を有するものであること。</Sentence>
                 </ItemSentence>
                 <Subitem1 Delete="false" Hide="false" Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">航行中の航空機に対し、補助信号（測位衛星からの電波の受信により行う位置の測定を補助するための信号をいう。以下同じ。）を搬送する電波を発射するものであること。</Sentence>
+                    <Sentence WritingMode="vertical">衛星経由送信型衛星航法補助施設</Sentence>
                   </Subitem1Sentence>
+                  <Subitem2 Delete="false" Hide="false" Num="1">
+                    <Subitem2Title>（一）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">航行中の航空機に対する補助信号（航空機の測位の用に供するための信号を送信する人工衛星（以下「測位衛星」という。）を利用して行われる航空機の測位を補助するための信号をいう。以下同じ。）の送信を地上から人工衛星を経由して行うものであること。</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="2">
+                    <Subitem2Title>（二）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">（三）の表の水平精度及び垂直精度の欄に掲げる基準に適合しないときは、警報信号（航行中の航空機に対し、その旨を警報するための信号をいう。以下同じ。）を送信するものであること。</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="3">
+                    <Subitem2Title>（三）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">次の表の上欄に掲げる区分に応じ、それぞれ同表下欄に掲げる基準に適合するものであること。</Sentence>
+                    </Subitem2Sentence>
+                    <TableStruct>
+                      <Table>
+                        <TableRow>
+                          <TableColumn Align="center" Valign="middle" rowspan="2">
+                            <Sentence>区分</Sentence>
+                          </TableColumn>
+                          <TableColumn Align="center" Valign="middle" colspan="6">
+                            <Sentence>基準</Sentence>
+                          </TableColumn>
+                        </TableRow>
+                        <TableRow>
+                          <TableColumn Align="center" Valign="middle">
+                            <Sentence>水平精度</Sentence>
+                          </TableColumn>
+                          <TableColumn Align="center" Valign="middle">
+                            <Sentence>垂直精度</Sentence>
+                          </TableColumn>
+                          <TableColumn Align="center" Valign="middle">
+                            <Sentence>継続性</Sentence>
+                          </TableColumn>
+                          <TableColumn Align="center" Valign="middle">
+                            <Sentence>可用性</Sentence>
+                          </TableColumn>
+                          <TableColumn Align="center" Valign="middle">
+                            <Sentence>警報信号到達時間</Sentence>
+                          </TableColumn>
+                          <TableColumn Align="center" Valign="middle">
+                            <Sentence>完全性</Sentence>
+                          </TableColumn>
+                        </TableRow>
+                        <TableRow>
+                          <TableColumn Valign="top">
+                            <Sentence>一　航空機の進入以外の航行の用に供する場合（次の項に掲げる場合を除く。）</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>三・七キロメートル以下</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence/>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九九九以上</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九以上</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>五分以下</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九九九九九九以上</Sentence>
+                          </TableColumn>
+                        </TableRow>
+                        <TableRow>
+                          <TableColumn Valign="top">
+                            <Sentence>二　航空機の進入以外の航行（許容される航法精度が指定された経路又は空域におけるものに限る。）の用に供する場合</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・七四キロメートル以下</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence/>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九九九以上</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九以上</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>一五秒以下</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九九九九九九以上</Sentence>
+                          </TableColumn>
+                        </TableRow>
+                        <TableRow>
+                          <TableColumn Valign="top">
+                            <Sentence>三　計器飛行により降下することができる最低の高度が滑走路進入端を含む水平面の上方七五メートル以上に指定された空港等（進入復行を行う場合の最低の高度が滑走路進入端を含む水平面の上方七五メートル以上に指定されたものに限る。）への航空機の進入の用に供する場合</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>二二〇メートル以下</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence/>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九九九以上</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九以上</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>一〇秒以下</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九九九九九九以上</Sentence>
+                          </TableColumn>
+                        </TableRow>
+                        <TableRow>
+                          <TableColumn Valign="top">
+                            <Sentence>四　計器飛行により降下することができる最低の高度が滑走路進入端を含む水平面の上方七五メートル以上に指定された空港等（三の項に規定するものを除く。）への航空機の進入の用に供する場合</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>一六・〇メートル以下</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>二〇メートル以下</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九九九九二以上</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九以上</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>一〇秒以下</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九九九九九八以上</Sentence>
+                          </TableColumn>
+                        </TableRow>
+                        <TableRow>
+                          <TableColumn Valign="top">
+                            <Sentence>五　計器飛行により降下することができる最低の高度が滑走路進入端を含む水平面の上方六〇メートル以上七五メートル未満に指定された空港等への航空機の進入の用に供する場合</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>一六・〇メートル以下</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>六・〇メートル以下</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九九九九二以上</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九以上</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>六秒以下</Sentence>
+                          </TableColumn>
+                          <TableColumn Valign="top">
+                            <Sentence>〇・九九九九九九八以上</Sentence>
+                          </TableColumn>
+                        </TableRow>
+                      </Table>
+                      <Remarks>
+                        <RemarksLabel LineBreak="false">備考</RemarksLabel>
+                        <Item Delete="false" Hide="false" Num="1">
+                          <ItemTitle>一</ItemTitle>
+                          <ItemSentence>
+                            <Sentence WritingMode="vertical">水平精度とは、補助信号を受信した航空機の測位の水平方向の精度をいう。</Sentence>
+                          </ItemSentence>
+                        </Item>
+                        <Item Delete="false" Hide="false" Num="2">
+                          <ItemTitle>二</ItemTitle>
+                          <ItemSentence>
+                            <Sentence WritingMode="vertical">垂直精度とは、補助信号を受信した航空機の測位の垂直方向の精度をいう。</Sentence>
+                          </ItemSentence>
+                        </Item>
+                        <Item Delete="false" Hide="false" Num="3">
+                          <ItemTitle>三</ItemTitle>
+                          <ItemSentence>
+                            <Sentence WritingMode="vertical">継続性とは、任意の一時間（この表の四の項及び五の項の上欄に掲げる場合にあつては、任意の一五秒）において常時この表の水平精度及び垂直精度の欄に掲げる基準に適合する確率をいう。</Sentence>
+                          </ItemSentence>
+                        </Item>
+                        <Item Delete="false" Hide="false" Num="4">
+                          <ItemTitle>四</ItemTitle>
+                          <ItemSentence>
+                            <Sentence WritingMode="vertical">可用性とは、運用時間のうちに、この表の水平精度及び垂直精度の欄に掲げる基準に適合する時間の占める割合をいう。</Sentence>
+                          </ItemSentence>
+                        </Item>
+                        <Item Delete="false" Hide="false" Num="5">
+                          <ItemTitle>五</ItemTitle>
+                          <ItemSentence>
+                            <Sentence WritingMode="vertical">警報信号到達時間とは、（二）に規定する状態が発生したときから警報信号が航空機に到達するまでに要する時間をいう。</Sentence>
+                          </ItemSentence>
+                        </Item>
+                        <Item Delete="false" Hide="false" Num="6">
+                          <ItemTitle>六</ItemTitle>
+                          <ItemSentence>
+                            <Sentence WritingMode="vertical">完全性とは、（九）に規定する状態が発生した場合に速やかに補助信号の送信を停止することができない事態が、任意の一時間（この表の四の項及び五の項の上欄に掲げる場合にあつては、航空機の任意の一回の進入に要する時間）において発生する確率を一から減じた確率をいう。</Sentence>
+                          </ItemSentence>
+                        </Item>
+                      </Remarks>
+                    </TableStruct>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="4">
+                    <Subitem2Title>（四）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">計器飛行により降下する最低の高度が滑走路進入端を含む水平面の上方六〇メートル未満に指定された空港等への航空機の進入の用に供しないこと。</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="5">
+                    <Subitem2Title>（五）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">送信装置は、随時切り換えて使用することができるように二組設備すること。</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="6">
+                    <Subitem2Title>（六）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">擬似空中線を設備すること。</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="7">
+                    <Subitem2Title>（七）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">予備自家発電装置を設備すること。</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="8">
+                    <Subitem2Title>（八）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">監視装置を設備すること。</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="9">
+                    <Subitem2Title>（九）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">監視装置は、次のいずれかの状態が発生した場合には、速やかに制御所にその旨を報知するとともに補助信号の送信を停止することができるものであること。</Sentence>
+                    </Subitem2Sentence>
+                    <Subitem3 Delete="false" Hide="false" Num="1">
+                      <Subitem3Title>ａ</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence WritingMode="vertical">（三）の表の警報信号到達時間の欄に掲げる基準に適合しないとき。</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Delete="false" Hide="false" Num="2">
+                      <Subitem3Title>ｂ</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence WritingMode="vertical">電磁的干渉により測位衛星から送信される信号に障害を与えるおそれがあるとき。</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Delete="false" Hide="false" Num="3">
+                      <Subitem3Title>ｃ</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence WritingMode="vertical">監視装置の監視機能が故障したとき。</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                  </Subitem2>
                 </Subitem1>
                 <Subitem1 Delete="false" Hide="false" Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">ハの表の水平精度及び垂直精度の欄に掲げる基準に適合しないときは、警報信号（航行中の航空機に対し、その旨を警報するための信号をいう。以下同じ。）を搬送する電波を発射するものであること。</Sentence>
+                    <Sentence WritingMode="vertical">地上直接送信型衛星航法補助施設</Sentence>
                   </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Delete="false" Hide="false" Num="3">
-                  <Subitem1Title>ハ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">次の表の上欄に掲げる区分に応じ、それぞれ同表下欄に掲げる基準に適合するものであること。</Sentence>
-                  </Subitem1Sentence>
-                  <TableStruct>
-                    <Table WritingMode="vertical">
-                      <TableRow>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
-                          <Sentence WritingMode="vertical">区分</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="6">
-                          <Sentence WritingMode="vertical">基準</Sentence>
-                        </TableColumn>
-                      </TableRow>
-                      <TableRow>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">水平精度</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">垂直精度</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">継続性</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">可用性</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">警報信号到達時間</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">完全性</Sentence>
-                        </TableColumn>
-                      </TableRow>
-                      <TableRow>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">一　航空機の進入以外の航行の用に供する場合（次の項に掲げる場合を除く。）</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">三・七キロメートル以下</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical"/>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九九九以上</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九以上</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">五分以下</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九九九九九九以上</Sentence>
-                        </TableColumn>
-                      </TableRow>
-                      <TableRow>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">二　航空機の進入以外の航行（許容される航法精度が指定された経路又は空域におけるものに限る。）の用に供する場合</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・七四キロメートル以下</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical"/>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九九九以上</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九以上</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">一五秒以下</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九九九九九九以上</Sentence>
-                        </TableColumn>
-                      </TableRow>
-                      <TableRow>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">三　計器飛行により降下することができる最低の高度が滑走路進入端を含む水平面の上方七五メートル以上に指定された空港等（進入復行を行う場合の最低の高度が滑走路進入端を含む水平面の上方七五メートル以上に指定されたものに限る。）への航空機の進入の用に供する場合</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">二二〇メートル以下</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical"/>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九九九以上</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九以上</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">一〇秒以下</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九九九九九九以上</Sentence>
-                        </TableColumn>
-                      </TableRow>
-                      <TableRow>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">四　計器飛行により降下することができる最低の高度が滑走路進入端を含む水平面の上方七五メートル以上に指定された空港等（三の項に規定するものを除く。）への航空機の進入の用に供する場合</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">一六・〇メートル以下</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">二〇メートル以下</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九九九九二以上</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九以上</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">一〇秒以下</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九九九九九八以上</Sentence>
-                        </TableColumn>
-                      </TableRow>
-                      <TableRow>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">五　計器飛行により降下することができる最低の高度が滑走路進入端を含む水平面の上方六〇メートル以上七五メートル未満に指定された空港等への航空機の進入の用に供する場合</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">一六・〇メートル以下</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">六・〇メートル以下</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九九九九二以上</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九以上</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">六秒以下</Sentence>
-                        </TableColumn>
-                        <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                          <Sentence WritingMode="vertical">〇・九九九九九九八以上</Sentence>
-                        </TableColumn>
-                      </TableRow>
-                    </Table>
-                    <Remarks>
-                      <RemarksLabel LineBreak="false">備考</RemarksLabel>
-                      <Item Delete="false" Hide="false" Num="1">
-                        <ItemTitle>一</ItemTitle>
-                        <ItemSentence>
-                          <Sentence WritingMode="vertical">水平精度とは、補助信号を搬送する電波を受信した航空機が測定する位置の水平方向の精度をいう。</Sentence>
-                        </ItemSentence>
-                      </Item>
-                      <Item Delete="false" Hide="false" Num="2">
-                        <ItemTitle>二</ItemTitle>
-                        <ItemSentence>
-                          <Sentence WritingMode="vertical">垂直精度とは、補助信号を搬送する電波を受信した航空機が測定する位置の垂直方向の精度をいう。</Sentence>
-                        </ItemSentence>
-                      </Item>
-                      <Item Delete="false" Hide="false" Num="3">
-                        <ItemTitle>三</ItemTitle>
-                        <ItemSentence>
-                          <Sentence WritingMode="vertical">継続性とは、任意の一時間（四の項及び五の項の上欄に掲げる場合にあつては、任意の一五秒）において常時水平精度及び垂直精度の欄に掲げる基準に適合する確率をいう。</Sentence>
-                        </ItemSentence>
-                      </Item>
-                      <Item Delete="false" Hide="false" Num="4">
-                        <ItemTitle>四</ItemTitle>
-                        <ItemSentence>
-                          <Sentence WritingMode="vertical">可用性とは、運用時間のうちに、水平精度及び垂直精度の欄に掲げる基準に適合する時間の占める割合をいう。</Sentence>
-                        </ItemSentence>
-                      </Item>
-                      <Item Delete="false" Hide="false" Num="5">
-                        <ItemTitle>五</ItemTitle>
-                        <ItemSentence>
-                          <Sentence WritingMode="vertical">警報信号到達時間とは、ロに規定する状態が発生したときから警報信号を搬送する電波が航空機に到達するまでに要する時間をいう。</Sentence>
-                        </ItemSentence>
-                      </Item>
-                      <Item Delete="false" Hide="false" Num="6">
-                        <ItemTitle>六</ItemTitle>
-                        <ItemSentence>
-                          <Sentence WritingMode="vertical">完全性とは、リに規定する状態が発生した場合に速やかに補助信号を搬送する電波の発射を停止することができない事態が、任意の一時間（四の項及び五の項の上欄に掲げる場合にあつては、航空機の任意の一回の進入に要する時間）において発生する確率を一から減じた確率をいう。</Sentence>
-                        </ItemSentence>
-                        <Subitem1 Delete="false" Hide="false" Num="1">
-                          <Subitem1Title>ニ</Subitem1Title>
-                          <Subitem1Sentence>
-                            <Sentence WritingMode="vertical">計器飛行により降下する最低の高度が滑走路進入端を含む水平面の上方六〇メートル未満に指定された空港等への航空機の進入の用に供しないこと。</Sentence>
-                          </Subitem1Sentence>
-                        </Subitem1>
-                        <Subitem1 Delete="false" Hide="false" Num="2">
-                          <Subitem1Title>ホ</Subitem1Title>
-                          <Subitem1Sentence>
-                            <Sentence WritingMode="vertical">送信装置は、随時切り換えて使用することができるように二組設備すること。</Sentence>
-                          </Subitem1Sentence>
-                        </Subitem1>
-                        <Subitem1 Delete="false" Hide="false" Num="3">
-                          <Subitem1Title>ヘ</Subitem1Title>
-                          <Subitem1Sentence>
-                            <Sentence WritingMode="vertical">擬似空中線を設備すること。</Sentence>
-                          </Subitem1Sentence>
-                        </Subitem1>
-                        <Subitem1 Delete="false" Hide="false" Num="4">
-                          <Subitem1Title>ト</Subitem1Title>
-                          <Subitem1Sentence>
-                            <Sentence WritingMode="vertical">予備自家発電装置を設備すること。</Sentence>
-                          </Subitem1Sentence>
-                        </Subitem1>
-                        <Subitem1 Delete="false" Hide="false" Num="5">
-                          <Subitem1Title>チ</Subitem1Title>
-                          <Subitem1Sentence>
-                            <Sentence WritingMode="vertical">監視装置を設備すること。</Sentence>
-                          </Subitem1Sentence>
-                        </Subitem1>
-                        <Subitem1 Delete="false" Hide="false" Num="6">
-                          <Subitem1Title>リ</Subitem1Title>
-                          <Subitem1Sentence>
-                            <Sentence WritingMode="vertical">監視装置は、次のいずれかの状態が発生した場合には、速やかに制御所にその旨を報知するとともに補助信号を搬送する電波の発射を停止することができるものであること。</Sentence>
-                          </Subitem1Sentence>
-                          <Subitem2 Delete="false" Hide="false" Num="1">
-                            <Subitem2Title>（一）</Subitem2Title>
-                            <Subitem2Sentence>
-                              <Sentence WritingMode="vertical">ハの表の警報信号到達時間の欄に掲げる基準に適合しないとき。</Sentence>
-                            </Subitem2Sentence>
-                          </Subitem2>
-                          <Subitem2 Delete="false" Hide="false" Num="2">
-                            <Subitem2Title>（二）</Subitem2Title>
-                            <Subitem2Sentence>
-                              <Sentence WritingMode="vertical">電磁的干渉により測位衛星から発射される電波に障害を与えるおそれがあるとき。</Sentence>
-                            </Subitem2Sentence>
-                          </Subitem2>
-                          <Subitem2 Delete="false" Hide="false" Num="3">
-                            <Subitem2Title>（三）</Subitem2Title>
-                            <Subitem2Sentence>
-                              <Sentence WritingMode="vertical">監視装置の監視機能が故障したとき。</Sentence>
-                            </Subitem2Sentence>
-                          </Subitem2>
-                        </Subitem1>
-                      </Item>
-                    </Remarks>
-                  </TableStruct>
+                  <Subitem2 Delete="false" Hide="false" Num="1">
+                    <Subitem2Title>（一）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">航行中の航空機に対する補助信号の送信を地上から直接行うものであること。</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="2">
+                    <Subitem2Title>（二）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">イ（二）から（九）までの基準に適合するものであること。</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="3">
+                    <Subitem2Title>（三）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">イ（三）の表の五の項の上欄に掲げる場合にあつては、精密進入を行う航空機に対する最終進入経路信号（最終進入の経路を提供するための信号をいう。）の送信を地上から直接行うものであること。</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="4">
+                    <Subitem2Title>（四）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">電波は、水平偏波又は<Ruby>楕<Rt>だ</Rt>
+</Ruby>円偏波であること。</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="5">
+                    <Subitem2Title>（五）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">イ（三）の表の四の項及び五の項の上欄に掲げる場合にあつては、通達範囲は、次の図に示すところによるものであること。</Sentence>
+                    </Subitem2Sentence>
+                    <FigStruct>
+                      <FigStructTitle>水平投影図</FigStructTitle>
+                      <Fig src="./pict/S27F03901000056_R02F160017_001.pdf"/>
+                    </FigStruct>
+                    <FigStruct>
+                      <FigStructTitle>垂直投影図</FigStructTitle>
+                      <Fig src="./pict/S27F03901000056_R02F160017_002.pdf"/>
+                      <Remarks>
+                        <RemarksLabel LineBreak="false">備考</RemarksLabel>
+                        <Item Delete="false" Hide="false" Num="1">
+                          <ItemTitle>一</ItemTitle>
+                          <ItemSentence>
+                            <Sentence WritingMode="vertical">通達範囲は、斜線で示される部分とする。</Sentence>
+                          </ItemSentence>
+                        </Item>
+                        <Item Delete="false" Hide="false" Num="2">
+                          <ItemTitle>二</ItemTitle>
+                          <ItemSentence>
+                            <Sentence WritingMode="vertical">Ｇ点は、最終進入の経路と地表面との交点とする。</Sentence>
+                          </ItemSentence>
+                        </Item>
+                        <Item Delete="false" Hide="false" Num="3">
+                          <ItemTitle>三</ItemTitle>
+                          <ItemSentence>
+                            <Sentence WritingMode="vertical">θは、最終進入の経路と水平面とのなす角の角度とする。</Sentence>
+                          </ItemSentence>
+                        </Item>
+                      </Remarks>
+                    </FigStruct>
+                  </Subitem2>
+                  <Subitem2 Delete="false" Hide="false" Num="6">
+                    <Subitem2Title>（六）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence WritingMode="vertical">イ（三）の表の四の項及び五の項の上欄に掲げる場合にあつては、地上直接送信型衛星航法補助施設から送信された電波の電界強度は、（五）に規定する通達範囲内において、次の基準に適合すること。</Sentence>
+                    </Subitem2Sentence>
+                    <Subitem3 Delete="false" Hide="false" Num="1">
+                      <Subitem3Title>ａ</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence WritingMode="vertical">水平偏波にあつては、毎メートル二一五マイクロボルト以上〇・八七九ボルト以下であること。</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Delete="false" Hide="false" Num="2">
+                      <Subitem3Title>ｂ</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence WritingMode="vertical">
+<Ruby>楕<Rt>だ</Rt>
+</Ruby>円偏波にあつては、水平成分について毎メートル二一五マイクロボルト以上〇・八七九ボルト以下、垂直成分について毎メートル一三六マイクロボルト以上〇・五五五ボルト以下であること。</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                  </Subitem2>
                 </Subitem1>
               </Item>
             </Paragraph>
@@ -12321,12 +13094,12 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="108">
-            <ArticleCaption>（管理基準）</ArticleCaption>
+            <ArticleCaption>（航空保安無線施設の機能の確保に関する基準）</ArticleCaption>
             <ArticleTitle>第百八条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第四十七条第一項（法第五十五条の二第三項において準用する場合を含む。）の規定による航空保安無線施設の管理の基準は、次のとおりとする。</Sentence>
+                <Sentence WritingMode="vertical">法第四十七条第一項（法第五十五条の二第三項において準用する場合を含む。）の国土交通省令で定める航空保安無線施設の機能の確保に関する基準は、次のとおりとする。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -12349,25 +13122,25 @@
               <Item Delete="false" Hide="false" Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">建築物、植物その他の物件により航空保安無線施設の機能をそこなうこととなるときは、直ちに当該物件の除去等必要な措置をすること。</Sentence>
+                  <Sentence WritingMode="vertical">建築物、植物その他の物件により航空保安無線施設の機能を損なうこととなるときは、直ちに当該物件の除去等必要な措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">やむを得ない事由により、航空保安無線施設の運用を停止し、又は定格通達距離及びコースの変更、識別符号送信の不良その他航空保安無線施設の機能をそこなうこととなつた場合及び当該航空保安無線施設の運用又は機能が復旧した場合に必要となる国土交通大臣との連絡体制を整備すること。</Sentence>
+                  <Sentence WritingMode="vertical">やむを得ない事由により、航空保安無線施設の運用を停止し、又は定格通達距離及びコースの変更、識別符号送信の不良その他航空保安無線施設の機能を損なうこととなつた場合及び当該航空保安無線施設の運用又は機能が復旧した場合に必要となる国土交通大臣との連絡体制を整備すること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">天災その他の事故により、航空保安無線施設の運用に支障を生じたときは、直ちにその復旧に努めるとともに、その運用をできるだけ継続する等航空の危害予防のため適当な措置をすること。</Sentence>
+                  <Sentence WritingMode="vertical">自然災害その他の事象により、航空保安無線施設の運用に支障を生じたときは、直ちにその復旧に努めるとともに、その運用をできるだけ継続する等航空の危害予防のため適当な措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">航空保安無線施設につき改修その他の工事を行うときは、航空機の航行を阻害しないように適当な措置をすること。</Sentence>
+                  <Sentence WritingMode="vertical">航空保安無線施設につき改修その他の工事を行うときは、航空機の航行を阻害しないように適当な措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="8">
@@ -12379,12 +13152,12 @@
               <Item Delete="false" Hide="false" Num="9">
                 <ItemTitle>九</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">航空保安無線施設の管理者は、当該施設に業務日誌を備え付け、左に掲げる事項を記録し、これを一年間保存すること。</Sentence>
+                  <Sentence WritingMode="vertical">航空保安無線施設の管理者は、当該施設に業務日誌を備え付け、次に掲げる事項を記録し、これを一年間保存すること。</Sentence>
                 </ItemSentence>
                 <Subitem1 Delete="false" Hide="false" Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">監視装置等により監視した結果（記録回数は、少くとも一日一回）及びその日時</Sentence>
+                    <Sentence WritingMode="vertical">監視装置等により監視した結果（記録回数は、少なくとも一日一回）及びその日時</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Delete="false" Hide="false" Num="2">
@@ -13896,15 +14669,15 @@
                         <Sentence WritingMode="vertical">灯器は、次のＡ図又はＢ図に示す位置に設置すること。ただし、カテゴリー二精密進入用滑走路及びカテゴリー三精密進入用滑走路に係るものにあつては、滑走路進入端から三百メートルまでの部分に限りＣ図に示す位置に設置すること。</Sentence>
                       </Subitem3Sentence>
                       <FigStruct>
-                        <FigStructTitle>A図</FigStructTitle>
+                        <FigStructTitle>Ａ図</FigStructTitle>
                         <Fig src="./pict/S27F03901000056-005.jpg"/>
                       </FigStruct>
                       <FigStruct>
-                        <FigStructTitle>B図</FigStructTitle>
+                        <FigStructTitle>Ｂ図</FigStructTitle>
                         <Fig src="./pict/S27F03901000056-006.jpg"/>
                       </FigStruct>
                       <FigStruct>
-                        <FigStructTitle>C図</FigStructTitle>
+                        <FigStructTitle>Ｃ図</FigStructTitle>
                         <Fig src="./pict/S27F03901000056-007.jpg"/>
                         <Remarks>
                           <RemarksLabel LineBreak="false">備考</RemarksLabel>
@@ -14194,11 +14967,11 @@
                         <Sentence WritingMode="vertical">第一図に示す位置に、着陸しようとする航空機から見て左側に四個設置すること。ただし、陸上空港等にあつては、当該空港等に進入灯が設置されていない場合等必要と認められる場合には、第二図に示す位置に、滑走路中心線に対し対称となるように八個設置すること。</Sentence>
                       </Subitem3Sentence>
                       <FigStruct>
-                        <FigStructTitle>第1図</FigStructTitle>
+                        <FigStructTitle>第１図</FigStructTitle>
                         <Fig src="./pict/S27F03901000056-008.jpg"/>
                       </FigStruct>
                       <FigStruct>
-                        <FigStructTitle>第2図</FigStructTitle>
+                        <FigStructTitle>第２図</FigStructTitle>
                         <Fig src="./pict/S27F03901000056-009.jpg"/>
                       </FigStruct>
                     </Subitem3>
@@ -14208,7 +14981,7 @@
                         <Sentence WritingMode="vertical">各灯器は、上層が航空白又は航空可変白、下層が航空赤の光柱を航空機の進入してくる方向に対し第三図に示す角度で出すものであること。</Sentence>
                       </Subitem3Sentence>
                       <FigStruct>
-                        <FigStructTitle>第3図</FigStructTitle>
+                        <FigStructTitle>第３図</FigStructTitle>
                         <Fig src="./pict/S27F03901000056-010.jpg"/>
                         <Remarks>
                           <RemarksLabel LineBreak="false">備考</RemarksLabel>
@@ -14264,11 +15037,11 @@
                         <Sentence WritingMode="vertical">第四図に示す位置に、着陸しようとする航空機から見て左側に二個設置すること。ただし、陸上空港等にあつては、当該空港等に進入灯が設置されていない場合等必要と認められる場合には、第五図に示す位置に、滑走路中心線に対し対称となるように四個設置すること。</Sentence>
                       </Subitem3Sentence>
                       <FigStruct>
-                        <FigStructTitle>第4図</FigStructTitle>
+                        <FigStructTitle>第４図</FigStructTitle>
                         <Fig src="./pict/S27F03901000056-011.jpg"/>
                       </FigStruct>
                       <FigStruct>
-                        <FigStructTitle>第5図</FigStructTitle>
+                        <FigStructTitle>第５図</FigStructTitle>
                         <Fig src="./pict/S27F03901000056-012.jpg"/>
                       </FigStruct>
                     </Subitem3>
@@ -14278,7 +15051,7 @@
                         <Sentence WritingMode="vertical">各灯器は、上層が航空白又は航空可変白、下層が航空赤の光柱を航空機の進入してくる方向に対し第六図に示す角度で出すものであること。</Sentence>
                       </Subitem3Sentence>
                       <FigStruct>
-                        <FigStructTitle>第6図</FigStructTitle>
+                        <FigStructTitle>第６図</FigStructTitle>
                         <Fig src="./pict/S27F03901000056-013.jpg"/>
                         <Remarks>
                           <RemarksLabel LineBreak="false">備考</RemarksLabel>
@@ -14322,7 +15095,7 @@
                         <Sentence WritingMode="vertical">灯器は、航空緑の明滅、航空緑の不動光、航空赤の不動光及び航空赤の明滅を航空機の進入してくる方向に対し第七図に示す角度で出すものであること。</Sentence>
                       </Subitem3Sentence>
                       <FigStruct>
-                        <FigStructTitle>第7図</FigStructTitle>
+                        <FigStructTitle>第７図</FigStructTitle>
                         <Fig src="./pict/S27F03901000056-014.jpg"/>
                       </FigStruct>
                     </Subitem3>
@@ -15689,7 +16462,7 @@
                   <Subitem2 Delete="false" Hide="false" Num="1">
                     <Subitem2Title>（一）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">灯器は、誘導路の一時停止すべき位置に、誘導路中心線に直交する直線上に、誘導路内に約三メートル以下のほぼ等間隔に必要な数を、必要に応じ誘導路の両外側三メートル以上にそれぞれ約三メートル以下の間隔に各二個を誘導路中心線に対しほぼ対称に設置すること。</Sentence>
+                      <Sentence WritingMode="vertical">灯器は、誘導路の一時停止すべき位置に、誘導路中心線に直交する直線上に、誘導路内に三メートル以下のほぼ等間隔に必要な数を、必要に応じ誘導路の両外側三メートル以上にそれぞれ三メートル以下の間隔に各二個を誘導路中心線に対しほぼ対称に設置すること。</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Delete="false" Hide="false" Num="2">
@@ -15749,7 +16522,7 @@
                   <Subitem2 Delete="false" Hide="false" Num="5">
                     <Subitem2Title>（五）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence WritingMode="vertical">実効光度は、誘導路の両外側に設置する灯器にあつては、三百カンデラ以上、誘導路内に設置する灯器にあつては二百カンデラ以上であること。</Sentence>
+                      <Sentence WritingMode="vertical">実効光度は、誘導路の両外側に設置する灯器にあつては三百カンデラ以上、誘導路内に設置する灯器にあつては二百カンデラ以上であること。</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Delete="false" Hide="false" Num="6">
@@ -16567,12 +17340,12 @@
             </Paragraph>
           </Article>
           <Article Delete="false" Hide="false" Num="126">
-            <ArticleCaption>（管理の基準）</ArticleCaption>
+            <ArticleCaption>（航空灯火の機能の確保に関する基準）</ArticleCaption>
             <ArticleTitle>第百二十六条</ArticleTitle>
             <Paragraph Hide="false" Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence WritingMode="vertical">法第四十七条第一項（法第五十五条の二第三項において準用する場合を含む。）の規定による航空灯火の管理の基準は、次のとおりとする。</Sentence>
+                <Sentence WritingMode="vertical">法第四十七条第一項（法第五十五条の二第三項において準用する場合を含む。）の国土交通省令で定める航空灯火の機能の確保に関する基準は、次のとおりとする。</Sentence>
               </ParagraphSentence>
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -16595,7 +17368,7 @@
               <Item Delete="false" Hide="false" Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">建築物、植物その他の物件により航空灯火の機能を損なうこととなるときは、直ちに当該物件の除去等必要な措置をすること。</Sentence>
+                  <Sentence WritingMode="vertical">建築物、植物その他の物件により航空灯火の機能を損なうこととなるときは、直ちに当該物件の除去等必要な措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="5">
@@ -16607,13 +17380,13 @@
               <Item Delete="false" Hide="false" Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">天災その他の事故により、航空灯火の運用に支障を生じたときは、直ちにその復旧に努めるとともに、その運用をできるだけ継続する等航空の危害予防のため適当な措置をすること。</Sentence>
+                  <Sentence WritingMode="vertical">自然災害その他の事象により、航空灯火の運用に支障を生じたときは、直ちにその復旧に努めるとともに、その運用をできるだけ継続する等航空の危害予防のため適当な措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">航空灯火につき改修その他の工事を行うときは、航空機の航行を阻害しないように適当な措置をすること。</Sentence>
+                  <Sentence WritingMode="vertical">航空灯火につき改修その他の工事を行うときは、航空機の航行を阻害しないように適当な措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="8">
@@ -16672,14 +17445,14 @@
                 <Subitem1 Delete="false" Hide="false" Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Function="main" Num="1" WritingMode="vertical">着陸を予定する航空機があるときは、その着陸予定時刻の一時間前に点灯の準備をし、当該着陸予定時間の少くとも十分前に点灯すること。</Sentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">着陸を予定する航空機があるときは、その着陸予定時刻の一時間前に点灯の準備をし、当該着陸予定時間の少なくとも十分前に点灯すること。</Sentence>
                     <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、緊急に点灯する必要がある場合は、この限りでない。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Delete="false" Hide="false" Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">航空機が離陸したときは、離陸してから少くとも五分間は点灯を継続すること。</Sentence>
+                    <Sentence WritingMode="vertical">航空機が離陸したときは、離陸してから少なくとも五分間は点灯を継続すること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -17155,7 +17928,7 @@
               <Item Delete="false" Hide="false" Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">建築物、植物その他の物件により航空障害灯の機能を損なうこととなるときは、直ちに当該物件の除去等必要な措置をすること。</Sentence>
+                  <Sentence WritingMode="vertical">建築物、植物その他の物件により航空障害灯の機能を損なうこととなるときは、直ちに当該物件の除去等必要な措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="3">
@@ -17167,7 +17940,7 @@
               <Item Delete="false" Hide="false" Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">天災その他の事故により、航空障害灯の運用に支障を生じたときは、直ちにその復旧につとめるとともに、その運用をできるだけ継続する等航空の危害予防のため適当な措置をすること。</Sentence>
+                  <Sentence WritingMode="vertical">自然災害その他の事象により、航空障害灯の運用に支障を生じたときは、直ちにその復旧に努めるとともに、その運用をできるだけ継続する等航空の危害予防のため適当な措置を講ずること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="5">
@@ -19045,7 +19818,7 @@
                     <Sentence WritingMode="vertical">最大離陸重量が三千百七十五キログラムを超え七千キログラム以下のものであつて、最初の耐空証明等が平成二十八年一月一日以後になされたもの</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">一　国際民間航空条約の附属書六第三部第二十改訂版に規定するタイプⅣＡの飛行記録装置（以下この表において単に「タイプⅣＡの飛行記録装置」という。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一　国際民間航空条約の附属書六第三部第二十改訂版に規定するタイプⅣＡの飛行記録装置（以下この表において単に「タイプⅣＡの飛行記録装置」という。）</Sentence>
                     <Sentence Num="2" WritingMode="vertical">二　航空運送事業の用に供するものにあつては連続した最新の二時間以上の音声を記録することができる操縦室用音声記録装置</Sentence>
                     <Sentence Num="3" WritingMode="vertical">三　航空運送事業の用に供するものであつて、最初の耐空証明等が平成三十年六月一日以後になされ、かつ、データリンク通信を行うものにあつては、操縦室用音声記録装置が音声を記録することができる時間と同じ時間のデータリンク通信の内容を記録することができる装置</Sentence>
                   </TableColumn>
@@ -19981,10 +20754,29 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">第百五十九条第一項、第百六十条第一項、第百六十一条第一項及び第百六十二条の規定にかかわらず、次の表の上欄に掲げる者は、国土交通大臣が同表中欄に掲げる経験と同等以上の経験を有すると認めた場合には、同表下欄に掲げる行為を行うことができる。</Sentence>
+              <Sentence WritingMode="vertical">第百五十九条第一項、第百六十条第一項、第百六十一条第一項及び前条の規定にかかわらず、次の表の上欄に掲げる者は、国土交通大臣が同表中欄に掲げる経験と同等以上の経験を有すると認めた場合には、同表下欄に掲げる行為を行うことができる。</Sentence>
             </ParagraphSentence>
             <TableStruct>
               <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                    <Sentence WritingMode="vertical">操縦者</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第百六十一条第一項の飛行経験</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">計器飛行を行うこと。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">前条の飛行経験</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法第三十四条第二項の操縦教育を行うこと。</Sentence>
+                  </TableColumn>
+                </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence WritingMode="vertical">航空機関士</Sentence>
@@ -20007,23 +20799,63 @@
                     <Sentence WritingMode="vertical">航空機の運航に従事すること。</Sentence>
                   </TableColumn>
                 </TableRow>
+              </Table>
+            </TableStruct>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第百五十八条第一項及び第二項、第百五十九条第一項、第百六十条第一項、第百六十一条第一項並びに前条の規定にかかわらず、次の表の上欄に掲げる者は、天災その他やむを得ない事由により同表中欄に掲げる経験を有することが困難であると認められる場合には、国土交通大臣が定める航空機の航行の安全のための措置が講じられている場合に限り、同表下欄に掲げる行為を行うことができる。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
                 <TableRow>
-                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
                     <Sentence WritingMode="vertical">操縦者</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第百六十一条第一項の飛行経験</Sentence>
+                    <Sentence WritingMode="vertical">第百五十八条第一項及び第二項の飛行経験</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">計器飛行</Sentence>
+                    <Sentence WritingMode="vertical">航空機の運航に従事すること。</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">第百六十二条の飛行経験</Sentence>
+                    <Sentence WritingMode="vertical">第百六十一条第一項の飛行経験</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">法第三十四条第二項の操縦の教育</Sentence>
+                    <Sentence WritingMode="vertical">計器飛行を行うこと。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">前条の飛行経験</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">法第三十四条第二項の操縦教育を行うこと。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">航空機関士</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第百五十九条第一項の飛行経験</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">航空機の運航に従事すること。</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第百六十条第一項各号に掲げる航空機乗組員</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">第百六十条第一項各号に掲げる飛行経験</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence WritingMode="vertical">航空機の運航に従事すること。</Sentence>
                   </TableColumn>
                 </TableRow>
               </Table>
@@ -24496,7 +25328,7 @@
             <Item Delete="false" Hide="false" Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">ロケット、花火等の打上げ、航空機の集団飛行その他航空機の飛行に影響を及ぼすおそれのある事項</Sentence>
+                <Sentence WritingMode="vertical">ロケツト、花火等の打上げ、航空機の集団飛行その他航空機の飛行に影響を及ぼすおそれのある事項</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="7">
@@ -24624,13 +25456,19 @@
                 <Subitem1 Delete="false" Hide="false" Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">二酸化炭素排出量（当該運航に伴う二酸化炭素の年間の排出量をいう。ロ及び第二百二十条の二第三項第五号において同じ。）の把握に関する事項</Sentence>
+                    <Sentence WritingMode="vertical">二酸化炭素排出量（当該運航に伴う二酸化炭素の年間の排出量をいう。以下この号及び第二百二十条の二第三項において同じ。）の把握に関する事項</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Delete="false" Hide="false" Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence WritingMode="vertical">国土交通大臣に対する二酸化炭素排出量の報告に関する事項（当該二酸化炭素排出量が一万トンを超える場合に限る。）</Sentence>
+                    <Sentence WritingMode="vertical">国際民間航空条約の附属書十六第四巻に定める方法による二酸化炭素排出量に係る措置に関する事項（当該二酸化炭素排出量が一万トンを超える場合に限る。ハにおいて同じ。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical">国土交通大臣に対する二酸化炭素排出量及びロに掲げる措置の内容の報告に関する事項</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -25085,7 +25923,7 @@
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">機体並びに装備品、部品及び救急用具（次条において「装備品等」という。）の製造者等の作成する運航又は整備に関する技術的資料に準拠した変更</Sentence>
+                  <Sentence WritingMode="vertical">機体及び装備品等の製造者等の作成する運航又は整備に関する技術的資料に準拠した変更</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="2">
@@ -25209,7 +26047,7 @@
                       <Sentence WritingMode="vertical">ニ　航空機乗組員及び客室乗務員の乗務割並びに運航管理者の業務に従事する時間の制限（客室乗務員の乗務割については、客室乗務員を航空機に乗り組ませて事業を行う場合に限る。）</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence WritingMode="vertical">航空機乗組員の乗務割は第百五十七条の三の基準に従うものであり、客室乗務員の乗務割は客室乗務員の職務に支障を生じないように定められているものであり、運航管理者の業務に従事する時間は運航の頻度を考慮して運航管理者の職務に支障を生じないように制限されているものであること。</Sentence>
+                      <Sentence WritingMode="vertical">航空機乗組員の乗務割は第百五十七条の二の基準に従うものであり、客室乗務員の乗務割は客室乗務員の職務に支障を生じないように定められているものであり、運航管理者の業務に従事する時間は運航の頻度を考慮して運航管理者の職務に支障を生じないように制限されているものであること。</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -25924,6 +26762,12 @@
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
                   <Sentence WritingMode="vertical">第二百十条第二項第三号イに掲げる事項のうち二酸化炭素排出量の把握に影響を及ぼすおそれがないと国土交通大臣が認める事項の変更</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第二百十条第二項第三号ロに掲げる事項のうち二酸化炭素排出量に係る措置の効果に影響を及ぼすおそれがないと国土交通大臣が認める事項の変更</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -26711,7 +27555,7 @@
               <Item Delete="false" Hide="false" Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence WritingMode="vertical">前条第一項第二号に掲げる事項の変更(使用航空機の型式の追加を除く。)</Sentence>
+                  <Sentence WritingMode="vertical">前条第一項第二号に掲げる事項の変更（使用航空機の型式の追加を除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Delete="false" Hide="false" Num="2">
@@ -27349,7 +28193,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第百三十二条第一号の国土交通省令で定める空域は、次のとおりとする。</Sentence>
+              <Sentence WritingMode="vertical">法第百三十二条第一項第一号の国土交通省令で定める空域は、次のとおりとする。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -27382,7 +28226,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第百三十二条第二号の国土交通省令で定める人又は家屋の密集している地域は、国土交通大臣が告示で定める年の国勢調査の結果による人口集中地区（地上及び水上の人及び物件の安全が損なわれるおそれがないものとして国土交通大臣が告示で定める区域を除く。）とする。</Sentence>
+              <Sentence WritingMode="vertical">法第百三十二条第一項第二号の国土交通省令で定める人又は家屋の密集している地域は、国土交通大臣が告示で定める年の国勢調査の結果による人口集中地区（地上及び水上の人及び物件の安全が損なわれるおそれがないものとして国土交通大臣が告示で定める区域を除く。）とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -27392,7 +28236,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第百三十二条ただし書の許可を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">法第百三十二条第二項第二号の許可を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -27450,7 +28294,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第百三十二条の二第二号の規定により無人航空機を飛行させる者が確認しなければならない事項は、次に掲げるものとする。</Sentence>
+              <Sentence WritingMode="vertical">法第百三十二条の二第一項第二号の規定により無人航空機を飛行させる者が確認しなければならない事項は、次に掲げるものとする。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -27489,7 +28333,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第百三十二条の二第三号の国土交通省令で定める方法は、次の各号に掲げる方法とする。</Sentence>
+              <Sentence WritingMode="vertical">法第百三十二条の二第一項第三号の国土交通省令で定める方法は、次の各号に掲げる方法とする。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -27501,7 +28345,7 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">無人航空機の飛行経路上及びその周辺の空域において飛行中の他の無人航空機を確認したときは、次に掲げる方法により飛行させること。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（平成二十八年法律第九号）第十条第二項（第三項において準用する場合を含む。）の規定による措置その他法律に基づいて国又は地方公共団体が人又は物件に対する危険を防止するためやむを得ずに行う措置については、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律第十一条第二項（第三項及び第五項において準用する場合を含む。）の規定による措置その他法令に基づいて国又は地方公共団体が人又は物件に対する危険を防止するためやむを得ずに行う措置については、この限りでない。</Sentence>
               </ItemSentence>
               <Subitem1 Delete="false" Hide="false" Num="1">
                 <Subitem1Title>イ</Subitem1Title>
@@ -27519,12 +28363,11 @@
           </Paragraph>
         </Article>
         <Article Delete="false" Hide="false" Num="236_6">
-          <ArticleCaption>（飛行の方法）</ArticleCaption>
           <ArticleTitle>第二百三十六条の六</ArticleTitle>
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第百三十二条の二第七号の国土交通省令で定める距離は、三十メートルとする。</Sentence>
+              <Sentence WritingMode="vertical">法第百三十二条の二第一項第七号の国土交通省令で定める距離は、三十メートルとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -27533,14 +28376,14 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第百九十四条第一項の規定は、法第百三十二条の二第九号の国土交通省令で定める物件について準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第百九十四条第一項の規定は、法第百三十二条の二第一項第九号の国土交通省令で定める物件について準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、第百九十四条第一項第八号中「航空機」とあるのは、「無人航空機」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">前項の規定にかかわらず、無人航空機の飛行のため当該無人航空機で輸送する物件は、法第百三十二条の二第九号の国土交通省令で定める物件に含まれないものとする。</Sentence>
+              <Sentence WritingMode="vertical">前項の規定にかかわらず、無人航空機の飛行のため当該無人航空機で輸送する物件は、法第百三十二条の二第一項第九号の国土交通省令で定める物件に含まれないものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -27550,7 +28393,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">法第百三十二条の二ただし書の承認を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。</Sentence>
+              <Sentence WritingMode="vertical">法第百三十二条の二第二項第二号の承認を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
@@ -27573,7 +28416,7 @@
             <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第百三十二条の二第五号から第十号までに掲げる方法によらずに飛行させる理由</Sentence>
+                <Sentence WritingMode="vertical">法第百三十二条の二第一項第五号から第十号までに掲げる方法によらずに飛行させる理由</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="5">
@@ -28275,8 +29118,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">ＯＣＲ申請書等による申請又は申込みに係る手数料は、当該手数料の額に相当する額の収入印紙を納付書（第三十一号様式）に貼つて納めなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して当該申請又は申込みをする場合において、当該申請又は申込みを行つたことにより得られた納付情報により納めるときは、現金をもつてすることができる。</Sentence>
+              <Sentence>ＯＣＲ申請書等による申請又は申込みに係る手数料は、当該手数料の額に相当する額の収入印紙を納付書（第三十一号様式）に貼つて納めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -28315,44 +29157,110 @@
             <Item Delete="false" Hide="false" Num="3_3">
               <ItemTitle>三の三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第十三条の三第一項及び第二項の規定による権限（追加型式設計に係るものに限る。）</Sentence>
+                <Sentence WritingMode="vertical">法第十三条の五第一項及び第二項の規定による権限（追加型式設計に係るものに限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3_4">
+              <ItemTitle>三の四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第十四条の二第一項及び第三項の規定による認定</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3_5">
+              <ItemTitle>三の五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第十四条の二第五項の規定による届出の受理</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3_6">
+              <ItemTitle>三の六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">法第十四条の二第七項の規定による権限</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第十六条第三項及び法第十九条第三項において準用する法第十一条第一項ただし書の規定による許可</Sentence>
+                <Sentence WritingMode="vertical">法第十七条第三項及び法第十九条第三項において準用する法第十一条第一項ただし書の規定による許可</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第十六条第一項の規定による検査</Sentence>
+                <Sentence WritingMode="vertical">法第十七条第一項の規定による検査</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第十七条第一項の規定による予備品証明</Sentence>
+                <Sentence WritingMode="vertical">法第十八条第一項の規定による予備品証明</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="6_2">
               <ItemTitle>六の二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第二十条第一項の規定による認定（初めて認定を申請する事業場に係るものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">法第二十条第一項の規定による認定（次に掲げるものを除く。）</Sentence>
               </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">初めて認定を申請する者に係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">型式証明を受けようとする者又は受けた者（以下「型式証明保有者等」という。）であつて、法第二十条第一項第一号の能力について同項の認定を申請するもの又は受けたものに係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第二十条第一項第二号の能力について同項の認定を申請する者又は受けた者に係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Delete="false" Hide="false" Num="6_3">
               <ItemTitle>六の三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第二十条第二項の規定による認可（初めて認可を申請する認定事業場に係るものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">法第二十条第二項の規定による認可（次に掲げるものを除く。）</Sentence>
               </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">初めて認可を申請する者に係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">型式証明保有者等であつて、法第二十条第一項第一号の能力について同項の認定を受けたものに係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第二十条第一項第二号の能力について同項の認定を受けた者に係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Delete="false" Hide="false" Num="6_4">
               <ItemTitle>六の四</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第二十条第四項の規定による届出の受理</Sentence>
+                <Sentence WritingMode="vertical">法第二十条第四項の規定による届出の受理（次に掲げるものを除く。）</Sentence>
               </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">型式証明保有者等であつて、法第二十条第一項第一号の能力について同項の認定を受けたものに係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第二十条第一項第二号の能力について同項の認定を受けた者に係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Delete="false" Hide="false" Num="7">
               <ItemTitle>七</ItemTitle>
@@ -28399,7 +29307,7 @@
             <Item Delete="false" Hide="false" Num="12">
               <ItemTitle>十二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第四十二条第一項（法第四十三条第二項において準用する場合を含む。）の規定による検査（衛星航法補助施設に係るものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">法第四十二条第一項（法第四十三条第二項において準用する場合を含む。）の規定による検査（衛星経由送信型衛星航法補助施設に係るものを除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="13">
@@ -28417,7 +29325,7 @@
             <Item Delete="false" Hide="false" Num="13_3">
               <ItemTitle>十三の三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第四十五条第二項において準用する法第四十四条第五項において準用する法第四十二条第三項の規定による届出の受理（衛星航法補助施設に係るものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">法第四十五条第二項において準用する法第四十四条第五項において準用する法第四十二条第三項の規定による届出の受理（衛星経由送信型衛星航法補助施設に係るものを除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="14">
@@ -28435,19 +29343,19 @@
             <Item Delete="false" Hide="false" Num="15">
               <ItemTitle>十五</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第四十四条第四項（法第四十五条第二項において準用する場合を含む。）の規定による検査（衛星航法補助施設に係るものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">法第四十四条第四項（法第四十五条第二項において準用する場合を含む。）の規定による検査（衛星経由送信型衛星航法補助施設に係るものを除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="16">
               <ItemTitle>十六</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第四十五条第一項の規定による届出の受理（衛星航法補助施設に係るものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">法第四十五条第一項の規定による届出の受理（衛星経由送信型衛星航法補助施設に係るものを除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="17">
               <ItemTitle>十七</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第四十七条第二項の規定による検査（空港法（昭和三十一年法律第八十号）第四条第一項第一号及び第三号から第五号までに掲げる空港並びに当該空港の設置者が設置する航空保安施設（衛星航法補助施設を除く。）並びに衛星航法補助施設に係るものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">法第四十七条第三項の規定による検査（空港法（昭和三十一年法律第八十号）第四条第一項第一号及び第三号から第五号までに掲げる空港並びに当該空港の設置者が設置する航空保安施設（衛星経由送信型衛星航法補助施設を除く。）並びに衛星経由送信型衛星航法補助施設に係るものを除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="17_2">
@@ -28963,13 +29871,13 @@
             <Item Delete="false" Hide="false" Num="40_2">
               <ItemTitle>四十の二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第百三十二条ただし書の規定による許可</Sentence>
+                <Sentence WritingMode="vertical">法第百三十二条第二項第二号の規定による許可</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="40_3">
               <ItemTitle>四十の三</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第百三十二条の二ただし書の規定による承認</Sentence>
+                <Sentence WritingMode="vertical">法第百三十二条の二第二項第二号の規定による承認</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="41">
@@ -28999,14 +29907,44 @@
             <Item Delete="false" Hide="false" Num="45">
               <ItemTitle>四十五</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第三十五条第四号の規定による権限（初めて認定を申請する事業場に係るものを除く。）</Sentence>
+                <Sentence WritingMode="vertical">第三十五条第四号の規定による権限（次に掲げるものを除く。）</Sentence>
               </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">初めて認定を申請する者が選任する確認主任者に係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">型式証明保有者等であつて、法第二十条第一項第一号の能力について同項の認定を申請するもの又は受けたものが選任する確認主任者に係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第二十条第一項第二号の能力について同項の認定を申請する者又は受けた者が選任する確認主任者に係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Delete="false" Hide="false" Num="46">
               <ItemTitle>四十六</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">第三十八条第一項の規定による承認</Sentence>
+                <Sentence WritingMode="vertical">第三十八条第一項の規定による承認（次に掲げるものを除く。）</Sentence>
               </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">型式証明保有者等であつて、法第二十条第一項第一号の能力について同項の認定を受けたものに係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">法第二十条第一項第二号の能力について同項の認定を受けた者に係るもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Delete="false" Hide="false" Num="47">
               <ItemTitle>四十七</ItemTitle>
@@ -29227,13 +30165,13 @@
             <Item Delete="false" Hide="false" Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第十四条の二第一項及び第二項の規定による権限</Sentence>
+                <Sentence WritingMode="vertical">法第十四条の三第一項及び第二項の規定による権限</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence WritingMode="vertical">法第二十条第六項の規定による権限</Sentence>
+                <Sentence WritingMode="vertical">法第二十条第六項の規定による権限（型式証明保有者等であつて同条第一項の能力について同項の認定を受けたもの又は同項第二号の能力について同項の認定を受けた者に係るものを除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Delete="false" Hide="false" Num="3">
@@ -29273,7 +30211,7 @@
           <Paragraph Hide="false" Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence WritingMode="vertical">地方航空局長は、前条第一項第八号及び第二十号の権限、同項第二十四号の二の権限（無線電話及び航空交通管制用自動応答装置に係るものに限る。）、同項第二十五号の権限（航空運送事業の用に供する航空機に係るもの及び船舶又は構築物において離陸し、又は着陸しようとする回転翼航空機に係るものを除く。）、同項第二十七号の権限（航空運送事業の用に供する航空機、計器飛行方式により、又は夜間において飛行しようとする航空機及び物件を機体の外に装着し、つり下げ、又は曳航して運送しようとする回転翼航空機に係るものを除く。）、同項第二十七号の二及び第二十九号の権限、同項第三十一号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の試験をする飛行を行おうとする航空機に係るものに限る。）、同項第三十二号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の操縦の練習のための飛行を行おうとする航空機に係るものに限る。）、同項第三十七号ヤ及び第三十七号の十一の権限、同項第四十号の二の権限（法第百三十二条第一号の空域における飛行に係るものに限る。）、同項第四十一号の権限、同項第四十二号の権限（管制圏及びこれに接続する進入管制区内の特別管制空域並びに情報圏に係る行為を行おうとする者に係るものに限る。）並びに同項第四十三号及び第六十四号の二ニの権限を空港事務所長に行わせるものとする。</Sentence>
+              <Sentence WritingMode="vertical">地方航空局長は、前条第一項第八号及び第二十号の権限、同項第二十四号の二の権限（無線電話及び航空交通管制用自動応答装置に係るものに限る。）、同項第二十五号の権限（航空運送事業の用に供する航空機に係るもの及び船舶又は構築物において離陸し、又は着陸しようとする回転翼航空機に係るものを除く。）、同項第二十七号の権限（航空運送事業の用に供する航空機、計器飛行方式により、又は夜間において飛行しようとする航空機及び物件を機体の外に装着し、つり下げ、又は曳航して運送しようとする回転翼航空機に係るものを除く。）、同項第二十七号の二及び第二十九号の権限、同項第三十一号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の試験をする飛行を行おうとする航空機に係るものに限る。）、同項第三十二号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の操縦の練習のための飛行を行おうとする航空機に係るものに限る。）、同項第三十七号ヤ及び第三十七号の十一の権限、同項第四十号の二の権限（法第百三十二条第一項第一号の空域における飛行に係るものに限る。）、前条第一項第四十一号の権限、同項第四十二号の権限（管制圏及びこれに接続する進入管制区内の特別管制空域並びに情報圏に係る行為を行おうとする者に係るものに限る。）並びに同項第四十三号及び第六十四号の二ニの権限を空港事務所長に行わせるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Hide="false" Num="2">
@@ -29361,7 +30299,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">二　第二百四十条第一項第二号、第四号及び第七号の権限、同項第二十四号の二の権限（無線電話及び航空交通管制用自動応答装置に係るものを除く。）、同項第二十四号の三及び第二十四号の五の権限、同項第二十五号の権限（航空運送事業の用に供する航空機に係るもの及び船舶又は構築物において離陸し、又は着陸しようとする回転翼航空機に係るものに限る。）、同項第二十六号の権限、同項第二十七号の権限（航空運送事業の用に供する航空機、計器飛行方式により、又は夜間において飛行しようとする航空機及び物件を機体の外に装着し、つり下げ、又は曳航して運送しようとする回転翼航空機に係るものに限る。）、同項第二十八号及び第三十号の権限、同項第三十一号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の試験をする飛行を行おうとする航空機に係るものを除く。）、同項第三十二号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の操縦の練習のための飛行を行おうとする航空機に係るものを除く。）、同項第四十号の権限、同項第四十号の二の権限（法第百三十二条第二号の空域における飛行に係るものに限る。）、同項第四十号の三の権限、同項第四十二号の権限（管制圏及びこれに接続する進入管制区内の特別管制空域並びに情報圏に係る行為を行おうとする者に係るものを除く。）並びに同項第六十四号の権限</Sentence>
+                    <Sentence WritingMode="vertical">二　第二百四十条第一項第二号、第四号及び第七号の権限、同項第二十四号の二の権限（無線電話及び航空交通管制用自動応答装置に係るものを除く。）、同項第二十四号の三及び第二十四号の五の権限、同項第二十五号の権限（航空運送事業の用に供する航空機に係るもの及び船舶又は構築物において離陸し、又は着陸しようとする回転翼航空機に係るものに限る。）、同項第二十六号の権限、同項第二十七号の権限（航空運送事業の用に供する航空機、計器飛行方式により、又は夜間において飛行しようとする航空機及び物件を機体の外に装着し、つり下げ、又は曳航して運送しようとする回転翼航空機に係るものに限る。）、同項第二十八号及び第三十号の権限、同項第三十一号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の試験をする飛行を行おうとする航空機に係るものを除く。）、同項第三十二号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の操縦の練習のための飛行を行おうとする航空機に係るものを除く。）、同項第四十号の権限、同項第四十号の二の権限（法第百三十二条第一項第二号の空域における飛行に係るものに限る。）、第二百四十条第一項第四十号の三の権限、同項第四十二号の権限（管制圏及びこれに接続する進入管制区内の特別管制空域並びに情報圏に係る行為を行おうとする者に係るものを除く。）並びに同項第六十四号の権限</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence WritingMode="vertical">当該許可又は承認を必要とする行為を行おうとする場所を管轄区域とする地方航空局長</Sentence>
@@ -29377,7 +30315,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">四　第二百四十条第一項第三号の三、第八号の二、第八号の三、第二十四号の四、第二十四号の六、第二十四号の七、第二十七号の三、第四十九号から第五十二号の三まで、第五十九号、第六十号の二から第六十号の八まで及び第六十一号から第六十三号までの権限並びに同項第六十五号の権限（第二百三十八条の表十の項に係る届出の受理に係るものに限る。）</Sentence>
+                    <Sentence WritingMode="vertical">四　第二百四十条第一項第三号の三から第三号の六まで、第八号の二、第八号の三、第二十四号の四、第二十四号の六、第二十四号の七、第二十七号の三、第四十九号から第五十二号の三まで、第五十九号、第六十号の二から第六十号の八まで及び第六十一号から第六十三号までの権限並びに同項第六十五号の権限（第二百三十八条の表十の項に係る届出の受理に係るものに限る。）</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence WritingMode="vertical">当該指定、当該認定、当該許可、当該証明、当該証明の限定の変更若しくは当該検定を受けようとする者、当該型式証明等、当該認定若しくは当該審査を受けた者又は当該航空機の所有者の住所を管轄区域とする地方航空局長</Sentence>
@@ -29409,8 +30347,7 @@
                 </TableRow>
                 <TableRow>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence WritingMode="vertical">八　第二百四十条第一項第二十四号の二の権限（無線電話及び航空交通管制用自動応答装置に係るものに限る。）、同項第二十五号の権限（航空運送事業の用に供する航空機に係るもの及び船舶又は構築物において離陸し、又は着陸しようとする回転翼航空機に係るものを除く。）、同項第二十七号の権限（航空運送事業の用に供する航空機、計器飛行方式により、又は夜間において飛行しようとする航空機及び物件を機体の外に装着し、つり下げ、又は曳航して運送しようとする回転翼航空機に係るものを除く。）、同項第二十七号の二及び第二十九号の権限、同項第三十一号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の試験をする飛行を行おうとする航空機に係るものに限る。）、同項第三十二号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の操縦の練習のための飛行を行おうとする航空機に係るものに限る。）、同項第四十号の二の権限（法第百三十二条第一号の空域における飛行に係るものに限る。）、同項第四十二号の権限（管制圏及びこれに接続する進入管制区内の特別管制空域並びに情報圏に係る行為を行おうとする者に係るものに限る。）並びに同項第四十三号の権限
-</Sentence>
+                    <Sentence WritingMode="vertical">八　第二百四十条第一項第二十四号の二の権限（無線電話及び航空交通管制用自動応答装置に係るものに限る。）、同項第二十五号の権限（航空運送事業の用に供する航空機に係るもの及び船舶又は構築物において離陸し、又は着陸しようとする回転翼航空機に係るものを除く。）、同項第二十七号の権限（航空運送事業の用に供する航空機、計器飛行方式により、又は夜間において飛行しようとする航空機及び物件を機体の外に装着し、つり下げ、又は曳航して運送しようとする回転翼航空機に係るものを除く。）、同項第二十七号の二及び第二十九号の権限、同項第三十一号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の試験をする飛行を行おうとする航空機に係るものに限る。）、同項第三十二号の権限（管制圏内において、有視界飛行方式により、かつ、昼間において航空機の操縦の練習のための飛行を行おうとする航空機に係るものに限る。）、同項第四十号の二の権限（法第百三十二条第一項第一号の空域における飛行に係るものに限る。）、第二百四十条第一項第四十二号の権限（管制圏及びこれに接続する進入管制区内の特別管制空域並びに情報圏に係る行為を行おうとする者に係るものに限る。）並びに同項第四十三号の権限</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                     <Sentence WritingMode="vertical">当該許可、届出又は通報を必要とする行為を行おうとする場所を管轄区域とする空港事務所長</Sentence>
@@ -32908,7 +33845,7 @@
       <Paragraph Hide="false" Num="4">
         <ParagraphNum>４</ParagraphNum>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">この省令の施行の際現に存する公共の用に供する飛行場の飛行場灯火（航空法第三十八条第一項の規定により設置の許可を受けたものであって供用を開始していないものを含む。）の設置者は、平成十七年三月三十一日までに、新規則第百二十六条第十二号へに規定する事項を国土交通大臣に届け出なければならない。</Sentence>
+          <Sentence WritingMode="vertical">この省令の施行の際現に存する公共の用に供する飛行場の飛行場灯火（航空法第三十八条第一項の規定により設置の許可を受けたものであって供用を開始していないものを含む。）の設置者は、平成十七年三月三十一日までに、新規則第百二十六条第十二号ヘに規定する事項を国土交通大臣に届け出なければならない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Hide="false" Num="5">
@@ -34085,7 +35022,7 @@
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">この省令の施行の際現に工事に着手され、又は設置されている誘導路中心線灯については、改正後の第百十七条第一項第三号ナ（二）の規定にかかわらず、平成三十六年三月三十一日までは、なお従前の例によることができる。</Sentence>
+          <Sentence WritingMode="vertical">この省令の施行の際現に工事に着手され、又は設置されている誘導路中心線灯については、改正後の第百十七条第一項第三号ナ（二）の規定にかかわらず、令和六年三月三十一日までは、なお従前の例によることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Hide="false" Num="3">
@@ -34126,7 +35063,7 @@
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">前項ただし書に規定する改正規定の施行の際現に工事に着手され、又は設置されている航空機接近警告灯については、この省令による改正後の航空法施行規則第百十七条第一項第三号ウ（四）の規定にかかわらず、平成三十七年三月三十一日までは、なお従前の例によることができる。</Sentence>
+          <Sentence WritingMode="vertical">前項ただし書に規定する改正規定の施行の際現に工事に着手され、又は設置されている航空機接近警告灯については、この省令による改正後の航空法施行規則第百十七条第一項第三号ウ（四）の規定にかかわらず、令和七年三月三十一日までは、なお従前の例によることができる。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -34201,7 +35138,7 @@
         <ParagraphCaption>（経過措置）</ParagraphCaption>
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">この省令の施行の日以後最初の福岡空港における航空法第百七条の三第五項の単位期間は、同項の規定にかかわらず、平成三十二年一月三十一日に終了するものとする。</Sentence>
+          <Sentence WritingMode="vertical">この省令の施行の日以後最初の福岡空港における航空法第百七条の三第五項の単位期間は、同項の規定にかかわらず、令和二年一月三十一日に終了するものとする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -34302,7 +35239,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国際航空運送事業の用に供する飛行機であって、新規則第百四十九条の施行の際に現に登録されているもののうち、当該飛行機の運航の状況を記録するための装置の格納容器に水中で自動的に作動し、かつ、三十日以上作動する三十七・五キロヘルツの周波数を使用する位置情報発信機が取り付けてあるものについては、平成三十一年十二月三十一日までは、同条第四項の規定は、適用しない。</Sentence>
+            <Sentence WritingMode="vertical">国際航空運送事業の用に供する飛行機であって、新規則第百四十九条の施行の際に現に登録されているもののうち、当該飛行機の運航の状況を記録するための装置の格納容器に水中で自動的に作動し、かつ、三十日以上作動する三十七・五キロヘルツの周波数を使用する位置情報発信機が取り付けてあるものについては、令和元年十二月三十一日までは、同条第四項の規定は、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -34311,7 +35248,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">国内航空運送事業の用に供する飛行機であって、新規則第百四十九条の施行の際に現に登録されているもののうち、当該飛行機の運航の状況を記録するための装置の格納容器に水中で自動的に作動し、かつ、三十日以上作動する三十七・五キロヘルツの周波数を使用する位置情報発信機が取り付けてあるものについては、当該位置情報発信機の製造日から起算して六年を経過した日又は平成三十六年五月三十一日のいずれか早い日までの間は、同条第四項の規定は、適用しない。</Sentence>
+            <Sentence WritingMode="vertical">国内航空運送事業の用に供する飛行機であって、新規則第百四十九条の施行の際に現に登録されているもののうち、当該飛行機の運航の状況を記録するための装置の格納容器に水中で自動的に作動し、かつ、三十日以上作動する三十七・五キロヘルツの周波数を使用する位置情報発信機が取り付けてあるものについては、当該位置情報発信機の製造日から起算して六年を経過した日又は令和六年五月三十一日のいずれか早い日までの間は、同条第四項の規定は、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -34401,7 +35338,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令の施行の際現に航空法第百条第一項又は第百二十九条第一項の許可を受けている者は、それぞれ、第一条の規定による改正後の航空法施行規則第二百十条第一項第八号又は第二百三十二条第一項第七号への規定により新たに事業計画に記載すべき事項となった事項について、平成三十年十月二十七日までに、同法第百九条第一項又は第百二十九条の三第二項の規定に基づく変更の認可を受けなければならない。</Sentence>
+            <Sentence WritingMode="vertical">この省令の施行の際現に航空法第百条第一項又は第百二十九条第一項の許可を受けている者は、それぞれ、第一条の規定による改正後の航空法施行規則第二百十条第一項第八号又は第二百三十二条第一項第七号ヘの規定により新たに事業計画に記載すべき事項となった事項について、平成三十年十月二十七日までに、同法第百九条第一項又は第百二十九条の三第二項の規定に基づく変更の認可を受けなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Hide="false" Num="2">
@@ -34470,7 +35407,7 @@
       <Paragraph Hide="false" Num="3">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
-          <Sentence WritingMode="vertical">この省令の施行の際現に存する滑走路端安全区域（新規則第七十九条第一項第四号に規定する滑走路端安全区域をいう。次項において同じ。）（その新設又は変更に関する工事の途中のものを含む。）について同号の規定に適合しない部分がある場合においては、この省令の施行後当該部分に係る工事（維持工事を除く。）に着手する場合を除き、平成三十九年三月三十一日までは、同号の規定は、適用しない。</Sentence>
+          <Sentence WritingMode="vertical">この省令の施行の際現に存する滑走路端安全区域（新規則第七十九条第一項第四号に規定する滑走路端安全区域をいう。次項において同じ。）（その新設又は変更に関する工事の途中のものを含む。）について同号の規定に適合しない部分がある場合においては、この省令の施行後当該部分に係る工事（維持工事を除く。）に着手する場合を除き、令和九年三月三十一日までは、同号の規定は、適用しない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Hide="false" Num="4">
@@ -34544,7 +35481,7 @@
         <Paragraph Hide="false" Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence WritingMode="vertical">この省令は、航空法及び運輸安全委員会設置法の一部を改正する法律附則第一条第二号の施行の日（令和元年九月十八日）から施行する。</Sentence>
+            <Sentence WritingMode="vertical">この省令は、航空法及び運輸安全委員会設置法の一部を改正する法律附則第一条第二号に掲げる規定の施行の日（令和元年九月十八日）から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -34607,6 +35544,134 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence WritingMode="vertical">この省令の施行の日前に、この省令による改正前の海難審判法施行規則、ボート、モーター、選手、審判員及び検査員登録規則及び航空法施行規則（欠格条項を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一六日国土交通省令第四七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行の日（令和元年十二月十六日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年一月一七日国土交通省令第一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、航空法及び運輸安全委員会設置法の一部を改正する法律の施行の日（令和二年六月十八日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中航空法施行規則第十八条及び第二十三条の二の改正規定は、令和二年一月三十日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令の施行前に第一条の規定による改正前の航空法施行規則（以下「旧規則」という。）第二十五条の規定により修理改造検査申請書を提出した者に係る修理改造検査については、当該修理改造検査に限り、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令の施行の際現に交付されている旧規則第十四号様式による予備品証明書（次項において「旧予備品証明書」という。）は、第一条の規定による改正後の航空法施行規則（次条第一項において「新規則」という。）第十四号様式による予備品証明書（次項において「新予備品証明書」という。）とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>旧予備品証明書を有する者は、当該旧予備品証明書と引換えに、新予備品証明書の交付を受けることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令の施行の際現に交付されている旧規則第十七号の二様式による設計基準適合証（次項において「旧設計基準適合証」という。）は、新規則第十七号の二様式による設計基準適合証（次項において「新設計基準適合証」という。）とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>旧設計基準適合証を有する者は、当該旧設計基準適合証と引換えに、新設計基準適合証の交付を受けることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月一九日国土交通省令第一七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和二年三月二十三日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年八月七日国土交通省令第六八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令は、無人航空機等の飛行による危害の発生を防止するための航空法及び重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律の一部を改正する法律附則第一条第二号に掲げる規定の施行の日（令和二年九月二十三日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令の施行の際現に交付されている第一条の規定による改正前の航空法施行規則第三十号様式による検査員の証票並びに第二条の規定による改正前の民間の能力を活用した国管理空港等の運営等に関する法律施行規則第一号様式、第三号様式、第五号様式及び第七号様式による検査員の証票は、それぞれ第一条の規定による改正後の航空法施行規則第三十号様式による検査員の証票並びに第二条の規定による改正後の民間の能力を活用した国管理空港等の運営等に関する法律施行規則第一号様式、第三号様式、第五号様式及び第七号様式による検査員の証票とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月三〇日国土交通省令第八二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令の施行の際現に航空法第百条第一項の許可を受けている者（国際航空運送事業を経営している者に限る。）は、この省令による改正後の航空法施行規則第二百十条第二項第三号の規定により新たに事業計画に記載すべき事項となった事項について、令和二年十二月三十一日までに、同法第百九条第一項の規定に基づく変更の認可を受けなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の規定により、令和二年十二月三十一日までに、航空法第百九条第一項の規定に基づく変更の認可を受けなければならないこととなる者は、当該認可を受ける日までの間は、なお従前の例により航空運送事業を経営することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -37227,6 +38292,30 @@
       <StyleStruct>
         <Style>
           <Fig src="./pict/S27F03901000056-072.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">第１２号の２様式（第２６条の３関係）（日本産業規格Ａ４）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S27F03901000056_2010301200_126.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">第１２号の３様式（第２６条の５関係）（日本産業規格Ａ４）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S27F03901000056_2010301200_127.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">第１２号の４様式（第２６条の６関係）（日本産業規格Ａ４）</AppdxStyleTitle>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/S27F03901000056_2010301200_128.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>

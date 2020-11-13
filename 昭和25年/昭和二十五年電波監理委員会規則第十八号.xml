@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="20200624e04k04m01" Era="Showa" Lang="ja" LawType="Rule" Num="18" Year="25">
+<Law DataInfo="201111e03k04m03" Era="Showa" Lang="ja" LawType="Rule" Num="18" Year="25">
   <LawNum>昭和二十五年電波監理委員会規則第十八号</LawNum>
   <LawBody>
     <LawTitle>無線設備規則</LawTitle>
@@ -175,6 +175,10 @@
         <TOCSection Num="4_4_6">
           <SectionTitle>第四節の四の六　直交周波数分割多元接続方式携帯無線通信を行う無線局等の無線設備</SectionTitle>
           <ArticleRange>（第四十九条の六の十一）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4_4_7">
+          <SectionTitle>第四節の四の七　シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局等の無線設備</SectionTitle>
+          <ArticleRange>（第四十九条の六の十二）</ArticleRange>
         </TOCSection>
         <TOCSection Num="4_5">
           <SectionTitle>第四節の五　ＭＣＡ陸上移動通信を行う無線局等の無線設備</SectionTitle>
@@ -473,6 +477,12 @@
                 <ItemTitle>四の六</ItemTitle>
                 <ItemSentence>
                   <Sentence>「直交周波数分割多元接続方式携帯無線通信」とは、通信方式に直交周波数分割多重方式又は直交周波数分割多重方式と時分割多重方式を組み合わせた多重方式及び直交周波数分割多元接続方式を使用する周波数分割複信方式又は時分割複信方式を用いる携帯無線通信をいう。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4_7">
+                <ItemTitle>四の七</ItemTitle>
+                <ItemSentence>
+                  <Sentence>「シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信」とは、通信方式に直交周波数分割多重方式と時分割多重方式を組み合わせた多重方式及びシングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式を使用する時分割複信方式を用いる携帯無線通信をいう。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
@@ -808,18 +818,18 @@
                 <ItemSentence>
                   <Sentence>デジタルコードレス電話の無線局については、次に掲げる機能</Sentence>
                 </ItemSentence>
-                    <Subitem1 Num="1">
-                      <Subitem1Title>イ</Subitem1Title>
-                      <Subitem1Sentence>
-                        <Sentence>時分割多元接続方式狭帯域デジタルコードレス電話の無線局（施行規則第六条第四項第五号に規定する無線局のうち、一、八九三・六五ＭＨｚ以上一、九〇五・九五ＭＨｚ以下の周波数の電波であつて、一、八九三・六五ＭＨｚ及び一、八九三・六五ＭＨｚに三〇〇ｋＨｚの整数倍を加えたものを使用するものをいう。以下同じ。）及び時分割多元接続方式広帯域デジタルコードレス電話の無線局（施行規則第六条第四項第五号に規定する無線局のうち、一、八九五・六一六ＭＨｚ以上一、九〇四・二五六ＭＨｚ以下の周波数の電波であつて、一、八九五・六一六ＭＨｚ及び一、八九五・六一六ＭＨｚに一、七二八ｋＨｚの整数倍を加えたものを使用するものをいう。以下同じ。）については、施行規則第六条の二第三号に規定する機能</Sentence>
-                      </Subitem1Sentence>
-                    </Subitem1>
-                    <Subitem1 Num="2">
-                      <Subitem1Title>ロ</Subitem1Title>
-                      <Subitem1Sentence>
-                        <Sentence>時分割・直交周波数分割多元接続方式デジタルコードレス電話の無線局（施行規則第六条第四項第五号に規定する無線局のうち、一、八九七・四ＭＨｚ、一、八九九・二ＭＨｚ及び一、九〇一ＭＨｚの周波数の電波を使用するもの（その無線設備の占有周波数帯幅の許容値が一、四〇〇ｋＨｚのものに限る。）並びに一、八九九・一ＭＨｚの周波数の電波を使用するもの（その無線設備の占有周波数帯幅の許容値が五、〇〇〇ｋＨｚのものに限る。）をいう。以下同じ。）については、施行規則第六条の二第二号又は第三号に規定する機能</Sentence>
-                      </Subitem1Sentence>
-                    </Subitem1>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>時分割多元接続方式狭帯域デジタルコードレス電話の無線局（施行規則第六条第四項第五号に規定する無線局のうち、一、八九三・六五ＭＨｚ以上一、九〇五・九五ＭＨｚ以下の周波数の電波であつて、一、八九三・六五ＭＨｚ及び一、八九三・六五ＭＨｚに三〇〇ｋＨｚの整数倍を加えたものを使用するものをいう。以下同じ。）及び時分割多元接続方式広帯域デジタルコードレス電話の無線局（施行規則第六条第四項第五号に規定する無線局のうち、一、八九五・六一六ＭＨｚ以上一、九〇四・二五六ＭＨｚ以下の周波数の電波であつて、一、八九五・六一六ＭＨｚ及び一、八九五・六一六ＭＨｚに一、七二八ｋＨｚの整数倍を加えたものを使用するものをいう。以下同じ。）については、施行規則第六条の二第三号に規定する機能</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>時分割・直交周波数分割多元接続方式デジタルコードレス電話の無線局（施行規則第六条第四項第五号に規定する無線局のうち、一、八九七・四ＭＨｚ、一、八九九・二ＭＨｚ及び一、九〇一ＭＨｚの周波数の電波を使用するもの（その無線設備の占有周波数帯幅の許容値が一、四〇〇ｋＨｚのものに限る。）並びに一、八九九・一ＭＨｚの周波数の電波を使用するもの（その無線設備の占有周波数帯幅の許容値が五、〇〇〇ｋＨｚのものに限る。）をいう。以下同じ。）については、施行規則第六条の二第二号又は第三号に規定する機能</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
@@ -1126,7 +1136,7 @@
                       <Sentence>六　次に掲げる送信設備</Sentence>
                       <Sentence>（一）　七六ＭＨｚを超え九五ＭＨｚ以下の周波数の電波を使用する受信障害対策中継放送（超短波放送（デジタル放送を除く。）に係るものに限る。）を行う地上基幹放送局の送信設備であつて、空中線電力が〇・二五ワット以下のもの</Sentence>
                       <Sentence>（二）　一七〇ＭＨｚを超え四七〇ＭＨｚ以下の周波数の電波を使用する無線局の送信設備（第四十九条の三十において無線設備の条件が定められている無線局の送信設備に限る。）</Sentence>
-                      <Sentence>（三）　四七〇ＭＨｚを超える周波数の電波を使用する無線局の送信設備（第四十九条の六から第四十九条の七の三まで、第四十九条の八の二、第四十九条の八の三、第四十九条の十六（四七〇ＭＨｚを超え七一四ＭＨｚ以下の周波数の電波を使用するものに限る。）及び第四十九条の十六の二（四七〇ＭＨｚを超え七一四ＭＨｚ以下の周波数の電波を使用するものに限る。）において無線設備の条件が定められている無線局並びに一、二一五ＭＨｚを超え二、六九〇ＭＨｚ以下の周波数の角度変調の電波を使用する単一通信路の陸上移動業務の無線局（第四十九条の十六（一、二四〇ＭＨｚを超え一、二六〇ＭＨｚ以下の周波数の電波を使用するものに限る。）及び第四十九条の十六の二（一、二四〇ＭＨｚを超え一、二六〇ＭＨｚ以下の周波数の電波を使用するものに限る。）において無線設備の条件が定められているものを除く。）の送信設備並びにこの表の二の項、四の項、七の項から九の項まで、十六の項及び十七の項に掲げるものを除く。）</Sentence>
+                      <Sentence>（三）　四七〇ＭＨｚを超える周波数の電波を使用する無線局の送信設備（第四十九条の六から第四十九条の七の三まで、第四十九条の八の二、第四十九条の八の三、第四十九条の十六（四七〇ＭＨｚを超え七一四ＭＨｚ以下の周波数の電波を使用するものに限る。）及び第四十九条の十六の二（四七〇ＭＨｚを超え七一四ＭＨｚ以下の周波数の電波を使用するものに限る。）において無線設備の条件が定められている無線局並びに一、二一五ＭＨｚを超え二、六九〇ＭＨｚ以下の周波数の角度変調の電波を使用する単一通信路の陸上移動業務の無線局（第四十九条の十六（一、二四〇ＭＨｚを超え一、二六〇ＭＨｚ以下の周波数の電波を使用するものに限る。）及び第四十九条の十六の二（一、二四〇ＭＨｚを超え一、二六〇ＭＨｚ以下の周波数の電波を使用するものに限る。）において無線設備の条件が定められているものを除く。）の送信設備並びにこの表の二の項、四の項、七の項から九の項まで、十七の項及び十八の項に掲げるものを除く。）</Sentence>
                     </TableColumn>
                     <TableColumn Valign="top">
                       <Sentence>五〇</Sentence>
@@ -1365,7 +1375,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn Valign="top">
-                      <Sentence>十三　時分割・直交周波数分割多元接続方式携帯無線通信及び時分割・周波数分割多元接続方式携帯無線通信を行う無線局</Sentence>
+                      <Sentence>十三　時分割・直交周波数分割多元接続方式携帯無線通信及び時分割・周波数分割多元接続方式携帯無線通信を行う無線局の送信設備</Sentence>
                     </TableColumn>
                     <TableColumn Valign="top" colspan="2">
                       <Sentence>次に掲げる送信設備</Sentence>
@@ -1565,8 +1575,66 @@
                     </TableColumn>
                   </TableRow>
                   <TableRow>
+                    <TableColumn Valign="top" rowspan="5">
+                      <Sentence>十六　シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局の送信設備</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top" colspan="2">
+                      <Sentence>第四十九条の六の十二第一項において無線設備の条件が定められている基地局の送信設備であつて、空中線端子（測定に用いることができる端子をいう。以下この項において同じ。）があるもの</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>一〇〇</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>五〇</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="top" colspan="2">
+                      <Sentence>第四十九条の六の十二第一項において無線設備の条件が定められている基地局の送信設備であつて、空中線端子がないもの</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>一二四</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>五六</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="top" colspan="2">
+                      <Sentence>第四十九条の六の十二第一項において無線設備の条件が定められている陸上移動局の送信設備</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>一〇〇</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>七九</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="top" colspan="2">
+                      <Sentence>第四十九条の六の十二第二項において無線設備の条件が定められている基地局の送信設備</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>二二四</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>七〇</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn Valign="top" colspan="2">
+                      <Sentence>第四十九条の六の十二第二項において無線設備の条件が定められている陸上移動局の送信設備</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence>一三〇</Sentence>
+                    </TableColumn>
+                    <TableColumn Valign="top">
+                      <Sentence/>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
                     <TableColumn Valign="top" rowspan="2">
-                      <Sentence>十六　時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの無線局及び時分割・周波数分割多元接続方式デジタルコードレス電話の無線局の送信設備</Sentence>
+                      <Sentence>十七　時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの無線局及び時分割・周波数分割多元接続方式デジタルコードレス電話の無線局の送信設備</Sentence>
                     </TableColumn>
                     <TableColumn Valign="top" colspan="2">
                       <Sentence>次に掲げる送信設備</Sentence>
@@ -1593,7 +1661,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn Valign="top" colspan="3">
-                      <Sentence>十七　次に掲げる送信設備</Sentence>
+                      <Sentence>十八　次に掲げる送信設備</Sentence>
                       <Sentence>（一）　第四十九条の二十二に規定する道路交通情報通信を行う無線局の送信設備</Sentence>
                       <Sentence>（二）　第二十四条第十項に規定する狭域通信システムの基地局の送信設備</Sentence>
                       <Sentence>（三）　狭域通信システムの陸上移動局の無線設備の試験のための通信を行う無線局の送信設備</Sentence>
@@ -1608,7 +1676,7 @@
                   </TableRow>
                   <TableRow>
                     <TableColumn Valign="top" colspan="3">
-                      <Sentence>十八　その他の送信設備</Sentence>
+                      <Sentence>十九　その他の送信設備</Sentence>
                     </TableColumn>
                     <TableColumn Valign="top">
                       <Sentence>二〇</Sentence>
@@ -3303,7 +3371,7 @@
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence>二、〇一〇ＭＨｚを超え二、〇二五ＭＨｚ以下の周波数の電波を使用する時分割・符号分割多元接続方式携帯無線通信を行う無線局及び時分割・符号分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・直交周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、シングルキャリア周波数分割多元接続方式携帯無線通信を行う無線局並びに直交周波数分割多元接続方式携帯無線通信を行う無線局及び直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局並びに三・四ＧＨｚを超え三・六ＧＨｚ以下の周波数の電波を使用するシングルキャリア周波数分割多元接続方式携帯無線通信を行う無線局の受信装置については、第一項の規定にかかわらず、次のとおりとする。</Sentence>
+              <Sentence>二、〇一〇ＭＨｚを超え二、〇二五ＭＨｚ以下の周波数の電波を使用する時分割・符号分割多元接続方式携帯無線通信を行う無線局及び時分割・符号分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・直交周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、シングルキャリア周波数分割多元接続方式携帯無線通信を行う無線局並びに直交周波数分割多元接続方式携帯無線通信を行う無線局及び直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、三・四ＧＨｚを超え三・六ＧＨｚ以下の周波数の電波を使用するシングルキャリア周波数分割多元接続方式携帯無線通信を行う無線局並びに三・六ＧＨｚを超え四・一ＧＨｚ以下、四・五ＧＨｚを超え四・九ＧＨｚ以下又は二七ＧＨｚを超え二九・五ＧＨｚ以下の周波数の電波を使用するシングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局の受信装置については、第一項の規定にかかわらず、次のとおりとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -3811,6 +3879,199 @@
                   </TableRow>
                 </Table>
               </TableStruct>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局のうち、三・六ＧＨｚを超え四・一ＧＨｚ以下又は四・五ＧＨｚを超え四・九ＧＨｚ以下の周波数の電波を使用するものの受信装置</Sentence>
+              </ItemSentence>
+              <TableStruct>
+                <Table>
+                  <TableRow>
+                    <TableColumn>
+                      <Sentence>無線局の種別</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>受信装置の区別</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>周波数帯</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>副次的に発する電波の限度</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn rowspan="6">
+                      <Sentence>基地局</Sentence>
+                    </TableColumn>
+                    <TableColumn rowspan="2">
+                      <Sentence>空中線端子（測定に用いることができる端子をいう。以下この号において同じ。）があり、複数の空中線、位相器及び増幅器を用いて一又は複数の指向性を持つビームパターンを形成し制御する技術を有するアンテナ（以下「アクティブフェーズドアレイアンテナ」という。）を使用しない受信装置</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>ア　三〇ＭＨｚ以上一、〇〇〇ＭＨｚ未満</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一〇〇ｋＨｚ幅で（－）五七デシベル以下の値</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn>
+                      <Sentence>イ　一、〇〇〇ＭＨｚ以上であつて、使用する周波数帯の上端の周波数の五倍未満</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一ＭＨｚ幅で（－）四七デシベル以下の値</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn rowspan="2">
+                      <Sentence>空中線端子があり、アクティブフェーズドアレイアンテナを使用する受信装置</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>ア　三〇ＭＨｚ以上一、〇〇〇ＭＨｚ未満</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一〇〇ｋＨｚ幅で次に掲げる式による値以下の値</Sentence>
+                      <Sentence>－５７＋１０ｌｏｇ１０Ｎデシベル（Ｎは一つの搬送波を構成する無線設備の数又は８のいずれか小さい値とする。以下この表において同じ。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn>
+                      <Sentence>イ　一、〇〇〇ＭＨｚ以上であつて、使用する周波数帯の上端の周波数の五倍未満</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一ＭＨｚ幅で次に掲げる式による値以下の値</Sentence>
+                      <Sentence>－４７＋１０ｌｏｇ１０Ｎデシベル</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn rowspan="2">
+                      <Sentence>空中線端子のない受信装置</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>ア　三〇ＭＨｚ以上一、〇〇〇ＭＨｚ未満</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一〇〇ｋＨｚ幅で（－）四五・五デシベル以下の値</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn>
+                      <Sentence>イ　一、〇〇〇ＭＨｚ以上であつて、使用する周波数帯の上端の周波数の五倍未満</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一ＭＨｚ幅で（－）三三・八デシベル以下の値</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn rowspan="2">
+                      <Sentence>陸上移動局</Sentence>
+                    </TableColumn>
+                    <TableColumn rowspan="2">
+                      <Sentence/>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>ア　三〇ＭＨｚ以上一、〇〇〇ＭＨｚ未満</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一〇〇ｋＨｚ幅で（－）五七デシベル以下の値</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn>
+                      <Sentence>イ　一、〇〇〇ＭＨｚ以上であつて、使用する周波数帯の上端の周波数の五倍未満</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一ＭＨｚ幅で（－）四七デシベル以下の値</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+              <List>
+                <ListSentence>
+                  <Sentence>注　基地局においては、三・六ＧＨｚを超え四・一ＧＨｚ以下の周波数を使用する場合は周波数帯から三、五六〇ＭＨｚ以上四、一四〇ＭＨｚ以下を除き、四・五ＧＨｚを超え四・九ＧＨｚ以下の周波数を使用する場合は周波数帯から四、四六〇ＭＨｚ以上四、九四〇ＭＨｚ以下を除く。</Sentence>
+                </ListSentence>
+              </List>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局のうち、二七ＧＨｚを超え二九・五ＧＨｚ以下の周波数の電波を使用するものの受信装置</Sentence>
+              </ItemSentence>
+              <TableStruct>
+                <Table>
+                  <TableRow>
+                    <TableColumn>
+                      <Sentence>無線局の種別</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>周波数帯</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>副次的に発する電波の限度</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn rowspan="3">
+                      <Sentence>基地局</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>ア　三〇ＭＨｚ以上一、〇〇〇ＭＨｚ未満</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一〇〇ｋＨｚ幅で（－）五四・五デシベル以下の値</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn>
+                      <Sentence>イ　一、〇〇〇ＭＨｚ以上一二・七五ＧＨｚ未満</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一ＭＨｚ幅で（－）四四・三デシベル以下の値</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn>
+                      <Sentence>ウ　一二・七五ＧＨｚ以上であつて、使用する周波数帯の上端の周波数の二倍未満</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一ＭＨｚ幅で（－）三六デシベル以下の値</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn rowspan="3">
+                      <Sentence>陸上移動局</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>ア　六ＧＨｚ以上二〇ＧＨｚ以下</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一ＭＨｚ幅で（－）三六・八デシベル以下の値</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn>
+                      <Sentence>イ　二〇ＧＨｚを超え四〇ＧＨｚ以下</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一ＭＨｚ幅で（－）二九・八デシベル以下の値</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn>
+                      <Sentence>ウ　四〇ＧＨｚを超え使用する周波数帯の上端の周波数の二倍未満</Sentence>
+                    </TableColumn>
+                    <TableColumn>
+                      <Sentence>任意の一ＭＨｚ幅で（－）一三・九デシベル以下の値</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+              <List>
+                <ListSentence>
+                  <Sentence>注　基地局においては、周波数帯から二五・五ＧＨｚ以上三一ＧＨｚ以下を除く。</Sentence>
+                </ListSentence>
+              </List>
             </Item>
           </Paragraph>
           <Paragraph Num="9">
@@ -12111,7 +12372,7 @@
                           </TableColumn>
                         </TableRow>
                         <TableRow>
-                          <TableColumn colspan="2" rowspan="2">
+                          <TableColumn colspan="2">
                             <Sentence>サイドローブの抑圧特性</Sentence>
                           </TableColumn>
                           <TableColumn>
@@ -16715,7 +16976,7 @@
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>キャリアアグリゲーション技術（二以上の搬送波を同時に用いて一体として行う無線通信の技術をいう。以下同じ。）を用いる場合には、一又は複数の基地局（陸上移動局へ送信する場合にあつては、（１）に掲げる基地局を含む。）と一又は複数の陸上移動局（基地局へ送信する場合にあつては、（２）に掲げる陸上移動局を含む。）との間の通信（総務大臣が別に定めるものを除く。）に限るものとする。</Sentence>
+                    <Sentence>キャリアアグリゲーション技術（二以上の搬送波を同時に用いて一体として行う無線通信の技術をいう。以下同じ。）を用いる場合には、一又は複数の基地局（陸上移動局へ送信する場合にあつては、（１）に掲げる基地局を含む。）と一又は複数の陸上移動局（基地局へ送信する場合にあつては、（２）に掲げる陸上移動局を含む。）との間の通信に限ること。</Sentence>
                   </Subitem1Sentence>
                   <Subitem2 Num="1">
                     <Subitem2Title>（１）</Subitem2Title>
@@ -16734,6 +16995,12 @@
                         <Sentence>時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局</Sentence>
                       </Subitem3Sentence>
                     </Subitem3>
+                    <Subitem3 Num="3">
+                      <Subitem3Title>（ハ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う基地局</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
                   </Subitem2>
                   <Subitem2 Num="2">
                     <Subitem2Title>（２）</Subitem2Title>
@@ -16750,6 +17017,12 @@
                       <Subitem3Title>（ロ）</Subitem3Title>
                       <Subitem3Sentence>
                         <Sentence>時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの陸上移動局</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Num="3">
+                      <Subitem3Title>（ハ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う陸上移動局</Sentence>
                       </Subitem3Sentence>
                     </Subitem3>
                   </Subitem2>
@@ -16866,7 +17139,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>送信する電波の周波数は、通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、時分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いて時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）の電波を受信することによつて自動的に選択されること。</Sentence>
+                  <Sentence>送信する電波の周波数は、通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、時分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いて時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）の電波を受信することによつて自動的に選択されること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -16878,7 +17151,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>前項の基地局からの電波の受信電力の測定又は通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、時分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いて時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）からの制御情報に基づき空中線電力が必要最小限となるよう自動的に制御する機能を有すること。</Sentence>
+                  <Sentence>前項の基地局からの電波の受信電力の測定又は通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、時分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いて時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）からの制御情報に基づき空中線電力が必要最小限となるよう自動的に制御する機能を有すること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
@@ -16914,7 +17187,7 @@
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence>空中線電力（キャリアアグリゲーション技術を用いた送信を行う場合にあつては、同時に送信される複数の搬送波の空中線電力の総和）は、二〇〇ミリワット以下であること。</Sentence>
+                  <Sentence>空中線電力（シングルキャリア周波数分割多元接続方式携帯無線通信を行うものから送信される搬送波、シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行うものであつて三・六ＧＨｚを超え四・一ＧＨｚ以下又は四・五ＧＨｚを超え四・九ＧＨｚ以下の周波数の電波を使用するものから送信される搬送波及び時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムから送信される搬送波を使用してキャリアアグリゲーション技術を用いた送信を行う場合にあつては、同時に送信される複数の搬送波の空中線電力の総和）は、二〇〇ミリワット以下であること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
@@ -16989,7 +17262,7 @@
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
                   <Sentence>第一項の基地局からの電波の受信電力の測定又は通信の相手方である基地局からの制御情報に基づき、空中線電力が必要最小限となるよう自動的に制御する機能を有すること。</Sentence>
-              </ItemSentence>
+                </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
@@ -17116,7 +17389,7 @@
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>キャリアアグリゲーション技術を用いる場合には、一又は複数の基地局（陸上移動局へ送信する場合にあつては、（１）に掲げる基地局を含む。）と一又は複数の陸上移動局（基地局へ送信する場合にあつては、（２）に掲げる陸上移動局を含む。）との間の通信（総務大臣が別に定めるものを除く。）に限るものとする。</Sentence>
+                    <Sentence>キャリアアグリゲーション技術を用いる場合には、一又は複数の基地局（陸上移動局へ送信する場合にあつては、（１）に掲げる基地局を含む。）と一又は複数の陸上移動局（基地局へ送信する場合にあつては、（２）に掲げる陸上移動局を含む。）との間の通信に限ること。</Sentence>
                   </Subitem1Sentence>
                   <Subitem2 Num="1">
                     <Subitem2Title>（１）</Subitem2Title>
@@ -17135,6 +17408,12 @@
                         <Sentence>時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局</Sentence>
                       </Subitem3Sentence>
                     </Subitem3>
+                    <Subitem3 Num="3">
+                      <Subitem3Title>（ハ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う基地局</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
                   </Subitem2>
                   <Subitem2 Num="2">
                     <Subitem2Title>（２）</Subitem2Title>
@@ -17151,6 +17430,12 @@
                       <Subitem3Title>（ロ）</Subitem3Title>
                       <Subitem3Sentence>
                         <Sentence>時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの陸上移動局</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Num="3">
+                      <Subitem3Title>（ハ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う陸上移動局</Sentence>
                       </Subitem3Sentence>
                     </Subitem3>
                   </Subitem2>
@@ -17247,7 +17532,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>送信する電波の周波数は、通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、周波数分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いて時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）の電波を受信することによつて自動的に選択されること。</Sentence>
+                  <Sentence>送信する電波の周波数は、通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、周波数分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いて時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）の電波を受信することによつて自動的に選択されること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -17259,13 +17544,13 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence>第一項の基地局からの電波の受信電力の測定又は通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、周波数分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いて時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）からの制御情報に基づき空中線電力が必要最小限となるよう自動的に制御する機能を有すること。</Sentence>
+                  <Sentence>第一項の基地局からの電波の受信電力の測定又は通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、周波数分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いて時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）からの制御情報に基づき空中線電力が必要最小限となるよう自動的に制御する機能を有すること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence>空中線電力（キャリアアグリゲーション技術を用いた送信を行う場合にあつては、同時に送信される複数の搬送波の空中線電力の総和）は、〇・二ワット以下であること。</Sentence>
+                  <Sentence>空中線電力（シングルキャリア周波数分割多元接続方式携帯無線通信を行うものから送信される搬送波、シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行うものであつて三・六ＧＨｚを超え四・一ＧＨｚ以下又は四・五ＧＨｚを超え四・九ＧＨｚ以下の周波数の電波を使用するものから送信される搬送波及び時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムから送信される搬送波を使用してキャリアアグリゲーション技術を用いた送信を行う場合にあつては、同時に送信される複数の搬送波の空中線電力の総和）は、二〇〇ミリワット以下であること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
@@ -17658,6 +17943,543 @@
                   <Subitem1Sentence>
                     <Sentence>送信バースト長が九一一・四四マイクロ秒、九六三・五二マイクロ秒、一、〇一五・六マイクロ秒又は一、〇六七・六八マイクロ秒の自然数倍の値のものにあつては、任意の一ＭＨｚ幅で（－）七〇デシベル（一ミリワットを〇デシベルとする。）以下であること。</Sentence>
                   </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4_4_7">
+          <SectionTitle>第四節の四の七　シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局等の無線設備</SectionTitle>
+          <Article Num="49_6_12">
+            <ArticleCaption>（シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局等の無線設備）</ArticleCaption>
+            <ArticleTitle>第四十九条の六の十二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う基地局又は陸上移動局の無線設備のうち、三・六ＧＨｚを超え四・一ＧＨｚ以下又は四・五ＧＨｚを超え四・九ＧＨｚ以下の周波数の電波を送信するものは、次に掲げる条件に適合するものでなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>一般的条件</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>通信方式は、基地局から陸上移動局へ送信を行う場合にあつては直交周波数分割多重方式と時分割多重方式を組み合わせた多重方式を、陸上移動局から基地局へ送信する場合にあつてはシングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式を使用する時分割複信方式であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>基地局と通信を行う個々の陸上移動局の送信装置が自動的に識別されるものであること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>一の基地局の通話チャネルから他の基地局の通話チャネルへの切替えが自動的に行われること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>基地局の無線設備は、電気通信回線設備と接続できるものであること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>一の基地局の役務の提供に係る区域であつて、当該役務を提供するために必要な電界強度が得られる区域は、当該区域のトラヒックに合わせ細分化ができること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="6">
+                  <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>キャリアアグリゲーション技術を用いる場合には、一又は複数の基地局（陸上移動局へ送信する場合にあつては、（１）に掲げる基地局を含む。）と一又は複数の陸上移動局（基地局へ送信する場合にあつては、（２）に掲げる陸上移動局を含む。）との間の通信に限ること。</Sentence>
+                  </Subitem1Sentence>
+                  <Subitem2 Num="1">
+                    <Subitem2Title>（１）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>基地局</Sentence>
+                    </Subitem2Sentence>
+                    <Subitem3 Num="1">
+                      <Subitem3Title>（イ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、周波数分割複信方式を用いるもの</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Num="2">
+                      <Subitem3Title>（ロ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、時分割複信方式を用いるもの</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Num="3">
+                      <Subitem3Title>（ハ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                  </Subitem2>
+                  <Subitem2 Num="2">
+                    <Subitem2Title>（２）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>陸上移動局</Sentence>
+                    </Subitem2Sentence>
+                    <Subitem3 Num="1">
+                      <Subitem3Title>（イ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式携帯無線通信を行う陸上移動局であつて、周波数分割複信方式を用いるもの</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Num="2">
+                      <Subitem3Title>（ロ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式携帯無線通信を行う陸上移動局であつて、時分割複信方式を用いるもの</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Num="3">
+                      <Subitem3Title>（ハ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの陸上移動局</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                  </Subitem2>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>ト</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>複数の空中線から同一の周波数の電波を送信する無線局の無線設備の空中線電力は、各空中線端子における値の総和であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>送信装置の条件</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>変調方式は、次に掲げる無線設備の区分に応じ、それぞれに定めるものであること。</Sentence>
+                  </Subitem1Sentence>
+                  <Subitem2 Num="1">
+                    <Subitem2Title>（１）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Column Num="1">
+                        <Sentence>基地局の無線設備</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>四相位相変調、一六値直交振幅変調、六四値直交振幅変調又は二五六値直交振幅変調</Sentence>
+                      </Column>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="2">
+                    <Subitem2Title>（２）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Column Num="1">
+                        <Sentence>陸上移動局の無線設備</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>二分のπシフト二相位相変調、四相位相変調、一六値直交振幅変調、六四値直交振幅変調又は二五六値直交振幅変調</Sentence>
+                      </Column>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>隣接チャネル漏えい電力、相互変調特性及びフレーム長は、総務大臣が別に告示する条件に適合するものであること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>陸上移動局の無線設備は、第一号及び前号に規定する条件のほか、次に掲げる条件に適合するものでなければならない。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>送信する電波の周波数は、通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、周波数分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、時分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いて時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）の電波を受信することによつて自動的に選択されること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、周波数分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、時分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いて時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）からの制御情報に基づき空中線電力が必要最小限となるよう自動的に制御する機能を有すること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>空中線電力（シングルキャリア周波数分割多元接続方式携帯無線通信を行うものから送信される搬送波、シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行うものであつて三・六ＧＨｚを超え四・一ＧＨｚ以下又は四・五ＧＨｚを超え四・九ＧＨｚ以下の周波数の電波を使用するものから送信される搬送波及び時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムから送信される搬送波を使用してキャリアアグリゲーション技術を用いた送信を行う場合にあつては、同時に送信される複数の搬送波の空中線電力の総和）は、二〇〇ミリワット以下であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>送信空中線の絶対利得は、三デシベル以下であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>搬送波を送信していないときの漏えい電力は、送信帯域の周波数帯で、空中線端子において、次の表の上欄に掲げるチャネル間隔に応じ、それぞれ同表の中欄に掲げる周波数幅における平均電力が同表の下欄に掲げる漏えい電力の値以下であること。</Sentence>
+                  </Subitem1Sentence>
+                  <TableStruct>
+                    <Table>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>チャネル間隔（ＭＨｚ）</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>周波数幅（ＭＨｚ）</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>漏えい電力（デシベル（一ミリワットを〇デシベルとする。））</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>一〇</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>九・三七五</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）四八・二</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>一五</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>一四・二三五</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）四八・二</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>二〇</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>一九・〇九五</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）四八・二</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>四〇</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>三八・八九五</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）四八・二</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>五〇</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>四八・六一五</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）四八・二</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>六〇</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>五八・三五</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）四八・二</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>八〇</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>七八・一五</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）四八・二</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>九〇</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>八八・二三</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）四八・二</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>一〇〇</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>九八・三一</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）四八・二</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                    </Table>
+                  </TableStruct>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う基地局又は陸上移動局の無線設備のうち、二七ＧＨｚを超え二九・五ＧＨｚ以下の周波数の電波を送信するものは、次に掲げる条件に適合するものでなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence>一般的条件</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>通信方式は、基地局から陸上移動局へ送信を行う場合にあつては直交周波数分割多重方式と時分割多重方式を組み合わせた多重方式を、陸上移動局から基地局へ送信する場合にあつてはシングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式を使用する時分割複信方式であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>基地局と通信を行う個々の陸上移動局の送信装置が自動的に識別されるものであること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>一の基地局の通話チャネルから他の基地局の通話チャネルへの切替えが自動的に行われること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>基地局の無線設備は、電気通信回線設備と接続できるものであること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>一の基地局の役務の提供に係る区域であつて、当該役務を提供するために必要な電界強度が得られる区域は、当該区域のトラヒックに合わせ細分化ができること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="6">
+                  <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>キャリアアグリゲーション技術を用いる場合には、一又は複数の基地局（陸上移動局へ送信する場合にあつては、（１）に掲げる基地局を含む。）と一又は複数の陸上移動局（基地局へ送信する場合にあつては、（２）に掲げる陸上移動局を含む。）との間の通信に限ること。</Sentence>
+                  </Subitem1Sentence>
+                  <Subitem2 Num="1">
+                    <Subitem2Title>（１）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>基地局</Sentence>
+                    </Subitem2Sentence>
+                    <Subitem3 Num="1">
+                      <Subitem3Title>（イ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、周波数分割複信方式を用いるもの</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Num="2">
+                      <Subitem3Title>（ロ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、時分割複信方式を用いるもの</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Num="3">
+                      <Subitem3Title>（ハ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                  </Subitem2>
+                  <Subitem2 Num="2">
+                    <Subitem2Title>（２）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>陸上移動局</Sentence>
+                    </Subitem2Sentence>
+                    <Subitem3 Num="1">
+                      <Subitem3Title>（イ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式携帯無線通信を行う陸上移動局であつて、周波数分割複信方式を用いるもの</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Num="2">
+                      <Subitem3Title>（ロ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式携帯無線通信を行う陸上移動局であつて、時分割複信方式を用いるもの</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Num="3">
+                      <Subitem3Title>（ハ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの陸上移動局</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                  </Subitem2>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>ト</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>複数の空中線から同一の周波数の電波を送信する無線局の無線設備の空中線電力は、各空中線端子における値の総和であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence>送信装置の条件</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>変調方式は、次に掲げる無線設備の区分に応じ、それぞれに定めるものであること。</Sentence>
+                  </Subitem1Sentence>
+                  <Subitem2 Num="1">
+                    <Subitem2Title>（１）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Column Num="1">
+                        <Sentence>基地局の無線設備</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>四相位相変調、一六値直交振幅変調、六四値直交振幅変調又は二五六値直交振幅変調</Sentence>
+                      </Column>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="2">
+                    <Subitem2Title>（２）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Column Num="1">
+                        <Sentence>陸上移動局の無線設備</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence>二分のπシフト二相位相変調、四相位相変調、一六値直交振幅変調、六四値直交振幅変調又は二五六値直交振幅変調</Sentence>
+                      </Column>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>隣接チャネル漏えい電力、相互変調特性及びフレーム長は、総務大臣が別に告示する条件に適合するものであること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence>陸上移動局の無線設備は、第一号及び前号に規定する条件のほか、次に掲げる条件に適合するものでなければならない。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>送信する電波の周波数は、通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、周波数分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、時分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いて時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）の電波を受信することによつて自動的に選択されること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、周波数分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局であつて、時分割複信方式を用いるものから送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いて時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）からの制御情報に基づき空中線電力が必要最小限となるよう自動的に制御する機能を有すること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>空中線電力（シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行うものであつて、二七ＧＨｚを超え二九・五ＧＨｚ以下の周波数の電波を使用するものから送信される搬送波を使用してキャリアアグリゲーション技術を用いた送信を行う場合にあつては、同時に送信される複数の搬送波の空中線電力の総和）は、二〇〇ミリワット以下であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Function="main" Num="1">送信空中線の絶対利得は、二〇デシベル以下であること。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、等価等方輻射電力が絶対利得二〇デシベルの空中線に空中線電力の最大値を加えたときの値以下となる場合は、その低下分を空中線の利得で補うことができる。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence>搬送波を送信していないときの漏えい電力は、送信帯域の周波数帯で、次の表の上欄に掲げるチャネル間隔に応じ、それぞれ同表の中欄に掲げる周波数幅における平均電力が同表の下欄に掲げる漏えい電力の値以下であること。</Sentence>
+                  </Subitem1Sentence>
+                  <TableStruct>
+                    <Table>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>チャネル間隔（ＭＨｚ）</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>周波数幅（ＭＨｚ）</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>漏えい電力（デシベル（一ミリワットを〇デシベルとする。））</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>五〇</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>四七・五二</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）一三・六</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>一〇〇</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>九五・〇四</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）一〇・六</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>二〇〇</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>一九〇・〇八</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）七・六</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                      <TableRow>
+                        <TableColumn>
+                          <Sentence>四〇〇</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>三八〇・一六</Sentence>
+                        </TableColumn>
+                        <TableColumn>
+                          <Sentence>（－）四・六</Sentence>
+                        </TableColumn>
+                      </TableRow>
+                    </Table>
+                  </TableStruct>
                 </Subitem1>
               </Item>
             </Paragraph>
@@ -22603,7 +23425,7 @@
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence>二四・七七ＧＨｚ以上二五・二三ＧＨｚ以下の周波数の電波であつて二四・七七ＧＨｚ若しくは二四・七七ＧＨｚに一〇ＭＨｚの整数倍を加えた周波数の電波又は二七・〇二ＧＨｚ以上二七・四六ＧＨｚ以下の周波数の電波であつて二七・〇二ＧＨｚ若しくは二七・〇二ＧＨｚに一〇ＭＨｚの整数倍を加えた周波数の電波を使用するもの</Sentence>
+                  <Sentence>二四・七七ＧＨｚ以上二五・二三ＧＨｚ以下の周波数の電波であつて二四・七七ＧＨｚ又は二四・七七ＧＨｚに一〇ＭＨｚの整数倍を加えた周波数の電波を使用するもの</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -22620,13 +23442,13 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>無線チャネルは、単位無線チャネル（搬送波の周波数が、二四・七七ＧＨｚ以上二五・二三ＧＨｚ以下の周波数であつて二四・七七ＧＨｚ若しくは二四・七七ＧＨｚに二〇ＭＨｚの整数倍を加えたもの又は二七・〇二ＧＨｚ以上二七・四六ＧＨｚ以下の周波数であつて二七・〇二ＧＨｚ若しくは二七・〇二ＧＨｚに二〇ＭＨｚの整数倍を加えたものである無線チャネルをいう。以下この号及び別表第二号第３０において同じ。）を一又は二以上同時に使用して構成されるものであること。</Sentence>
+                    <Sentence>無線チャネルは、単位無線チャネル（搬送波の周波数が、二四・七七ＧＨｚ以上二五・二三ＧＨｚ以下の周波数であつて二四・七七ＧＨｚ又は二四・七七ＧＨｚに二〇ＭＨｚの整数倍を加えたものである無線チャネルをいう。以下この号及び別表第二号第３０において同じ。）を一又は二以上同時に使用して構成されるものであること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>同時に使用する単位無線チャネルの最大数は、二四・七七ＧＨｚ以上二五・二三ＧＨｚ以下の周波数の電波を使用するときは三であり、二七・〇二ＧＨｚ以上二七・四六ＧＨｚ以下の周波数の電波を使用するときは六であること。</Sentence>
+                    <Sentence>同時に使用する単位無線チャネルの最大数は、三であること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="5">
@@ -22637,13 +23459,13 @@
                   <Subitem2 Num="1">
                     <Subitem2Title>（１）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>奇数個の単位無線チャネルを一の無線チャネルとして使用するときは、二四・七七ＧＨｚ以上二五・二三ＧＨｚ以下の周波数であつて二四・七七ＧＨｚ若しくは二四・七七ＧＨｚに二〇ＭＨｚの整数倍を加えたもの又は二七・〇二ＧＨｚ以上二七・四六ＧＨｚ以下の周波数であつて二七・〇二ＧＨｚ若しくは二七・〇二ＧＨｚに二〇ＭＨｚの整数倍を加えたものであること。</Sentence>
+                      <Sentence>奇数個の単位無線チャネルを一の無線チャネルとして使用するときは、二四・七七ＧＨｚ以上二五・二三ＧＨｚ以下の周波数であつて二四・七七ＧＨｚ又は二四・七七ＧＨｚに二〇ＭＨｚの整数倍を加えたものであること。</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                   <Subitem2 Num="2">
                     <Subitem2Title>（２）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>偶数個の単位無線チャネルを一の無線チャネルとして使用するときは、二四・七八ＧＨｚ以上二五・二二ＧＨｚ以下の周波数であつて二四・七八ＧＨｚ若しくは二四・七八ＧＨｚに二〇ＭＨｚの整数倍を加えたもの又は二七・〇三ＧＨｚ以上二七・四五ＧＨｚ以下の周波数であつて二七・〇三ＧＨｚ若しくは二七・〇三ＧＨｚに二〇ＭＨｚの整数倍を加えたものであること。</Sentence>
+                      <Sentence>偶数個の単位無線チャネルを一の無線チャネルとして使用するときは、二四・七八ＧＨｚ以上二五・二二ＧＨｚ以下の周波数であつて二四・七八ＧＨｚ又は二四・七八ＧＨｚに二〇ＭＨｚの整数倍を加えたものであること。</Sentence>
                     </Subitem2Sentence>
                   </Subitem2>
                 </Subitem1>
@@ -22686,20 +23508,8 @@
                   <Subitem2 Num="1">
                     <Subitem2Title>（１）</Subitem2Title>
                     <Subitem2Sentence>
-                      <Sentence>ヘ（１）に規定する変調方式を使用するものは、同時に使用する単位無線チャネルの数に応じて、次のいずれかであること。</Sentence>
+                      <Sentence>ヘ（１）に規定する変調方式を使用するものは、一ＭＨｚの帯域幅における平均電力が一〇ミリワット以下であること。</Sentence>
                     </Subitem2Sentence>
-                    <Subitem3 Num="1">
-                      <Subitem3Title>（一）</Subitem3Title>
-                      <Subitem3Sentence>
-                        <Sentence>単位無線チャネルの数が三以下であるものは、一ＭＨｚの帯域幅における平均電力が一〇ミリワット以下であること。</Sentence>
-                      </Subitem3Sentence>
-                    </Subitem3>
-                    <Subitem3 Num="2">
-                      <Subitem3Title>（二）</Subitem3Title>
-                      <Subitem3Sentence>
-                        <Sentence>単位無線チャネルの数が四以上であるものは、平均電力が一〇ミリワット以下であること。</Sentence>
-                      </Subitem3Sentence>
-                    </Subitem3>
                   </Subitem2>
                   <Subitem2 Num="2">
                     <Subitem2Title>（２）</Subitem2Title>
@@ -22723,27 +23533,14 @@
                 <Subitem1 Num="12">
                   <Subitem1Title>ヲ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>送信空中線の利得は、次のいずれかであること。</Sentence>
+                    <Sentence Function="main" Num="1">送信空中線の絶対利得は、一〇デシベル以下であること。</Sentence>
+                    <Sentence Function="proviso" Num="2">ただし、一ＭＨｚの帯域幅における等価等方輻射電力が、絶対利得一〇デシベルの空中線に一ＭＨｚの帯域幅における平均電力が一〇ミリワットの空中線電力を加えたときの値以下となる場合は、その低下分を送信空中線の利得で補うことができる。</Sentence>
                   </Subitem1Sentence>
-                  <Subitem2 Num="1">
-                    <Subitem2Title>（１）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence Function="main" Num="1">二四・七七ＧＨｚ以上二五・二三ＧＨｚ以下の周波数の電波を使用しているときの空中線の絶対利得は、一〇デシベル以下であること。</Sentence>
-                      <Sentence Function="proviso" Num="2">ただし、一ＭＨｚの帯域幅における等価等方輻射電力が、絶対利得一〇デシベルの空中線に一ＭＨｚの帯域幅における平均電力が一〇ミリワットの空中線電力を加えたときの値以下となる場合は、その低下分を送信空中線の利得で補うことができる。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
-                  <Subitem2 Num="2">
-                    <Subitem2Title>（２）</Subitem2Title>
-                    <Subitem2Sentence>
-                      <Sentence Function="main" Num="1">二七・〇二ＧＨｚ以上二七・四六ＧＨｚ以下の周波数の電波を使用しているときの空中線の絶対利得は、二・一四デシベル以下であること。</Sentence>
-                      <Sentence Function="proviso" Num="2">ただし、一ＭＨｚの帯域幅における等価等方輻射電力が、絶対利得二・一四デシベルの空中線に一ＭＨｚの帯域幅における平均電力が一〇ミリワット（同時に四以上の単位無線チャネルを使用するものにあつては、等価等方輻射電力が絶対利得二・一四デシベルの空中線に平均電力が一〇ミリワット）の空中線電力を加えたときの値以下となる場合は、その低下分を送信空中線の利得で補うことができる。</Sentence>
-                    </Subitem2Sentence>
-                  </Subitem2>
                 </Subitem1>
                 <Subitem1 Num="13">
                   <Subitem1Title>ワ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>ヲ（１）の送信空中線の水平面及び垂直面の主輻射の角度の幅は、次の式により求められる値を超えないこと。</Sentence>
+                    <Sentence>ヲの送信空中線の水平面及び垂直面の主輻射の角度の幅は、次の式により求められる値を超えないこと。</Sentence>
                   </Subitem1Sentence>
                   <List>
                     <ListSentence>
@@ -22784,7 +23581,7 @@
                       </TableRow>
                       <TableRow>
                         <TableColumn>
-                          <Sentence>二四・七〇五ＧＨｚ以上二四・七四ＧＨｚ未満、二五・二六ＧＨｚを超え二五・二九五ＧＨｚ以下、二六・九五五ＧＨｚ以上二六・九九ＧＨｚ未満及び二七・四九ＧＨｚを超え二七・五二五ＧＨｚ以下</Sentence>
+                          <Sentence>二四・七〇五ＧＨｚ以上二四・七四ＧＨｚ未満及び二五・二六ＧＨｚを超え二五・二九五ＧＨｚ以下</Sentence>
                         </TableColumn>
                         <TableColumn>
                           <Sentence>一マイクロワット以下</Sentence>
@@ -22792,7 +23589,7 @@
                       </TableRow>
                       <TableRow>
                         <TableColumn>
-                          <Sentence>二四・七四ＧＨｚ以上二四・七五ＧＨｚ未満、二五・二五ＧＨｚを超え二五・二六ＧＨｚ以下、二六・九九ＧＨｚ以上二七ＧＨｚ未満及び二七・四八ＧＨｚを超え二七・四九ＧＨｚ以下</Sentence>
+                          <Sentence>二四・七四ＧＨｚ以上二四・七五ＧＨｚ未満及び二五・二五ＧＨｚを超え二五・二六ＧＨｚ以下</Sentence>
                         </TableColumn>
                         <TableColumn>
                           <Sentence>一六マイクロワット以下</Sentence>
@@ -26497,8 +27294,44 @@
                 <Subitem1 Num="5">
                   <Subitem1Title>ホ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence>キャリアアグリゲーション技術を用いる場合には、一又は複数の基地局（基地局から陸上移動局へ送信する場合にあつては、シングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局を含む。）と一又は複数の陸上移動局（陸上移動局から基地局へ送信する場合にあつては、シングルキャリア周波数分割多元接続方式携帯無線通信を行う陸上移動局を含む。）の間の通信（総務大臣が別に定めるものを除く。）に限るものとする。</Sentence>
+                    <Sentence>キャリアアグリゲーション技術を用いる場合には、一又は複数の基地局（陸上移動局へ送信する場合にあつては、（１）に掲げる基地局を含む。）と一又は複数の陸上移動局（基地局へ送信する場合にあつては、（２）に掲げる陸上移動局を含む。）との間の通信に限るものとする。</Sentence>
                   </Subitem1Sentence>
+                  <Subitem2 Num="1">
+                    <Subitem2Title>（１）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>基地局</Sentence>
+                    </Subitem2Sentence>
+                    <Subitem3 Num="1">
+                      <Subitem3Title>（イ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Num="2">
+                      <Subitem3Title>（ロ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う基地局</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                  </Subitem2>
+                  <Subitem2 Num="2">
+                    <Subitem2Title>（２）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence>陸上移動局</Sentence>
+                    </Subitem2Sentence>
+                    <Subitem3 Num="1">
+                      <Subitem3Title>（イ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式携帯無線通信を行う陸上移動局</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                    <Subitem3 Num="2">
+                      <Subitem3Title>（ロ）</Subitem3Title>
+                      <Subitem3Sentence>
+                        <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う陸上移動局</Sentence>
+                      </Subitem3Sentence>
+                    </Subitem3>
+                  </Subitem2>
                 </Subitem1>
                 <Subitem1 Num="6">
                   <Subitem1Title>ヘ</Subitem1Title>
@@ -26608,7 +27441,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>送信する電波の周波数は、通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局から送信される搬送波を使用する通信を行う場合にあつては、当該基地局を含む。）の電波を受信することによつて自動的に選択されること。</Sentence>
+                  <Sentence>送信する電波の周波数は、通信の相手方である基地局（キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式携帯無線通信を行う基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含み、キャリアアグリゲーション技術を用いてシングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う基地局から送信される搬送波を使用する通信を行う場合にあつては当該基地局を含む。）の電波を受信することによつて自動的に選択されること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -26620,8 +27453,8 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Function="main" Num="1">送信装置の空中線電力は、〇・四ワット以下であること。</Sentence>
-                  <Sentence Function="proviso" Num="2">ただし、キャリアアグリゲーション技術を用いた送信を行う場合にあつては、同時に送信される複数の搬送波の空中線電力の総和が、〇・二ワット以下であること。</Sentence>
+                  <Sentence Function="main" Num="1">送信装置の空中線電力は、四〇〇ミリワット以下であること。</Sentence>
+                  <Sentence Function="proviso" Num="2">ただし、シングルキャリア周波数分割多元接続方式携帯無線通信を行うものから送信される搬送波、シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行うものであつて三・六ＧＨｚを超え四・一ＧＨｚ以下又は四・五ＧＨｚを超え四・九ＧＨｚ以下の周波数の電波を使用するものから送信される搬送波及び時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムから送信される搬送波を使用してキャリアアグリゲーション技術を用いた送信を行う場合にあつては、同時に送信される複数の搬送波の空中線電力の総和が、二〇〇ミリワット以下であること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
@@ -28769,7 +29602,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1">Ｆ一Ｂ電波、Ｆ一Ｃ電波、Ｆ一Ｄ電波、Ｆ一Ｅ電波、Ｆ一Ｆ電波、Ｆ一Ｎ電波、Ｆ一Ｘ電波、Ｇ一Ｂ電波、Ｇ一Ｃ電波、Ｇ一Ｄ電波、Ｇ一Ｅ電波、Ｇ一Ｆ電波、Ｇ一Ｎ電波又はＧ一Ｘ電波五四ＭＨｚを超え九六〇ＭＨｚ以下又は一、二一五ＭＨｚを超え二、六九〇ＭＨｚ以下を使用する固定局、陸上移動業務の無線局及び携帯移動業務の無線局の無線設備の送信装置は、次の各号に定める条件に適合するものでなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、放送番組中継を行う固定局、携帯無線通信の中継を行う無線局、符号分割多元接続方式携帯無線通信を行う無線局及び符号分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・符号分割多重方式携帯無線通信を行う無線局及び時分割・符号分割多重方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・符号分割多元接続方式携帯無線通信を行う無線局及び時分割・符号分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・直交周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、シングルキャリア周波数分割多元接続方式携帯無線通信を行う無線局、直交周波数分割多元接続方式携帯無線通信を行う無線局及び直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、ＭＣＡ陸上移動通信を行う無線局及びＭＣＡ陸上移動通信設備の試験のための通信等を行う無線局、デジタルＭＣＡ陸上移動通信を行う無線局及びデジタルＭＣＡ陸上移動通信設備の試験のための通信等を行う無線局、コードレス電話の無線局、時分割多元接続方式狭帯域デジタルコードレス電話の無線局、時分割多元接続方式広帯域デジタルコードレス電話の無線局、時分割・直交周波数分割多元接続方式デジタルコードレス電話の無線局、ＰＨＳの陸上移動局、ＰＨＳの基地局、ＰＨＳの基地局と陸上移動局との間の通信を中継する無線局及びＰＨＳの通信設備の試験のための通信等を行う無線局、特定小電力無線局、デジタル空港無線通信を行う無線局及びデジタル空港無線通信設備の試験のための通信等を行う無線局、デジタル特定ラジオマイクの陸上移動局、小電力セキュリティシステムの無線局、小電力データ通信システムの無線局、直交周波数分割多元接続方式広帯域移動無線アクセスシステムの無線局及び直交周波数分割多元接続方式広帯域移動無線アクセスシステムの無線設備の試験のための通信等を行う無線局、時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの無線局及び時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの無線設備の試験のための通信等を行う無線局、無人移動体画像伝送システムの無線局、簡易無線局、狭帯域デジタル通信方式の無線局及び市町村デジタル防災無線通信を行う固定局並びに総務大臣が次の各号の条件を適用することが困難又は不合理と認めて別に告示する無線局の送信装置については、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、放送番組中継を行う固定局、携帯無線通信の中継を行う無線局、符号分割多元接続方式携帯無線通信を行う無線局及び符号分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・符号分割多重方式携帯無線通信を行う無線局及び時分割・符号分割多重方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・符号分割多元接続方式携帯無線通信を行う無線局及び時分割・符号分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・直交周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、シングルキャリア周波数分割多元接続方式携帯無線通信を行う無線局、直交周波数分割多元接続方式携帯無線通信を行う無線局及び直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局、ＭＣＡ陸上移動通信を行う無線局及びＭＣＡ陸上移動通信設備の試験のための通信等を行う無線局、デジタルＭＣＡ陸上移動通信を行う無線局及びデジタルＭＣＡ陸上移動通信設備の試験のための通信等を行う無線局、コードレス電話の無線局、時分割多元接続方式狭帯域デジタルコードレス電話の無線局、時分割多元接続方式広帯域デジタルコードレス電話の無線局、時分割・直交周波数分割多元接続方式デジタルコードレス電話の無線局、ＰＨＳの陸上移動局、ＰＨＳの基地局、ＰＨＳの基地局と陸上移動局との間の通信を中継する無線局及びＰＨＳの通信設備の試験のための通信等を行う無線局、特定小電力無線局、デジタル空港無線通信を行う無線局及びデジタル空港無線通信設備の試験のための通信等を行う無線局、デジタル特定ラジオマイクの陸上移動局、小電力セキュリティシステムの無線局、小電力データ通信システムの無線局、直交周波数分割多元接続方式広帯域移動無線アクセスシステムの無線局及び直交周波数分割多元接続方式広帯域移動無線アクセスシステムの無線設備の試験のための通信等を行う無線局、時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの無線局及び時分割・直交周波数分割多元接続方式又は時分割・シングルキャリア周波数分割多元接続方式広帯域移動無線アクセスシステムの無線設備の試験のための通信等を行う無線局、無人移動体画像伝送システムの無線局、簡易無線局、狭帯域デジタル通信方式の無線局及び市町村デジタル防災無線通信を行う固定局並びに総務大臣が次の各号の条件を適用することが困難又は不合理と認めて別に告示する無線局の送信装置については、この限りでない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -37372,6 +38205,41 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年一月二四日総務省令第四号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令の施行の際現に免許若しくは予備免許を受け、又は免許を申請している第二条の規定による改正前の設備規則第四十九条の六の九、第四十九条の六の十、第四十九条の二十九又は第五十七条の三に規定する無線局の無線設備の条件については、第二条の規定による改正後の設備規則の規定にかかわらず、なお従前の例によることができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令の施行の際現に受けている第二条の規定による改正前の設備規則第四十九条の六の九、第四十九条の六の十、第四十九条の二十、第四十九条の二十九又は第五十七条の三に規定する無線局の無線設備に係る法第三十八条の二の二第一項に規定する技術基準適合証明又は法第三十八条の二十四第一項に規定する工事設計認証（以下「技術基準適合証明等」という。）は、この省令の施行後においても、なおその効力を有する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この省令の施行の際現にされている第二条の規定による改正前の設備規則第四十九条の六の九、第四十九条の六の十、第四十九条の二十、第四十九条の二十九又は第五十七条の三に規定する無線局の無線設備に係る技術基準適合証明等の求めの審査は、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>前項の規定によりなお従前の例によることとされる審査により無線局の無線設備が受けた技術基準適合証明等は、この省令の施行後においても、なおその効力を有する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle>別表第一号　周波数の許容偏差の表</AppdxTableTitle>
       <RelatedArticleNum>（第５条関係）</RelatedArticleNum>
@@ -39915,6 +40783,111 @@
                             </Column>
                           </Subitem4Sentence>
                         </Subitem4>
+                      </Subitem3>
+                    </Subitem2>
+                    <Subitem2 Num="9">
+                      <Subitem2Title>ケ</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Column LineBreak="true" Num="1">
+                          <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局のうち、第４９条の６の１２第１項に規定する無線局</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>次の式により求められる値を許容偏差とする（ｆは、送信周波数（単位Ｈｚ）とする。）。</Sentence>
+                        </Column>
+                      </Subitem2Sentence>
+                      <Subitem3 Num="1">
+                        <Subitem3Title>（ア）</Subitem3Title>
+                        <Subitem3Sentence>
+                          <Sentence>基地局</Sentence>
+                        </Subitem3Sentence>
+                        <Subitem4 Num="1">
+                          <Subitem4Title>Ａ</Subitem4Title>
+                          <Subitem4Sentence>
+                            <Column Num="1">
+                              <Sentence>空中線端子（測定に用いることができる端子をいう。以下この別表において同じ。）がありアクティブフェーズドアレイアンテナを使用しないものであつて各空中線端子における電力が３８デシベル（１ｍＷを０デシベルとする。）を超えるもの及び空中線端子がないものであつて空中線電力が４７デシベル（１ｍＷを０デシベルとする。）を超えるもの</Sentence>
+                            </Column>
+                            <Column Num="2">
+                              <Sentence>（０．０５×ｆ×１０－６＋１２）Ｈｚ</Sentence>
+                            </Column>
+                          </Subitem4Sentence>
+                        </Subitem4>
+                        <Subitem4 Num="1">
+                          <Subitem4Title>Ｂ</Subitem4Title>
+                          <Subitem4Sentence>
+                            <Column Num="1">
+                              <Sentence>空中線端子がありアクティブフェーズドアレイアンテナを使用しないものであつて各空中線端子における電力が３８デシベル（１ｍＷを０デシベルとする。）以下のもの及び空中線端子がないものであつて空中線電力が４７デシベル（１ｍＷを０デシベルとする。）以下のもの</Sentence>
+                            </Column>
+                            <Column Num="2">
+                              <Sentence>（０．１×ｆ×１０－６＋１２）Ｈｚ</Sentence>
+                            </Column>
+                          </Subitem4Sentence>
+                        </Subitem4>
+                        <Subitem4 Num="1">
+                          <Subitem4Title>Ｃ</Subitem4Title>
+                          <Subitem4Sentence>
+                            <Column Num="1">
+                              <Sentence>空中線端子があり、アクティブフェーズドアレイアンテナを使用するものであつて、空中線電力が３８＋１０ｌｏｇ１０Ｎデシベル（１ｍＷを０デシベルとする。また、Ｎは、１つの搬送波を構成する無線設備の数又は８のいずれか小さい値とする。）を超えるもの</Sentence>
+                            </Column>
+                            <Column Num="2">
+                              <Sentence>（０．０５×ｆ×１０－６＋１２）Ｈｚ</Sentence>
+                            </Column>
+                          </Subitem4Sentence>
+                        </Subitem4>
+                        <Subitem4 Num="1">
+                          <Subitem4Title>Ｄ</Subitem4Title>
+                          <Subitem4Sentence>
+                            <Column Num="1">
+                              <Sentence>空中線端子があり、アクティブフェーズドアレイアンテナを使用するものであつて、空中線電力が３８＋１０ｌｏｇ１０Ｎデシベル（１ｍＷを０デシベルとする。また、Ｎは、１つの搬送波を構成する無線設備の数又は８のいずれか小さい値とする。）以下のもの</Sentence>
+                            </Column>
+                            <Column Num="2">
+                              <Sentence>（０．１×ｆ×１０－６＋１２）Ｈｚ</Sentence>
+                            </Column>
+                          </Subitem4Sentence>
+                        </Subitem4>
+                      </Subitem3>
+                      <Subitem3 Num="2">
+                        <Subitem3Title>（イ）</Subitem3Title>
+                        <Subitem3Sentence>
+                          <Column LineBreak="true" Num="1">
+                            <Sentence>陸上移動局</Sentence>
+                          </Column>
+                          <Column Num="2">
+                            <Sentence>（０．１×ｆ×１０－６＋１５）Ｈｚ</Sentence>
+                          </Column>
+                        </Subitem3Sentence>
+                      </Subitem3>
+                    </Subitem2>
+                    <Subitem2 Num="10">
+                      <Subitem2Title>コ</Subitem2Title>
+                      <Subitem2Sentence>
+                        <Column LineBreak="true" Num="1">
+                          <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局のうち、第４９条の６の１２第２項に規定する無線局</Sentence>
+                        </Column>
+                        <Column Num="2">
+                          <Sentence>次の式により求められる値を許容偏差とする（ｆは、送信周波数（単位Ｈｚ）とする。）。</Sentence>
+                        </Column>
+                      </Subitem2Sentence>
+                      <Subitem3 Num="2">
+                        <Subitem3Title>（ア）</Subitem3Title>
+                        <Subitem3Sentence>
+                          <Column LineBreak="true" Num="1">
+                            <Sentence>基地局</Sentence>
+                          </Column>
+                          <Column Num="2">
+                            <Sentence>（０．１×ｆ×１０－６＋１２）Ｈｚ</Sentence>
+                          </Column>
+                        </Subitem3Sentence>
+                      </Subitem3>
+                      <Subitem3 Num="2">
+                        <Subitem3Title>（イ）</Subitem3Title>
+                        <Subitem3Sentence>
+                          <Column LineBreak="true" Num="1">
+                            <Sentence>陸上移動局</Sentence>
+                          </Column>
+                          <Column Num="2">
+                            <Sentence>（０．１０５×ｆ×１０－６）Ｈｚ</Sentence>
+                          </Column>
+                        </Subitem3Sentence>
                       </Subitem3>
                     </Subitem2>
                   </Subitem1>
@@ -42719,7 +43692,7 @@
       <Item Num="12">
         <ItemTitle>第１２</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1">携帯無線通信の中継を行う無線局、符号分割多元接続方式携帯無線通信を行う無線局及び符号分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・符号分割多重方式携帯無線通信を行う無線局及び時分割・符号分割多重方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・符号分割多元接続方式携帯無線通信を行う無線局及び時分割・符号分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・直交周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、シングルキャリア周波数分割多元接続方式携帯無線通信を行う無線局並びに直交周波数分割多元接続方式携帯無線通信を行う無線局及び直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局の無線設備の占有周波数帯幅の許容値は、第１から第４までの規定にかかわらず、次のとおりとする。</Sentence>
+          <Sentence Num="1">携帯無線通信の中継を行う無線局、符号分割多元接続方式携帯無線通信を行う無線局及び符号分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・符号分割多重方式携帯無線通信を行う無線局及び時分割・符号分割多重方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・符号分割多元接続方式携帯無線通信を行う無線局及び時分割・符号分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・直交周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、時分割・周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局、シングルキャリア周波数分割多元接続方式携帯無線通信を行う無線局、直交周波数分割多元接続方式携帯無線通信を行う無線局及び直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局並びにシングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局の無線設備の占有周波数帯幅の許容値は、第１から第４までの規定にかかわらず、次のとおりとする。</Sentence>
           <Sentence Num="2">この規定の適用を受ける周波数を指定する場合には、占有周波数帯幅の許容値を電波の型式に冠して表示する。</Sentence>
         </ItemSentence>
         <Subitem1 Num="1">
@@ -43367,6 +44340,338 @@
                 <Sentence>１．４ＭＨｚ</Sentence>
               </Column>
             </Subitem2Sentence>
+          </Subitem2>
+        </Subitem1>
+        <Subitem1 Num="6">
+          <Subitem1Title>６</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence>シングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局の無線設備</Sentence>
+          </Subitem1Sentence>
+          <Subitem2 Num="1">
+            <Subitem2Title>（１）</Subitem2Title>
+            <Subitem2Sentence>
+              <Sentence>第４９条の６の１２第１項に規定する基地局の無線設備</Sentence>
+            </Subitem2Sentence>
+            <Subitem3 Num="1">
+              <Subitem3Title>ア</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が１０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>１０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="2">
+              <Subitem3Title>イ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が１５ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>１５ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="3">
+              <Subitem3Title>ウ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が２０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>２０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="4">
+              <Subitem3Title>エ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が３０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>３０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="5">
+              <Subitem3Title>オ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が４０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>４０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="6">
+              <Subitem3Title>カ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が５０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>５０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="7">
+              <Subitem3Title>キ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が６０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>６０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="8">
+              <Subitem3Title>ク</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が７０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>７０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="9">
+              <Subitem3Title>ケ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が８０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>８０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="10">
+              <Subitem3Title>コ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が９０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>９０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="11">
+              <Subitem3Title>サ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が１００ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>１００ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+          </Subitem2>
+          <Subitem2 Num="2">
+            <Subitem2Title>（２）</Subitem2Title>
+            <Subitem2Sentence>
+              <Sentence>第４９条の６の１２第１項に規定する陸上移動局の無線設備</Sentence>
+            </Subitem2Sentence>
+            <Subitem3 Num="1">
+              <Subitem3Title>ア</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が１０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>１０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="2">
+              <Subitem3Title>イ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が１５ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>１５ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="3">
+              <Subitem3Title>ウ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が２０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>２０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="4">
+              <Subitem3Title>エ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が４０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>４０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="5">
+              <Subitem3Title>オ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が５０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>５０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="6">
+              <Subitem3Title>カ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が６０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>６０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="7">
+              <Subitem3Title>キ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が８０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>８０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="8">
+              <Subitem3Title>ク</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が９０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>９０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="9">
+              <Subitem3Title>ケ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が１００ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>１００ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="10">
+              <Subitem3Title>コ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>キャリアアグリゲーション技術を用いて連続する複数の搬送波を送信するもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>総務大臣が別に告示で定める値</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="11">
+              <Subitem3Title>サ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>キャリアアグリゲーション技術を用いて連続しない複数の搬送波を送信するもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>各搬送波のチャネル間隔に応じてアからケまでに定める値</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+          </Subitem2>
+          <Subitem2 Num="3">
+            <Subitem2Title>（３）</Subitem2Title>
+            <Subitem2Sentence>
+              <Sentence>第４９条の６の１２第２項に規定する基地局及び陸上移動局の無線設備</Sentence>
+            </Subitem2Sentence>
+            <Subitem3 Num="1">
+              <Subitem3Title>ア</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が５０ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>５０ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="2">
+              <Subitem3Title>イ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が１００ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>１００ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="3">
+              <Subitem3Title>ウ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が２００ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>２００ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="4">
+              <Subitem3Title>エ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>チャネル間隔が４００ＭＨｚのもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>４００ＭＨｚ</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="5">
+              <Subitem3Title>オ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>陸上移動局の無線設備であつて、キャリアアグリゲーション技術を用いて連続する複数の搬送波を送信するもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>総務大臣が別に告示で定める値</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="6">
+              <Subitem3Title>カ</Subitem3Title>
+              <Subitem3Sentence>
+                <Column Num="1">
+                  <Sentence>陸上移動局の無線設備であつて、キャリアアグリゲーション技術を用いて連続しない複数の搬送波を送信するもの</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>各搬送波のチャネル間隔に応じてアからエまでに定める値</Sentence>
+                </Column>
+              </Subitem3Sentence>
+            </Subitem3>
           </Subitem2>
         </Subitem1>
       </Item>
@@ -47180,7 +48485,7 @@
         <Subitem1 Num="3">
           <Subitem1Title>（３）</Subitem1Title>
           <Subitem1Sentence>
-            <Sentence>時分割・直交周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局の送信設備、時分割・周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局の送信設備、シングルキャリア周波数分割多元接続方式携帯無線通信を行う無線局の送信設備並びに直交周波数分割多元接続方式携帯無線通信を行う無線局及び直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局の送信設備の不要発射の強度の許容値は、２に規定する値にかかわらず、総務大臣が別に告示する値とする。</Sentence>
+            <Sentence>時分割・直交周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局の送信設備、時分割・周波数分割多元接続方式携帯無線通信を行う無線局及び時分割・周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局の送信設備、シングルキャリア周波数分割多元接続方式携帯無線通信を行う無線局の送信設備、直交周波数分割多元接続方式携帯無線通信を行う無線局及び直交周波数分割多元接続方式携帯無線通信設備の試験のための通信等を行う無線局の送信設備並びにシングルキャリア周波数分割多元接続方式又は直交周波数分割多元接続方式携帯無線通信を行う無線局の送信設備の不要発射の強度の許容値は、２に規定する値にかかわらず、総務大臣が別に告示する値とする。</Sentence>
           </Subitem1Sentence>
         </Subitem1>
       </Item>
@@ -48311,7 +49616,7 @@
       <Item Num="30">
         <ItemTitle>３０</ItemTitle>
         <ItemSentence>
-          <Sentence>小電力データ通信システムの無線局の送信設備のうち、２４．７７ＧＨｚ以上２５．２３ＧＨｚ以下の周波数の電波であつて２４．７７ＧＨｚ若しくは２４．７７ＧＨｚに１０ＭＨｚの整数倍を加えたもの又は２７．０２ＧＨｚ以上２７．４６ＧＨｚ以下の周波数の電波であつて２７．０２ＧＨｚ若しくは２７．０２ＧＨｚに１０ＭＨｚの整数倍を加えたものを使用するものの不要発射の強度の許容値は、２に規定する値にかかわらず、次のとおりとする。</Sentence>
+          <Sentence>小電力データ通信システムの無線局の送信設備のうち、２４．７７ＧＨｚ以上２５．２３ＧＨｚ以下の周波数の電波であつて２４．７７ＧＨｚ又は２４．７７ＧＨｚに１０ＭＨｚの整数倍を加えたものを使用するものの不要発射の強度の許容値は、２に規定する値にかかわらず、次のとおりとする。</Sentence>
         </ItemSentence>
         <TableStruct>
           <Table>
@@ -48325,7 +49630,7 @@
             </TableRow>
             <TableRow>
               <TableColumn>
-                <Sentence>２４．７０５ＧＨｚ未満及び２５．２９５ＧＨｚを超え２６．９５５ＧＨｚ未満及び２７．５２５ＧＨｚを超えるもの</Sentence>
+                <Sentence>２４．７０５ＧＨｚ未満及び２５．２９５ＧＨｚを超えるもの</Sentence>
               </TableColumn>
               <TableColumn>
                 <Sentence>任意の１ＭＨｚの帯域幅における平均電力が１μＷ以下</Sentence>
