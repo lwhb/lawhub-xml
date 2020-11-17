@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="201001e80k80m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="207" Year="50">
+<Law DataInfo="200901e01k01m01" Era="Showa" Lang="ja" LawType="CabinetOrder" Num="207" Year="50">
   <LawNum>昭和五十年政令第二百七号</LawNum>
   <LawBody>
     <LawTitle>特別児童扶養手当等の支給に関する法律施行令</LawTitle>
@@ -110,7 +110,7 @@
           <Item Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence>労働者災害補償保険法（昭和二十二年法律第五十号）に基づく障害補償年金及び障害年金</Sentence>
+              <Sentence>労働者災害補償保険法（昭和二十二年法律第五十号）に基づく障害補償年金、複数事業労働者障害年金及び障害年金</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="8">
@@ -2021,7 +2021,7 @@
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第三条の規定による改正後の特別児童扶養手当等の支給に関する法律施行令第二条第一項、第七条（同令第十二条第一項及び特別児童扶養手当等の支給に関する法律施行令の一部を改正する政令（昭和六十年政令第三百二十三号。以下この項において「昭和六十年改正政令」という。）附則第四条において準用する場合を含む。）、第八条第三項（昭和六十年改正政令附則第四条において準用する場合を含む。）及び第十二条第四項の規定は、それぞれ平成三十一年八月以後の月分の特別児童扶養手当等の支給に関する法律の規定による特別児童扶養手当、障害児福祉手当及び特別障害者手当並びに昭和六十年改正法附則第九十七条第一項の規定による福祉手当（以下この項において「特別児童扶養手当等」という。）の支給の制限について適用し、同年七月以前の月分の特別児童扶養手当等の支給の制限については、なお従前の例による。</Sentence>
+            <Sentence>第三条の規定による改正後の特別児童扶養手当等の支給に関する法律施行令第二条第一項、第七条（同令第十二条第一項及び特別児童扶養手当等の支給に関する法律施行令の一部を改正する政令（昭和六十年政令第三百二十三号。以下この項において「昭和六十年改正政令」という。）附則第四条において準用する場合を含む。）、第八条第三項（昭和六十年改正政令附則第四条において準用する場合を含む。）及び第十二条第四項の規定は、それぞれ令和元年八月以後の月分の特別児童扶養手当等の支給に関する法律の規定による特別児童扶養手当、障害児福祉手当及び特別障害者手当並びに昭和六十年改正法附則第九十七条第一項の規定による福祉手当（以下この項において「特別児童扶養手当等」という。）の支給の制限について適用し、同年七月以前の月分の特別児童扶養手当等の支給の制限については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="5">
@@ -2109,7 +2109,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この政令は、平成三十年改正法の施行の日（平成三十二年四月一日）から施行する。</Sentence>
+            <Sentence>この政令は、平成三十年改正法の施行の日（令和二年四月一日）から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2124,7 +2124,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和二年三月三〇日政令第九六号">
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第九六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
         <ParagraphCaption>（施行期日）</ParagraphCaption>
@@ -2138,6 +2138,37 @@
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence>令和二年三月以前の月分の児童扶養手当法による児童扶養手当、特別児童扶養手当等の支給に関する法律による特別児童扶養手当、障害児福祉手当及び特別障害者手当並びに国民年金法等の一部を改正する法律附則第九十七条第一項の規定による福祉手当については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三〇日政令第一〇一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日政令第一三八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、令和二年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年七月八日政令第二一九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、雇用保険法等の一部を改正する法律附則第一条第三号に掲げる規定の施行の日（令和二年九月一日）から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>

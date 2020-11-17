@@ -707,6 +707,12 @@
 </Ruby>引自動車を除く。）であつて車両総重量三・五トン以下のものに備えるものに限る。）</Sentence>
             </ItemSentence>
           </Item>
+          <Item Delete="false" Hide="false" Num="41_4">
+            <ItemTitle>四十一の四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法第四十一条第一項第十三号の灯火装置及び反射器並びに同項第十五号の指示装置の取付装置（二輪自動車に備えるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
           <Item Delete="false" Hide="false" Num="42">
             <ItemTitle>四十二</ItemTitle>
             <ItemSentence>
@@ -1052,7 +1058,7 @@
                   <Sentence WritingMode="vertical">四　第二条第四号の施錠装置</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第六十二号</Sentence>
+                  <Sentence WritingMode="vertical">第六十二号改訂版</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -1119,7 +1125,7 @@
                   <Sentence WritingMode="vertical">五の五　第二条第五号の五の衝突被害軽減制動制御装置</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence WritingMode="vertical">第百五十二号</Sentence>
+                  <Sentence WritingMode="vertical">第百五十二号改訂版</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -1270,7 +1276,7 @@
                   <Sentence WritingMode="vertical">七　第二条第七号の外装</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top" rowspan="3">
-                  <Sentence WritingMode="vertical">第二十六号第三改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第二十六号第四改訂版</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -1650,7 +1656,7 @@
                   <Sentence WritingMode="vertical">三十四の五　第二条第四十号の五の事故自動緊急通報装置</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第百四十四号</Sentence>
+                  <Sentence WritingMode="vertical">第百四十四号改訂版</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -1686,8 +1692,15 @@
                   <Sentence WritingMode="vertical">三十五の三　第二条第四十一号の三の灯火装置及び反射器並びに指示装置の取付装置</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" Valign="top">
-                  <Sentence WritingMode="vertical">第四十八号第五改訂版</Sentence>
-                  <Sentence WritingMode="vertical">第四十八号第六改訂版</Sentence>
+                  <Sentence WritingMode="vertical">第四十八号第七改訂版</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">三十五の四　第二条第四十一号の四の灯火装置及び反射器並びに指示装置の取付装置</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">第五十三号第三改訂版</Sentence>
                 </TableColumn>
               </TableRow>
               <TableRow>
@@ -3117,12 +3130,59 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年九月二五日国土交通省令第七八号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この省令による改正前の装置型式指定規則（以下「旧規則」という。）第五条の表第四号下欄に掲げる規則に基づき行われた認定（令和四年八月三十一日以前に行われたものに限る。）であって、この省令による改正に係る事項の認定は、令和六年八月三十一日までの間は、この省令による改正後の装置型式指定規則（以下「新規則」という。）第五条の表第四号下欄に掲げる規則に基づき行われた認定とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">旧規則第五条の表第四号及び第三十五号の三下欄に掲げる規則に基づき行われた認定であって、この省令による改正に係る事項の認定以外に係るものは、新規則第五条の表第四号及び第三十五号の三下欄に掲げる規則に基づき行われた認定とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">旧規則第五条の表第五号の五下欄に掲げる規則に基づき行われた認定は、新規則第五条の表第五号の五下欄に掲げる規則に基づき行われた認定とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">旧規則第五条の表第七号から第九号まで及び第三十四号の五下欄に掲げる規則に基づき行われた認定（令和四年八月三十一日以前に行われたものに限る。）は、新規則第五条の表第七号から第九号まで及び第三十四号の五下欄に掲げる規則に基づき行われた認定とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">旧規則第五条の表第三十五号の三下欄に掲げる規則に基づき行われた認定（令和四年七月六日以前に行われたものに限る。）であって、この省令による改正に係る事項の認定は、令和六年七月六日までの間は、新規則第五条の表第三十五号の三下欄に掲げる規則に基づき行われた認定とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxStyle>
       <AppdxStyleTitle WritingMode="vertical">第一号様式　（装置型式指定申請書）</AppdxStyleTitle>
       <RelatedArticleNum>（第四条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2008191708_001.pdf"/>
+          <Fig src="./pict/H10F03901000066_2011121311_001.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3131,7 +3191,7 @@
       <RelatedArticleNum>（第四条の二関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2008191708_002.pdf"/>
+          <Fig src="./pict/H10F03901000066_2011121311_002.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3140,7 +3200,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2008191708_003.jpg"/>
+          <Fig src="./pict/H10F03901000066_2011121311_003.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3149,7 +3209,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2008191708_004.pdf"/>
+          <Fig src="./pict/H10F03901000066_2011121311_004.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3158,7 +3218,7 @@
       <RelatedArticleNum>（第六条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2008191708_005.jpg"/>
+          <Fig src="./pict/H10F03901000066_2011121311_005.jpg"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3167,7 +3227,7 @@
       <RelatedArticleNum>（第八条関係）</RelatedArticleNum>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2008191708_006.pdf"/>
+          <Fig src="./pict/H10F03901000066_2011121311_006.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
@@ -3175,7 +3235,7 @@
       <AppdxStyleTitle WritingMode="vertical">第六号様式　（証票）（第十四条関係）</AppdxStyleTitle>
       <StyleStruct>
         <Style>
-          <Fig src="./pict/H10F03901000066_2008191708_007.pdf"/>
+          <Fig src="./pict/H10F03901000066_2011121311_007.pdf"/>
         </Style>
       </StyleStruct>
     </AppdxStyle>
